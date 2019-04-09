@@ -1,0 +1,87 @@
+{
+  "id": 421170873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.38599,27.67836,85.38599,27.67836",
+    "geom:latitude":27.67836,
+    "geom:longitude":85.38599,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "\u1e6chim\u012b"
+    ],
+    "qs:gn_country":"NP",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1282677,
+    "qs:gn_pop":0,
+    "qs:name":"Thimi",
+    "qs:name_adm0":"Nepal",
+    "qs:name_adm1":"Madhyamanchal",
+    "qs:photos":48,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":48,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":267962,
+    "qs:woe_adm0":23424911,
+    "qs:woe_id":2268938,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048853,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282677,
+        "gp:id":2268938,
+        "qs:id":267962
+    },
+    "wof:country":"NP",
+    "wof:created":1459008872,
+    "wof:geomhash":"c125f9c8dbc34f998f324b2261b01458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048853,
+            "locality_id":421170873,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048853,
+            "locality_id":421170873,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":421170873,
+    "wof:lastmodified":1501219289,
+    "wof:name":"Thimi",
+    "wof:parent_id":1092048853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.38599,
+    27.67836,
+    85.38599,
+    27.67836
+],
+  "geometry": {"coordinates":[85.38599000000001,27.67836],"type":"Point"}
+}

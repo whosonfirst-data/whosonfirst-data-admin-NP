@@ -1,0 +1,64 @@
+{
+  "id": 1209156415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.00775,27.38812,87.00775,27.38812",
+    "geom:latitude":27.38812,
+    "geom:longitude":87.00775,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100022.0",
+    "gn:asciiname":"Dobhane",
+    "gn:country_code":"NP",
+    "gn:dem":1629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933085,
+    "gn:latitude":27.38812,
+    "gn:longitude":87.00775,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dobhane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933085
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8b5bf561d5021bfaf180789e9d2bf678",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209156415
+        }
+    ],
+    "wof:id":1209156415,
+    "wof:lastmodified":1536296042,
+    "wof:name":"Dobhane",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.00775,
+    27.38812,
+    87.00775,
+    27.38812
+],
+  "geometry": {"coordinates":[87.00775,27.38812],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310711519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.81365,27.76918,84.81365,27.76918",
+    "geom:latitude":27.76918,
+    "geom:longitude":84.81365,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Rudin",
+    "gn:country_code":"NP",
+    "gn:dem":743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11599747,
+    "gn:latitude":27.76918,
+    "gn:longitude":84.81365,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Rudi\u1e45",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Rudi\u1e45"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11599747
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"176834055696a903c54570bbb73e33cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1310711519,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1310711519,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1310711519,
+    "wof:lastmodified":1537676113,
+    "wof:name":"Rudin",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.81365,
+    27.76918,
+    84.81365,
+    27.76918
+],
+  "geometry": {"coordinates":[84.81365,27.76918],"type":"Point"}
+}

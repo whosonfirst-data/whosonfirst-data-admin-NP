@@ -1,0 +1,78 @@
+{
+  "id": 1310627207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.12761,28.63998,82.12761,28.63998",
+    "geom:latitude":28.63998,
+    "geom:longitude":82.12761,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"61.0",
+    "gn:admin4_code":"610003.0",
+    "gn:asciiname":"Jyula",
+    "gn:country_code":"NP",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7952830,
+    "gn:latitude":28.63998,
+    "gn:longitude":82.12761,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jyula",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092048763,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7952830
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1835e5e7072543e75a33727672e7fb2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048763,
+            "locality_id":1310627207,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048763,
+            "locality_id":1310627207,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1310627207,
+    "wof:lastmodified":1536741306,
+    "wof:name":"Jyula",
+    "wof:parent_id":1092048763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.12761,
+    28.63998,
+    82.12761,
+    28.63998
+],
+  "geometry": {"coordinates":[82.12761,28.63998],"type":"Point"}
+}

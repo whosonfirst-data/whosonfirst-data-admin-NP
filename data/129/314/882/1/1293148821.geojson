@@ -1,0 +1,78 @@
+{
+  "id": 1293148821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.44317,27.19838,87.44317,27.19838",
+    "geom:latitude":27.19838,
+    "geom:longitude":87.44317,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"9",
+    "gn:admin4_code":"90032",
+    "gn:asciiname":"Bhusune",
+    "gn:country_code":"NP",
+    "gn:dem":1998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7990595,
+    "gn:latitude":27.19838,
+    "gn:longitude":87.44317,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhusune",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049597,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7990595
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"52919e10fffb181a60a840a631f64892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1293148821,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1293148821,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1293148821,
+    "wof:lastmodified":1536778949,
+    "wof:name":"Bhusune",
+    "wof:parent_id":1092049597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.44317,
+    27.19838,
+    87.44317,
+    27.19838
+],
+  "geometry": {"coordinates":[87.44316999999999,27.19838],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310138579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.9213,28.93921,80.9213,28.93921",
+    "geom:latitude":28.93921,
+    "geom:longitude":80.9213,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710025.0",
+    "gn:asciiname":"Nawalpani",
+    "gn:country_code":"NP",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7957036,
+    "gn:latitude":28.93921,
+    "gn:longitude":80.9213,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nawalpani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7957036
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"929c3b60020ec4c9cb5c8ef093b7c62c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1310138579,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1310138579,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1310138579,
+    "wof:lastmodified":1536949120,
+    "wof:name":"Nawalpani",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.9213,
+    28.93921,
+    80.9213,
+    28.93921
+],
+  "geometry": {"coordinates":[80.9213,28.93921],"type":"Point"}
+}

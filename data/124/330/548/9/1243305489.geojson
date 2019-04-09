@@ -1,0 +1,78 @@
+{
+  "id": 1243305489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.27309,27.99583,84.27309,27.99583",
+    "geom:latitude":27.99583,
+    "geom:longitude":84.27309,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380045.0",
+    "gn:asciiname":"Dihikuna",
+    "gn:country_code":"NP",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8004882,
+    "gn:latitude":27.99583,
+    "gn:longitude":84.27309,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dihikuna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8004882
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a9790d2b960d207fb480e3f10e69c7c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1243305489,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1243305489,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1243305489,
+    "wof:lastmodified":1537008018,
+    "wof:name":"Dihikuna",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.27309,
+    27.99583,
+    84.27309,
+    27.99583
+],
+  "geometry": {"coordinates":[84.27309,27.99583],"type":"Point"}
+}

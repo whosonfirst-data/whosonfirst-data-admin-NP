@@ -1,0 +1,78 @@
+{
+  "id": 1310343323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.30866,27.09085,86.30866,27.09085",
+    "geom:latitude":27.09085,
+    "geom:longitude":86.30866,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200002",
+    "gn:asciiname":"Lekdanda",
+    "gn:country_code":"NP",
+    "gn:dem":1522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7992377,
+    "gn:latitude":27.09085,
+    "gn:longitude":86.30866,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lekdanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049679,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7992377
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"034551dff36b435988e645da113e57a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1310343323,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1310343323,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1310343323,
+    "wof:lastmodified":1536653313,
+    "wof:name":"Lekdanda",
+    "wof:parent_id":1092049679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.30866,
+    27.09085,
+    86.30866,
+    27.09085
+],
+  "geometry": {"coordinates":[86.30866,27.09085],"type":"Point"}
+}

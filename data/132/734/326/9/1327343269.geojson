@@ -1,0 +1,78 @@
+{
+  "id": 1327343269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.60329,26.83867,87.60329,26.83867",
+    "geom:latitude":26.83867,
+    "geom:longitude":87.60329,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Selelin",
+    "gn:country_code":"NP",
+    "gn:dem":1664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11606490,
+    "gn:latitude":26.83867,
+    "gn:longitude":87.60329,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Seleli\u1e45",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Seleli\u1e45"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092048303,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11606490
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f869860ecfb7767a93e49091aecc7459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1327343269,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1327343269,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1327343269,
+    "wof:lastmodified":1537676126,
+    "wof:name":"Selelin",
+    "wof:parent_id":1092048303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.60329,
+    26.83867,
+    87.60329,
+    26.83867
+],
+  "geometry": {"coordinates":[87.60329,26.83867],"type":"Point"}
+}

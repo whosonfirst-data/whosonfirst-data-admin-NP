@@ -1,0 +1,64 @@
+{
+  "id": 1209152519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.74711,26.73093,85.74711,26.73093",
+    "geom:latitude":26.73093,
+    "geom:longitude":85.74711,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"18",
+    "gn:admin4_code":"180047",
+    "gn:asciiname":"Manara",
+    "gn:country_code":"NP",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7967522,
+    "gn:latitude":26.73093,
+    "gn:longitude":85.74711,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Manara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7967522
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"98a6e356b40dae810da68a3137a75d3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209152519
+        }
+    ],
+    "wof:id":1209152519,
+    "wof:lastmodified":1536296161,
+    "wof:name":"Manara",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.74710999999998,
+    26.73093,
+    85.74710999999998,
+    26.73093
+],
+  "geometry": {"coordinates":[85.74710999999998,26.73093],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276902989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.51506,29.69813,80.51506,29.69813",
+    "geom:latitude":29.69813,
+    "geom:longitude":80.51506,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"75.0",
+    "gn:admin4_code":"750002.0",
+    "gn:asciiname":"Mauwapani",
+    "gn:country_code":"NP",
+    "gn:dem":1590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7940184,
+    "gn:latitude":29.69813,
+    "gn:longitude":80.51506,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mauwapani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050347,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7940184
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3aa95589b1b17be308125f8fab7546cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050347,
+            "locality_id":1276902989,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050347,
+            "locality_id":1276902989,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1276902989,
+    "wof:lastmodified":1537009650,
+    "wof:name":"Mauwapani",
+    "wof:parent_id":1092050347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.51505999999998,
+    29.69813,
+    80.51505999999998,
+    29.69813
+],
+  "geometry": {"coordinates":[80.51505999999998,29.69813],"type":"Point"}
+}

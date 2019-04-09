@@ -1,0 +1,75 @@
+{
+  "id": 1293018733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.33637,27.73645,85.33637,27.73645",
+    "geom:latitude":27.73645,
+    "geom:longitude":85.33637,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Maharajganj",
+    "gn:country_code":"NP",
+    "gn:dem":1343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10276897,
+    "gn:latitude":27.73645,
+    "gn:longitude":85.33637,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Mah\u0101r\u0101jga\u00f1j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092048931,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10276897
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bfa5e8758f7d9754a9583ca1c66550da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":1293018733,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":1293018733,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1293018733,
+    "wof:lastmodified":1536965619,
+    "wof:name":"Maharajganj",
+    "wof:parent_id":1092048931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.33637,
+    27.73645,
+    85.33637,
+    27.73645
+],
+  "geometry": {"coordinates":[85.33637,27.73645],"type":"Point"}
+}

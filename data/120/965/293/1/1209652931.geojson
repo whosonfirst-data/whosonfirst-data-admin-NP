@@ -1,0 +1,64 @@
+{
+  "id": 1209652931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.47721,28.04171,83.47721,28.04171",
+    "geom:latitude":28.04171,
+    "geom:longitude":83.47721,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"46.0",
+    "gn:admin4_code":"460039.0",
+    "gn:asciiname":"Pamphuka",
+    "gn:country_code":"NP",
+    "gn:dem":1868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7950248,
+    "gn:latitude":28.04171,
+    "gn:longitude":83.47721,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pamphuka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7950248
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e6d105d3517849a525f4f23401d9d311",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209652931
+        }
+    ],
+    "wof:id":1209652931,
+    "wof:lastmodified":1536280523,
+    "wof:name":"Pamphuka",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.47721,
+    28.04171,
+    83.47721,
+    28.04171
+],
+  "geometry": {"coordinates":[83.47721,28.04171],"type":"Point"}
+}

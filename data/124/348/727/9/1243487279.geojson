@@ -1,0 +1,78 @@
+{
+  "id": 1243487279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3497,28.70481,80.3497,28.70481",
+    "geom:latitude":28.70481,
+    "geom:longitude":80.3497,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"72.0",
+    "gn:admin4_code":"720015.0",
+    "gn:asciiname":"Baraiya",
+    "gn:country_code":"NP",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7959025,
+    "gn:latitude":28.70481,
+    "gn:longitude":80.3497,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Baraiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048227,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7959025
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7c4af1f7221c7e27387d9779baf4895c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1243487279,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1243487279,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1243487279,
+    "wof:lastmodified":1536746433,
+    "wof:name":"Baraiya",
+    "wof:parent_id":1092048227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3497,
+    28.70481,
+    80.3497,
+    28.70481
+],
+  "geometry": {"coordinates":[80.3497,28.70481],"type":"Point"}
+}

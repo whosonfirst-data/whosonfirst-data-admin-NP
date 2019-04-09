@@ -1,0 +1,78 @@
+{
+  "id": 1260329205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.04548,28.11522,84.04548,28.11522",
+    "geom:latitude":28.11522,
+    "geom:longitude":84.04548,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400005.0",
+    "gn:asciiname":"Biharthok",
+    "gn:country_code":"NP",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7960302,
+    "gn:latitude":28.11522,
+    "gn:longitude":84.04548,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Biharthok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092049331,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7960302
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"87e0367fb08e3676f66abf45b223cff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1260329205,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1260329205,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1260329205,
+    "wof:lastmodified":1536650394,
+    "wof:name":"Biharthok",
+    "wof:parent_id":1092049331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.04548,
+    28.11522,
+    84.04548,
+    28.11522
+],
+  "geometry": {"coordinates":[84.04548,28.11522],"type":"Point"}
+}

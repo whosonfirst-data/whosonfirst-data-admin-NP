@@ -1,0 +1,64 @@
+{
+  "id": 1209241175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.58474,29.45074,80.58474,29.45074",
+    "geom:latitude":29.45074,
+    "geom:longitude":80.58474,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740058",
+    "gn:asciiname":"Dhantoli",
+    "gn:country_code":"NP",
+    "gn:dem":1575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7984869,
+    "gn:latitude":29.45074,
+    "gn:longitude":80.58474,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhantoli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7984869
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5a01f8e148fe659c05224c149f8f01e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209241175
+        }
+    ],
+    "wof:id":1209241175,
+    "wof:lastmodified":1536293315,
+    "wof:name":"Dhantoli",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.58474,
+    29.450740000000003,
+    80.58474,
+    29.450740000000003
+],
+  "geometry": {"coordinates":[80.58474,29.45074],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343679845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.89889,28.93667,82.89889,28.93667",
+    "geom:latitude":28.93667,
+    "geom:longitude":82.89889,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dunai",
+    "gn:country_code":"NP",
+    "gn:dem":2224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6254846,
+    "gn:latitude":28.93667,
+    "gn:longitude":82.89889,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Dunai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050349,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6254846,
+        "wk:page":"Dunai%2C_Nepal"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d5b22bc33c4132109ce459ae1917cf5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1343679845,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1343679845,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1343679845,
+    "wof:lastmodified":1537570145,
+    "wof:name":"Dunai",
+    "wof:parent_id":1092050349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.89889000000002,
+    28.93667,
+    82.89889000000002,
+    28.93667
+],
+  "geometry": {"coordinates":[82.89889000000002,28.93667],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276457911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.29967,28.25987,85.29967,28.25987",
+    "geom:latitude":28.25987,
+    "geom:longitude":85.29967,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pagarchen",
+    "gn:country_code":"NP",
+    "gn:dem":4032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10315225,
+    "gn:latitude":28.25987,
+    "gn:longitude":85.29967,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"P\u0101garchen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "P\u0101garchen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048409,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10315225
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a28a13091233091e5d82b2d7f627569c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048409,
+            "locality_id":1276457911,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048409,
+            "locality_id":1276457911,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1276457911,
+    "wof:lastmodified":1537676077,
+    "wof:name":"Pagarchen",
+    "wof:parent_id":1092048409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.29966999999998,
+    28.25987000000001,
+    85.29966999999998,
+    28.25987000000001
+],
+  "geometry": {"coordinates":[85.29966999999998,28.25987000000001],"type":"Point"}
+}

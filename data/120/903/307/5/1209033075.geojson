@@ -1,0 +1,64 @@
+{
+  "id": 1209033075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.48512,28.59152,82.48512,28.59152",
+    "geom:latitude":28.59152,
+    "geom:longitude":82.48512,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"54",
+    "gn:admin4_code":"540005",
+    "gn:asciiname":"Chorkholagaun",
+    "gn:country_code":"NP",
+    "gn:dem":1597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7985111,
+    "gn:latitude":28.59152,
+    "gn:longitude":82.48512,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chorkholagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7985111
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"41f1eea2eb0af4dfb092664c36004180",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209033075
+        }
+    ],
+    "wof:id":1209033075,
+    "wof:lastmodified":1536299788,
+    "wof:name":"Chorkholagaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.48512,
+    28.591520000000006,
+    82.48512,
+    28.591520000000006
+],
+  "geometry": {"coordinates":[82.48511999999999,28.59152000000001],"type":"Point"}
+}

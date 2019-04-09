@@ -1,0 +1,78 @@
+{
+  "id": 1259525447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.89568,26.93615,86.89568,26.93615",
+    "geom:latitude":26.93615,
+    "geom:longitude":86.89568,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"13.0",
+    "gn:admin4_code":"130022.0",
+    "gn:asciiname":"Pauwa",
+    "gn:country_code":"NP",
+    "gn:dem":871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7964363,
+    "gn:latitude":26.93615,
+    "gn:longitude":86.89568,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pauwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050841,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7964363
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ba4c9a4f5be569b18ce0f5e9a6c4c9e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1259525447,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1259525447,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1259525447,
+    "wof:lastmodified":1536798602,
+    "wof:name":"Pauwa",
+    "wof:parent_id":1092050841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.89568,
+    26.93615,
+    86.89568,
+    26.93615
+],
+  "geometry": {"coordinates":[86.89568,26.93615],"type":"Point"}
+}

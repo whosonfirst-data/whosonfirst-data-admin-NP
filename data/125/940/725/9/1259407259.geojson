@@ -1,0 +1,70 @@
+{
+  "id": 1259407259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.27899,29.45831,80.27899,29.45831",
+    "geom:latitude":29.45831,
+    "geom:longitude":80.27899,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740043",
+    "gn:asciiname":"Parkoti",
+    "gn:country_code":"NP",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7978258,
+    "gn:latitude":29.45831,
+    "gn:longitude":80.27899,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Parkoti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632469,
+        85672209,
+        890503669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7978258
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4845c5dab66299b0dc9f823b51427a3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890503669,
+            "locality_id":1259407259,
+            "region_id":85672209
+        }
+    ],
+    "wof:id":1259407259,
+    "wof:lastmodified":1536968080,
+    "wof:name":"Parkoti",
+    "wof:parent_id":890503669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.27899000000002,
+    29.45831,
+    80.27899000000002,
+    29.45831
+],
+  "geometry": {"coordinates":[80.27899000000002,29.45831],"type":"Point"}
+}

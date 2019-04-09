@@ -1,0 +1,78 @@
+{
+  "id": 1343589397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.51052,29.704,80.51052,29.704",
+    "geom:latitude":29.704,
+    "geom:longitude":80.51052,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"75.0",
+    "gn:admin4_code":"750017.0",
+    "gn:asciiname":"Mauribhita",
+    "gn:country_code":"NP",
+    "gn:dem":1698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7940480,
+    "gn:latitude":29.704,
+    "gn:longitude":80.51052,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mauribhita",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050347,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7940480
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"09bdbef13ca8f7ac7cb224920ef1682c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050347,
+            "locality_id":1343589397,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050347,
+            "locality_id":1343589397,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1343589397,
+    "wof:lastmodified":1537055377,
+    "wof:name":"Mauribhita",
+    "wof:parent_id":1092050347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.51052,
+    29.704,
+    80.51052,
+    29.704
+],
+  "geometry": {"coordinates":[80.51052,29.704],"type":"Point"}
+}

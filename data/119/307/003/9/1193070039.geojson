@@ -1,0 +1,78 @@
+{
+  "id": 1193070039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.01792,27.06425,85.01792,27.06425",
+    "geom:latitude":27.06425,
+    "geom:longitude":85.01792,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"330023.0",
+    "gn:asciiname":"Jhitkaiya",
+    "gn:country_code":"NP",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008707,
+    "gn:latitude":27.06425,
+    "gn:longitude":85.01792,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jhitkaiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092048051,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008707
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c0df8902e205202a33749d030e5a16b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1193070039,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1193070039,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1193070039,
+    "wof:lastmodified":1536368667,
+    "wof:name":"Jhitkaiya",
+    "wof:parent_id":1092048051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.01791999999998,
+    27.06425,
+    85.01791999999998,
+    27.06425
+],
+  "geometry": {"coordinates":[85.01791999999998,27.06425],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1326772285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.02612,28.10796,84.02612,28.10796",
+    "geom:latitude":28.10796,
+    "geom:longitude":84.02612,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400005.0",
+    "gn:asciiname":"Chhahara",
+    "gn:country_code":"NP",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7960318,
+    "gn:latitude":28.10796,
+    "gn:longitude":84.02612,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chhahara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092049331,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7960318
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9c7c94db243309309069810c457c70c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1326772285,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1326772285,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1326772285,
+    "wof:lastmodified":1536636731,
+    "wof:name":"Chhahara",
+    "wof:parent_id":1092049331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.02611999999998,
+    28.10796,
+    84.02611999999998,
+    28.10796
+],
+  "geometry": {"coordinates":[84.02611999999998,28.10796],"type":"Point"}
+}

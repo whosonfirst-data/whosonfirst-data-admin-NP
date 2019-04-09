@@ -1,0 +1,78 @@
+{
+  "id": 1243496397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.8337,27.15003,84.8337,27.15003",
+    "geom:latitude":27.15003,
+    "geom:longitude":84.8337,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"34",
+    "gn:admin4_code":"340067",
+    "gn:asciiname":"Jamuniya",
+    "gn:country_code":"NP",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7979516,
+    "gn:latitude":27.15003,
+    "gn:longitude":84.8337,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jamuniya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092050453,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7979516
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c099ec02fcf70c4f92919574c681a6f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050453,
+            "locality_id":1243496397,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050453,
+            "locality_id":1243496397,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1243496397,
+    "wof:lastmodified":1536733799,
+    "wof:name":"Jamuniya",
+    "wof:parent_id":1092050453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.8337,
+    27.15003,
+    84.8337,
+    27.15003
+],
+  "geometry": {"coordinates":[84.83369999999999,27.15003],"type":"Point"}
+}

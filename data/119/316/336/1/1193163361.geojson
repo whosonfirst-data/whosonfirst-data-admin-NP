@@ -1,0 +1,78 @@
+{
+  "id": 1193163361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.91591,28.64823,80.91591,28.64823",
+    "geom:latitude":28.64823,
+    "geom:longitude":80.91591,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710029.0",
+    "gn:asciiname":"Saraiya",
+    "gn:country_code":"NP",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7957225,
+    "gn:latitude":28.64823,
+    "gn:longitude":80.91591,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Saraiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7957225
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5e3d156e0dbae31aa7545b35e4e499de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1193163361,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1193163361,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1193163361,
+    "wof:lastmodified":1536366059,
+    "wof:name":"Saraiya",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.91591,
+    28.64823,
+    80.91591,
+    28.64823
+],
+  "geometry": {"coordinates":[80.91591,28.64823],"type":"Point"}
+}

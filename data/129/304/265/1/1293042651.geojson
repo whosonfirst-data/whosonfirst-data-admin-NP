@@ -1,0 +1,78 @@
+{
+  "id": 1293042651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.12833,27.79598,84.12833,27.79598",
+    "geom:latitude":27.79598,
+    "geom:longitude":84.12833,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"48",
+    "gn:admin4_code":"480030",
+    "gn:asciiname":"Raikot",
+    "gn:country_code":"NP",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7973023,
+    "gn:latitude":27.79598,
+    "gn:longitude":84.12833,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Raikot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050413,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7973023
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"48937819467751a67d965bd4f9b5e21e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050413,
+            "locality_id":1293042651,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050413,
+            "locality_id":1293042651,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293042651,
+    "wof:lastmodified":1536932173,
+    "wof:name":"Raikot",
+    "wof:parent_id":1092050413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.12833,
+    27.79598,
+    84.12833,
+    27.79598
+],
+  "geometry": {"coordinates":[84.12833000000001,27.79598],"type":"Point"}
+}

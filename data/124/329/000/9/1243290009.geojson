@@ -1,0 +1,78 @@
+{
+  "id": 1243290009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5867,29.45912,80.5867,29.45912",
+    "geom:latitude":29.45912,
+    "geom:longitude":80.5867,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740044",
+    "gn:asciiname":"Kaneda",
+    "gn:country_code":"NP",
+    "gn:dem":1826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7978711,
+    "gn:latitude":29.45912,
+    "gn:longitude":80.5867,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kaneda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050255,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7978711
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"883fde0a1305afb2b424e0cd976b1656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1243290009,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1243290009,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1243290009,
+    "wof:lastmodified":1537029877,
+    "wof:name":"Kaneda",
+    "wof:parent_id":1092050255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5867,
+    29.45912,
+    80.5867,
+    29.45912
+],
+  "geometry": {"coordinates":[80.58669999999999,29.45912],"type":"Point"}
+}

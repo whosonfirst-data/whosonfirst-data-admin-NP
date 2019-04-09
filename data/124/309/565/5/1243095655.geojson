@@ -1,0 +1,78 @@
+{
+  "id": 1243095655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.20317,29.55568,81.20317,29.55568",
+    "geom:latitude":29.55568,
+    "geom:longitude":81.20317,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680006",
+    "gn:asciiname":"Mudtain",
+    "gn:country_code":"NP",
+    "gn:dem":1264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7987903,
+    "gn:latitude":29.55568,
+    "gn:longitude":81.20317,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mudtain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048571,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7987903
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e229618f1f4f152eb32b28e326b2e67b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1243095655,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1243095655,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1243095655,
+    "wof:lastmodified":1536813608,
+    "wof:name":"Mudtain",
+    "wof:parent_id":1092048571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.20317,
+    29.55568,
+    81.20317,
+    29.55568
+],
+  "geometry": {"coordinates":[81.20317,29.55568],"type":"Point"}
+}

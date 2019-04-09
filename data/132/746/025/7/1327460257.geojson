@@ -1,0 +1,78 @@
+{
+  "id": 1327460257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.88957,30.12002,80.88957,30.12002",
+    "geom:latitude":30.12002,
+    "geom:longitude":80.88957,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"75.0",
+    "gn:admin4_code":"750004.0",
+    "gn:asciiname":"Satala",
+    "gn:country_code":"NP",
+    "gn:dem":2885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7940222,
+    "gn:latitude":30.12002,
+    "gn:longitude":80.88957,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Satala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050347,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7940222
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6f35fd4060b1adaaee7aba00bf033973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050347,
+            "locality_id":1327460257,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050347,
+            "locality_id":1327460257,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1327460257,
+    "wof:lastmodified":1536639714,
+    "wof:name":"Satala",
+    "wof:parent_id":1092050347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.88956999999998,
+    30.12002,
+    80.88956999999998,
+    30.12002
+],
+  "geometry": {"coordinates":[80.88956999999998,30.12002],"type":"Point"}
+}

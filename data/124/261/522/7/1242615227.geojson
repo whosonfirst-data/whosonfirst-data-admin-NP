@@ -1,0 +1,78 @@
+{
+  "id": 1242615227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.97105,27.06759,87.97105,27.06759",
+    "geom:latitude":27.06759,
+    "geom:longitude":87.97105,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30024.0",
+    "gn:asciiname":"Harese",
+    "gn:country_code":"NP",
+    "gn:dem":1959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7952108,
+    "gn:latitude":27.06759,
+    "gn:longitude":87.97105,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Harese",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7952108
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8edbbfdd8d4fc607095c27e8919fa8fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1242615227,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1242615227,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1242615227,
+    "wof:lastmodified":1537008702,
+    "wof:name":"Harese",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.97105,
+    27.06759000000001,
+    87.97105,
+    27.06759000000001
+],
+  "geometry": {"coordinates":[87.97105000000001,27.06759000000001],"type":"Point"}
+}

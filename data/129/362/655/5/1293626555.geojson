@@ -1,0 +1,78 @@
+{
+  "id": 1293626555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.81037,28.05709,83.81037,28.05709",
+    "geom:latitude":28.05709,
+    "geom:longitude":83.81037,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390019.0",
+    "gn:asciiname":"Bhaluwadanda",
+    "gn:country_code":"NP",
+    "gn:dem":852,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001055,
+    "gn:latitude":28.05709,
+    "gn:longitude":83.81037,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhaluwadanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001055
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"221b833bbf27be70ea0a8a5bedb65fa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1293626555,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1293626555,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293626555,
+    "wof:lastmodified":1537080494,
+    "wof:name":"Bhaluwadanda",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.81036999999998,
+    28.05709,
+    83.81036999999998,
+    28.05709
+],
+  "geometry": {"coordinates":[83.81036999999998,28.05709],"type":"Point"}
+}

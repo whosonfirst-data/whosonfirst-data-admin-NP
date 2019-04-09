@@ -1,0 +1,78 @@
+{
+  "id": 1226672407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.48995,28.79503,82.48995,28.79503",
+    "geom:latitude":28.79503,
+    "geom:longitude":82.48995,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"54",
+    "gn:admin4_code":"540041",
+    "gn:asciiname":"Syala",
+    "gn:country_code":"NP",
+    "gn:dem":2008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7986636,
+    "gn:latitude":28.79503,
+    "gn:longitude":82.48995,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Syala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049495,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7986636
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d1b4d6977fdd6b35fae57244a0e192ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1226672407,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1226672407,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1226672407,
+    "wof:lastmodified":1536820340,
+    "wof:name":"Syala",
+    "wof:parent_id":1092049495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.48995,
+    28.79503,
+    82.48995,
+    28.79503
+],
+  "geometry": {"coordinates":[82.48994999999999,28.79503],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293332145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.79528,28.01781,83.79528,28.01781",
+    "geom:latitude":28.01781,
+    "geom:longitude":83.79528,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390019.0",
+    "gn:asciiname":"Mandus",
+    "gn:country_code":"NP",
+    "gn:dem":1208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001039,
+    "gn:latitude":28.01781,
+    "gn:longitude":83.79528,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mandus",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001039
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8290cecf7ffe8975c63b32999e54c48f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1293332145,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1293332145,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293332145,
+    "wof:lastmodified":1537010251,
+    "wof:name":"Mandus",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.79528,
+    28.01781,
+    83.79528,
+    28.01781
+],
+  "geometry": {"coordinates":[83.79528000000001,28.01781],"type":"Point"}
+}

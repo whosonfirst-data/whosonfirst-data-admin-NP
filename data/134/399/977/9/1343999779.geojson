@@ -1,0 +1,78 @@
+{
+  "id": 1343999779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.66814,27.93252,84.66814,27.93252",
+    "geom:latitude":27.93252,
+    "geom:longitude":84.66814,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360025.0",
+    "gn:asciiname":"Gurunggaun",
+    "gn:country_code":"NP",
+    "gn:dem":1389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7948456,
+    "gn:latitude":27.93252,
+    "gn:longitude":84.66814,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gurunggaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7948456
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bb6b1d9106fe23efcfdc4b924b8fcac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1343999779,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1343999779,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1343999779,
+    "wof:lastmodified":1536963049,
+    "wof:name":"Gurunggaun",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.66814000000002,
+    27.93252,
+    84.66814000000002,
+    27.93252
+],
+  "geometry": {"coordinates":[84.66814000000002,27.93252],"type":"Point"}
+}

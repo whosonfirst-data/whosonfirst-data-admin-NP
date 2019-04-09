@@ -1,0 +1,64 @@
+{
+  "id": 1209156179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.67776,28.14425,83.67776,28.14425",
+    "geom:latitude":28.14425,
+    "geom:longitude":83.67776,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"44",
+    "gn:admin4_code":"440050",
+    "gn:asciiname":"Bhagini",
+    "gn:country_code":"NP",
+    "gn:dem":1554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7979055,
+    "gn:latitude":28.14425,
+    "gn:longitude":83.67776,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhagini",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7979055
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"dcdb0792b61bf43239c7705d11a63512",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209156179
+        }
+    ],
+    "wof:id":1209156179,
+    "wof:lastmodified":1536296047,
+    "wof:name":"Bhagini",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.67775999999998,
+    28.14425,
+    83.67775999999998,
+    28.14425
+],
+  "geometry": {"coordinates":[83.67775999999998,28.14425],"type":"Point"}
+}

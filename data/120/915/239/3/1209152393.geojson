@@ -1,0 +1,64 @@
+{
+  "id": 1209152393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.09848,27.39186,87.09848,27.39186",
+    "geom:latitude":27.39186,
+    "geom:longitude":87.09848,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100043.0",
+    "gn:asciiname":"Alainche",
+    "gn:country_code":"NP",
+    "gn:dem":1030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933610,
+    "gn:latitude":27.39186,
+    "gn:longitude":87.09848,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Alainche",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933610
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a548091454606c040311620929060ea7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209152393
+        }
+    ],
+    "wof:id":1209152393,
+    "wof:lastmodified":1536296163,
+    "wof:name":"Alainche",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.09848000000002,
+    27.39186,
+    87.09848000000002,
+    27.39186
+],
+  "geometry": {"coordinates":[87.09848000000002,27.39186],"type":"Point"}
+}

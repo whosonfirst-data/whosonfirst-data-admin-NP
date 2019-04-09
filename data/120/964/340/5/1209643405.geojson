@@ -1,0 +1,64 @@
+{
+  "id": 1209643405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.58694,29.47116,80.58694,29.47116",
+    "geom:latitude":29.47116,
+    "geom:longitude":80.58694,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740022",
+    "gn:asciiname":"Kannaula",
+    "gn:country_code":"NP",
+    "gn:dem":1711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7973391,
+    "gn:latitude":29.47116,
+    "gn:longitude":80.58694,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kannaula",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7973391
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e9a4b5c626d4f67c44cc015ab7c43cd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209643405
+        }
+    ],
+    "wof:id":1209643405,
+    "wof:lastmodified":1536280812,
+    "wof:name":"Kannaula",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.58694,
+    29.47116,
+    80.58694,
+    29.47116
+],
+  "geometry": {"coordinates":[80.58694,29.47116],"type":"Point"}
+}

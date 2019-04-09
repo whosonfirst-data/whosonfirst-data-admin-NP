@@ -1,0 +1,65 @@
+{
+  "id": 1209115815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.88974,27.24914,85.88974,27.24914",
+    "geom:latitude":27.24914,
+    "geom:longitude":85.88974,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Khattar",
+    "gn:country_code":"NP",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10323515,
+    "gn:latitude":27.24914,
+    "gn:longitude":85.88974,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Kha\u1e6d\u1e6d\u0101\u0303r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kha\u1e6d\u1e6d\u0101\u0303r",
+        "Kha\u1e6d\u1e6d\u0101nr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10323515
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9cf788a31aa9bc982f3810414169d475",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209115815
+        }
+    ],
+    "wof:id":1209115815,
+    "wof:lastmodified":1537676093,
+    "wof:name":"Khattar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.88974,
+    27.24914,
+    85.88974,
+    27.24914
+],
+  "geometry": {"coordinates":[85.88974,27.24914],"type":"Point"}
+}

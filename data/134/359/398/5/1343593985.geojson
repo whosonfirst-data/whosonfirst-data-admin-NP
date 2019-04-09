@@ -1,0 +1,78 @@
+{
+  "id": 1343593985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.78598,28.58948,80.78598,28.58948",
+    "geom:latitude":28.58948,
+    "geom:longitude":80.78598,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710016.0",
+    "gn:asciiname":"Muda",
+    "gn:country_code":"NP",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956675,
+    "gn:latitude":28.58948,
+    "gn:longitude":80.78598,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Muda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956675
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"00bc5e0212c3a74f1bcd1cce8648eb1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1343593985,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1343593985,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1343593985,
+    "wof:lastmodified":1537048960,
+    "wof:name":"Muda",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.78598000000002,
+    28.58948,
+    80.78598000000002,
+    28.58948
+],
+  "geometry": {"coordinates":[80.78598000000002,28.58948],"type":"Point"}
+}

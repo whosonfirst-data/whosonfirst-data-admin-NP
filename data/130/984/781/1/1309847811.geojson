@@ -1,0 +1,78 @@
+{
+  "id": 1309847811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.3579,27.14657,87.3579,27.14657",
+    "geom:latitude":27.14657,
+    "geom:longitude":87.3579,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"7.0",
+    "gn:admin4_code":"70025.0",
+    "gn:asciiname":"Chhyalung",
+    "gn:country_code":"NP",
+    "gn:dem":1726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7943303,
+    "gn:latitude":27.14657,
+    "gn:longitude":87.3579,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chhyalung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049207,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7943303
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a3d447b8649f5ec26eda1bbb2112a0c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049207,
+            "locality_id":1309847811,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049207,
+            "locality_id":1309847811,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1309847811,
+    "wof:lastmodified":1536869455,
+    "wof:name":"Chhyalung",
+    "wof:parent_id":1092049207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.3579,
+    27.14657,
+    87.3579,
+    27.14657
+],
+  "geometry": {"coordinates":[87.3579,27.14657],"type":"Point"}
+}

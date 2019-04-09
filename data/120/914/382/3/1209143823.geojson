@@ -1,0 +1,64 @@
+{
+  "id": 1209143823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.04178,26.96375,85.04178,26.96375",
+    "geom:latitude":26.96375,
+    "geom:longitude":85.04178,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"330096.0",
+    "gn:asciiname":"Sisahaniya",
+    "gn:country_code":"NP",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009232,
+    "gn:latitude":26.96375,
+    "gn:longitude":85.04178,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sisahaniya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009232
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"446c0e542ec46dc55a30bf12ea25396c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209143823
+        }
+    ],
+    "wof:id":1209143823,
+    "wof:lastmodified":1536296423,
+    "wof:name":"Sisahaniya",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.04178,
+    26.96375,
+    85.04178,
+    26.96375
+],
+  "geometry": {"coordinates":[85.04178,26.96375],"type":"Point"}
+}

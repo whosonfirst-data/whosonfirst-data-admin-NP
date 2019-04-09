@@ -1,0 +1,78 @@
+{
+  "id": 1310549531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.41998,26.54427,87.41998,26.54427",
+    "geom:latitude":26.54427,
+    "geom:longitude":87.41998,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"5",
+    "gn:admin4_code":"50004",
+    "gn:asciiname":"Jamuwahatkhola",
+    "gn:country_code":"NP",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7969653,
+    "gn:latitude":26.54427,
+    "gn:longitude":87.41998,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jamuwahatkhola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092048303,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7969653
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fbee06e408c98159a90491dcd585836e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1310549531,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1310549531,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1310549531,
+    "wof:lastmodified":1536852452,
+    "wof:name":"Jamuwahatkhola",
+    "wof:parent_id":1092048303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.41998000000002,
+    26.54427,
+    87.41998000000002,
+    26.54427
+],
+  "geometry": {"coordinates":[87.41998000000002,26.54427],"type":"Point"}
+}

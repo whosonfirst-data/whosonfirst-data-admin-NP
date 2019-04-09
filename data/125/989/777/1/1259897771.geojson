@@ -1,0 +1,81 @@
+{
+  "id": 1259897771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.23032,27.23536,86.23032,27.23536",
+    "geom:latitude":27.23536,
+    "geom:longitude":86.23032,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bajagau",
+    "gn:country_code":"NP",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10328711,
+    "gn:latitude":27.23536,
+    "gn:longitude":86.23032,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"B\u0101\u0303j\u0101g\u0101\u0169",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "B\u0101\u0303j\u0101g\u0101\u0169"
+    ],
+    "name:nep_x_variant":[
+        "B\u0101nj\u0101g\u0101un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049679,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10328711
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ff48dea0cdc12bed0280a830a31bceb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1259897771,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1259897771,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1259897771,
+    "wof:lastmodified":1537676098,
+    "wof:name":"Bajagau",
+    "wof:parent_id":1092049679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.23031999999998,
+    27.23536,
+    86.23031999999998,
+    27.23536
+],
+  "geometry": {"coordinates":[86.23031999999998,27.23536],"type":"Point"}
+}

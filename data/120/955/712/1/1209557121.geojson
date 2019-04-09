@@ -1,0 +1,64 @@
+{
+  "id": 1209557121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.05851,28.02064,84.05851,28.02064",
+    "geom:latitude":28.02064,
+    "geom:longitude":84.05851,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380008.0",
+    "gn:asciiname":"Dumre",
+    "gn:country_code":"NP",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002994,
+    "gn:latitude":28.02064,
+    "gn:longitude":84.05851,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dumre",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002994
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a55203fb0176b7a330682949b4be4c05",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209557121
+        }
+    ],
+    "wof:id":1209557121,
+    "wof:lastmodified":1536283510,
+    "wof:name":"Dumre",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.05851,
+    28.020640000000004,
+    84.05851,
+    28.020640000000004
+],
+  "geometry": {"coordinates":[84.05851,28.02064],"type":"Point"}
+}

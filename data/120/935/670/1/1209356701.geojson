@@ -1,0 +1,64 @@
+{
+  "id": 1209356701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.03709,26.9115,85.03709,26.9115",
+    "geom:latitude":26.9115,
+    "geom:longitude":85.03709,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"330048.0",
+    "gn:asciiname":"Kumhatoli",
+    "gn:country_code":"NP",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008870,
+    "gn:latitude":26.9115,
+    "gn:longitude":85.03709,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kumhatoli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008870
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"89a8f84b0109374027fa0f613b567861",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209356701
+        }
+    ],
+    "wof:id":1209356701,
+    "wof:lastmodified":1536289565,
+    "wof:name":"Kumhatoli",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.03709,
+    26.9115,
+    85.03709,
+    26.9115
+],
+  "geometry": {"coordinates":[85.03709000000001,26.9115],"type":"Point"}
+}

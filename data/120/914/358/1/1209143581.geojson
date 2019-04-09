@@ -1,0 +1,64 @@
+{
+  "id": 1209143581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.75359,27.86418,86.75359,27.86418",
+    "geom:latitude":27.86418,
+    "geom:longitude":86.75359,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"11",
+    "gn:admin4_code":"110018",
+    "gn:asciiname":"Kohanar",
+    "gn:country_code":"NP",
+    "gn:dem":4100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7996873,
+    "gn:latitude":27.86418,
+    "gn:longitude":86.75359,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kohanar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7996873
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3633420c4eaa7e185c0b494a35c0e4c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209143581
+        }
+    ],
+    "wof:id":1209143581,
+    "wof:lastmodified":1536296427,
+    "wof:name":"Kohanar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.75359,
+    27.86418,
+    86.75359,
+    27.86418
+],
+  "geometry": {"coordinates":[86.75359,27.86418],"type":"Point"}
+}

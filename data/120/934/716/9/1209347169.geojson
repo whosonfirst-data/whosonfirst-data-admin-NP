@@ -1,0 +1,64 @@
+{
+  "id": 1209347169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.68612,29.65872,80.68612,29.65872",
+    "geom:latitude":29.65872,
+    "geom:longitude":80.68612,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740033",
+    "gn:asciiname":"Thate",
+    "gn:country_code":"NP",
+    "gn:dem":2009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7975955,
+    "gn:latitude":29.65872,
+    "gn:longitude":80.68612,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thate",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7975955
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e5416f98097bd471e44a95db03d9a5bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209347169
+        }
+    ],
+    "wof:id":1209347169,
+    "wof:lastmodified":1536289872,
+    "wof:name":"Thate",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.68611999999997,
+    29.65872,
+    80.68611999999997,
+    29.65872
+],
+  "geometry": {"coordinates":[80.68611999999997,29.65872],"type":"Point"}
+}

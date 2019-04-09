@@ -1,0 +1,78 @@
+{
+  "id": 1293427603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.92782,26.83184,87.92782,26.83184",
+    "geom:latitude":26.83184,
+    "geom:longitude":87.92782,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30005.0",
+    "gn:asciiname":"Kalikholagaun",
+    "gn:country_code":"NP",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7951527,
+    "gn:latitude":26.83184,
+    "gn:longitude":87.92782,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kalikholagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7951527
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5a38db6c37cdcf067e3a71b8b891b86b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1293427603,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1293427603,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1293427603,
+    "wof:lastmodified":1536872297,
+    "wof:name":"Kalikholagaun",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.92782,
+    26.83184,
+    87.92782,
+    26.83184
+],
+  "geometry": {"coordinates":[87.92782,26.83184],"type":"Point"}
+}

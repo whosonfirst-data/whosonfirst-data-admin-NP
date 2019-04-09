@@ -1,0 +1,78 @@
+{
+  "id": 1259621425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.4399,27.43482,85.4399,27.43482",
+    "geom:latitude":27.43482,
+    "geom:longitude":85.4399,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240060.0",
+    "gn:asciiname":"Khajuli",
+    "gn:country_code":"NP",
+    "gn:dem":1299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7963473,
+    "gn:latitude":27.43482,
+    "gn:longitude":85.4399,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khajuli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7963473
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bce43170e8657aa70655e4b735d9af53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1259621425,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1259621425,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1259621425,
+    "wof:lastmodified":1536660041,
+    "wof:name":"Khajuli",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.4399,
+    27.43482,
+    85.4399,
+    27.43482
+],
+  "geometry": {"coordinates":[85.43989999999999,27.43482],"type":"Point"}
+}

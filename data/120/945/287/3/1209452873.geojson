@@ -1,0 +1,64 @@
+{
+  "id": 1209452873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.43397,27.02373,85.43397,27.02373",
+    "geom:latitude":27.02373,
+    "geom:longitude":85.43397,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"19",
+    "gn:admin4_code":"190081",
+    "gn:asciiname":"Ailanitol",
+    "gn:country_code":"NP",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7992177,
+    "gn:latitude":27.02373,
+    "gn:longitude":85.43397,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ailanitol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7992177
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"adad1bc54afb8cdc9a0f87154174f71b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209452873
+        }
+    ],
+    "wof:id":1209452873,
+    "wof:lastmodified":1536286622,
+    "wof:name":"Ailanitol",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.43397,
+    27.02373,
+    85.43397,
+    27.02373
+],
+  "geometry": {"coordinates":[85.43397,27.02373],"type":"Point"}
+}

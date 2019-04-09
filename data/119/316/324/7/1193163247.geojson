@@ -1,0 +1,78 @@
+{
+  "id": 1193163247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.86356,29.97037,81.86356,29.97037",
+    "geom:latitude":29.97037,
+    "geom:longitude":81.86356,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"66.0",
+    "gn:admin4_code":"660002.0",
+    "gn:asciiname":"Hutik",
+    "gn:country_code":"NP",
+    "gn:dem":3190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7950810,
+    "gn:latitude":29.97037,
+    "gn:longitude":81.86356,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Hutik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050353,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7950810
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"52eb3a4f18ef42c91103b35dd8c3dffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1193163247,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1193163247,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1193163247,
+    "wof:lastmodified":1536366132,
+    "wof:name":"Hutik",
+    "wof:parent_id":1092050353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.86355999999998,
+    29.97037000000001,
+    81.86355999999998,
+    29.97037000000001
+],
+  "geometry": {"coordinates":[81.86355999999998,29.97037000000001],"type":"Point"}
+}

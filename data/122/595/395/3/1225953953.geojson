@@ -1,0 +1,78 @@
+{
+  "id": 1225953953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.48186,27.96761,85.48186,27.96761",
+    "geom:latitude":27.96761,
+    "geom:longitude":85.48186,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bhanjyang Kharka",
+    "gn:country_code":"NP",
+    "gn:dem":3257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10316783,
+    "gn:latitude":27.96761,
+    "gn:longitude":85.48186,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Bha\u00f1jy\u0101ng Kharka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Bha\u00f1jy\u0101ng Kharka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10316783
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fa4e53c976846de211009d0b5d360d1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1225953953,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1225953953,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1225953953,
+    "wof:lastmodified":1537676078,
+    "wof:name":"Bhanjyang Kharka",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.48186,
+    27.96761,
+    85.48186,
+    27.96761
+],
+  "geometry": {"coordinates":[85.48186,27.96761],"type":"Point"}
+}

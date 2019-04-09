@@ -1,0 +1,78 @@
+{
+  "id": 1293630901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.3228,27.45675,83.3228,27.45675",
+    "geom:latitude":27.45675,
+    "geom:longitude":83.3228,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"49",
+    "gn:admin4_code":"490051",
+    "gn:asciiname":"Basantapur",
+    "gn:country_code":"NP",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7987515,
+    "gn:latitude":27.45675,
+    "gn:longitude":83.3228,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Basantapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048457,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7987515
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c36325c46572b15fb2bf0db1aa168cac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1293630901,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1293630901,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1293630901,
+    "wof:lastmodified":1537074369,
+    "wof:name":"Basantapur",
+    "wof:parent_id":1092048457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.3228,
+    27.45675,
+    83.3228,
+    27.45675
+],
+  "geometry": {"coordinates":[83.3228,27.45675],"type":"Point"}
+}

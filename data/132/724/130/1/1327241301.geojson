@@ -1,0 +1,81 @@
+{
+  "id": 1327241301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.35,27.76667,85.35,27.76667",
+    "geom:latitude":27.76667,
+    "geom:longitude":85.35,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Khadkagaon",
+    "gn:cc2":"NP",
+    "gn:country_code":"NP",
+    "gn:dem":1373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283226,
+    "gn:latitude":27.76667,
+    "gn:longitude":85.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Khadkagaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khadka",
+        "Khadka Gaun",
+        "Khadkagaon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092048931,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283226
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"67e130fb152c83bb47abbbe4f889d72e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":1327241301,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":1327241301,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1327241301,
+    "wof:lastmodified":1537676051,
+    "wof:name":"Khadkagaon",
+    "wof:parent_id":1092048931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.35,
+    27.76667,
+    85.35,
+    27.76667
+],
+  "geometry": {"coordinates":[85.34999999999999,27.76667],"type":"Point"}
+}

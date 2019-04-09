@@ -1,0 +1,64 @@
+{
+  "id": 1209262589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.4073,26.48462,87.4073,26.48462",
+    "geom:latitude":26.48462,
+    "geom:longitude":87.4073,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"5",
+    "gn:admin4_code":"50015",
+    "gn:asciiname":"Kalabanjar",
+    "gn:country_code":"NP",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7970038,
+    "gn:latitude":26.48462,
+    "gn:longitude":87.4073,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kalabanjar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7970038
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"962319c4fec3b7800cdd8924d54fbcdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209262589
+        }
+    ],
+    "wof:id":1209262589,
+    "wof:lastmodified":1536292640,
+    "wof:name":"Kalabanjar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.4073,
+    26.48462,
+    87.4073,
+    26.48462
+],
+  "geometry": {"coordinates":[87.40730000000001,26.48462],"type":"Point"}
+}

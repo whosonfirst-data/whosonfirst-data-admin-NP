@@ -1,0 +1,78 @@
+{
+  "id": 1226468733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.09738,28.29256,82.09738,28.29256",
+    "geom:latitude":28.29256,
+    "geom:longitude":82.09738,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550029",
+    "gn:asciiname":"Dandasirkholagaun",
+    "gn:country_code":"NP",
+    "gn:dem":999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7989140,
+    "gn:latitude":28.29256,
+    "gn:longitude":82.09738,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dandasirkholagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049579,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7989140
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"006578161c3c47d11ff4cf0d184e84c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1226468733,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1226468733,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1226468733,
+    "wof:lastmodified":1536609811,
+    "wof:name":"Dandasirkholagaun",
+    "wof:parent_id":1092049579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.09738,
+    28.29256,
+    82.09738,
+    28.29256
+],
+  "geometry": {"coordinates":[82.09738,28.29256],"type":"Point"}
+}

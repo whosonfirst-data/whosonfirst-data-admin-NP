@@ -1,0 +1,64 @@
+{
+  "id": 1209150417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.97969,27.78752,84.97969,27.78752",
+    "geom:latitude":27.78752,
+    "geom:longitude":84.97969,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300002.0",
+    "gn:asciiname":"Rahudandagaun",
+    "gn:country_code":"NP",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7941120,
+    "gn:latitude":27.78752,
+    "gn:longitude":84.97969,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Rahudandagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7941120
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d886d1b70c116464c24fb75fed91e4b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209150417
+        }
+    ],
+    "wof:id":1209150417,
+    "wof:lastmodified":1536296222,
+    "wof:name":"Rahudandagaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.97969,
+    27.78752,
+    84.97969,
+    27.78752
+],
+  "geometry": {"coordinates":[84.97969000000001,27.78752],"type":"Point"}
+}

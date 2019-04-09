@@ -1,0 +1,64 @@
+{
+  "id": 1209037519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.8729,28.79195,81.8729,28.79195",
+    "geom:latitude":28.79195,
+    "geom:longitude":81.8729,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"60.0",
+    "gn:admin4_code":"600019.0",
+    "gn:asciiname":"Tursu",
+    "gn:country_code":"NP",
+    "gn:dem":1495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7937019,
+    "gn:latitude":28.79195,
+    "gn:longitude":81.8729,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tursu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7937019
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"78c186f0bf206e86b1a442319b220990",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209037519
+        }
+    ],
+    "wof:id":1209037519,
+    "wof:lastmodified":1536299652,
+    "wof:name":"Tursu",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.8729,
+    28.79195,
+    81.8729,
+    28.79195
+],
+  "geometry": {"coordinates":[81.8729,28.79195],"type":"Point"}
+}

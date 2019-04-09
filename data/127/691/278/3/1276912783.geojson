@@ -1,0 +1,78 @@
+{
+  "id": 1276912783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.80143,28.15098,83.80143,28.15098",
+    "geom:latitude":28.15098,
+    "geom:longitude":83.80143,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390015.0",
+    "gn:asciiname":"Tallo Baseri",
+    "gn:country_code":"NP",
+    "gn:dem":1146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8000900,
+    "gn:latitude":28.15098,
+    "gn:longitude":83.80143,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tallo Baseri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8000900
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"04a3f0caa2b044300e89c46b14c8f214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1276912783,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1276912783,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1276912783,
+    "wof:lastmodified":1536996196,
+    "wof:name":"Tallo Baseri",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.80143000000002,
+    28.15098,
+    83.80143000000002,
+    28.15098
+],
+  "geometry": {"coordinates":[83.80143000000002,28.15098],"type":"Point"}
+}

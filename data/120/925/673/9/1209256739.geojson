@@ -1,0 +1,64 @@
+{
+  "id": 1209256739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.45057,27.6034,85.45057,27.6034",
+    "geom:latitude":27.6034,
+    "geom:longitude":85.45057,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240072.0",
+    "gn:asciiname":"Deuchuligaun",
+    "gn:country_code":"NP",
+    "gn:dem":1659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7963714,
+    "gn:latitude":27.6034,
+    "gn:longitude":85.45057,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Deuchuligaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7963714
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a9bc3db667d5dfe2fc1070493f5fb6ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209256739
+        }
+    ],
+    "wof:id":1209256739,
+    "wof:lastmodified":1536292828,
+    "wof:name":"Deuchuligaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.45057,
+    27.6034,
+    85.45057,
+    27.6034
+],
+  "geometry": {"coordinates":[85.45057,27.6034],"type":"Point"}
+}

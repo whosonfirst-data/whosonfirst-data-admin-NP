@@ -1,0 +1,78 @@
+{
+  "id": 1360232791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.35291,28.0433,84.35291,28.0433",
+    "geom:latitude":28.0433,
+    "geom:longitude":84.35291,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380045.0",
+    "gn:asciiname":"Simpani",
+    "gn:country_code":"NP",
+    "gn:dem":871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8004766,
+    "gn:latitude":28.0433,
+    "gn:longitude":84.35291,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Simpani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8004766
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ebc25df18ac66401f230f52773d9eb45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1360232791,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1360232791,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1360232791,
+    "wof:lastmodified":1536732913,
+    "wof:name":"Simpani",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.35291,
+    28.0433,
+    84.35291,
+    28.0433
+],
+  "geometry": {"coordinates":[84.35290999999999,28.0433],"type":"Point"}
+}

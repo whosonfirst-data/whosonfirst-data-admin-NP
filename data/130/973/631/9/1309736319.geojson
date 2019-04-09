@@ -1,0 +1,78 @@
+{
+  "id": 1309736319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.96618,29.54631,81.96618,29.54631",
+    "geom:latitude":29.54631,
+    "geom:longitude":81.96618,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"65",
+    "gn:admin4_code":"650021",
+    "gn:asciiname":"Burause",
+    "gn:country_code":"NP",
+    "gn:dem":3148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7971664,
+    "gn:latitude":29.54631,
+    "gn:longitude":81.96618,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Burause",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092048339,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7971664
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"87b6c9c0b05b79e4fc4c86eb9bcfbdcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048339,
+            "locality_id":1309736319,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048339,
+            "locality_id":1309736319,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1309736319,
+    "wof:lastmodified":1537030086,
+    "wof:name":"Burause",
+    "wof:parent_id":1092048339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.96618000000002,
+    29.54631,
+    81.96618000000002,
+    29.54631
+],
+  "geometry": {"coordinates":[81.96618000000002,29.54631],"type":"Point"}
+}

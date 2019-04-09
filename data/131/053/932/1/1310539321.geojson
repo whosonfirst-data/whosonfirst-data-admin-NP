@@ -1,0 +1,78 @@
+{
+  "id": 1310539321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.21771,27.87533,86.21771,27.87533",
+    "geom:latitude":27.87533,
+    "geom:longitude":86.21771,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"22.0",
+    "gn:admin4_code":"220033.0",
+    "gn:asciiname":"Thauthau",
+    "gn:country_code":"NP",
+    "gn:dem":1649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7944897,
+    "gn:latitude":27.87533,
+    "gn:longitude":86.21771,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thauthau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675579,
+        1092050535,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7944897
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"054be576b4575b071f5d02fedf57b137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1310539321,
+            "region_id":85675579
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1310539321,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1310539321,
+    "wof:lastmodified":1536866838,
+    "wof:name":"Thauthau",
+    "wof:parent_id":1092050535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.21771,
+    27.87533,
+    86.21771,
+    27.87533
+],
+  "geometry": {"coordinates":[86.21771,27.87533],"type":"Point"}
+}

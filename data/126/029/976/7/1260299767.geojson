@@ -1,0 +1,75 @@
+{
+  "id": 1260299767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.13003,28.31077,83.13003,28.31077",
+    "geom:latitude":28.31077,
+    "geom:longitude":83.13003,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kutharpekot",
+    "gn:country_code":"NP",
+    "gn:dem":1786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283166,
+    "gn:latitude":28.31077,
+    "gn:longitude":83.13003,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Kutharpekot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283166
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"dff492ebf170ecde2d526d59136c1268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1260299767,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1260299767,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1260299767,
+    "wof:lastmodified":1536690132,
+    "wof:name":"Kutharpekot",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.13003,
+    28.31077,
+    83.13003,
+    28.31077
+],
+  "geometry": {"coordinates":[83.13003,28.31077],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1292936923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.62162,29.52065,80.62162,29.52065",
+    "geom:latitude":29.52065,
+    "geom:longitude":80.62162,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740051",
+    "gn:asciiname":"Bagwar",
+    "gn:country_code":"NP",
+    "gn:dem":1494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7981350,
+    "gn:latitude":29.52065,
+    "gn:longitude":80.62162,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bagwar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050255,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7981350
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bb561f5760f1bc81bf389974eede7db6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1292936923,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1292936923,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1292936923,
+    "wof:lastmodified":1537080758,
+    "wof:name":"Bagwar",
+    "wof:parent_id":1092050255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.62162,
+    29.52065,
+    80.62162,
+    29.52065
+],
+  "geometry": {"coordinates":[80.62161999999999,29.52065],"type":"Point"}
+}

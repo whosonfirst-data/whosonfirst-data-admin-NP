@@ -1,0 +1,78 @@
+{
+  "id": 1360132577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.91183,28.05091,83.91183,28.05091",
+    "geom:latitude":28.05091,
+    "geom:longitude":83.91183,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390037.0",
+    "gn:asciiname":"Oraste",
+    "gn:country_code":"NP",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001562,
+    "gn:latitude":28.05091,
+    "gn:longitude":83.91183,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Oraste",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001562
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"67927ba075440953b30576de15d826eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1360132577,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1360132577,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1360132577,
+    "wof:lastmodified":1536876353,
+    "wof:name":"Oraste",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.91183000000002,
+    28.05091,
+    83.91183000000002,
+    28.05091
+],
+  "geometry": {"coordinates":[83.91183000000002,28.05091],"type":"Point"}
+}

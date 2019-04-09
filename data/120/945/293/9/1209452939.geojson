@@ -1,0 +1,64 @@
+{
+  "id": 1209452939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.17849,27.79258,85.17849,27.79258",
+    "geom:latitude":27.79258,
+    "geom:longitude":85.17849,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"28",
+    "gn:admin4_code":"280035",
+    "gn:asciiname":"Dumrechaur",
+    "gn:country_code":"NP",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7974385,
+    "gn:latitude":27.79258,
+    "gn:longitude":85.17849,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dumrechaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7974385
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1d40baa2fc38dbc52eb555fa6cc7803a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209452939
+        }
+    ],
+    "wof:id":1209452939,
+    "wof:lastmodified":1536286622,
+    "wof:name":"Dumrechaur",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.17849,
+    27.79258,
+    85.17849,
+    27.79258
+],
+  "geometry": {"coordinates":[85.17849,27.79258],"type":"Point"}
+}

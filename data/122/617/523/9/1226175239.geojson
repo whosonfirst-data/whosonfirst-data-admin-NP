@@ -1,0 +1,78 @@
+{
+  "id": 1226175239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.61056,28.88088,80.61056,28.88088",
+    "geom:latitude":28.88088,
+    "geom:longitude":80.61056,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710015.0",
+    "gn:asciiname":"Baspani",
+    "gn:country_code":"NP",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956650,
+    "gn:latitude":28.88088,
+    "gn:longitude":80.61056,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Baspani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956650
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"91d63ce1a95894d42ecd25cd1eef1399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1226175239,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1226175239,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1226175239,
+    "wof:lastmodified":1537033748,
+    "wof:name":"Baspani",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.61055999999998,
+    28.88088,
+    80.61055999999998,
+    28.88088
+],
+  "geometry": {"coordinates":[80.61055999999998,28.88088],"type":"Point"}
+}

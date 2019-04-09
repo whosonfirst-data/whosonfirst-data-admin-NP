@@ -1,0 +1,78 @@
+{
+  "id": 1276386401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.5925,27.12951,86.5925,27.12951",
+    "geom:latitude":27.12951,
+    "geom:longitude":86.5925,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140005.0",
+    "gn:asciiname":"Butku",
+    "gn:country_code":"NP",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8006556,
+    "gn:latitude":27.12951,
+    "gn:longitude":86.5925,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Butku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050179,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8006556
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"75c2df066804348f1cc900a3bf7e1fac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1276386401,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1276386401,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1276386401,
+    "wof:lastmodified":1536707796,
+    "wof:name":"Butku",
+    "wof:parent_id":1092050179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.5925,
+    27.12951,
+    86.5925,
+    27.12951
+],
+  "geometry": {"coordinates":[86.5925,27.12951],"type":"Point"}
+}

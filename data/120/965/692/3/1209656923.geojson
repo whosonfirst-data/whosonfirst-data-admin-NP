@@ -1,0 +1,64 @@
+{
+  "id": 1209656923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.73297,28.05538,84.73297,28.05538",
+    "geom:latitude":28.05538,
+    "geom:longitude":84.73297,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360049.0",
+    "gn:asciiname":"Lamagaun",
+    "gn:country_code":"NP",
+    "gn:dem":1172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7949143,
+    "gn:latitude":28.05538,
+    "gn:longitude":84.73297,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lamagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7949143
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"89f1b8460ad706f7f669d9406a38451f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209656923
+        }
+    ],
+    "wof:id":1209656923,
+    "wof:lastmodified":1536280395,
+    "wof:name":"Lamagaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.73297,
+    28.05538,
+    84.73297,
+    28.05538
+],
+  "geometry": {"coordinates":[84.73296999999999,28.05538],"type":"Point"}
+}

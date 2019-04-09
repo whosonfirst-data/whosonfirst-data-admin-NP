@@ -1,0 +1,78 @@
+{
+  "id": 1310053323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.01316,28.05048,84.01316,28.05048",
+    "geom:latitude":28.05048,
+    "geom:longitude":84.01316,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380019.0",
+    "gn:asciiname":"Chanpswanra",
+    "gn:country_code":"NP",
+    "gn:dem":772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003441,
+    "gn:latitude":28.05048,
+    "gn:longitude":84.01316,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chanpswanra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003441
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1ff94fbd923a91c05bf68d62d1d7ce5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1310053323,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1310053323,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1310053323,
+    "wof:lastmodified":1537068797,
+    "wof:name":"Chanpswanra",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.01316,
+    28.05048,
+    84.01316,
+    28.05048
+],
+  "geometry": {"coordinates":[84.01316,28.05048],"type":"Point"}
+}

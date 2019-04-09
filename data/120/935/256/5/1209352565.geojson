@@ -1,0 +1,64 @@
+{
+  "id": 1209352565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.60911,27.95502,85.60911,27.95502",
+    "geom:latitude":27.95502,
+    "geom:longitude":85.60911,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"23",
+    "gn:admin4_code":"230038",
+    "gn:asciiname":"Keshare",
+    "gn:country_code":"NP",
+    "gn:dem":2370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7994936,
+    "gn:latitude":27.95502,
+    "gn:longitude":85.60911,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Keshare",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7994936
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0a0ad7b9f7b39d8ee7e99d5e85d4e945",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209352565
+        }
+    ],
+    "wof:id":1209352565,
+    "wof:lastmodified":1536289697,
+    "wof:name":"Keshare",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.60911,
+    27.95502,
+    85.60911,
+    27.95502
+],
+  "geometry": {"coordinates":[85.60911,27.95502],"type":"Point"}
+}

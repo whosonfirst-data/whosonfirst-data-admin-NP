@@ -1,0 +1,64 @@
+{
+  "id": 1209245785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.96141,29.52415,80.96141,29.52415",
+    "geom:latitude":29.52415,
+    "geom:longitude":80.96141,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680002",
+    "gn:asciiname":"LotuGajari",
+    "gn:country_code":"NP",
+    "gn:dem":1848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7987021,
+    "gn:latitude":29.52415,
+    "gn:longitude":80.96141,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"LotuGajari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7987021
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3a351c40ff9efe47e38ac8181bb81fa0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209245785
+        }
+    ],
+    "wof:id":1209245785,
+    "wof:lastmodified":1536293170,
+    "wof:name":"LotuGajari",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.96141,
+    29.52415,
+    80.96141,
+    29.52415
+],
+  "geometry": {"coordinates":[80.96141,29.52415],"type":"Point"}
+}

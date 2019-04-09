@@ -1,0 +1,78 @@
+{
+  "id": 1225877377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.35684,28.7651,80.35684,28.7651",
+    "geom:latitude":28.7651,
+    "geom:longitude":80.35684,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"72.0",
+    "gn:admin4_code":"720005.0",
+    "gn:asciiname":"Chandeu",
+    "gn:country_code":"NP",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7958628,
+    "gn:latitude":28.7651,
+    "gn:longitude":80.35684,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chandeu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048227,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7958628
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"638ab86cc55c671fc7a2bf5224110025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1225877377,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1225877377,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1225877377,
+    "wof:lastmodified":1536967815,
+    "wof:name":"Chandeu",
+    "wof:parent_id":1092048227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.35684,
+    28.7651,
+    80.35684,
+    28.7651
+],
+  "geometry": {"coordinates":[80.35684000000001,28.7651],"type":"Point"}
+}

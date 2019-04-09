@@ -1,0 +1,64 @@
+{
+  "id": 1209663407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.47016,26.69182,86.47016,26.69182",
+    "geom:latitude":26.69182,
+    "geom:longitude":86.47016,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"16",
+    "gn:admin4_code":"160018",
+    "gn:asciiname":"Madhaupur",
+    "gn:country_code":"NP",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7995750,
+    "gn:latitude":26.69182,
+    "gn:longitude":86.47016,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Madhaupur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7995750
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1de0e004b21e8fec4dd94190ca22a827",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209663407
+        }
+    ],
+    "wof:id":1209663407,
+    "wof:lastmodified":1536280178,
+    "wof:name":"Madhaupur",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.47015999999998,
+    26.69182,
+    86.47015999999998,
+    26.69182
+],
+  "geometry": {"coordinates":[86.47015999999998,26.69182],"type":"Point"}
+}

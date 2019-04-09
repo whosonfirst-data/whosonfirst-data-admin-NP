@@ -1,0 +1,78 @@
+{
+  "id": 1225793095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.33085,27.56264,87.33085,27.56264",
+    "geom:latitude":27.56264,
+    "geom:longitude":87.33085,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"9",
+    "gn:admin4_code":"90022",
+    "gn:asciiname":"Pepuwa",
+    "gn:country_code":"NP",
+    "gn:dem":1645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7990362,
+    "gn:latitude":27.56264,
+    "gn:longitude":87.33085,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pepuwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049597,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7990362
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"26117e45cf1e8bb7dc5c825b400eb570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1225793095,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1225793095,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1225793095,
+    "wof:lastmodified":1537086498,
+    "wof:name":"Pepuwa",
+    "wof:parent_id":1092049597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.33085,
+    27.56264,
+    87.33085,
+    27.56264
+],
+  "geometry": {"coordinates":[87.33085,27.56264],"type":"Point"}
+}

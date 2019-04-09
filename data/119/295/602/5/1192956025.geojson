@@ -1,0 +1,78 @@
+{
+  "id": 1192956025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.80664,27.37247,87.80664,27.37247",
+    "geom:latitude":27.37247,
+    "geom:longitude":87.80664,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10040.0",
+    "gn:asciiname":"Kande",
+    "gn:country_code":"NP",
+    "gn:dem":2145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005646,
+    "gn:latitude":27.37247,
+    "gn:longitude":87.80664,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kande",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005646
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"845591cc6980a3930e4feb133bd8df19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1192956025,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1192956025,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1192956025,
+    "wof:lastmodified":1536370401,
+    "wof:name":"Kande",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.80664,
+    27.37247,
+    87.80664,
+    27.37247
+],
+  "geometry": {"coordinates":[87.80664,27.37247],"type":"Point"}
+}

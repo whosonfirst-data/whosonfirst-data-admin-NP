@@ -1,0 +1,78 @@
+{
+  "id": 1226076087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.64874,27.97601,82.64874,27.97601",
+    "geom:latitude":27.97601,
+    "geom:longitude":82.64874,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"560021.0",
+    "gn:asciiname":"Bhitreekholagaun",
+    "gn:country_code":"NP",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7939090,
+    "gn:latitude":27.97601,
+    "gn:longitude":82.64874,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhitreekholagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048605,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7939090
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cb37cdd5f84da66b7d66913f8ae9f36b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1226076087,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1226076087,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1226076087,
+    "wof:lastmodified":1536681503,
+    "wof:name":"Bhitreekholagaun",
+    "wof:parent_id":1092048605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.64874,
+    27.97601,
+    82.64874,
+    27.97601
+],
+  "geometry": {"coordinates":[82.64874,27.97601],"type":"Point"}
+}

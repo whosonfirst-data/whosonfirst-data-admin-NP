@@ -1,0 +1,78 @@
+{
+  "id": 1260027761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.4543,27.82904,84.4543,27.82904",
+    "geom:latitude":27.82904,
+    "geom:longitude":84.4543,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380017.0",
+    "gn:asciiname":"Amdanda",
+    "gn:country_code":"NP",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003317,
+    "gn:latitude":27.82904,
+    "gn:longitude":84.4543,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Amdanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003317
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d4da44c780c6c2a1a27fc998a134cfa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1260027761,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1260027761,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1260027761,
+    "wof:lastmodified":1537065438,
+    "wof:name":"Amdanda",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.4543,
+    27.82904000000001,
+    84.4543,
+    27.82904000000001
+],
+  "geometry": {"coordinates":[84.4543,27.82904000000001],"type":"Point"}
+}

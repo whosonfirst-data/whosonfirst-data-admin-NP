@@ -1,0 +1,64 @@
+{
+  "id": 1209146637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.73666,28.00055,83.73666,28.00055",
+    "geom:latitude":28.00055,
+    "geom:longitude":83.73666,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390060.0",
+    "gn:asciiname":"Mathillo Pekhu",
+    "gn:country_code":"NP",
+    "gn:dem":1043,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002436,
+    "gn:latitude":28.00055,
+    "gn:longitude":83.73666,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mathillo Pekhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002436
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a73c500818840906d5ae3ce493ad1384",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209146637
+        }
+    ],
+    "wof:id":1209146637,
+    "wof:lastmodified":1536296333,
+    "wof:name":"Mathillo Pekhu",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.73666,
+    28.00055,
+    83.73666,
+    28.00055
+],
+  "geometry": {"coordinates":[83.73666,28.00055],"type":"Point"}
+}

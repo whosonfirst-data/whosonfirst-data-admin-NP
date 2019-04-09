@@ -1,0 +1,82 @@
+{
+  "id": 1226452165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.53552,28.1264,81.53552,28.1264",
+    "geom:latitude":28.1264,
+    "geom:longitude":81.53552,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Udharapur",
+    "gn:country_code":"NP",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283624,
+    "gn:latitude":28.1264,
+    "gn:longitude":81.53552,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"U\u1e0dhar\u0101pur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "U\u1e0dhar\u0101pur"
+    ],
+    "name:und_x_variant":[
+        "Odarapur",
+        "Bhainsah\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092050297,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283624
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b592c09e984a90373984e0e31cf09f9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1226452165,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1226452165,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1226452165,
+    "wof:lastmodified":1537676061,
+    "wof:name":"Udharapur",
+    "wof:parent_id":1092050297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.53551999999998,
+    28.1264,
+    81.53551999999998,
+    28.1264
+],
+  "geometry": {"coordinates":[81.53551999999998,28.1264],"type":"Point"}
+}

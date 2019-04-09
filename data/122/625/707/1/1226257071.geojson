@@ -1,0 +1,76 @@
+{
+  "id": 1226257071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.71911,27.82258,86.71911,27.82258",
+    "geom:latitude":27.82258,
+    "geom:longitude":86.71911,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Khumjung",
+    "gn:country_code":"NP",
+    "gn:dem":3759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283196,
+    "gn:latitude":27.82258,
+    "gn:longitude":86.71911,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Khumjung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049841,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283196,
+        "wk:page":"Khumjung"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f8be63b382afba46be47af69334b7919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1226257071,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1226257071,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1226257071,
+    "wof:lastmodified":1537570142,
+    "wof:name":"Khumjung",
+    "wof:parent_id":1092049841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.71911,
+    27.82258,
+    86.71911,
+    27.82258
+],
+  "geometry": {"coordinates":[86.71911,27.82258],"type":"Point"}
+}

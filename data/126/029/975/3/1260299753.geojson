@@ -1,0 +1,78 @@
+{
+  "id": 1260299753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.92304,26.77701,87.92304,26.77701",
+    "geom:latitude":26.77701,
+    "geom:longitude":87.92304,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Aletar",
+    "gn:country_code":"NP",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11606226,
+    "gn:latitude":26.77701,
+    "gn:longitude":87.92304,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"\u0100le\u1e6d\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "\u0100le\u1e6d\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11606226
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a352cffbadc74069da99395d792953f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1260299753,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1260299753,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1260299753,
+    "wof:lastmodified":1537676124,
+    "wof:name":"Aletar",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.92304,
+    26.77701,
+    87.92304,
+    26.77701
+],
+  "geometry": {"coordinates":[87.92304,26.77701],"type":"Point"}
+}

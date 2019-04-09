@@ -1,0 +1,78 @@
+{
+  "id": 1326668041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.8717,26.83003,85.8717,26.83003",
+    "geom:latitude":26.83003,
+    "geom:longitude":85.8717,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"18",
+    "gn:admin4_code":"180019",
+    "gn:asciiname":"Dharmapur",
+    "gn:country_code":"NP",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7967280,
+    "gn:latitude":26.83003,
+    "gn:longitude":85.8717,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dharmapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092050709,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7967280
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d4fb6f6070cef9163fa85f4c227fc8cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050709,
+            "locality_id":1326668041,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050709,
+            "locality_id":1326668041,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1326668041,
+    "wof:lastmodified":1536788708,
+    "wof:name":"Dharmapur",
+    "wof:parent_id":1092050709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.8717,
+    26.83003,
+    85.8717,
+    26.83003
+],
+  "geometry": {"coordinates":[85.8717,26.83003],"type":"Point"}
+}

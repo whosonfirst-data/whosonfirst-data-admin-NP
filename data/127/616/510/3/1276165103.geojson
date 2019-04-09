@@ -1,0 +1,78 @@
+{
+  "id": 1276165103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.75893,28.06152,83.75893,28.06152",
+    "geom:latitude":28.06152,
+    "geom:longitude":83.75893,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390020.0",
+    "gn:asciiname":"Chiurkharka",
+    "gn:country_code":"NP",
+    "gn:dem":1331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001095,
+    "gn:latitude":28.06152,
+    "gn:longitude":83.75893,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chiurkharka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001095
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"90f8f0f5eb429a5005f497337e65aea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1276165103,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1276165103,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1276165103,
+    "wof:lastmodified":1537003391,
+    "wof:name":"Chiurkharka",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.75893,
+    28.06152,
+    83.75893,
+    28.06152
+],
+  "geometry": {"coordinates":[83.75893000000001,28.06152],"type":"Point"}
+}

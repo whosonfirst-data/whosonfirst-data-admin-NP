@@ -1,0 +1,78 @@
+{
+  "id": 1193078861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.06859,26.72617,86.06859,26.72617",
+    "geom:latitude":26.72617,
+    "geom:longitude":86.06859,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"17.0",
+    "gn:admin4_code":"170076.0",
+    "gn:asciiname":"Basudevpatti",
+    "gn:country_code":"NP",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7943974,
+    "gn:latitude":26.72617,
+    "gn:longitude":86.06859,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Basudevpatti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092048127,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7943974
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a8a46588e3bd4fd04836630444dec780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048127,
+            "locality_id":1193078861,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048127,
+            "locality_id":1193078861,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1193078861,
+    "wof:lastmodified":1536382903,
+    "wof:name":"Basudevpatti",
+    "wof:parent_id":1092048127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.06859,
+    26.72617,
+    86.06859,
+    26.72617
+],
+  "geometry": {"coordinates":[86.06859,26.72617],"type":"Point"}
+}

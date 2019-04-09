@@ -1,0 +1,64 @@
+{
+  "id": 1209541945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.88063,29.65045,81.88063,29.65045",
+    "geom:latitude":29.65045,
+    "geom:longitude":81.88063,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"65",
+    "gn:admin4_code":"650001",
+    "gn:asciiname":"Chanphetadi",
+    "gn:country_code":"NP",
+    "gn:dem":1300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7971361,
+    "gn:latitude":29.65045,
+    "gn:longitude":81.88063,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chanphetadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7971361
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"898b7ca2ccf42bb2c0930a1f568037f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209541945
+        }
+    ],
+    "wof:id":1209541945,
+    "wof:lastmodified":1536283962,
+    "wof:name":"Chanphetadi",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.88063000000002,
+    29.65045,
+    81.88063000000002,
+    29.65045
+],
+  "geometry": {"coordinates":[81.88063000000002,29.65045],"type":"Point"}
+}

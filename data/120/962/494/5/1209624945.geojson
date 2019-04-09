@@ -1,0 +1,61 @@
+{
+  "id": 1209624945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.14773,27.65859,85.14773,27.65859",
+    "geom:latitude":27.65859,
+    "geom:longitude":85.14773,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bisinkhel",
+    "gn:country_code":"NP",
+    "gn:dem":1754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10316746,
+    "gn:latitude":27.65859,
+    "gn:longitude":85.14773,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Bisi\u1e45khel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10316746
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f88682c5307c5a8a614a28ce7f28ba59",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209624945
+        }
+    ],
+    "wof:id":1209624945,
+    "wof:lastmodified":1536281387,
+    "wof:name":"Bisinkhel",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.14773000000002,
+    27.658590000000004,
+    85.14773000000002,
+    27.658590000000004
+],
+  "geometry": {"coordinates":[85.14773000000002,27.65859],"type":"Point"}
+}

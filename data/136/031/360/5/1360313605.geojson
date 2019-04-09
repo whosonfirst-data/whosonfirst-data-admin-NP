@@ -1,0 +1,78 @@
+{
+  "id": 1360313605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.08572,28.16184,82.08572,28.16184",
+    "geom:latitude":28.16184,
+    "geom:longitude":82.08572,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550021",
+    "gn:asciiname":"Makaitara",
+    "gn:country_code":"NP",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7988770,
+    "gn:latitude":28.16184,
+    "gn:longitude":82.08572,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Makaitara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048605,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7988770
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bdf718402c6df5808bc87e1862c8b4b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1360313605,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1360313605,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1360313605,
+    "wof:lastmodified":1536613665,
+    "wof:name":"Makaitara",
+    "wof:parent_id":1092048605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.08572,
+    28.16184,
+    82.08572,
+    28.16184
+],
+  "geometry": {"coordinates":[82.08571999999999,28.16184],"type":"Point"}
+}

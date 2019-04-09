@@ -1,0 +1,64 @@
+{
+  "id": 1209256737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.9277,27.72239,84.9277,27.72239",
+    "geom:latitude":27.72239,
+    "geom:longitude":84.9277,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300025.0",
+    "gn:asciiname":"Bhalukhop",
+    "gn:country_code":"NP",
+    "gn:dem":1488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7941876,
+    "gn:latitude":27.72239,
+    "gn:longitude":84.9277,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhalukhop",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7941876
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2f4ebe324a7d6369a03a4a377bcc3611",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209256737
+        }
+    ],
+    "wof:id":1209256737,
+    "wof:lastmodified":1536292828,
+    "wof:name":"Bhalukhop",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.9277,
+    27.72239,
+    84.9277,
+    27.72239
+],
+  "geometry": {"coordinates":[84.9277,27.72239],"type":"Point"}
+}

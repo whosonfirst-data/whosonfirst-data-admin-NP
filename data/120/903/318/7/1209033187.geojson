@@ -1,0 +1,64 @@
+{
+  "id": 1209033187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.87821,28.03718,81.87821,28.03718",
+    "geom:latitude":28.03718,
+    "geom:longitude":81.87821,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"570005.0",
+    "gn:asciiname":"Dhampur",
+    "gn:country_code":"NP",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8006540,
+    "gn:latitude":28.03718,
+    "gn:longitude":81.87821,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhampur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8006540
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"26388d94dae46d4edaa8993d91af8c65",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209033187
+        }
+    ],
+    "wof:id":1209033187,
+    "wof:lastmodified":1536299785,
+    "wof:name":"Dhampur",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.87821,
+    28.03718,
+    81.87821,
+    28.03718
+],
+  "geometry": {"coordinates":[81.87821,28.03718],"type":"Point"}
+}

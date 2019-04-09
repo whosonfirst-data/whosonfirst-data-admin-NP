@@ -1,0 +1,79 @@
+{
+  "id": 1226655627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.27333,27.78167,85.27333,27.78167",
+    "geom:latitude":27.78167,
+    "geom:longitude":85.27333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nanedadagau",
+    "gn:country_code":"NP",
+    "gn:dem":1511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10316684,
+    "gn:latitude":27.78167,
+    "gn:longitude":85.27333,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"N\u0101ne\u1e0d\u0101\u0303\u1e0d\u0101g\u0101\u0169",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u0101ne\u1e0d\u0101\u0303\u1e0d\u0101g\u0101\u0169",
+        "N\u0101ne\u1e0d\u0101\u1e0d\u0101g\u0101un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092048931,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10316684
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2d2744d4c10da6591107a40e37b7424d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":1226655627,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":1226655627,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1226655627,
+    "wof:lastmodified":1537676078,
+    "wof:name":"Nanedadagau",
+    "wof:parent_id":1092048931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.27333,
+    27.78167,
+    85.27333,
+    27.78167
+],
+  "geometry": {"coordinates":[85.27333,27.78167],"type":"Point"}
+}

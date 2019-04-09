@@ -1,0 +1,76 @@
+{
+  "id": 1327464727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.7787,28.51746,81.7787,28.51746",
+    "geom:latitude":28.51746,
+    "geom:longitude":81.7787,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Surkhet",
+    "gn:country_code":"NP",
+    "gn:dem":874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":7649119,
+    "gn:latitude":28.51746,
+    "gn:longitude":81.7787,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Surkhet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7649119
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f3e71cdaf2c1ca975c230f6a95c07e4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1327464727,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1327464727,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1327464727,
+    "wof:lastmodified":1536632729,
+    "wof:name":"Surkhet",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.7787,
+    28.51746,
+    81.7787,
+    28.51746
+],
+  "geometry": {"coordinates":[81.7787,28.51746],"type":"Point"}
+}

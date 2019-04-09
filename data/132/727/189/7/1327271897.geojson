@@ -1,0 +1,78 @@
+{
+  "id": 1327271897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.53343,27.25401,85.53343,27.25401",
+    "geom:latitude":27.25401,
+    "geom:longitude":85.53343,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200035",
+    "gn:asciiname":"Gurungtol",
+    "gn:country_code":"NP",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7993649,
+    "gn:latitude":27.25401,
+    "gn:longitude":85.53343,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gurungtol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049679,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7993649
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"62c713c4706ce11218aa773287a21ab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1327271897,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1327271897,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1327271897,
+    "wof:lastmodified":1536912954,
+    "wof:name":"Gurungtol",
+    "wof:parent_id":1092049679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.53343000000002,
+    27.25401,
+    85.53343000000002,
+    27.25401
+],
+  "geometry": {"coordinates":[85.53343000000002,27.25401],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209441131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.23351,29.49814,81.23351,29.49814",
+    "geom:latitude":29.49814,
+    "geom:longitude":81.23351,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680018",
+    "gn:asciiname":"Dad",
+    "gn:country_code":"NP",
+    "gn:dem":2626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7991428,
+    "gn:latitude":29.49814,
+    "gn:longitude":81.23351,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7991428
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3f5e45993f0ca703bfcc234ab9c1c452",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209441131
+        }
+    ],
+    "wof:id":1209441131,
+    "wof:lastmodified":1536286957,
+    "wof:name":"Dad",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.23351,
+    29.498140000000006,
+    81.23351,
+    29.498140000000006
+],
+  "geometry": {"coordinates":[81.23351,29.49814000000001],"type":"Point"}
+}

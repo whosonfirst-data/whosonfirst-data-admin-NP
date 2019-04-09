@@ -1,0 +1,64 @@
+{
+  "id": 1209347295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.06443,29.23865,81.06443,29.23865",
+    "geom:latitude":29.23865,
+    "geom:longitude":81.06443,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"70.0",
+    "gn:admin4_code":"700018.0",
+    "gn:asciiname":"Dankot",
+    "gn:country_code":"NP",
+    "gn:dem":1426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7946612,
+    "gn:latitude":29.23865,
+    "gn:longitude":81.06443,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dankot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7946612
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"236f44b56bd8bfebce1313a27807cd4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209347295
+        }
+    ],
+    "wof:id":1209347295,
+    "wof:lastmodified":1536289869,
+    "wof:name":"Dankot",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.06443,
+    29.23865,
+    81.06443,
+    29.23865
+],
+  "geometry": {"coordinates":[81.06443,29.23865],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293537611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.66788,27.48917,86.66788,27.48917",
+    "geom:latitude":27.48917,
+    "geom:longitude":86.66788,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"11",
+    "gn:admin4_code":"110016",
+    "gn:asciiname":"Nagiyang",
+    "gn:country_code":"NP",
+    "gn:dem":1347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7996761,
+    "gn:latitude":27.48917,
+    "gn:longitude":86.66788,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nagiyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049841,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7996761
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f2f9724131298915e8a438e4902c406d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1293537611,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1293537611,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1293537611,
+    "wof:lastmodified":1536715250,
+    "wof:name":"Nagiyang",
+    "wof:parent_id":1092049841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.66788000000003,
+    27.48917,
+    86.66788000000003,
+    27.48917
+],
+  "geometry": {"coordinates":[86.66788000000003,27.48917],"type":"Point"}
+}

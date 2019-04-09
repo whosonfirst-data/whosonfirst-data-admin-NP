@@ -1,0 +1,64 @@
+{
+  "id": 1209463311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.98378,27.21663,85.98378,27.21663",
+    "geom:latitude":27.21663,
+    "geom:longitude":85.98378,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200042.0",
+    "gn:asciiname":"Hattigauda",
+    "gn:country_code":"NP",
+    "gn:dem":982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7993854,
+    "gn:latitude":27.21663,
+    "gn:longitude":85.98378,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Hattigauda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7993854
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"604a4806289c4e880a313d183f8a68bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209463311
+        }
+    ],
+    "wof:id":1209463311,
+    "wof:lastmodified":1536286315,
+    "wof:name":"Hattigauda",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.98378000000002,
+    27.21663,
+    85.98378000000002,
+    27.21663
+],
+  "geometry": {"coordinates":[85.98378000000002,27.21663],"type":"Point"}
+}

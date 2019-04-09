@@ -1,0 +1,78 @@
+{
+  "id": 1226691961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.23484,27.085,87.23484,27.085",
+    "geom:latitude":27.085,
+    "geom:longitude":87.23484,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"7.0",
+    "gn:admin4_code":"70017.0",
+    "gn:asciiname":"Tilke",
+    "gn:country_code":"NP",
+    "gn:dem":1012,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7943060,
+    "gn:latitude":27.085,
+    "gn:longitude":87.23484,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tilke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049207,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7943060
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8b8b10eaa24cb008c1ffe109106f45e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049207,
+            "locality_id":1226691961,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049207,
+            "locality_id":1226691961,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1226691961,
+    "wof:lastmodified":1536793373,
+    "wof:name":"Tilke",
+    "wof:parent_id":1092049207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.23484,
+    27.085,
+    87.23484,
+    27.085
+],
+  "geometry": {"coordinates":[87.23484000000001,27.085],"type":"Point"}
+}

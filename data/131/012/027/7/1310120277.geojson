@@ -1,0 +1,79 @@
+{
+  "id": 1310120277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.81121,28.04473,84.81121,28.04473",
+    "geom:latitude":28.04473,
+    "geom:longitude":84.81121,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Arughat",
+    "gn:country_code":"NP",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283724,
+    "gn:latitude":28.04473,
+    "gn:longitude":84.81121,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"\u0100rugh\u0101\u1e6d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0100rugh\u0101\u1e6d",
+        "\u0100rugh\u0101t B\u0101z\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283724
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1081927b899af6a1be0f153fa27937f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1310120277,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1310120277,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1310120277,
+    "wof:lastmodified":1537676064,
+    "wof:name":"Arughat",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.81121,
+    28.04473,
+    84.81121,
+    28.04473
+],
+  "geometry": {"coordinates":[84.81121,28.04473],"type":"Point"}
+}

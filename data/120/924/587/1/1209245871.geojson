@@ -1,0 +1,64 @@
+{
+  "id": 1209245871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.39458,29.56689,80.39458,29.56689",
+    "geom:latitude":29.56689,
+    "geom:longitude":80.39458,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740010",
+    "gn:asciiname":"Gorchuda",
+    "gn:country_code":"NP",
+    "gn:dem":1119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7969450,
+    "gn:latitude":29.56689,
+    "gn:longitude":80.39458,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gorchuda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7969450
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fce17210a328aa971e58b80e23a2ad21",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209245871
+        }
+    ],
+    "wof:id":1209245871,
+    "wof:lastmodified":1536293167,
+    "wof:name":"Gorchuda",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.39458,
+    29.56689,
+    80.39458,
+    29.56689
+],
+  "geometry": {"coordinates":[80.39458,29.56689],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1259711831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.5985,29.2292,81.5985,29.2292",
+    "geom:latitude":29.2292,
+    "geom:longitude":81.5985,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"64.0",
+    "gn:admin4_code":"640015.0",
+    "gn:asciiname":"Maldanda",
+    "gn:country_code":"NP",
+    "gn:dem":2049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7958231,
+    "gn:latitude":29.2292,
+    "gn:longitude":81.5985,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Maldanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092048809,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7958231
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"93b2f8b628d02a3f07a8cb0be2bf4e26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048809,
+            "locality_id":1259711831,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048809,
+            "locality_id":1259711831,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1259711831,
+    "wof:lastmodified":1537025224,
+    "wof:name":"Maldanda",
+    "wof:parent_id":1092048809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.5985,
+    29.2292,
+    81.5985,
+    29.2292
+],
+  "geometry": {"coordinates":[81.5985,29.2292],"type":"Point"}
+}

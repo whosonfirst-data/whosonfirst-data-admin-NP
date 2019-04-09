@@ -1,0 +1,64 @@
+{
+  "id": 1209032993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.58021,29.13289,82.58021,29.13289",
+    "geom:latitude":29.13289,
+    "geom:longitude":82.58021,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"62.0",
+    "gn:admin4_code":"620017.0",
+    "gn:asciiname":"Sarki Bada",
+    "gn:country_code":"NP",
+    "gn:dem":3313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7945634,
+    "gn:latitude":29.13289,
+    "gn:longitude":82.58021,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sarki Bada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7945634
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"dbc9678ea09da752e02904cbdc4bdb99",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209032993
+        }
+    ],
+    "wof:id":1209032993,
+    "wof:lastmodified":1536299790,
+    "wof:name":"Sarki Bada",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.58021,
+    29.132890000000003,
+    82.58021,
+    29.132890000000003
+],
+  "geometry": {"coordinates":[82.58020999999999,29.13289],"type":"Point"}
+}

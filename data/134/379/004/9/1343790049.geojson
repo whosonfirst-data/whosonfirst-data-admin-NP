@@ -1,0 +1,78 @@
+{
+  "id": 1343790049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.51057,28.84926,80.51057,28.84926",
+    "geom:latitude":28.84926,
+    "geom:longitude":80.51057,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710015.0",
+    "gn:asciiname":"Damaura",
+    "gn:country_code":"NP",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956577,
+    "gn:latitude":28.84926,
+    "gn:longitude":80.51057,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Damaura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956577
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"66e5a2107b0f8fd4a888b838cbb1429c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1343790049,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1343790049,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1343790049,
+    "wof:lastmodified":1536768848,
+    "wof:name":"Damaura",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.51057,
+    28.84926,
+    80.51057,
+    28.84926
+],
+  "geometry": {"coordinates":[80.51057,28.84926],"type":"Point"}
+}

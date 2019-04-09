@@ -1,0 +1,78 @@
+{
+  "id": 1226075925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.73885,27.96761,81.73885,27.96761",
+    "geom:latitude":27.96761,
+    "geom:longitude":81.73885,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"570015.0",
+    "gn:asciiname":"Chaupheri",
+    "gn:country_code":"NP",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007986,
+    "gn:latitude":27.96761,
+    "gn:longitude":81.73885,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chaupheri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092050297,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007986
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a9c028b5509dd2972923476fec4ec8b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1226075925,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1226075925,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1226075925,
+    "wof:lastmodified":1536681719,
+    "wof:name":"Chaupheri",
+    "wof:parent_id":1092050297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.73885,
+    27.96761,
+    81.73885,
+    27.96761
+],
+  "geometry": {"coordinates":[81.73885,27.96761],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209347311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.62716,28.60459,81.62716,28.60459",
+    "geom:latitude":28.60459,
+    "geom:longitude":81.62716,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590008.0",
+    "gn:asciiname":"Itram",
+    "gn:country_code":"NP",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7998686,
+    "gn:latitude":28.60459,
+    "gn:longitude":81.62716,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Itram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7998686
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6ab5a9f391947eb4181b29a9f4b30951",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209347311
+        }
+    ],
+    "wof:id":1209347311,
+    "wof:lastmodified":1536289869,
+    "wof:name":"Itram",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.62716,
+    28.60459,
+    81.62716,
+    28.60459
+],
+  "geometry": {"coordinates":[81.62716,28.60459],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226787275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.08182,27.52404,86.08182,27.52404",
+    "geom:latitude":27.52404,
+    "geom:longitude":86.08182,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"22.0",
+    "gn:admin4_code":"220040.0",
+    "gn:asciiname":"Nausayabigha",
+    "gn:country_code":"NP",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7945050,
+    "gn:latitude":27.52404,
+    "gn:longitude":86.08182,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nausayabigha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675579,
+        1092050535,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7945050
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"eb235d6db105abd5122676be475f6835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1226787275,
+            "region_id":85675579
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1226787275,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1226787275,
+    "wof:lastmodified":1536655742,
+    "wof:name":"Nausayabigha",
+    "wof:parent_id":1092050535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.08182,
+    27.52404000000001,
+    86.08182,
+    27.52404000000001
+],
+  "geometry": {"coordinates":[86.08181999999999,27.52404000000001],"type":"Point"}
+}

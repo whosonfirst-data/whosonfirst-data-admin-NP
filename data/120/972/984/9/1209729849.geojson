@@ -1,0 +1,78 @@
+{
+  "id": 1209729849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.26327,26.94513,87.26327,26.94513",
+    "geom:latitude":26.94513,
+    "geom:longitude":87.26327,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Hankhadu",
+    "gn:country_code":"NP",
+    "gn:dem":1133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11587887,
+    "gn:latitude":26.94513,
+    "gn:longitude":87.26327,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"H\u0101\u1e45kh\u0101\u1e0du",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "H\u0101\u1e45kh\u0101\u1e0du"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049207,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11587887
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2fbb99b4f6c642ffe15925ac8dff44ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049207,
+            "locality_id":1209729849,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049207,
+            "locality_id":1209729849,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1209729849,
+    "wof:lastmodified":1537676110,
+    "wof:name":"Hankhadu",
+    "wof:parent_id":1092049207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.26326999999998,
+    26.94513,
+    87.26326999999998,
+    26.94513
+],
+  "geometry": {"coordinates":[87.26326999999998,26.94513],"type":"Point"}
+}

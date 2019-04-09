@@ -1,0 +1,78 @@
+{
+  "id": 1276687309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.51869,28.98589,81.51869,28.98589",
+    "geom:latitude":28.98589,
+    "geom:longitude":81.51869,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"60.0",
+    "gn:admin4_code":"600056.0",
+    "gn:asciiname":"Dayanbada",
+    "gn:country_code":"NP",
+    "gn:dem":1462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7938107,
+    "gn:latitude":28.98589,
+    "gn:longitude":81.51869,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dayanbada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092050583,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7938107
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ee5f7476f1c675b457c42a83ea48c48d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1276687309,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1276687309,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1276687309,
+    "wof:lastmodified":1536801544,
+    "wof:name":"Dayanbada",
+    "wof:parent_id":1092050583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.51869,
+    28.98589,
+    81.51869,
+    28.98589
+],
+  "geometry": {"coordinates":[81.51869000000001,28.98589],"type":"Point"}
+}

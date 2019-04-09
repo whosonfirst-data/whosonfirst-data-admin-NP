@@ -1,0 +1,78 @@
+{
+  "id": 1225982189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.38415,28.04946,83.38415,28.04946",
+    "geom:latitude":28.04946,
+    "geom:longitude":83.38415,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"46.0",
+    "gn:admin4_code":"460069.0",
+    "gn:asciiname":"Seraphant",
+    "gn:country_code":"NP",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7950608,
+    "gn:latitude":28.04946,
+    "gn:longitude":83.38415,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Seraphant",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050755,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7950608
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3c69703b8ae82f0db31e380a238c82ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1225982189,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1225982189,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1225982189,
+    "wof:lastmodified":1536815857,
+    "wof:name":"Seraphant",
+    "wof:parent_id":1092050755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.38415,
+    28.04946,
+    83.38415,
+    28.04946
+],
+  "geometry": {"coordinates":[83.38415000000001,28.04946],"type":"Point"}
+}

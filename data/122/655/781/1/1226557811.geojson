@@ -1,0 +1,75 @@
+{
+  "id": 1226557811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.44164,27.61328,85.44164,27.61328",
+    "geom:latitude":27.61328,
+    "geom:longitude":85.44164,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Moipokhanedada",
+    "gn:country_code":"NP",
+    "gn:dem":1921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10668838,
+    "gn:latitude":27.61328,
+    "gn:longitude":85.44164,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Moi\u0307\u0304pokhane\u1e0d\u0101\u0303\u1e0d\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10668838
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"aca7bcba6249eac68bc0bfa4f1c38f6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1226557811,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1226557811,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1226557811,
+    "wof:lastmodified":1536980015,
+    "wof:name":"Moipokhanedada",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.44164,
+    27.61328,
+    85.44164,
+    27.61328
+],
+  "geometry": {"coordinates":[85.44164000000001,27.61328],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1210042787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.31581,28.51471,82.31581,28.51471",
+    "geom:latitude":28.51471,
+    "geom:longitude":82.31581,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550041",
+    "gn:asciiname":"Khurkhurya",
+    "gn:country_code":"NP",
+    "gn:dem":1674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7989569,
+    "gn:latitude":28.51471,
+    "gn:longitude":82.31581,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khurkhurya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049579,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7989569
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"34eca854124f6915806599bd10c868f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1210042787,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1210042787,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1210042787,
+    "wof:lastmodified":1536382206,
+    "wof:name":"Khurkhurya",
+    "wof:parent_id":1092049579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.31581,
+    28.51471,
+    82.31581,
+    28.51471
+],
+  "geometry": {"coordinates":[82.31581,28.51471],"type":"Point"}
+}

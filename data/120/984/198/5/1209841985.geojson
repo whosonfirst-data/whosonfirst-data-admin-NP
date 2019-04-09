@@ -1,0 +1,78 @@
+{
+  "id": 1209841985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.19485,28.46184,81.19485,28.46184",
+    "geom:latitude":28.46184,
+    "geom:longitude":81.19485,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"58.0",
+    "gn:admin4_code":"580017.0",
+    "gn:asciiname":"Chakpuriya Tol",
+    "gn:country_code":"NP",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009728,
+    "gn:latitude":28.46184,
+    "gn:longitude":81.19485,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chakpuriya Tol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048097,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009728
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"02d9007022f5b92ee173aaf21a11e219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1209841985,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1209841985,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1209841985,
+    "wof:lastmodified":1536392340,
+    "wof:name":"Chakpuriya Tol",
+    "wof:parent_id":1092048097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.19485,
+    28.46184,
+    81.19485,
+    28.46184
+],
+  "geometry": {"coordinates":[81.19485,28.46184],"type":"Point"}
+}

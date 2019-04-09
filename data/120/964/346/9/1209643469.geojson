@@ -1,0 +1,64 @@
+{
+  "id": 1209643469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.15773,29.52482,81.15773,29.52482",
+    "geom:latitude":29.52482,
+    "geom:longitude":81.15773,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"68.0",
+    "gn:admin4_code":"680041.0",
+    "gn:asciiname":"Dil Bagar",
+    "gn:country_code":"NP",
+    "gn:dem":1166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7997815,
+    "gn:latitude":29.52482,
+    "gn:longitude":81.15773,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dil Bagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7997815
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ccfa66b22f7268a79aff256de0c3f1d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209643469
+        }
+    ],
+    "wof:id":1209643469,
+    "wof:lastmodified":1536280811,
+    "wof:name":"Dil Bagar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.15773,
+    29.52482,
+    81.15773,
+    29.52482
+],
+  "geometry": {"coordinates":[81.15773,29.52482],"type":"Point"}
+}

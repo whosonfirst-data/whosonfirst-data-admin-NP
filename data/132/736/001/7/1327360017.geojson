@@ -1,0 +1,78 @@
+{
+  "id": 1327360017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.42588,28.86443,82.42588,28.86443",
+    "geom:latitude":28.86443,
+    "geom:longitude":82.42588,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"61.0",
+    "gn:admin4_code":"610022.0",
+    "gn:asciiname":"Chhayaro",
+    "gn:country_code":"NP",
+    "gn:dem":2062,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7953661,
+    "gn:latitude":28.86443,
+    "gn:longitude":82.42588,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chhayaro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092048763,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7953661
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6bdc7fe5b2e826d476bfbc98a16e6ba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048763,
+            "locality_id":1327360017,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048763,
+            "locality_id":1327360017,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1327360017,
+    "wof:lastmodified":1536785987,
+    "wof:name":"Chhayaro",
+    "wof:parent_id":1092048763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.42588,
+    28.86443,
+    82.42588,
+    28.86443
+],
+  "geometry": {"coordinates":[82.42588000000001,28.86443],"type":"Point"}
+}

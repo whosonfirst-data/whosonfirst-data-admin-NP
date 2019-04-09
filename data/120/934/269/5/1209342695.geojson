@@ -1,0 +1,64 @@
+{
+  "id": 1209342695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.11845,28.00218,82.11845,28.00218",
+    "geom:latitude":28.00218,
+    "geom:longitude":82.11845,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"570024.0",
+    "gn:asciiname":"Bhawaniyapur",
+    "gn:country_code":"NP",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008176,
+    "gn:latitude":28.00218,
+    "gn:longitude":82.11845,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhawaniyapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008176
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b6a05e2c2857105b615fe1cc98571e07",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209342695
+        }
+    ],
+    "wof:id":1209342695,
+    "wof:lastmodified":1536290012,
+    "wof:name":"Bhawaniyapur",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.11845,
+    28.00218,
+    82.11845,
+    28.00218
+],
+  "geometry": {"coordinates":[82.11845,28.00218],"type":"Point"}
+}

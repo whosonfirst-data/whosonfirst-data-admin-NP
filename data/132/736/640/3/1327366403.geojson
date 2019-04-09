@@ -1,0 +1,78 @@
+{
+  "id": 1327366403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.62274,29.28176,80.62274,29.28176",
+    "geom:latitude":29.28176,
+    "geom:longitude":80.62274,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"73.0",
+    "gn:admin4_code":"730003.0",
+    "gn:asciiname":"Band",
+    "gn:country_code":"NP",
+    "gn:dem":1576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7935341,
+    "gn:latitude":29.28176,
+    "gn:longitude":80.62274,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Band",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675567,
+        1092048697,
+        1108807135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7935341
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3e30e163bb18b01c9ca0b1db257a3b50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048697,
+            "locality_id":1327366403,
+            "region_id":85675567
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048697,
+            "locality_id":1327366403,
+            "region_id":1108807135
+        }
+    ],
+    "wof:id":1327366403,
+    "wof:lastmodified":1536776772,
+    "wof:name":"Band",
+    "wof:parent_id":1092048697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.62274000000002,
+    29.28176,
+    80.62274000000002,
+    29.28176
+],
+  "geometry": {"coordinates":[80.62274000000002,29.28176],"type":"Point"}
+}

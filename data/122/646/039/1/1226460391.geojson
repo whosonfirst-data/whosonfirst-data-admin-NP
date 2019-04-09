@@ -1,0 +1,78 @@
+{
+  "id": 1226460391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.70385,26.87993,87.70385,26.87993",
+    "geom:latitude":26.87993,
+    "geom:longitude":87.70385,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gairigau",
+    "gn:country_code":"NP",
+    "gn:dem":1508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11606508,
+    "gn:latitude":26.87993,
+    "gn:longitude":87.70385,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Gairi\u0307\u0304g\u0101\u0169",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Gairi\u0307\u0304g\u0101\u0169"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11606508
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"269f72ce4ecdd7e4c8184edca6004f94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1226460391,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1226460391,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1226460391,
+    "wof:lastmodified":1537676126,
+    "wof:name":"Gairigau",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.70385,
+    26.87993,
+    87.70385,
+    26.87993
+],
+  "geometry": {"coordinates":[87.70385,26.87993],"type":"Point"}
+}

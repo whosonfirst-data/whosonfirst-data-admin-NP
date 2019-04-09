@@ -1,0 +1,64 @@
+{
+  "id": 1209149897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.10896,28.07946,84.10896,28.07946",
+    "geom:latitude":28.07946,
+    "geom:longitude":84.10896,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380046.0",
+    "gn:asciiname":"Pantha Thumka",
+    "gn:country_code":"NP",
+    "gn:dem":1208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8004940,
+    "gn:latitude":28.07946,
+    "gn:longitude":84.10896,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pantha Thumka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8004940
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"18c6cb1b345b3e90bc2c06f8cd81884f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209149897
+        }
+    ],
+    "wof:id":1209149897,
+    "wof:lastmodified":1536296233,
+    "wof:name":"Pantha Thumka",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.10896,
+    28.07946,
+    84.10896,
+    28.07946
+],
+  "geometry": {"coordinates":[84.10896,28.07946],"type":"Point"}
+}

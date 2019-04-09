@@ -1,0 +1,64 @@
+{
+  "id": 1209245719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.26584,29.61372,81.26584,29.61372",
+    "geom:latitude":29.61372,
+    "geom:longitude":81.26584,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680014",
+    "gn:asciiname":"Parigaun",
+    "gn:country_code":"NP",
+    "gn:dem":1786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7990647,
+    "gn:latitude":29.61372,
+    "gn:longitude":81.26584,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Parigaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7990647
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"baba7ffe4d393e687149fba1ab2d6de9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209245719
+        }
+    ],
+    "wof:id":1209245719,
+    "wof:lastmodified":1536293172,
+    "wof:name":"Parigaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.26584,
+    29.61372,
+    81.26584,
+    29.61372
+],
+  "geometry": {"coordinates":[81.26584,29.61372],"type":"Point"}
+}

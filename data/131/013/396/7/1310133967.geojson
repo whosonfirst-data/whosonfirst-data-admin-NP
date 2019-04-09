@@ -1,0 +1,78 @@
+{
+  "id": 1310133967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.87218,28.64785,81.87218,28.64785",
+    "geom:latitude":28.64785,
+    "geom:longitude":81.87218,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590036.0",
+    "gn:asciiname":"Ghimane",
+    "gn:country_code":"NP",
+    "gn:dem":1872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7999905,
+    "gn:latitude":28.64785,
+    "gn:longitude":81.87218,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ghimane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7999905
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"431230f3d144fa3f8e29bdfc31c71eb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1310133967,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1310133967,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1310133967,
+    "wof:lastmodified":1536955617,
+    "wof:name":"Ghimane",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.87218,
+    28.64785,
+    81.87218,
+    28.64785
+],
+  "geometry": {"coordinates":[81.87218,28.64785],"type":"Point"}
+}

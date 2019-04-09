@@ -1,0 +1,78 @@
+{
+  "id": 1276708657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.80942,27.75664,82.80942,27.75664",
+    "geom:latitude":27.75664,
+    "geom:longitude":82.80942,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"50.0",
+    "gn:admin4_code":"500068.0",
+    "gn:asciiname":"Shiwagadhi",
+    "gn:country_code":"NP",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7960052,
+    "gn:latitude":27.75664,
+    "gn:longitude":82.80942,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Shiwagadhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048259,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7960052
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"891b662d21d3d27b982304bab73bbd0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1276708657,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1276708657,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1276708657,
+    "wof:lastmodified":1536773561,
+    "wof:name":"Shiwagadhi",
+    "wof:parent_id":1092048259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.80941999999997,
+    27.75664,
+    82.80941999999997,
+    27.75664
+],
+  "geometry": {"coordinates":[82.80941999999997,27.75664],"type":"Point"}
+}

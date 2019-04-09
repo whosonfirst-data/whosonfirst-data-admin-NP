@@ -1,0 +1,64 @@
+{
+  "id": 1209648251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.00987,28.72068,82.00987,28.72068",
+    "geom:latitude":28.72068,
+    "geom:longitude":82.00987,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"61.0",
+    "gn:admin4_code":"610026.0",
+    "gn:asciiname":"Kholakhet",
+    "gn:country_code":"NP",
+    "gn:dem":1298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7953752,
+    "gn:latitude":28.72068,
+    "gn:longitude":82.00987,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kholakhet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7953752
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cf305ea5851652057807ff237ae8ce21",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209648251
+        }
+    ],
+    "wof:id":1209648251,
+    "wof:lastmodified":1536280665,
+    "wof:name":"Kholakhet",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.00986999999998,
+    28.72068,
+    82.00986999999998,
+    28.72068
+],
+  "geometry": {"coordinates":[82.00986999999998,28.72068],"type":"Point"}
+}

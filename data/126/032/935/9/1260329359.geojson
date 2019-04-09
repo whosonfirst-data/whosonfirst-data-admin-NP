@@ -1,0 +1,78 @@
+{
+  "id": 1260329359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.60574,27.05905,87.60574,27.05905",
+    "geom:latitude":27.05905,
+    "geom:longitude":87.60574,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"2",
+    "gn:admin4_code":"20038",
+    "gn:asciiname":"Bijuwa Khayal",
+    "gn:country_code":"NP",
+    "gn:dem":1725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7978111,
+    "gn:latitude":27.05905,
+    "gn:longitude":87.60574,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bijuwa Khayal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7978111
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e474e55a0c9756cee9bc33176a00bf53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1260329359,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1260329359,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1260329359,
+    "wof:lastmodified":1536650195,
+    "wof:name":"Bijuwa Khayal",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.60574,
+    27.05905,
+    87.60574,
+    27.05905
+],
+  "geometry": {"coordinates":[87.60574,27.05905],"type":"Point"}
+}

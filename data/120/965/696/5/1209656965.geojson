@@ -1,0 +1,64 @@
+{
+  "id": 1209656965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.49148,28.16989,84.49148,28.16989",
+    "geom:latitude":28.16989,
+    "geom:longitude":84.49148,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370001",
+    "gn:asciiname":"Bhaiswanra",
+    "gn:country_code":"NP",
+    "gn:dem":1323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7965847,
+    "gn:latitude":28.16989,
+    "gn:longitude":84.49148,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhaiswanra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7965847
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"55b87d709db4a7090633d5ec92aed9dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209656965
+        }
+    ],
+    "wof:id":1209656965,
+    "wof:lastmodified":1536280394,
+    "wof:name":"Bhaiswanra",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.49148000000002,
+    28.16989,
+    84.49148000000002,
+    28.16989
+],
+  "geometry": {"coordinates":[84.49148000000002,28.16989],"type":"Point"}
+}

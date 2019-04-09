@@ -1,0 +1,64 @@
+{
+  "id": 1209352469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.41991,27.15188,86.41991,27.15188",
+    "geom:latitude":27.15188,
+    "geom:longitude":86.41991,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140021.0",
+    "gn:asciiname":"Sindure",
+    "gn:country_code":"NP",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007074,
+    "gn:latitude":27.15188,
+    "gn:longitude":86.41991,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sindure",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007074
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cee5cf42a4d59dd20059d316cac726d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209352469
+        }
+    ],
+    "wof:id":1209352469,
+    "wof:lastmodified":1536289699,
+    "wof:name":"Sindure",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.41991,
+    27.15188,
+    86.41991,
+    27.15188
+],
+  "geometry": {"coordinates":[86.41991,27.15188],"type":"Point"}
+}

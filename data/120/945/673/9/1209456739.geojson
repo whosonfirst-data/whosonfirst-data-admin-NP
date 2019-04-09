@@ -1,0 +1,64 @@
+{
+  "id": 1209456739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.04363,27.86515,84.04363,27.86515",
+    "geom:latitude":27.86515,
+    "geom:longitude":84.04363,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380044.0",
+    "gn:asciiname":"Bantar",
+    "gn:country_code":"NP",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8004667,
+    "gn:latitude":27.86515,
+    "gn:longitude":84.04363,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bantar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8004667
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c4b5206356a26dfa154782568b5ac6f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209456739
+        }
+    ],
+    "wof:id":1209456739,
+    "wof:lastmodified":1536286508,
+    "wof:name":"Bantar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.04363000000002,
+    27.86515,
+    84.04363000000002,
+    27.86515
+],
+  "geometry": {"coordinates":[84.04363000000002,27.86515],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209245815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.73034,28.42601,81.73034,28.42601",
+    "geom:latitude":28.42601,
+    "geom:longitude":81.73034,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590010.0",
+    "gn:asciiname":"Tolikholagaun",
+    "gn:country_code":"NP",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7998760,
+    "gn:latitude":28.42601,
+    "gn:longitude":81.73034,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tolikholagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7998760
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"41e678c6cedd3f517a9f937dedb91aff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209245815
+        }
+    ],
+    "wof:id":1209245815,
+    "wof:lastmodified":1536293169,
+    "wof:name":"Tolikholagaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.73034,
+    28.42601,
+    81.73034,
+    28.42601
+],
+  "geometry": {"coordinates":[81.73034,28.42601],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1226660393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.08977,27.38842,85.08977,27.38842",
+    "geom:latitude":27.38842,
+    "geom:longitude":85.08977,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gairigau",
+    "gn:country_code":"NP",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10329510,
+    "gn:latitude":27.38842,
+    "gn:longitude":85.08977,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Gairi\u0307\u0304g\u0101\u0169",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Gairi\u0307\u0304g\u0101\u0169"
+    ],
+    "name:nep_x_variant":[
+        "Gair\u012bg\u0101un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10329510
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"422588f2bb28c7a175c20112938f2719",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1226660393,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1226660393,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1226660393,
+    "wof:lastmodified":1537676102,
+    "wof:name":"Gairigau",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.08977,
+    27.38842,
+    85.08977,
+    27.38842
+],
+  "geometry": {"coordinates":[85.08977,27.38842],"type":"Point"}
+}

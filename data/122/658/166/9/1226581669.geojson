@@ -1,0 +1,78 @@
+{
+  "id": 1226581669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.97367,27.64245,84.97367,27.64245",
+    "geom:latitude":27.64245,
+    "geom:longitude":84.97367,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310017",
+    "gn:asciiname":"Bashyari",
+    "gn:country_code":"NP",
+    "gn:dem":1070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7968272,
+    "gn:latitude":27.64245,
+    "gn:longitude":84.97367,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bashyari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7968272
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"08401cb93e16d76339a0d38c0e55ace4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1226581669,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1226581669,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1226581669,
+    "wof:lastmodified":1536948676,
+    "wof:name":"Bashyari",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.97367,
+    27.64245,
+    84.97367,
+    27.64245
+],
+  "geometry": {"coordinates":[84.97367,27.64245],"type":"Point"}
+}

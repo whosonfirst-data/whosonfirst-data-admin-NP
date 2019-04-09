@@ -1,0 +1,78 @@
+{
+  "id": 1259531263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.59927,28.44911,84.59927,28.44911",
+    "geom:latitude":28.44911,
+    "geom:longitude":84.59927,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370014.0",
+    "gn:asciiname":"Himal Chuli(North)",
+    "gn:country_code":"NP",
+    "gn:dem":7057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7966144,
+    "gn:latitude":28.44911,
+    "gn:longitude":84.59927,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Himal Chuli(North)",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050009,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7966144
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fa88bd57b31f478bd42b545ea6117a1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1259531263,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1259531263,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1259531263,
+    "wof:lastmodified":1536790553,
+    "wof:name":"Himal Chuli(North)",
+    "wof:parent_id":1092050009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.59926999999998,
+    28.44911,
+    84.59926999999998,
+    28.44911
+],
+  "geometry": {"coordinates":[84.59926999999998,28.44911],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209543719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.28278,28.96269,81.28278,28.96269",
+    "geom:latitude":28.96269,
+    "geom:longitude":81.28278,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"69",
+    "gn:admin4_code":"690026",
+    "gn:asciiname":"Dumeijar",
+    "gn:country_code":"NP",
+    "gn:dem":1091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7976099,
+    "gn:latitude":28.96269,
+    "gn:longitude":81.28278,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dumeijar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7976099
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"14cfa5f0bb02c8bdc6658d1ee51031d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209543719
+        }
+    ],
+    "wof:id":1209543719,
+    "wof:lastmodified":1536283908,
+    "wof:name":"Dumeijar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.28278,
+    28.96269,
+    81.28278,
+    28.96269
+],
+  "geometry": {"coordinates":[81.28278,28.96269],"type":"Point"}
+}

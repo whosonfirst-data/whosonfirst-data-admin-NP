@@ -1,0 +1,78 @@
+{
+  "id": 1293049099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.79323,27.29363,87.79323,27.29363",
+    "geom:latitude":27.29363,
+    "geom:longitude":87.79323,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10048.0",
+    "gn:asciiname":"Sankrangtidanda",
+    "gn:country_code":"NP",
+    "gn:dem":1493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005791,
+    "gn:latitude":27.29363,
+    "gn:longitude":87.79323,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sankrangtidanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005791
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5528d75c21ee8595ac253eb4a67c68a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1293049099,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1293049099,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1293049099,
+    "wof:lastmodified":1536922952,
+    "wof:name":"Sankrangtidanda",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.79323000000002,
+    27.29363,
+    87.79323000000002,
+    27.29363
+],
+  "geometry": {"coordinates":[87.79323000000002,27.29363],"type":"Point"}
+}

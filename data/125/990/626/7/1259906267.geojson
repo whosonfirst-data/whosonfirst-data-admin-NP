@@ -1,0 +1,78 @@
+{
+  "id": 1259906267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.257,29.15152,81.257,29.15152",
+    "geom:latitude":29.15152,
+    "geom:longitude":81.257,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"69.0",
+    "gn:admin4_code":"690047.0",
+    "gn:asciiname":"Salleri",
+    "gn:country_code":"NP",
+    "gn:dem":1003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008956,
+    "gn:latitude":29.15152,
+    "gn:longitude":81.257,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Salleri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048527,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008956
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7c34fd3a8c473f057caeb3fb0581aa28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1259906267,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1259906267,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1259906267,
+    "wof:lastmodified":1536746138,
+    "wof:name":"Salleri",
+    "wof:parent_id":1092048527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.257,
+    29.15152,
+    81.257,
+    29.15152
+],
+  "geometry": {"coordinates":[81.25700000000001,29.15152],"type":"Point"}
+}

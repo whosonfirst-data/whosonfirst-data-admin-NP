@@ -1,0 +1,78 @@
+{
+  "id": 1360033359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.96972,26.81919,86.96972,26.81919",
+    "geom:latitude":26.81919,
+    "geom:longitude":86.96972,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140041.0",
+    "gn:asciiname":"Salghari",
+    "gn:country_code":"NP",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007753,
+    "gn:latitude":26.81919,
+    "gn:longitude":86.96972,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Salghari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050179,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007753
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b774db22109511bac3b29155b473e11f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1360033359,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1360033359,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1360033359,
+    "wof:lastmodified":1537019524,
+    "wof:name":"Salghari",
+    "wof:parent_id":1092050179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.96972,
+    26.81919000000001,
+    86.96972,
+    26.81919000000001
+],
+  "geometry": {"coordinates":[86.96972,26.81919000000001],"type":"Point"}
+}

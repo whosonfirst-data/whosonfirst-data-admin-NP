@@ -1,0 +1,78 @@
+{
+  "id": 1344006311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.95059,26.99877,86.95059,26.99877",
+    "geom:latitude":26.99877,
+    "geom:longitude":86.95059,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"13.0",
+    "gn:admin4_code":"130020.0",
+    "gn:asciiname":"Chhokomala Khailun",
+    "gn:country_code":"NP",
+    "gn:dem":1581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7964338,
+    "gn:latitude":26.99877,
+    "gn:longitude":86.95059,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chhokomala Khailun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050841,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7964338
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1967625a1541387390f27754aacc9c28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1344006311,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1344006311,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1344006311,
+    "wof:lastmodified":1536953977,
+    "wof:name":"Chhokomala Khailun",
+    "wof:parent_id":1092050841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.95059,
+    26.99877,
+    86.95059,
+    26.99877
+],
+  "geometry": {"coordinates":[86.95059000000001,26.99877],"type":"Point"}
+}

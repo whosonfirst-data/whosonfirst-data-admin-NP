@@ -1,0 +1,78 @@
+{
+  "id": 1243487191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.24214,29.24238,81.24214,29.24238",
+    "geom:latitude":29.24238,
+    "geom:longitude":81.24214,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"69.0",
+    "gn:admin4_code":"690050.0",
+    "gn:asciiname":"Muwasain",
+    "gn:country_code":"NP",
+    "gn:dem":1006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009376,
+    "gn:latitude":29.24238,
+    "gn:longitude":81.24214,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Muwasain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048527,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009376
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"187643c8c9faae6cf50c27c4679cb22a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1243487191,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1243487191,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1243487191,
+    "wof:lastmodified":1536746562,
+    "wof:name":"Muwasain",
+    "wof:parent_id":1092048527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.24214,
+    29.24238,
+    81.24214,
+    29.24238
+],
+  "geometry": {"coordinates":[81.24214000000001,29.24238],"type":"Point"}
+}

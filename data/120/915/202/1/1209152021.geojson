@@ -1,0 +1,64 @@
+{
+  "id": 1209152021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.37009,28.12678,84.37009,28.12678",
+    "geom:latitude":28.12678,
+    "geom:longitude":84.37009,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380040.0",
+    "gn:asciiname":"Tuhure Pasal",
+    "gn:country_code":"NP",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8004505,
+    "gn:latitude":28.12678,
+    "gn:longitude":84.37009,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tuhure Pasal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8004505
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1965d00ef89fbc610ac334e8a3f3e7d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209152021
+        }
+    ],
+    "wof:id":1209152021,
+    "wof:lastmodified":1536296170,
+    "wof:name":"Tuhure Pasal",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.37009,
+    28.12678,
+    84.37009,
+    28.12678
+],
+  "geometry": {"coordinates":[84.37009,28.12678],"type":"Point"}
+}

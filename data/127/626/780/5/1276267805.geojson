@@ -1,0 +1,78 @@
+{
+  "id": 1276267805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.38963,26.97889,85.38963,26.97889",
+    "geom:latitude":26.97889,
+    "geom:longitude":85.38963,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"32",
+    "gn:admin4_code":"320087",
+    "gn:asciiname":"Tokar",
+    "gn:country_code":"NP",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7982773,
+    "gn:latitude":26.97889,
+    "gn:longitude":85.38963,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tokar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049419,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7982773
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"17900a11d57a2895d5d6b17054aa5fdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1276267805,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1276267805,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1276267805,
+    "wof:lastmodified":1536865116,
+    "wof:name":"Tokar",
+    "wof:parent_id":1092049419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.38963000000003,
+    26.97889,
+    85.38963000000003,
+    26.97889
+],
+  "geometry": {"coordinates":[85.38963000000003,26.97889],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1242603877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.37725,29.11442,81.37725,29.11442",
+    "geom:latitude":29.11442,
+    "geom:longitude":81.37725,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"69.0",
+    "gn:admin4_code":"690012.0",
+    "gn:asciiname":"Kandagaun",
+    "gn:country_code":"NP",
+    "gn:dem":1792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7945306,
+    "gn:latitude":29.11442,
+    "gn:longitude":81.37725,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kandagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048527,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7945306
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b9e59e6e4aa6700f2a11df1f3f8cd2fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1242603877,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1242603877,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1242603877,
+    "wof:lastmodified":1537024795,
+    "wof:name":"Kandagaun",
+    "wof:parent_id":1092048527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.37725,
+    29.11442000000001,
+    81.37725,
+    29.11442000000001
+],
+  "geometry": {"coordinates":[81.37725,29.11442000000001],"type":"Point"}
+}

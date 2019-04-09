@@ -1,0 +1,66 @@
+{
+  "id": 1276816233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.36929,27.36411,83.36929,27.36411",
+    "geom:latitude":27.36411,
+    "geom:longitude":83.36929,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"49",
+    "gn:admin4_code":"490006",
+    "gn:asciiname":"Shrirampur",
+    "gn:country_code":"NP",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7986822,
+    "gn:latitude":27.36411,
+    "gn:longitude":83.36929,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Shrirampur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7986822
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1c03b3496d1731c75b4fa20e1b5a9daa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1276816233,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276816233,
+    "wof:lastmodified":1536627111,
+    "wof:name":"Shrirampur",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.36929,
+    27.36411,
+    83.36929,
+    27.36411
+],
+  "geometry": {"coordinates":[83.36929000000001,27.36411],"type":"Point"}
+}

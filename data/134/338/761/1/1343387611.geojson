@@ -1,0 +1,78 @@
+{
+  "id": 1343387611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.07219,29.30578,81.07219,29.30578",
+    "geom:latitude":29.30578,
+    "geom:longitude":81.07219,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"70.0",
+    "gn:admin4_code":"700017.0",
+    "gn:asciiname":"Kotkala",
+    "gn:country_code":"NP",
+    "gn:dem":1475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7946587,
+    "gn:latitude":29.30578,
+    "gn:longitude":81.07219,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kotkala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048653,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7946587
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"10d455a7a9709157f22c69a1b16002c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1343387611,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1343387611,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1343387611,
+    "wof:lastmodified":1536850381,
+    "wof:name":"Kotkala",
+    "wof:parent_id":1092048653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.07219,
+    29.30578,
+    81.07219,
+    29.30578
+],
+  "geometry": {"coordinates":[81.07219000000001,29.30578],"type":"Point"}
+}

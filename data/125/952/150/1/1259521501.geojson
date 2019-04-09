@@ -1,0 +1,78 @@
+{
+  "id": 1259521501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.93261,27.62698,85.93261,27.62698",
+    "geom:latitude":27.62698,
+    "geom:longitude":85.93261,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"22.0",
+    "gn:admin4_code":"220015.0",
+    "gn:asciiname":"Sensen",
+    "gn:country_code":"NP",
+    "gn:dem":2224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7944459,
+    "gn:latitude":27.62698,
+    "gn:longitude":85.93261,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sensen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675579,
+        1092050535,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7944459
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fef56f3a5bcf837af21692af49449332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1259521501,
+            "region_id":85675579
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1259521501,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1259521501,
+    "wof:lastmodified":1536804037,
+    "wof:name":"Sensen",
+    "wof:parent_id":1092050535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.93261,
+    27.62698,
+    85.93261,
+    27.62698
+],
+  "geometry": {"coordinates":[85.93261,27.62698],"type":"Point"}
+}

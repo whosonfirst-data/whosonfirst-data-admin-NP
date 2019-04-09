@@ -1,0 +1,78 @@
+{
+  "id": 1327166951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.12789,28.93049,80.12789,28.93049",
+    "geom:latitude":28.93049,
+    "geom:longitude":80.12789,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"72.0",
+    "gn:admin4_code":"720011.0",
+    "gn:asciiname":"Pipariya",
+    "gn:country_code":"NP",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7958891,
+    "gn:latitude":28.93049,
+    "gn:longitude":80.12789,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pipariya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048227,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7958891
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"234c615ab4ab5faa31182127f68cd96d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1327166951,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1327166951,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1327166951,
+    "wof:lastmodified":1537061426,
+    "wof:name":"Pipariya",
+    "wof:parent_id":1092048227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.12789000000002,
+    28.93049,
+    80.12789000000002,
+    28.93049
+],
+  "geometry": {"coordinates":[80.12789000000002,28.93049],"type":"Point"}
+}

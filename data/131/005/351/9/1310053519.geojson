@@ -1,0 +1,78 @@
+{
+  "id": 1310053519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.65017,26.56992,87.65017,26.56992",
+    "geom:latitude":26.56992,
+    "geom:longitude":87.65017,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40030.0",
+    "gn:asciiname":"Dimmautha",
+    "gn:country_code":"NP",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7954782,
+    "gn:latitude":26.56992,
+    "gn:longitude":87.65017,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dimmautha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7954782
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"638c5b338c9c73be7ae35c1f4d8ac1da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1310053519,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1310053519,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1310053519,
+    "wof:lastmodified":1537068552,
+    "wof:name":"Dimmautha",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.65016999999997,
+    26.56992,
+    87.65016999999997,
+    26.56992
+],
+  "geometry": {"coordinates":[87.65016999999997,26.56992],"type":"Point"}
+}

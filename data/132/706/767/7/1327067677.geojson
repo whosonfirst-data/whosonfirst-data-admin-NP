@@ -1,0 +1,78 @@
+{
+  "id": 1327067677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.29182,27.54601,83.29182,27.54601",
+    "geom:latitude":27.54601,
+    "geom:longitude":83.29182,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"49",
+    "gn:admin4_code":"490011",
+    "gn:asciiname":"Telinadihitola",
+    "gn:country_code":"NP",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7986894,
+    "gn:latitude":27.54601,
+    "gn:longitude":83.29182,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Telinadihitola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048457,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7986894
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3a088c80b689d425023daa19a35a3145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1327067677,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1327067677,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1327067677,
+    "wof:lastmodified":1536709730,
+    "wof:name":"Telinadihitola",
+    "wof:parent_id":1092048457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.29182,
+    27.54601,
+    83.29182,
+    27.54601
+],
+  "geometry": {"coordinates":[83.29182,27.54601],"type":"Point"}
+}

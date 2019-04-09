@@ -1,0 +1,78 @@
+{
+  "id": 1343476725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.72383,26.47133,86.72383,26.47133",
+    "geom:latitude":26.47133,
+    "geom:longitude":86.72383,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kochabhakari",
+    "gn:country_code":"NP",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11607578,
+    "gn:latitude":26.47133,
+    "gn:longitude":86.72383,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Koch\u0101bhak\u0101ri\u0307\u0304",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Koch\u0101bhak\u0101ri\u0307\u0304"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092048485,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11607578
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d20ff74b05917910499a5e121d5b16b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048485,
+            "locality_id":1343476725,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048485,
+            "locality_id":1343476725,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1343476725,
+    "wof:lastmodified":1537676133,
+    "wof:name":"Kochabhakari",
+    "wof:parent_id":1092048485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.72383,
+    26.47133,
+    86.72383,
+    26.47133
+],
+  "geometry": {"coordinates":[86.72383000000001,26.47133],"type":"Point"}
+}

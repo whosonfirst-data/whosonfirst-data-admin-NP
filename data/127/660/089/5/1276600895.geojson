@@ -1,0 +1,78 @@
+{
+  "id": 1276600895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.92009,27.94354,83.92009,27.94354",
+    "geom:latitude":27.94354,
+    "geom:longitude":83.92009,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390016.0",
+    "gn:asciiname":"Hatiya",
+    "gn:country_code":"NP",
+    "gn:dem":997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8000960,
+    "gn:latitude":27.94354,
+    "gn:longitude":83.92009,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Hatiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8000960
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"be6fae01fbeb61c875a3483fbefe08b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1276600895,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1276600895,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1276600895,
+    "wof:lastmodified":1536918274,
+    "wof:name":"Hatiya",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.92009,
+    27.94354,
+    83.92009,
+    27.94354
+],
+  "geometry": {"coordinates":[83.92009,27.94354],"type":"Point"}
+}

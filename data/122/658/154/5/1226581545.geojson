@@ -1,0 +1,78 @@
+{
+  "id": 1226581545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.30361,27.3451,85.30361,27.3451",
+    "geom:latitude":27.3451,
+    "geom:longitude":85.30361,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310016",
+    "gn:asciiname":"Tallo Bhuwanchuli",
+    "gn:country_code":"NP",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7968242,
+    "gn:latitude":27.3451,
+    "gn:longitude":85.30361,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tallo Bhuwanchuli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7968242
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4dc9e02f96dedb09b3aaef689183dc44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1226581545,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1226581545,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1226581545,
+    "wof:lastmodified":1536948821,
+    "wof:name":"Tallo Bhuwanchuli",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.30360999999998,
+    27.3451,
+    85.30360999999998,
+    27.3451
+],
+  "geometry": {"coordinates":[85.30360999999998,27.3451],"type":"Point"}
+}

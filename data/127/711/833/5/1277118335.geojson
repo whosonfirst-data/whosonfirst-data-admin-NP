@@ -1,0 +1,78 @@
+{
+  "id": 1277118335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.96015,27.48642,82.96015,27.48642",
+    "geom:latitude":27.48642,
+    "geom:longitude":82.96015,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"50.0",
+    "gn:admin4_code":"500032.0",
+    "gn:asciiname":"Hardauna",
+    "gn:country_code":"NP",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7959579,
+    "gn:latitude":27.48642,
+    "gn:longitude":82.96015,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Hardauna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048259,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7959579
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9e9bdbaecf2208f389946570a631a02a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1277118335,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1277118335,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1277118335,
+    "wof:lastmodified":1536716638,
+    "wof:name":"Hardauna",
+    "wof:parent_id":1092048259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.96015,
+    27.48642000000001,
+    82.96015,
+    27.48642000000001
+],
+  "geometry": {"coordinates":[82.96015,27.48642000000001],"type":"Point"}
+}

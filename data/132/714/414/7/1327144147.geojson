@@ -1,0 +1,75 @@
+{
+  "id": 1327144147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.49392,27.47257,86.49392,27.47257",
+    "geom:latitude":27.47257,
+    "geom:longitude":86.49392,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chatin",
+    "gn:country_code":"NP",
+    "gn:dem":2684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10328772,
+    "gn:latitude":27.47257,
+    "gn:longitude":86.49392,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Cha\u1e6di\u1e45",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049841,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10328772
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"13afc1a0d6d49c317c3d8cf9b39f8823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1327144147,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1327144147,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1327144147,
+    "wof:lastmodified":1537093713,
+    "wof:name":"Chatin",
+    "wof:parent_id":1092049841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.49391999999997,
+    27.47257,
+    86.49391999999997,
+    27.47257
+],
+  "geometry": {"coordinates":[86.49391999999997,27.47257],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276701799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.05131,28.03059,84.05131,28.03059",
+    "geom:latitude":28.03059,
+    "geom:longitude":84.05131,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380019.0",
+    "gn:asciiname":"Bunchas",
+    "gn:country_code":"NP",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003425,
+    "gn:latitude":28.03059,
+    "gn:longitude":84.05131,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bunchas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003425
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d4062ea8fc6f75b2005a14ff68b47f55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1276701799,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1276701799,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1276701799,
+    "wof:lastmodified":1536782494,
+    "wof:name":"Bunchas",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.05131,
+    28.03059,
+    84.05131,
+    28.03059
+],
+  "geometry": {"coordinates":[84.05131,28.03059],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1243301347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.90386,28.32293,83.90386,28.32293",
+    "geom:latitude":28.32293,
+    "geom:longitude":83.90386,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400035.0",
+    "gn:asciiname":"Anante Thanti",
+    "gn:country_code":"NP",
+    "gn:dem":1179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7961590,
+    "gn:latitude":28.32293,
+    "gn:longitude":83.90386,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Anante Thanti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092049331,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7961590
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e2dbd8f6a990a770619bc443b268ec18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1243301347,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1243301347,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1243301347,
+    "wof:lastmodified":1537013895,
+    "wof:name":"Anante Thanti",
+    "wof:parent_id":1092049331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.90386,
+    28.32293,
+    83.90386,
+    28.32293
+],
+  "geometry": {"coordinates":[83.90385999999999,28.32293],"type":"Point"}
+}

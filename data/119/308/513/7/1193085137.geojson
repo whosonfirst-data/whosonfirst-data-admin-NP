@@ -1,0 +1,78 @@
+{
+  "id": 1193085137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.03536,27.48462,87.03536,27.48462",
+    "geom:latitude":27.48462,
+    "geom:longitude":87.03536,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"9",
+    "gn:admin4_code":"90029.0",
+    "gn:asciiname":"Tenchhung",
+    "gn:country_code":"NP",
+    "gn:dem":1069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7990516,
+    "gn:latitude":27.48462,
+    "gn:longitude":87.03536,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tenchhung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049597,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7990516
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d54be63be03e7d8ec91678471bd71ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1193085137,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1193085137,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1193085137,
+    "wof:lastmodified":1536376617,
+    "wof:name":"Tenchhung",
+    "wof:parent_id":1092049597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.03536,
+    27.48462,
+    87.03536,
+    27.48462
+],
+  "geometry": {"coordinates":[87.03536,27.48462],"type":"Point"}
+}

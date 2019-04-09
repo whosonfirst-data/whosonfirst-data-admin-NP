@@ -1,0 +1,78 @@
+{
+  "id": 1293621753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.72879,29.59325,81.72879,29.59325",
+    "geom:latitude":29.59325,
+    "geom:longitude":81.72879,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"67.0",
+    "gn:admin4_code":"670025.0",
+    "gn:asciiname":"Lek Beksha",
+    "gn:country_code":"NP",
+    "gn:dem":1955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8004995,
+    "gn:latitude":29.59325,
+    "gn:longitude":81.72879,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lek Beksha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050627,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8004995
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bc414662f8fe552efc26bff36fd875c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050627,
+            "locality_id":1293621753,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050627,
+            "locality_id":1293621753,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1293621753,
+    "wof:lastmodified":1537087509,
+    "wof:name":"Lek Beksha",
+    "wof:parent_id":1092050627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.72879,
+    29.59325,
+    81.72879,
+    29.59325
+],
+  "geometry": {"coordinates":[81.72879,29.59325],"type":"Point"}
+}

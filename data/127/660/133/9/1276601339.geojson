@@ -1,0 +1,78 @@
+{
+  "id": 1276601339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.32433,26.99798,86.32433,26.99798",
+    "geom:latitude":26.99798,
+    "geom:longitude":86.32433,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200031",
+    "gn:asciiname":"Katle",
+    "gn:country_code":"NP",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7993505,
+    "gn:latitude":26.99798,
+    "gn:longitude":86.32433,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Katle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049679,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7993505
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f7110ef1bd95cb085b02674ebcd0ce2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1276601339,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1276601339,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1276601339,
+    "wof:lastmodified":1536917720,
+    "wof:name":"Katle",
+    "wof:parent_id":1092049679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.32433,
+    26.99798,
+    86.32433,
+    26.99798
+],
+  "geometry": {"coordinates":[86.32433,26.99798],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209150389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.35779,27.1997,86.35779,27.1997",
+    "geom:latitude":27.1997,
+    "geom:longitude":86.35779,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200044",
+    "gn:asciiname":"Tinkhande",
+    "gn:country_code":"NP",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7993927,
+    "gn:latitude":27.1997,
+    "gn:longitude":86.35779,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tinkhande",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7993927
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b6dcdc81681021e6f1ab5138521636f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209150389
+        }
+    ],
+    "wof:id":1209150389,
+    "wof:lastmodified":1536296222,
+    "wof:name":"Tinkhande",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.35779000000002,
+    27.1997,
+    86.35779000000002,
+    27.1997
+],
+  "geometry": {"coordinates":[86.35779000000002,27.1997],"type":"Point"}
+}

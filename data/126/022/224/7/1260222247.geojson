@@ -1,0 +1,77 @@
+{
+  "id": 1260222247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.1438,26.6492,88.1438,26.6492",
+    "geom:latitude":26.6492,
+    "geom:longitude":88.1438,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Mechinagar",
+    "gn:country_code":"NP",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9610386,
+    "gn:latitude":26.6492,
+    "gn:longitude":88.1438,
+    "gn:modification_date":"2014-09-23",
+    "gn:name":"Mechinagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9610386,
+        "wk:page":"Mechinagar"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3fd435e8023b6033bd62a2b39afbca51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1260222247,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1260222247,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1260222247,
+    "wof:lastmodified":1537570158,
+    "wof:name":"Mechinagar",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.1438,
+    26.6492,
+    88.1438,
+    26.6492
+],
+  "geometry": {"coordinates":[88.1438,26.6492],"type":"Point"}
+}

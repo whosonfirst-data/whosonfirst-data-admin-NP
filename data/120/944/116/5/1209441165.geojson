@@ -1,0 +1,64 @@
+{
+  "id": 1209441165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.70494,29.39575,80.70494,29.39575",
+    "geom:latitude":29.39575,
+    "geom:longitude":80.70494,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"73.0",
+    "gn:admin4_code":"730006.0",
+    "gn:asciiname":"Jwatadi",
+    "gn:country_code":"NP",
+    "gn:dem":1181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7935640,
+    "gn:latitude":29.39575,
+    "gn:longitude":80.70494,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jwatadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7935640
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3b274ab737f8fb5a5ae5aaa108c8e805",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209441165
+        }
+    ],
+    "wof:id":1209441165,
+    "wof:lastmodified":1536286956,
+    "wof:name":"Jwatadi",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.70494000000002,
+    29.39575,
+    80.70494000000002,
+    29.39575
+],
+  "geometry": {"coordinates":[80.70494000000002,29.39575],"type":"Point"}
+}

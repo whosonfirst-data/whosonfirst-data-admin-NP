@@ -1,0 +1,79 @@
+{
+  "id": 1292913069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.56986,27.58004,85.56986,27.58004",
+    "geom:latitude":27.58004,
+    "geom:longitude":85.56986,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Andheri",
+    "gn:country_code":"NP",
+    "gn:dem":1548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10322072,
+    "gn:latitude":27.58004,
+    "gn:longitude":85.56986,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"A\u1e45dheri\u0307\u0304",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u1e45dheri\u0307\u0304",
+        "A\u1e45dher\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10322072
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b32754822e0975b9033650558587e5ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1292913069,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1292913069,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1292913069,
+    "wof:lastmodified":1537676088,
+    "wof:name":"Andheri",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.56985999999998,
+    27.58004,
+    85.56985999999998,
+    27.58004
+],
+  "geometry": {"coordinates":[85.56985999999998,27.58004],"type":"Point"}
+}

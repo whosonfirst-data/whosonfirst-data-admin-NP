@@ -1,0 +1,64 @@
+{
+  "id": 1209033155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.86804,29.07109,80.86804,29.07109",
+    "geom:latitude":29.07109,
+    "geom:longitude":80.86804,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"70.0",
+    "gn:admin4_code":"700036.0",
+    "gn:asciiname":"Dumbata",
+    "gn:country_code":"NP",
+    "gn:dem":1619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7947259,
+    "gn:latitude":29.07109,
+    "gn:longitude":80.86804,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dumbata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7947259
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6702471a8575adb06ce19c57469c05e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209033155
+        }
+    ],
+    "wof:id":1209033155,
+    "wof:lastmodified":1536299786,
+    "wof:name":"Dumbata",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.86804000000002,
+    29.07109,
+    80.86804000000002,
+    29.07109
+],
+  "geometry": {"coordinates":[80.86804000000002,29.07109],"type":"Point"}
+}

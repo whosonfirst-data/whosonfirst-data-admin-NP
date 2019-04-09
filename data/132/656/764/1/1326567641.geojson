@@ -1,0 +1,78 @@
+{
+  "id": 1326567641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.17135,27.47862,87.17135,27.47862",
+    "geom:latitude":27.47862,
+    "geom:longitude":87.17135,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"9",
+    "gn:admin4_code":"90009",
+    "gn:asciiname":"Kheutar",
+    "gn:country_code":"NP",
+    "gn:dem":1013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7990005,
+    "gn:latitude":27.47862,
+    "gn:longitude":87.17135,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kheutar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049597,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7990005
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8e8999e0bacffa5770c1d45f93cf0b60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1326567641,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1326567641,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1326567641,
+    "wof:lastmodified":1536933639,
+    "wof:name":"Kheutar",
+    "wof:parent_id":1092049597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.17135,
+    27.47862000000001,
+    87.17135,
+    27.47862000000001
+],
+  "geometry": {"coordinates":[87.17135,27.47862000000001],"type":"Point"}
+}

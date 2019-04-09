@@ -1,0 +1,81 @@
+{
+  "id": 1226083667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.50502,27.31031,86.50502,27.31031",
+    "geom:latitude":27.31031,
+    "geom:longitude":86.50502,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:asciiname":"Okhaldhunga",
+    "gn:country_code":"NP",
+    "gn:dem":1717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282968,
+    "gn:latitude":27.31031,
+    "gn:longitude":86.50502,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Okhaldhung\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okhaldhunga Bazaar",
+        "Okhaldhung\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050225,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282968,
+        "wk:page":"Okhaldhunga"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"86e49a1e6a53d0844690e9f53711cb45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050225,
+            "locality_id":1226083667,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050225,
+            "locality_id":1226083667,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1226083667,
+    "wof:lastmodified":1537676046,
+    "wof:name":"Okhaldhunga",
+    "wof:parent_id":1092050225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.50502,
+    27.31031,
+    86.50502,
+    27.31031
+],
+  "geometry": {"coordinates":[86.50502,27.31031],"type":"Point"}
+}

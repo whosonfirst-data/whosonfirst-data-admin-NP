@@ -1,0 +1,85 @@
+{
+  "id": 1259392397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.06843,27.92148,82.06843,27.92148",
+    "geom:latitude":27.92148,
+    "geom:longitude":82.06843,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bhowa",
+    "gn:country_code":"NP",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283594,
+    "gn:latitude":27.92148,
+    "gn:longitude":82.06843,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Bhowa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048605,
+        85675605,
+        85632469,
+        85672205,
+        1108695853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283594
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7b418da2f9cc9bba31249f164670213d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1259392397,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1259392397,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695853,
+            "locality_id":1259392397,
+            "region_id":85672205
+        }
+    ],
+    "wof:id":1259392397,
+    "wof:lastmodified":1536988499,
+    "wof:name":"Bhowa",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.06843,
+    27.92148,
+    82.06843,
+    27.92148
+],
+  "geometry": {"coordinates":[82.06843000000001,27.92148],"type":"Point"}
+}

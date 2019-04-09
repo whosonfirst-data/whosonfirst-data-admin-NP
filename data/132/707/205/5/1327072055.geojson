@@ -1,0 +1,78 @@
+{
+  "id": 1327072055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.27395,27.60851,85.27395,27.60851",
+    "geom:latitude":27.60851,
+    "geom:longitude":85.27395,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"27.0",
+    "gn:admin4_code":"270015.0",
+    "gn:asciiname":"Nimitol",
+    "gn:country_code":"NP",
+    "gn:dem":1512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7961970,
+    "gn:latitude":27.60851,
+    "gn:longitude":85.27395,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nimitol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092048931,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7961970
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"970fd781516159a6f0fd6343ed313079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":1327072055,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":1327072055,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1327072055,
+    "wof:lastmodified":1536703531,
+    "wof:name":"Nimitol",
+    "wof:parent_id":1092048931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.27395,
+    27.60851,
+    85.27395,
+    27.60851
+],
+  "geometry": {"coordinates":[85.27395,27.60851],"type":"Point"}
+}

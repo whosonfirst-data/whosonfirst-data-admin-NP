@@ -1,0 +1,78 @@
+{
+  "id": 1193216003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.9043,27.39128,87.9043,27.39128",
+    "geom:latitude":27.39128,
+    "geom:longitude":87.9043,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10014.0",
+    "gn:asciiname":"Lungthung",
+    "gn:country_code":"NP",
+    "gn:dem":1872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005188,
+    "gn:latitude":27.39128,
+    "gn:longitude":87.9043,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lungthung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005188
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1b7b7148eae8e6eb9c30611c5ff4926c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1193216003,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1193216003,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1193216003,
+    "wof:lastmodified":1536380486,
+    "wof:name":"Lungthung",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.9043,
+    27.39128,
+    87.9043,
+    27.39128
+],
+  "geometry": {"coordinates":[87.90430000000001,27.39128],"type":"Point"}
+}

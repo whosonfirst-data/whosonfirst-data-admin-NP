@@ -1,0 +1,78 @@
+{
+  "id": 1343492183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.36344,28.68913,82.36344,28.68913",
+    "geom:latitude":28.68913,
+    "geom:longitude":82.36344,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"54",
+    "gn:admin4_code":"540010",
+    "gn:asciiname":"Busyani",
+    "gn:country_code":"NP",
+    "gn:dem":2060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7985340,
+    "gn:latitude":28.68913,
+    "gn:longitude":82.36344,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Busyani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049495,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7985340
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"34f61fafb28701e1836f4a7b8ccd9e63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1343492183,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1343492183,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1343492183,
+    "wof:lastmodified":1536700698,
+    "wof:name":"Busyani",
+    "wof:parent_id":1092049495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.36344,
+    28.68913,
+    82.36344,
+    28.68913
+],
+  "geometry": {"coordinates":[82.36344,28.68913],"type":"Point"}
+}

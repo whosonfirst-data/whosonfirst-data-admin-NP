@@ -1,0 +1,78 @@
+{
+  "id": 1293538001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.85958,28.11372,84.85958,28.11372",
+    "geom:latitude":28.11372,
+    "geom:longitude":84.85958,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300003.0",
+    "gn:asciiname":"Lamdanda",
+    "gn:country_code":"NP",
+    "gn:dem":1165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7941155,
+    "gn:latitude":28.11372,
+    "gn:longitude":84.85958,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lamdanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7941155
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"674e07e372ed3326870c3f161308157c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1293538001,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1293538001,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1293538001,
+    "wof:lastmodified":1536714742,
+    "wof:name":"Lamdanda",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.85958000000002,
+    28.11372,
+    84.85958000000002,
+    28.11372
+],
+  "geometry": {"coordinates":[84.85958000000002,28.11372],"type":"Point"}
+}

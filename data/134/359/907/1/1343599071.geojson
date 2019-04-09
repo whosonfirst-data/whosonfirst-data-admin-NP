@@ -1,0 +1,78 @@
+{
+  "id": 1343599071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.04477,27.96367,84.04477,27.96367",
+    "geom:latitude":27.96367,
+    "geom:longitude":84.04477,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380032.0",
+    "gn:asciiname":"Bel Bhanjyang",
+    "gn:country_code":"NP",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8004123,
+    "gn:latitude":27.96367,
+    "gn:longitude":84.04477,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bel Bhanjyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8004123
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"928622c0ac50bc72a55d0acb52eae995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1343599071,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1343599071,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1343599071,
+    "wof:lastmodified":1537041770,
+    "wof:name":"Bel Bhanjyang",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.04477,
+    27.96367,
+    84.04477,
+    27.96367
+],
+  "geometry": {"coordinates":[84.04477,27.96367],"type":"Point"}
+}

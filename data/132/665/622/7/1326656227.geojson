@@ -1,0 +1,78 @@
+{
+  "id": 1326656227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.05972,29.23171,82.05972,29.23171",
+    "geom:latitude":29.23171,
+    "geom:longitude":82.05972,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"630030.0",
+    "gn:asciiname":"Sundargaun",
+    "gn:country_code":"NP",
+    "gn:dem":2228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956171,
+    "gn:latitude":29.23171,
+    "gn:longitude":82.05972,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sundargaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092050797,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956171
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"976fba81c11f3a7611dbc94b487b8196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1326656227,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1326656227,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1326656227,
+    "wof:lastmodified":1536805201,
+    "wof:name":"Sundargaun",
+    "wof:parent_id":1092050797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.05972,
+    29.23171,
+    82.05972,
+    29.23171
+],
+  "geometry": {"coordinates":[82.05972,29.23171],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209143803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.14392,27.93048,85.14392,27.93048",
+    "geom:latitude":27.93048,
+    "geom:longitude":85.14392,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"28",
+    "gn:admin4_code":"280008",
+    "gn:asciiname":"Thumka",
+    "gn:country_code":"NP",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7973762,
+    "gn:latitude":27.93048,
+    "gn:longitude":85.14392,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thumka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7973762
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9761d6230448d8d79b59d23ddc14c34b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209143803
+        }
+    ],
+    "wof:id":1209143803,
+    "wof:lastmodified":1536296424,
+    "wof:name":"Thumka",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.14392,
+    27.93048,
+    85.14392,
+    27.93048
+],
+  "geometry": {"coordinates":[85.14391999999999,27.93048],"type":"Point"}
+}

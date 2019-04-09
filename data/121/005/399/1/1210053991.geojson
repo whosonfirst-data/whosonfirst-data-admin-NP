@@ -1,0 +1,78 @@
+{
+  "id": 1210053991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.82345,28.08373,83.82345,28.08373",
+    "geom:latitude":28.08373,
+    "geom:longitude":83.82345,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390044.0",
+    "gn:asciiname":"Rindiphat",
+    "gn:country_code":"NP",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001840,
+    "gn:latitude":28.08373,
+    "gn:longitude":83.82345,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Rindiphat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001840
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"29e7685820652833529b41a9927b3c36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1210053991,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1210053991,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1210053991,
+    "wof:lastmodified":1536370477,
+    "wof:name":"Rindiphat",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.82345,
+    28.08373,
+    83.82345,
+    28.08373
+],
+  "geometry": {"coordinates":[83.82344999999999,28.08373],"type":"Point"}
+}

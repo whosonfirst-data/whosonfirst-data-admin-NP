@@ -1,0 +1,78 @@
+{
+  "id": 1310420157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.05341,26.74968,88.05341,26.74968",
+    "geom:latitude":26.74968,
+    "geom:longitude":88.05341,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Barnedadagau",
+    "gn:country_code":"NP",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11601234,
+    "gn:latitude":26.74968,
+    "gn:longitude":88.05341,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Barne\u1e0d\u0101\u0303\u1e0d\u0101g\u0101\u0169",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Barne\u1e0d\u0101\u0303\u1e0d\u0101g\u0101\u0169"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11601234
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b0294a66bd948f454f1f6dd87e394e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1310420157,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1310420157,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1310420157,
+    "wof:lastmodified":1537676116,
+    "wof:name":"Barnedadagau",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.05341,
+    26.74968,
+    88.05341,
+    26.74968
+],
+  "geometry": {"coordinates":[88.05341,26.74968],"type":"Point"}
+}

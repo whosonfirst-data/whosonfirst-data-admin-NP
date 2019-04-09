@@ -1,0 +1,64 @@
+{
+  "id": 1209031107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.44327,29.34066,80.44327,29.34066",
+    "geom:latitude":29.34066,
+    "geom:longitude":80.44327,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"73.0",
+    "gn:admin4_code":"730010.0",
+    "gn:asciiname":"Bhadi",
+    "gn:country_code":"NP",
+    "gn:dem":1152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7935790,
+    "gn:latitude":29.34066,
+    "gn:longitude":80.44327,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7935790
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"04a392cedc624e4308df067c34913085",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209031107
+        }
+    ],
+    "wof:id":1209031107,
+    "wof:lastmodified":1536299847,
+    "wof:name":"Bhadi",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.44327,
+    29.34066,
+    80.44327,
+    29.34066
+],
+  "geometry": {"coordinates":[80.44327,29.34066],"type":"Point"}
+}

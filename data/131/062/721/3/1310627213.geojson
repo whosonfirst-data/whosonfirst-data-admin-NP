@@ -1,0 +1,78 @@
+{
+  "id": 1310627213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.38315,28.92675,81.38315,28.92675",
+    "geom:latitude":28.92675,
+    "geom:longitude":81.38315,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"69.0",
+    "gn:admin4_code":"690073.0",
+    "gn:asciiname":"Belrukh",
+    "gn:country_code":"NP",
+    "gn:dem":970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7936951,
+    "gn:latitude":28.92675,
+    "gn:longitude":81.38315,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Belrukh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048527,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7936951
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2aeea7373eb2bd24da628c7568b56bf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1310627213,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1310627213,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1310627213,
+    "wof:lastmodified":1536741297,
+    "wof:name":"Belrukh",
+    "wof:parent_id":1092048527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.38315,
+    28.92675,
+    81.38315,
+    28.92675
+],
+  "geometry": {"coordinates":[81.38315,28.92675],"type":"Point"}
+}

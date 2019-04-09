@@ -1,0 +1,64 @@
+{
+  "id": 1209031025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.4465,27.99705,82.4465,27.99705",
+    "geom:latitude":27.99705,
+    "geom:longitude":82.4465,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"560032.0",
+    "gn:asciiname":"Bachaha",
+    "gn:country_code":"NP",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7939655,
+    "gn:latitude":27.99705,
+    "gn:longitude":82.4465,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bachaha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7939655
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c1aa5fd0a4fe627809a3cad47384513b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209031025
+        }
+    ],
+    "wof:id":1209031025,
+    "wof:lastmodified":1536299850,
+    "wof:name":"Bachaha",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.4465,
+    27.99705,
+    82.4465,
+    27.99705
+],
+  "geometry": {"coordinates":[82.4465,27.99705],"type":"Point"}
+}

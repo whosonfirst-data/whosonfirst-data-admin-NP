@@ -1,0 +1,64 @@
+{
+  "id": 1209134245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.63582,28.91798,81.63582,28.91798",
+    "geom:latitude":28.91798,
+    "geom:longitude":81.63582,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"60.0",
+    "gn:admin4_code":"600032.0",
+    "gn:asciiname":"Pithubada",
+    "gn:country_code":"NP",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7937464,
+    "gn:latitude":28.91798,
+    "gn:longitude":81.63582,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pithubada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7937464
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2383a2b71f1a1ce08c4e06f62a009a87",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209134245
+        }
+    ],
+    "wof:id":1209134245,
+    "wof:lastmodified":1536296713,
+    "wof:name":"Pithubada",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.63582,
+    28.91798,
+    81.63582,
+    28.91798
+],
+  "geometry": {"coordinates":[81.63582,28.91798],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1242915303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.85246,26.6223,87.85246,26.6223",
+    "geom:latitude":26.6223,
+    "geom:longitude":87.85246,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40047.0",
+    "gn:asciiname":"Baisabari",
+    "gn:country_code":"NP",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7955392,
+    "gn:latitude":26.6223,
+    "gn:longitude":87.85246,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Baisabari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7955392
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5ab00d33e89723626483508098a14dcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1242915303,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1242915303,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1242915303,
+    "wof:lastmodified":1537071245,
+    "wof:name":"Baisabari",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.85246,
+    26.6223,
+    87.85246,
+    26.6223
+],
+  "geometry": {"coordinates":[87.85245999999999,26.6223],"type":"Point"}
+}

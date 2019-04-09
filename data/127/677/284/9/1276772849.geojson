@@ -1,0 +1,81 @@
+{
+  "id": 1276772849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.87161,27.02284,85.87161,27.02284",
+    "geom:latitude":27.02284,
+    "geom:longitude":85.87161,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nayatol",
+    "gn:country_code":"NP",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10328249,
+    "gn:latitude":27.02284,
+    "gn:longitude":85.87161,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Nay\u0101\u0303\u1e6dol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Nay\u0101n\u1e6dol"
+    ],
+    "name:und_x_variant":[
+        "Nay\u0101\u0303\u1e6dol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092050709,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10328249
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c9c2da3e53a4f310ce44a257287a8533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050709,
+            "locality_id":1276772849,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050709,
+            "locality_id":1276772849,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1276772849,
+    "wof:lastmodified":1537676096,
+    "wof:name":"Nayatol",
+    "wof:parent_id":1092050709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.87161,
+    27.02284,
+    85.87161,
+    27.02284
+],
+  "geometry": {"coordinates":[85.87161,27.02284],"type":"Point"}
+}

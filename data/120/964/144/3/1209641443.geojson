@@ -1,0 +1,64 @@
+{
+  "id": 1209641443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.13364,27.89412,82.13364,27.89412",
+    "geom:latitude":27.89412,
+    "geom:longitude":82.13364,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"560028.0",
+    "gn:asciiname":"Jelwan",
+    "gn:country_code":"NP",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7939376,
+    "gn:latitude":27.89412,
+    "gn:longitude":82.13364,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jelwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7939376
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8e4789aef5a97bb4be12498f99765399",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209641443
+        }
+    ],
+    "wof:id":1209641443,
+    "wof:lastmodified":1536280872,
+    "wof:name":"Jelwan",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.13364,
+    27.89412,
+    82.13364,
+    27.89412
+],
+  "geometry": {"coordinates":[82.13364,27.89412],"type":"Point"}
+}

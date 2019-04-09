@@ -1,0 +1,64 @@
+{
+  "id": 1209150379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.90793,26.82943,85.90793,26.82943",
+    "geom:latitude":26.82943,
+    "geom:longitude":85.90793,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"18",
+    "gn:admin4_code":"180031",
+    "gn:asciiname":"Hariharpur",
+    "gn:country_code":"NP",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7967365,
+    "gn:latitude":26.82943,
+    "gn:longitude":85.90793,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Hariharpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7967365
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"187a0719eeaa22c29d9574b398eeb4c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209150379
+        }
+    ],
+    "wof:id":1209150379,
+    "wof:lastmodified":1536296222,
+    "wof:name":"Hariharpur",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.90793000000002,
+    26.82943,
+    85.90793000000002,
+    26.82943
+],
+  "geometry": {"coordinates":[85.90793000000002,26.82943],"type":"Point"}
+}

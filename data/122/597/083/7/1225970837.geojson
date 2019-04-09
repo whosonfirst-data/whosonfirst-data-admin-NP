@@ -1,0 +1,78 @@
+{
+  "id": 1225970837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.68905,28.17545,82.68905,28.17545",
+    "geom:latitude":28.17545,
+    "geom:longitude":82.68905,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"52",
+    "gn:admin4_code":"520007",
+    "gn:asciiname":"Lungsarkot",
+    "gn:country_code":"NP",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7979861,
+    "gn:latitude":28.17545,
+    "gn:longitude":82.68905,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lungsarkot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049377,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7979861
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"45327a6e7ee88916ab220e3852ae5ae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1225970837,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1225970837,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1225970837,
+    "wof:lastmodified":1536832227,
+    "wof:name":"Lungsarkot",
+    "wof:parent_id":1092049377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.68905,
+    28.17545,
+    82.68905,
+    28.17545
+],
+  "geometry": {"coordinates":[82.68904999999999,28.17545],"type":"Point"}
+}

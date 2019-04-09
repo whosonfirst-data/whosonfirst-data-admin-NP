@@ -1,0 +1,78 @@
+{
+  "id": 1276697507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.65032,27.99885,83.65032,27.99885",
+    "geom:latitude":27.99885,
+    "geom:longitude":83.65032,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390043.0",
+    "gn:asciiname":"Kubinde",
+    "gn:country_code":"NP",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001791,
+    "gn:latitude":27.99885,
+    "gn:longitude":83.65032,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kubinde",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001791
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c0932f5ccc82ee493f32b892b606db4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1276697507,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1276697507,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1276697507,
+    "wof:lastmodified":1536788095,
+    "wof:name":"Kubinde",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.65032,
+    27.99885,
+    83.65032,
+    27.99885
+],
+  "geometry": {"coordinates":[83.65031999999999,27.99885],"type":"Point"}
+}

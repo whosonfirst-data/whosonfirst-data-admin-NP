@@ -1,0 +1,78 @@
+{
+  "id": 1193184165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.95624,27.21163,86.95624,27.21163",
+    "geom:latitude":27.21163,
+    "geom:longitude":86.95624,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100002.0",
+    "gn:asciiname":"Namdalung",
+    "gn:country_code":"NP",
+    "gn:dem":1729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8010338,
+    "gn:latitude":27.21163,
+    "gn:longitude":86.95624,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Namdalung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8010338
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7df29c2a65f46cde78039a60c7d95832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1193184165,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1193184165,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1193184165,
+    "wof:lastmodified":1536367077,
+    "wof:name":"Namdalung",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.95624000000002,
+    27.21163,
+    86.95624000000002,
+    27.21163
+],
+  "geometry": {"coordinates":[86.95624000000002,27.21163],"type":"Point"}
+}

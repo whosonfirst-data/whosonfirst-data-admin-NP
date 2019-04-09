@@ -1,0 +1,64 @@
+{
+  "id": 1209150467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.04248,27.09712,86.04248,27.09712",
+    "geom:latitude":27.09712,
+    "geom:longitude":86.04248,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200007",
+    "gn:asciiname":"Tirtire",
+    "gn:country_code":"NP",
+    "gn:dem":809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7992502,
+    "gn:latitude":27.09712,
+    "gn:longitude":86.04248,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tirtire",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7992502
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"da937f5f57b585b8b243ac748a4dd99a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209150467
+        }
+    ],
+    "wof:id":1209150467,
+    "wof:lastmodified":1536296221,
+    "wof:name":"Tirtire",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.04248,
+    27.09712,
+    86.04248,
+    27.09712
+],
+  "geometry": {"coordinates":[86.04248,27.09712],"type":"Point"}
+}

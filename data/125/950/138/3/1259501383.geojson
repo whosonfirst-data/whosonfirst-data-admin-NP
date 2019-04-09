@@ -1,0 +1,75 @@
+{
+  "id": 1259501383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.43721,30.11264,81.43721,30.11264",
+    "geom:latitude":30.11264,
+    "geom:longitude":81.43721,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yari",
+    "gn:country_code":"NP",
+    "gn:dem":3798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282605,
+    "gn:latitude":30.11264,
+    "gn:longitude":81.43721,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Y\u0101ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050353,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282605
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ba1b29f91c81534b8a908aa1933802a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1259501383,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1259501383,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1259501383,
+    "wof:lastmodified":1536832062,
+    "wof:name":"Yari",
+    "wof:parent_id":1092050353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.43721,
+    30.11264000000001,
+    81.43721,
+    30.11264000000001
+],
+  "geometry": {"coordinates":[81.43720999999999,30.11264000000001],"type":"Point"}
+}

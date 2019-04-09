@@ -1,0 +1,64 @@
+{
+  "id": 1209441151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.67433,28.53924,82.67433,28.53924",
+    "geom:latitude":28.53924,
+    "geom:longitude":82.67433,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"54",
+    "gn:admin4_code":"540024",
+    "gn:asciiname":"Gumilja",
+    "gn:country_code":"NP",
+    "gn:dem":2078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7985823,
+    "gn:latitude":28.53924,
+    "gn:longitude":82.67433,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gumilja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7985823
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f6b72defaf376fdcf0ad510af2e2b765",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209441151
+        }
+    ],
+    "wof:id":1209441151,
+    "wof:lastmodified":1536286956,
+    "wof:name":"Gumilja",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.67433,
+    28.539240000000003,
+    82.67433,
+    28.539240000000003
+],
+  "geometry": {"coordinates":[82.67433,28.53924],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226184571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.23973,27.59512,85.23973,27.59512",
+    "geom:latitude":27.59512,
+    "geom:longitude":85.23973,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310015",
+    "gn:asciiname":"Gothbhitta",
+    "gn:country_code":"NP",
+    "gn:dem":1876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7968159,
+    "gn:latitude":27.59512,
+    "gn:longitude":85.23973,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gothbhitta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092048931,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7968159
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ae7422c2cd40c9f9788cc2dc06deaab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":1226184571,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":1226184571,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1226184571,
+    "wof:lastmodified":1537020841,
+    "wof:name":"Gothbhitta",
+    "wof:parent_id":1092048931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.23973000000002,
+    27.59512,
+    85.23973000000002,
+    27.59512
+],
+  "geometry": {"coordinates":[85.23973000000002,27.59512],"type":"Point"}
+}

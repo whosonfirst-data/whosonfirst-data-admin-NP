@@ -1,0 +1,78 @@
+{
+  "id": 1260106413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.68395,28.21897,81.68395,28.21897",
+    "geom:latitude":28.21897,
+    "geom:longitude":81.68395,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"570039.0",
+    "gn:asciiname":"Jumlitol",
+    "gn:country_code":"NP",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008467,
+    "gn:latitude":28.21897,
+    "gn:longitude":81.68395,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jumlitol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092050297,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008467
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"680beba4296e2f8d060e420fba255278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1260106413,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1260106413,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1260106413,
+    "wof:lastmodified":1536955206,
+    "wof:name":"Jumlitol",
+    "wof:parent_id":1092050297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.68395,
+    28.21897,
+    81.68395,
+    28.21897
+],
+  "geometry": {"coordinates":[81.68395,28.21897],"type":"Point"}
+}

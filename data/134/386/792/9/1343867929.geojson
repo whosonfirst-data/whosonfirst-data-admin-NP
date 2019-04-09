@@ -1,0 +1,75 @@
+{
+  "id": 1343867929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.06189,29.24402,82.06189,29.24402",
+    "geom:latitude":29.24402,
+    "geom:longitude":82.06189,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Litakot",
+    "gn:country_code":"NP",
+    "gn:dem":2733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283120,
+    "gn:latitude":29.24402,
+    "gn:longitude":82.06189,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Lit\u0101kot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092050797,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283120
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ac59451d63d1f961e436cdbdf2e0ddfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1343867929,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1343867929,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1343867929,
+    "wof:lastmodified":1536655792,
+    "wof:name":"Litakot",
+    "wof:parent_id":1092050797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.06189,
+    29.24402000000001,
+    82.06189,
+    29.24402000000001
+],
+  "geometry": {"coordinates":[82.06189000000001,29.24402000000001],"type":"Point"}
+}

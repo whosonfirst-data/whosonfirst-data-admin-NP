@@ -1,0 +1,78 @@
+{
+  "id": 1226083687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.25132,26.74722,86.25132,26.74722",
+    "geom:latitude":26.74722,
+    "geom:longitude":86.25132,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"16",
+    "gn:admin4_code":"160089",
+    "gn:asciiname":"Kauwaha",
+    "gn:country_code":"NP",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7996293,
+    "gn:latitude":26.74722,
+    "gn:longitude":86.25132,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kauwaha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092050497,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7996293
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"25968ab1e34ce7136e13dfb5137d1d3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050497,
+            "locality_id":1226083687,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050497,
+            "locality_id":1226083687,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1226083687,
+    "wof:lastmodified":1536670354,
+    "wof:name":"Kauwaha",
+    "wof:parent_id":1092050497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.25131999999998,
+    26.74722,
+    86.25131999999998,
+    26.74722
+],
+  "geometry": {"coordinates":[86.25131999999998,26.74722],"type":"Point"}
+}

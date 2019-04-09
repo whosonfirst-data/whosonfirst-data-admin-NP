@@ -1,0 +1,78 @@
+{
+  "id": 1226180345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.21985,27.03442,85.21985,27.03442",
+    "geom:latitude":27.03442,
+    "geom:longitude":85.21985,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"32",
+    "gn:admin4_code":"320052",
+    "gn:asciiname":"Laksminiya Uttarbaritol",
+    "gn:country_code":"NP",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7982613,
+    "gn:latitude":27.03442,
+    "gn:longitude":85.21985,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Laksminiya Uttarbaritol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049419,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7982613
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"70d4587f8d704238dac63915191e942f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1226180345,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1226180345,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1226180345,
+    "wof:lastmodified":1537026557,
+    "wof:name":"Laksminiya Uttarbaritol",
+    "wof:parent_id":1092049419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.21985,
+    27.03442,
+    85.21985,
+    27.03442
+],
+  "geometry": {"coordinates":[85.21984999999999,27.03442],"type":"Point"}
+}

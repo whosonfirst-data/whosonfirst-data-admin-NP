@@ -1,0 +1,78 @@
+{
+  "id": 1193214631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.84891,28.00469,83.84891,28.00469",
+    "geom:latitude":28.00469,
+    "geom:longitude":83.84891,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390032.0",
+    "gn:asciiname":"Baddanda",
+    "gn:country_code":"NP",
+    "gn:dem":1303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001425,
+    "gn:latitude":28.00469,
+    "gn:longitude":83.84891,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Baddanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001425
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"27464a50487b77becb3cf3db50298502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1193214631,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1193214631,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1193214631,
+    "wof:lastmodified":1536381799,
+    "wof:name":"Baddanda",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.84891,
+    28.00469,
+    83.84891,
+    28.00469
+],
+  "geometry": {"coordinates":[83.84891,28.00469],"type":"Point"}
+}

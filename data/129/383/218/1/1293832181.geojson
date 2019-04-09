@@ -1,0 +1,78 @@
+{
+  "id": 1293832181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.19143,27.11952,86.19143,27.11952",
+    "geom:latitude":27.11952,
+    "geom:longitude":86.19143,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200054",
+    "gn:asciiname":"Pahire",
+    "gn:country_code":"NP",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7994221,
+    "gn:latitude":27.11952,
+    "gn:longitude":86.19143,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pahire",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049679,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7994221
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c0897faa81e06e9a14b7c78a96b385e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1293832181,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1293832181,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1293832181,
+    "wof:lastmodified":1536787854,
+    "wof:name":"Pahire",
+    "wof:parent_id":1092049679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.19143000000003,
+    27.11952,
+    86.19143000000003,
+    27.11952
+],
+  "geometry": {"coordinates":[86.19143000000003,27.11952],"type":"Point"}
+}

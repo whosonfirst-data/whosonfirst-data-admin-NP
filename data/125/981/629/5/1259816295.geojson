@@ -1,0 +1,79 @@
+{
+  "id": 1259816295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.83498,27.95552,82.83498,27.95552",
+    "geom:latitude":27.95552,
+    "geom:longitude":82.83498,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"52",
+    "gn:admin4_code":"520019",
+    "gn:asciiname":"Dhungegadhi",
+    "gn:country_code":"NP",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7980174,
+    "gn:latitude":27.95552,
+    "gn:longitude":82.83498,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhungegadhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049377,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7980174,
+        "wk:page":"Dhungegadhi"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6776e7ebec9da89b4ffcb298497de318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1259816295,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1259816295,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1259816295,
+    "wof:lastmodified":1537570152,
+    "wof:name":"Dhungegadhi",
+    "wof:parent_id":1092049377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.83498,
+    27.95552,
+    82.83498,
+    27.95552
+],
+  "geometry": {"coordinates":[82.83498,27.95552],"type":"Point"}
+}

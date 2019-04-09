@@ -1,0 +1,78 @@
+{
+  "id": 1310143363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.40373,28.18617,84.40373,28.18617",
+    "geom:latitude":28.18617,
+    "geom:longitude":84.40373,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370060",
+    "gn:asciiname":"Sano Dhimire",
+    "gn:country_code":"NP",
+    "gn:dem":898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7967148,
+    "gn:latitude":28.18617,
+    "gn:longitude":84.40373,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sano Dhimire",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050009,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7967148
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"72acf00d6def3220dfd080e791e6ac4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1310143363,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1310143363,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1310143363,
+    "wof:lastmodified":1536942413,
+    "wof:name":"Sano Dhimire",
+    "wof:parent_id":1092050009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.40373000000002,
+    28.18617,
+    84.40373000000002,
+    28.18617
+],
+  "geometry": {"coordinates":[84.40373000000002,28.18617],"type":"Point"}
+}

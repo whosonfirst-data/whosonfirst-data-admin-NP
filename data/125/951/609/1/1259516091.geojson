@@ -1,0 +1,78 @@
+{
+  "id": 1259516091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.24797,28.74223,81.24797,28.74223",
+    "geom:latitude":28.74223,
+    "geom:longitude":81.24797,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710040.0",
+    "gn:asciiname":"Badigaun",
+    "gn:country_code":"NP",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7957765,
+    "gn:latitude":28.74223,
+    "gn:longitude":81.24797,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Badigaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7957765
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"657415edd900d93f864e3f44adadc4c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1259516091,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1259516091,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1259516091,
+    "wof:lastmodified":1536811473,
+    "wof:name":"Badigaun",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.24797,
+    28.74223,
+    81.24797,
+    28.74223
+],
+  "geometry": {"coordinates":[81.24797,28.74223],"type":"Point"}
+}

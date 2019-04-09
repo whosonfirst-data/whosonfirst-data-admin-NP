@@ -1,0 +1,78 @@
+{
+  "id": 1327171917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.17281,27.11934,87.17281,27.11934",
+    "geom:latitude":27.11934,
+    "geom:longitude":87.17281,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100051.0",
+    "gn:asciiname":"Chuwanbari",
+    "gn:country_code":"NP",
+    "gn:dem":1555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933785,
+    "gn:latitude":27.11934,
+    "gn:longitude":87.17281,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chuwanbari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933785
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fc14119aa9ebc12c1f7944219939660f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1327171917,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1327171917,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1327171917,
+    "wof:lastmodified":1537054511,
+    "wof:name":"Chuwanbari",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.17281,
+    27.11934,
+    87.17281,
+    27.11934
+],
+  "geometry": {"coordinates":[87.17281,27.11934],"type":"Point"}
+}

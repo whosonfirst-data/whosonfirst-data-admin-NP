@@ -1,0 +1,78 @@
+{
+  "id": 1310038581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.21809,29.43805,81.21809,29.43805",
+    "geom:latitude":29.43805,
+    "geom:longitude":81.21809,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680015",
+    "gn:asciiname":"Gadraya",
+    "gn:country_code":"NP",
+    "gn:dem":1898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7990879,
+    "gn:latitude":29.43805,
+    "gn:longitude":81.21809,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gadraya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048571,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7990879
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6a7a62f0ca26e1bf5d2ec8d8f05f6be0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1310038581,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1310038581,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1310038581,
+    "wof:lastmodified":1537089808,
+    "wof:name":"Gadraya",
+    "wof:parent_id":1092048571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.21809,
+    29.43805,
+    81.21809,
+    29.43805
+],
+  "geometry": {"coordinates":[81.21809,29.43805],"type":"Point"}
+}

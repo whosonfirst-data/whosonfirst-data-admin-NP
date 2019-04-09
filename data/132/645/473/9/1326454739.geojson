@@ -1,0 +1,78 @@
+{
+  "id": 1326454739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.77088,28.18587,82.77088,28.18587",
+    "geom:latitude":28.18587,
+    "geom:longitude":82.77088,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530001",
+    "gn:asciiname":"Lek",
+    "gn:country_code":"NP",
+    "gn:dem":1697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7982850,
+    "gn:latitude":28.18587,
+    "gn:longitude":82.77088,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7982850
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b04055dc4e78f3cd41db17d308b875b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1326454739,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1326454739,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1326454739,
+    "wof:lastmodified":1537092504,
+    "wof:name":"Lek",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.77088,
+    28.18587,
+    82.77088,
+    28.18587
+],
+  "geometry": {"coordinates":[82.77088000000001,28.18587],"type":"Point"}
+}

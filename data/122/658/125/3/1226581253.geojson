@@ -1,0 +1,78 @@
+{
+  "id": 1226581253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.43557,28.11756,83.43557,28.11756",
+    "geom:latitude":28.11756,
+    "geom:longitude":83.43557,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"46.0",
+    "gn:admin4_code":"460071.0",
+    "gn:asciiname":"Chandrakot",
+    "gn:country_code":"NP",
+    "gn:dem":1677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7950629,
+    "gn:latitude":28.11756,
+    "gn:longitude":83.43557,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chandrakot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050755,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7950629
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b6fd52e33ff3143945b570fa8cb28837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1226581253,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1226581253,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1226581253,
+    "wof:lastmodified":1536949165,
+    "wof:name":"Chandrakot",
+    "wof:parent_id":1092050755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.43557,
+    28.11756,
+    83.43557,
+    28.11756
+],
+  "geometry": {"coordinates":[83.43557,28.11756],"type":"Point"}
+}

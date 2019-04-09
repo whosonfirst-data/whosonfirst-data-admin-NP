@@ -1,0 +1,79 @@
+{
+  "id": 1343776411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.0732,29.54909,82.0732,29.54909",
+    "geom:latitude":29.54909,
+    "geom:longitude":82.0732,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Rara",
+    "gn:country_code":"NP",
+    "gn:dem":3427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282864,
+    "gn:latitude":29.54909,
+    "gn:longitude":82.0732,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"R\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092048339,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282864,
+        "wk:page":"Rara%2C_Nepal"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8e53f580966f9170e504fb30de1057c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048339,
+            "locality_id":1343776411,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048339,
+            "locality_id":1343776411,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1343776411,
+    "wof:lastmodified":1537676043,
+    "wof:name":"Rara",
+    "wof:parent_id":1092048339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.0732,
+    29.54909,
+    82.0732,
+    29.54909
+],
+  "geometry": {"coordinates":[82.0732,29.54909],"type":"Point"}
+}

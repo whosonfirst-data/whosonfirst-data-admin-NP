@@ -1,0 +1,64 @@
+{
+  "id": 1209456703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.34783,28.04116,83.34783,28.04116",
+    "geom:latitude":28.04116,
+    "geom:longitude":83.34783,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"46.0",
+    "gn:admin4_code":"460062.0",
+    "gn:asciiname":"Bamsedigaun",
+    "gn:country_code":"NP",
+    "gn:dem":1031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7950524,
+    "gn:latitude":28.04116,
+    "gn:longitude":83.34783,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bamsedigaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7950524
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1fb20b7acb074123ddaf527ed0e2e203",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209456703
+        }
+    ],
+    "wof:id":1209456703,
+    "wof:lastmodified":1536286509,
+    "wof:name":"Bamsedigaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.34783,
+    28.04116,
+    83.34783,
+    28.04116
+],
+  "geometry": {"coordinates":[83.34783,28.04116],"type":"Point"}
+}

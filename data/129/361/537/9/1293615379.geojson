@@ -1,0 +1,78 @@
+{
+  "id": 1293615379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.6697,28.66554,81.6697,28.66554",
+    "geom:latitude":28.66554,
+    "geom:longitude":81.6697,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590045.0",
+    "gn:asciiname":"Jhyalsekholagaun",
+    "gn:country_code":"NP",
+    "gn:dem":1602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8000214,
+    "gn:latitude":28.66554,
+    "gn:longitude":81.6697,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jhyalsekholagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8000214
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"65cbe5ccd5c48551fbc57806da0ba0c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1293615379,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1293615379,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1293615379,
+    "wof:lastmodified":1537096713,
+    "wof:name":"Jhyalsekholagaun",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.6697,
+    28.66554,
+    81.6697,
+    28.66554
+],
+  "geometry": {"coordinates":[81.66970000000001,28.66554],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226280689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.67158,27.00815,85.67158,27.00815",
+    "geom:latitude":27.00815,
+    "geom:longitude":85.67158,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"19",
+    "gn:admin4_code":"190043",
+    "gn:asciiname":"Burjatol",
+    "gn:country_code":"NP",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7991850,
+    "gn:latitude":27.00815,
+    "gn:longitude":85.67158,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Burjatol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092049639,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7991850
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"01ac3f556928ff10c40ede3680fa58ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049639,
+            "locality_id":1226280689,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049639,
+            "locality_id":1226280689,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1226280689,
+    "wof:lastmodified":1536882630,
+    "wof:name":"Burjatol",
+    "wof:parent_id":1092049639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.67158,
+    27.00815,
+    85.67158,
+    27.00815
+],
+  "geometry": {"coordinates":[85.67158000000001,27.00815],"type":"Point"}
+}

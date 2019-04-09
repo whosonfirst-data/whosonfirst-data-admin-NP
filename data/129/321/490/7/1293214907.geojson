@@ -1,0 +1,79 @@
+{
+  "id": 1293214907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.65932,27.10815,85.65932,27.10815",
+    "geom:latitude":27.10815,
+    "geom:longitude":85.65932,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pattharkot",
+    "gn:country_code":"NP",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282928,
+    "gn:latitude":27.10815,
+    "gn:longitude":85.65932,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Pattharko\u1e6d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pattharko\u1e6d",
+        "Patharkot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092049639,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282928
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8e1a3d4554f32c00b2181b28532a4eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049639,
+            "locality_id":1293214907,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049639,
+            "locality_id":1293214907,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1293214907,
+    "wof:lastmodified":1537676044,
+    "wof:name":"Pattharkot",
+    "wof:parent_id":1092049639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.65932,
+    27.10815,
+    85.65932,
+    27.10815
+],
+  "geometry": {"coordinates":[85.65931999999999,27.10815],"type":"Point"}
+}

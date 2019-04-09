@@ -1,0 +1,64 @@
+{
+  "id": 1209443357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.90373,28.44122,81.90373,28.44122",
+    "geom:latitude":28.44122,
+    "geom:longitude":81.90373,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590019.0",
+    "gn:asciiname":"Thamdanda",
+    "gn:country_code":"NP",
+    "gn:dem":644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7999097,
+    "gn:latitude":28.44122,
+    "gn:longitude":81.90373,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thamdanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7999097
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"73e60434d10bdf035f0474f3860f3cd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209443357
+        }
+    ],
+    "wof:id":1209443357,
+    "wof:lastmodified":1536286893,
+    "wof:name":"Thamdanda",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.90373000000002,
+    28.44122,
+    81.90373000000002,
+    28.44122
+],
+  "geometry": {"coordinates":[81.90373000000002,28.44122],"type":"Point"}
+}

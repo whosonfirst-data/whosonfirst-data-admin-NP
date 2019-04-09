@@ -1,0 +1,64 @@
+{
+  "id": 1209134015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.66203,28.76614,81.66203,28.76614",
+    "geom:latitude":28.76614,
+    "geom:longitude":81.66203,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"60.0",
+    "gn:admin4_code":"600017.0",
+    "gn:asciiname":"Dhand",
+    "gn:country_code":"NP",
+    "gn:dem":778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7936947,
+    "gn:latitude":28.76614,
+    "gn:longitude":81.66203,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7936947
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"09571b4e2b5ec473cba59a1aa5af1f63",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209134015
+        }
+    ],
+    "wof:id":1209134015,
+    "wof:lastmodified":1536296718,
+    "wof:name":"Dhand",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.66203,
+    28.766140000000004,
+    81.66203,
+    28.766140000000004
+],
+  "geometry": {"coordinates":[81.66203,28.76614],"type":"Point"}
+}

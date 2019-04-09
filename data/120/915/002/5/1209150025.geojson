@@ -1,0 +1,64 @@
+{
+  "id": 1209150025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.82983,28.06883,83.82983,28.06883",
+    "geom:latitude":28.06883,
+    "geom:longitude":83.82983,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390044.0",
+    "gn:asciiname":"Dobata",
+    "gn:country_code":"NP",
+    "gn:dem":1030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001883,
+    "gn:latitude":28.06883,
+    "gn:longitude":83.82983,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dobata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001883
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8057dc4dfea57dfbbb5eeadb1a7defd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209150025
+        }
+    ],
+    "wof:id":1209150025,
+    "wof:lastmodified":1536296230,
+    "wof:name":"Dobata",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.82983,
+    28.06883,
+    83.82983,
+    28.06883
+],
+  "geometry": {"coordinates":[83.82983,28.06883],"type":"Point"}
+}

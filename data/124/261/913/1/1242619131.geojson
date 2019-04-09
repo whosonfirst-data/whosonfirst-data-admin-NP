@@ -1,0 +1,78 @@
+{
+  "id": 1242619131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.28646,27.54309,83.28646,27.54309",
+    "geom:latitude":27.54309,
+    "geom:longitude":83.28646,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"49",
+    "gn:admin4_code":"490011",
+    "gn:asciiname":"Chamarautitola",
+    "gn:country_code":"NP",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7986908,
+    "gn:latitude":27.54309,
+    "gn:longitude":83.28646,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chamarautitola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048457,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7986908
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"008f190738c0d865177a895b7902b3b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1242619131,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1242619131,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1242619131,
+    "wof:lastmodified":1537003126,
+    "wof:name":"Chamarautitola",
+    "wof:parent_id":1092048457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.28645999999998,
+    27.54309000000001,
+    83.28645999999998,
+    27.54309000000001
+],
+  "geometry": {"coordinates":[83.28645999999998,27.54309000000001],"type":"Point"}
+}

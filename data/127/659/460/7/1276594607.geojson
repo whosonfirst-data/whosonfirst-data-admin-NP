@@ -1,0 +1,78 @@
+{
+  "id": 1276594607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.77327,27.60268,84.77327,27.60268",
+    "geom:latitude":27.60268,
+    "geom:longitude":84.77327,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310024",
+    "gn:asciiname":"Wamin",
+    "gn:country_code":"NP",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7968550,
+    "gn:latitude":27.60268,
+    "gn:longitude":84.77327,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Wamin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7968550
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ecae79786b27295f6adb0fa91c89cbb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1276594607,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1276594607,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1276594607,
+    "wof:lastmodified":1536926783,
+    "wof:name":"Wamin",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.77327,
+    27.60268,
+    84.77327,
+    27.60268
+],
+  "geometry": {"coordinates":[84.77327,27.60268],"type":"Point"}
+}

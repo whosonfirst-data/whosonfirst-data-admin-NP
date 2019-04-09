@@ -1,0 +1,81 @@
+{
+  "id": 1360303349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.66203,26.70935,87.66203,26.70935",
+    "geom:latitude":26.70935,
+    "geom:longitude":87.66203,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Panighat",
+    "gn:country_code":"NP",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282944,
+    "gn:latitude":26.70935,
+    "gn:longitude":87.66203,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Panighat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "P\u0101ni\u0307\u0304gha\u1e6d\u1e6d\u0101"
+    ],
+    "name:und_x_variant":[
+        "P\u0101nigata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282944
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d48644e344b38b94c57283d22b7fae5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1360303349,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1360303349,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1360303349,
+    "wof:lastmodified":1537676045,
+    "wof:name":"Panighat",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.66203,
+    26.70935,
+    87.66203,
+    26.70935
+],
+  "geometry": {"coordinates":[87.66203,26.70935],"type":"Point"}
+}

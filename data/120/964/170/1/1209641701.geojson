@@ -1,0 +1,64 @@
+{
+  "id": 1209641701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.4018,29.33633,81.4018,29.33633",
+    "geom:latitude":29.33633,
+    "geom:longitude":81.4018,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"67.0",
+    "gn:admin4_code":"670017.0",
+    "gn:asciiname":"Phalletola",
+    "gn:country_code":"NP",
+    "gn:dem":1853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002879,
+    "gn:latitude":29.33633,
+    "gn:longitude":81.4018,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Phalletola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002879
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cf4cdf4fdd84d035dbe070db2c61a3fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209641701
+        }
+    ],
+    "wof:id":1209641701,
+    "wof:lastmodified":1536280866,
+    "wof:name":"Phalletola",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.4018,
+    29.33633,
+    81.4018,
+    29.33633
+],
+  "geometry": {"coordinates":[81.40179999999999,29.33633],"type":"Point"}
+}

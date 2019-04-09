@@ -1,0 +1,110 @@
+{
+  "id": 421174603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.25844,27.59048,86.25844,27.59048",
+    "geom:latitude":27.59048,
+    "geom:longitude":86.25844,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bho_x_preferred":[
+        "\u0920\u094b\u0938\u0947"
+    ],
+    "name:ceb_x_preferred":[
+        "Those"
+    ],
+    "name:eng_x_preferred":[
+        "Those"
+    ],
+    "name:ger_x_preferred":[
+        "Those"
+    ],
+    "name:may_x_preferred":[
+        "Those"
+    ],
+    "name:nep_x_preferred":[
+        "\u0920\u094b\u0938\u0947"
+    ],
+    "name:pol_x_preferred":[
+        "Those"
+    ],
+    "name:unk_x_variant":[
+        "\u1e6chose"
+    ],
+    "qs:gn_country":"NP",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1282675,
+    "qs:gn_pop":0,
+    "qs:name":"Those",
+    "qs:name_adm0":"Nepal",
+    "qs:name_adm1":"Madhyamanchal",
+    "qs:photos":37,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":37,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":887934,
+    "qs:woe_adm0":23424911,
+    "qs:woe_id":2268940,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":17,
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049711,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282675,
+        "gp:id":2268940,
+        "qs:id":887934,
+        "wd:id":"Q7238501"
+    },
+    "wof:country":"NP",
+    "wof:created":1459009037,
+    "wof:geomhash":"23a9b2a134b52e8044e84758ed7fa802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":421174603,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":421174603,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":421174603,
+    "wof:lastmodified":1527716226,
+    "wof:name":"Those",
+    "wof:parent_id":1092049711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.25844,
+    27.59048,
+    86.25844,
+    27.59048
+],
+  "geometry": {"coordinates":[86.25843999999999,27.59048],"type":"Point"}
+}

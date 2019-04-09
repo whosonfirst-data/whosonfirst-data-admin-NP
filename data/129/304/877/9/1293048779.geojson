@@ -1,0 +1,78 @@
+{
+  "id": 1293048779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.18504,28.40181,83.18504,28.40181",
+    "geom:latitude":28.40181,
+    "geom:longitude":83.18504,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45",
+    "gn:admin4_code":"450056",
+    "gn:asciiname":"Ribang",
+    "gn:country_code":"NP",
+    "gn:dem":1756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7964749,
+    "gn:latitude":28.40181,
+    "gn:longitude":83.18504,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ribang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7964749
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c28bcd3531dd6c63c3d3ef09df42acba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1293048779,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1293048779,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1293048779,
+    "wof:lastmodified":1536923390,
+    "wof:name":"Ribang",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.18504,
+    28.40181,
+    83.18504,
+    28.40181
+],
+  "geometry": {"coordinates":[83.18504,28.40181],"type":"Point"}
+}

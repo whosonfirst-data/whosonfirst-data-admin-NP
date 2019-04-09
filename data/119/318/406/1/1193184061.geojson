@@ -1,0 +1,78 @@
+{
+  "id": 1193184061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.15005,28.10425,83.15005,28.10425",
+    "geom:latitude":28.10425,
+    "geom:longitude":83.15005,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"46.0",
+    "gn:admin4_code":"460048.0",
+    "gn:asciiname":"Kalle Pani",
+    "gn:country_code":"NP",
+    "gn:dem":1236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7950351,
+    "gn:latitude":28.10425,
+    "gn:longitude":83.15005,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kalle Pani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050755,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7950351
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1c645494baf7b47a920dae68f7a05e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1193184061,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1193184061,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1193184061,
+    "wof:lastmodified":1536367137,
+    "wof:name":"Kalle Pani",
+    "wof:parent_id":1092050755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.15005,
+    28.10425,
+    83.15005,
+    28.10425
+],
+  "geometry": {"coordinates":[83.15004999999999,28.10425],"type":"Point"}
+}

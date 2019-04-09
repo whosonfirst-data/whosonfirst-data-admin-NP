@@ -1,0 +1,64 @@
+{
+  "id": 1209252255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.64496,28.06524,84.64496,28.06524",
+    "geom:latitude":28.06524,
+    "geom:longitude":84.64496,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360054.0",
+    "gn:asciiname":"Shikhar Bhorle",
+    "gn:country_code":"NP",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7949392,
+    "gn:latitude":28.06524,
+    "gn:longitude":84.64496,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Shikhar Bhorle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7949392
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d62bc3597812ead8481106586ea5c775",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209252255
+        }
+    ],
+    "wof:id":1209252255,
+    "wof:lastmodified":1536292967,
+    "wof:name":"Shikhar Bhorle",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.64496,
+    28.065240000000006,
+    84.64496,
+    28.065240000000006
+],
+  "geometry": {"coordinates":[84.64496,28.06524000000001],"type":"Point"}
+}

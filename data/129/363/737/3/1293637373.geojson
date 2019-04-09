@@ -1,0 +1,78 @@
+{
+  "id": 1293637373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.82265,26.53606,87.82265,26.53606",
+    "geom:latitude":26.53606,
+    "geom:longitude":87.82265,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40038.0",
+    "gn:asciiname":"Bisnuchok",
+    "gn:country_code":"NP",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7955076,
+    "gn:latitude":26.53606,
+    "gn:longitude":87.82265,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bisnuchok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7955076
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c0b8fa714ac2f1f1b763334cd1fb18e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1293637373,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1293637373,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1293637373,
+    "wof:lastmodified":1537065374,
+    "wof:name":"Bisnuchok",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.82265,
+    26.53606,
+    87.82265,
+    26.53606
+],
+  "geometry": {"coordinates":[87.82265,26.53606],"type":"Point"}
+}

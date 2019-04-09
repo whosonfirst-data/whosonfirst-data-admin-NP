@@ -1,0 +1,78 @@
+{
+  "id": 1276900729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.26098,29.40301,80.26098,29.40301",
+    "geom:latitude":29.40301,
+    "geom:longitude":80.26098,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740043",
+    "gn:asciiname":"Dharmaghat",
+    "gn:country_code":"NP",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7978127,
+    "gn:latitude":29.40301,
+    "gn:longitude":80.26098,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dharmaghat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050255,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7978127
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"88f4bfb09ec65b91ddc0bc0459897083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1276900729,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1276900729,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1276900729,
+    "wof:lastmodified":1537012643,
+    "wof:name":"Dharmaghat",
+    "wof:parent_id":1092050255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.26098,
+    29.40301,
+    80.26098,
+    29.40301
+],
+  "geometry": {"coordinates":[80.26098,29.40301],"type":"Point"}
+}

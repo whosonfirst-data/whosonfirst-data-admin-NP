@@ -1,0 +1,78 @@
+{
+  "id": 1260211871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.20688,28.48917,81.20688,28.48917",
+    "geom:latitude":28.48917,
+    "geom:longitude":81.20688,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"58.0",
+    "gn:admin4_code":"580010.0",
+    "gn:asciiname":"Banjariya Jharan",
+    "gn:country_code":"NP",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009545,
+    "gn:latitude":28.48917,
+    "gn:longitude":81.20688,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Banjariya Jharan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048097,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009545
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bdd8d2ed761d7642b953bd419ea1bf4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1260211871,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1260211871,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1260211871,
+    "wof:lastmodified":1536808830,
+    "wof:name":"Banjariya Jharan",
+    "wof:parent_id":1092048097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.20688,
+    28.48917,
+    81.20688,
+    28.48917
+],
+  "geometry": {"coordinates":[81.20688,28.48917],"type":"Point"}
+}

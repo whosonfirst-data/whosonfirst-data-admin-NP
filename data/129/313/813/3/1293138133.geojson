@@ -1,0 +1,78 @@
+{
+  "id": 1293138133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.13701,27.91375,84.13701,27.91375",
+    "geom:latitude":27.91375,
+    "geom:longitude":84.13701,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380037.0",
+    "gn:asciiname":"Bunji",
+    "gn:country_code":"NP",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8004395,
+    "gn:latitude":27.91375,
+    "gn:longitude":84.13701,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bunji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8004395
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"447c1d0333b6a78263d95b6b71bd1de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1293138133,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1293138133,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293138133,
+    "wof:lastmodified":1536793915,
+    "wof:name":"Bunji",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.13701,
+    27.91375,
+    84.13701,
+    27.91375
+],
+  "geometry": {"coordinates":[84.13701,27.91375],"type":"Point"}
+}

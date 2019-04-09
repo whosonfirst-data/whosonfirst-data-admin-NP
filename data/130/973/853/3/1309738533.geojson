@@ -1,0 +1,78 @@
+{
+  "id": 1309738533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.28568,29.16719,82.28568,29.16719",
+    "geom:latitude":29.16719,
+    "geom:longitude":82.28568,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"630011.0",
+    "gn:asciiname":"Himri Patan",
+    "gn:country_code":"NP",
+    "gn:dem":4182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7955811,
+    "gn:latitude":29.16719,
+    "gn:longitude":82.28568,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Himri Patan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092050797,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7955811
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9c734fd22276464628d8a5a81fb94ae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1309738533,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1309738533,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1309738533,
+    "wof:lastmodified":1537027001,
+    "wof:name":"Himri Patan",
+    "wof:parent_id":1092050797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.28568,
+    29.16719,
+    82.28568,
+    29.16719
+],
+  "geometry": {"coordinates":[82.28568,29.16719],"type":"Point"}
+}

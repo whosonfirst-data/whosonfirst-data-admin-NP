@@ -1,0 +1,75 @@
+{
+  "id": 1226762089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.8047,27.36869,86.8047,27.36869",
+    "geom:latitude":27.36869,
+    "geom:longitude":86.8047,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bandel",
+    "gn:country_code":"NP",
+    "gn:dem":1691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11209334,
+    "gn:latitude":27.36869,
+    "gn:longitude":86.8047,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"B\u0101\u1e45del",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050841,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11209334
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"05d36d169a05a76ad9119c6d6bc8f104",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1226762089,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1226762089,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1226762089,
+    "wof:lastmodified":1536692115,
+    "wof:name":"Bandel",
+    "wof:parent_id":1092050841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.8047,
+    27.36869,
+    86.8047,
+    27.36869
+],
+  "geometry": {"coordinates":[86.8047,27.36869],"type":"Point"}
+}

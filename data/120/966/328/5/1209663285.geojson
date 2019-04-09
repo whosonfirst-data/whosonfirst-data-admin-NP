@@ -1,0 +1,64 @@
+{
+  "id": 1209663285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.73158,28.21579,83.73158,28.21579",
+    "geom:latitude":28.21579,
+    "geom:longitude":83.73158,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"44",
+    "gn:admin4_code":"440052",
+    "gn:asciiname":"Khore",
+    "gn:country_code":"NP",
+    "gn:dem":1247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7979112,
+    "gn:latitude":28.21579,
+    "gn:longitude":83.73158,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khore",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7979112
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6bbe691f287a733d8f867ea0ed78a6b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209663285
+        }
+    ],
+    "wof:id":1209663285,
+    "wof:lastmodified":1536280180,
+    "wof:name":"Khore",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.73158000000002,
+    28.21579,
+    83.73158000000002,
+    28.21579
+],
+  "geometry": {"coordinates":[83.73158000000002,28.21579],"type":"Point"}
+}

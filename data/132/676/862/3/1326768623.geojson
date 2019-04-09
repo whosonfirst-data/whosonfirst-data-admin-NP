@@ -1,0 +1,78 @@
+{
+  "id": 1326768623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.12694,27.59995,85.12694,27.59995",
+    "geom:latitude":27.59995,
+    "geom:longitude":85.12694,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310012",
+    "gn:asciiname":"Jagarghari",
+    "gn:country_code":"NP",
+    "gn:dem":2015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7968051,
+    "gn:latitude":27.59995,
+    "gn:longitude":85.12694,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jagarghari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7968051
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a0a6804bc936f3ff962a7bea1e5368a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1326768623,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1326768623,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1326768623,
+    "wof:lastmodified":1536642401,
+    "wof:name":"Jagarghari",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.12694,
+    27.59995,
+    85.12694,
+    27.59995
+],
+  "geometry": {"coordinates":[85.12694,27.59995],"type":"Point"}
+}

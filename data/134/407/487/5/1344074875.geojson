@@ -1,0 +1,78 @@
+{
+  "id": 1344074875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.00301,27.19855,86.00301,27.19855",
+    "geom:latitude":27.19855,
+    "geom:longitude":86.00301,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tansar",
+    "gn:country_code":"NP",
+    "gn:dem":837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10328790,
+    "gn:latitude":27.19855,
+    "gn:longitude":86.00301,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"\u1e6cans\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "\u1e6cans\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049679,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10328790
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9432a524674e448a931315db36a5bfa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1344074875,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1344074875,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1344074875,
+    "wof:lastmodified":1537676099,
+    "wof:name":"Tansar",
+    "wof:parent_id":1092049679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.00301,
+    27.19855,
+    86.00301,
+    27.19855
+],
+  "geometry": {"coordinates":[86.00301,27.19855],"type":"Point"}
+}

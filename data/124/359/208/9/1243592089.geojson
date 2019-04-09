@@ -1,0 +1,78 @@
+{
+  "id": 1243592089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.26313,27.40603,85.26313,27.40603",
+    "geom:latitude":27.40603,
+    "geom:longitude":85.26313,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310043",
+    "gn:asciiname":"Tallo Simaltwak",
+    "gn:country_code":"NP",
+    "gn:dem":693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7969388,
+    "gn:latitude":27.40603,
+    "gn:longitude":85.26313,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tallo Simaltwak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7969388
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0108ebe654b8956257316c7bac76b3c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1243592089,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1243592089,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1243592089,
+    "wof:lastmodified":1537089274,
+    "wof:name":"Tallo Simaltwak",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.26313,
+    27.40603,
+    85.26313,
+    27.40603
+],
+  "geometry": {"coordinates":[85.26313,27.40603],"type":"Point"}
+}

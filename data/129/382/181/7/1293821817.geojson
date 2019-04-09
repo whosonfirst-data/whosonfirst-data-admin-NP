@@ -1,0 +1,78 @@
+{
+  "id": 1293821817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.00416,27.95081,85.00416,27.95081",
+    "geom:latitude":27.95081,
+    "geom:longitude":85.00416,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300021.0",
+    "gn:asciiname":"Tharpubesi",
+    "gn:country_code":"NP",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7941754,
+    "gn:latitude":27.95081,
+    "gn:longitude":85.00416,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tharpubesi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7941754
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5281cc9665229a24c06a07b1322d5a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1293821817,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1293821817,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1293821817,
+    "wof:lastmodified":1536802142,
+    "wof:name":"Tharpubesi",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.00416,
+    27.95081,
+    85.00416,
+    27.95081
+],
+  "geometry": {"coordinates":[85.00416,27.95081],"type":"Point"}
+}

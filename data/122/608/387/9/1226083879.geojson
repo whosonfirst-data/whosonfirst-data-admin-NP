@@ -1,0 +1,78 @@
+{
+  "id": 1226083879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.15016,27.36118,86.15016,27.36118",
+    "geom:latitude":27.36118,
+    "geom:longitude":86.15016,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"21",
+    "gn:admin4_code":"210049",
+    "gn:asciiname":"Kaijale",
+    "gn:country_code":"NP",
+    "gn:dem":1559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7981980,
+    "gn:latitude":27.36118,
+    "gn:longitude":86.15016,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kaijale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049711,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7981980
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6dbf0c3d2fa581f8e9fadb07a124e0f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1226083879,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1226083879,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1226083879,
+    "wof:lastmodified":1536670101,
+    "wof:name":"Kaijale",
+    "wof:parent_id":1092049711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.15016,
+    27.36118,
+    86.15016,
+    27.36118
+],
+  "geometry": {"coordinates":[86.15016,27.36118],"type":"Point"}
+}

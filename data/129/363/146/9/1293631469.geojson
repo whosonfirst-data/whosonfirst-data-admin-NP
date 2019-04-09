@@ -1,0 +1,78 @@
+{
+  "id": 1293631469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.95441,27.92387,84.95441,27.92387",
+    "geom:latitude":27.92387,
+    "geom:longitude":84.95441,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300035.0",
+    "gn:asciiname":"Kaphale",
+    "gn:country_code":"NP",
+    "gn:dem":851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7942196,
+    "gn:latitude":27.92387,
+    "gn:longitude":84.95441,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kaphale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7942196
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b3fe8b81d98de0a87cc043c089fe29dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1293631469,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1293631469,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1293631469,
+    "wof:lastmodified":1537073630,
+    "wof:name":"Kaphale",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.95441,
+    27.92387,
+    84.95441,
+    27.92387
+],
+  "geometry": {"coordinates":[84.95441,27.92387],"type":"Point"}
+}

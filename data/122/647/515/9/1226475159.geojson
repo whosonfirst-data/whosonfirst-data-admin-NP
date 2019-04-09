@@ -1,0 +1,78 @@
+{
+  "id": 1226475159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.31525,29.40848,81.31525,29.40848",
+    "geom:latitude":29.40848,
+    "geom:longitude":81.31525,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"67.0",
+    "gn:admin4_code":"670012.0",
+    "gn:asciiname":"Banghar",
+    "gn:country_code":"NP",
+    "gn:dem":2148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001917,
+    "gn:latitude":29.40848,
+    "gn:longitude":81.31525,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Banghar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050627,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001917
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ffa89c8aa3773683d7891b8eb0667412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050627,
+            "locality_id":1226475159,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050627,
+            "locality_id":1226475159,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1226475159,
+    "wof:lastmodified":1537096495,
+    "wof:name":"Banghar",
+    "wof:parent_id":1092050627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.31525,
+    29.40848,
+    81.31525,
+    29.40848
+],
+  "geometry": {"coordinates":[81.31525000000001,29.40848],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1243077329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.97896,28.03517,81.97896,28.03517",
+    "geom:latitude":28.03517,
+    "geom:longitude":81.97896,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sikta",
+    "gn:country_code":"NP",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282784,
+    "gn:latitude":28.03517,
+    "gn:longitude":81.97896,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Sik\u1e6d\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Sik\u1e6d\u0101"
+    ],
+    "name:nep_x_variant":[
+        "Premnagar"
+    ],
+    "name:und_x_variant":[
+        "Sikta Gh\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092050297,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282784
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"27a879e8ebccaca37afa1da14b3e07dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1243077329,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1243077329,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1243077329,
+    "wof:lastmodified":1537676041,
+    "wof:name":"Sikta",
+    "wof:parent_id":1092050297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.97896,
+    28.03517,
+    81.97896,
+    28.03517
+],
+  "geometry": {"coordinates":[81.97896,28.03517],"type":"Point"}
+}

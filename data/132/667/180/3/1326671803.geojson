@@ -1,0 +1,66 @@
+{
+  "id": 1326671803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.03793,26.56769,87.03793,26.56769",
+    "geom:latitude":26.56769,
+    "geom:longitude":87.03793,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"6.0",
+    "gn:admin4_code":"60051.0",
+    "gn:asciiname":"Trikhandi",
+    "gn:country_code":"NP",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7998393,
+    "gn:latitude":26.56769,
+    "gn:longitude":87.03793,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Trikhandi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7998393
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f4de8cea15f2170278f4520f287abf41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1326671803,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326671803,
+    "wof:lastmodified":1536783339,
+    "wof:name":"Trikhandi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.03793,
+    26.56769,
+    87.03793,
+    26.56769
+],
+  "geometry": {"coordinates":[87.03793,26.56769],"type":"Point"}
+}

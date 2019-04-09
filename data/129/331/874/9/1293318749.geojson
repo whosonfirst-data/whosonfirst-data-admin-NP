@@ -1,0 +1,78 @@
+{
+  "id": 1293318749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.18157,28.24866,82.18157,28.24866",
+    "geom:latitude":28.24866,
+    "geom:longitude":82.18157,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"560001.0",
+    "gn:asciiname":"Kallekhara",
+    "gn:country_code":"NP",
+    "gn:dem":1685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7938167,
+    "gn:latitude":28.24866,
+    "gn:longitude":82.18157,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kallekhara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048605,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7938167
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3f04370d62578f85a654f160b16a53a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1293318749,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1293318749,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1293318749,
+    "wof:lastmodified":1537029149,
+    "wof:name":"Kallekhara",
+    "wof:parent_id":1092048605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.18157,
+    28.24866,
+    82.18157,
+    28.24866
+],
+  "geometry": {"coordinates":[82.18156999999999,28.24866],"type":"Point"}
+}

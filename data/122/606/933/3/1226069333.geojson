@@ -1,0 +1,78 @@
+{
+  "id": 1226069333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.71647,28.074,82.71647,28.074",
+    "geom:latitude":28.074,
+    "geom:longitude":82.71647,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"52",
+    "gn:admin4_code":"520020",
+    "gn:asciiname":"Birkhekot",
+    "gn:country_code":"NP",
+    "gn:dem":1812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7980207,
+    "gn:latitude":28.074,
+    "gn:longitude":82.71647,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Birkhekot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049377,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7980207
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f1afbb2605e1e63b3015c41f0e8b6b6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1226069333,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1226069333,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1226069333,
+    "wof:lastmodified":1536691431,
+    "wof:name":"Birkhekot",
+    "wof:parent_id":1092049377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.71647,
+    28.074,
+    82.71647,
+    28.074
+],
+  "geometry": {"coordinates":[82.71647,28.074],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1326772491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.52491,27.03403,86.52491,27.03403",
+    "geom:latitude":27.03403,
+    "geom:longitude":86.52491,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140022.0",
+    "gn:asciiname":"Sano Okhale",
+    "gn:country_code":"NP",
+    "gn:dem":1436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007106,
+    "gn:latitude":27.03403,
+    "gn:longitude":86.52491,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sano Okhale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050179,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007106
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0ce2dcd6f317c1f05b3498a89aa9989f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1326772491,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1326772491,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1326772491,
+    "wof:lastmodified":1536636444,
+    "wof:name":"Sano Okhale",
+    "wof:parent_id":1092050179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.52490999999998,
+    27.03403,
+    86.52490999999998,
+    27.03403
+],
+  "geometry": {"coordinates":[86.52490999999998,27.03403],"type":"Point"}
+}

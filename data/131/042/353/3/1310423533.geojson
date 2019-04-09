@@ -1,0 +1,75 @@
+{
+  "id": 1310423533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.35442,27.60139,85.35442,27.60139",
+    "geom:latitude":27.60139,
+    "geom:longitude":85.35442,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Guindaha",
+    "gn:country_code":"NP",
+    "gn:dem":1429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10276902,
+    "gn:latitude":27.60139,
+    "gn:longitude":85.35442,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Guindaha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048971,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10276902
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2e9145deeb6c2c3327a24315ff937e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048971,
+            "locality_id":1310423533,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048971,
+            "locality_id":1310423533,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1310423533,
+    "wof:lastmodified":1537033769,
+    "wof:name":"Guindaha",
+    "wof:parent_id":1092048971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.35441999999998,
+    27.60139,
+    85.35441999999998,
+    27.60139
+],
+  "geometry": {"coordinates":[85.35441999999998,27.60139],"type":"Point"}
+}

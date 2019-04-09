@@ -1,0 +1,78 @@
+{
+  "id": 1259809863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.9935,28.32618,81.9935,28.32618",
+    "geom:latitude":28.32618,
+    "geom:longitude":81.9935,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550020",
+    "gn:asciiname":"Burchaur",
+    "gn:country_code":"NP",
+    "gn:dem":770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7988602,
+    "gn:latitude":28.32618,
+    "gn:longitude":81.9935,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Burchaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049579,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7988602
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2559ba59c6d7d40bac11c5a472fd03f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1259809863,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1259809863,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1259809863,
+    "wof:lastmodified":1536884821,
+    "wof:name":"Burchaur",
+    "wof:parent_id":1092049579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.9935,
+    28.32618,
+    81.9935,
+    28.32618
+],
+  "geometry": {"coordinates":[81.9935,28.32618],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209356311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.34598,27.98056,84.34598,27.98056",
+    "geom:latitude":27.98056,
+    "geom:longitude":84.34598,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380023.0",
+    "gn:asciiname":"Karlung",
+    "gn:country_code":"NP",
+    "gn:dem":871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003597,
+    "gn:latitude":27.98056,
+    "gn:longitude":84.34598,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Karlung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003597
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1dc8fb2554dd6371b6282efa9f0d9789",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209356311
+        }
+    ],
+    "wof:id":1209356311,
+    "wof:lastmodified":1536289572,
+    "wof:name":"Karlung",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.34598000000003,
+    27.98056,
+    84.34598000000003,
+    27.98056
+],
+  "geometry": {"coordinates":[84.34598000000003,27.98056],"type":"Point"}
+}

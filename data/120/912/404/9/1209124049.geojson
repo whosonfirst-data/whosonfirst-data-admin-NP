@@ -1,0 +1,65 @@
+{
+  "id": 1209124049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.3413,27.42843,85.3413,27.42843",
+    "geom:latitude":27.42843,
+    "geom:longitude":85.3413,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ambabesi",
+    "gn:country_code":"NP",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10330257,
+    "gn:latitude":27.42843,
+    "gn:longitude":85.3413,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Amb\u0101besi\u0307\u0304",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amb\u0101besi\u0307\u0304",
+        "Amb\u0101bes\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10330257
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"05ba4db03c1ddfa4c3e8b254b6fca96d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209124049
+        }
+    ],
+    "wof:id":1209124049,
+    "wof:lastmodified":1537676103,
+    "wof:name":"Ambabesi",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.3413,
+    27.42843,
+    85.3413,
+    27.42843
+],
+  "geometry": {"coordinates":[85.3413,27.42843],"type":"Point"}
+}

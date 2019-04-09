@@ -1,0 +1,61 @@
+{
+  "id": 1209332505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.51667,27.33333,83.51667,27.33333",
+    "geom:latitude":27.33333,
+    "geom:longitude":83.51667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Belahia",
+    "gn:country_code":"NP",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283643,
+    "gn:latitude":27.33333,
+    "gn:longitude":83.51667,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Belahia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283643
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"70af82e5e8352c39bc32f0fa2232484e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209332505
+        }
+    ],
+    "wof:id":1209332505,
+    "wof:lastmodified":1536290329,
+    "wof:name":"Belahia",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.51666999999998,
+    27.33333,
+    83.51666999999998,
+    27.33333
+],
+  "geometry": {"coordinates":[83.51666999999998,27.33333],"type":"Point"}
+}

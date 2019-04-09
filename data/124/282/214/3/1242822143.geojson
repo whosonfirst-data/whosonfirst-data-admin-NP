@@ -1,0 +1,78 @@
+{
+  "id": 1242822143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.19919,27.98911,84.19919,27.98911",
+    "geom:latitude":27.98911,
+    "geom:longitude":84.19919,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380024.0",
+    "gn:asciiname":"Dalalidanda",
+    "gn:country_code":"NP",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003707,
+    "gn:latitude":27.98911,
+    "gn:longitude":84.19919,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dalalidanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003707
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"aa0117c538c45a1c4cc2bfb717ab3b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1242822143,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1242822143,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1242822143,
+    "wof:lastmodified":1536711789,
+    "wof:name":"Dalalidanda",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.19919,
+    27.98911,
+    84.19919,
+    27.98911
+],
+  "geometry": {"coordinates":[84.19919,27.98911],"type":"Point"}
+}

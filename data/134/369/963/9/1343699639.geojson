@@ -1,0 +1,78 @@
+{
+  "id": 1343699639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.97106,27.10414,84.97106,27.10414",
+    "geom:latitude":27.10414,
+    "geom:longitude":84.97106,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"330047.0",
+    "gn:asciiname":"Ramauli",
+    "gn:country_code":"NP",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008861,
+    "gn:latitude":27.10414,
+    "gn:longitude":84.97106,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ramauli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092048051,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008861
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b55ae9bc49aa5b8d00ad6975c93e2a84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1343699639,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1343699639,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1343699639,
+    "wof:lastmodified":1536898490,
+    "wof:name":"Ramauli",
+    "wof:parent_id":1092048051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.97106,
+    27.10414,
+    84.97106,
+    27.10414
+],
+  "geometry": {"coordinates":[84.97105999999999,27.10414],"type":"Point"}
+}

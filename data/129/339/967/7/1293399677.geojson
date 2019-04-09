@@ -1,0 +1,79 @@
+{
+  "id": 1293399677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.68875,27.16317,85.68875,27.16317",
+    "geom:latitude":27.16317,
+    "geom:longitude":85.68875,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lopchandhi",
+    "gn:country_code":"NP",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10322700,
+    "gn:latitude":27.16317,
+    "gn:longitude":85.68875,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Lopchan\u1e0dhi\u0307\u0304",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lopchan\u1e0dhi\u0307\u0304",
+        "Lopchan\u1e0dh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092049639,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10322700
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c6e8e54384ff75ea98cce48aaa05b941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049639,
+            "locality_id":1293399677,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049639,
+            "locality_id":1293399677,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1293399677,
+    "wof:lastmodified":1537676092,
+    "wof:name":"Lopchandhi",
+    "wof:parent_id":1092049639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.68875,
+    27.16317,
+    85.68875,
+    27.16317
+],
+  "geometry": {"coordinates":[85.68875,27.16317],"type":"Point"}
+}

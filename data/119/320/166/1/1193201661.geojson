@@ -1,0 +1,78 @@
+{
+  "id": 1193201661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.78401,28.08729,83.78401,28.08729",
+    "geom:latitude":28.08729,
+    "geom:longitude":83.78401,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390002.0",
+    "gn:asciiname":"Gahate",
+    "gn:country_code":"NP",
+    "gn:dem":991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8000606,
+    "gn:latitude":28.08729,
+    "gn:longitude":83.78401,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gahate",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8000606
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b6994f7a91f16d43fdb023fbea9fe466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1193201661,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1193201661,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1193201661,
+    "wof:lastmodified":1536372139,
+    "wof:name":"Gahate",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.78401,
+    28.08729000000001,
+    83.78401,
+    28.08729000000001
+],
+  "geometry": {"coordinates":[83.78400999999999,28.08729000000001],"type":"Point"}
+}

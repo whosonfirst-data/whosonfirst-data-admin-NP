@@ -1,0 +1,78 @@
+{
+  "id": 1225793159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.67512,27.13055,87.67512,27.13055",
+    "geom:latitude":27.13055,
+    "geom:longitude":87.67512,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"2",
+    "gn:admin4_code":"20032",
+    "gn:asciiname":"Hangthuwa",
+    "gn:country_code":"NP",
+    "gn:dem":1008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7977901,
+    "gn:latitude":27.13055,
+    "gn:longitude":87.67512,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Hangthuwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7977901
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"748c423677dea7d7a9c2e7f6f7d538fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1225793159,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1225793159,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1225793159,
+    "wof:lastmodified":1537086417,
+    "wof:name":"Hangthuwa",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.67511999999998,
+    27.13055,
+    87.67511999999998,
+    27.13055
+],
+  "geometry": {"coordinates":[87.67511999999998,27.13055],"type":"Point"}
+}

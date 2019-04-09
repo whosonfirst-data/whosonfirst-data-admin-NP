@@ -1,0 +1,64 @@
+{
+  "id": 1209352693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.10438,27.28419,85.10438,27.28419",
+    "geom:latitude":27.28419,
+    "geom:longitude":85.10438,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"330088.0",
+    "gn:asciiname":"Anpchaur",
+    "gn:country_code":"NP",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009141,
+    "gn:latitude":27.28419,
+    "gn:longitude":85.10438,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Anpchaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009141
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5c153c5804ca2f57e505cdc2f8a7bdf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209352693
+        }
+    ],
+    "wof:id":1209352693,
+    "wof:lastmodified":1536289695,
+    "wof:name":"Anpchaur",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.10438,
+    27.28419,
+    85.10438,
+    27.28419
+],
+  "geometry": {"coordinates":[85.10438000000001,27.28419],"type":"Point"}
+}

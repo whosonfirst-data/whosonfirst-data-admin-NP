@@ -1,0 +1,78 @@
+{
+  "id": 1226490461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.29825,26.49285,87.29825,26.49285",
+    "geom:latitude":26.49285,
+    "geom:longitude":87.29825,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"5",
+    "gn:admin4_code":"50006",
+    "gn:asciiname":"Singiyahi Nawatoli",
+    "gn:country_code":"NP",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7969743,
+    "gn:latitude":26.49285,
+    "gn:longitude":87.29825,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Singiyahi Nawatoli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092048303,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7969743
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0ba6056a5cd1627bf24d8532b9da60a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1226490461,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1226490461,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1226490461,
+    "wof:lastmodified":1537074705,
+    "wof:name":"Singiyahi Nawatoli",
+    "wof:parent_id":1092048303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.29825,
+    26.49285,
+    87.29825,
+    26.49285
+],
+  "geometry": {"coordinates":[87.29825,26.49285],"type":"Point"}
+}

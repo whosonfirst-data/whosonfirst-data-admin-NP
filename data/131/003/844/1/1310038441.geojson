@@ -1,0 +1,66 @@
+{
+  "id": 1310038441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.13474,28.38189,81.13474,28.38189",
+    "geom:latitude":28.38189,
+    "geom:longitude":81.13474,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"58.0",
+    "gn:admin4_code":"580005.0",
+    "gn:asciiname":"Tingharuwa",
+    "gn:country_code":"NP",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009395,
+    "gn:latitude":28.38189,
+    "gn:longitude":81.13474,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tingharuwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009395
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ac7a5d62a24096eaedb7c83c79587435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1310038441,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310038441,
+    "wof:lastmodified":1537090007,
+    "wof:name":"Tingharuwa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.13474000000002,
+    28.38189,
+    81.13474000000002,
+    28.38189
+],
+  "geometry": {"coordinates":[81.13474000000002,28.38189],"type":"Point"}
+}

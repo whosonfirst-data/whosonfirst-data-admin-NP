@@ -1,0 +1,78 @@
+{
+  "id": 1292936837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.27574,27.92164,82.27574,27.92164",
+    "geom:latitude":27.92164,
+    "geom:longitude":82.27574,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"560028.0",
+    "gn:asciiname":"Sikta",
+    "gn:country_code":"NP",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7939381,
+    "gn:latitude":27.92164,
+    "gn:longitude":82.27574,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sikta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048605,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7939381
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f59f609ced74b97db94ee587a49a5613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1292936837,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1292936837,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1292936837,
+    "wof:lastmodified":1537080881,
+    "wof:name":"Sikta",
+    "wof:parent_id":1092048605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.27574,
+    27.92164,
+    82.27574,
+    27.92164
+],
+  "geometry": {"coordinates":[82.27574,27.92164],"type":"Point"}
+}

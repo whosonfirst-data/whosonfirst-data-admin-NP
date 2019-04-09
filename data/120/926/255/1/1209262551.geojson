@@ -1,0 +1,64 @@
+{
+  "id": 1209262551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.06687,26.80953,87.06687,26.80953",
+    "geom:latitude":26.80953,
+    "geom:longitude":87.06687,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140041.0",
+    "gn:asciiname":"Gairitol",
+    "gn:country_code":"NP",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007768,
+    "gn:latitude":26.80953,
+    "gn:longitude":87.06687,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gairitol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007768
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8cb0b8c77997aaee45c2d0536fc2ba66",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209262551
+        }
+    ],
+    "wof:id":1209262551,
+    "wof:lastmodified":1536292641,
+    "wof:name":"Gairitol",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.06687,
+    26.80953,
+    87.06687,
+    26.80953
+],
+  "geometry": {"coordinates":[87.06686999999999,26.80953],"type":"Point"}
+}

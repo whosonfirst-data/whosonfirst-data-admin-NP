@@ -1,0 +1,78 @@
+{
+  "id": 1293537557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.27515,28.17866,83.27515,28.17866",
+    "geom:latitude":28.17866,
+    "geom:longitude":83.27515,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"46.0",
+    "gn:admin4_code":"460059.0",
+    "gn:asciiname":"Arupata",
+    "gn:country_code":"NP",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7950490,
+    "gn:latitude":28.17866,
+    "gn:longitude":83.27515,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Arupata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050755,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7950490
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d48a9500586b6f3d95175826bb3090a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1293537557,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1293537557,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1293537557,
+    "wof:lastmodified":1536715325,
+    "wof:name":"Arupata",
+    "wof:parent_id":1092050755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.27515,
+    28.17866,
+    83.27515,
+    28.17866
+],
+  "geometry": {"coordinates":[83.27515,28.17866],"type":"Point"}
+}

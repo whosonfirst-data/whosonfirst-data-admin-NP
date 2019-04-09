@@ -1,0 +1,78 @@
+{
+  "id": 1243016279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.59508,27.09377,86.59508,27.09377",
+    "geom:latitude":27.09377,
+    "geom:longitude":86.59508,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140040.0",
+    "gn:asciiname":"Kopche",
+    "gn:country_code":"NP",
+    "gn:dem":856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007737,
+    "gn:latitude":27.09377,
+    "gn:longitude":86.59508,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kopche",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050179,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007737
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6ff222e2fb58a2386fad115c660b7b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1243016279,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1243016279,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1243016279,
+    "wof:lastmodified":1536929411,
+    "wof:name":"Kopche",
+    "wof:parent_id":1092050179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.59508000000002,
+    27.09377000000001,
+    86.59508000000002,
+    27.09377000000001
+],
+  "geometry": {"coordinates":[86.59508000000002,27.09377000000001],"type":"Point"}
+}

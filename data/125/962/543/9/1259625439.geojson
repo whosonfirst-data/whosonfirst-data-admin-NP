@@ -1,0 +1,78 @@
+{
+  "id": 1259625439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.76326,27.53783,85.76326,27.53783",
+    "geom:latitude":27.53783,
+    "geom:longitude":85.76326,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240026.0",
+    "gn:asciiname":"Bolde",
+    "gn:country_code":"NP",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7962939,
+    "gn:latitude":27.53783,
+    "gn:longitude":85.76326,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bolde",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7962939
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5d6e1ce26649c536809408180022a924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1259625439,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1259625439,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1259625439,
+    "wof:lastmodified":1536654267,
+    "wof:name":"Bolde",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.76326,
+    27.53783,
+    85.76326,
+    27.53783
+],
+  "geometry": {"coordinates":[85.76326,27.53783],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343299615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.72334,27.98625,83.72334,27.98625",
+    "geom:latitude":27.98625,
+    "geom:longitude":83.72334,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390057.0",
+    "gn:asciiname":"Bhorle",
+    "gn:country_code":"NP",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002355,
+    "gn:latitude":27.98625,
+    "gn:longitude":83.72334,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhorle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002355
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"225d8c37231f50d9255204a122afc936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1343299615,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1343299615,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1343299615,
+    "wof:lastmodified":1536977709,
+    "wof:name":"Bhorle",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.72334000000002,
+    27.98625,
+    83.72334000000002,
+    27.98625
+],
+  "geometry": {"coordinates":[83.72334000000002,27.98625],"type":"Point"}
+}

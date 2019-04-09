@@ -1,0 +1,78 @@
+{
+  "id": 1309848059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.25873,27.75901,86.25873,27.75901",
+    "geom:latitude":27.75901,
+    "geom:longitude":86.25873,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"22.0",
+    "gn:admin4_code":"220039.0",
+    "gn:asciiname":"Kyaldar",
+    "gn:country_code":"NP",
+    "gn:dem":2077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7945025,
+    "gn:latitude":27.75901,
+    "gn:longitude":86.25873,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kyaldar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675579,
+        1092050535,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7945025
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"46a030f8792733c4cc4131e730182f54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1309848059,
+            "region_id":85675579
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1309848059,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1309848059,
+    "wof:lastmodified":1536869122,
+    "wof:name":"Kyaldar",
+    "wof:parent_id":1092050535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.25873,
+    27.75901,
+    86.25873,
+    27.75901
+],
+  "geometry": {"coordinates":[86.25873,27.75901],"type":"Point"}
+}

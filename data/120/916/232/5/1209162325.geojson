@@ -1,0 +1,64 @@
+{
+  "id": 1209162325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.06542,28.21387,84.06542,28.21387",
+    "geom:latitude":28.21387,
+    "geom:longitude":84.06542,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400017.0",
+    "gn:asciiname":"Siddhipur",
+    "gn:country_code":"NP",
+    "gn:dem":1145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7960710,
+    "gn:latitude":28.21387,
+    "gn:longitude":84.06542,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Siddhipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7960710
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e3b3010584532eb12a5fb96afe64e263",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209162325
+        }
+    ],
+    "wof:id":1209162325,
+    "wof:lastmodified":1536295855,
+    "wof:name":"Siddhipur",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.06541999999997,
+    28.21387,
+    84.06541999999997,
+    28.21387
+],
+  "geometry": {"coordinates":[84.06541999999997,28.21387],"type":"Point"}
+}

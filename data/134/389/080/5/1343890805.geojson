@@ -1,0 +1,78 @@
+{
+  "id": 1343890805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.72071,28.92851,81.72071,28.92851",
+    "geom:latitude":28.92851,
+    "geom:longitude":81.72071,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"60.0",
+    "gn:admin4_code":"600026.0",
+    "gn:asciiname":"Thapaka Goth",
+    "gn:country_code":"NP",
+    "gn:dem":1877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7937252,
+    "gn:latitude":28.92851,
+    "gn:longitude":81.72071,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thapaka Goth",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092050583,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7937252
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"599046f6a14ec92ea25b103eab04869a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1343890805,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1343890805,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1343890805,
+    "wof:lastmodified":1536620766,
+    "wof:name":"Thapaka Goth",
+    "wof:parent_id":1092050583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.72071,
+    28.92851,
+    81.72071,
+    28.92851
+],
+  "geometry": {"coordinates":[81.72071,28.92851],"type":"Point"}
+}

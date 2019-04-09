@@ -1,0 +1,78 @@
+{
+  "id": 1310033747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.83717,28.95288,82.83717,28.95288",
+    "geom:latitude":28.95288,
+    "geom:longitude":82.83717,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"62.0",
+    "gn:admin4_code":"620011.0",
+    "gn:asciiname":"Hangaun",
+    "gn:country_code":"NP",
+    "gn:dem":2628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7945499,
+    "gn:latitude":28.95288,
+    "gn:longitude":82.83717,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Hangaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050349,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7945499
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ef559979845dc3f173bf91ef33d759f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1310033747,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1310033747,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1310033747,
+    "wof:lastmodified":1537096807,
+    "wof:name":"Hangaun",
+    "wof:parent_id":1092050349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.83717,
+    28.95288,
+    82.83717,
+    28.95288
+],
+  "geometry": {"coordinates":[82.83717,28.95288],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276482619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.88303,27.89641,83.88303,27.89641",
+    "geom:latitude":27.89641,
+    "geom:longitude":83.88303,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390050.0",
+    "gn:asciiname":"Bangrati",
+    "gn:country_code":"NP",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002104,
+    "gn:latitude":27.89641,
+    "gn:longitude":83.88303,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bangrati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002104
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"86a8a82f6e7f1f6b99094c3f6c4ec458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1276482619,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1276482619,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1276482619,
+    "wof:lastmodified":1537072729,
+    "wof:name":"Bangrati",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.88303,
+    27.89641,
+    83.88303,
+    27.89641
+],
+  "geometry": {"coordinates":[83.88303000000001,27.89641],"type":"Point"}
+}

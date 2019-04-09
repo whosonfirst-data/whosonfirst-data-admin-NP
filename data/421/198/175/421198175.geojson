@@ -1,0 +1,91 @@
+{
+  "id": 421198175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.83333,27.16667,87.83333,27.16667",
+    "geom:latitude":27.16667,
+    "geom:longitude":87.83333,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"NP",
+    "qs:gn_fcode":"ADM3",
+    "qs:gn_id":1282947,
+    "qs:gn_pop":211098,
+    "qs:name":"Panchthar",
+    "qs:name_adm0":"Nepal",
+    "qs:name_adm1":"Purwanchal",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"10",
+    "qs:qs_id":401428,
+    "qs:woe_adm0":23424911,
+    "qs:woe_id":23706750,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282947,
+        "gp:id":23706750,
+        "qs:id":401428
+    },
+    "wof:country":"NP",
+    "wof:created":1459009939,
+    "wof:geomhash":"be0591362e0a5a2aa1dfd381267ab918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "localadmin_id":421198175,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "localadmin_id":421198175,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":421198175,
+    "wof:lastmodified":1534379389,
+    "wof:name":"Panchthar",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"localadmin",
+    "wof:population":211098,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[
+        1125292957
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.83333,
+    27.16667,
+    87.83333,
+    27.16667
+],
+  "geometry": {"coordinates":[87.83333,27.16667],"type":"Point"}
+}

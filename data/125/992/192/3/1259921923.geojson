@@ -1,0 +1,78 @@
+{
+  "id": 1259921923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.27452,27.42278,85.27452,27.42278",
+    "geom:latitude":27.42278,
+    "geom:longitude":85.27452,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310043",
+    "gn:asciiname":"Gamaltar",
+    "gn:country_code":"NP",
+    "gn:dem":872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7969382,
+    "gn:latitude":27.42278,
+    "gn:longitude":85.27452,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gamaltar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7969382
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"194f4f06dccf1ec8fca2660b07f55d8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1259921923,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1259921923,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1259921923,
+    "wof:lastmodified":1536724213,
+    "wof:name":"Gamaltar",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.27452,
+    27.42278,
+    85.27452,
+    27.42278
+],
+  "geometry": {"coordinates":[85.27452,27.42278],"type":"Point"}
+}

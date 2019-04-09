@@ -1,0 +1,64 @@
+{
+  "id": 1209162451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.40109,28.16582,83.40109,28.16582",
+    "geom:latitude":28.16582,
+    "geom:longitude":83.40109,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450055.0",
+    "gn:asciiname":"Alu Khoriya",
+    "gn:country_code":"NP",
+    "gn:dem":2274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7964148,
+    "gn:latitude":28.16582,
+    "gn:longitude":83.40109,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Alu Khoriya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7964148
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"840efd189abdaa7a43e3207b0aa9731f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209162451
+        }
+    ],
+    "wof:id":1209162451,
+    "wof:lastmodified":1536295852,
+    "wof:name":"Alu Khoriya",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.40109,
+    28.16582,
+    83.40109,
+    28.16582
+],
+  "geometry": {"coordinates":[83.40109,28.16582],"type":"Point"}
+}

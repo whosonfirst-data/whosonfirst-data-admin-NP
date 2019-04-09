@@ -1,0 +1,78 @@
+{
+  "id": 1326478753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.01889,28.01814,85.01889,28.01814",
+    "geom:latitude":28.01814,
+    "geom:longitude":85.01889,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"28",
+    "gn:admin4_code":"280003",
+    "gn:asciiname":"Tumjung",
+    "gn:country_code":"NP",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7973615,
+    "gn:latitude":28.01814,
+    "gn:longitude":85.01889,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tumjung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7973615
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fdd10348cd34be50157ca1712558b8b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1326478753,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1326478753,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1326478753,
+    "wof:lastmodified":1537058642,
+    "wof:name":"Tumjung",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.01889,
+    28.01814,
+    85.01889,
+    28.01814
+],
+  "geometry": {"coordinates":[85.01889,28.01814],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209429357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.1736,26.63155,86.1736,26.63155",
+    "geom:latitude":26.63155,
+    "geom:longitude":86.1736,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gamhariya",
+    "gn:country_code":"NP",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11608059,
+    "gn:latitude":26.63155,
+    "gn:longitude":86.1736,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Gamhari\u0307\u0304y\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Gamhari\u0307\u0304y\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11608059
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a892ce07878d138c979c472297c7c545",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209429357
+        }
+    ],
+    "wof:id":1209429357,
+    "wof:lastmodified":1537676133,
+    "wof:name":"Gamhariya",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.1736,
+    26.63155,
+    86.1736,
+    26.63155
+],
+  "geometry": {"coordinates":[86.17359999999999,26.63155],"type":"Point"}
+}

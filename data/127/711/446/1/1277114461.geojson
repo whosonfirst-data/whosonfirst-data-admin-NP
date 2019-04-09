@@ -1,0 +1,78 @@
+{
+  "id": 1277114461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.18522,27.03044,87.18522,27.03044",
+    "geom:latitude":27.03044,
+    "geom:longitude":87.18522,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100028.0",
+    "gn:asciiname":"Langkha",
+    "gn:country_code":"NP",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933224,
+    "gn:latitude":27.03044,
+    "gn:longitude":87.18522,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Langkha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933224
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a07aed267c2814ef9c09e21db75bb100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1277114461,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1277114461,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1277114461,
+    "wof:lastmodified":1536722194,
+    "wof:name":"Langkha",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.18522,
+    27.03044,
+    87.18522,
+    27.03044
+],
+  "geometry": {"coordinates":[87.18522,27.03044],"type":"Point"}
+}

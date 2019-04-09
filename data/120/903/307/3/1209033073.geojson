@@ -1,0 +1,64 @@
+{
+  "id": 1209033073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.93206,29.21909,80.93206,29.21909",
+    "geom:latitude":29.21909,
+    "geom:longitude":80.93206,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"70.0",
+    "gn:admin4_code":"700005.0",
+    "gn:asciiname":"Chaud",
+    "gn:country_code":"NP",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7946021,
+    "gn:latitude":29.21909,
+    "gn:longitude":80.93206,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chaud",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7946021
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b8826ba50be6d034e58b72ef04aebcd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209033073
+        }
+    ],
+    "wof:id":1209033073,
+    "wof:lastmodified":1536299788,
+    "wof:name":"Chaud",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.93205999999998,
+    29.21909,
+    80.93205999999998,
+    29.21909
+],
+  "geometry": {"coordinates":[80.93205999999998,29.21909],"type":"Point"}
+}

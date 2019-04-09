@@ -1,0 +1,78 @@
+{
+  "id": 1259716505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.44948,28.71438,82.44948,28.71438",
+    "geom:latitude":28.71438,
+    "geom:longitude":82.44948,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"54",
+    "gn:admin4_code":"540001",
+    "gn:asciiname":"Jipsin",
+    "gn:country_code":"NP",
+    "gn:dem":1715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7984979,
+    "gn:latitude":28.71438,
+    "gn:longitude":82.44948,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jipsin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049495,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7984979
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ed711ce01102a41b68c300df2bc0c586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1259716505,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1259716505,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1259716505,
+    "wof:lastmodified":1537018749,
+    "wof:name":"Jipsin",
+    "wof:parent_id":1092049495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.44948000000002,
+    28.71438,
+    82.44948000000002,
+    28.71438
+],
+  "geometry": {"coordinates":[82.44948000000002,28.71438],"type":"Point"}
+}

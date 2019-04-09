@@ -1,0 +1,78 @@
+{
+  "id": 1209958609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.28181,26.81708,87.28181,26.81708",
+    "geom:latitude":26.81708,
+    "geom:longitude":87.28181,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"6.0",
+    "gn:admin4_code":"60018.0",
+    "gn:asciiname":"Chhimekilain",
+    "gn:country_code":"NP",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7997682,
+    "gn:latitude":26.81708,
+    "gn:longitude":87.28181,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chhimekilain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049923,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7997682
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"aca3393f0d3aa8e0922263c6cb058ffa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1209958609,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1209958609,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1209958609,
+    "wof:lastmodified":1536375898,
+    "wof:name":"Chhimekilain",
+    "wof:parent_id":1092049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.28181,
+    26.81708,
+    87.28181,
+    26.81708
+],
+  "geometry": {"coordinates":[87.28180999999999,26.81708],"type":"Point"}
+}

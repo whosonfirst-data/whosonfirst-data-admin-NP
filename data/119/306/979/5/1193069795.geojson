@@ -1,0 +1,78 @@
+{
+  "id": 1193069795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.82736,27.16049,87.82736,27.16049",
+    "geom:latitude":27.16049,
+    "geom:longitude":87.82736,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"2",
+    "gn:admin4_code":"20040.0",
+    "gn:asciiname":"Anene",
+    "gn:country_code":"NP",
+    "gn:dem":1677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7978146,
+    "gn:latitude":27.16049,
+    "gn:longitude":87.82736,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Anene",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7978146
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7f45f71be50efb89566253b4e0a16d5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1193069795,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1193069795,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1193069795,
+    "wof:lastmodified":1536368919,
+    "wof:name":"Anene",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.82736,
+    27.16049000000001,
+    87.82736,
+    27.16049000000001
+],
+  "geometry": {"coordinates":[87.82736,27.16049000000001],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209541965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.61058,28.1494,82.61058,28.1494",
+    "geom:latitude":28.1494,
+    "geom:longitude":82.61058,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"52",
+    "gn:admin4_code":"520044",
+    "gn:asciiname":"Nos",
+    "gn:country_code":"NP",
+    "gn:dem":1394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7980844,
+    "gn:latitude":28.1494,
+    "gn:longitude":82.61058,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nos",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7980844
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0cd4b1dfd827b938579022cf7ff09951",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209541965
+        }
+    ],
+    "wof:id":1209541965,
+    "wof:lastmodified":1536283962,
+    "wof:name":"Nos",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.61058,
+    28.1494,
+    82.61058,
+    28.1494
+],
+  "geometry": {"coordinates":[82.61058,28.1494],"type":"Point"}
+}

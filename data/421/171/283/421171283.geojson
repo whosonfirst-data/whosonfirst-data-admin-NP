@@ -1,0 +1,90 @@
+{
+  "id": 421171283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.58333,27.0,85.58333,27.0",
+    "geom:latitude":27.0,
+    "geom:longitude":85.58333,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Sailahi"
+    ],
+    "qs:gn_country":"NP",
+    "qs:gn_fcode":"ADM3",
+    "qs:gn_id":1282806,
+    "qs:gn_pop":686222,
+    "qs:name":"Sarlahi",
+    "qs:name_adm0":"Nepal",
+    "qs:name_adm1":"Madhyamanchal",
+    "qs:photos":12,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":12,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"11",
+    "qs:qs_id":262731,
+    "qs:woe_adm0":23424911,
+    "qs:woe_id":23706740,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092049639,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282806,
+        "gp:id":23706740,
+        "qs:id":262731
+    },
+    "wof:country":"NP",
+    "wof:created":1459008888,
+    "wof:geomhash":"be03268bf3be87811f3c72eb2abb67a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049639,
+            "localadmin_id":421171283,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049639,
+            "localadmin_id":421171283,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":421171283,
+    "wof:lastmodified":1505340608,
+    "wof:name":"Sarlahi",
+    "wof:parent_id":1092049639,
+    "wof:placetype":"localadmin",
+    "wof:population":686222,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.58333,
+    27.0,
+    85.58333,
+    27.0
+],
+  "geometry": {"coordinates":[85.58333,27.0],"type":"Point"}
+}

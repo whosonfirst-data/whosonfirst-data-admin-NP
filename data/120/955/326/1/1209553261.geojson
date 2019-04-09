@@ -1,0 +1,64 @@
+{
+  "id": 1209553261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.36721,27.3657,87.36721,27.3657",
+    "geom:latitude":27.3657,
+    "geom:longitude":87.36721,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"9",
+    "gn:admin4_code":"90011",
+    "gn:asciiname":"Yangsijung",
+    "gn:country_code":"NP",
+    "gn:dem":1665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7990042,
+    "gn:latitude":27.3657,
+    "gn:longitude":87.36721,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Yangsijung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7990042
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d6245403f5782af45ef1743b4664c3bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209553261
+        }
+    ],
+    "wof:id":1209553261,
+    "wof:lastmodified":1536283628,
+    "wof:name":"Yangsijung",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.36721,
+    27.3657,
+    87.36721,
+    27.3657
+],
+  "geometry": {"coordinates":[87.36721,27.3657],"type":"Point"}
+}

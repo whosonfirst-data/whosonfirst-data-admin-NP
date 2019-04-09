@@ -1,0 +1,78 @@
+{
+  "id": 1343990627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.47558,29.73798,80.47558,29.73798",
+    "geom:latitude":29.73798,
+    "geom:longitude":80.47558,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"75.0",
+    "gn:admin4_code":"750028.0",
+    "gn:asciiname":"Ghodegod",
+    "gn:country_code":"NP",
+    "gn:dem":1413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7940732,
+    "gn:latitude":29.73798,
+    "gn:longitude":80.47558,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ghodegod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050347,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7940732
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b10b7b4cc247252a21dafa5eb6dd6705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050347,
+            "locality_id":1343990627,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050347,
+            "locality_id":1343990627,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1343990627,
+    "wof:lastmodified":1536975927,
+    "wof:name":"Ghodegod",
+    "wof:parent_id":1092050347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.47558000000002,
+    29.73798,
+    80.47558000000002,
+    29.73798
+],
+  "geometry": {"coordinates":[80.47558000000002,29.73798],"type":"Point"}
+}

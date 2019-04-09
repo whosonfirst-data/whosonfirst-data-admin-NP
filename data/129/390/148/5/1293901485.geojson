@@ -1,0 +1,79 @@
+{
+  "id": 1293901485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.23117,28.09451,84.23117,28.09451",
+    "geom:latitude":28.09451,
+    "geom:longitude":84.23117,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sisaghat Bazar",
+    "gn:country_code":"NP",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282766,
+    "gn:latitude":28.09451,
+    "gn:longitude":84.23117,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sis\u0101gh\u0101t B\u0101z\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sis\u0101gh\u0101t",
+        "Sis\u0101gh\u0101t B\u0101z\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050009,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282766
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bfe9eb90aa5e69c68a8aa1bc2a324f63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1293901485,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1293901485,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293901485,
+    "wof:lastmodified":1537676040,
+    "wof:name":"Sisaghat Bazar",
+    "wof:parent_id":1092050009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.23116999999998,
+    28.09451,
+    84.23116999999998,
+    28.09451
+],
+  "geometry": {"coordinates":[84.23116999999998,28.09451],"type":"Point"}
+}

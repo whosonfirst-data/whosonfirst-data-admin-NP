@@ -1,0 +1,64 @@
+{
+  "id": 1209138771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.49591,29.37545,80.49591,29.37545",
+    "geom:latitude":29.37545,
+    "geom:longitude":80.49591,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"73.0",
+    "gn:admin4_code":"730009.0",
+    "gn:asciiname":"Bhatyadi",
+    "gn:country_code":"NP",
+    "gn:dem":1478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7935744,
+    "gn:latitude":29.37545,
+    "gn:longitude":80.49591,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhatyadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7935744
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bee09a008cb86f2880ca2bc186a5d7c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209138771
+        }
+    ],
+    "wof:id":1209138771,
+    "wof:lastmodified":1536296573,
+    "wof:name":"Bhatyadi",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.49591,
+    29.37545,
+    80.49591,
+    29.37545
+],
+  "geometry": {"coordinates":[80.49590999999999,29.37545],"type":"Point"}
+}

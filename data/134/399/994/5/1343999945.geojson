@@ -1,0 +1,78 @@
+{
+  "id": 1343999945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.2901,27.57038,87.2901,27.57038",
+    "geom:latitude":27.57038,
+    "geom:longitude":87.2901,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"9",
+    "gn:admin4_code":"90022",
+    "gn:asciiname":"Lumbang",
+    "gn:country_code":"NP",
+    "gn:dem":1205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7990368,
+    "gn:latitude":27.57038,
+    "gn:longitude":87.2901,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lumbang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049597,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7990368
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"760ec4912bc01566a59beb56617bd25c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1343999945,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1343999945,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1343999945,
+    "wof:lastmodified":1536962828,
+    "wof:name":"Lumbang",
+    "wof:parent_id":1092049597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.2901,
+    27.57038,
+    87.2901,
+    27.57038
+],
+  "geometry": {"coordinates":[87.2901,27.57038],"type":"Point"}
+}

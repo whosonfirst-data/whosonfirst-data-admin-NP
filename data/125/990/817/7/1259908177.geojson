@@ -1,0 +1,78 @@
+{
+  "id": 1259908177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.21139,28.5191,81.21139,28.5191",
+    "geom:latitude":28.5191,
+    "geom:longitude":81.21139,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"58.0",
+    "gn:admin4_code":"580010.0",
+    "gn:asciiname":"Jhundi",
+    "gn:country_code":"NP",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009527,
+    "gn:latitude":28.5191,
+    "gn:longitude":81.21139,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jhundi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048097,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009527
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9bc38d55cda818d8339d65c7ab4dfd16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1259908177,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1259908177,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1259908177,
+    "wof:lastmodified":1536743430,
+    "wof:name":"Jhundi",
+    "wof:parent_id":1092048097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.21139000000002,
+    28.5191,
+    81.21139000000002,
+    28.5191
+],
+  "geometry": {"coordinates":[81.21139000000002,28.5191],"type":"Point"}
+}

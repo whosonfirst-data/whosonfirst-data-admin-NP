@@ -1,0 +1,78 @@
+{
+  "id": 1293621847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.77349,27.95988,82.77349,27.95988",
+    "geom:latitude":27.95988,
+    "geom:longitude":82.77349,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"52",
+    "gn:admin4_code":"520019",
+    "gn:asciiname":"Goldhara",
+    "gn:country_code":"NP",
+    "gn:dem":1121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7980186,
+    "gn:latitude":27.95988,
+    "gn:longitude":82.77349,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Goldhara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049377,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7980186
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"aca237cade7a85c14e1eb9dc89581ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1293621847,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1293621847,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1293621847,
+    "wof:lastmodified":1537087379,
+    "wof:name":"Goldhara",
+    "wof:parent_id":1092049377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.77349,
+    27.95988,
+    82.77349,
+    27.95988
+],
+  "geometry": {"coordinates":[82.77349,27.95988],"type":"Point"}
+}

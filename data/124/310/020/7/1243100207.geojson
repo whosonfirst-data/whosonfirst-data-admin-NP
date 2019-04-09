@@ -1,0 +1,78 @@
+{
+  "id": 1243100207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.09512,28.55311,81.09512,28.55311",
+    "geom:latitude":28.55311,
+    "geom:longitude":81.09512,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710012.0",
+    "gn:asciiname":"Belahadarngi",
+    "gn:country_code":"NP",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956524,
+    "gn:latitude":28.55311,
+    "gn:longitude":81.09512,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Belahadarngi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956524
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6304db5330ece4060452a36f11a7fd06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1243100207,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1243100207,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1243100207,
+    "wof:lastmodified":1536807378,
+    "wof:name":"Belahadarngi",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.09512,
+    28.55311,
+    81.09512,
+    28.55311
+],
+  "geometry": {"coordinates":[81.09511999999999,28.55311],"type":"Point"}
+}

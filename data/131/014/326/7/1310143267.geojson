@@ -1,0 +1,78 @@
+{
+  "id": 1310143267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.1576,27.58212,83.1576,27.58212",
+    "geom:latitude":27.58212,
+    "geom:longitude":83.1576,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"50.0",
+    "gn:admin4_code":"500058.0",
+    "gn:asciiname":"Bagadi",
+    "gn:country_code":"NP",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7959937,
+    "gn:latitude":27.58212,
+    "gn:longitude":83.1576,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bagadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048259,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7959937
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d4c0bf4f5bef698a00e0cbef65f22716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1310143267,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1310143267,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1310143267,
+    "wof:lastmodified":1536942534,
+    "wof:name":"Bagadi",
+    "wof:parent_id":1092048259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.1576,
+    27.58212,
+    83.1576,
+    27.58212
+],
+  "geometry": {"coordinates":[83.1576,27.58212],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276816597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.66347,27.69246,84.66347,27.69246",
+    "geom:latitude":27.69246,
+    "geom:longitude":84.66347,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"35.0",
+    "gn:admin4_code":"350037.0",
+    "gn:asciiname":"Gamidung",
+    "gn:country_code":"NP",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7935116,
+    "gn:latitude":27.69246,
+    "gn:longitude":84.66347,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gamidung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092050101,
+        85675585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7935116
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"33625d4af26e93026884fa042d22b38b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":1276816597,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":1276816597,
+            "region_id":85675585
+        }
+    ],
+    "wof:id":1276816597,
+    "wof:lastmodified":1536626639,
+    "wof:name":"Gamidung",
+    "wof:parent_id":1092050101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.66346999999998,
+    27.69246,
+    84.66346999999998,
+    27.69246
+],
+  "geometry": {"coordinates":[84.66346999999998,27.69246],"type":"Point"}
+}

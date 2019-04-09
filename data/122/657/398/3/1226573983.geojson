@@ -1,0 +1,79 @@
+{
+  "id": 1226573983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.46713,28.68943,80.46713,28.68943",
+    "geom:latitude":28.68943,
+    "geom:longitude":80.46713,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"72.0",
+    "gn:admin4_code":"720001.0",
+    "gn:asciiname":"Baisi Bichawa",
+    "gn:country_code":"NP",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7958508,
+    "gn:latitude":28.68943,
+    "gn:longitude":80.46713,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Baisi Bichawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048227,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7958508,
+        "wk:page":"Baise_Bichwa"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8f3524ecef153e7e16aca0d58c863ce9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1226573983,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1226573983,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1226573983,
+    "wof:lastmodified":1537570150,
+    "wof:name":"Baisi Bichawa",
+    "wof:parent_id":1092048227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.46713000000003,
+    28.68943,
+    80.46713000000003,
+    28.68943
+],
+  "geometry": {"coordinates":[80.46713000000003,28.68943],"type":"Point"}
+}

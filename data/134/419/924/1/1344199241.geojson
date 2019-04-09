@@ -1,0 +1,78 @@
+{
+  "id": 1344199241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.60046,27.99797,84.60046,27.99797",
+    "geom:latitude":27.99797,
+    "geom:longitude":84.60046,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360050.0",
+    "gn:asciiname":"Mandredhunga",
+    "gn:country_code":"NP",
+    "gn:dem":917,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7949286,
+    "gn:latitude":27.99797,
+    "gn:longitude":84.60046,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mandredhunga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7949286
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"44f0a432ce3d76d3f21c62bbb036bdfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1344199241,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1344199241,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1344199241,
+    "wof:lastmodified":1536675311,
+    "wof:name":"Mandredhunga",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.60046,
+    27.99797,
+    84.60046,
+    27.99797
+],
+  "geometry": {"coordinates":[84.60046,27.99797],"type":"Point"}
+}

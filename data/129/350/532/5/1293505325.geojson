@@ -1,0 +1,81 @@
+{
+  "id": 1293505325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.44193,27.98356,85.44193,27.98356",
+    "geom:latitude":27.98356,
+    "geom:longitude":85.44193,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ghyandada",
+    "gn:country_code":"NP",
+    "gn:dem":1889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10316674,
+    "gn:latitude":27.98356,
+    "gn:longitude":85.44193,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Ghy\u0101\u1e45\u1e0d\u0101\u0303\u1e0d\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Ghy\u0101\u1e45\u1e0d\u0101n\u1e0d\u0101"
+    ],
+    "name:und_x_variant":[
+        "Ghy\u0101\u1e45\u1e0d\u0101\u0303\u1e0d\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10316674
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1d1fda8b9e15e0e559792e1dfae63735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1293505325,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1293505325,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1293505325,
+    "wof:lastmodified":1537676078,
+    "wof:name":"Ghyandada",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.44193,
+    27.98356,
+    85.44193,
+    27.98356
+],
+  "geometry": {"coordinates":[85.44193,27.98356],"type":"Point"}
+}

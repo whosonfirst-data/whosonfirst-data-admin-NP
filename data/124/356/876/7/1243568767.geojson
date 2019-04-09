@@ -1,0 +1,81 @@
+{
+  "id": 1243568767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.62542,26.43802,87.62542,26.43802",
+    "geom:latitude":26.43802,
+    "geom:longitude":87.62542,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Paiyamadi",
+    "gn:country_code":"NP",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11602681,
+    "gn:latitude":26.43802,
+    "gn:longitude":87.62542,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Paiy\u0101\u0303m\u0101\u1e0di\u0307\u0304",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Paiy\u0101\u0303m\u0101\u1e0di\u0307\u0304"
+    ],
+    "name:nep_x_variant":[
+        "Jhawan\u1e6dol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092048303,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11602681
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ed512eb2534cdb8a7f3d8c2831843342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1243568767,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1243568767,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1243568767,
+    "wof:lastmodified":1537676119,
+    "wof:name":"Paiyamadi",
+    "wof:parent_id":1092048303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.62541999999998,
+    26.43802,
+    87.62541999999998,
+    26.43802
+],
+  "geometry": {"coordinates":[87.62541999999998,26.43802],"type":"Point"}
+}

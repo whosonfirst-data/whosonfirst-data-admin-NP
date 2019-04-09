@@ -1,0 +1,78 @@
+{
+  "id": 1193188469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.94431,26.91632,87.94431,26.91632",
+    "geom:latitude":26.91632,
+    "geom:longitude":87.94431,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30015.0",
+    "gn:asciiname":"Mahabhir",
+    "gn:country_code":"NP",
+    "gn:dem":836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7951859,
+    "gn:latitude":26.91632,
+    "gn:longitude":87.94431,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mahabhir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7951859
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"79de3c0e1b273694ddccd01cc0ab9c6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1193188469,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1193188469,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1193188469,
+    "wof:lastmodified":1536364262,
+    "wof:name":"Mahabhir",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.94431,
+    26.91632,
+    87.94431,
+    26.91632
+],
+  "geometry": {"coordinates":[87.94431,26.91632],"type":"Point"}
+}

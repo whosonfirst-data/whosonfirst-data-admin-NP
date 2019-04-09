@@ -1,0 +1,78 @@
+{
+  "id": 1259414035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.24301,28.86797,80.24301,28.86797",
+    "geom:latitude":28.86797,
+    "geom:longitude":80.24301,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"72.0",
+    "gn:admin4_code":"720016.0",
+    "gn:asciiname":"Darak",
+    "gn:country_code":"NP",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7959036,
+    "gn:latitude":28.86797,
+    "gn:longitude":80.24301,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Darak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048227,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7959036
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e186e6737dd1ce8f269fbb6b9b31f717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1259414035,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1259414035,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1259414035,
+    "wof:lastmodified":1536958637,
+    "wof:name":"Darak",
+    "wof:parent_id":1092048227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.24301,
+    28.86797,
+    80.24301,
+    28.86797
+],
+  "geometry": {"coordinates":[80.24301,28.86797],"type":"Point"}
+}

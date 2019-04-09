@@ -1,0 +1,78 @@
+{
+  "id": 1293338235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.17326,27.97197,84.17326,27.97197",
+    "geom:latitude":27.97197,
+    "geom:longitude":84.17326,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380024.0",
+    "gn:asciiname":"Dumridanda",
+    "gn:country_code":"NP",
+    "gn:dem":869,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003682,
+    "gn:latitude":27.97197,
+    "gn:longitude":84.17326,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dumridanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003682
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"386b40ae8bdf3cca9ae0ffeb9634cf01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1293338235,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1293338235,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293338235,
+    "wof:lastmodified":1537001524,
+    "wof:name":"Dumridanda",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.17326,
+    27.97197,
+    84.17326,
+    27.97197
+],
+  "geometry": {"coordinates":[84.17326,27.97197],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293626641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.22019,28.37191,84.22019,28.37191",
+    "geom:latitude":28.37191,
+    "geom:longitude":84.22019,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370013",
+    "gn:asciiname":"Charagaukharka",
+    "gn:country_code":"NP",
+    "gn:dem":3190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7966119,
+    "gn:latitude":28.37191,
+    "gn:longitude":84.22019,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Charagaukharka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050009,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7966119
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"dc998cb0507d47759b881545c2dc6406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1293626641,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1293626641,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293626641,
+    "wof:lastmodified":1537080376,
+    "wof:name":"Charagaukharka",
+    "wof:parent_id":1092050009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.22019,
+    28.37191,
+    84.22019,
+    28.37191
+],
+  "geometry": {"coordinates":[84.22019,28.37191],"type":"Point"}
+}

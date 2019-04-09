@@ -1,0 +1,64 @@
+{
+  "id": 1209256475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.21472,28.35918,83.21472,28.35918",
+    "geom:latitude":28.35918,
+    "geom:longitude":83.21472,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450012.0",
+    "gn:asciiname":"Chhapate",
+    "gn:country_code":"NP",
+    "gn:dem":1899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7950018,
+    "gn:latitude":28.35918,
+    "gn:longitude":83.21472,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chhapate",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7950018
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9e643b296a0afe610d7de5959e76e1fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209256475
+        }
+    ],
+    "wof:id":1209256475,
+    "wof:lastmodified":1536292834,
+    "wof:name":"Chhapate",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.21472,
+    28.35918,
+    83.21472,
+    28.35918
+],
+  "geometry": {"coordinates":[83.21472,28.35918],"type":"Point"}
+}

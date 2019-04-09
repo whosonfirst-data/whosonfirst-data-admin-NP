@@ -1,0 +1,75 @@
+{
+  "id": 1326840025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4,29.43333,80.4,29.43333",
+    "geom:latitude":29.43333,
+    "geom:longitude":80.4,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Hatranga",
+    "gn:country_code":"NP",
+    "gn:dem":1273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283342,
+    "gn:latitude":29.43333,
+    "gn:longitude":80.4,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Hatr\u0101nga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050255,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283342
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c9993e23891e5af01c327a559573cd00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1326840025,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1326840025,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1326840025,
+    "wof:lastmodified":1537035886,
+    "wof:name":"Hatranga",
+    "wof:parent_id":1092050255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4,
+    29.43333,
+    80.4,
+    29.43333
+],
+  "geometry": {"coordinates":[80.40000000000001,29.43333],"type":"Point"}
+}

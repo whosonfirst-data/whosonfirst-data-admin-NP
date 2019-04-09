@@ -1,0 +1,78 @@
+{
+  "id": 1309932187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.58574,28.36955,82.58574,28.36955",
+    "geom:latitude":28.36955,
+    "geom:longitude":82.58574,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530050",
+    "gn:asciiname":"Paribang",
+    "gn:country_code":"NP",
+    "gn:dem":1534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7984886,
+    "gn:latitude":28.36955,
+    "gn:longitude":82.58574,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Paribang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7984886
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4913e1f07a4b54e0bbd7e696a67c6e09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1309932187,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1309932187,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1309932187,
+    "wof:lastmodified":1536748898,
+    "wof:name":"Paribang",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.58574,
+    28.36955,
+    82.58574,
+    28.36955
+],
+  "geometry": {"coordinates":[82.58574,28.36955],"type":"Point"}
+}

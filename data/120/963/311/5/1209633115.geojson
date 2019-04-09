@@ -1,0 +1,64 @@
+{
+  "id": 1209633115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.43605,26.63731,87.43605,26.63731",
+    "geom:latitude":26.63731,
+    "geom:longitude":87.43605,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Belaigau",
+    "gn:country_code":"NP",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11606036,
+    "gn:latitude":26.63731,
+    "gn:longitude":87.43605,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Bel\u0101ig\u0101\u0169",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Bel\u0101ig\u0101\u0169"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11606036
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ab247beb87f8b7ed6934f5558215323c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209633115
+        }
+    ],
+    "wof:id":1209633115,
+    "wof:lastmodified":1537676123,
+    "wof:name":"Belaigau",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.43605,
+    26.63731,
+    87.43605,
+    26.63731
+],
+  "geometry": {"coordinates":[87.43604999999999,26.63731],"type":"Point"}
+}

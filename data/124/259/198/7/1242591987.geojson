@@ -1,0 +1,75 @@
+{
+  "id": 1242591987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.62064,27.29567,86.62064,27.29567",
+    "geom:latitude":27.29567,
+    "geom:longitude":86.62064,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Apswara",
+    "gn:country_code":"NP",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11205828,
+    "gn:latitude":27.29567,
+    "gn:longitude":86.62064,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"\u0100\u0303psw\u0101\u0303r\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050225,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11205828
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ce6a3eb4015e674350b6d961e002a0f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050225,
+            "locality_id":1242591987,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050225,
+            "locality_id":1242591987,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1242591987,
+    "wof:lastmodified":1537041096,
+    "wof:name":"Apswara",
+    "wof:parent_id":1092050225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.62064000000002,
+    27.29567,
+    86.62064000000002,
+    27.29567
+],
+  "geometry": {"coordinates":[86.62064000000002,27.29567],"type":"Point"}
+}

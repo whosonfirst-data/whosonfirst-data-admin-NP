@@ -1,0 +1,64 @@
+{
+  "id": 1209352251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.58073,26.88042,86.58073,26.88042",
+    "geom:latitude":26.88042,
+    "geom:longitude":86.58073,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140044.0",
+    "gn:asciiname":"Adheri",
+    "gn:country_code":"NP",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007965,
+    "gn:latitude":26.88042,
+    "gn:longitude":86.58073,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Adheri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007965
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7d7b3f39fed8632f6956c5babb07e2f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209352251
+        }
+    ],
+    "wof:id":1209352251,
+    "wof:lastmodified":1536289704,
+    "wof:name":"Adheri",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.58073,
+    26.88042,
+    86.58073,
+    26.88042
+],
+  "geometry": {"coordinates":[86.58073,26.88042],"type":"Point"}
+}

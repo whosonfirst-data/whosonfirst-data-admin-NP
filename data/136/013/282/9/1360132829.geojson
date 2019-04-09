@@ -1,0 +1,78 @@
+{
+  "id": 1360132829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.20585,27.47041,87.20585,27.47041",
+    "geom:latitude":27.47041,
+    "geom:longitude":87.20585,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"9",
+    "gn:admin4_code":"90009",
+    "gn:asciiname":"Juke",
+    "gn:country_code":"NP",
+    "gn:dem":1507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7989991,
+    "gn:latitude":27.47041,
+    "gn:longitude":87.20585,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Juke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049597,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7989991
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"492a5f65cc4da1e4433d19865a95b064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1360132829,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1360132829,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1360132829,
+    "wof:lastmodified":1536876007,
+    "wof:name":"Juke",
+    "wof:parent_id":1092049597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.20585,
+    27.47041,
+    87.20585,
+    27.47041
+],
+  "geometry": {"coordinates":[87.20585,27.47041],"type":"Point"}
+}

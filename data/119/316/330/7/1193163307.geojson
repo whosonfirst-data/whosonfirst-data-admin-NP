@@ -1,0 +1,78 @@
+{
+  "id": 1193163307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.17015,28.59238,81.17015,28.59238",
+    "geom:latitude":28.59238,
+    "geom:longitude":81.17015,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710031.0",
+    "gn:asciiname":"Pal Bajar",
+    "gn:country_code":"NP",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7957309,
+    "gn:latitude":28.59238,
+    "gn:longitude":81.17015,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pal Bajar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7957309
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"528a5c8240ce3511f974cb8eca9bd107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1193163307,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1193163307,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1193163307,
+    "wof:lastmodified":1536366093,
+    "wof:name":"Pal Bajar",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.17015,
+    28.59238,
+    81.17015,
+    28.59238
+],
+  "geometry": {"coordinates":[81.17015000000001,28.59238],"type":"Point"}
+}

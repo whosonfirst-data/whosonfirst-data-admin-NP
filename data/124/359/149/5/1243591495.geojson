@@ -1,0 +1,78 @@
+{
+  "id": 1243591495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.53935,27.86444,83.53935,27.86444",
+    "geom:latitude":27.86444,
+    "geom:longitude":83.53935,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"47",
+    "gn:admin4_code":"470062",
+    "gn:asciiname":"Golakhana",
+    "gn:country_code":"NP",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7976979,
+    "gn:latitude":27.86444,
+    "gn:longitude":83.53935,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Golakhana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050889,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7976979
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0b482edd819413c431ac21fa01194411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1243591495,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1243591495,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1243591495,
+    "wof:lastmodified":1537090041,
+    "wof:name":"Golakhana",
+    "wof:parent_id":1092050889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.53935,
+    27.86444,
+    83.53935,
+    27.86444
+],
+  "geometry": {"coordinates":[83.53935,27.86444],"type":"Point"}
+}

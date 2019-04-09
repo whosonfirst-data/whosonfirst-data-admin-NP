@@ -1,0 +1,78 @@
+{
+  "id": 1260005861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.17864,27.97454,82.17864,27.97454",
+    "geom:latitude":27.97454,
+    "geom:longitude":82.17864,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"570024.0",
+    "gn:asciiname":"Baksawa",
+    "gn:country_code":"NP",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008147,
+    "gn:latitude":27.97454,
+    "gn:longitude":82.17864,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Baksawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092050297,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008147
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"831e5cc45db3f97720119889fc1404c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1260005861,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1260005861,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1260005861,
+    "wof:lastmodified":1537096557,
+    "wof:name":"Baksawa",
+    "wof:parent_id":1092050297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.17864,
+    27.97454,
+    82.17864,
+    27.97454
+],
+  "geometry": {"coordinates":[82.17864,27.97454],"type":"Point"}
+}

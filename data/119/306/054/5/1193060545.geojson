@@ -1,0 +1,78 @@
+{
+  "id": 1193060545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.33782,27.92151,85.33782,27.92151",
+    "geom:latitude":27.92151,
+    "geom:longitude":85.33782,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"28",
+    "gn:admin4_code":"280060",
+    "gn:asciiname":"Kanelthok",
+    "gn:country_code":"NP",
+    "gn:dem":764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7974895,
+    "gn:latitude":27.92151,
+    "gn:longitude":85.33782,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kanelthok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7974895
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c25b2909c84326843d0167860b2aee78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1193060545,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1193060545,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1193060545,
+    "wof:lastmodified":1536378293,
+    "wof:name":"Kanelthok",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.33782,
+    27.92151,
+    85.33782,
+    27.92151
+],
+  "geometry": {"coordinates":[85.33781999999999,27.92151],"type":"Point"}
+}

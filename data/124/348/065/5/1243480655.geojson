@@ -1,0 +1,78 @@
+{
+  "id": 1243480655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.99047,29.39,81.99047,29.39",
+    "geom:latitude":29.39,
+    "geom:longitude":81.99047,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"630024.0",
+    "gn:asciiname":"Sanjyal Bada",
+    "gn:country_code":"NP",
+    "gn:dem":2404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956055,
+    "gn:latitude":29.39,
+    "gn:longitude":81.99047,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sanjyal Bada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092050797,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956055
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0a73745fc1f898089021c40def3cc153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1243480655,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1243480655,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1243480655,
+    "wof:lastmodified":1536756349,
+    "wof:name":"Sanjyal Bada",
+    "wof:parent_id":1092050797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.99047,
+    29.39,
+    81.99047,
+    29.39
+],
+  "geometry": {"coordinates":[81.99047,29.39],"type":"Point"}
+}

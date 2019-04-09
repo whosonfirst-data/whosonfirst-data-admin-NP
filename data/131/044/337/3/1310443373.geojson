@@ -1,0 +1,78 @@
+{
+  "id": 1310443373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.65016,28.29715,83.65016,28.29715",
+    "geom:latitude":28.29715,
+    "geom:longitude":83.65016,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"44",
+    "gn:admin4_code":"440006",
+    "gn:asciiname":"Dandakhor",
+    "gn:country_code":"NP",
+    "gn:dem":1786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7978274,
+    "gn:latitude":28.29715,
+    "gn:longitude":83.65016,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dandakhor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049297,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7978274
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8192d6fc3c742f9ad3a20e7297df4dd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049297,
+            "locality_id":1310443373,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049297,
+            "locality_id":1310443373,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1310443373,
+    "wof:lastmodified":1537005778,
+    "wof:name":"Dandakhor",
+    "wof:parent_id":1092049297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.65016,
+    28.29715,
+    83.65016,
+    28.29715
+],
+  "geometry": {"coordinates":[83.65016,28.29715],"type":"Point"}
+}

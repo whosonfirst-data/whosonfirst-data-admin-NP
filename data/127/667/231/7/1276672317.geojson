@@ -1,0 +1,79 @@
+{
+  "id": 1276672317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.57195,27.6834,85.57195,27.6834",
+    "geom:latitude":27.6834,
+    "geom:longitude":85.57195,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Manegau",
+    "gn:country_code":"NP",
+    "gn:dem":1542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10321256,
+    "gn:latitude":27.6834,
+    "gn:longitude":85.57195,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"M\u0101neg\u0101\u0169",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u0101neg\u0101\u0169",
+        "M\u0101neg\u0101u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10321256
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a39c91e3c340676e8abba381d7102b76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1276672317,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1276672317,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1276672317,
+    "wof:lastmodified":1537676083,
+    "wof:name":"Manegau",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.57195,
+    27.6834,
+    85.57195,
+    27.6834
+],
+  "geometry": {"coordinates":[85.57195,27.6834],"type":"Point"}
+}

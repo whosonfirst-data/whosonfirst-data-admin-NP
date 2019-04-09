@@ -1,0 +1,64 @@
+{
+  "id": 1209146799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.43718,27.14777,86.43718,27.14777",
+    "geom:latitude":27.14777,
+    "geom:longitude":86.43718,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140021.0",
+    "gn:asciiname":"Jortighat",
+    "gn:country_code":"NP",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007079,
+    "gn:latitude":27.14777,
+    "gn:longitude":86.43718,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jortighat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007079
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2987f8e24c001c1c0709585eeddda07b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209146799
+        }
+    ],
+    "wof:id":1209146799,
+    "wof:lastmodified":1536296330,
+    "wof:name":"Jortighat",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.43718,
+    27.14777,
+    86.43718,
+    27.14777
+],
+  "geometry": {"coordinates":[86.43718,27.14777],"type":"Point"}
+}

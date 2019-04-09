@@ -1,0 +1,78 @@
+{
+  "id": 1327271761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.61075,26.93225,87.61075,26.93225",
+    "geom:latitude":26.93225,
+    "geom:longitude":87.61075,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"2",
+    "gn:admin4_code":"20003",
+    "gn:asciiname":"Pekuwa",
+    "gn:country_code":"NP",
+    "gn:dem":1171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7977136,
+    "gn:latitude":26.93225,
+    "gn:longitude":87.61075,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pekuwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7977136
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"89b30fc95e06364f73231fa356b52067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1327271761,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1327271761,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1327271761,
+    "wof:lastmodified":1536913137,
+    "wof:name":"Pekuwa",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.61075,
+    26.93225,
+    87.61075,
+    26.93225
+],
+  "geometry": {"coordinates":[87.61075,26.93225],"type":"Point"}
+}

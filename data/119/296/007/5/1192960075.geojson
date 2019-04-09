@@ -1,0 +1,79 @@
+{
+  "id": 1192960075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.98268,27.87316,86.98268,27.87316",
+    "geom:latitude":27.87316,
+    "geom:longitude":86.98268,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"9",
+    "gn:admin4_code":"90017.0",
+    "gn:asciiname":"Baruntse",
+    "gn:country_code":"NP",
+    "gn:dem":6770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7990259,
+    "gn:latitude":27.87316,
+    "gn:longitude":86.98268,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Baruntse",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049597,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7990259,
+        "wk:page":"Baruntse"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7c4ec645162639b422fd8bf57bba3072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1192960075,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1192960075,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1192960075,
+    "wof:lastmodified":1537570153,
+    "wof:name":"Baruntse",
+    "wof:parent_id":1092049597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.98268,
+    27.87316,
+    86.98268,
+    27.87316
+],
+  "geometry": {"coordinates":[86.98268,27.87316],"type":"Point"}
+}

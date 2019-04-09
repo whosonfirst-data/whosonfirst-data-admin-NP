@@ -1,0 +1,78 @@
+{
+  "id": 1293816593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.81507,28.91997,80.81507,28.91997",
+    "geom:latitude":28.91997,
+    "geom:longitude":80.81507,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710020.0",
+    "gn:asciiname":"Khairala",
+    "gn:country_code":"NP",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956827,
+    "gn:latitude":28.91997,
+    "gn:longitude":80.81507,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khairala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956827
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3dfea2a53d073125aa2049311bf1e79e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1293816593,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1293816593,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1293816593,
+    "wof:lastmodified":1536809328,
+    "wof:name":"Khairala",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.81506999999998,
+    28.91997000000001,
+    80.81506999999998,
+    28.91997000000001
+],
+  "geometry": {"coordinates":[80.81506999999998,28.91997000000001],"type":"Point"}
+}

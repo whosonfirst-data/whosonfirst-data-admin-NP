@@ -1,0 +1,78 @@
+{
+  "id": 1259511781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.35253,28.52846,82.35253,28.52846",
+    "geom:latitude":28.52846,
+    "geom:longitude":82.35253,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550041",
+    "gn:asciiname":"Setiburas",
+    "gn:country_code":"NP",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7989552,
+    "gn:latitude":28.52846,
+    "gn:longitude":82.35253,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Setiburas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049579,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7989552
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5cd87f1785a8779dca04ea37ac879956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1259511781,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1259511781,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1259511781,
+    "wof:lastmodified":1536817491,
+    "wof:name":"Setiburas",
+    "wof:parent_id":1092049579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.35253,
+    28.52846,
+    82.35253,
+    28.52846
+],
+  "geometry": {"coordinates":[82.35253,28.52846],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1309915519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.44409,28.16882,81.44409,28.16882",
+    "geom:latitude":28.16882,
+    "geom:longitude":81.44409,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Purano Kanthapur",
+    "gn:country_code":"NP",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283252,
+    "gn:latitude":28.16882,
+    "gn:longitude":81.44409,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Pur\u0101no Ka\u1e47\u1e6dhapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Pur\u0101no Ka\u1e47\u1e6dhapur"
+    ],
+    "name:und_x_variant":[
+        "Kanthapur",
+        "Kantu Purwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048097,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283252
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"74ac7daa5af8c79c2da6e1cd3bce5e86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1309915519,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1309915519,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1309915519,
+    "wof:lastmodified":1537676052,
+    "wof:name":"Purano Kanthapur",
+    "wof:parent_id":1092048097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.44409,
+    28.16882,
+    81.44409,
+    28.16882
+],
+  "geometry": {"coordinates":[81.44409,28.16882],"type":"Point"}
+}

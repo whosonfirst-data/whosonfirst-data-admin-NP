@@ -1,0 +1,78 @@
+{
+  "id": 1344094721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.62277,27.81578,85.62277,27.81578",
+    "geom:latitude":27.81578,
+    "geom:longitude":85.62277,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"23",
+    "gn:admin4_code":"230050",
+    "gn:asciiname":"Gairigaun",
+    "gn:country_code":"NP",
+    "gn:dem":1627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7995188,
+    "gn:latitude":27.81578,
+    "gn:longitude":85.62277,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gairigaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7995188
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"454d35c572074e6d47d7471dc8883415",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1344094721,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1344094721,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1344094721,
+    "wof:lastmodified":1536825190,
+    "wof:name":"Gairigaun",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.62276999999997,
+    27.81578,
+    85.62276999999997,
+    27.81578
+],
+  "geometry": {"coordinates":[85.62276999999997,27.81578],"type":"Point"}
+}

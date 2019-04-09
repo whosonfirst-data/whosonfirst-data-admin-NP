@@ -1,0 +1,78 @@
+{
+  "id": 1326871775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.52089,28.04314,84.52089,28.04314",
+    "geom:latitude":28.04314,
+    "geom:longitude":84.52089,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360036.0",
+    "gn:asciiname":"Panditgaun",
+    "gn:country_code":"NP",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7948786,
+    "gn:latitude":28.04314,
+    "gn:longitude":84.52089,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Panditgaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7948786
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"479ce3575a97c33ca6acfc5996386125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1326871775,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1326871775,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1326871775,
+    "wof:lastmodified":1536991018,
+    "wof:name":"Panditgaun",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.52089000000002,
+    28.04314,
+    84.52089000000002,
+    28.04314
+],
+  "geometry": {"coordinates":[84.52089000000002,28.04314],"type":"Point"}
+}

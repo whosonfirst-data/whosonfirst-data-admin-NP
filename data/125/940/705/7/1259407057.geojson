@@ -1,0 +1,78 @@
+{
+  "id": 1259407057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.6706,28.58642,81.6706,28.58642",
+    "geom:latitude":28.58642,
+    "geom:longitude":81.6706,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590023.0",
+    "gn:asciiname":"Maumare",
+    "gn:country_code":"NP",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7999264,
+    "gn:latitude":28.58642,
+    "gn:longitude":81.6706,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Maumare",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7999264
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3ff3e56b2da89b8ccb28938c128f30d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1259407057,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1259407057,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1259407057,
+    "wof:lastmodified":1536968357,
+    "wof:name":"Maumare",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.6706,
+    28.58642,
+    81.6706,
+    28.58642
+],
+  "geometry": {"coordinates":[81.67059999999999,28.58642],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209352099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.56596,28.32446,83.56596,28.32446",
+    "geom:latitude":28.32446,
+    "geom:longitude":83.56596,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"43",
+    "gn:admin4_code":"430006",
+    "gn:asciiname":"Jamruk",
+    "gn:country_code":"NP",
+    "gn:dem":1506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7972064,
+    "gn:latitude":28.32446,
+    "gn:longitude":83.56596,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jamruk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7972064
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d1cae7c12076c81cef8e59f996adb6f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209352099
+        }
+    ],
+    "wof:id":1209352099,
+    "wof:lastmodified":1536289707,
+    "wof:name":"Jamruk",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.56596,
+    28.32446,
+    83.56596,
+    28.32446
+],
+  "geometry": {"coordinates":[83.56596,28.32446],"type":"Point"}
+}

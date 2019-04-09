@@ -1,0 +1,78 @@
+{
+  "id": 1192960297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.32006,27.43483,85.32006,27.43483",
+    "geom:latitude":27.43483,
+    "geom:longitude":85.32006,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310030.0",
+    "gn:asciiname":"Tin Bhangale",
+    "gn:country_code":"NP",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7968794,
+    "gn:latitude":27.43483,
+    "gn:longitude":85.32006,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tin Bhangale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7968794
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"64ac78bf95ae9433165b5b66c2ac5975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1192960297,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1192960297,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1192960297,
+    "wof:lastmodified":1536366414,
+    "wof:name":"Tin Bhangale",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.32006,
+    27.43483,
+    85.32006,
+    27.43483
+],
+  "geometry": {"coordinates":[85.32006,27.43483],"type":"Point"}
+}

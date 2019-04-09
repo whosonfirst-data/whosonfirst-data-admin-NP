@@ -1,0 +1,64 @@
+{
+  "id": 1209352445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.03345,26.53344,88.03345,26.53344",
+    "geom:latitude":26.53344,
+    "geom:longitude":88.03345,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40024.0",
+    "gn:asciiname":"Shikaribari",
+    "gn:country_code":"NP",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7954592,
+    "gn:latitude":26.53344,
+    "gn:longitude":88.03345,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Shikaribari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7954592
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7a77fbd3f8e2ed014373d856f4efe424",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209352445
+        }
+    ],
+    "wof:id":1209352445,
+    "wof:lastmodified":1536289700,
+    "wof:name":"Shikaribari",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.03345,
+    26.53344,
+    88.03345,
+    26.53344
+],
+  "geometry": {"coordinates":[88.03345,26.53344],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1226549485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.92286,27.01796,85.92286,27.01796",
+    "geom:latitude":27.01796,
+    "geom:longitude":85.92286,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tulasi",
+    "gn:country_code":"NP",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282636,
+    "gn:latitude":27.01796,
+    "gn:longitude":85.92286,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Tulasi\u0307\u0304",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Tulasi\u0307\u0304"
+    ],
+    "name:nep_x_variant":[
+        "Tulas\u012b"
+    ],
+    "name:und_x_variant":[
+        "Tulsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092048127,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282636
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d0c0ff8de0ea25f767cf31de3f699d7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048127,
+            "locality_id":1226549485,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048127,
+            "locality_id":1226549485,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1226549485,
+    "wof:lastmodified":1537676037,
+    "wof:name":"Tulasi",
+    "wof:parent_id":1092048127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.92286,
+    27.01796,
+    85.92286,
+    27.01796
+],
+  "geometry": {"coordinates":[85.92286,27.01796],"type":"Point"}
+}

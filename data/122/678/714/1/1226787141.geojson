@@ -1,0 +1,78 @@
+{
+  "id": 1226787141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.83634,26.51534,87.83634,26.51534",
+    "geom:latitude":26.51534,
+    "geom:longitude":87.83634,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40032.0",
+    "gn:asciiname":"Sugabathan",
+    "gn:country_code":"NP",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7954848,
+    "gn:latitude":26.51534,
+    "gn:longitude":87.83634,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sugabathan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7954848
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"621362cac18e092a46f0c85259b443c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1226787141,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1226787141,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1226787141,
+    "wof:lastmodified":1536655920,
+    "wof:name":"Sugabathan",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.83634,
+    26.51534,
+    87.83634,
+    26.51534
+],
+  "geometry": {"coordinates":[87.83634000000001,26.51534],"type":"Point"}
+}

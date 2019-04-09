@@ -1,0 +1,76 @@
+{
+  "id": 1209853173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.78889,27.55333,83.78889,27.55333",
+    "geom:latitude":27.55333,
+    "geom:longitude":83.78889,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8.0",
+    "gn:asciiname":"Bardghat",
+    "gn:country_code":"NP",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8410808,
+    "gn:latitude":27.55333,
+    "gn:longitude":83.78889,
+    "gn:modification_date":"2012-10-24",
+    "gn:name":"Bardghat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050413,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8410808
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"59d8c4259bf4fc545a618a1c30b83088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050413,
+            "locality_id":1209853173,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050413,
+            "locality_id":1209853173,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1209853173,
+    "wof:lastmodified":1536387478,
+    "wof:name":"Bardghat",
+    "wof:parent_id":1092050413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.78889000000002,
+    27.55333,
+    83.78889000000002,
+    27.55333
+],
+  "geometry": {"coordinates":[83.78889000000002,27.55333],"type":"Point"}
+}

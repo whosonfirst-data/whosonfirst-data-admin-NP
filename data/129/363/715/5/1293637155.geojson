@@ -1,0 +1,78 @@
+{
+  "id": 1293637155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.33593,28.02809,84.33593,28.02809",
+    "geom:latitude":28.02809,
+    "geom:longitude":84.33593,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380045.0",
+    "gn:asciiname":"Palpalithok",
+    "gn:country_code":"NP",
+    "gn:dem":953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8004778,
+    "gn:latitude":28.02809,
+    "gn:longitude":84.33593,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Palpalithok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8004778
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7a88d51ffc5091720fb0bc473ddcc423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1293637155,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1293637155,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293637155,
+    "wof:lastmodified":1537065654,
+    "wof:name":"Palpalithok",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.33593,
+    28.02809,
+    84.33593,
+    28.02809
+],
+  "geometry": {"coordinates":[84.33593,28.02809],"type":"Point"}
+}

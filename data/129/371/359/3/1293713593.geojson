@@ -1,0 +1,78 @@
+{
+  "id": 1293713593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.45103,29.076,81.45103,29.076",
+    "geom:latitude":29.076,
+    "geom:longitude":81.45103,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"69.0",
+    "gn:admin4_code":"690044.0",
+    "gn:asciiname":"Chakpado",
+    "gn:country_code":"NP",
+    "gn:dem":1086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008179,
+    "gn:latitude":29.076,
+    "gn:longitude":81.45103,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chakpado",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048527,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008179
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4ec7036f45e2abad33cf883706b63fde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1293713593,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1293713593,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1293713593,
+    "wof:lastmodified":1536958581,
+    "wof:name":"Chakpado",
+    "wof:parent_id":1092048527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.45103,
+    29.076,
+    81.45103,
+    29.076
+],
+  "geometry": {"coordinates":[81.45103,29.076],"type":"Point"}
+}

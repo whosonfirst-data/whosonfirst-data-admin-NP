@@ -1,0 +1,78 @@
+{
+  "id": 1276816177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.7238,27.81287,84.7238,27.81287",
+    "geom:latitude":27.81287,
+    "geom:longitude":84.7238,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360027.0",
+    "gn:asciiname":"Pulingtar",
+    "gn:country_code":"NP",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7948510,
+    "gn:latitude":27.81287,
+    "gn:longitude":84.7238,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pulingtar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7948510
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2e2f0ebf727f63cb4904a67a5aab2194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1276816177,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1276816177,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1276816177,
+    "wof:lastmodified":1536627187,
+    "wof:name":"Pulingtar",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.7238,
+    27.81287,
+    84.7238,
+    27.81287
+],
+  "geometry": {"coordinates":[84.7238,27.81287],"type":"Point"}
+}

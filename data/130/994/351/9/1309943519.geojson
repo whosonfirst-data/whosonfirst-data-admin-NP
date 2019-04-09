@@ -1,0 +1,78 @@
+{
+  "id": 1309943519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.68068,27.78162,83.68068,27.78162",
+    "geom:latitude":27.78162,
+    "geom:longitude":83.68068,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"47",
+    "gn:admin4_code":"470031",
+    "gn:asciiname":"Jhadewa",
+    "gn:country_code":"NP",
+    "gn:dem":1108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7976413,
+    "gn:latitude":27.78162,
+    "gn:longitude":83.68068,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jhadewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050889,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7976413
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"87fd2f602f3377c7b31b7ef813d16842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1309943519,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1309943519,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1309943519,
+    "wof:lastmodified":1536732816,
+    "wof:name":"Jhadewa",
+    "wof:parent_id":1092050889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.68068000000002,
+    27.78162,
+    83.68068000000002,
+    27.78162
+],
+  "geometry": {"coordinates":[83.68068000000002,27.78162],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293715505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.62814,28.39099,82.62814,28.39099",
+    "geom:latitude":28.39099,
+    "geom:longitude":82.62814,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530002",
+    "gn:asciiname":"Upallo Katam",
+    "gn:country_code":"NP",
+    "gn:dem":2169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7982877,
+    "gn:latitude":28.39099,
+    "gn:longitude":82.62814,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Upallo Katam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7982877
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5a041b7721890943aa5d9e2acb67cdf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1293715505,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1293715505,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1293715505,
+    "wof:lastmodified":1536955907,
+    "wof:name":"Upallo Katam",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.62814,
+    28.39099,
+    82.62814,
+    28.39099
+],
+  "geometry": {"coordinates":[82.62814,28.39099],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226780499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.47781,28.75078,81.47781,28.75078",
+    "geom:latitude":28.75078,
+    "geom:longitude":81.47781,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590040.0",
+    "gn:asciiname":"Khandi",
+    "gn:country_code":"NP",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8000059,
+    "gn:latitude":28.75078,
+    "gn:longitude":81.47781,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khandi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8000059
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a62fdefc4cb0eb34c5c7c70a235ad0d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1226780499,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1226780499,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1226780499,
+    "wof:lastmodified":1536665561,
+    "wof:name":"Khandi",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.47780999999998,
+    28.75078,
+    81.47780999999998,
+    28.75078
+],
+  "geometry": {"coordinates":[81.47780999999998,28.75078],"type":"Point"}
+}

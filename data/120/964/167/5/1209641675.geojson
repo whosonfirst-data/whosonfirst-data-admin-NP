@@ -1,0 +1,64 @@
+{
+  "id": 1209641675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.00326,29.15237,81.00326,29.15237",
+    "geom:latitude":29.15237,
+    "geom:longitude":81.00326,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"70.0",
+    "gn:admin4_code":"700048.0",
+    "gn:asciiname":"Kapada",
+    "gn:country_code":"NP",
+    "gn:dem":1378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7947709,
+    "gn:latitude":29.15237,
+    "gn:longitude":81.00326,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kapada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7947709
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6c50409698f4a9d99a26e922db501cdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209641675
+        }
+    ],
+    "wof:id":1209641675,
+    "wof:lastmodified":1536280867,
+    "wof:name":"Kapada",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.00326,
+    29.15237,
+    81.00326,
+    29.15237
+],
+  "geometry": {"coordinates":[81.00326,29.15237],"type":"Point"}
+}

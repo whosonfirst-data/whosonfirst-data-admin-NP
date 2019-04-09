@@ -1,0 +1,78 @@
+{
+  "id": 1242911347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.86396,27.77303,85.86396,27.77303",
+    "geom:latitude":27.77303,
+    "geom:longitude":85.86396,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"23",
+    "gn:admin4_code":"230057",
+    "gn:asciiname":"Chauthali",
+    "gn:country_code":"NP",
+    "gn:dem":1682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7995261,
+    "gn:latitude":27.77303,
+    "gn:longitude":85.86396,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chauthali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7995261
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8edfdebae733d0e961aec7d5953ede5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1242911347,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1242911347,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1242911347,
+    "wof:lastmodified":1537076834,
+    "wof:name":"Chauthali",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.86395999999998,
+    27.77303,
+    85.86395999999998,
+    27.77303
+],
+  "geometry": {"coordinates":[85.86395999999998,27.77303],"type":"Point"}
+}

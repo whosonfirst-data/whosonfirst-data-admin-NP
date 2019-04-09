@@ -1,0 +1,78 @@
+{
+  "id": 1326856411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.56801,28.76269,81.56801,28.76269",
+    "geom:latitude":28.76269,
+    "geom:longitude":81.56801,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"69.0",
+    "gn:admin4_code":"690058.0",
+    "gn:asciiname":"Naruni",
+    "gn:country_code":"NP",
+    "gn:dem":1058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933440,
+    "gn:latitude":28.76269,
+    "gn:longitude":81.56801,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Naruni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048527,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933440
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0549803c32d2aac78adf660b4ee1dc34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1326856411,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1326856411,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1326856411,
+    "wof:lastmodified":1537013272,
+    "wof:name":"Naruni",
+    "wof:parent_id":1092048527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.56801,
+    28.76269000000001,
+    81.56801,
+    28.76269000000001
+],
+  "geometry": {"coordinates":[81.56801,28.76269000000001],"type":"Point"}
+}

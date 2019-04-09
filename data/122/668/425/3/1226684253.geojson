@@ -1,0 +1,78 @@
+{
+  "id": 1226684253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.21935,27.88235,85.21935,27.88235",
+    "geom:latitude":27.88235,
+    "geom:longitude":85.21935,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"28",
+    "gn:admin4_code":"280055",
+    "gn:asciiname":"Belaspur",
+    "gn:country_code":"NP",
+    "gn:dem":886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7974797,
+    "gn:latitude":27.88235,
+    "gn:longitude":85.21935,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Belaspur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7974797
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c52900882f916e3688ada3340ce30a29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1226684253,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1226684253,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1226684253,
+    "wof:lastmodified":1536803892,
+    "wof:name":"Belaspur",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.21935,
+    27.88235,
+    85.21935,
+    27.88235
+],
+  "geometry": {"coordinates":[85.21935000000001,27.88235],"type":"Point"}
+}

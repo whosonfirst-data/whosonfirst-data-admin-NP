@@ -1,0 +1,78 @@
+{
+  "id": 1293531371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.53142,26.92279,86.53142,26.92279",
+    "geom:latitude":26.92279,
+    "geom:longitude":86.53142,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140027.0",
+    "gn:asciiname":"Amiletar",
+    "gn:country_code":"NP",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007295,
+    "gn:latitude":26.92279,
+    "gn:longitude":86.53142,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Amiletar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050179,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007295
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7ce07fc8225303cb88395d626967baeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1293531371,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1293531371,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1293531371,
+    "wof:lastmodified":1536724188,
+    "wof:name":"Amiletar",
+    "wof:parent_id":1092050179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.53142,
+    26.92279000000001,
+    86.53142,
+    26.92279000000001
+],
+  "geometry": {"coordinates":[86.53142,26.92279000000001],"type":"Point"}
+}

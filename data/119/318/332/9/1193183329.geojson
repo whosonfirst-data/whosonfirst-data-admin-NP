@@ -1,0 +1,78 @@
+{
+  "id": 1193183329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.67496,27.04568,85.67496,27.04568",
+    "geom:latitude":27.04568,
+    "geom:longitude":85.67496,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"19",
+    "gn:admin4_code":"190084",
+    "gn:asciiname":"Raniganjchok",
+    "gn:country_code":"NP",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7992208,
+    "gn:latitude":27.04568,
+    "gn:longitude":85.67496,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Raniganjchok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092049639,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7992208
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"383c1578de252c047731e8057b91b993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049639,
+            "locality_id":1193183329,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049639,
+            "locality_id":1193183329,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1193183329,
+    "wof:lastmodified":1536367695,
+    "wof:name":"Raniganjchok",
+    "wof:parent_id":1092049639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.67496,
+    27.04568,
+    85.67496,
+    27.04568
+],
+  "geometry": {"coordinates":[85.67496,27.04568],"type":"Point"}
+}

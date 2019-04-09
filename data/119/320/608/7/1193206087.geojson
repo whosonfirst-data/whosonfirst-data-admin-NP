@@ -1,0 +1,78 @@
+{
+  "id": 1193206087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.93259,27.53497,85.93259,27.53497",
+    "geom:latitude":27.53497,
+    "geom:longitude":85.93259,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"21",
+    "gn:admin4_code":"210055",
+    "gn:asciiname":"Dhuigaun",
+    "gn:country_code":"NP",
+    "gn:dem":1709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7982064,
+    "gn:latitude":27.53497,
+    "gn:longitude":85.93259,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhuigaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049711,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7982064
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9d7a7550c5ebfd0208f921beb06d4d4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1193206087,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1193206087,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1193206087,
+    "wof:lastmodified":1536367475,
+    "wof:name":"Dhuigaun",
+    "wof:parent_id":1092049711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.93259,
+    27.53497,
+    85.93259,
+    27.53497
+],
+  "geometry": {"coordinates":[85.93259,27.53497],"type":"Point"}
+}

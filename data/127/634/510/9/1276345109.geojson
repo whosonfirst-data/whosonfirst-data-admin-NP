@@ -1,0 +1,75 @@
+{
+  "id": 1276345109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.78011,27.27551,86.78011,27.27551",
+    "geom:latitude":27.27551,
+    "geom:longitude":86.78011,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Paiya",
+    "gn:country_code":"NP",
+    "gn:dem":2357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11209415,
+    "gn:latitude":27.27551,
+    "gn:longitude":86.78011,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Pai\u0307\u0303y\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050841,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11209415
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"10656d1f8aadcbc1237e8f41b72652a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1276345109,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1276345109,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1276345109,
+    "wof:lastmodified":1536762896,
+    "wof:name":"Paiya",
+    "wof:parent_id":1092050841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.78011,
+    27.27551,
+    86.78011,
+    27.27551
+],
+  "geometry": {"coordinates":[86.78010999999999,27.27551],"type":"Point"}
+}

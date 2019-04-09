@@ -1,0 +1,61 @@
+{
+  "id": 1209115823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.65838,27.60659,85.65838,27.60659",
+    "geom:latitude":27.60659,
+    "geom:longitude":85.65838,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bhotekate Khola",
+    "gn:country_code":"NP",
+    "gn:dem":821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10321739,
+    "gn:latitude":27.60659,
+    "gn:longitude":85.65838,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Bho\u1e6dek\u0101\u1e6de Khol\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10321739
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"510a5e2953291bb7e41e49db80c43668",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209115823
+        }
+    ],
+    "wof:id":1209115823,
+    "wof:lastmodified":1536297257,
+    "wof:name":"Bhotekate Khola",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.65838000000002,
+    27.60659,
+    85.65838000000002,
+    27.60659
+],
+  "geometry": {"coordinates":[85.65838000000002,27.60659],"type":"Point"}
+}

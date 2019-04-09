@@ -1,0 +1,79 @@
+{
+  "id": 1226592037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.69442,27.45626,87.69442,27.45626",
+    "geom:latitude":27.45626,
+    "geom:longitude":87.69442,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10013.0",
+    "gn:asciiname":"Khejenim",
+    "gn:country_code":"NP",
+    "gn:dem":1264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005171,
+    "gn:latitude":27.45626,
+    "gn:longitude":87.69442,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khejenim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005171,
+        "wk:page":"Khejenim"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1dd6b392b1c9e5c94b57277d63a381e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1226592037,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1226592037,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1226592037,
+    "wof:lastmodified":1537570157,
+    "wof:name":"Khejenim",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.69442,
+    27.45626,
+    87.69442,
+    27.45626
+],
+  "geometry": {"coordinates":[87.69441999999999,27.45626],"type":"Point"}
+}

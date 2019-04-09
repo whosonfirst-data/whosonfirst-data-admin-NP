@@ -1,0 +1,78 @@
+{
+  "id": 1343385615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.46181,29.06186,81.46181,29.06186",
+    "geom:latitude":29.06186,
+    "geom:longitude":81.46181,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"60.0",
+    "gn:admin4_code":"600045.0",
+    "gn:asciiname":"Serabada",
+    "gn:country_code":"NP",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7937840,
+    "gn:latitude":29.06186,
+    "gn:longitude":81.46181,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Serabada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092050583,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7937840
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5600d6cf61457dfdc5d08c21952ed555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1343385615,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1343385615,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1343385615,
+    "wof:lastmodified":1536853221,
+    "wof:name":"Serabada",
+    "wof:parent_id":1092050583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.46181,
+    29.06186,
+    81.46181,
+    29.06186
+],
+  "geometry": {"coordinates":[81.46181,29.06186],"type":"Point"}
+}

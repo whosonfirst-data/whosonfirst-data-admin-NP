@@ -1,0 +1,80 @@
+{
+  "id": 1310511121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.33897,28.16461,85.33897,28.16461",
+    "geom:latitude":28.16461,
+    "geom:longitude":85.33897,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Shyaphru",
+    "gn:country_code":"NP",
+    "gn:dem":1480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282737,
+    "gn:latitude":28.16461,
+    "gn:longitude":85.33897,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Shy\u0101phru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shyabu",
+        "Sy\u0101bru",
+        "Shy\u0101phru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048409,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282737
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7aab41afb447ab9d15316df2f5cd1dd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048409,
+            "locality_id":1310511121,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048409,
+            "locality_id":1310511121,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1310511121,
+    "wof:lastmodified":1537676039,
+    "wof:name":"Shyaphru",
+    "wof:parent_id":1092048409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.33896999999997,
+    28.16461,
+    85.33896999999997,
+    28.16461
+],
+  "geometry": {"coordinates":[85.33896999999997,28.16461],"type":"Point"}
+}

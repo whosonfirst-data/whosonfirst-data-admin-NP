@@ -1,0 +1,78 @@
+{
+  "id": 1243016475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.34151,27.91906,85.34151,27.91906",
+    "geom:latitude":27.91906,
+    "geom:longitude":85.34151,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"28",
+    "gn:admin4_code":"280060",
+    "gn:asciiname":"Birtathok",
+    "gn:country_code":"NP",
+    "gn:dem":799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7974891,
+    "gn:latitude":27.91906,
+    "gn:longitude":85.34151,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Birtathok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7974891
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7ed17737d9b69743fd12782a2c44f20e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1243016475,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1243016475,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1243016475,
+    "wof:lastmodified":1536929149,
+    "wof:name":"Birtathok",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.34151,
+    27.91906,
+    85.34151,
+    27.91906
+],
+  "geometry": {"coordinates":[85.34151,27.91906],"type":"Point"}
+}

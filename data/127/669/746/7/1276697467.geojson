@@ -1,0 +1,78 @@
+{
+  "id": 1276697467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.61429,27.91012,83.61429,27.91012",
+    "geom:latitude":27.91012,
+    "geom:longitude":83.61429,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"47",
+    "gn:admin4_code":"470017",
+    "gn:asciiname":"Dansing",
+    "gn:country_code":"NP",
+    "gn:dem":1065,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7976064,
+    "gn:latitude":27.91012,
+    "gn:longitude":83.61429,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dansing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050889,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7976064
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fb4eb3789df497eddd8b2cfc6a9260db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1276697467,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1276697467,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1276697467,
+    "wof:lastmodified":1536788144,
+    "wof:name":"Dansing",
+    "wof:parent_id":1092050889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.61429,
+    27.91012000000001,
+    83.61429,
+    27.91012000000001
+],
+  "geometry": {"coordinates":[83.61429,27.91012000000001],"type":"Point"}
+}

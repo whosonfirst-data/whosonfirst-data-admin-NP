@@ -1,0 +1,78 @@
+{
+  "id": 1243377847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.16294,28.06941,86.16294,28.06941",
+    "geom:latitude":28.06941,
+    "geom:longitude":86.16294,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Thasin",
+    "gn:country_code":"NP",
+    "gn:dem":3412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10317527,
+    "gn:latitude":28.06941,
+    "gn:longitude":86.16294,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Th\u0101si\u1e45",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Th\u0101si\u1e45"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675579,
+        1092050535,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10317527
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1fa174187343bc55f663782a376808f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1243377847,
+            "region_id":85675579
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1243377847,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1243377847,
+    "wof:lastmodified":1537676081,
+    "wof:name":"Thasin",
+    "wof:parent_id":1092050535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.16294,
+    28.06941,
+    86.16294,
+    28.06941
+],
+  "geometry": {"coordinates":[86.16294000000001,28.06941],"type":"Point"}
+}

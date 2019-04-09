@@ -1,0 +1,74 @@
+{
+  "id": 890413453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.45934,27.62881,85.45934,27.62881",
+    "geom:latitude":27.62881,
+    "geom:longitude":85.45934,
+    "gn:country":"NP",
+    "gn:fcode":"PPL",
+    "gn:pop":10000,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"kankrabari Dovan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8199102,
+        "gp:id":2268385,
+        "qs:id":759629
+    },
+    "wof:country":"NP",
+    "wof:created":1469051000,
+    "wof:geomhash":"f84cfe414139a5e5db6fc406b5d4143c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":890413453,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":890413453,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":890413453,
+    "wof:lastmodified":1505343414,
+    "wof:name":"kankrabari Dovan",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:population":10000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.45934,
+    27.62881,
+    85.45934,
+    27.62881
+],
+  "geometry": {"coordinates":[85.45934,27.62881],"type":"Point"}
+}

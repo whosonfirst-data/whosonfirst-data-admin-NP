@@ -1,0 +1,78 @@
+{
+  "id": 1242915153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.27038,28.2948,83.27038,28.2948",
+    "geom:latitude":28.2948,
+    "geom:longitude":83.27038,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45",
+    "gn:admin4_code":"450059.0",
+    "gn:asciiname":"Dhansardanda",
+    "gn:country_code":"NP",
+    "gn:dem":2365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7966009,
+    "gn:latitude":28.2948,
+    "gn:longitude":83.27038,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhansardanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7966009
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a6340cbe9dcd7b8cb6bb34395402cda0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1242915153,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1242915153,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1242915153,
+    "wof:lastmodified":1537071435,
+    "wof:name":"Dhansardanda",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.27038,
+    28.2948,
+    83.27038,
+    28.2948
+],
+  "geometry": {"coordinates":[83.27038,28.2948],"type":"Point"}
+}

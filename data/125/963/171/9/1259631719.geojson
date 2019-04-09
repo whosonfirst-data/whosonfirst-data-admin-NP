@@ -1,0 +1,78 @@
+{
+  "id": 1259631719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.42626,27.3963,85.42626,27.3963",
+    "geom:latitude":27.3963,
+    "geom:longitude":85.42626,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310005",
+    "gn:asciiname":"Ramechhap",
+    "gn:country_code":"NP",
+    "gn:dem":787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7967832,
+    "gn:latitude":27.3963,
+    "gn:longitude":85.42626,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ramechhap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7967832
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7d9386d5db1e4d1fdf31731880c8ac5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1259631719,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1259631719,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1259631719,
+    "wof:lastmodified":1536644716,
+    "wof:name":"Ramechhap",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.42626,
+    27.3963,
+    85.42626,
+    27.3963
+],
+  "geometry": {"coordinates":[85.42626,27.3963],"type":"Point"}
+}

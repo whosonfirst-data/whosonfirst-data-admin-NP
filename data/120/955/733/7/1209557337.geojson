@@ -1,0 +1,64 @@
+{
+  "id": 1209557337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.03474,27.08737,87.03474,27.08737",
+    "geom:latitude":27.08737,
+    "geom:longitude":87.03474,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100003.0",
+    "gn:asciiname":"Gairigaun",
+    "gn:country_code":"NP",
+    "gn:dem":1214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8010355,
+    "gn:latitude":27.08737,
+    "gn:longitude":87.03474,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gairigaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8010355
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3cd04842ef9ccdf1193625d6a3b50905",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209557337
+        }
+    ],
+    "wof:id":1209557337,
+    "wof:lastmodified":1536283505,
+    "wof:name":"Gairigaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.03474,
+    27.08737,
+    87.03474,
+    27.08737
+],
+  "geometry": {"coordinates":[87.03474,27.08737],"type":"Point"}
+}

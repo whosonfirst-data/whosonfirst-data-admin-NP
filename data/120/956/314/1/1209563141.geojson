@@ -1,0 +1,64 @@
+{
+  "id": 1209563141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.0888,27.60559,84.0888,27.60559",
+    "geom:latitude":27.60559,
+    "geom:longitude":84.0888,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"48",
+    "gn:admin4_code":"480001",
+    "gn:asciiname":"Tallo Dandagaun",
+    "gn:country_code":"NP",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7972687,
+    "gn:latitude":27.60559,
+    "gn:longitude":84.0888,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tallo Dandagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7972687
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a331e36d6de62b10e70f687098dd7b3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209563141
+        }
+    ],
+    "wof:id":1209563141,
+    "wof:lastmodified":1536283324,
+    "wof:name":"Tallo Dandagaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.0888,
+    27.605590000000007,
+    84.0888,
+    27.605590000000007
+],
+  "geometry": {"coordinates":[84.08880000000001,27.60559000000001],"type":"Point"}
+}

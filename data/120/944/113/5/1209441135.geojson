@@ -1,0 +1,64 @@
+{
+  "id": 1209441135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.88651,29.62748,81.88651,29.62748",
+    "geom:latitude":29.62748,
+    "geom:longitude":81.88651,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"65",
+    "gn:admin4_code":"650001",
+    "gn:asciiname":"Dumbada",
+    "gn:country_code":"NP",
+    "gn:dem":2022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7971372,
+    "gn:latitude":29.62748,
+    "gn:longitude":81.88651,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dumbada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7971372
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2166d65ce7e6e5b07ba32d9bce61dc7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209441135
+        }
+    ],
+    "wof:id":1209441135,
+    "wof:lastmodified":1536286957,
+    "wof:name":"Dumbada",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.88651,
+    29.62748,
+    81.88651,
+    29.62748
+],
+  "geometry": {"coordinates":[81.88651,29.62748],"type":"Point"}
+}

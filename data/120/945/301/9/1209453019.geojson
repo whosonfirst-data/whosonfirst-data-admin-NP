@@ -1,0 +1,64 @@
+{
+  "id": 1209453019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.21279,27.68761,85.21279,27.68761",
+    "geom:latitude":27.68761,
+    "geom:longitude":85.21279,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"27.0",
+    "gn:admin4_code":"270056.0",
+    "gn:asciiname":"Panighat",
+    "gn:country_code":"NP",
+    "gn:dem":1562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7962513,
+    "gn:latitude":27.68761,
+    "gn:longitude":85.21279,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Panighat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7962513
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"23044d9b2a31688ba419b7a5cb421c3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209453019
+        }
+    ],
+    "wof:id":1209453019,
+    "wof:lastmodified":1536286620,
+    "wof:name":"Panighat",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.21279,
+    27.68761,
+    85.21279,
+    27.68761
+],
+  "geometry": {"coordinates":[85.21279,27.68761],"type":"Point"}
+}

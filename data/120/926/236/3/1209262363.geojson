@@ -1,0 +1,64 @@
+{
+  "id": 1209262363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.1898,27.9095,84.1898,27.9095",
+    "geom:latitude":27.9095,
+    "geom:longitude":84.1898,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380030.0",
+    "gn:asciiname":"Kami Tol",
+    "gn:country_code":"NP",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8004045,
+    "gn:latitude":27.9095,
+    "gn:longitude":84.1898,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kami Tol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8004045
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f6cea3dfbf5c22cae26b3e7ac8361a87",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209262363
+        }
+    ],
+    "wof:id":1209262363,
+    "wof:lastmodified":1536292645,
+    "wof:name":"Kami Tol",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.1898,
+    27.9095,
+    84.1898,
+    27.9095
+],
+  "geometry": {"coordinates":[84.18980000000001,27.9095],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293112973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.10007,26.9475,88.10007,26.9475",
+    "geom:latitude":26.9475,
+    "geom:longitude":88.10007,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Runsun",
+    "gn:country_code":"NP",
+    "gn:dem":1838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11602117,
+    "gn:latitude":26.9475,
+    "gn:longitude":88.10007,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Ru\u1e45su\u1e45",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Ru\u1e45su\u1e45"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11602117
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9cffb627a40f422fcfdff3f225902a6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1293112973,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1293112973,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1293112973,
+    "wof:lastmodified":1537676119,
+    "wof:name":"Runsun",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.10007,
+    26.9475,
+    88.10007,
+    26.9475
+],
+  "geometry": {"coordinates":[88.10007,26.9475],"type":"Point"}
+}

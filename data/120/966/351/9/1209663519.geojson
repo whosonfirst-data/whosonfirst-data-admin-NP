@@ -1,0 +1,64 @@
+{
+  "id": 1209663519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.22619,27.20201,86.22619,27.20201",
+    "geom:latitude":27.20201,
+    "geom:longitude":86.22619,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200049",
+    "gn:asciiname":"Muladanda",
+    "gn:country_code":"NP",
+    "gn:dem":1500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7994097,
+    "gn:latitude":27.20201,
+    "gn:longitude":86.22619,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Muladanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7994097
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"82c23558b0955b50feae4030ebec2779",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209663519
+        }
+    ],
+    "wof:id":1209663519,
+    "wof:lastmodified":1536280175,
+    "wof:name":"Muladanda",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.22619,
+    27.20201,
+    86.22619,
+    27.20201
+],
+  "geometry": {"coordinates":[86.22619,27.20201],"type":"Point"}
+}

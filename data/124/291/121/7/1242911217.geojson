@@ -1,0 +1,78 @@
+{
+  "id": 1242911217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.57085,26.97818,87.57085,26.97818",
+    "geom:latitude":26.97818,
+    "geom:longitude":87.57085,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"2",
+    "gn:admin4_code":"20019",
+    "gn:asciiname":"Phikuwa",
+    "gn:country_code":"NP",
+    "gn:dem":1223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7977533,
+    "gn:latitude":26.97818,
+    "gn:longitude":87.57085,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Phikuwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7977533
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e2e5909a89374cea60d1a8b3c8d72f72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1242911217,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1242911217,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1242911217,
+    "wof:lastmodified":1537077004,
+    "wof:name":"Phikuwa",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.57085,
+    26.97818,
+    87.57085,
+    26.97818
+],
+  "geometry": {"coordinates":[87.57084999999999,26.97818],"type":"Point"}
+}

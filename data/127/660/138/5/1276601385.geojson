@@ -1,0 +1,78 @@
+{
+  "id": 1276601385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.09664,27.4013,85.09664,27.4013",
+    "geom:latitude":27.4013,
+    "geom:longitude":85.09664,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310019",
+    "gn:asciiname":"Girigaun",
+    "gn:country_code":"NP",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7968362,
+    "gn:latitude":27.4013,
+    "gn:longitude":85.09664,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Girigaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7968362
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"212287fa03315e7078a0e142f1056add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1276601385,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1276601385,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1276601385,
+    "wof:lastmodified":1536917659,
+    "wof:name":"Girigaun",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.09664000000002,
+    27.4013,
+    85.09664000000002,
+    27.4013
+],
+  "geometry": {"coordinates":[85.09664000000002,27.4013],"type":"Point"}
+}

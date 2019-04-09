@@ -1,0 +1,78 @@
+{
+  "id": 1259407247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.58098,28.58937,82.58098,28.58937",
+    "geom:latitude":28.58937,
+    "geom:longitude":82.58098,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"54",
+    "gn:admin4_code":"540037",
+    "gn:asciiname":"Sirudhara",
+    "gn:country_code":"NP",
+    "gn:dem":1866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7986433,
+    "gn:latitude":28.58937,
+    "gn:longitude":82.58098,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sirudhara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049495,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7986433
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"26d0ea7d515dfd962017b677f40777ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1259407247,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1259407247,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1259407247,
+    "wof:lastmodified":1536968094,
+    "wof:name":"Sirudhara",
+    "wof:parent_id":1092049495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.58098000000003,
+    28.58937,
+    82.58098000000003,
+    28.58937
+],
+  "geometry": {"coordinates":[82.58098000000003,28.58937],"type":"Point"}
+}

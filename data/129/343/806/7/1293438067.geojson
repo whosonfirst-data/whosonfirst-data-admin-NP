@@ -1,0 +1,78 @@
+{
+  "id": 1293438067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.01539,27.86024,85.01539,27.86024",
+    "geom:latitude":27.86024,
+    "geom:longitude":85.01539,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"28",
+    "gn:admin4_code":"280057.0",
+    "gn:asciiname":"Chautaragaun",
+    "gn:country_code":"NP",
+    "gn:dem":772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7974822,
+    "gn:latitude":27.86024,
+    "gn:longitude":85.01539,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chautaragaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7974822
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6e8d767cc615845270122da132a5312d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1293438067,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1293438067,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1293438067,
+    "wof:lastmodified":1536857154,
+    "wof:name":"Chautaragaun",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.01539,
+    27.86024,
+    85.01539,
+    27.86024
+],
+  "geometry": {"coordinates":[85.01539,27.86024],"type":"Point"}
+}

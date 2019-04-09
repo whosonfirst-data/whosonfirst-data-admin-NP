@@ -1,0 +1,78 @@
+{
+  "id": 1343303849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.31519,27.54764,87.31519,27.54764",
+    "geom:latitude":27.54764,
+    "geom:longitude":87.31519,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"9",
+    "gn:admin4_code":"90022",
+    "gn:asciiname":"Phumrang",
+    "gn:country_code":"NP",
+    "gn:dem":1489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7990365,
+    "gn:latitude":27.54764,
+    "gn:longitude":87.31519,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Phumrang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049597,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7990365
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0c6749175879cb9658f6f2416ef52264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1343303849,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1343303849,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1343303849,
+    "wof:lastmodified":1536971890,
+    "wof:name":"Phumrang",
+    "wof:parent_id":1092049597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.31519,
+    27.54764,
+    87.31519,
+    27.54764
+],
+  "geometry": {"coordinates":[87.31519,27.54764],"type":"Point"}
+}

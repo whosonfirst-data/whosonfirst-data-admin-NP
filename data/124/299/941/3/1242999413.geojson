@@ -1,0 +1,78 @@
+{
+  "id": 1242999413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.71369,28.81584,81.71369,28.81584",
+    "geom:latitude":28.81584,
+    "geom:longitude":81.71369,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"60.0",
+    "gn:admin4_code":"600035.0",
+    "gn:asciiname":"Banskot",
+    "gn:country_code":"NP",
+    "gn:dem":1181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7937612,
+    "gn:latitude":28.81584,
+    "gn:longitude":81.71369,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Banskot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092050583,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7937612
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cd4a05c43f1e06765d33ade6627f5564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1242999413,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1242999413,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1242999413,
+    "wof:lastmodified":1536953282,
+    "wof:name":"Banskot",
+    "wof:parent_id":1092050583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.71369,
+    28.81584,
+    81.71369,
+    28.81584
+],
+  "geometry": {"coordinates":[81.71369,28.81584],"type":"Point"}
+}

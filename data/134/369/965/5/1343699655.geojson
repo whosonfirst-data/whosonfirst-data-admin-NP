@@ -1,0 +1,78 @@
+{
+  "id": 1343699655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.77851,27.15023,85.77851,27.15023",
+    "geom:latitude":27.15023,
+    "geom:longitude":85.77851,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"19",
+    "gn:admin4_code":"190076",
+    "gn:asciiname":"Ahaledamar",
+    "gn:country_code":"NP",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7992140,
+    "gn:latitude":27.15023,
+    "gn:longitude":85.77851,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ahaledamar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092049639,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7992140
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ab8fc7f1ead9de211638d39c93ef26f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049639,
+            "locality_id":1343699655,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049639,
+            "locality_id":1343699655,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1343699655,
+    "wof:lastmodified":1536898469,
+    "wof:name":"Ahaledamar",
+    "wof:parent_id":1092049639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.77851,
+    27.15023,
+    85.77851,
+    27.15023
+],
+  "geometry": {"coordinates":[85.77851,27.15023],"type":"Point"}
+}

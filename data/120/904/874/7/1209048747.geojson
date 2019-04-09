@@ -1,0 +1,64 @@
+{
+  "id": 1209048747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.73963,27.43861,85.73963,27.43861",
+    "geom:latitude":27.43861,
+    "geom:longitude":85.73963,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240008.0",
+    "gn:asciiname":"Pauwa",
+    "gn:country_code":"NP",
+    "gn:dem":1245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7962658,
+    "gn:latitude":27.43861,
+    "gn:longitude":85.73963,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pauwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7962658
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e1e83ab12d5bbbbca1728bb30833b213",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209048747
+        }
+    ],
+    "wof:id":1209048747,
+    "wof:lastmodified":1536299317,
+    "wof:name":"Pauwa",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.73963,
+    27.43861,
+    85.73963,
+    27.43861
+],
+  "geometry": {"coordinates":[85.73963000000001,27.43861],"type":"Point"}
+}

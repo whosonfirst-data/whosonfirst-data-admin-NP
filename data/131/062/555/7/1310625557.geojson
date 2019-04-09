@@ -1,0 +1,78 @@
+{
+  "id": 1310625557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.53781,29.01474,80.53781,29.01474",
+    "geom:latitude":29.01474,
+    "geom:longitude":80.53781,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710038.0",
+    "gn:asciiname":"Gajar",
+    "gn:country_code":"NP",
+    "gn:dem":745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7957623,
+    "gn:latitude":29.01474,
+    "gn:longitude":80.53781,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gajar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7957623
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"99ca4e496bba1793b83d267eed3a894e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1310625557,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1310625557,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1310625557,
+    "wof:lastmodified":1536743619,
+    "wof:name":"Gajar",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.53781,
+    29.01474,
+    80.53781,
+    29.01474
+],
+  "geometry": {"coordinates":[80.53780999999999,29.01474],"type":"Point"}
+}

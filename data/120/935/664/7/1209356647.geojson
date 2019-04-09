@@ -1,0 +1,64 @@
+{
+  "id": 1209356647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.61944,27.39961,87.61944,27.39961",
+    "geom:latitude":27.39961,
+    "geom:longitude":87.61944,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10012.0",
+    "gn:asciiname":"Pakhagaun",
+    "gn:country_code":"NP",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005154,
+    "gn:latitude":27.39961,
+    "gn:longitude":87.61944,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pakhagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005154
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"978d84ff307e7f94dc1d60a048e60dde",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209356647
+        }
+    ],
+    "wof:id":1209356647,
+    "wof:lastmodified":1536289565,
+    "wof:name":"Pakhagaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.61944,
+    27.39961,
+    87.61944,
+    27.39961
+],
+  "geometry": {"coordinates":[87.61944,27.39961],"type":"Point"}
+}

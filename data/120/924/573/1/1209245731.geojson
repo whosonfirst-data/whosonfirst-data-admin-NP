@@ -1,0 +1,64 @@
+{
+  "id": 1209245731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.69844,28.17072,82.69844,28.17072",
+    "geom:latitude":28.17072,
+    "geom:longitude":82.69844,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"52",
+    "gn:admin4_code":"520007",
+    "gn:asciiname":"Dhanchaur",
+    "gn:country_code":"NP",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7979866,
+    "gn:latitude":28.17072,
+    "gn:longitude":82.69844,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhanchaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7979866
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cfd2a4251c3419f51c972010e9bab107",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209245731
+        }
+    ],
+    "wof:id":1209245731,
+    "wof:lastmodified":1536293172,
+    "wof:name":"Dhanchaur",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.69844,
+    28.170720000000006,
+    82.69844,
+    28.170720000000006
+],
+  "geometry": {"coordinates":[82.69844000000001,28.17072000000001],"type":"Point"}
+}

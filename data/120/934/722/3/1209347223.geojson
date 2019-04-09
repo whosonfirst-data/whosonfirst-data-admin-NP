@@ -1,0 +1,64 @@
+{
+  "id": 1209347223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.8705,28.08069,82.8705,28.08069",
+    "geom:latitude":28.08069,
+    "geom:longitude":82.8705,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"52",
+    "gn:admin4_code":"520039",
+    "gn:asciiname":"Budhachaur",
+    "gn:country_code":"NP",
+    "gn:dem":1129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7980740,
+    "gn:latitude":28.08069,
+    "gn:longitude":82.8705,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Budhachaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7980740
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bbffdc01a28f7c67d3b76ceb5a2ac938",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209347223
+        }
+    ],
+    "wof:id":1209347223,
+    "wof:lastmodified":1536289871,
+    "wof:name":"Budhachaur",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.8705,
+    28.08069,
+    82.8705,
+    28.08069
+],
+  "geometry": {"coordinates":[82.87050000000001,28.08069],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1209757685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.48056,27.30066,87.48056,27.30066",
+    "geom:latitude":27.30066,
+    "geom:longitude":87.48056,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"9",
+    "gn:admin4_code":"90023.0",
+    "gn:asciiname":"Bhitri",
+    "gn:country_code":"NP",
+    "gn:dem":2037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7990386,
+    "gn:latitude":27.30066,
+    "gn:longitude":87.48056,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhitri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049597,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7990386
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0111d799235b3dc6ea16b7d25281dcdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1209757685,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1209757685,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1209757685,
+    "wof:lastmodified":1536389930,
+    "wof:name":"Bhitri",
+    "wof:parent_id":1092049597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.48056,
+    27.30066,
+    87.48056,
+    27.30066
+],
+  "geometry": {"coordinates":[87.48056,27.30066],"type":"Point"}
+}

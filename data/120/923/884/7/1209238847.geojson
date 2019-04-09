@@ -1,0 +1,64 @@
+{
+  "id": 1209238847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.73671,28.75486,80.73671,28.75486",
+    "geom:latitude":28.75486,
+    "geom:longitude":80.73671,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710007.0",
+    "gn:asciiname":"DhawaibKatan",
+    "gn:country_code":"NP",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956366,
+    "gn:latitude":28.75486,
+    "gn:longitude":80.73671,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"DhawaibKatan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956366
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1b726f795cb266e5d32c7480e174f7b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209238847
+        }
+    ],
+    "wof:id":1209238847,
+    "wof:lastmodified":1536293388,
+    "wof:name":"DhawaibKatan",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.73671,
+    28.75486,
+    80.73671,
+    28.75486
+],
+  "geometry": {"coordinates":[80.73671,28.75486],"type":"Point"}
+}

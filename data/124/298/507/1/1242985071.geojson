@@ -1,0 +1,75 @@
+{
+  "id": 1242985071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.83883,27.71663,83.83883,27.71663",
+    "geom:latitude":27.71663,
+    "geom:longitude":83.83883,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ralnabas",
+    "gn:country_code":"NP",
+    "gn:dem":1015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282882,
+    "gn:latitude":27.71663,
+    "gn:longitude":83.83883,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"R\u0101ln\u0101b\u0101s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050889,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282882
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"59a9366ee8a90e71ce74a6c9aaec9a24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1242985071,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1242985071,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1242985071,
+    "wof:lastmodified":1536973227,
+    "wof:name":"Ralnabas",
+    "wof:parent_id":1092050889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.83883,
+    27.71663,
+    83.83883,
+    27.71663
+],
+  "geometry": {"coordinates":[83.83883,27.71663],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1292936705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.23358,29.06252,80.23358,29.06252",
+    "geom:latitude":29.06252,
+    "geom:longitude":80.23358,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"73.0",
+    "gn:admin4_code":"730013.0",
+    "gn:asciiname":"Khoriya",
+    "gn:country_code":"NP",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7935994,
+    "gn:latitude":29.06252,
+    "gn:longitude":80.23358,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khoriya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675567,
+        1092048697,
+        1108807135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7935994
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6e6e2e66f8ed9d1adaba6fac40334f7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048697,
+            "locality_id":1292936705,
+            "region_id":85675567
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048697,
+            "locality_id":1292936705,
+            "region_id":1108807135
+        }
+    ],
+    "wof:id":1292936705,
+    "wof:lastmodified":1537081056,
+    "wof:name":"Khoriya",
+    "wof:parent_id":1092048697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.23358,
+    29.06252000000001,
+    80.23358,
+    29.06252000000001
+],
+  "geometry": {"coordinates":[80.23358,29.06252000000001],"type":"Point"}
+}

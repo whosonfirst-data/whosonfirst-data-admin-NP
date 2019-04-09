@@ -1,0 +1,64 @@
+{
+  "id": 1209162445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.57036,27.49383,83.57036,27.49383",
+    "geom:latitude":27.49383,
+    "geom:longitude":83.57036,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"49",
+    "gn:admin4_code":"490012",
+    "gn:asciiname":"Lalitpur",
+    "gn:country_code":"NP",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7986929,
+    "gn:latitude":27.49383,
+    "gn:longitude":83.57036,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lalitpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7986929
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e088f7c8c5f3b5d60da90aa7799e9180",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209162445
+        }
+    ],
+    "wof:id":1209162445,
+    "wof:lastmodified":1536295852,
+    "wof:name":"Lalitpur",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.57036,
+    27.49383,
+    83.57036,
+    27.49383
+],
+  "geometry": {"coordinates":[83.57035999999999,27.49383],"type":"Point"}
+}

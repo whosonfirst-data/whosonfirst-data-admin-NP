@@ -1,0 +1,85 @@
+{
+  "id": 421183847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.8248855,27.8078665,84.8248855,27.8078665",
+    "geom:latitude":27.807866,
+    "geom:longitude":84.824885,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Malekhu",
+    "qs:name_adm0":"Nepal",
+    "qs:name_adm1":"Madhyamanchal",
+    "qs:photos":90,
+    "qs:photos_1k":18,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":90,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":985250,
+    "qs:woe_adm0":23424911,
+    "qs:woe_id":22662757,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":139,
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22662757,
+        "qs:id":985250,
+        "wd:id":"Q17009320"
+    },
+    "wof:country":"NP",
+    "wof:created":1459009389,
+    "wof:geomhash":"005f0e4555e5995261887a2dcc5e734d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":421183847,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":421183847,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":421183847,
+    "wof:lastmodified":1527717696,
+    "wof:name":"Malekhu",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.8248855,
+    27.8078665,
+    84.8248855,
+    27.8078665
+],
+  "geometry": {"coordinates":[84.82488549999999,27.8078665],"type":"Point"}
+}

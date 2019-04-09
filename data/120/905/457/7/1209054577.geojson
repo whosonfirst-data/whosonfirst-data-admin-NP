@@ -1,0 +1,64 @@
+{
+  "id": 1209054577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.57822,26.7676,87.57822,26.7676",
+    "geom:latitude":26.7676,
+    "geom:longitude":87.57822,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"5",
+    "gn:admin4_code":"50028",
+    "gn:asciiname":"Kholitar",
+    "gn:country_code":"NP",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7970398,
+    "gn:latitude":26.7676,
+    "gn:longitude":87.57822,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kholitar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7970398
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cc891bbc47ae72611361ed55f1efda97",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209054577
+        }
+    ],
+    "wof:id":1209054577,
+    "wof:lastmodified":1536299146,
+    "wof:name":"Kholitar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.57822,
+    26.7676,
+    87.57822,
+    26.7676
+],
+  "geometry": {"coordinates":[87.57822,26.7676],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293812133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.25089,28.4522,81.25089,28.4522",
+    "geom:latitude":28.4522,
+    "geom:longitude":81.25089,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"58.0",
+    "gn:admin4_code":"580032.0",
+    "gn:asciiname":"Thakurdwara",
+    "gn:country_code":"NP",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8010099,
+    "gn:latitude":28.4522,
+    "gn:longitude":81.25089,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thakurdwara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048097,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8010099
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8c61070927b11bfad48f8aae7ae67f46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1293812133,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1293812133,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1293812133,
+    "wof:lastmodified":1536815503,
+    "wof:name":"Thakurdwara",
+    "wof:parent_id":1092048097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.25089,
+    28.4522,
+    81.25089,
+    28.4522
+],
+  "geometry": {"coordinates":[81.25089,28.4522],"type":"Point"}
+}

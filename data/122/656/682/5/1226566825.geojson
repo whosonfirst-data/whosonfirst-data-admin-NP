@@ -1,0 +1,78 @@
+{
+  "id": 1226566825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.35376,28.57421,82.35376,28.57421",
+    "geom:latitude":28.57421,
+    "geom:longitude":82.35376,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550012",
+    "gn:asciiname":"Dholdhunga",
+    "gn:country_code":"NP",
+    "gn:dem":1782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7988220,
+    "gn:latitude":28.57421,
+    "gn:longitude":82.35376,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dholdhunga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049579,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7988220
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b65150846bae3192a88f2d8376f7399c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1226566825,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1226566825,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1226566825,
+    "wof:lastmodified":1536967938,
+    "wof:name":"Dholdhunga",
+    "wof:parent_id":1092049579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.35376,
+    28.57421,
+    82.35376,
+    28.57421
+],
+  "geometry": {"coordinates":[82.35375999999999,28.57421],"type":"Point"}
+}

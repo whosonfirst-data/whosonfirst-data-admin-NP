@@ -1,0 +1,78 @@
+{
+  "id": 1310131955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.14709,28.62682,82.14709,28.62682",
+    "geom:latitude":28.62682,
+    "geom:longitude":82.14709,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"61.0",
+    "gn:admin4_code":"610009.0",
+    "gn:asciiname":"Mainchaur",
+    "gn:country_code":"NP",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7953122,
+    "gn:latitude":28.62682,
+    "gn:longitude":82.14709,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mainchaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092048763,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7953122
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"723b05a23fdb320838ff7ce3cb87f8ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048763,
+            "locality_id":1310131955,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048763,
+            "locality_id":1310131955,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1310131955,
+    "wof:lastmodified":1536958413,
+    "wof:name":"Mainchaur",
+    "wof:parent_id":1092048763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.14709,
+    28.62682,
+    82.14709,
+    28.62682
+],
+  "geometry": {"coordinates":[82.14709000000001,28.62682],"type":"Point"}
+}

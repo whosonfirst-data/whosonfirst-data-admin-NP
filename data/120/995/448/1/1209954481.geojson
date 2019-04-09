@@ -1,0 +1,78 @@
+{
+  "id": 1209954481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.72613,27.51815,87.72613,27.51815",
+    "geom:latitude":27.51815,
+    "geom:longitude":87.72613,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10008.0",
+    "gn:asciiname":"Migran",
+    "gn:country_code":"NP",
+    "gn:dem":2203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005093,
+    "gn:latitude":27.51815,
+    "gn:longitude":87.72613,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Migran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005093
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7d9218a617529692b01e08c6896d1477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1209954481,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1209954481,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1209954481,
+    "wof:lastmodified":1536380018,
+    "wof:name":"Migran",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.72613,
+    27.51815,
+    87.72613,
+    27.51815
+],
+  "geometry": {"coordinates":[87.72613,27.51815],"type":"Point"}
+}

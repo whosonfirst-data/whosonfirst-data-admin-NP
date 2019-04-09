@@ -1,0 +1,78 @@
+{
+  "id": 1326872233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.664,27.83213,85.664,27.83213",
+    "geom:latitude":27.83213,
+    "geom:longitude":85.664,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"23",
+    "gn:admin4_code":"230064",
+    "gn:asciiname":"Thale",
+    "gn:country_code":"NP",
+    "gn:dem":1720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7995364,
+    "gn:latitude":27.83213,
+    "gn:longitude":85.664,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7995364
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5dc02ba4cf300f997dddf1614dcb8b6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1326872233,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1326872233,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1326872233,
+    "wof:lastmodified":1536990405,
+    "wof:name":"Thale",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.664,
+    27.83213,
+    85.664,
+    27.83213
+],
+  "geometry": {"coordinates":[85.664,27.83213],"type":"Point"}
+}

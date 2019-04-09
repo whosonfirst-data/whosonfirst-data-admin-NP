@@ -1,0 +1,78 @@
+{
+  "id": 1226566801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.87804,29.79977,80.87804,29.79977",
+    "geom:latitude":29.79977,
+    "geom:longitude":80.87804,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"75.0",
+    "gn:admin4_code":"750023.0",
+    "gn:asciiname":"Deurukh",
+    "gn:country_code":"NP",
+    "gn:dem":2505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7940598,
+    "gn:latitude":29.79977,
+    "gn:longitude":80.87804,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Deurukh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050347,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7940598
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ee7f97b67d190fa4b2efd5c7db9a0d1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050347,
+            "locality_id":1226566801,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050347,
+            "locality_id":1226566801,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1226566801,
+    "wof:lastmodified":1536967969,
+    "wof:name":"Deurukh",
+    "wof:parent_id":1092050347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.87804,
+    29.79977,
+    80.87804,
+    29.79977
+],
+  "geometry": {"coordinates":[80.87804,29.79977],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1259424905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.60506,27.03987,85.60506,27.03987",
+    "geom:latitude":27.03987,
+    "geom:longitude":85.60506,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"19",
+    "gn:admin4_code":"190044",
+    "gn:asciiname":"Haribhavan",
+    "gn:country_code":"NP",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7991873,
+    "gn:latitude":27.03987,
+    "gn:longitude":85.60506,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Haribhavan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092049639,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7991873
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4a4a797657614c4cf412ec182ba1ef27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049639,
+            "locality_id":1259424905,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049639,
+            "locality_id":1259424905,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1259424905,
+    "wof:lastmodified":1536943496,
+    "wof:name":"Haribhavan",
+    "wof:parent_id":1092049639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.60506,
+    27.03987,
+    85.60506,
+    27.03987
+],
+  "geometry": {"coordinates":[85.60505999999999,27.03987],"type":"Point"}
+}

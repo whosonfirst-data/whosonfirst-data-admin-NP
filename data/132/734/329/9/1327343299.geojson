@@ -1,0 +1,81 @@
+{
+  "id": 1327343299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.94822,27.4032,85.94822,27.4032",
+    "geom:latitude":27.4032,
+    "geom:longitude":85.94822,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sadikholagau",
+    "gn:country_code":"NP",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10323735,
+    "gn:latitude":27.4032,
+    "gn:longitude":85.94822,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"S\u0101\u0303di\u0307\u0304khol\u0101g\u0101\u0169",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "S\u0101\u0303di\u0307\u0304khol\u0101g\u0101\u0169"
+    ],
+    "name:nep_x_variant":[
+        "S\u0101nd\u012bkhol\u0101g\u0101un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049711,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10323735
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"86e89b97c882eb9b18e376bf0a23a8f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1327343299,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1327343299,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1327343299,
+    "wof:lastmodified":1537676094,
+    "wof:name":"Sadikholagau",
+    "wof:parent_id":1092049711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.94821999999998,
+    27.4032,
+    85.94821999999998,
+    27.4032
+],
+  "geometry": {"coordinates":[85.94821999999998,27.4032],"type":"Point"}
+}

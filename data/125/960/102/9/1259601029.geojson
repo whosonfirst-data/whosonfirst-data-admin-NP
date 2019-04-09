@@ -1,0 +1,75 @@
+{
+  "id": 1259601029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.03289,27.90763,85.03289,27.90763",
+    "geom:latitude":27.90763,
+    "geom:longitude":85.03289,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dansin",
+    "gn:country_code":"NP",
+    "gn:dem":1217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10317376,
+    "gn:latitude":27.90763,
+    "gn:longitude":85.03289,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"D\u0101\u1e45si\u1e45",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10317376
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"212f4d02520e7e7eb3323b7cd26d0566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1259601029,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1259601029,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1259601029,
+    "wof:lastmodified":1536689624,
+    "wof:name":"Dansin",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.03289000000002,
+    27.90763,
+    85.03289000000002,
+    27.90763
+],
+  "geometry": {"coordinates":[85.03289000000002,27.90763],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1327371293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.53923,27.78122,83.53923,27.78122",
+    "geom:latitude":27.78122,
+    "geom:longitude":83.53923,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"47",
+    "gn:admin4_code":"470045",
+    "gn:asciiname":"Kerabari",
+    "gn:country_code":"NP",
+    "gn:dem":770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7976673,
+    "gn:latitude":27.78122,
+    "gn:longitude":83.53923,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kerabari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050889,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7976673
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5c2845c78e343b4204ded00cb7adfa69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1327371293,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1327371293,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1327371293,
+    "wof:lastmodified":1536769435,
+    "wof:name":"Kerabari",
+    "wof:parent_id":1092050889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.53923,
+    27.78122,
+    83.53923,
+    27.78122
+],
+  "geometry": {"coordinates":[83.53923,27.78122],"type":"Point"}
+}

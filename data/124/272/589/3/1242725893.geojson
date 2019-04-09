@@ -1,0 +1,78 @@
+{
+  "id": 1242725893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.61846,28.12207,83.61846,28.12207",
+    "geom:latitude":28.12207,
+    "geom:longitude":83.61846,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450016.0",
+    "gn:asciiname":"Chharluwa",
+    "gn:country_code":"NP",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7952651,
+    "gn:latitude":28.12207,
+    "gn:longitude":83.61846,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chharluwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7952651
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ba2779d561551e7bb96f630209595fd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1242725893,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1242725893,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1242725893,
+    "wof:lastmodified":1536849163,
+    "wof:name":"Chharluwa",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.61846,
+    28.12207,
+    83.61846,
+    28.12207
+],
+  "geometry": {"coordinates":[83.61846,28.12207],"type":"Point"}
+}

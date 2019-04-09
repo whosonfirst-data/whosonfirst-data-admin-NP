@@ -1,0 +1,78 @@
+{
+  "id": 1276493907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.26316,27.48896,87.26316,27.48896",
+    "geom:latitude":27.48896,
+    "geom:longitude":87.26316,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"9",
+    "gn:admin4_code":"90020",
+    "gn:asciiname":"Machhegaun",
+    "gn:country_code":"NP",
+    "gn:dem":1504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7990331,
+    "gn:latitude":27.48896,
+    "gn:longitude":87.26316,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Machhegaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049597,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7990331
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5b9db24ce678cf3b1c76897b7f993ba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1276493907,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1276493907,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1276493907,
+    "wof:lastmodified":1537058369,
+    "wof:name":"Machhegaun",
+    "wof:parent_id":1092049597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.26316,
+    27.48896,
+    87.26316,
+    27.48896
+],
+  "geometry": {"coordinates":[87.26316,27.48896],"type":"Point"}
+}

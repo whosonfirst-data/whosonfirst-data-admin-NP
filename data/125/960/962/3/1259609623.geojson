@@ -1,0 +1,78 @@
+{
+  "id": 1259609623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.38012,30.14114,81.38012,30.14114",
+    "geom:latitude":30.14114,
+    "geom:longitude":81.38012,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"66.0",
+    "gn:admin4_code":"660018.0",
+    "gn:asciiname":"Nara Bhanjyang",
+    "gn:country_code":"NP",
+    "gn:dem":4492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7951121,
+    "gn:latitude":30.14114,
+    "gn:longitude":81.38012,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nara Bhanjyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050353,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7951121
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0940039fc9d6d7414c55b4a6e274fdb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1259609623,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1259609623,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1259609623,
+    "wof:lastmodified":1536677234,
+    "wof:name":"Nara Bhanjyang",
+    "wof:parent_id":1092050353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.38011999999998,
+    30.14114,
+    81.38011999999998,
+    30.14114
+],
+  "geometry": {"coordinates":[81.38011999999998,30.14114],"type":"Point"}
+}

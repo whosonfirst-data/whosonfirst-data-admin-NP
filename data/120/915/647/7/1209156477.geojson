@@ -1,0 +1,64 @@
+{
+  "id": 1209156477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.05191,27.00248,88.05191,27.00248",
+    "geom:latitude":27.00248,
+    "geom:longitude":88.05191,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30019.0",
+    "gn:asciiname":"Bhitte",
+    "gn:country_code":"NP",
+    "gn:dem":2159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7951967,
+    "gn:latitude":27.00248,
+    "gn:longitude":88.05191,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhitte",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7951967
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8b05e7717e8b6a72502e9bfb6c41e3c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209156477
+        }
+    ],
+    "wof:id":1209156477,
+    "wof:lastmodified":1536296041,
+    "wof:name":"Bhitte",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.05190999999998,
+    27.00248,
+    88.05190999999998,
+    27.00248
+],
+  "geometry": {"coordinates":[88.05190999999998,27.00248],"type":"Point"}
+}

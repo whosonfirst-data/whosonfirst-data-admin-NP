@@ -1,0 +1,80 @@
+{
+  "id": 1310020239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.71667,26.65,86.71667,26.65",
+    "geom:latitude":26.65,
+    "geom:longitude":86.71667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Khairbana",
+    "gn:cc2":"NP",
+    "gn:country_code":"NP",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283222,
+    "gn:latitude":26.65,
+    "gn:longitude":86.71667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Khairbana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khairban",
+        "Khairbana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092048485,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283222
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"be8d0079709f956b1be0920c739eca30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048485,
+            "locality_id":1310020239,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048485,
+            "locality_id":1310020239,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1310020239,
+    "wof:lastmodified":1537676051,
+    "wof:name":"Khairbana",
+    "wof:parent_id":1092048485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.71667,
+    26.65,
+    86.71667,
+    26.65
+],
+  "geometry": {"coordinates":[86.71666999999999,26.65],"type":"Point"}
+}

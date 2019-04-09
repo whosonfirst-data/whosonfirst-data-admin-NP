@@ -1,0 +1,84 @@
+{
+  "id": 421201505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.72282,27.60237,86.72282,27.60237",
+    "geom:latitude":27.60237,
+    "geom:longitude":86.72282,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"NP",
+    "qs:gn_fcode":"PPLL",
+    "qs:gn_id":7996692,
+    "qs:gn_pop":0,
+    "qs:name":"Kharikhola",
+    "qs:name_adm0":"Nepal",
+    "qs:name_adm1":"Purwanchal",
+    "qs:photos":1936,
+    "qs:photos_1k":392,
+    "qs:photos_9k":9,
+    "qs:photos_9r":9,
+    "qs:photos_all":1936,
+    "qs:photos_sr":15,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":211638,
+    "qs:woe_adm0":23424911,
+    "qs:woe_id":2269010,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092049841,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7996692,
+        "gp:id":2269010,
+        "qs:id":211638
+    },
+    "wof:country":"NP",
+    "wof:created":1459010074,
+    "wof:geomhash":"405a02a251687cdf4f13d7d25a0b080d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":421201505,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":421201505,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":421201505,
+    "wof:lastmodified":1500058064,
+    "wof:name":"Kharikhola",
+    "wof:parent_id":1092049841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.72282,
+    27.60237,
+    86.72282,
+    27.60237
+],
+  "geometry": {"coordinates":[86.72282,27.60237],"type":"Point"}
+}

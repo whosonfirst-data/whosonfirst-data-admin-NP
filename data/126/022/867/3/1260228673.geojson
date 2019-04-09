@@ -1,0 +1,78 @@
+{
+  "id": 1260228673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.31683,27.98862,84.31683,27.98862",
+    "geom:latitude":27.98862,
+    "geom:longitude":84.31683,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380023.0",
+    "gn:asciiname":"Kamalbari",
+    "gn:country_code":"NP",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003599,
+    "gn:latitude":27.98862,
+    "gn:longitude":84.31683,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kamalbari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003599
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"666801d8d2f9994a9666216567bac0bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1260228673,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1260228673,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1260228673,
+    "wof:lastmodified":1536786848,
+    "wof:name":"Kamalbari",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.31683000000002,
+    27.98862,
+    84.31683000000002,
+    27.98862
+],
+  "geometry": {"coordinates":[84.31683000000002,27.98862],"type":"Point"}
+}

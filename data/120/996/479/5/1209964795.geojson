@@ -1,0 +1,78 @@
+{
+  "id": 1209964795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.06318,26.99347,87.06318,26.99347",
+    "geom:latitude":26.99347,
+    "geom:longitude":87.06318,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100020.0",
+    "gn:asciiname":"Dewantar",
+    "gn:country_code":"NP",
+    "gn:dem":1326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933023,
+    "gn:latitude":26.99347,
+    "gn:longitude":87.06318,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dewantar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933023
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c4352dde4bbce5233a1f23f31332339d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1209964795,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1209964795,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1209964795,
+    "wof:lastmodified":1536369621,
+    "wof:name":"Dewantar",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.06318,
+    26.99347,
+    87.06318,
+    26.99347
+],
+  "geometry": {"coordinates":[87.06318,26.99347],"type":"Point"}
+}

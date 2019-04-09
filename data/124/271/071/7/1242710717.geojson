@@ -1,0 +1,78 @@
+{
+  "id": 1242710717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.18497,29.50716,81.18497,29.50716",
+    "geom:latitude":29.50716,
+    "geom:longitude":81.18497,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680028",
+    "gn:asciiname":"Raumandau",
+    "gn:country_code":"NP",
+    "gn:dem":1848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7994306,
+    "gn:latitude":29.50716,
+    "gn:longitude":81.18497,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Raumandau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048571,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7994306
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"476ceb17d109ccd7559d9968ae4de9b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1242710717,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1242710717,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1242710717,
+    "wof:lastmodified":1536870945,
+    "wof:name":"Raumandau",
+    "wof:parent_id":1092048571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.18496999999998,
+    29.50716,
+    81.18496999999998,
+    29.50716
+],
+  "geometry": {"coordinates":[81.18496999999998,29.50716],"type":"Point"}
+}

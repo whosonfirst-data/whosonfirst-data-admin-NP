@@ -1,0 +1,79 @@
+{
+  "id": 1293606955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.28163,28.18077,83.28163,28.18077",
+    "geom:latitude":28.18077,
+    "geom:longitude":83.28163,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Wamitaksar",
+    "gn:country_code":"NP",
+    "gn:dem":772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282614,
+    "gn:latitude":28.18077,
+    "gn:longitude":83.28163,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"W\u0101mitaks\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101mitaks\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050755,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282614,
+        "wk:page":"Wamitaksar"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"487914e64f86f5e001893797d28f32bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1293606955,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1293606955,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1293606955,
+    "wof:lastmodified":1537676036,
+    "wof:name":"Wamitaksar",
+    "wof:parent_id":1092050755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.28163,
+    28.18077000000001,
+    83.28163,
+    28.18077000000001
+],
+  "geometry": {"coordinates":[83.28163000000001,28.18077000000001],"type":"Point"}
+}

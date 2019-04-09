@@ -1,0 +1,64 @@
+{
+  "id": 1209044473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.05394,27.09368,87.05394,27.09368",
+    "geom:latitude":27.09368,
+    "geom:longitude":87.05394,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100040.0",
+    "gn:asciiname":"Tuntang",
+    "gn:country_code":"NP",
+    "gn:dem":1192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933524,
+    "gn:latitude":27.09368,
+    "gn:longitude":87.05394,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tuntang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933524
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"26ca9f5de264f0e63a848c4cd9fd2e4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209044473
+        }
+    ],
+    "wof:id":1209044473,
+    "wof:lastmodified":1536299442,
+    "wof:name":"Tuntang",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.05394,
+    27.09368,
+    87.05394,
+    27.09368
+],
+  "geometry": {"coordinates":[87.05394,27.09368],"type":"Point"}
+}

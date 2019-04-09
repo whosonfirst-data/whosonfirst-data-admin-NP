@@ -1,0 +1,78 @@
+{
+  "id": 1259631651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.13986,26.90414,85.13986,26.90414",
+    "geom:latitude":26.90414,
+    "geom:longitude":85.13986,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"330098.0",
+    "gn:asciiname":"Uchidih",
+    "gn:country_code":"NP",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009245,
+    "gn:latitude":26.90414,
+    "gn:longitude":85.13986,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Uchidih",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092048051,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009245
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1891e0cb13d2f1ef99ee5e8f97e11654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1259631651,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1259631651,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1259631651,
+    "wof:lastmodified":1536644813,
+    "wof:name":"Uchidih",
+    "wof:parent_id":1092048051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.13986,
+    26.90414,
+    85.13986,
+    26.90414
+],
+  "geometry": {"coordinates":[85.13986,26.90414],"type":"Point"}
+}

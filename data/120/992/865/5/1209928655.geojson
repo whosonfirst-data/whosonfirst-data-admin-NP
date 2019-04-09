@@ -1,0 +1,81 @@
+{
+  "id": 1209928655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.90213,26.60127,86.90213,26.60127",
+    "geom:latitude":26.60127,
+    "geom:longitude":86.90213,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Barmajhiya",
+    "gn:country_code":"NP",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283659,
+    "gn:latitude":26.60127,
+    "gn:longitude":86.90213,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Barmajhiy\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Barmajhiy\u0101"
+    ],
+    "name:und_x_variant":[
+        "Barhamjia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092048485,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283659
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b19d4e1cb346c4ec6b13105ed248d2db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048485,
+            "locality_id":1209928655,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048485,
+            "locality_id":1209928655,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1209928655,
+    "wof:lastmodified":1537676063,
+    "wof:name":"Barmajhiya",
+    "wof:parent_id":1092048485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.90213,
+    26.60127,
+    86.90213,
+    26.60127
+],
+  "geometry": {"coordinates":[86.90213,26.60127],"type":"Point"}
+}

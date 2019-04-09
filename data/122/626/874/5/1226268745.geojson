@@ -1,0 +1,78 @@
+{
+  "id": 1226268745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.74602,27.93631,82.74602,27.93631",
+    "geom:latitude":27.93631,
+    "geom:longitude":82.74602,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"560014.0",
+    "gn:asciiname":"Birkhe",
+    "gn:country_code":"NP",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7938725,
+    "gn:latitude":27.93631,
+    "gn:longitude":82.74602,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Birkhe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048605,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7938725
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1655b88d9588375057c586a308cba04a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1226268745,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1226268745,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1226268745,
+    "wof:lastmodified":1536900618,
+    "wof:name":"Birkhe",
+    "wof:parent_id":1092048605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.74602,
+    27.93631,
+    82.74602,
+    27.93631
+],
+  "geometry": {"coordinates":[82.74602,27.93631],"type":"Point"}
+}

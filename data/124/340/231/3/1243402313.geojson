@@ -1,0 +1,78 @@
+{
+  "id": 1243402313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.98326,27.85428,83.98326,27.85428",
+    "geom:latitude":27.85428,
+    "geom:longitude":83.98326,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"47",
+    "gn:admin4_code":"470023",
+    "gn:asciiname":"Kumdanda",
+    "gn:country_code":"NP",
+    "gn:dem":538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7976218,
+    "gn:latitude":27.85428,
+    "gn:longitude":83.98326,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kumdanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050889,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7976218
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c5d335af668718e75c4531d6471c1dcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1243402313,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1243402313,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1243402313,
+    "wof:lastmodified":1536867997,
+    "wof:name":"Kumdanda",
+    "wof:parent_id":1092050889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.98326,
+    27.85428,
+    83.98326,
+    27.85428
+],
+  "geometry": {"coordinates":[83.98326,27.85428],"type":"Point"}
+}

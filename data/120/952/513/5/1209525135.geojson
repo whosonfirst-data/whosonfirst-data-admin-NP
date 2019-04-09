@@ -1,0 +1,64 @@
+{
+  "id": 1209525135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.07166,27.37869,85.07166,27.37869",
+    "geom:latitude":27.37869,
+    "geom:longitude":85.07166,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gauritar",
+    "gn:country_code":"NP",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10329511,
+    "gn:latitude":27.37869,
+    "gn:longitude":85.07166,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Gauri\u1e6d\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Gauri\u1e6d\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10329511
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4d32378e370c4031c1f472ccc7df44ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209525135
+        }
+    ],
+    "wof:id":1209525135,
+    "wof:lastmodified":1537676102,
+    "wof:name":"Gauritar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.07166,
+    27.37869,
+    85.07166,
+    27.37869
+],
+  "geometry": {"coordinates":[85.07165999999999,27.37869],"type":"Point"}
+}

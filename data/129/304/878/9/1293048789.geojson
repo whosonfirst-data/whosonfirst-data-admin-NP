@@ -1,0 +1,78 @@
+{
+  "id": 1293048789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.12049,27.98909,84.12049,27.98909",
+    "geom:latitude":27.98909,
+    "geom:longitude":84.12049,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380012.0",
+    "gn:asciiname":"Pipal Chhang",
+    "gn:country_code":"NP",
+    "gn:dem":859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003147,
+    "gn:latitude":27.98909,
+    "gn:longitude":84.12049,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pipal Chhang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003147
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"88d27aea6450f89d5d9bbc8b568f2837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1293048789,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1293048789,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293048789,
+    "wof:lastmodified":1536923378,
+    "wof:name":"Pipal Chhang",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.12049,
+    27.98909,
+    84.12049,
+    27.98909
+],
+  "geometry": {"coordinates":[84.12049,27.98909],"type":"Point"}
+}

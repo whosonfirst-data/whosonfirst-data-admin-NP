@@ -1,0 +1,64 @@
+{
+  "id": 1209134195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.49623,29.44353,81.49623,29.44353",
+    "geom:latitude":29.44353,
+    "geom:longitude":81.49623,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"67.0",
+    "gn:admin4_code":"670023.0",
+    "gn:asciiname":"Jhalga",
+    "gn:country_code":"NP",
+    "gn:dem":1962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8004631,
+    "gn:latitude":29.44353,
+    "gn:longitude":81.49623,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jhalga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8004631
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"56f29366e56442ff6020ab15104506d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209134195
+        }
+    ],
+    "wof:id":1209134195,
+    "wof:lastmodified":1536296714,
+    "wof:name":"Jhalga",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.49623000000003,
+    29.44353,
+    81.49623000000003,
+    29.44353
+],
+  "geometry": {"coordinates":[81.49623000000003,29.44353],"type":"Point"}
+}

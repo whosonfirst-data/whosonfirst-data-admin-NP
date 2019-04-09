@@ -1,0 +1,157 @@
+{
+  "id": 421184573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.66667,28.41667,83.66667,28.41667",
+    "geom:latitude":28.41667,
+    "geom:longitude":83.66667,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09aa\u09b0\u09cd\u09ac\u09a4 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09aa\u09b0\u09cd\u09ac\u09a4"
+    ],
+    "name:bre_x_preferred":[
+        "Distrig Parbat"
+    ],
+    "name:dan_x_preferred":[
+        "Parbat District"
+    ],
+    "name:deu_x_preferred":[
+        "Parbat"
+    ],
+    "name:fin_x_preferred":[
+        "Parbatin piirikunta"
+    ],
+    "name:fra_x_preferred":[
+        "District de Parbat"
+    ],
+    "name:hif_x_preferred":[
+        "Parvat"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0930\u094d\u0935\u0924 \u091c\u093f\u0932\u093e"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di Parbat"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30eb\u30d0\u30c8\u90e1"
+    ],
+    "name:nep_x_preferred":[
+        "\u092a\u0930\u094d\u0935\u0924 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u092a\u0930\u094d\u0935\u0924 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Parbat"
+    ],
+    "name:nor_x_preferred":[
+        "Parbat"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u067e\u0631\u0628\u062a"
+    ],
+    "name:pol_x_preferred":[
+        "Parbat"
+    ],
+    "name:por_x_preferred":[
+        "Parbat"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0440\u0431\u0430\u0442"
+    ],
+    "name:san_x_preferred":[
+        "\u092a\u0930\u094d\u0935\u0924\u092e\u0923\u094d\u0921\u0932\u092e\u094d"
+    ],
+    "name:vie_x_preferred":[
+        "Parbat"
+    ],
+    "qs:gn_country":"NP",
+    "qs:gn_fcode":"ADM3",
+    "qs:gn_id":1282939,
+    "qs:gn_pop":163024,
+    "qs:name":"Parbat",
+    "qs:name_adm0":"Nepal",
+    "qs:name_adm1":"Pashchimanchal",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"9",
+    "qs:qs_id":1002108,
+    "qs:woe_adm0":23424911,
+    "qs:woe_id":23706776,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"quattroshapes",
+    "wd:wordcount":406,
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675553,
+        1092049089,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282939,
+        "gp:id":23706776,
+        "qs:id":1002108,
+        "qs_pg:id":1002108,
+        "wd:id":"Q28421",
+        "wk:page":"Parbat District"
+    },
+    "wof:country":"NP",
+    "wof:created":1459009415,
+    "wof:geomhash":"a3dbcf78507f27027ee4a00cd3729f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049089,
+            "localadmin_id":421184573,
+            "region_id":85675553
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049089,
+            "localadmin_id":421184573,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":421184573,
+    "wof:lastmodified":1527716449,
+    "wof:name":"Parbat",
+    "wof:parent_id":1092049089,
+    "wof:placetype":"localadmin",
+    "wof:population":163024,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.66667,
+    28.41667,
+    83.66667,
+    28.41667
+],
+  "geometry": {"coordinates":[83.66667,28.41667],"type":"Point"}
+}

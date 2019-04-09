@@ -1,0 +1,78 @@
+{
+  "id": 1259430533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.65646,27.99934,83.65646,27.99934",
+    "geom:latitude":27.99934,
+    "geom:longitude":83.65646,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390043.0",
+    "gn:asciiname":"Salghari",
+    "gn:country_code":"NP",
+    "gn:dem":975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001789,
+    "gn:latitude":27.99934,
+    "gn:longitude":83.65646,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Salghari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001789
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3aa7abf26d93eddd571f782cc826ece2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1259430533,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1259430533,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1259430533,
+    "wof:lastmodified":1536935662,
+    "wof:name":"Salghari",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.65646,
+    27.99934,
+    83.65646,
+    27.99934
+],
+  "geometry": {"coordinates":[83.65646,27.99934],"type":"Point"}
+}

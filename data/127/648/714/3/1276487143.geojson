@@ -1,0 +1,78 @@
+{
+  "id": 1276487143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.89256,27.3318,87.89256,27.3318",
+    "geom:latitude":27.3318,
+    "geom:longitude":87.89256,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10017.0",
+    "gn:asciiname":"Phudubung",
+    "gn:country_code":"NP",
+    "gn:dem":1600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005289,
+    "gn:latitude":27.3318,
+    "gn:longitude":87.89256,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Phudubung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005289
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fdbf8d43c0d2796c7b7c3777a9cda0af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1276487143,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1276487143,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1276487143,
+    "wof:lastmodified":1537066926,
+    "wof:name":"Phudubung",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.89256,
+    27.3318,
+    87.89256,
+    27.3318
+],
+  "geometry": {"coordinates":[87.89256,27.3318],"type":"Point"}
+}

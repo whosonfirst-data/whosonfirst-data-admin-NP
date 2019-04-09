@@ -1,0 +1,78 @@
+{
+  "id": 1242605699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.02536,28.64375,81.02536,28.64375",
+    "geom:latitude":28.64375,
+    "geom:longitude":81.02536,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710021.0",
+    "gn:asciiname":"Tilsipur",
+    "gn:country_code":"NP",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956853,
+    "gn:latitude":28.64375,
+    "gn:longitude":81.02536,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tilsipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956853
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6c7b094b98a94cd883709859e1f1e298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1242605699,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1242605699,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1242605699,
+    "wof:lastmodified":1537022258,
+    "wof:name":"Tilsipur",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.02535999999998,
+    28.64375,
+    81.02535999999998,
+    28.64375
+],
+  "geometry": {"coordinates":[81.02535999999998,28.64375],"type":"Point"}
+}

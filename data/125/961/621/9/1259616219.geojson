@@ -1,0 +1,78 @@
+{
+  "id": 1259616219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.99621,28.88512,80.99621,28.88512",
+    "geom:latitude":28.88512,
+    "geom:longitude":80.99621,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710030.0",
+    "gn:asciiname":"Bajari",
+    "gn:country_code":"NP",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7957266,
+    "gn:latitude":28.88512,
+    "gn:longitude":80.99621,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bajari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7957266
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"99e154cc82f61671a8233d26e9095114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1259616219,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1259616219,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1259616219,
+    "wof:lastmodified":1536667678,
+    "wof:name":"Bajari",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.99620999999998,
+    28.88512,
+    80.99620999999998,
+    28.88512
+],
+  "geometry": {"coordinates":[80.99620999999998,28.88512],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209657325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.16449,27.98299,85.16449,27.98299",
+    "geom:latitude":27.98299,
+    "geom:longitude":85.16449,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"28",
+    "gn:admin4_code":"280061",
+    "gn:asciiname":"Sisnechaur",
+    "gn:country_code":"NP",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7974912,
+    "gn:latitude":27.98299,
+    "gn:longitude":85.16449,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sisnechaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7974912
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0bdd0b16273fa067af6588d3b4c28715",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209657325
+        }
+    ],
+    "wof:id":1209657325,
+    "wof:lastmodified":1536280385,
+    "wof:name":"Sisnechaur",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.16449,
+    27.98299,
+    85.16449,
+    27.98299
+],
+  "geometry": {"coordinates":[85.16449,27.98299],"type":"Point"}
+}

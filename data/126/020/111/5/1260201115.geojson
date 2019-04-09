@@ -1,0 +1,75 @@
+{
+  "id": 1260201115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.63448,28.231,84.63448,28.231",
+    "geom:latitude":28.231,
+    "geom:longitude":84.63448,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Olang",
+    "gn:country_code":"NP",
+    "gn:dem":1522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282967,
+    "gn:latitude":28.231,
+    "gn:longitude":84.63448,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Ol\u0101ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050009,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282967
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5ef4b3966ab67ce8c32f030bcb3ebae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1260201115,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1260201115,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1260201115,
+    "wof:lastmodified":1536822883,
+    "wof:name":"Olang",
+    "wof:parent_id":1092050009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.63448000000002,
+    28.231,
+    84.63448000000002,
+    28.231
+],
+  "geometry": {"coordinates":[84.63448000000002,28.231],"type":"Point"}
+}

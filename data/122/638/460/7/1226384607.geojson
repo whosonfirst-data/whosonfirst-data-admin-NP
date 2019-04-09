@@ -1,0 +1,78 @@
+{
+  "id": 1226384607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.38921,27.65711,85.38921,27.65711",
+    "geom:latitude":27.65711,
+    "geom:longitude":85.38921,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1.0",
+    "gn:admin3_code":"26.0",
+    "gn:admin4_code":"260007.0",
+    "gn:asciiname":"Chitrapur",
+    "gn:country_code":"NP",
+    "gn:dem":1341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8010201,
+    "gn:latitude":27.65711,
+    "gn:longitude":85.38921,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chitrapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048853,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8010201
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"415a2d7b1bfa831c8d0c51a308db526a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048853,
+            "locality_id":1226384607,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048853,
+            "locality_id":1226384607,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1226384607,
+    "wof:lastmodified":1536733818,
+    "wof:name":"Chitrapur",
+    "wof:parent_id":1092048853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.38920999999998,
+    27.65711,
+    85.38920999999998,
+    27.65711
+],
+  "geometry": {"coordinates":[85.38920999999998,27.65711],"type":"Point"}
+}

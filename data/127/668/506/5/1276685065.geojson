@@ -1,0 +1,78 @@
+{
+  "id": 1276685065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.1106,29.45157,81.1106,29.45157",
+    "geom:latitude":29.45157,
+    "geom:longitude":81.1106,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680037",
+    "gn:asciiname":"Sarani",
+    "gn:country_code":"NP",
+    "gn:dem":2066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7996241,
+    "gn:latitude":29.45157,
+    "gn:longitude":81.1106,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sarani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048571,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7996241
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"092e1929a0a84325ff4fbc58bcce967a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1276685065,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1276685065,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1276685065,
+    "wof:lastmodified":1536804405,
+    "wof:name":"Sarani",
+    "wof:parent_id":1092048571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.1106,
+    29.45157,
+    81.1106,
+    29.45157
+],
+  "geometry": {"coordinates":[81.11060000000001,29.45157],"type":"Point"}
+}

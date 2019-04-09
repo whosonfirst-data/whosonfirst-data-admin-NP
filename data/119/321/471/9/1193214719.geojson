@@ -1,0 +1,78 @@
+{
+  "id": 1193214719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.85441,28.13606,83.85441,28.13606",
+    "geom:latitude":28.13606,
+    "geom:longitude":83.85441,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390044.0",
+    "gn:asciiname":"Naudanda",
+    "gn:country_code":"NP",
+    "gn:dem":1010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001968,
+    "gn:latitude":28.13606,
+    "gn:longitude":83.85441,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Naudanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001968
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d9ec57435bc55d4a956ca51ceb92d59d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1193214719,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1193214719,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1193214719,
+    "wof:lastmodified":1536381722,
+    "wof:name":"Naudanda",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.85441,
+    28.13606,
+    83.85441,
+    28.13606
+],
+  "geometry": {"coordinates":[83.85441,28.13606],"type":"Point"}
+}

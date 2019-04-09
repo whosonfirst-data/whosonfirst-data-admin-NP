@@ -1,0 +1,78 @@
+{
+  "id": 1293338185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.29982,27.85089,84.29982,27.85089",
+    "geom:latitude":27.85089,
+    "geom:longitude":84.29982,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380003.0",
+    "gn:asciiname":"Berauta",
+    "gn:country_code":"NP",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002709,
+    "gn:latitude":27.85089,
+    "gn:longitude":84.29982,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Berauta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002709
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"889ac47923ac298ac6735a23624ab2f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1293338185,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1293338185,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293338185,
+    "wof:lastmodified":1537001591,
+    "wof:name":"Berauta",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.29982,
+    27.85089,
+    84.29982,
+    27.85089
+],
+  "geometry": {"coordinates":[84.29982,27.85089],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1259917411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.97488,28.13114,83.97488,28.13114",
+    "geom:latitude":28.13114,
+    "geom:longitude":83.97488,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390055.0",
+    "gn:asciiname":"Khalangadanda",
+    "gn:country_code":"NP",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002304,
+    "gn:latitude":28.13114,
+    "gn:longitude":83.97488,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khalangadanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002304
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8750d5ed8daaaa8b3359e3181ec3be07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1259917411,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1259917411,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1259917411,
+    "wof:lastmodified":1536730562,
+    "wof:name":"Khalangadanda",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.97488,
+    28.13114,
+    83.97488,
+    28.13114
+],
+  "geometry": {"coordinates":[83.97488,28.13114],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209239045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.5853,27.85679,82.5853,27.85679",
+    "geom:latitude":27.85679,
+    "geom:longitude":82.5853,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"560036.0",
+    "gn:asciiname":"Bankatta",
+    "gn:country_code":"NP",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7939772,
+    "gn:latitude":27.85679,
+    "gn:longitude":82.5853,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bankatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7939772
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"525f59fa3e25978ffbd9ff93a7d9232c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209239045
+        }
+    ],
+    "wof:id":1209239045,
+    "wof:lastmodified":1536293382,
+    "wof:name":"Bankatta",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.5853,
+    27.856790000000004,
+    82.5853,
+    27.856790000000004
+],
+  "geometry": {"coordinates":[82.5853,27.85679],"type":"Point"}
+}

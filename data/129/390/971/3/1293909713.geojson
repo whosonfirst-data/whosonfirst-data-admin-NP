@@ -1,0 +1,78 @@
+{
+  "id": 1293909713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.15803,28.20765,82.15803,28.20765",
+    "geom:latitude":28.20765,
+    "geom:longitude":82.15803,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"560001.0",
+    "gn:asciiname":"Bagiya",
+    "gn:country_code":"NP",
+    "gn:dem":805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7938129,
+    "gn:latitude":28.20765,
+    "gn:longitude":82.15803,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bagiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048605,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7938129
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3219fad4777f26c7978fb815f27882b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1293909713,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1293909713,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1293909713,
+    "wof:lastmodified":1536675641,
+    "wof:name":"Bagiya",
+    "wof:parent_id":1092048605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.15803000000002,
+    28.20765,
+    82.15803000000002,
+    28.20765
+],
+  "geometry": {"coordinates":[82.15803000000002,28.20765],"type":"Point"}
+}

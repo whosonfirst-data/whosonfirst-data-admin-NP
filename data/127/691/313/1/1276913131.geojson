@@ -1,0 +1,78 @@
+{
+  "id": 1276913131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.87777,26.90767,85.87777,26.90767",
+    "geom:latitude":26.90767,
+    "geom:longitude":85.87777,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"18",
+    "gn:admin4_code":"180055",
+    "gn:asciiname":"Bholatol",
+    "gn:country_code":"NP",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7967563,
+    "gn:latitude":26.90767,
+    "gn:longitude":85.87777,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bholatol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092050709,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7967563
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2a800cf3ceb7e81122aef3dfc3d73ce7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050709,
+            "locality_id":1276913131,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050709,
+            "locality_id":1276913131,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1276913131,
+    "wof:lastmodified":1536995776,
+    "wof:name":"Bholatol",
+    "wof:parent_id":1092050709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.87777,
+    26.90767,
+    85.87777,
+    26.90767
+],
+  "geometry": {"coordinates":[85.87777,26.90767],"type":"Point"}
+}

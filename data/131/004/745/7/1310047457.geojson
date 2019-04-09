@@ -1,0 +1,78 @@
+{
+  "id": 1310047457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.13215,26.88826,88.13215,26.88826",
+    "geom:latitude":26.88826,
+    "geom:longitude":88.13215,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30044.0",
+    "gn:asciiname":"Chhiruwa",
+    "gn:country_code":"NP",
+    "gn:dem":1578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7952612,
+    "gn:latitude":26.88826,
+    "gn:longitude":88.13215,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chhiruwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7952612
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"99d0869dfc7ec543ec368249ce9c2eb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1310047457,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1310047457,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1310047457,
+    "wof:lastmodified":1537077060,
+    "wof:name":"Chhiruwa",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.13215,
+    26.88826,
+    88.13215,
+    26.88826
+],
+  "geometry": {"coordinates":[88.13215,26.88826],"type":"Point"}
+}

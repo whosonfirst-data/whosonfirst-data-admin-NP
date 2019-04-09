@@ -1,0 +1,78 @@
+{
+  "id": 1310331455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.25344,28.64315,82.25344,28.64315",
+    "geom:latitude":28.64315,
+    "geom:longitude":82.25344,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"54",
+    "gn:admin4_code":"540006",
+    "gn:asciiname":"Lahare Simal",
+    "gn:country_code":"NP",
+    "gn:dem":828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7985183,
+    "gn:latitude":28.64315,
+    "gn:longitude":82.25344,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lahare Simal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049495,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7985183
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2716c944b3256c03852f988b8d899595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1310331455,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1310331455,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1310331455,
+    "wof:lastmodified":1536670648,
+    "wof:name":"Lahare Simal",
+    "wof:parent_id":1092049495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.25344,
+    28.64315,
+    82.25344,
+    28.64315
+],
+  "geometry": {"coordinates":[82.25344,28.64315],"type":"Point"}
+}

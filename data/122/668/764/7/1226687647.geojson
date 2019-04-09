@@ -1,0 +1,78 @@
+{
+  "id": 1226687647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.59862,28.66662,83.59862,28.66662",
+    "geom:latitude":28.66662,
+    "geom:longitude":83.59862,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"42",
+    "gn:admin4_code":"420011",
+    "gn:asciiname":"Kokhethanti",
+    "gn:country_code":"NP",
+    "gn:dem":2657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7971863,
+    "gn:latitude":28.66662,
+    "gn:longitude":83.59862,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kokhethanti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675553,
+        1092048365,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7971863
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7536dea909de65c2c5f647db0e3a5bc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048365,
+            "locality_id":1226687647,
+            "region_id":85675553
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048365,
+            "locality_id":1226687647,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1226687647,
+    "wof:lastmodified":1536799227,
+    "wof:name":"Kokhethanti",
+    "wof:parent_id":1092048365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.59862,
+    28.66662,
+    83.59862,
+    28.66662
+],
+  "geometry": {"coordinates":[83.59862,28.66662],"type":"Point"}
+}

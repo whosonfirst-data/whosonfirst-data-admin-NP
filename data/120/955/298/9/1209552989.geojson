@@ -1,0 +1,64 @@
+{
+  "id": 1209552989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.63912,27.76095,83.63912,27.76095",
+    "geom:latitude":27.76095,
+    "geom:longitude":83.63912,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"47",
+    "gn:admin4_code":"470031",
+    "gn:asciiname":"Archanga",
+    "gn:country_code":"NP",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7976384,
+    "gn:latitude":27.76095,
+    "gn:longitude":83.63912,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Archanga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7976384
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2f65a8098398a9637bfd20fbefde9993",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209552989
+        }
+    ],
+    "wof:id":1209552989,
+    "wof:lastmodified":1536283634,
+    "wof:name":"Archanga",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.63911999999998,
+    27.76095,
+    83.63911999999998,
+    27.76095
+],
+  "geometry": {"coordinates":[83.63911999999998,27.76095],"type":"Point"}
+}

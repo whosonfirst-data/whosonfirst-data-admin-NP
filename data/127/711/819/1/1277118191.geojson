@@ -1,0 +1,78 @@
+{
+  "id": 1277118191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.27237,27.38991,83.27237,27.38991",
+    "geom:latitude":27.38991,
+    "geom:longitude":83.27237,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"49",
+    "gn:admin4_code":"490001",
+    "gn:asciiname":"Piparhawa",
+    "gn:country_code":"NP",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7986737,
+    "gn:latitude":27.38991,
+    "gn:longitude":83.27237,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Piparhawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048457,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7986737
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"dd71834c4c0aff06c45e2b172cc92800",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1277118191,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1277118191,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1277118191,
+    "wof:lastmodified":1536716826,
+    "wof:name":"Piparhawa",
+    "wof:parent_id":1092048457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.27237,
+    27.38991,
+    83.27237,
+    27.38991
+],
+  "geometry": {"coordinates":[83.27237,27.38991],"type":"Point"}
+}

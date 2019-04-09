@@ -1,0 +1,78 @@
+{
+  "id": 1243591755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.03459,26.43493,88.03459,26.43493",
+    "geom:latitude":26.43493,
+    "geom:longitude":88.03459,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40006.0",
+    "gn:asciiname":"Kamalbasti",
+    "gn:country_code":"NP",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7954019,
+    "gn:latitude":26.43493,
+    "gn:longitude":88.03459,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kamalbasti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7954019
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2ae905354b3f02288ac9b96129865a7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1243591755,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1243591755,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1243591755,
+    "wof:lastmodified":1537089697,
+    "wof:name":"Kamalbasti",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.03459000000002,
+    26.43493,
+    88.03459000000002,
+    26.43493
+],
+  "geometry": {"coordinates":[88.03459000000002,26.43493],"type":"Point"}
+}

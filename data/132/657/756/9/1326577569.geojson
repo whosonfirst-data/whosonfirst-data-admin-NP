@@ -1,0 +1,78 @@
+{
+  "id": 1326577569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.24139,28.01441,84.24139,28.01441",
+    "geom:latitude":28.01441,
+    "geom:longitude":84.24139,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380045.0",
+    "gn:asciiname":"Chainpur Pakha",
+    "gn:country_code":"NP",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8004715,
+    "gn:latitude":28.01441,
+    "gn:longitude":84.24139,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chainpur Pakha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8004715
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ca40259d6e41bb1ba21163065c060714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1326577569,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1326577569,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1326577569,
+    "wof:lastmodified":1536919326,
+    "wof:name":"Chainpur Pakha",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.24139,
+    28.01441,
+    84.24139,
+    28.01441
+],
+  "geometry": {"coordinates":[84.24139,28.01441],"type":"Point"}
+}

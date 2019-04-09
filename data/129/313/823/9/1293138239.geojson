@@ -1,0 +1,78 @@
+{
+  "id": 1293138239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.9009,27.57332,82.9009,27.57332",
+    "geom:latitude":27.57332,
+    "geom:longitude":82.9009,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"50.0",
+    "gn:admin4_code":"500077.0",
+    "gn:asciiname":"Dudura",
+    "gn:country_code":"NP",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7960164,
+    "gn:latitude":27.57332,
+    "gn:longitude":82.9009,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dudura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048259,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7960164
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ce01621e17dc6fc4cc7cdf37705134d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1293138239,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1293138239,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1293138239,
+    "wof:lastmodified":1536793781,
+    "wof:name":"Dudura",
+    "wof:parent_id":1092048259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.9009,
+    27.57332,
+    82.9009,
+    27.57332
+],
+  "geometry": {"coordinates":[82.90089999999999,27.57332],"type":"Point"}
+}

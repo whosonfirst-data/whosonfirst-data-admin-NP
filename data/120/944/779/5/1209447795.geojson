@@ -1,0 +1,64 @@
+{
+  "id": 1209447795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.04327,29.32962,81.04327,29.32962",
+    "geom:latitude":29.32962,
+    "geom:longitude":81.04327,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"70.0",
+    "gn:admin4_code":"700050.0",
+    "gn:asciiname":"Phatak Halna",
+    "gn:country_code":"NP",
+    "gn:dem":1810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7947815,
+    "gn:latitude":29.32962,
+    "gn:longitude":81.04327,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Phatak Halna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7947815
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"922572f4ff11baf9f00268b5b8c09241",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209447795
+        }
+    ],
+    "wof:id":1209447795,
+    "wof:lastmodified":1536286763,
+    "wof:name":"Phatak Halna",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.04326999999998,
+    29.32962,
+    81.04326999999998,
+    29.32962
+],
+  "geometry": {"coordinates":[81.04326999999998,29.32962],"type":"Point"}
+}

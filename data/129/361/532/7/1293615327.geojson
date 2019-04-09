@@ -1,0 +1,78 @@
+{
+  "id": 1293615327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.8199,29.07129,80.8199,29.07129",
+    "geom:latitude":29.07129,
+    "geom:longitude":80.8199,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"70.0",
+    "gn:admin4_code":"700015.0",
+    "gn:asciiname":"Sismada",
+    "gn:country_code":"NP",
+    "gn:dem":1622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7946471,
+    "gn:latitude":29.07129,
+    "gn:longitude":80.8199,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sismada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048653,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7946471
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1286fa6e59f73f93c8879bc70d4e25c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1293615327,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1293615327,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1293615327,
+    "wof:lastmodified":1537096779,
+    "wof:name":"Sismada",
+    "wof:parent_id":1092048653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.8199,
+    29.07129,
+    80.8199,
+    29.07129
+],
+  "geometry": {"coordinates":[80.8199,29.07129],"type":"Point"}
+}

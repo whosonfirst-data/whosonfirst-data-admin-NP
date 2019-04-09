@@ -1,0 +1,78 @@
+{
+  "id": 1243391761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.15566,28.61937,82.15566,28.61937",
+    "geom:latitude":28.61937,
+    "geom:longitude":82.15566,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"61.0",
+    "gn:admin4_code":"610009.0",
+    "gn:asciiname":"chaur",
+    "gn:country_code":"NP",
+    "gn:dem":738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7953078,
+    "gn:latitude":28.61937,
+    "gn:longitude":82.15566,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"chaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092048763,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7953078
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d01bc4de62f4a68868ebcc8cd23ae21a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048763,
+            "locality_id":1243391761,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048763,
+            "locality_id":1243391761,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1243391761,
+    "wof:lastmodified":1536883979,
+    "wof:name":"chaur",
+    "wof:parent_id":1092048763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.15566,
+    28.61937,
+    82.15566,
+    28.61937
+],
+  "geometry": {"coordinates":[82.15566,28.61937],"type":"Point"}
+}

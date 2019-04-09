@@ -1,0 +1,170 @@
+{
+  "id": 1125313535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.33333,27.58333,87.33333,27.58333",
+    "geom:latitude":27.58333,
+    "geom:longitude":87.33333,
+    "gn:gn_country":"NP",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":164469,
+    "iso:country":"NP",
+    "lbl:latitude":27.58333,
+    "lbl:longitude":87.33333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ben_x_preferred":[
+        "\u09b8\u0999\u09cd\u0996\u09c1\u09af\u09bc\u09be\u09b8\u09ad\u09be \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09b8\u0999\u09cd\u0996\u09c1\u09f1\u09be\u09b8\u09ad\u09be"
+    ],
+    "name:dan_x_preferred":[
+        "Sankhuwasabha District"
+    ],
+    "name:deu_x_preferred":[
+        "Sankhuwasabha"
+    ],
+    "name:fin_x_preferred":[
+        "Sankhuwasabhan piirikunta"
+    ],
+    "name:fra_x_preferred":[
+        "District de Sankhuwasabha"
+    ],
+    "name:hif_x_preferred":[
+        "Sankhuwasabha"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0902\u0916\u0941\u0935\u093e\u0938\u092d\u093e \u091c\u093f\u0932\u093e"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di Sankhuwasabha"
+    ],
+    "name:mai_x_preferred":[
+        "\u0938\u0919\u094d\u0916\u0941\u0935\u093e\u0938\u092d\u093e \u091c\u093f\u0932\u093e"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u0919\u094d\u0916\u0941\u0935\u093e\u0938\u092d\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u0919\u094d\u0916\u0941\u0935\u093e\u0938\u092d\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Sankhuwasabha"
+    ],
+    "name:nor_x_preferred":[
+        "Sankhuwasabha"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0633\u0627\u0646\u06a9\u06be\u0648\u0648\u0633\u0627\u0628\u06be\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Sankhuwasabha"
+    ],
+    "name:por_x_preferred":[
+        "Sankhuwasabha"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0445\u0443\u0432\u0430\u0441\u0430\u0431\u0445\u0430"
+    ],
+    "name:san_x_preferred":[
+        "\u0938\u0919\u094d\u0916\u0941\u0935\u093e\u0938\u092d\u093e\u092e\u0923\u094d\u0921\u0932\u092e\u094d"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito de Sankhuwasabha"
+    ],
+    "name:unk_x_variant":[
+        "Sankhua Sabha"
+    ],
+    "name:vie_x_preferred":[
+        "Sankhuwasabha"
+    ],
+    "qs_pg:aaroncc":"NP",
+    "qs_pg:gn_country":"NP",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1282812,
+    "qs_pg:gn_pop":164469,
+    "qs_pg:name":"Sankhuwasabha",
+    "qs_pg:name_adm0":"Nepal",
+    "qs_pg:name_adm1":"Purwanchal",
+    "qs_pg:photos":1,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":12,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":1197765,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424911,
+    "qs_pg:woe_id":23706753,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"quattroshapes_pg",
+    "woe:adm0_id":23424911,
+    "woe:name_adm0":"Nepal",
+    "woe:name_adm1":"Purwanchal",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049597,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282812,
+        "gp:id":23706753,
+        "qs:id":1197765,
+        "qs_pg:id":1197765,
+        "wd:id":"Q28596",
+        "wk:page":"Sankhuwasabha District"
+    },
+    "wof:country":"NP",
+    "wof:created":1497044147,
+    "wof:geomhash":"a0c2fe6d9453676d9ad26b06650f2a62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "localadmin_id":1125313535,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "localadmin_id":1125313535,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1125313535,
+    "wof:lastmodified":1534379388,
+    "wof:name":"Sankhuwasabha",
+    "wof:parent_id":1092049597,
+    "wof:placetype":"localadmin",
+    "wof:population":164469,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421170927
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.33333,
+    27.58333,
+    87.33333,
+    27.58333
+],
+  "geometry": {"coordinates":[87.33333,27.58333],"type":"Point"}
+}

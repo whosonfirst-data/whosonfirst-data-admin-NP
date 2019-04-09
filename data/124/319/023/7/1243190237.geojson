@@ -1,0 +1,79 @@
+{
+  "id": 1243190237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.62265,30.06285,81.62265,30.06285",
+    "geom:latitude":30.06285,
+    "geom:longitude":81.62265,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yangar",
+    "gn:country_code":"NP",
+    "gn:dem":3199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282608,
+    "gn:latitude":30.06285,
+    "gn:longitude":81.62265,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Y\u0101ng\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u0101lb\u0101ng",
+        "Y\u0101ng\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050353,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282608
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"663177b32e985667c21803664eaff8b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1243190237,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1243190237,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1243190237,
+    "wof:lastmodified":1537676036,
+    "wof:name":"Yangar",
+    "wof:parent_id":1092050353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.62265,
+    30.06285,
+    81.62265,
+    30.06285
+],
+  "geometry": {"coordinates":[81.62264999999999,30.06285],"type":"Point"}
+}

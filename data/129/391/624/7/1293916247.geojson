@@ -1,0 +1,78 @@
+{
+  "id": 1293916247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.18063,28.22359,82.18063,28.22359",
+    "geom:latitude":28.22359,
+    "geom:longitude":82.18063,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"560001.0",
+    "gn:asciiname":"Arukhuti",
+    "gn:country_code":"NP",
+    "gn:dem":1243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7938178,
+    "gn:latitude":28.22359,
+    "gn:longitude":82.18063,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Arukhuti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048605,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7938178
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"84a74898ebae96eea7de97242efb87e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1293916247,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1293916247,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1293916247,
+    "wof:lastmodified":1536666202,
+    "wof:name":"Arukhuti",
+    "wof:parent_id":1092048605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.18063000000002,
+    28.22359,
+    82.18063000000002,
+    28.22359
+],
+  "geometry": {"coordinates":[82.18063000000002,28.22359],"type":"Point"}
+}

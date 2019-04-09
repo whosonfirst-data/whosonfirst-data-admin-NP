@@ -1,0 +1,78 @@
+{
+  "id": 1293916325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.19892,28.37907,82.19892,28.37907",
+    "geom:latitude":28.37907,
+    "geom:longitude":82.19892,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550009",
+    "gn:asciiname":"Syalpani",
+    "gn:country_code":"NP",
+    "gn:dem":1110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7988137,
+    "gn:latitude":28.37907,
+    "gn:longitude":82.19892,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Syalpani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049579,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7988137
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2366c8c0a0cd1a2345ca47dabc3160f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1293916325,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1293916325,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1293916325,
+    "wof:lastmodified":1536666085,
+    "wof:name":"Syalpani",
+    "wof:parent_id":1092049579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.19892,
+    28.37907,
+    82.19892,
+    28.37907
+],
+  "geometry": {"coordinates":[82.19892,28.37907],"type":"Point"}
+}

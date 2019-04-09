@@ -1,0 +1,84 @@
+{
+  "id": 421185307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.3486,28.16558,85.3486,28.16558",
+    "geom:latitude":28.16558,
+    "geom:longitude":85.3486,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"NP",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1282736,
+    "qs:gn_pop":0,
+    "qs:name":"Sy\u00e5bru Bensi",
+    "qs:name_adm0":"Nepal",
+    "qs:name_adm1":"Madhyamanchal",
+    "qs:photos":314,
+    "qs:photos_1k":64,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":314,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":890038,
+    "qs:woe_adm0":23424911,
+    "qs:woe_id":2268903,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048409,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282736,
+        "gp:id":2268903,
+        "qs:id":890038
+    },
+    "wof:country":"NP",
+    "wof:created":1459009438,
+    "wof:geomhash":"86634196854f731e6fae5e06d156d37e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048409,
+            "locality_id":421185307,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048409,
+            "locality_id":421185307,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":421185307,
+    "wof:lastmodified":1500058091,
+    "wof:name":"Sy\u00e5bru Bensi",
+    "wof:parent_id":1092048409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.3486,
+    28.16558,
+    85.3486,
+    28.16558
+],
+  "geometry": {"coordinates":[85.3486,28.16558],"type":"Point"}
+}

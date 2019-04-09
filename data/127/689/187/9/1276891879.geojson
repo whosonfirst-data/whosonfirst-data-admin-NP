@@ -1,0 +1,75 @@
+{
+  "id": 1276891879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.56461,27.59025,85.56461,27.59025",
+    "geom:latitude":27.59025,
+    "geom:longitude":85.56461,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Okharbhot",
+    "gn:country_code":"NP",
+    "gn:dem":1588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10322078,
+    "gn:latitude":27.59025,
+    "gn:longitude":85.56461,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Okharbho\u1e6d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10322078
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e55e9bb5ca74169d30c8175ab3f1f5b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1276891879,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1276891879,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1276891879,
+    "wof:lastmodified":1537024004,
+    "wof:name":"Okharbhot",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.56461,
+    27.59025,
+    85.56461,
+    27.59025
+],
+  "geometry": {"coordinates":[85.56461,27.59025],"type":"Point"}
+}

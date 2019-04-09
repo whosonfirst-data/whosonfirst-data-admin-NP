@@ -1,0 +1,78 @@
+{
+  "id": 1310038591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.47133,29.09036,82.47133,29.09036",
+    "geom:latitude":29.09036,
+    "geom:longitude":82.47133,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"62.0",
+    "gn:admin4_code":"620020.0",
+    "gn:asciiname":"Bungera Goth",
+    "gn:country_code":"NP",
+    "gn:dem":3152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7945739,
+    "gn:latitude":29.09036,
+    "gn:longitude":82.47133,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bungera Goth",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050349,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7945739
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cc90a3345af8b8f9bf233eb4c8fd1df4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1310038591,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1310038591,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1310038591,
+    "wof:lastmodified":1537089796,
+    "wof:name":"Bungera Goth",
+    "wof:parent_id":1092050349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.47133000000002,
+    29.09036,
+    82.47133000000002,
+    29.09036
+],
+  "geometry": {"coordinates":[82.47133000000002,29.09036],"type":"Point"}
+}

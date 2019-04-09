@@ -1,0 +1,78 @@
+{
+  "id": 1310648989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.08844,27.52557,85.08844,27.52557",
+    "geom:latitude":27.52557,
+    "geom:longitude":85.08844,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310033",
+    "gn:asciiname":"Chyuribagaincha",
+    "gn:country_code":"NP",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7968946,
+    "gn:latitude":27.52557,
+    "gn:longitude":85.08844,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chyuribagaincha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7968946
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d2aaf9b3cc58ab4e8bfdad2e5c71e581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1310648989,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1310648989,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1310648989,
+    "wof:lastmodified":1536710336,
+    "wof:name":"Chyuribagaincha",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.08844,
+    27.52557,
+    85.08844,
+    27.52557
+],
+  "geometry": {"coordinates":[85.08844000000001,27.52557],"type":"Point"}
+}

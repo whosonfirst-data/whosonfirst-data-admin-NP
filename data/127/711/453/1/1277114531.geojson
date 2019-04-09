@@ -1,0 +1,78 @@
+{
+  "id": 1277114531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.90961,27.71613,85.90961,27.71613",
+    "geom:latitude":27.71613,
+    "geom:longitude":85.90961,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"23",
+    "gn:admin4_code":"230069",
+    "gn:asciiname":"Chitlunga",
+    "gn:country_code":"NP",
+    "gn:dem":1811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7995461,
+    "gn:latitude":27.71613,
+    "gn:longitude":85.90961,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chitlunga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7995461
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7b9627b83e4547f26fb1dae922c4c116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1277114531,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1277114531,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1277114531,
+    "wof:lastmodified":1536722103,
+    "wof:name":"Chitlunga",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.90961,
+    27.71613,
+    85.90961,
+    27.71613
+],
+  "geometry": {"coordinates":[85.90961,27.71613],"type":"Point"}
+}

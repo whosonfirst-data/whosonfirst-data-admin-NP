@@ -1,0 +1,78 @@
+{
+  "id": 1226786903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.17568,28.58299,85.17568,28.58299",
+    "geom:latitude":28.58299,
+    "geom:longitude":85.17568,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360013.0",
+    "gn:asciiname":"Chhyuko Bhanjyang",
+    "gn:country_code":"NP",
+    "gn:dem":4910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7948100,
+    "gn:latitude":28.58299,
+    "gn:longitude":85.17568,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chhyuko Bhanjyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7948100
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"27e45f0e9c052df18ce7ffbf647c591b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1226786903,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1226786903,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1226786903,
+    "wof:lastmodified":1536656249,
+    "wof:name":"Chhyuko Bhanjyang",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.17568,
+    28.58299,
+    85.17568,
+    28.58299
+],
+  "geometry": {"coordinates":[85.17568,28.58299],"type":"Point"}
+}

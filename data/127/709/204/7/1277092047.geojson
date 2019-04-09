@@ -1,0 +1,75 @@
+{
+  "id": 1277092047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.61219,27.43731,86.61219,27.43731",
+    "geom:latitude":27.43731,
+    "geom:longitude":86.61219,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dhade",
+    "gn:country_code":"NP",
+    "gn:dem":1854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11205814,
+    "gn:latitude":27.43731,
+    "gn:longitude":86.61219,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"\u1e0ch\u0101\u0303\u1e0de",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049841,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11205814
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6bcda119beec20c53270a6eeecc0426f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1277092047,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1277092047,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1277092047,
+    "wof:lastmodified":1536754210,
+    "wof:name":"Dhade",
+    "wof:parent_id":1092049841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.61219,
+    27.43731,
+    86.61219,
+    27.43731
+],
+  "geometry": {"coordinates":[86.61219,27.43731],"type":"Point"}
+}

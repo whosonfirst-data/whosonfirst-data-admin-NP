@@ -1,0 +1,78 @@
+{
+  "id": 1209857483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.75427,26.88097,86.75427,26.88097",
+    "geom:latitude":26.88097,
+    "geom:longitude":86.75427,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140032.0",
+    "gn:asciiname":"Saune",
+    "gn:country_code":"NP",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007513,
+    "gn:latitude":26.88097,
+    "gn:longitude":86.75427,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Saune",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050179,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007513
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3aecabad45ad66f29d3772c382a61d1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1209857483,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1209857483,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1209857483,
+    "wof:lastmodified":1536385674,
+    "wof:name":"Saune",
+    "wof:parent_id":1092050179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.75426999999998,
+    26.88097,
+    86.75426999999998,
+    26.88097
+],
+  "geometry": {"coordinates":[86.75426999999998,26.88097],"type":"Point"}
+}

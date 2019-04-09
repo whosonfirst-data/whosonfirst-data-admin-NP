@@ -1,0 +1,64 @@
+{
+  "id": 1209245781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.60209,29.90253,81.60209,29.90253",
+    "geom:latitude":29.90253,
+    "geom:longitude":81.60209,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"67.0",
+    "gn:admin4_code":"670005.0",
+    "gn:asciiname":"Ranikharka",
+    "gn:country_code":"NP",
+    "gn:dem":3909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8000215,
+    "gn:latitude":29.90253,
+    "gn:longitude":81.60209,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ranikharka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8000215
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6af24426451466ac2a53b08a339085d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209245781
+        }
+    ],
+    "wof:id":1209245781,
+    "wof:lastmodified":1536293170,
+    "wof:name":"Ranikharka",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.60209,
+    29.90253,
+    81.60209,
+    29.90253
+],
+  "geometry": {"coordinates":[81.60209,29.90253],"type":"Point"}
+}

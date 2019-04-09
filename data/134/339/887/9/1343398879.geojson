@@ -1,0 +1,78 @@
+{
+  "id": 1343398879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.11562,27.61659,86.11562,27.61659",
+    "geom:latitude":27.61659,
+    "geom:longitude":86.11562,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"22.0",
+    "gn:admin4_code":"220017.0",
+    "gn:asciiname":"Mulabaritar",
+    "gn:country_code":"NP",
+    "gn:dem":1402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7944518,
+    "gn:latitude":27.61659,
+    "gn:longitude":86.11562,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mulabaritar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675579,
+        1092050535,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7944518
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2853d9dfa0975fb8cf8aa6e706adcd0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1343398879,
+            "region_id":85675579
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1343398879,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1343398879,
+    "wof:lastmodified":1536834000,
+    "wof:name":"Mulabaritar",
+    "wof:parent_id":1092050535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.11561999999998,
+    27.61659,
+    86.11561999999998,
+    27.61659
+],
+  "geometry": {"coordinates":[86.11561999999998,27.61659],"type":"Point"}
+}

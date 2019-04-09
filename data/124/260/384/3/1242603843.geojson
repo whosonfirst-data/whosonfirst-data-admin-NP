@@ -1,0 +1,78 @@
+{
+  "id": 1242603843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.03833,28.71735,82.03833,28.71735",
+    "geom:latitude":28.71735,
+    "geom:longitude":82.03833,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"61.0",
+    "gn:admin4_code":"610012.0",
+    "gn:asciiname":"Chiureni",
+    "gn:country_code":"NP",
+    "gn:dem":1242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7953240,
+    "gn:latitude":28.71735,
+    "gn:longitude":82.03833,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chiureni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092048763,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7953240
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"45028c6cecbc3626873dd82187d78fc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048763,
+            "locality_id":1242603843,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048763,
+            "locality_id":1242603843,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1242603843,
+    "wof:lastmodified":1537024838,
+    "wof:name":"Chiureni",
+    "wof:parent_id":1092048763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.03833,
+    28.71735,
+    82.03833,
+    28.71735
+],
+  "geometry": {"coordinates":[82.03833,28.71735],"type":"Point"}
+}

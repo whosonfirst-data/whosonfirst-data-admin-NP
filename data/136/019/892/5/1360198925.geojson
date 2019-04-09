@@ -1,0 +1,78 @@
+{
+  "id": 1360198925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.11839,26.87057,87.11839,26.87057",
+    "geom:latitude":26.87057,
+    "geom:longitude":87.11839,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ahaledada",
+    "gn:country_code":"NP",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11606741,
+    "gn:latitude":26.87057,
+    "gn:longitude":87.11839,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Ah\u0101le\u1e0d\u0101\u0303\u1e0d\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Ah\u0101le\u1e0d\u0101\u0303\u1e0d\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050179,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11606741
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"10bbdc3cb66cd72764fb676ef3f07bb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1360198925,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1360198925,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1360198925,
+    "wof:lastmodified":1537676129,
+    "wof:name":"Ahaledada",
+    "wof:parent_id":1092050179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.11839,
+    26.87057,
+    87.11839,
+    26.87057
+],
+  "geometry": {"coordinates":[87.11839000000001,26.87057],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209648019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.38294,29.3575,81.38294,29.3575",
+    "geom:latitude":29.3575,
+    "geom:longitude":81.38294,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"67.0",
+    "gn:admin4_code":"670017.0",
+    "gn:asciiname":"Sarketola",
+    "gn:country_code":"NP",
+    "gn:dem":2008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002990,
+    "gn:latitude":29.3575,
+    "gn:longitude":81.38294,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sarketola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002990
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a9c9b6f5e96b6c597b5905fda12f4619",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209648019
+        }
+    ],
+    "wof:id":1209648019,
+    "wof:lastmodified":1536280670,
+    "wof:name":"Sarketola",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.38294,
+    29.3575,
+    81.38294,
+    29.3575
+],
+  "geometry": {"coordinates":[81.38294,29.3575],"type":"Point"}
+}

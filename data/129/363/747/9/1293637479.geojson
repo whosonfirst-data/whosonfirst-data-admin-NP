@@ -1,0 +1,78 @@
+{
+  "id": 1293637479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.23421,26.42031,87.23421,26.42031",
+    "geom:latitude":26.42031,
+    "geom:longitude":87.23421,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"6",
+    "gn:admin4_code":"60002",
+    "gn:asciiname":"Pharamtol",
+    "gn:country_code":"NP",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7997346,
+    "gn:latitude":26.42031,
+    "gn:longitude":87.23421,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pharamtol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049923,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7997346
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"51d19bc4f4a48374d1307936cee6e68e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1293637479,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1293637479,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1293637479,
+    "wof:lastmodified":1537065240,
+    "wof:name":"Pharamtol",
+    "wof:parent_id":1092049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.23421,
+    26.42031,
+    87.23421,
+    26.42031
+],
+  "geometry": {"coordinates":[87.23421,26.42031],"type":"Point"}
+}

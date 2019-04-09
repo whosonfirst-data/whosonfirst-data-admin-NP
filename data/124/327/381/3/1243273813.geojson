@@ -1,0 +1,78 @@
+{
+  "id": 1243273813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.95393,26.64157,87.95393,26.64157",
+    "geom:latitude":26.64157,
+    "geom:longitude":87.95393,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Giriau",
+    "gn:country_code":"NP",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11603045,
+    "gn:latitude":26.64157,
+    "gn:longitude":87.95393,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Giri\u0307\u0304\u0101\u0169",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Giri\u0307\u0304\u0101\u0169"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11603045
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5a31d946f9b46e4cc440e12cdf46ac3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1243273813,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1243273813,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1243273813,
+    "wof:lastmodified":1537676120,
+    "wof:name":"Giriau",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.95393,
+    26.64157,
+    87.95393,
+    26.64157
+],
+  "geometry": {"coordinates":[87.95393,26.64157],"type":"Point"}
+}

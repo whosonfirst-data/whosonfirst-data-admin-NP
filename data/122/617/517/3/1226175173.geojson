@@ -1,0 +1,78 @@
+{
+  "id": 1226175173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.65794,28.38187,82.65794,28.38187",
+    "geom:latitude":28.38187,
+    "geom:longitude":82.65794,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530005",
+    "gn:asciiname":"Ratamata",
+    "gn:country_code":"NP",
+    "gn:dem":1902,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7983031,
+    "gn:latitude":28.38187,
+    "gn:longitude":82.65794,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ratamata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7983031
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2f711b40c9b38926c0f968e48d0eb03d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1226175173,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1226175173,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1226175173,
+    "wof:lastmodified":1537033836,
+    "wof:name":"Ratamata",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.65794,
+    28.38187000000001,
+    82.65794,
+    28.38187000000001
+],
+  "geometry": {"coordinates":[82.65794,28.38187000000001],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1309947621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.37358,28.23118,83.37358,28.23118",
+    "geom:latitude":28.23118,
+    "geom:longitude":83.37358,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450039.0",
+    "gn:asciiname":"Jhirka",
+    "gn:country_code":"NP",
+    "gn:dem":2060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7960092,
+    "gn:latitude":28.23118,
+    "gn:longitude":83.37358,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jhirka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7960092
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8dc489736fb6ce9c5b02215e6bbfc2e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1309947621,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1309947621,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1309947621,
+    "wof:lastmodified":1536727130,
+    "wof:name":"Jhirka",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.37358,
+    28.23118,
+    83.37358,
+    28.23118
+],
+  "geometry": {"coordinates":[83.37358,28.23118],"type":"Point"}
+}

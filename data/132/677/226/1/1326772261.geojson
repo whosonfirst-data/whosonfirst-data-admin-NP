@@ -1,0 +1,78 @@
+{
+  "id": 1326772261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.85967,28.57172,84.85967,28.57172",
+    "geom:latitude":28.57172,
+    "geom:longitude":84.85967,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360010.0",
+    "gn:asciiname":"Lapuchung",
+    "gn:country_code":"NP",
+    "gn:dem":5558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7948033,
+    "gn:latitude":28.57172,
+    "gn:longitude":84.85967,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lapuchung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7948033
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b40f460e08cdd94a3f065a1d4ff07f49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1326772261,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1326772261,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1326772261,
+    "wof:lastmodified":1536636770,
+    "wof:name":"Lapuchung",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.85967,
+    28.57172000000001,
+    84.85967,
+    28.57172000000001
+],
+  "geometry": {"coordinates":[84.85966999999999,28.57172000000001],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276702035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.64964,26.7476,87.64964,26.7476",
+    "geom:latitude":26.7476,
+    "geom:longitude":87.64964,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"5",
+    "gn:admin4_code":"50038",
+    "gn:asciiname":"Bajhakhet",
+    "gn:country_code":"NP",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7970641,
+    "gn:latitude":26.7476,
+    "gn:longitude":87.64964,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bajhakhet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092048303,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7970641
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7f1b809e53cba7075c6ddd95130ec09c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1276702035,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1276702035,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1276702035,
+    "wof:lastmodified":1536782194,
+    "wof:name":"Bajhakhet",
+    "wof:parent_id":1092048303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.64964,
+    26.7476,
+    87.64964,
+    26.7476
+],
+  "geometry": {"coordinates":[87.64964000000001,26.7476],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1225958631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.78202,27.30422,86.78202,27.30422",
+    "geom:latitude":27.30422,
+    "geom:longitude":86.78202,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Puranogau",
+    "gn:country_code":"NP",
+    "gn:dem":1469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11209408,
+    "gn:latitude":27.30422,
+    "gn:longitude":86.78202,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Pur\u0101nog\u0101\u0169",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050841,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11209408
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0815e629f1d7de886fda5aeb9efefd3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1225958631,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1225958631,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1225958631,
+    "wof:lastmodified":1536849549,
+    "wof:name":"Puranogau",
+    "wof:parent_id":1092050841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.78201999999997,
+    27.30422,
+    86.78201999999997,
+    27.30422
+],
+  "geometry": {"coordinates":[86.78201999999997,27.30422],"type":"Point"}
+}

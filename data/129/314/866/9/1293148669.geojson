@@ -1,0 +1,78 @@
+{
+  "id": 1293148669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.4182,27.53677,83.4182,27.53677",
+    "geom:latitude":27.53677,
+    "geom:longitude":83.4182,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"49",
+    "gn:admin4_code":"490041",
+    "gn:asciiname":"Semara",
+    "gn:country_code":"NP",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7987379,
+    "gn:latitude":27.53677,
+    "gn:longitude":83.4182,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Semara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048457,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7987379
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"96fbec3e0e44b92c5755c5b010af6a23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1293148669,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1293148669,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1293148669,
+    "wof:lastmodified":1536779159,
+    "wof:name":"Semara",
+    "wof:parent_id":1092048457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.4182,
+    27.53677,
+    83.4182,
+    27.53677
+],
+  "geometry": {"coordinates":[83.4182,27.53677],"type":"Point"}
+}

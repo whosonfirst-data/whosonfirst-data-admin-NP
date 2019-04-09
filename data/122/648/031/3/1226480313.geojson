@@ -1,0 +1,78 @@
+{
+  "id": 1226480313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.23878,27.88618,86.23878,27.88618",
+    "geom:latitude":27.88618,
+    "geom:longitude":86.23878,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"22.0",
+    "gn:admin4_code":"220033.0",
+    "gn:asciiname":"Rikhu",
+    "gn:country_code":"NP",
+    "gn:dem":2024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7944901,
+    "gn:latitude":27.88618,
+    "gn:longitude":86.23878,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Rikhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675579,
+        1092050535,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7944901
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"dce6554a53246662b83aff54467bacf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1226480313,
+            "region_id":85675579
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1226480313,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1226480313,
+    "wof:lastmodified":1537089039,
+    "wof:name":"Rikhu",
+    "wof:parent_id":1092050535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.23878,
+    27.88618,
+    86.23878,
+    27.88618
+],
+  "geometry": {"coordinates":[86.23878000000001,27.88618],"type":"Point"}
+}

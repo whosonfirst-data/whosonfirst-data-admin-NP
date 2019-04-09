@@ -1,0 +1,78 @@
+{
+  "id": 1225793389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.94441,27.00001,84.94441,27.00001",
+    "geom:latitude":27.00001,
+    "geom:longitude":84.94441,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"330074.0",
+    "gn:asciiname":"Pheta",
+    "gn:country_code":"NP",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009052,
+    "gn:latitude":27.00001,
+    "gn:longitude":84.94441,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pheta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092048051,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009052
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"197a7ce7ff36e56095510d1beed8bf0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1225793389,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1225793389,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1225793389,
+    "wof:lastmodified":1537086131,
+    "wof:name":"Pheta",
+    "wof:parent_id":1092048051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.94440999999998,
+    27.00001,
+    84.94440999999998,
+    27.00001
+],
+  "geometry": {"coordinates":[84.94440999999998,27.00001],"type":"Point"}
+}

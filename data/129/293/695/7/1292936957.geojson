@@ -1,0 +1,78 @@
+{
+  "id": 1292936957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.31943,29.30945,82.31943,29.30945",
+    "geom:latitude":29.30945,
+    "geom:longitude":82.31943,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"630008.0",
+    "gn:asciiname":"Deuchaur",
+    "gn:country_code":"NP",
+    "gn:dem":2736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7955722,
+    "gn:latitude":29.30945,
+    "gn:longitude":82.31943,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Deuchaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092050797,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7955722
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2683f07ef777488f30fe942b4db800a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1292936957,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1292936957,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1292936957,
+    "wof:lastmodified":1537080714,
+    "wof:name":"Deuchaur",
+    "wof:parent_id":1092050797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.31943000000003,
+    29.30945,
+    82.31943000000003,
+    29.30945
+],
+  "geometry": {"coordinates":[82.31943000000003,29.30945],"type":"Point"}
+}

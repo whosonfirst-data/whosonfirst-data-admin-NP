@@ -1,0 +1,78 @@
+{
+  "id": 1309753887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.71693,28.18478,84.71693,28.18478",
+    "geom:latitude":28.18478,
+    "geom:longitude":84.71693,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360067.0",
+    "gn:asciiname":"Galmu",
+    "gn:country_code":"NP",
+    "gn:dem":960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7949670,
+    "gn:latitude":28.18478,
+    "gn:longitude":84.71693,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Galmu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7949670
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bb9054f62fd018e1cd97e28d40d90e1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1309753887,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1309753887,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1309753887,
+    "wof:lastmodified":1537005197,
+    "wof:name":"Galmu",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.71693,
+    28.18478,
+    84.71693,
+    28.18478
+],
+  "geometry": {"coordinates":[84.71693,28.18478],"type":"Point"}
+}

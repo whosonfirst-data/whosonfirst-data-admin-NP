@@ -1,0 +1,78 @@
+{
+  "id": 1293505323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.69733,27.8923,82.69733,27.8923",
+    "geom:latitude":27.8923,
+    "geom:longitude":82.69733,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Debikot",
+    "gn:country_code":"NP",
+    "gn:dem":1030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283478,
+    "gn:latitude":27.8923,
+    "gn:longitude":82.69733,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Debikot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Devi\u0307\u0304ko\u1e6d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048605,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283478
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"54b24ea1ac4cbef20658e631430ef95f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1293505323,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1293505323,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1293505323,
+    "wof:lastmodified":1537676058,
+    "wof:name":"Debikot",
+    "wof:parent_id":1092048605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.69733000000002,
+    27.8923,
+    82.69733000000002,
+    27.8923
+],
+  "geometry": {"coordinates":[82.69733000000002,27.8923],"type":"Point"}
+}

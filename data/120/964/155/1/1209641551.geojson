@@ -1,0 +1,64 @@
+{
+  "id": 1209641551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.72562,28.61585,82.72562,28.61585",
+    "geom:latitude":28.61585,
+    "geom:longitude":82.72562,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"54",
+    "gn:admin4_code":"540034",
+    "gn:asciiname":"Syaltarang",
+    "gn:country_code":"NP",
+    "gn:dem":2273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7986309,
+    "gn:latitude":28.61585,
+    "gn:longitude":82.72562,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Syaltarang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7986309
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4f332b269d5baca6adcb47fbfa741e75",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209641551
+        }
+    ],
+    "wof:id":1209641551,
+    "wof:lastmodified":1536280870,
+    "wof:name":"Syaltarang",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.72561999999998,
+    28.61585,
+    82.72561999999998,
+    28.61585
+],
+  "geometry": {"coordinates":[82.72561999999998,28.61585],"type":"Point"}
+}

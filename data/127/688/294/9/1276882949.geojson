@@ -1,0 +1,75 @@
+{
+  "id": 1276882949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.11478,27.75674,83.11478,27.75674",
+    "geom:latitude":27.75674,
+    "geom:longitude":83.11478,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bhartabas",
+    "gn:country_code":"NP",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283612,
+    "gn:latitude":27.75674,
+    "gn:longitude":83.11478,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Bhart\u0101b\u0101s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048259,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283612
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"348565a78bd5a45a310a7e660ef57e05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1276882949,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1276882949,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1276882949,
+    "wof:lastmodified":1537035367,
+    "wof:name":"Bhartabas",
+    "wof:parent_id":1092048259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.11478000000002,
+    27.75674,
+    83.11478000000002,
+    27.75674
+],
+  "geometry": {"coordinates":[83.11478000000002,27.75674],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209352289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.50256,27.23419,87.50256,27.23419",
+    "geom:latitude":27.23419,
+    "geom:longitude":87.50256,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"8.0",
+    "gn:admin4_code":"80014.0",
+    "gn:asciiname":"Jante",
+    "gn:country_code":"NP",
+    "gn:dem":1979,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8006072,
+    "gn:latitude":27.23419,
+    "gn:longitude":87.50256,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jante",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8006072
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"76543cde21a3565c369a66bfa59eb62f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209352289
+        }
+    ],
+    "wof:id":1209352289,
+    "wof:lastmodified":1536289703,
+    "wof:name":"Jante",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.50256,
+    27.23419,
+    87.50256,
+    27.23419
+],
+  "geometry": {"coordinates":[87.50256,27.23419],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1292913047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.43574,27.93695,83.43574,27.93695",
+    "geom:latitude":27.93695,
+    "geom:longitude":83.43574,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ridi Bajar",
+    "gn:country_code":"NP",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282849,
+    "gn:latitude":27.93695,
+    "gn:longitude":83.43574,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Ri\u1e0di\u0307\u0304 Baj\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Ri\u1e0di\u0307\u0304 Baj\u0101r"
+    ],
+    "name:und_x_variant":[
+        "Ridi",
+        "Riri B\u0101z\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050889,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282849
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f232831844e483a07e1ee564f8d0b3d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1292913047,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1292913047,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1292913047,
+    "wof:lastmodified":1537676042,
+    "wof:name":"Ridi Bajar",
+    "wof:parent_id":1092050889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.43574,
+    27.93695,
+    83.43574,
+    27.93695
+],
+  "geometry": {"coordinates":[83.43574,27.93695],"type":"Point"}
+}

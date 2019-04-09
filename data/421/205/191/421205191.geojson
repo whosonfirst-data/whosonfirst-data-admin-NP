@@ -1,0 +1,119 @@
+{
+  "id": 421205191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.29726,28.13099,82.29726,28.13099",
+    "geom:latitude":28.13099,
+    "geom:longitude":82.29726,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Tulsipur"
+    ],
+    "name:eus_x_preferred":[
+        "Tulsipur"
+    ],
+    "name:fin_x_preferred":[
+        "Tulsipur"
+    ],
+    "name:fra_x_preferred":[
+        "Tulsipur"
+    ],
+    "name:msa_x_preferred":[
+        "Tulsipur"
+    ],
+    "name:nep_x_preferred":[
+        "\u0924\u0941\u0932\u0938\u0940\u092a\u0941\u0930 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Tulsipur"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u043b\u0441\u0438\u043f\u0443\u0440"
+    ],
+    "name:zho_x_preferred":[
+        "\u675c\u723e\u897f\u5e03\u723e"
+    ],
+    "qs:gn_country":"NP",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1282635,
+    "qs:gn_pop":39058,
+    "qs:name":"Tuls\u012bpur",
+    "qs:name_adm0":"Nepal",
+    "qs:name_adm1":"Madhya Pashchimanchal",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":257603,
+    "qs:woe_adm0":23424911,
+    "qs:woe_id":2269047,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":28.127778,
+    "wd:longitude":82.295556,
+    "wd:wordcount":342,
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048605,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282635,
+        "gp:id":2269047,
+        "qs:id":257603,
+        "wd:id":"Q1766076",
+        "wk:page":"Tulsipur, Rapti"
+    },
+    "wof:country":"NP",
+    "wof:created":1459010215,
+    "wof:geomhash":"bf5860a89f91992624241b468610d0a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":421205191,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":421205191,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":421205191,
+    "wof:lastmodified":1527716218,
+    "wof:name":"Tuls\u012bpur",
+    "wof:parent_id":1092048605,
+    "wof:placetype":"locality",
+    "wof:population":39058,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.29726,
+    28.13099,
+    82.29726,
+    28.13099
+],
+  "geometry": {"coordinates":[82.29725999999999,28.13099],"type":"Point"}
+}

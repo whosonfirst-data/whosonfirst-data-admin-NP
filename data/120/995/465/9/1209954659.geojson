@@ -1,0 +1,78 @@
+{
+  "id": 1209954659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.82675,27.78484,85.82675,27.78484",
+    "geom:latitude":27.78484,
+    "geom:longitude":85.82675,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"23",
+    "gn:admin4_code":"230046",
+    "gn:asciiname":"Byase",
+    "gn:country_code":"NP",
+    "gn:dem":1767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7995096,
+    "gn:latitude":27.78484,
+    "gn:longitude":85.82675,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Byase",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7995096
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cb977f814b177f28e6bb10fe6fb16197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1209954659,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1209954659,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1209954659,
+    "wof:lastmodified":1536379864,
+    "wof:name":"Byase",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.82675,
+    27.78484000000001,
+    85.82675,
+    27.78484000000001
+],
+  "geometry": {"coordinates":[85.82675,27.78484000000001],"type":"Point"}
+}

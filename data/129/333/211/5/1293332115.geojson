@@ -1,0 +1,78 @@
+{
+  "id": 1293332115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.03159,28.09302,83.03159,28.09302",
+    "geom:latitude":28.09302,
+    "geom:longitude":83.03159,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"51.0",
+    "gn:admin4_code":"510017.0",
+    "gn:asciiname":"Paslen",
+    "gn:country_code":"NP",
+    "gn:dem":1794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7941171,
+    "gn:latitude":28.09302,
+    "gn:longitude":83.03159,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Paslen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092049537,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7941171
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"17fa2694f3a27844c2aa3a43abe30941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049537,
+            "locality_id":1293332115,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049537,
+            "locality_id":1293332115,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1293332115,
+    "wof:lastmodified":1537010288,
+    "wof:name":"Paslen",
+    "wof:parent_id":1092049537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.03159000000002,
+    28.09302000000001,
+    83.03159000000002,
+    28.09302000000001
+],
+  "geometry": {"coordinates":[83.03159000000002,28.09302000000001],"type":"Point"}
+}

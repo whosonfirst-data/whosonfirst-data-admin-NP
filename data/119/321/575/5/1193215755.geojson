@@ -1,0 +1,78 @@
+{
+  "id": 1193215755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.3865,27.47343,83.3865,27.47343",
+    "geom:latitude":27.47343,
+    "geom:longitude":83.3865,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"49",
+    "gn:admin4_code":"490046",
+    "gn:asciiname":"Parsiya",
+    "gn:country_code":"NP",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7987446,
+    "gn:latitude":27.47343,
+    "gn:longitude":83.3865,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Parsiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048457,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7987446
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"29ec93c94a795bebefbffba2fcab4440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1193215755,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1193215755,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1193215755,
+    "wof:lastmodified":1536380716,
+    "wof:name":"Parsiya",
+    "wof:parent_id":1092048457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.3865,
+    27.47343,
+    83.3865,
+    27.47343
+],
+  "geometry": {"coordinates":[83.3865,27.47343],"type":"Point"}
+}

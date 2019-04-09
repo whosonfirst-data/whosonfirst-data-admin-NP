@@ -1,0 +1,78 @@
+{
+  "id": 1344183323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.89536,29.84,81.89536,29.84",
+    "geom:latitude":29.84,
+    "geom:longitude":81.89536,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"66.0",
+    "gn:admin4_code":"660011.0",
+    "gn:asciiname":"Chhare",
+    "gn:country_code":"NP",
+    "gn:dem":2448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7950988,
+    "gn:latitude":29.84,
+    "gn:longitude":81.89536,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chhare",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050353,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7950988
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1bf516a842909975165e8c5dcae55e92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1344183323,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1344183323,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1344183323,
+    "wof:lastmodified":1536698638,
+    "wof:name":"Chhare",
+    "wof:parent_id":1092050353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.89536,
+    29.84,
+    81.89536,
+    29.84
+],
+  "geometry": {"coordinates":[81.89536,29.84],"type":"Point"}
+}

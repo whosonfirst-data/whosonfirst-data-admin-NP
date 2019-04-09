@@ -1,0 +1,78 @@
+{
+  "id": 1343984377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.80688,29.42398,80.80688,29.42398",
+    "geom:latitude":29.42398,
+    "geom:longitude":80.80688,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740062",
+    "gn:asciiname":"Chamadekharka",
+    "gn:country_code":"NP",
+    "gn:dem":2329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7985999,
+    "gn:latitude":29.42398,
+    "gn:longitude":80.80688,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chamadekharka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050255,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7985999
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3e00ac2bc53139dc72e53356929a4587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1343984377,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1343984377,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1343984377,
+    "wof:lastmodified":1536984761,
+    "wof:name":"Chamadekharka",
+    "wof:parent_id":1092050255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.80688,
+    29.42398,
+    80.80688,
+    29.42398
+],
+  "geometry": {"coordinates":[80.80688000000001,29.42398],"type":"Point"}
+}

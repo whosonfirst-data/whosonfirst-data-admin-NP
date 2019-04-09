@@ -1,0 +1,78 @@
+{
+  "id": 1209954553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.84289,27.68489,84.84289,27.68489",
+    "geom:latitude":27.68489,
+    "geom:longitude":84.84289,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310025",
+    "gn:asciiname":"Sail",
+    "gn:country_code":"NP",
+    "gn:dem":1622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7968629,
+    "gn:latitude":27.68489,
+    "gn:longitude":84.84289,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sail",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7968629
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0439211c6ad34229458e8e8379477bda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1209954553,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1209954553,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1209954553,
+    "wof:lastmodified":1536379954,
+    "wof:name":"Sail",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.84289,
+    27.68489000000001,
+    84.84289,
+    27.68489000000001
+],
+  "geometry": {"coordinates":[84.84289,27.68489000000001],"type":"Point"}
+}

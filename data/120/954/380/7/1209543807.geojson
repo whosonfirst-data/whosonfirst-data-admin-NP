@@ -1,0 +1,64 @@
+{
+  "id": 1209543807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.79395,28.68174,81.79395,28.68174",
+    "geom:latitude":28.68174,
+    "geom:longitude":81.79395,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"60.0",
+    "gn:admin4_code":"600030.0",
+    "gn:asciiname":"Lalikada",
+    "gn:country_code":"NP",
+    "gn:dem":1516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7937397,
+    "gn:latitude":28.68174,
+    "gn:longitude":81.79395,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lalikada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7937397
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6c0ecf0a99b5f04baf9dd525c52e54c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209543807
+        }
+    ],
+    "wof:id":1209543807,
+    "wof:lastmodified":1536283905,
+    "wof:name":"Lalikada",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.79395,
+    28.68174,
+    81.79395,
+    28.68174
+],
+  "geometry": {"coordinates":[81.79395,28.68174],"type":"Point"}
+}

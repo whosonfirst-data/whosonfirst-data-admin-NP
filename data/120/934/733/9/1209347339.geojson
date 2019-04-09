@@ -1,0 +1,64 @@
+{
+  "id": 1209347339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.17526,29.55227,82.17526,29.55227",
+    "geom:latitude":29.55227,
+    "geom:longitude":82.17526,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"65",
+    "gn:admin4_code":"650023",
+    "gn:asciiname":"Ghat",
+    "gn:country_code":"NP",
+    "gn:dem":1749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7971717,
+    "gn:latitude":29.55227,
+    "gn:longitude":82.17526,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ghat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7971717
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d16b4969a66fd72fb0d500585faa82be",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209347339
+        }
+    ],
+    "wof:id":1209347339,
+    "wof:lastmodified":1536289868,
+    "wof:name":"Ghat",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.17526,
+    29.55227,
+    82.17526,
+    29.55227
+],
+  "geometry": {"coordinates":[82.17525999999999,29.55227],"type":"Point"}
+}

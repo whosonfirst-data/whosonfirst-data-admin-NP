@@ -1,0 +1,64 @@
+{
+  "id": 1209162655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.33506,27.50572,87.33506,27.50572",
+    "geom:latitude":27.50572,
+    "geom:longitude":87.33506,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"9",
+    "gn:admin4_code":"90022",
+    "gn:asciiname":"Niyak",
+    "gn:country_code":"NP",
+    "gn:dem":2349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7990358,
+    "gn:latitude":27.50572,
+    "gn:longitude":87.33506,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Niyak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7990358
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6f010c864e4fe1f3707010060ab9fa29",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209162655
+        }
+    ],
+    "wof:id":1209162655,
+    "wof:lastmodified":1536295848,
+    "wof:name":"Niyak",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.33506,
+    27.50572,
+    87.33506,
+    27.50572
+],
+  "geometry": {"coordinates":[87.33506,27.50572],"type":"Point"}
+}

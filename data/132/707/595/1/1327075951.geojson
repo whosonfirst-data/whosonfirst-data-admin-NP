@@ -1,0 +1,78 @@
+{
+  "id": 1327075951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.00744,29.06089,84.00744,29.06089",
+    "geom:latitude":29.06089,
+    "geom:longitude":84.00744,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"42",
+    "gn:admin4_code":"420015",
+    "gn:asciiname":"Phanyakawa",
+    "gn:country_code":"NP",
+    "gn:dem":3638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7971900,
+    "gn:latitude":29.06089,
+    "gn:longitude":84.00744,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Phanyakawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675553,
+        1092048365,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7971900
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"eb4e7cb8cf533db5276cfed92d9433ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048365,
+            "locality_id":1327075951,
+            "region_id":85675553
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048365,
+            "locality_id":1327075951,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1327075951,
+    "wof:lastmodified":1536697912,
+    "wof:name":"Phanyakawa",
+    "wof:parent_id":1092048365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.00744,
+    29.06089,
+    84.00744,
+    29.06089
+],
+  "geometry": {"coordinates":[84.00744,29.06089],"type":"Point"}
+}

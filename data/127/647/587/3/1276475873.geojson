@@ -1,0 +1,78 @@
+{
+  "id": 1276475873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.45438,28.31952,82.45438,28.31952",
+    "geom:latitude":28.31952,
+    "geom:longitude":82.45438,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530024",
+    "gn:asciiname":"Tallo Jugar",
+    "gn:country_code":"NP",
+    "gn:dem":1544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7983771,
+    "gn:latitude":28.31952,
+    "gn:longitude":82.45438,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tallo Jugar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7983771
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b0296b327e58b4a6a25cedc4947f164b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1276475873,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1276475873,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1276475873,
+    "wof:lastmodified":1537081944,
+    "wof:name":"Tallo Jugar",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.45438,
+    28.31952,
+    82.45438,
+    28.31952
+],
+  "geometry": {"coordinates":[82.45438,28.31952],"type":"Point"}
+}

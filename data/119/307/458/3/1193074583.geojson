@@ -1,0 +1,78 @@
+{
+  "id": 1193074583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.39255,27.06861,86.39255,27.06861",
+    "geom:latitude":27.06861,
+    "geom:longitude":86.39255,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140012.0",
+    "gn:asciiname":"Chilaune",
+    "gn:country_code":"NP",
+    "gn:dem":1099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8006760,
+    "gn:latitude":27.06861,
+    "gn:longitude":86.39255,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chilaune",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050179,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8006760
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f7d1545da4b8f4e240c2a7932c341977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1193074583,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1193074583,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1193074583,
+    "wof:lastmodified":1536365166,
+    "wof:name":"Chilaune",
+    "wof:parent_id":1092050179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.39255,
+    27.06861,
+    86.39255,
+    27.06861
+],
+  "geometry": {"coordinates":[86.39255,27.06861],"type":"Point"}
+}

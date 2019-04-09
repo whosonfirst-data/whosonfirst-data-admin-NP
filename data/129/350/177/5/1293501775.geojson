@@ -1,0 +1,79 @@
+{
+  "id": 1293501775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.54375,30.06849,81.54375,30.06849",
+    "geom:latitude":30.06849,
+    "geom:longitude":81.54375,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Munchu",
+    "gn:country_code":"NP",
+    "gn:dem":3110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283029,
+    "gn:latitude":30.06849,
+    "gn:longitude":81.54375,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Munch\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Munchi",
+        "Munch\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050353,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283029
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4036b62bdc22f71649462dd21cdf45e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1293501775,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1293501775,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1293501775,
+    "wof:lastmodified":1537676047,
+    "wof:name":"Munchu",
+    "wof:parent_id":1092050353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.54375,
+    30.06849,
+    81.54375,
+    30.06849
+],
+  "geometry": {"coordinates":[81.54375,30.06849],"type":"Point"}
+}

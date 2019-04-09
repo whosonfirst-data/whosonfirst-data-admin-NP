@@ -1,0 +1,64 @@
+{
+  "id": 1209037643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.1345,29.47575,81.1345,29.47575",
+    "geom:latitude":29.47575,
+    "geom:longitude":81.1345,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680026",
+    "gn:asciiname":"Talla Bagar",
+    "gn:country_code":"NP",
+    "gn:dem":1235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7993773,
+    "gn:latitude":29.47575,
+    "gn:longitude":81.1345,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Talla Bagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7993773
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d74b88d115de3549ae0415627bf2304b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209037643
+        }
+    ],
+    "wof:id":1209037643,
+    "wof:lastmodified":1536299648,
+    "wof:name":"Talla Bagar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.1345,
+    29.47575,
+    81.1345,
+    29.47575
+],
+  "geometry": {"coordinates":[81.1345,29.47575],"type":"Point"}
+}

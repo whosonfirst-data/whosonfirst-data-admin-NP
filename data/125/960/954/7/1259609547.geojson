@@ -1,0 +1,78 @@
+{
+  "id": 1259609547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.66873,28.8059,81.66873,28.8059",
+    "geom:latitude":28.8059,
+    "geom:longitude":81.66873,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"60.0",
+    "gn:admin4_code":"600021.0",
+    "gn:asciiname":"Torayan",
+    "gn:country_code":"NP",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7937080,
+    "gn:latitude":28.8059,
+    "gn:longitude":81.66873,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Torayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092050583,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7937080
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"84f0eaa71a82fa339ae24af0ae999bf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1259609547,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1259609547,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1259609547,
+    "wof:lastmodified":1536677333,
+    "wof:name":"Torayan",
+    "wof:parent_id":1092050583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.66873000000002,
+    28.8059,
+    81.66873000000002,
+    28.8059
+],
+  "geometry": {"coordinates":[81.66873000000002,28.8059],"type":"Point"}
+}

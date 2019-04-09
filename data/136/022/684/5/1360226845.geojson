@@ -1,0 +1,78 @@
+{
+  "id": 1360226845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.02551,27.7071,85.02551,27.7071",
+    "geom:latitude":27.7071,
+    "geom:longitude":85.02551,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300005.0",
+    "gn:asciiname":"Masine",
+    "gn:country_code":"NP",
+    "gn:dem":1353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7941180,
+    "gn:latitude":27.7071,
+    "gn:longitude":85.02551,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Masine",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7941180
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bd92a1fa7cb3f45aaf251aade746dcc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1360226845,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1360226845,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1360226845,
+    "wof:lastmodified":1536740988,
+    "wof:name":"Masine",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.02551,
+    27.7071,
+    85.02551,
+    27.7071
+],
+  "geometry": {"coordinates":[85.02551,27.7071],"type":"Point"}
+}

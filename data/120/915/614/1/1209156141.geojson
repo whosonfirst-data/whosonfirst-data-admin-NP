@@ -1,0 +1,64 @@
+{
+  "id": 1209156141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.40577,28.31547,84.40577,28.31547",
+    "geom:latitude":28.31547,
+    "geom:longitude":84.40577,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370002",
+    "gn:asciiname":"Dobhanchaur",
+    "gn:country_code":"NP",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7965874,
+    "gn:latitude":28.31547,
+    "gn:longitude":84.40577,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dobhanchaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7965874
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5d53629435e34a67a16d6f6931ae2fc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209156141
+        }
+    ],
+    "wof:id":1209156141,
+    "wof:lastmodified":1536296048,
+    "wof:name":"Dobhanchaur",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.40576999999998,
+    28.31547,
+    84.40576999999998,
+    28.31547
+],
+  "geometry": {"coordinates":[84.40576999999998,28.31547],"type":"Point"}
+}

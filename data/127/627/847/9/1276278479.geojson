@@ -1,0 +1,78 @@
+{
+  "id": 1276278479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.13382,27.99939,84.13382,27.99939",
+    "geom:latitude":27.99939,
+    "geom:longitude":84.13382,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380012.0",
+    "gn:asciiname":"Kusunde",
+    "gn:country_code":"NP",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003141,
+    "gn:latitude":27.99939,
+    "gn:longitude":84.13382,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kusunde",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003141
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"762126f16fcca61a4c6c7a03fe0e93ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1276278479,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1276278479,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1276278479,
+    "wof:lastmodified":1536851125,
+    "wof:name":"Kusunde",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.13382,
+    27.99939,
+    84.13382,
+    27.99939
+],
+  "geometry": {"coordinates":[84.13382,27.99939],"type":"Point"}
+}

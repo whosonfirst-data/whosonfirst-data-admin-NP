@@ -1,0 +1,78 @@
+{
+  "id": 1310529729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.69168,28.26082,82.69168,28.26082",
+    "geom:latitude":28.26082,
+    "geom:longitude":82.69168,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530033",
+    "gn:asciiname":"Sherukharka",
+    "gn:country_code":"NP",
+    "gn:dem":1644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7984118,
+    "gn:latitude":28.26082,
+    "gn:longitude":82.69168,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sherukharka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7984118
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"775ba50bf207d21f1e28b2a4e2994cd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1310529729,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1310529729,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1310529729,
+    "wof:lastmodified":1536881345,
+    "wof:name":"Sherukharka",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.69168,
+    28.26082,
+    82.69168,
+    28.26082
+],
+  "geometry": {"coordinates":[82.69168000000001,28.26082],"type":"Point"}
+}

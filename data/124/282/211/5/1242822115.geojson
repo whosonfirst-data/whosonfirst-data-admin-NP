@@ -1,0 +1,78 @@
+{
+  "id": 1242822115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.47352,28.12566,83.47352,28.12566",
+    "geom:latitude":28.12566,
+    "geom:longitude":83.47352,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"46.0",
+    "gn:admin4_code":"460071.0",
+    "gn:asciiname":"Bhaluswanra",
+    "gn:country_code":"NP",
+    "gn:dem":1646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7950637,
+    "gn:latitude":28.12566,
+    "gn:longitude":83.47352,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhaluswanra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050755,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7950637
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"989863b8c18007429d4fbc84a3d33537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1242822115,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1242822115,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1242822115,
+    "wof:lastmodified":1536711825,
+    "wof:name":"Bhaluswanra",
+    "wof:parent_id":1092050755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.47352,
+    28.12566,
+    83.47352,
+    28.12566
+],
+  "geometry": {"coordinates":[83.47351999999999,28.12566],"type":"Point"}
+}

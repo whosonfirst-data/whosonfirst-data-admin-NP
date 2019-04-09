@@ -1,0 +1,64 @@
+{
+  "id": 1209356323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.25138,27.72455,83.25138,27.72455",
+    "geom:latitude":27.72455,
+    "geom:longitude":83.25138,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"49",
+    "gn:admin4_code":"490059",
+    "gn:asciiname":"Sakhui",
+    "gn:country_code":"NP",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7987641,
+    "gn:latitude":27.72455,
+    "gn:longitude":83.25138,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sakhui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7987641
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e886658ee322b6a963c4ba54862cf278",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209356323
+        }
+    ],
+    "wof:id":1209356323,
+    "wof:lastmodified":1536289572,
+    "wof:name":"Sakhui",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.25138000000003,
+    27.72455,
+    83.25138000000003,
+    27.72455
+],
+  "geometry": {"coordinates":[83.25138000000003,27.72455],"type":"Point"}
+}

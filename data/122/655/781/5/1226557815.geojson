@@ -1,0 +1,78 @@
+{
+  "id": 1226557815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.58573,26.98,87.58573,26.98",
+    "geom:latitude":26.98,
+    "geom:longitude":87.58573,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Madibun",
+    "gn:country_code":"NP",
+    "gn:dem":1234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11606566,
+    "gn:latitude":26.98,
+    "gn:longitude":87.58573,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"M\u0101dibu\u1e45",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "M\u0101dibu\u1e45"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11606566
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"30fc14f11b7dcf9ff9f38d745c437b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1226557815,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1226557815,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1226557815,
+    "wof:lastmodified":1537676127,
+    "wof:name":"Madibun",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.58573,
+    26.98,
+    87.58573,
+    26.98
+],
+  "geometry": {"coordinates":[87.58573,26.98],"type":"Point"}
+}

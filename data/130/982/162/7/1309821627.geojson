@@ -1,0 +1,81 @@
+{
+  "id": 1309821627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.61559,27.72299,85.61559,27.72299",
+    "geom:latitude":27.72299,
+    "geom:longitude":85.61559,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Hiuwapati",
+    "gn:country_code":"NP",
+    "gn:dem":891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10321041,
+    "gn:latitude":27.72299,
+    "gn:longitude":85.61559,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Hiuw\u0101p\u0101\u1e6di\u0307\u0304",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Hiuw\u0101p\u0101\u1e6di\u0307\u0304"
+    ],
+    "name:nep_x_variant":[
+        "Hiuw\u0101p\u0101\u1e6d\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10321041
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8a7e2c3be34e0732c4332e5cc10869ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1309821627,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1309821627,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1309821627,
+    "wof:lastmodified":1537676083,
+    "wof:name":"Hiuwapati",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.61559,
+    27.72299000000001,
+    85.61559,
+    27.72299000000001
+],
+  "geometry": {"coordinates":[85.61559,27.72299000000001],"type":"Point"}
+}

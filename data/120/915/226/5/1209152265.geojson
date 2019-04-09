@@ -1,0 +1,64 @@
+{
+  "id": 1209152265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.59024,27.04135,87.59024,27.04135",
+    "geom:latitude":27.04135,
+    "geom:longitude":87.59024,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"2",
+    "gn:admin4_code":"20041",
+    "gn:asciiname":"Hoklumba",
+    "gn:country_code":"NP",
+    "gn:dem":910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7978176,
+    "gn:latitude":27.04135,
+    "gn:longitude":87.59024,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Hoklumba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7978176
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f7e9bae3ec9cf93a5de3c5085ee2cd5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209152265
+        }
+    ],
+    "wof:id":1209152265,
+    "wof:lastmodified":1536296165,
+    "wof:name":"Hoklumba",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.59024000000002,
+    27.04135,
+    87.59024000000002,
+    27.04135
+],
+  "geometry": {"coordinates":[87.59024000000002,27.04135],"type":"Point"}
+}

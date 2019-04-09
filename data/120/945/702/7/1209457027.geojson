@@ -1,0 +1,64 @@
+{
+  "id": 1209457027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.83061,26.91775,85.83061,26.91775",
+    "geom:latitude":26.91775,
+    "geom:longitude":85.83061,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"18",
+    "gn:admin4_code":"180028",
+    "gn:asciiname":"Itatar",
+    "gn:country_code":"NP",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7967349,
+    "gn:latitude":26.91775,
+    "gn:longitude":85.83061,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Itatar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7967349
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2fd521bb6c0f4fe46bfa14fa77b2a8f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209457027
+        }
+    ],
+    "wof:id":1209457027,
+    "wof:lastmodified":1536286502,
+    "wof:name":"Itatar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.83061,
+    26.91775,
+    85.83061,
+    26.91775
+],
+  "geometry": {"coordinates":[85.83060999999999,26.91775],"type":"Point"}
+}

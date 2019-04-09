@@ -1,0 +1,78 @@
+{
+  "id": 1226585613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.05315,28.24232,84.05315,28.24232",
+    "geom:latitude":28.24232,
+    "geom:longitude":84.05315,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400001.0",
+    "gn:asciiname":"Thumki",
+    "gn:country_code":"NP",
+    "gn:dem":973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7960205,
+    "gn:latitude":28.24232,
+    "gn:longitude":84.05315,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thumki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092049331,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7960205
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ca6a0de9a460ffc4f06cdac307f8090d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1226585613,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1226585613,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1226585613,
+    "wof:lastmodified":1536943363,
+    "wof:name":"Thumki",
+    "wof:parent_id":1092049331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.05315,
+    28.24232,
+    84.05315,
+    28.24232
+],
+  "geometry": {"coordinates":[84.05315,28.24232],"type":"Point"}
+}

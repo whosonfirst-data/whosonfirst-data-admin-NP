@@ -1,0 +1,78 @@
+{
+  "id": 1343487755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.78837,30.03797,81.78837,30.03797",
+    "geom:latitude":30.03797,
+    "geom:longitude":81.78837,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"66.0",
+    "gn:admin4_code":"660007.0",
+    "gn:asciiname":"Lek Hepka",
+    "gn:country_code":"NP",
+    "gn:dem":3510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7950871,
+    "gn:latitude":30.03797,
+    "gn:longitude":81.78837,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lek Hepka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050353,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7950871
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"32dd882343c92f4ac6fb4b78cffb7497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1343487755,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1343487755,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1343487755,
+    "wof:lastmodified":1536707180,
+    "wof:name":"Lek Hepka",
+    "wof:parent_id":1092050353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.78837,
+    30.03797,
+    81.78837,
+    30.03797
+],
+  "geometry": {"coordinates":[81.78837,30.03797],"type":"Point"}
+}

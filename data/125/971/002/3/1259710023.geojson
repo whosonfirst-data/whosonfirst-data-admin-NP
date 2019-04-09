@@ -1,0 +1,78 @@
+{
+  "id": 1259710023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.08694,29.00281,81.08694,29.00281",
+    "geom:latitude":29.00281,
+    "geom:longitude":81.08694,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"70.0",
+    "gn:admin4_code":"700025.0",
+    "gn:asciiname":"Melta",
+    "gn:country_code":"NP",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7946815,
+    "gn:latitude":29.00281,
+    "gn:longitude":81.08694,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Melta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048653,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7946815
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a395321c865767df6c16b257e3e56c2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1259710023,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1259710023,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1259710023,
+    "wof:lastmodified":1537027767,
+    "wof:name":"Melta",
+    "wof:parent_id":1092048653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.08694,
+    29.00281,
+    81.08694,
+    29.00281
+],
+  "geometry": {"coordinates":[81.08694,29.00281],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209138593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.998,28.49288,80.998,28.49288",
+    "geom:latitude":28.49288,
+    "geom:longitude":80.998,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710004.0",
+    "gn:asciiname":"Dhusi",
+    "gn:country_code":"NP",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956285,
+    "gn:latitude":28.49288,
+    "gn:longitude":80.998,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhusi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956285
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"30902818ed735601edd7984bc87fb074",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209138593
+        }
+    ],
+    "wof:id":1209138593,
+    "wof:lastmodified":1536296578,
+    "wof:name":"Dhusi",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.998,
+    28.49288,
+    80.998,
+    28.49288
+],
+  "geometry": {"coordinates":[80.998,28.49288],"type":"Point"}
+}

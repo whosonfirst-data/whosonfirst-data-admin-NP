@@ -1,0 +1,78 @@
+{
+  "id": 1277118615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.76681,27.72443,84.76681,27.72443",
+    "geom:latitude":27.72443,
+    "geom:longitude":84.76681,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"35.0",
+    "gn:admin4_code":"350024.0",
+    "gn:asciiname":"Mairang",
+    "gn:country_code":"NP",
+    "gn:dem":1376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7934800,
+    "gn:latitude":27.72443,
+    "gn:longitude":84.76681,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mairang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7934800
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"013145a367b74cc2cbf2ac51432bdb88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1277118615,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1277118615,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1277118615,
+    "wof:lastmodified":1536716277,
+    "wof:name":"Mairang",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.76680999999998,
+    27.72443,
+    84.76680999999998,
+    27.72443
+],
+  "geometry": {"coordinates":[84.76680999999998,27.72443],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1277118263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.5236,28.19866,84.5236,28.19866",
+    "geom:latitude":28.19866,
+    "geom:longitude":84.5236,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370044",
+    "gn:asciiname":"Upallo Pachok",
+    "gn:country_code":"NP",
+    "gn:dem":1517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7966868,
+    "gn:latitude":28.19866,
+    "gn:longitude":84.5236,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Upallo Pachok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050009,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7966868
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6eb665e48dfcf04aef5ab8adc5ff7e01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1277118263,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1277118263,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1277118263,
+    "wof:lastmodified":1536716735,
+    "wof:name":"Upallo Pachok",
+    "wof:parent_id":1092050009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.5236,
+    28.19866,
+    84.5236,
+    28.19866
+],
+  "geometry": {"coordinates":[84.5236,28.19866],"type":"Point"}
+}

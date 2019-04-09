@@ -1,0 +1,78 @@
+{
+  "id": 1243198603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.72268,29.50772,82.72268,29.50772",
+    "geom:latitude":29.50772,
+    "geom:longitude":82.72268,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"65",
+    "gn:admin4_code":"650003",
+    "gn:asciiname":"Jhongpala Bhanjyang",
+    "gn:country_code":"NP",
+    "gn:dem":4680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7971408,
+    "gn:latitude":29.50772,
+    "gn:longitude":82.72268,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jhongpala Bhanjyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092048339,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7971408
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b3de7d0a6ac28a0c19de0b0df02be77d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048339,
+            "locality_id":1243198603,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048339,
+            "locality_id":1243198603,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1243198603,
+    "wof:lastmodified":1536666025,
+    "wof:name":"Jhongpala Bhanjyang",
+    "wof:parent_id":1092048339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.72268000000003,
+    29.50772000000001,
+    82.72268000000003,
+    29.50772000000001
+],
+  "geometry": {"coordinates":[82.72268000000003,29.50772000000001],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1243464097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.44348,27.92188,85.44348,27.92188",
+    "geom:latitude":27.92188,
+    "geom:longitude":85.44348,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Manlintol",
+    "gn:country_code":"NP",
+    "gn:dem":1588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10317052,
+    "gn:latitude":27.92188,
+    "gn:longitude":85.44348,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"M\u0101nli\u1e45\u1e6dol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "M\u0101ngli\u1e45\u1e6dol"
+    ],
+    "name:und_x_variant":[
+        "M\u0101nli\u1e45\u1e6dol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10317052
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c8c218faae05d2bb7032732fbe358df6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1243464097,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1243464097,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1243464097,
+    "wof:lastmodified":1537676080,
+    "wof:name":"Manlintol",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.44348000000002,
+    27.92188,
+    85.44348000000002,
+    27.92188
+],
+  "geometry": {"coordinates":[85.44348000000002,27.92188],"type":"Point"}
+}

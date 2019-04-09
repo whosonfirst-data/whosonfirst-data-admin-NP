@@ -1,0 +1,78 @@
+{
+  "id": 1326878529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.02225,27.87589,85.02225,27.87589",
+    "geom:latitude":27.87589,
+    "geom:longitude":85.02225,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"28",
+    "gn:admin4_code":"280009.0",
+    "gn:asciiname":"Newarpani",
+    "gn:country_code":"NP",
+    "gn:dem":1101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7973785,
+    "gn:latitude":27.87589,
+    "gn:longitude":85.02225,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Newarpani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7973785
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"85da0f5fbe81a67b972e95b5537820fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1326878529,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1326878529,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1326878529,
+    "wof:lastmodified":1536981575,
+    "wof:name":"Newarpani",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.02225,
+    27.87589,
+    85.02225,
+    27.87589
+],
+  "geometry": {"coordinates":[85.02225,27.87589],"type":"Point"}
+}

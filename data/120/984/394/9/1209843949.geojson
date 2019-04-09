@@ -1,0 +1,78 @@
+{
+  "id": 1209843949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.2949,29.17101,81.2949,29.17101",
+    "geom:latitude":29.17101,
+    "geom:longitude":81.2949,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"69",
+    "gn:admin4_code":"690037",
+    "gn:asciiname":"Bandegadi",
+    "gn:country_code":"NP",
+    "gn:dem":939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7994228,
+    "gn:latitude":29.17101,
+    "gn:longitude":81.2949,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bandegadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048527,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7994228
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"16fc989a05231cbc9024eff5a0f3f6a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1209843949,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1209843949,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1209843949,
+    "wof:lastmodified":1536391510,
+    "wof:name":"Bandegadi",
+    "wof:parent_id":1092048527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.2949,
+    29.17101,
+    81.2949,
+    29.17101
+],
+  "geometry": {"coordinates":[81.2949,29.17101],"type":"Point"}
+}

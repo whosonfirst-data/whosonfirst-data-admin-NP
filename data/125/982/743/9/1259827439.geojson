@@ -1,0 +1,78 @@
+{
+  "id": 1259827439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.45157,28.2047,83.45157,28.2047",
+    "geom:latitude":28.2047,
+    "geom:longitude":83.45157,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450027.0",
+    "gn:asciiname":"Kharuwa",
+    "gn:country_code":"NP",
+    "gn:dem":1524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956558,
+    "gn:latitude":28.2047,
+    "gn:longitude":83.45157,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kharuwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956558
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e6208f0f321a24f6bfcd2860b331af7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1259827439,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1259827439,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1259827439,
+    "wof:lastmodified":1536858689,
+    "wof:name":"Kharuwa",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.45156999999998,
+    28.2047,
+    83.45156999999998,
+    28.2047
+],
+  "geometry": {"coordinates":[83.45156999999998,28.2047],"type":"Point"}
+}

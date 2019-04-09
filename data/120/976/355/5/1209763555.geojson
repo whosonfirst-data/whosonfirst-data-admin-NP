@@ -1,0 +1,78 @@
+{
+  "id": 1209763555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.56355,27.89213,83.56355,27.89213",
+    "geom:latitude":27.89213,
+    "geom:longitude":83.56355,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"47",
+    "gn:admin4_code":"470012.0",
+    "gn:asciiname":"Jir Bhanjang",
+    "gn:country_code":"NP",
+    "gn:dem":1114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7975967,
+    "gn:latitude":27.89213,
+    "gn:longitude":83.56355,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jir Bhanjang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050889,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7975967
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b15300344cbaaabba15f4f08edab75d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1209763555,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1209763555,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1209763555,
+    "wof:lastmodified":1536387438,
+    "wof:name":"Jir Bhanjang",
+    "wof:parent_id":1092050889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.56355,
+    27.89213,
+    83.56355,
+    27.89213
+],
+  "geometry": {"coordinates":[83.56355000000001,27.89213],"type":"Point"}
+}

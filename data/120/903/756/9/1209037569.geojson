@@ -1,0 +1,64 @@
+{
+  "id": 1209037569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.03658,29.83684,82.03658,29.83684",
+    "geom:latitude":29.83684,
+    "geom:longitude":82.03658,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"66.0",
+    "gn:admin4_code":"660020.0",
+    "gn:asciiname":"Munkhati Lek",
+    "gn:country_code":"NP",
+    "gn:dem":4412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7951201,
+    "gn:latitude":29.83684,
+    "gn:longitude":82.03658,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Munkhati Lek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7951201
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e6d7106d9c615284d0ece5286decd9c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209037569
+        }
+    ],
+    "wof:id":1209037569,
+    "wof:lastmodified":1536299650,
+    "wof:name":"Munkhati Lek",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.03658,
+    29.83684,
+    82.03658,
+    29.83684
+],
+  "geometry": {"coordinates":[82.03658,29.83684],"type":"Point"}
+}

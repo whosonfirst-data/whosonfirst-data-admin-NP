@@ -1,0 +1,79 @@
+{
+  "id": 890422351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.5,26.66667,87.5,26.66667",
+    "geom:latitude":26.66667,
+    "geom:longitude":87.5,
+    "gn:country":"NP",
+    "gn:fcode":"ADM3",
+    "gn:pop":908459,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Morang District"
+    ],
+    "qs:name":"Morang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"11",
+    "src:population":"geonames",
+    "wd:wordcount":1087,
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092048303,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283040,
+        "qs:id":555732,
+        "wd:id":"Q28083",
+        "wk:page":"Morang District"
+    },
+    "wof:country":"NP",
+    "wof:created":1469051438,
+    "wof:geomhash":"a09766ae18aefc53260f0d1e411d0b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "localadmin_id":890422351,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "localadmin_id":890422351,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":890422351,
+    "wof:lastmodified":1527727162,
+    "wof:name":"Morang",
+    "wof:parent_id":1092048303,
+    "wof:placetype":"localadmin",
+    "wof:population":908459,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.5,
+    26.66667,
+    87.5,
+    26.66667
+],
+  "geometry": {"coordinates":[87.5,26.66667],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293010289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.33102,27.08052,85.33102,27.08052",
+    "geom:latitude":27.08052,
+    "geom:longitude":85.33102,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Santapurmatiyon",
+    "gn:country_code":"NP",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10331151,
+    "gn:latitude":27.08052,
+    "gn:longitude":85.33102,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Santapurma\u1e6diyon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049419,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10331151
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6a7549d1f4e5a52396c1a1a26d4ff4cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1293010289,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1293010289,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1293010289,
+    "wof:lastmodified":1536977291,
+    "wof:name":"Santapurmatiyon",
+    "wof:parent_id":1092049419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.33102,
+    27.08052,
+    85.33102,
+    27.08052
+],
+  "geometry": {"coordinates":[85.33102,27.08052],"type":"Point"}
+}

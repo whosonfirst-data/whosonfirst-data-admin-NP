@@ -1,0 +1,67 @@
+{
+  "id": 1209224341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.2061,27.97325,82.2061,27.97325",
+    "geom:latitude":27.97325,
+    "geom:longitude":82.2061,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Amiliya",
+    "gn:country_code":"NP",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283738,
+    "gn:latitude":27.97325,
+    "gn:longitude":82.2061,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Amiliy\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Amiliy\u0101"
+    ],
+    "name:und_x_variant":[
+        "Amile"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283738
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d53e17f97b3eb01f83ccfd8e3cfbb054",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209224341
+        }
+    ],
+    "wof:id":1209224341,
+    "wof:lastmodified":1537676065,
+    "wof:name":"Amiliya",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.2061,
+    27.97325,
+    82.2061,
+    27.97325
+],
+  "geometry": {"coordinates":[82.20610000000001,27.97325],"type":"Point"}
+}

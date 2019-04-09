@@ -1,0 +1,76 @@
+{
+  "id": 1293617303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.96617,29.41138,81.96617,29.41138",
+    "geom:latitude":29.41138,
+    "geom:longitude":81.96617,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6.0",
+    "gn:asciiname":"Pandugupha",
+    "gn:country_code":"NP",
+    "gn:dem":2879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8469128,
+    "gn:latitude":29.41138,
+    "gn:longitude":81.96617,
+    "gn:modification_date":"2013-03-03",
+    "gn:name":"Pandugupha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092050797,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8469128
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"34630a7e5c2bd957eada5ffbc2de26b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1293617303,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1293617303,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1293617303,
+    "wof:lastmodified":1537093986,
+    "wof:name":"Pandugupha",
+    "wof:parent_id":1092050797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.96616999999998,
+    29.41138,
+    81.96616999999998,
+    29.41138
+],
+  "geometry": {"coordinates":[81.96616999999998,29.41138],"type":"Point"}
+}

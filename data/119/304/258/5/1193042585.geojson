@@ -1,0 +1,78 @@
+{
+  "id": 1193042585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.04928,28.62712,81.04928,28.62712",
+    "geom:latitude":28.62712,
+    "geom:longitude":81.04928,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710011.0",
+    "gn:asciiname":"Thakurdwara",
+    "gn:country_code":"NP",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956498,
+    "gn:latitude":28.62712,
+    "gn:longitude":81.04928,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thakurdwara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956498
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"acab7b7308dc58435e376aac9d508b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1193042585,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1193042585,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1193042585,
+    "wof:lastmodified":1536374361,
+    "wof:name":"Thakurdwara",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.04928000000002,
+    28.62712,
+    81.04928000000002,
+    28.62712
+],
+  "geometry": {"coordinates":[81.04928000000002,28.62712],"type":"Point"}
+}

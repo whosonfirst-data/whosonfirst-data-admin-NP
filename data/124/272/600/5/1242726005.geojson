@@ -1,0 +1,78 @@
+{
+  "id": 1242726005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.03353,26.84907,88.03353,26.84907",
+    "geom:latitude":26.84907,
+    "geom:longitude":88.03353,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30043.0",
+    "gn:asciiname":"Jurepairo",
+    "gn:country_code":"NP",
+    "gn:dem":1111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7952590,
+    "gn:latitude":26.84907,
+    "gn:longitude":88.03353,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jurepairo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7952590
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b9d8d72395bfb5ea673da09b3741bcbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1242726005,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1242726005,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1242726005,
+    "wof:lastmodified":1536849014,
+    "wof:name":"Jurepairo",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.03353,
+    26.84907,
+    88.03353,
+    26.84907
+],
+  "geometry": {"coordinates":[88.03353,26.84907],"type":"Point"}
+}

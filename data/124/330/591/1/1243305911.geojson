@@ -1,0 +1,79 @@
+{
+  "id": 1243305911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.99095,27.11484,85.99095,27.11484",
+    "geom:latitude":27.11484,
+    "geom:longitude":85.99095,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200025",
+    "gn:asciiname":"Ranichuri",
+    "gn:country_code":"NP",
+    "gn:dem":805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7993139,
+    "gn:latitude":27.11484,
+    "gn:longitude":85.99095,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ranichuri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049679,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7993139,
+        "wk:page":"Ranichauri"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cd1d9db860a8ec5fff7733602dd08237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1243305911,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1243305911,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1243305911,
+    "wof:lastmodified":1537570155,
+    "wof:name":"Ranichuri",
+    "wof:parent_id":1092049679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.99095,
+    27.11484,
+    85.99095,
+    27.11484
+],
+  "geometry": {"coordinates":[85.99095,27.11484],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226380663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.60397,27.07336,85.60397,27.07336",
+    "geom:latitude":27.07336,
+    "geom:longitude":85.60397,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"19",
+    "gn:admin4_code":"190073",
+    "gn:asciiname":"Nawalpur",
+    "gn:country_code":"NP",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7992067,
+    "gn:latitude":27.07336,
+    "gn:longitude":85.60397,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nawalpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092049639,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7992067
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f66cf1992c653a351ec085a372bda932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049639,
+            "locality_id":1226380663,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049639,
+            "locality_id":1226380663,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1226380663,
+    "wof:lastmodified":1536739085,
+    "wof:name":"Nawalpur",
+    "wof:parent_id":1092049639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.60396999999998,
+    27.07336,
+    85.60396999999998,
+    27.07336
+],
+  "geometry": {"coordinates":[85.60396999999998,27.07336],"type":"Point"}
+}

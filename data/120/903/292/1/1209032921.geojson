@@ -1,0 +1,64 @@
+{
+  "id": 1209032921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.73687,28.92629,80.73687,28.92629",
+    "geom:latitude":28.92629,
+    "geom:longitude":80.73687,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710020.0",
+    "gn:asciiname":"Rajaura",
+    "gn:country_code":"NP",
+    "gn:dem":1129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956758,
+    "gn:latitude":28.92629,
+    "gn:longitude":80.73687,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Rajaura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956758
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a8ef34ba7a911f66faed7048ea6c12f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209032921
+        }
+    ],
+    "wof:id":1209032921,
+    "wof:lastmodified":1536299791,
+    "wof:name":"Rajaura",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.73687,
+    28.92629,
+    80.73687,
+    28.92629
+],
+  "geometry": {"coordinates":[80.73687,28.92629],"type":"Point"}
+}

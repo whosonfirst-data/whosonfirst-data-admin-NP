@@ -1,0 +1,64 @@
+{
+  "id": 1209156269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.19091,27.60643,83.19091,27.60643",
+    "geom:latitude":27.60643,
+    "geom:longitude":83.19091,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"50.0",
+    "gn:admin4_code":"500059.0",
+    "gn:asciiname":"Naudihawa",
+    "gn:country_code":"NP",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7959958,
+    "gn:latitude":27.60643,
+    "gn:longitude":83.19091,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Naudihawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7959958
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"55516a0c7ccf468394f8dbe9385c5982",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209156269
+        }
+    ],
+    "wof:id":1209156269,
+    "wof:lastmodified":1536296045,
+    "wof:name":"Naudihawa",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.19091,
+    27.60643,
+    83.19091,
+    27.60643
+],
+  "geometry": {"coordinates":[83.19091,27.60643],"type":"Point"}
+}

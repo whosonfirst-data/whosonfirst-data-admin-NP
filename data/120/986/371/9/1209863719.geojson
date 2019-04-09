@@ -1,0 +1,78 @@
+{
+  "id": 1209863719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.44796,28.0085,84.44796,28.0085",
+    "geom:latitude":28.0085,
+    "geom:longitude":84.44796,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380007.0",
+    "gn:asciiname":"Banpale",
+    "gn:country_code":"NP",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002953,
+    "gn:latitude":28.0085,
+    "gn:longitude":84.44796,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Banpale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002953
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5896c023e4dd862ee5a8029f01540209",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1209863719,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1209863719,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1209863719,
+    "wof:lastmodified":1536380957,
+    "wof:name":"Banpale",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.44796,
+    28.0085,
+    84.44796,
+    28.0085
+],
+  "geometry": {"coordinates":[84.44795999999999,28.0085],"type":"Point"}
+}

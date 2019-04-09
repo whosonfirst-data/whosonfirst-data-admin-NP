@@ -1,0 +1,78 @@
+{
+  "id": 1193069561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.62883,28.00287,83.62883,28.00287",
+    "geom:latitude":28.00287,
+    "geom:longitude":83.62883,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390043.0",
+    "gn:asciiname":"Salbuta",
+    "gn:country_code":"NP",
+    "gn:dem":738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001751,
+    "gn:latitude":28.00287,
+    "gn:longitude":83.62883,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Salbuta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001751
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ef0d1be303a8ace94318e16d4dc7acba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1193069561,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1193069561,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1193069561,
+    "wof:lastmodified":1536369162,
+    "wof:name":"Salbuta",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.62883000000002,
+    28.00287,
+    83.62883000000002,
+    28.00287
+],
+  "geometry": {"coordinates":[83.62883000000002,28.00287],"type":"Point"}
+}

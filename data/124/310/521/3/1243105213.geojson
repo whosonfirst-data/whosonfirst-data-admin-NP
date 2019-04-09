@@ -1,0 +1,78 @@
+{
+  "id": 1243105213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.61136,27.4439,87.61136,27.4439",
+    "geom:latitude":27.4439,
+    "geom:longitude":87.61136,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10047.0",
+    "gn:asciiname":"Thukima",
+    "gn:country_code":"NP",
+    "gn:dem":1264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005774,
+    "gn:latitude":27.4439,
+    "gn:longitude":87.61136,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thukima",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005774
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bd71b439a560790feed7c61a32b51604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1243105213,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1243105213,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1243105213,
+    "wof:lastmodified":1536800345,
+    "wof:name":"Thukima",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.61135999999998,
+    27.4439,
+    87.61135999999998,
+    27.4439
+],
+  "geometry": {"coordinates":[87.61135999999998,27.4439],"type":"Point"}
+}

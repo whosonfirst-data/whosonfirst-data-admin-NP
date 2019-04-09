@@ -1,0 +1,78 @@
+{
+  "id": 1243301753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.75742,27.50364,85.75742,27.50364",
+    "geom:latitude":27.50364,
+    "geom:longitude":85.75742,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240048.0",
+    "gn:asciiname":"Kuruwas",
+    "gn:country_code":"NP",
+    "gn:dem":1777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7963269,
+    "gn:latitude":27.50364,
+    "gn:longitude":85.75742,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kuruwas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7963269
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7d261a4b6d633075257f023f8c2d07aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1243301753,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1243301753,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1243301753,
+    "wof:lastmodified":1537013381,
+    "wof:name":"Kuruwas",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.75742,
+    27.50364,
+    85.75742,
+    27.50364
+],
+  "geometry": {"coordinates":[85.75742,27.50364],"type":"Point"}
+}

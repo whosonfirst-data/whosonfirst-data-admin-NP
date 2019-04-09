@@ -1,0 +1,78 @@
+{
+  "id": 1360033427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.03911,27.16593,87.03911,27.16593",
+    "geom:latitude":27.16593,
+    "geom:longitude":87.03911,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100008.0",
+    "gn:asciiname":"Tapu",
+    "gn:country_code":"NP",
+    "gn:dem":1384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7932746,
+    "gn:latitude":27.16593,
+    "gn:longitude":87.03911,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tapu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7932746
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"02b00c126e740609688968409ef7fd1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1360033427,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1360033427,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1360033427,
+    "wof:lastmodified":1537019441,
+    "wof:name":"Tapu",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.03911,
+    27.16593,
+    87.03911,
+    27.16593
+],
+  "geometry": {"coordinates":[87.03910999999999,27.16593],"type":"Point"}
+}

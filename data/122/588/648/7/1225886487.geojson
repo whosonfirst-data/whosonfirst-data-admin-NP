@@ -1,0 +1,78 @@
+{
+  "id": 1225886487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.95273,26.69988,87.95273,26.69988",
+    "geom:latitude":26.69988,
+    "geom:longitude":87.95273,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40029.0",
+    "gn:asciiname":"Jukekhadi",
+    "gn:country_code":"NP",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7954771,
+    "gn:latitude":26.69988,
+    "gn:longitude":87.95273,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jukekhadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7954771
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8019ec5a787b17e6e9368ebd421468c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1225886487,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1225886487,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1225886487,
+    "wof:lastmodified":1536955011,
+    "wof:name":"Jukekhadi",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.95273,
+    26.69988,
+    87.95273,
+    26.69988
+],
+  "geometry": {"coordinates":[87.95273,26.69988],"type":"Point"}
+}

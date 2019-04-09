@@ -1,0 +1,78 @@
+{
+  "id": 1310138665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.44601,28.17032,81.44601,28.17032",
+    "geom:latitude":28.17032,
+    "geom:longitude":81.44601,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"58.0",
+    "gn:admin4_code":"580013.0",
+    "gn:asciiname":"Purano Kanthapur",
+    "gn:country_code":"NP",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009669,
+    "gn:latitude":28.17032,
+    "gn:longitude":81.44601,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Purano Kanthapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048097,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009669
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2ae2b6b420da7bee3edd07a6268d6b05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1310138665,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1310138665,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1310138665,
+    "wof:lastmodified":1536949004,
+    "wof:name":"Purano Kanthapur",
+    "wof:parent_id":1092048097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.44601,
+    28.17032,
+    81.44601,
+    28.17032
+],
+  "geometry": {"coordinates":[81.44601,28.17032],"type":"Point"}
+}

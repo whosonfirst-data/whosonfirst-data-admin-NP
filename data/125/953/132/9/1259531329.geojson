@@ -1,0 +1,78 @@
+{
+  "id": 1259531329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.32095,27.44194,83.32095,27.44194",
+    "geom:latitude":27.44194,
+    "geom:longitude":83.32095,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"49",
+    "gn:admin4_code":"490066.0",
+    "gn:asciiname":"Thaparaspur",
+    "gn:country_code":"NP",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7987764,
+    "gn:latitude":27.44194,
+    "gn:longitude":83.32095,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thaparaspur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048457,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7987764
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"42f89dd7753d42a1b4aec5234434e747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1259531329,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1259531329,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1259531329,
+    "wof:lastmodified":1536790467,
+    "wof:name":"Thaparaspur",
+    "wof:parent_id":1092048457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.32095,
+    27.44194,
+    83.32095,
+    27.44194
+],
+  "geometry": {"coordinates":[83.32095,27.44194],"type":"Point"}
+}

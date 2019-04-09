@@ -1,0 +1,78 @@
+{
+  "id": 1343709665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.73782,28.00677,83.73782,28.00677",
+    "geom:latitude":28.00677,
+    "geom:longitude":83.73782,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390060.0",
+    "gn:asciiname":"Dharthapa",
+    "gn:country_code":"NP",
+    "gn:dem":965,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002429,
+    "gn:latitude":28.00677,
+    "gn:longitude":83.73782,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dharthapa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002429
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d467a76c3779261063d7b84201e4e628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1343709665,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1343709665,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1343709665,
+    "wof:lastmodified":1536883589,
+    "wof:name":"Dharthapa",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.73782,
+    28.00677,
+    83.73782,
+    28.00677
+],
+  "geometry": {"coordinates":[83.73782,28.00677],"type":"Point"}
+}

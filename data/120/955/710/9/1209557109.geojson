@@ -1,0 +1,64 @@
+{
+  "id": 1209557109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.87571,28.12127,83.87571,28.12127",
+    "geom:latitude":28.12127,
+    "geom:longitude":83.87571,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390044.0",
+    "gn:asciiname":"Phapardanda",
+    "gn:country_code":"NP",
+    "gn:dem":1101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001816,
+    "gn:latitude":28.12127,
+    "gn:longitude":83.87571,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Phapardanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001816
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"04f2ffebe02154e58c344740f08d6c88",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209557109
+        }
+    ],
+    "wof:id":1209557109,
+    "wof:lastmodified":1536283510,
+    "wof:name":"Phapardanda",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.87571,
+    28.121270000000006,
+    83.87571,
+    28.121270000000006
+],
+  "geometry": {"coordinates":[83.87571,28.12127000000001],"type":"Point"}
+}

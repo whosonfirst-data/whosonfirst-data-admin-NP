@@ -1,0 +1,101 @@
+{
+  "id": 1125307601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.08333,27.25,87.08333,27.25",
+    "geom:latitude":27.25,
+    "geom:longitude":87.08333,
+    "gn:gn_country":"NP",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":204253,
+    "iso:country":"NP",
+    "lbl:latitude":27.25,
+    "lbl:longitude":87.08333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NP",
+    "qs_pg:gn_country":"NP",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1283601,
+    "qs_pg:gn_pop":204253,
+    "qs_pg:name":"Bhojpur",
+    "qs_pg:name_adm0":"Nepal",
+    "qs_pg:name_adm1":"Purwanchal",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":203283,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424911,
+    "qs_pg:woe_id":23706754,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"quattroshapes_pg",
+    "woe:adm0_id":23424911,
+    "woe:name_adm0":"Nepal",
+    "woe:name_adm1":"Purwanchal",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283601,
+        "gp:id":23706754,
+        "qs_pg:id":203283
+    },
+    "wof:country":"NP",
+    "wof:created":1497043788,
+    "wof:geomhash":"42a6f1214ef9343ee50d40f702868ed9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "localadmin_id":1125307601,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "localadmin_id":1125307601,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1125307601,
+    "wof:lastmodified":1534379389,
+    "wof:name":"Bhojpur",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"localadmin",
+    "wof:population":204253,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[
+        421199947
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.08333,
+    27.25,
+    87.08333,
+    27.25
+],
+  "geometry": {"coordinates":[87.08333,27.25],"type":"Point"}
+}

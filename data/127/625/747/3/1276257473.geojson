@@ -1,0 +1,78 @@
+{
+  "id": 1276257473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.46839,29.55606,80.46839,29.55606",
+    "geom:latitude":29.55606,
+    "geom:longitude":80.46839,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740017",
+    "gn:asciiname":"Arali",
+    "gn:country_code":"NP",
+    "gn:dem":1645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7971771,
+    "gn:latitude":29.55606,
+    "gn:longitude":80.46839,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Arali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050255,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7971771
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"70f445b6d7f2efcda22a3fdff4ef30a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1276257473,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1276257473,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1276257473,
+    "wof:lastmodified":1536879587,
+    "wof:name":"Arali",
+    "wof:parent_id":1092050255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.46839,
+    29.55606,
+    80.46839,
+    29.55606
+],
+  "geometry": {"coordinates":[80.46839,29.55606],"type":"Point"}
+}

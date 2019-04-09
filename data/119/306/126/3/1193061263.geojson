@@ -1,0 +1,78 @@
+{
+  "id": 1193061263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.28236,28.10324,84.28236,28.10324",
+    "geom:latitude":28.10324,
+    "geom:longitude":84.28236,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370057",
+    "gn:asciiname":"Khanal Dihi",
+    "gn:country_code":"NP",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7967093,
+    "gn:latitude":28.10324,
+    "gn:longitude":84.28236,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khanal Dihi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050009,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7967093
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"92ff7dca0a3e042c23a36f17cc65b981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1193061263,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1193061263,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1193061263,
+    "wof:lastmodified":1536377576,
+    "wof:name":"Khanal Dihi",
+    "wof:parent_id":1092050009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.28236,
+    28.10324,
+    84.28236,
+    28.10324
+],
+  "geometry": {"coordinates":[84.28236,28.10324],"type":"Point"}
+}

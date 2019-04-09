@@ -1,0 +1,67 @@
+{
+  "id": 1209224327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.50124,28.67882,80.50124,28.67882",
+    "geom:latitude":28.67882,
+    "geom:longitude":80.50124,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pachkadiya",
+    "gn:country_code":"NP",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282964,
+    "gn:latitude":28.67882,
+    "gn:longitude":80.50124,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Pachka\u1e0diy\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Pachka\u1e0diy\u0101"
+    ],
+    "name:und_x_variant":[
+        "Pachkaria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282964
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9cc36a7af7c4adbf52082c90f537f0cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209224327
+        }
+    ],
+    "wof:id":1209224327,
+    "wof:lastmodified":1537676045,
+    "wof:name":"Pachkadiya",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.50124,
+    28.67882,
+    80.50124,
+    28.67882
+],
+  "geometry": {"coordinates":[80.50124,28.67882],"type":"Point"}
+}

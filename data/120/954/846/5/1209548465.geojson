@@ -1,0 +1,64 @@
+{
+  "id": 1209548465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.04335,27.96679,82.04335,27.96679",
+    "geom:latitude":27.96679,
+    "geom:longitude":82.04335,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"570024.0",
+    "gn:asciiname":"Dulakhuti",
+    "gn:country_code":"NP",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008151,
+    "gn:latitude":27.96679,
+    "gn:longitude":82.04335,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dulakhuti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008151
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cc68613fd256f94539833af2de779f49",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209548465
+        }
+    ],
+    "wof:id":1209548465,
+    "wof:lastmodified":1536283769,
+    "wof:name":"Dulakhuti",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.04335,
+    27.966790000000003,
+    82.04335,
+    27.966790000000003
+],
+  "geometry": {"coordinates":[82.04335,27.96679],"type":"Point"}
+}

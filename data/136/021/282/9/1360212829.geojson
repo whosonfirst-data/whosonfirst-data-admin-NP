@@ -1,0 +1,78 @@
+{
+  "id": 1360212829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.15116,28.42512,81.15116,28.42512",
+    "geom:latitude":28.42512,
+    "geom:longitude":81.15116,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"58.0",
+    "gn:admin4_code":"580001.0",
+    "gn:asciiname":"Badka Bhaura",
+    "gn:country_code":"NP",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009268,
+    "gn:latitude":28.42512,
+    "gn:longitude":81.15116,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Badka Bhaura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048097,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009268
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"82fcbaef2d28a3241fe8b612648b2d91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1360212829,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1360212829,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1360212829,
+    "wof:lastmodified":1536761764,
+    "wof:name":"Badka Bhaura",
+    "wof:parent_id":1092048097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.15116,
+    28.42512,
+    81.15116,
+    28.42512
+],
+  "geometry": {"coordinates":[81.15116,28.42512],"type":"Point"}
+}

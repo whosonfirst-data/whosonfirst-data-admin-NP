@@ -1,0 +1,75 @@
+{
+  "id": 1276777853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.60952,27.92248,85.60952,27.92248",
+    "geom:latitude":27.92248,
+    "geom:longitude":85.60952,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Granpan",
+    "gn:country_code":"NP",
+    "gn:dem":1830,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10321183,
+    "gn:latitude":27.92248,
+    "gn:longitude":85.60952,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Gr\u0101\u1e45p\u0101\u1e45",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10321183
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1e8df90c88195d3d2e7d3608bee24795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1276777853,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1276777853,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1276777853,
+    "wof:lastmodified":1536680164,
+    "wof:name":"Granpan",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.60951999999997,
+    27.92248,
+    85.60951999999997,
+    27.92248
+],
+  "geometry": {"coordinates":[85.60951999999997,27.92248],"type":"Point"}
+}

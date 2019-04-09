@@ -1,0 +1,79 @@
+{
+  "id": 1310319611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.59001,27.69617,85.59001,27.69617",
+    "geom:latitude":27.69617,
+    "geom:longitude":85.59001,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kotyangau",
+    "gn:country_code":"NP",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10321015,
+    "gn:latitude":27.69617,
+    "gn:longitude":85.59001,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Ko\u1e6dy\u0101\u1e47g\u0101\u0169",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ko\u1e6dy\u0101\u1e47g\u0101\u0169",
+        "Ko\u1e6dy\u0101\u1e47g\u0101un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10321015
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"61c7c49301a4ab82c3bad7d6eaea63c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1310319611,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1310319611,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1310319611,
+    "wof:lastmodified":1537676083,
+    "wof:name":"Kotyangau",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.59000999999998,
+    27.69617,
+    85.59000999999998,
+    27.69617
+],
+  "geometry": {"coordinates":[85.59000999999998,27.69617],"type":"Point"}
+}

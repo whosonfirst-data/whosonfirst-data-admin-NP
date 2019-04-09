@@ -1,0 +1,75 @@
+{
+  "id": 1293015027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.44188,27.83214,85.44188,27.83214",
+    "geom:latitude":27.83214,
+    "geom:longitude":85.44188,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ranmen",
+    "gn:country_code":"NP",
+    "gn:dem":1936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10317253,
+    "gn:latitude":27.83214,
+    "gn:longitude":85.44188,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"R\u0101nmen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10317253
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2b434831a293a2094c45869b77130966",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1293015027,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1293015027,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1293015027,
+    "wof:lastmodified":1536970728,
+    "wof:name":"Ranmen",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.44188,
+    27.83214000000001,
+    85.44188,
+    27.83214000000001
+],
+  "geometry": {"coordinates":[85.44188,27.83214000000001],"type":"Point"}
+}

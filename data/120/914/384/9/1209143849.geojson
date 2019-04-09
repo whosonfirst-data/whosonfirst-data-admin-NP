@@ -1,0 +1,64 @@
+{
+  "id": 1209143849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.59715,27.95471,85.59715,27.95471",
+    "geom:latitude":27.95471,
+    "geom:longitude":85.59715,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"23",
+    "gn:admin4_code":"230038",
+    "gn:asciiname":"Chhimighyang",
+    "gn:country_code":"NP",
+    "gn:dem":2756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7994939,
+    "gn:latitude":27.95471,
+    "gn:longitude":85.59715,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chhimighyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7994939
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"68dded3a6ca2f344f137507bd63e32cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209143849
+        }
+    ],
+    "wof:id":1209143849,
+    "wof:lastmodified":1536296422,
+    "wof:name":"Chhimighyang",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.59715,
+    27.95471,
+    85.59715,
+    27.95471
+],
+  "geometry": {"coordinates":[85.59715,27.95471],"type":"Point"}
+}

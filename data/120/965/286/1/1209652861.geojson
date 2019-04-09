@@ -1,0 +1,64 @@
+{
+  "id": 1209652861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.48731,28.21885,83.48731,28.21885",
+    "geom:latitude":28.21885,
+    "geom:longitude":83.48731,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450022.0",
+    "gn:asciiname":"Kaule",
+    "gn:country_code":"NP",
+    "gn:dem":1882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7955007,
+    "gn:latitude":28.21885,
+    "gn:longitude":83.48731,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kaule",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7955007
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"41d2577c30195b85b6f554be2d5358e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209652861
+        }
+    ],
+    "wof:id":1209652861,
+    "wof:lastmodified":1536280525,
+    "wof:name":"Kaule",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.48731,
+    28.21885,
+    83.48731,
+    28.21885
+],
+  "geometry": {"coordinates":[83.48730999999999,28.21885],"type":"Point"}
+}

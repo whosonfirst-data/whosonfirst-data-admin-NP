@@ -1,0 +1,78 @@
+{
+  "id": 1327475795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.51592,27.41929,87.51592,27.41929",
+    "geom:latitude":27.41929,
+    "geom:longitude":87.51592,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10029.0",
+    "gn:asciiname":"Phulbari Gadhi",
+    "gn:country_code":"NP",
+    "gn:dem":1651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005466,
+    "gn:latitude":27.41929,
+    "gn:longitude":87.51592,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Phulbari Gadhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005466
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"03b16d2e087488be256b97799652bae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1327475795,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1327475795,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1327475795,
+    "wof:lastmodified":1536615763,
+    "wof:name":"Phulbari Gadhi",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.51592,
+    27.41929,
+    87.51592,
+    27.41929
+],
+  "geometry": {"coordinates":[87.51591999999999,27.41929],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209134095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.812,28.64417,81.812,28.64417",
+    "geom:latitude":28.64417,
+    "geom:longitude":81.812,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590002.0",
+    "gn:asciiname":"Chandreke",
+    "gn:country_code":"NP",
+    "gn:dem":1340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7998464,
+    "gn:latitude":28.64417,
+    "gn:longitude":81.812,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chandreke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7998464
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3187493edf066ef42939dcf9d7b1319e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209134095
+        }
+    ],
+    "wof:id":1209134095,
+    "wof:lastmodified":1536296717,
+    "wof:name":"Chandreke",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.812,
+    28.644170000000006,
+    81.812,
+    28.644170000000006
+],
+  "geometry": {"coordinates":[81.812,28.64417000000001],"type":"Point"}
+}

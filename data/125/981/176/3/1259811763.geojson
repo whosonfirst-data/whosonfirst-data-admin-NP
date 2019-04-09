@@ -1,0 +1,79 @@
+{
+  "id": 1259811763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.77347,28.12882,82.77347,28.12882",
+    "geom:latitude":28.12882,
+    "geom:longitude":82.77347,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"52",
+    "gn:admin4_code":"520005",
+    "gn:asciiname":"Barjibang",
+    "gn:country_code":"NP",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7979779,
+    "gn:latitude":28.12882,
+    "gn:longitude":82.77347,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Barjibang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049377,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7979779,
+        "wk:page":"Barjibang"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4dd96d1c75d34cea6686e39abf5af190",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1259811763,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1259811763,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1259811763,
+    "wof:lastmodified":1537570152,
+    "wof:name":"Barjibang",
+    "wof:parent_id":1092049377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.77346999999997,
+    28.12882,
+    82.77346999999997,
+    28.12882
+],
+  "geometry": {"coordinates":[82.77346999999997,28.12882],"type":"Point"}
+}

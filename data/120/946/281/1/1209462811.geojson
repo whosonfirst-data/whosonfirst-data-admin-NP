@@ -1,0 +1,64 @@
+{
+  "id": 1209462811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.46888,27.60249,83.46888,27.60249",
+    "geom:latitude":27.60249,
+    "geom:longitude":83.46888,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"49",
+    "gn:admin4_code":"490033.0",
+    "gn:asciiname":"Parsawal",
+    "gn:country_code":"NP",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7987260,
+    "gn:latitude":27.60249,
+    "gn:longitude":83.46888,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Parsawal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7987260
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0b6d9a47222a38e604de244a69b38f86",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209462811
+        }
+    ],
+    "wof:id":1209462811,
+    "wof:lastmodified":1536286325,
+    "wof:name":"Parsawal",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.46888,
+    27.602490000000003,
+    83.46888,
+    27.602490000000003
+],
+  "geometry": {"coordinates":[83.46888,27.60249],"type":"Point"}
+}

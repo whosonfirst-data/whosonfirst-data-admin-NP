@@ -1,0 +1,78 @@
+{
+  "id": 1242619159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.73417,27.64923,82.73417,27.64923",
+    "geom:latitude":27.64923,
+    "geom:longitude":82.73417,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"50.0",
+    "gn:admin4_code":"500030.0",
+    "gn:asciiname":"Madhnagara",
+    "gn:country_code":"NP",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7959537,
+    "gn:latitude":27.64923,
+    "gn:longitude":82.73417,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Madhnagara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048259,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7959537
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8a3d79973bd35085262549911b64fb93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1242619159,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1242619159,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1242619159,
+    "wof:lastmodified":1537003089,
+    "wof:name":"Madhnagara",
+    "wof:parent_id":1092048259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.73416999999998,
+    27.64923,
+    82.73416999999998,
+    27.64923
+],
+  "geometry": {"coordinates":[82.73416999999998,27.64923],"type":"Point"}
+}

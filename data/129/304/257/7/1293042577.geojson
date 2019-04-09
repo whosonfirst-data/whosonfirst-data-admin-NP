@@ -1,0 +1,78 @@
+{
+  "id": 1293042577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.16755,28.23086,83.16755,28.23086",
+    "geom:latitude":28.23086,
+    "geom:longitude":83.16755,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"46.0",
+    "gn:admin4_code":"460020.0",
+    "gn:asciiname":"Saunepani",
+    "gn:country_code":"NP",
+    "gn:dem":1482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7949986,
+    "gn:latitude":28.23086,
+    "gn:longitude":83.16755,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Saunepani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050755,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7949986
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"23a75af78fe36759d6dd263fac4bb943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1293042577,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1293042577,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1293042577,
+    "wof:lastmodified":1536932273,
+    "wof:name":"Saunepani",
+    "wof:parent_id":1092050755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.16755,
+    28.23086,
+    83.16755,
+    28.23086
+],
+  "geometry": {"coordinates":[83.16755000000001,28.23086],"type":"Point"}
+}

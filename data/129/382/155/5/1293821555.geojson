@@ -1,0 +1,78 @@
+{
+  "id": 1293821555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.7929,28.13202,83.7929,28.13202",
+    "geom:latitude":28.13202,
+    "geom:longitude":83.7929,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390039.0",
+    "gn:asciiname":"Majhkateri",
+    "gn:country_code":"NP",
+    "gn:dem":1736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001654,
+    "gn:latitude":28.13202,
+    "gn:longitude":83.7929,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Majhkateri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001654
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7e94ff0de8f27dd995541ac95662d95c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1293821555,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1293821555,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293821555,
+    "wof:lastmodified":1536802469,
+    "wof:name":"Majhkateri",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.7929,
+    28.13202,
+    83.7929,
+    28.13202
+],
+  "geometry": {"coordinates":[83.7929,28.13202],"type":"Point"}
+}

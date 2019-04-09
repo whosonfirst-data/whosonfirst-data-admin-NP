@@ -1,0 +1,78 @@
+{
+  "id": 1293637213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.62719,28.42802,83.62719,28.42802",
+    "geom:latitude":28.42802,
+    "geom:longitude":83.62719,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"43",
+    "gn:admin4_code":"430016",
+    "gn:asciiname":"Tikot",
+    "gn:country_code":"NP",
+    "gn:dem":2129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7972178,
+    "gn:latitude":28.42802,
+    "gn:longitude":83.62719,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tikot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675553,
+        1092049089,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7972178
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"df9b522435082e351cfd363b78445fc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049089,
+            "locality_id":1293637213,
+            "region_id":85675553
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049089,
+            "locality_id":1293637213,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293637213,
+    "wof:lastmodified":1537065581,
+    "wof:name":"Tikot",
+    "wof:parent_id":1092049089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.62719,
+    28.42802,
+    83.62719,
+    28.42802
+],
+  "geometry": {"coordinates":[83.62719,28.42802],"type":"Point"}
+}

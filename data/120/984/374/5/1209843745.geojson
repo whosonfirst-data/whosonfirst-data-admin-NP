@@ -1,0 +1,78 @@
+{
+  "id": 1209843745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6187,29.33932,80.6187,29.33932",
+    "geom:latitude":29.33932,
+    "geom:longitude":80.6187,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"73.0",
+    "gn:admin4_code":"730003.0",
+    "gn:asciiname":"Shaileshwari",
+    "gn:country_code":"NP",
+    "gn:dem":1271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7935420,
+    "gn:latitude":29.33932,
+    "gn:longitude":80.6187,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Shaileshwari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675567,
+        1092048697,
+        1108807135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7935420
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c514c4efb0a1d8d840c65b3d4f457b72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048697,
+            "locality_id":1209843745,
+            "region_id":85675567
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048697,
+            "locality_id":1209843745,
+            "region_id":1108807135
+        }
+    ],
+    "wof:id":1209843745,
+    "wof:lastmodified":1536391587,
+    "wof:name":"Shaileshwari",
+    "wof:parent_id":1092048697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6187,
+    29.33932,
+    80.6187,
+    29.33932
+],
+  "geometry": {"coordinates":[80.6187,29.33932],"type":"Point"}
+}

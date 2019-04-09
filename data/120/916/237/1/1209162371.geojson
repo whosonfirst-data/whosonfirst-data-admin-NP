@@ -1,0 +1,64 @@
+{
+  "id": 1209162371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.82703,28.24074,83.82703,28.24074",
+    "geom:latitude":28.24074,
+    "geom:longitude":83.82703,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400004.0",
+    "gn:asciiname":"Proni",
+    "gn:country_code":"NP",
+    "gn:dem":1613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7960266,
+    "gn:latitude":28.24074,
+    "gn:longitude":83.82703,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Proni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7960266
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7e4d11402e9389f2771fecb7000d5ec9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209162371
+        }
+    ],
+    "wof:id":1209162371,
+    "wof:lastmodified":1536295854,
+    "wof:name":"Proni",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.82703000000002,
+    28.24074,
+    83.82703000000002,
+    28.24074
+],
+  "geometry": {"coordinates":[83.82703000000002,28.24074],"type":"Point"}
+}

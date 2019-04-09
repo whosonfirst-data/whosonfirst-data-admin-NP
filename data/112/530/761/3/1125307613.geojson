@@ -1,0 +1,101 @@
+{
+  "id": 1125307613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.83333,27.25,86.83333,27.25",
+    "geom:latitude":27.25,
+    "geom:longitude":86.83333,
+    "gn:gn_country":"NP",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":234084,
+    "iso:country":"NP",
+    "lbl:latitude":27.25,
+    "lbl:longitude":86.83333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NP",
+    "qs_pg:gn_country":"NP",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1283202,
+    "qs_pg:gn_pop":234084,
+    "qs_pg:name":"Khotang",
+    "qs_pg:name_adm0":"Nepal",
+    "qs_pg:name_adm1":"Purwanchal",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":1,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":203284,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424911,
+    "qs_pg:woe_id":23706755,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"quattroshapes_pg",
+    "woe:adm0_id":23424911,
+    "woe:name_adm0":"Nepal",
+    "woe:name_adm1":"Purwanchal",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050841,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283202,
+        "gp:id":23706755,
+        "qs_pg:id":203284
+    },
+    "wof:country":"NP",
+    "wof:created":1497043789,
+    "wof:geomhash":"04e73c8b7d7aec0725366a4a8e664714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "localadmin_id":1125307613,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "localadmin_id":1125307613,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1125307613,
+    "wof:lastmodified":1534379389,
+    "wof:name":"Khotang",
+    "wof:parent_id":1092050841,
+    "wof:placetype":"localadmin",
+    "wof:population":234084,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[
+        421199949
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.83333,
+    27.25,
+    86.83333,
+    27.25
+],
+  "geometry": {"coordinates":[86.83333,27.25],"type":"Point"}
+}

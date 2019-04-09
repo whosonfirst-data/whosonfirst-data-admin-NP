@@ -1,0 +1,78 @@
+{
+  "id": 1259624863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.95068,28.0502,83.95068,28.0502",
+    "geom:latitude":28.0502,
+    "geom:longitude":83.95068,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390029.0",
+    "gn:asciiname":"Saldanda Khani",
+    "gn:country_code":"NP",
+    "gn:dem":878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001334,
+    "gn:latitude":28.0502,
+    "gn:longitude":83.95068,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Saldanda Khani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001334
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"685a1f3f07f890ef08d9886119c29cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1259624863,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1259624863,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1259624863,
+    "wof:lastmodified":1536655088,
+    "wof:name":"Saldanda Khani",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.95068,
+    28.0502,
+    83.95068,
+    28.0502
+],
+  "geometry": {"coordinates":[83.95068000000001,28.0502],"type":"Point"}
+}

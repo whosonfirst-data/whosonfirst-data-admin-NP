@@ -1,0 +1,78 @@
+{
+  "id": 1226184175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.31847,28.09021,83.31847,28.09021",
+    "geom:latitude":28.09021,
+    "geom:longitude":83.31847,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"46.0",
+    "gn:admin4_code":"460014.0",
+    "gn:asciiname":"Balithum Lumpek",
+    "gn:country_code":"NP",
+    "gn:dem":1193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7949870,
+    "gn:latitude":28.09021,
+    "gn:longitude":83.31847,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Balithum Lumpek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050755,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7949870
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e8217cb8d98a69e88a383f1a621fd327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1226184175,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1226184175,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1226184175,
+    "wof:lastmodified":1537021321,
+    "wof:name":"Balithum Lumpek",
+    "wof:parent_id":1092050755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.31846999999998,
+    28.09021,
+    83.31846999999998,
+    28.09021
+],
+  "geometry": {"coordinates":[83.31846999999998,28.09021],"type":"Point"}
+}

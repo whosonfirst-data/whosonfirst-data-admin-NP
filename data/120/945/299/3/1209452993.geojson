@@ -1,0 +1,65 @@
+{
+  "id": 1209452993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.34283,26.89327,85.34283,26.89327",
+    "geom:latitude":26.89327,
+    "geom:longitude":85.34283,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"32",
+    "gn:admin4_code":"320056",
+    "gn:asciiname":"Madhopur",
+    "gn:country_code":"NP",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7982642,
+    "gn:latitude":26.89327,
+    "gn:longitude":85.34283,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Madhopur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7982642,
+        "wk:page":"Madhopur%2C_Rautahat"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8e6c2434ebb6848938ac9a1a65de53fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209452993
+        }
+    ],
+    "wof:id":1209452993,
+    "wof:lastmodified":1537570153,
+    "wof:name":"Madhopur",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.34283,
+    26.89327,
+    85.34283,
+    26.89327
+],
+  "geometry": {"coordinates":[85.34283000000001,26.89327],"type":"Point"}
+}

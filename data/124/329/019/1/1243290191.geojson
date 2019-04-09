@@ -1,0 +1,78 @@
+{
+  "id": 1243290191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.9922,28.45469,80.9922,28.45469",
+    "geom:latitude":28.45469,
+    "geom:longitude":80.9922,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710022.0",
+    "gn:asciiname":"Kauwa Kheda",
+    "gn:country_code":"NP",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956879,
+    "gn:latitude":28.45469,
+    "gn:longitude":80.9922,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kauwa Kheda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956879
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"90ee4ec0164f519982069b6e71844475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1243290191,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1243290191,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1243290191,
+    "wof:lastmodified":1537029646,
+    "wof:name":"Kauwa Kheda",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.9922,
+    28.45469000000001,
+    80.9922,
+    28.45469000000001
+],
+  "geometry": {"coordinates":[80.9922,28.45469000000001],"type":"Point"}
+}

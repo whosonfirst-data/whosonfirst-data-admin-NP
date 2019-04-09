@@ -1,0 +1,78 @@
+{
+  "id": 1360027623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.85025,27.56108,85.85025,27.56108",
+    "geom:latitude":27.56108,
+    "geom:longitude":85.85025,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"21",
+    "gn:admin4_code":"210031",
+    "gn:asciiname":"Riste",
+    "gn:country_code":"NP",
+    "gn:dem":1275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7981571,
+    "gn:latitude":27.56108,
+    "gn:longitude":85.85025,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Riste",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049711,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7981571
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"52b73599e2cb0cb59d9b5bbcf1b2d8b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1360027623,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1360027623,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1360027623,
+    "wof:lastmodified":1537027407,
+    "wof:name":"Riste",
+    "wof:parent_id":1092049711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.85025,
+    27.56108,
+    85.85025,
+    27.56108
+],
+  "geometry": {"coordinates":[85.85025,27.56108],"type":"Point"}
+}

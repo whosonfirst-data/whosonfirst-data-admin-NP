@@ -1,0 +1,78 @@
+{
+  "id": 1327182421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.69378,26.53179,87.69378,26.53179",
+    "geom:latitude":26.53179,
+    "geom:longitude":87.69378,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40035.0",
+    "gn:asciiname":"Patagadha",
+    "gn:country_code":"NP",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7954960,
+    "gn:latitude":26.53179,
+    "gn:longitude":87.69378,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Patagadha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7954960
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f8b2e408b6d09973531e054765d51b9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1327182421,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1327182421,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1327182421,
+    "wof:lastmodified":1537040146,
+    "wof:name":"Patagadha",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.69378,
+    26.53179,
+    87.69378,
+    26.53179
+],
+  "geometry": {"coordinates":[87.69378,26.53179],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209362797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.89965,27.38631,87.89965,27.38631",
+    "geom:latitude":27.38631,
+    "geom:longitude":87.89965,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10014.0",
+    "gn:asciiname":"Tyamphu",
+    "gn:country_code":"NP",
+    "gn:dem":1761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005189,
+    "gn:latitude":27.38631,
+    "gn:longitude":87.89965,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tyamphu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005189
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"81064c950c9d3717d2ffc4c2c00ce841",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209362797
+        }
+    ],
+    "wof:id":1209362797,
+    "wof:lastmodified":1536289369,
+    "wof:name":"Tyamphu",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.89965,
+    27.38631,
+    87.89965,
+    27.38631
+],
+  "geometry": {"coordinates":[87.89964999999999,27.38631],"type":"Point"}
+}

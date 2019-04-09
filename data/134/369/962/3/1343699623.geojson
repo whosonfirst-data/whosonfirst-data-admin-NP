@@ -1,0 +1,78 @@
+{
+  "id": 1343699623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.32791,27.48697,85.32791,27.48697",
+    "geom:latitude":27.48697,
+    "geom:longitude":85.32791,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"25",
+    "gn:admin4_code":"250022",
+    "gn:asciiname":"Chillethumka",
+    "gn:country_code":"NP",
+    "gn:dem":1596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7965600,
+    "gn:latitude":27.48697,
+    "gn:longitude":85.32791,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chillethumka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048971,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7965600
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0111e49d784af7434cde5525947b33b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048971,
+            "locality_id":1343699623,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048971,
+            "locality_id":1343699623,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1343699623,
+    "wof:lastmodified":1536898511,
+    "wof:name":"Chillethumka",
+    "wof:parent_id":1092048971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.32791,
+    27.48697,
+    85.32791,
+    27.48697
+],
+  "geometry": {"coordinates":[85.32791,27.48697],"type":"Point"}
+}

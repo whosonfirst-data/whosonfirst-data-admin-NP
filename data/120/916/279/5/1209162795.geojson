@@ -1,0 +1,64 @@
+{
+  "id": 1209162795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.90338,27.81144,85.90338,27.81144",
+    "geom:latitude":27.81144,
+    "geom:longitude":85.90338,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"23",
+    "gn:admin4_code":"230021",
+    "gn:asciiname":"Kukhure",
+    "gn:country_code":"NP",
+    "gn:dem":1424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7994604,
+    "gn:latitude":27.81144,
+    "gn:longitude":85.90338,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kukhure",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7994604
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"dbf607d33f2afbb3cf5947582615ed86",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209162795
+        }
+    ],
+    "wof:id":1209162795,
+    "wof:lastmodified":1536295845,
+    "wof:name":"Kukhure",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.90338,
+    27.81144,
+    85.90338,
+    27.81144
+],
+  "geometry": {"coordinates":[85.90338,27.81144],"type":"Point"}
+}

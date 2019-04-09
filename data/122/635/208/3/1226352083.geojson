@@ -1,0 +1,79 @@
+{
+  "id": 1226352083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.89292,28.13112,83.89292,28.13112",
+    "geom:latitude":28.13112,
+    "geom:longitude":83.89292,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nuwakot",
+    "gn:country_code":"NP",
+    "gn:dem":1357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282971,
+    "gn:latitude":28.13112,
+    "gn:longitude":83.89292,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nuw\u0101kot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nuw\u0101ket",
+        "Nuw\u0101kot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282971
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3a749a19627dc9d9fa5d18d52ca55a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1226352083,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1226352083,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1226352083,
+    "wof:lastmodified":1537676046,
+    "wof:name":"Nuwakot",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.89291999999998,
+    28.13112000000001,
+    83.89291999999998,
+    28.13112000000001
+],
+  "geometry": {"coordinates":[83.89291999999998,28.13112000000001],"type":"Point"}
+}

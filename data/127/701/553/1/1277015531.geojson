@@ -1,0 +1,78 @@
+{
+  "id": 1277015531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.22726,29.37589,81.22726,29.37589",
+    "geom:latitude":29.37589,
+    "geom:longitude":81.22726,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"67.0",
+    "gn:admin4_code":"670018.0",
+    "gn:asciiname":"Talgaun",
+    "gn:country_code":"NP",
+    "gn:dem":1911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003123,
+    "gn:latitude":29.37589,
+    "gn:longitude":81.22726,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Talgaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050627,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003123
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"26dadaf26512f9cfbfdbe3d3737e69f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050627,
+            "locality_id":1277015531,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050627,
+            "locality_id":1277015531,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1277015531,
+    "wof:lastmodified":1536858037,
+    "wof:name":"Talgaun",
+    "wof:parent_id":1092050627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.22726,
+    29.37589,
+    81.22726,
+    29.37589
+],
+  "geometry": {"coordinates":[81.22726,29.37589],"type":"Point"}
+}

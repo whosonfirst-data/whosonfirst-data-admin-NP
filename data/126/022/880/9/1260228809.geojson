@@ -1,0 +1,78 @@
+{
+  "id": 1260228809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.93587,27.24835,86.93587,27.24835",
+    "geom:latitude":27.24835,
+    "geom:longitude":86.93587,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100017.0",
+    "gn:asciiname":"Khaila",
+    "gn:country_code":"NP",
+    "gn:dem":2069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7932950,
+    "gn:latitude":27.24835,
+    "gn:longitude":86.93587,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khaila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7932950
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b037611e2f90258eea03ec1e077ac7aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1260228809,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1260228809,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1260228809,
+    "wof:lastmodified":1536786674,
+    "wof:name":"Khaila",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.93587,
+    27.24835,
+    86.93587,
+    27.24835
+],
+  "geometry": {"coordinates":[86.93586999999999,27.24835],"type":"Point"}
+}

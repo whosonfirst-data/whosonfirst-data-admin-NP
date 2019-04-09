@@ -1,0 +1,61 @@
+{
+  "id": 1209432745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.55461,28.66336,81.55461,28.66336",
+    "geom:latitude":28.66336,
+    "geom:longitude":81.55461,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ramdikbana",
+    "gn:country_code":"NP",
+    "gn:dem":1408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282880,
+    "gn:latitude":28.66336,
+    "gn:longitude":81.55461,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Ramdikb\u0101na",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282880
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0653c9cc27c282467940b5fa402665ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209432745
+        }
+    ],
+    "wof:id":1209432745,
+    "wof:lastmodified":1536287191,
+    "wof:name":"Ramdikbana",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.55461,
+    28.66336,
+    81.55461,
+    28.66336
+],
+  "geometry": {"coordinates":[81.55461,28.66336],"type":"Point"}
+}

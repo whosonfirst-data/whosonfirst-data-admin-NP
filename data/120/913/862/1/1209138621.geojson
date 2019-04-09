@@ -1,0 +1,64 @@
+{
+  "id": 1209138621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.59484,29.65157,80.59484,29.65157",
+    "geom:latitude":29.65157,
+    "geom:longitude":80.59484,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740016",
+    "gn:asciiname":"Bhatigaun",
+    "gn:country_code":"NP",
+    "gn:dem":1433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7971577,
+    "gn:latitude":29.65157,
+    "gn:longitude":80.59484,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhatigaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7971577
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"121b5ac9aeb315d5cdb9cbb10a176122",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209138621
+        }
+    ],
+    "wof:id":1209138621,
+    "wof:lastmodified":1536296577,
+    "wof:name":"Bhatigaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.59484,
+    29.65157,
+    80.59484,
+    29.65157
+],
+  "geometry": {"coordinates":[80.59484,29.65157],"type":"Point"}
+}

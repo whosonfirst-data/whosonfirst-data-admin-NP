@@ -1,0 +1,78 @@
+{
+  "id": 1327182599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.34261,27.55381,86.34261,27.55381",
+    "geom:latitude":27.55381,
+    "geom:longitude":86.34261,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"21",
+    "gn:admin4_code":"210001",
+    "gn:asciiname":"Serdu",
+    "gn:country_code":"NP",
+    "gn:dem":2151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7981001,
+    "gn:latitude":27.55381,
+    "gn:longitude":86.34261,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Serdu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049711,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7981001
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ee2b45fa9497550714ec32d35efb4d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1327182599,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1327182599,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1327182599,
+    "wof:lastmodified":1537039912,
+    "wof:name":"Serdu",
+    "wof:parent_id":1092049711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.34261,
+    27.55381,
+    86.34261,
+    27.55381
+],
+  "geometry": {"coordinates":[86.34260999999999,27.55381],"type":"Point"}
+}

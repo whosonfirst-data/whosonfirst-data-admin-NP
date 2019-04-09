@@ -1,0 +1,78 @@
+{
+  "id": 1310638229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.89112,28.10958,83.89112,28.10958",
+    "geom:latitude":28.10958,
+    "geom:longitude":83.89112,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390044.0",
+    "gn:asciiname":"Hamaldanda",
+    "gn:country_code":"NP",
+    "gn:dem":1009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001805,
+    "gn:latitude":28.10958,
+    "gn:longitude":83.89112,
+    "gn:modification_date":"2017-08-08",
+    "gn:name":"Hamaldanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001805
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"754c71e087f75885ebbba4e94abf9897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1310638229,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1310638229,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1310638229,
+    "wof:lastmodified":1536725732,
+    "wof:name":"Hamaldanda",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.89112,
+    28.10958,
+    83.89112,
+    28.10958
+],
+  "geometry": {"coordinates":[83.89112,28.10958],"type":"Point"}
+}

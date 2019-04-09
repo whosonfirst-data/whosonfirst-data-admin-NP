@@ -1,0 +1,64 @@
+{
+  "id": 1209657403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.53854,27.18328,85.53854,27.18328",
+    "geom:latitude":27.18328,
+    "geom:longitude":85.53854,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200030",
+    "gn:asciiname":"Rangedobhan",
+    "gn:country_code":"NP",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7993485,
+    "gn:latitude":27.18328,
+    "gn:longitude":85.53854,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Rangedobhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7993485
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"230af9de0826530b0e975129e058f558",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209657403
+        }
+    ],
+    "wof:id":1209657403,
+    "wof:lastmodified":1536280383,
+    "wof:name":"Rangedobhan",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.53854,
+    27.18328,
+    85.53854,
+    27.18328
+],
+  "geometry": {"coordinates":[85.53854,27.18328],"type":"Point"}
+}

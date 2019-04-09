@@ -1,0 +1,78 @@
+{
+  "id": 1360126529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.80774,27.37684,86.80774,27.37684",
+    "geom:latitude":27.37684,
+    "geom:longitude":86.80774,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"13",
+    "gn:admin4_code":"130061",
+    "gn:asciiname":"Sokhu",
+    "gn:country_code":"NP",
+    "gn:dem":1477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7965096,
+    "gn:latitude":27.37684,
+    "gn:longitude":86.80774,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sokhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050841,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7965096
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f3c9af07481dfc569bc4014478aacca3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1360126529,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1360126529,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1360126529,
+    "wof:lastmodified":1536885368,
+    "wof:name":"Sokhu",
+    "wof:parent_id":1092050841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.80774,
+    27.37684,
+    86.80774,
+    27.37684
+],
+  "geometry": {"coordinates":[86.80774,27.37684],"type":"Point"}
+}

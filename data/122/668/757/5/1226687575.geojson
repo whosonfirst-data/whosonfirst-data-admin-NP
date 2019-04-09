@@ -1,0 +1,78 @@
+{
+  "id": 1226687575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.73242,27.91826,84.73242,27.91826",
+    "geom:latitude":27.91826,
+    "geom:longitude":84.73242,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360022.0",
+    "gn:asciiname":"Majhigaun",
+    "gn:country_code":"NP",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7948413,
+    "gn:latitude":27.91826,
+    "gn:longitude":84.73242,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Majhigaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7948413
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"56543976f3ed2e0a4ad7238344139e03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1226687575,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1226687575,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1226687575,
+    "wof:lastmodified":1536799317,
+    "wof:name":"Majhigaun",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.73241999999998,
+    27.91826,
+    84.73241999999998,
+    27.91826
+],
+  "geometry": {"coordinates":[84.73241999999998,27.91826],"type":"Point"}
+}

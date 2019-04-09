@@ -1,0 +1,75 @@
+{
+  "id": 1309923635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.51536,29.73015,82.51536,29.73015",
+    "geom:latitude":29.73015,
+    "geom:longitude":82.51536,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mugu",
+    "gn:country_code":"NP",
+    "gn:dem":3400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283036,
+    "gn:latitude":29.73015,
+    "gn:longitude":82.51536,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"M\u016bgu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092048339,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283036
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"edea3dbe2496779e351816436507a537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048339,
+            "locality_id":1309923635,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048339,
+            "locality_id":1309923635,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1309923635,
+    "wof:lastmodified":1536761483,
+    "wof:name":"Mugu",
+    "wof:parent_id":1092048339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.51536,
+    29.73015,
+    82.51536,
+    29.73015
+],
+  "geometry": {"coordinates":[82.51536,29.73015],"type":"Point"}
+}

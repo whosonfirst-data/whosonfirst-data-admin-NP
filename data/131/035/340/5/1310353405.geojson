@@ -1,0 +1,78 @@
+{
+  "id": 1310353405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.61106,27.38842,87.61106,27.38842",
+    "geom:latitude":27.38842,
+    "geom:longitude":87.61106,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10012.0",
+    "gn:asciiname":"Sulumphi",
+    "gn:country_code":"NP",
+    "gn:dem":1228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005159,
+    "gn:latitude":27.38842,
+    "gn:longitude":87.61106,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sulumphi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005159
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7f618ffc6e32d3f6e5061944cedd1df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1310353405,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1310353405,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1310353405,
+    "wof:lastmodified":1536637888,
+    "wof:name":"Sulumphi",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.61106,
+    27.38842,
+    87.61106,
+    27.38842
+],
+  "geometry": {"coordinates":[87.61105999999999,27.38842],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276379455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.68467,28.25595,83.68467,28.25595",
+    "geom:latitude":28.25595,
+    "geom:longitude":83.68467,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"44",
+    "gn:admin4_code":"440021",
+    "gn:asciiname":"Patle",
+    "gn:country_code":"NP",
+    "gn:dem":1657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7978498,
+    "gn:latitude":28.25595,
+    "gn:longitude":83.68467,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Patle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049297,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7978498
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5b557953320c5293d5e77535b6d09f96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049297,
+            "locality_id":1276379455,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049297,
+            "locality_id":1276379455,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1276379455,
+    "wof:lastmodified":1536717029,
+    "wof:name":"Patle",
+    "wof:parent_id":1092049297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.68467,
+    28.25595,
+    83.68467,
+    28.25595
+],
+  "geometry": {"coordinates":[83.68467,28.25595],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226479993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.7203,28.14046,84.7203,28.14046",
+    "geom:latitude":28.14046,
+    "geom:longitude":84.7203,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360053.0",
+    "gn:asciiname":"Durnam",
+    "gn:country_code":"NP",
+    "gn:dem":1553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7949342,
+    "gn:latitude":28.14046,
+    "gn:longitude":84.7203,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Durnam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7949342
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ce449b23f138083ebe94d68edb468f18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1226479993,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1226479993,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1226479993,
+    "wof:lastmodified":1537089467,
+    "wof:name":"Durnam",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.7203,
+    28.14046,
+    84.7203,
+    28.14046
+],
+  "geometry": {"coordinates":[84.72029999999999,28.14046],"type":"Point"}
+}

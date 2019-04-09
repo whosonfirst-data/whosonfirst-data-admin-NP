@@ -1,0 +1,78 @@
+{
+  "id": 1292932171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.30951,28.95267,81.30951,28.95267",
+    "geom:latitude":28.95267,
+    "geom:longitude":81.30951,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"69.0",
+    "gn:admin4_code":"690051.0",
+    "gn:asciiname":"Jyarimi",
+    "gn:country_code":"NP",
+    "gn:dem":1305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009507,
+    "gn:latitude":28.95267,
+    "gn:longitude":81.30951,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jyarimi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048527,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009507
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"92bf4a836d9143caebd167e58d5c53f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1292932171,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1292932171,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1292932171,
+    "wof:lastmodified":1537087631,
+    "wof:name":"Jyarimi",
+    "wof:parent_id":1092048527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.30951,
+    28.95267,
+    81.30951,
+    28.95267
+],
+  "geometry": {"coordinates":[81.30951,28.95267],"type":"Point"}
+}

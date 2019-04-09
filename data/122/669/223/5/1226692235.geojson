@@ -1,0 +1,78 @@
+{
+  "id": 1226692235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.74379,27.80241,84.74379,27.80241",
+    "geom:latitude":27.80241,
+    "geom:longitude":84.74379,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300011.0",
+    "gn:asciiname":"Khatritar",
+    "gn:country_code":"NP",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7941329,
+    "gn:latitude":27.80241,
+    "gn:longitude":84.74379,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khatritar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7941329
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e6a19909b0195238f7880f3a202fc85e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1226692235,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1226692235,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1226692235,
+    "wof:lastmodified":1536793022,
+    "wof:name":"Khatritar",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.74379,
+    27.80241,
+    84.74379,
+    27.80241
+],
+  "geometry": {"coordinates":[84.74379,27.80241],"type":"Point"}
+}

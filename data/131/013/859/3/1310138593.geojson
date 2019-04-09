@@ -1,0 +1,78 @@
+{
+  "id": 1310138593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.59613,28.93186,80.59613,28.93186",
+    "geom:latitude":28.93186,
+    "geom:longitude":80.59613,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710015.0",
+    "gn:asciiname":"Nachanthali",
+    "gn:country_code":"NP",
+    "gn:dem":1316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956632,
+    "gn:latitude":28.93186,
+    "gn:longitude":80.59613,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nachanthali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956632
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"62f9439dd86647dd5d35a66060ff7693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1310138593,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1310138593,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1310138593,
+    "wof:lastmodified":1536949100,
+    "wof:name":"Nachanthali",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.59613,
+    28.93186,
+    80.59613,
+    28.93186
+],
+  "geometry": {"coordinates":[80.59613,28.93186],"type":"Point"}
+}

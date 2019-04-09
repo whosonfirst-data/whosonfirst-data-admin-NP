@@ -1,0 +1,64 @@
+{
+  "id": 1209252397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.11472,28.01608,84.11472,28.01608",
+    "geom:latitude":28.01608,
+    "geom:longitude":84.11472,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380012.0",
+    "gn:asciiname":"Kriyadanda",
+    "gn:country_code":"NP",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003117,
+    "gn:latitude":28.01608,
+    "gn:longitude":84.11472,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kriyadanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003117
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"59e872f6e2b085d7d8390e55242aeef1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209252397
+        }
+    ],
+    "wof:id":1209252397,
+    "wof:lastmodified":1536292964,
+    "wof:name":"Kriyadanda",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.11471999999998,
+    28.01608,
+    84.11471999999998,
+    28.01608
+],
+  "geometry": {"coordinates":[84.11471999999998,28.01608],"type":"Point"}
+}

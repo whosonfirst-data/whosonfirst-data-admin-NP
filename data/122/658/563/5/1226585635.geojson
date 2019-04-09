@@ -1,0 +1,78 @@
+{
+  "id": 1226585635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.68907,27.58391,83.68907,27.58391",
+    "geom:latitude":27.58391,
+    "geom:longitude":83.68907,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"48",
+    "gn:admin4_code":"480057",
+    "gn:asciiname":"Narayan Tol",
+    "gn:country_code":"NP",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7973361,
+    "gn:latitude":27.58391,
+    "gn:longitude":83.68907,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Narayan Tol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050413,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7973361
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4424125be81e8455ce854d05b1233af6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050413,
+            "locality_id":1226585635,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050413,
+            "locality_id":1226585635,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1226585635,
+    "wof:lastmodified":1536943335,
+    "wof:name":"Narayan Tol",
+    "wof:parent_id":1092050413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.68907,
+    27.58391,
+    83.68907,
+    27.58391
+],
+  "geometry": {"coordinates":[83.68907,27.58391],"type":"Point"}
+}

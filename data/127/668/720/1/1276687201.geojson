@@ -1,0 +1,78 @@
+{
+  "id": 1276687201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.50572,28.22549,81.50572,28.22549",
+    "geom:latitude":28.22549,
+    "geom:longitude":81.50572,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"58.0",
+    "gn:admin4_code":"580020.0",
+    "gn:asciiname":"Hasnapur",
+    "gn:country_code":"NP",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009842,
+    "gn:latitude":28.22549,
+    "gn:longitude":81.50572,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Hasnapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048097,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009842
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"78db140c239c6864a3e20ec555f32b8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1276687201,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1276687201,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1276687201,
+    "wof:lastmodified":1536801670,
+    "wof:name":"Hasnapur",
+    "wof:parent_id":1092048097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.50572,
+    28.22549,
+    81.50572,
+    28.22549
+],
+  "geometry": {"coordinates":[81.50572,28.22549],"type":"Point"}
+}

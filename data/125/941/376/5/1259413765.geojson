@@ -1,0 +1,78 @@
+{
+  "id": 1259413765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.49389,28.59328,80.49389,28.59328",
+    "geom:latitude":28.59328,
+    "geom:longitude":80.49389,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"72.0",
+    "gn:admin4_code":"720012.0",
+    "gn:asciiname":"Khadda",
+    "gn:country_code":"NP",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7958943,
+    "gn:latitude":28.59328,
+    "gn:longitude":80.49389,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khadda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048227,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7958943
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"def7836b7133050736af0ebc22701dd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1259413765,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1259413765,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1259413765,
+    "wof:lastmodified":1536959007,
+    "wof:name":"Khadda",
+    "wof:parent_id":1092048227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.49389000000002,
+    28.59328,
+    80.49389000000002,
+    28.59328
+],
+  "geometry": {"coordinates":[80.49389000000002,28.59328],"type":"Point"}
+}

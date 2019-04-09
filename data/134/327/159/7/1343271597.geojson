@@ -1,0 +1,75 @@
+{
+  "id": 1343271597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.14834,27.59411,85.14834,27.59411",
+    "geom:latitude":27.59411,
+    "geom:longitude":85.14834,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kulikhani",
+    "gn:country_code":"NP",
+    "gn:dem":1844,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283178,
+    "gn:latitude":27.59411,
+    "gn:longitude":85.14834,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Kul\u012bkh\u0101ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283178
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"aea880c52fad3986e611091ab395b2c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1343271597,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1343271597,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1343271597,
+    "wof:lastmodified":1537017998,
+    "wof:name":"Kulikhani",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.14834,
+    27.59411,
+    85.14834,
+    27.59411
+],
+  "geometry": {"coordinates":[85.14834,27.59411],"type":"Point"}
+}

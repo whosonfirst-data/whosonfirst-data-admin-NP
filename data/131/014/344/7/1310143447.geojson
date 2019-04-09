@@ -1,0 +1,78 @@
+{
+  "id": 1310143447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.98214,27.16135,86.98214,27.16135",
+    "geom:latitude":27.16135,
+    "geom:longitude":86.98214,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100036.0",
+    "gn:asciiname":"Kotdanda",
+    "gn:country_code":"NP",
+    "gn:dem":1562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933419,
+    "gn:latitude":27.16135,
+    "gn:longitude":86.98214,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kotdanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933419
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3ed5cf9ebb220325c7494c7714f65035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1310143447,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1310143447,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1310143447,
+    "wof:lastmodified":1536942304,
+    "wof:name":"Kotdanda",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.98214,
+    27.16135,
+    86.98214,
+    27.16135
+],
+  "geometry": {"coordinates":[86.98214,27.16135],"type":"Point"}
+}

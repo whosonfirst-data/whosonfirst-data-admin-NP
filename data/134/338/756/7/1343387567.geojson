@@ -1,0 +1,78 @@
+{
+  "id": 1343387567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.52986,27.85248,82.52986,27.85248",
+    "geom:latitude":27.85248,
+    "geom:longitude":82.52986,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"560004.0",
+    "gn:asciiname":"Baildanda",
+    "gn:country_code":"NP",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7938317,
+    "gn:latitude":27.85248,
+    "gn:longitude":82.52986,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Baildanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048605,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7938317
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"20eae27d3e57923f1e6f4432490f81dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1343387567,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1343387567,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1343387567,
+    "wof:lastmodified":1536850443,
+    "wof:name":"Baildanda",
+    "wof:parent_id":1092048605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.52986,
+    27.85248,
+    82.52986,
+    27.85248
+],
+  "geometry": {"coordinates":[82.52986,27.85248],"type":"Point"}
+}

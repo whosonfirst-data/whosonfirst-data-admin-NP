@@ -1,0 +1,64 @@
+{
+  "id": 1209663617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.4655,27.01408,85.4655,27.01408",
+    "geom:latitude":27.01408,
+    "geom:longitude":85.4655,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"19",
+    "gn:admin4_code":"190009",
+    "gn:asciiname":"Muselitol",
+    "gn:country_code":"NP",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7991565,
+    "gn:latitude":27.01408,
+    "gn:longitude":85.4655,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Muselitol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7991565
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ffe84adf75e3474b2ee63679208fe4d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209663617
+        }
+    ],
+    "wof:id":1209663617,
+    "wof:lastmodified":1536280173,
+    "wof:name":"Muselitol",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.4655,
+    27.01408,
+    85.4655,
+    27.01408
+],
+  "geometry": {"coordinates":[85.46550000000001,27.01408],"type":"Point"}
+}

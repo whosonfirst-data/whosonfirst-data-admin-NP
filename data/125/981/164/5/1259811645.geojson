@@ -1,0 +1,78 @@
+{
+  "id": 1259811645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.67058,29.66878,80.67058,29.66878",
+    "geom:latitude":29.66878,
+    "geom:longitude":80.67058,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740047",
+    "gn:asciiname":"Chuneri",
+    "gn:country_code":"NP",
+    "gn:dem":1658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7979550,
+    "gn:latitude":29.66878,
+    "gn:longitude":80.67058,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chuneri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050255,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7979550
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a1ae90b6936fa99307a800fdf8cfc140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1259811645,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1259811645,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1259811645,
+    "wof:lastmodified":1536882137,
+    "wof:name":"Chuneri",
+    "wof:parent_id":1092050255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.67058,
+    29.66878,
+    80.67058,
+    29.66878
+],
+  "geometry": {"coordinates":[80.67058,29.66878],"type":"Point"}
+}

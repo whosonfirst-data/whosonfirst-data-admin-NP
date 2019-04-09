@@ -1,0 +1,78 @@
+{
+  "id": 1327068069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.27477,27.59834,85.27477,27.59834",
+    "geom:latitude":27.59834,
+    "geom:longitude":85.27477,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"27.0",
+    "gn:admin4_code":"270015.0",
+    "gn:asciiname":"Yutuki",
+    "gn:country_code":"NP",
+    "gn:dem":1375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7961973,
+    "gn:latitude":27.59834,
+    "gn:longitude":85.27477,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Yutuki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092048931,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7961973
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9bf128e1c0e44b3904544ff967f4e146",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":1327068069,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":1327068069,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1327068069,
+    "wof:lastmodified":1536709227,
+    "wof:name":"Yutuki",
+    "wof:parent_id":1092048931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.27476999999998,
+    27.59834,
+    85.27476999999998,
+    27.59834
+],
+  "geometry": {"coordinates":[85.27476999999998,27.59834],"type":"Point"}
+}

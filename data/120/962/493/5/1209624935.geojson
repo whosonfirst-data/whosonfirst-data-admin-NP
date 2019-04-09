@@ -1,0 +1,64 @@
+{
+  "id": 1209624935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.05627,26.53143,88.05627,26.53143",
+    "geom:latitude":26.53143,
+    "geom:longitude":88.05627,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Rangedada",
+    "gn:country_code":"NP",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11601304,
+    "gn:latitude":26.53143,
+    "gn:longitude":88.05627,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Ra\u1e45ge\u1e0d\u0101\u0303\u1e0d\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Ra\u1e45ge\u1e0d\u0101\u0303\u1e0d\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11601304
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cccc4b8736aa00fd8327f266f64f96e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209624935
+        }
+    ],
+    "wof:id":1209624935,
+    "wof:lastmodified":1537676117,
+    "wof:name":"Rangedada",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.05627,
+    26.53143,
+    88.05627,
+    26.53143
+],
+  "geometry": {"coordinates":[88.05627,26.53143],"type":"Point"}
+}

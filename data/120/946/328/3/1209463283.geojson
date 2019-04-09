@@ -1,0 +1,64 @@
+{
+  "id": 1209463283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.27682,26.98865,86.27682,26.98865",
+    "geom:latitude":26.98865,
+    "geom:longitude":86.27682,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200015.0",
+    "gn:asciiname":"Ratmate",
+    "gn:country_code":"NP",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7992737,
+    "gn:latitude":26.98865,
+    "gn:longitude":86.27682,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ratmate",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7992737
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a25538f3e3b8862be424bf92dd78061d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209463283
+        }
+    ],
+    "wof:id":1209463283,
+    "wof:lastmodified":1536286316,
+    "wof:name":"Ratmate",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.27682,
+    26.98865,
+    86.27682,
+    26.98865
+],
+  "geometry": {"coordinates":[86.27682,26.98865],"type":"Point"}
+}

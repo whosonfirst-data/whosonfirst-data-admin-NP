@@ -1,0 +1,64 @@
+{
+  "id": 1209362489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.64339,28.30023,83.64339,28.30023",
+    "geom:latitude":28.30023,
+    "geom:longitude":83.64339,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"44",
+    "gn:admin4_code":"440006",
+    "gn:asciiname":"Gajunge",
+    "gn:country_code":"NP",
+    "gn:dem":1527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7978273,
+    "gn:latitude":28.30023,
+    "gn:longitude":83.64339,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gajunge",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7978273
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d2a060964efce670538d20bb290693a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209362489
+        }
+    ],
+    "wof:id":1209362489,
+    "wof:lastmodified":1536289375,
+    "wof:name":"Gajunge",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.64339,
+    28.30023,
+    83.64339,
+    28.30023
+],
+  "geometry": {"coordinates":[83.64339,28.30023],"type":"Point"}
+}

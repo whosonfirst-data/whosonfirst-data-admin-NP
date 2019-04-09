@@ -1,0 +1,78 @@
+{
+  "id": 1242915449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.78963,27.8353,85.78963,27.8353",
+    "geom:latitude":27.8353,
+    "geom:longitude":85.78963,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"23",
+    "gn:admin4_code":"230032.0",
+    "gn:asciiname":"Khamare",
+    "gn:country_code":"NP",
+    "gn:dem":1191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7994816,
+    "gn:latitude":27.8353,
+    "gn:longitude":85.78963,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khamare",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7994816
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"82c72d49ee1944fada306d8dd1787d6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1242915449,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1242915449,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1242915449,
+    "wof:lastmodified":1537071055,
+    "wof:name":"Khamare",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.78963,
+    27.8353,
+    85.78963,
+    27.8353
+],
+  "geometry": {"coordinates":[85.78963,27.8353],"type":"Point"}
+}

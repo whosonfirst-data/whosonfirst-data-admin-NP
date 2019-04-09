@@ -1,0 +1,78 @@
+{
+  "id": 1226775811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.1978,29.183,81.1978,29.183",
+    "geom:latitude":29.183,
+    "geom:longitude":81.1978,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"69.0",
+    "gn:admin4_code":"690056.0",
+    "gn:asciiname":"Rolkholagaun",
+    "gn:country_code":"NP",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933053,
+    "gn:latitude":29.183,
+    "gn:longitude":81.1978,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Rolkholagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048527,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933053
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"686bfd8b07c2a66bb4019a7cf1d72fc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1226775811,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1226775811,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1226775811,
+    "wof:lastmodified":1536672334,
+    "wof:name":"Rolkholagaun",
+    "wof:parent_id":1092048527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.1978,
+    29.183,
+    81.1978,
+    29.183
+],
+  "geometry": {"coordinates":[81.1978,29.183],"type":"Point"}
+}

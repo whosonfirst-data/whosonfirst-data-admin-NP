@@ -1,0 +1,77 @@
+{
+  "id": 1225886377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.84811,28.81937,83.84811,28.81937",
+    "geom:latitude":28.81937,
+    "geom:longitude":83.84811,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Jharkot",
+    "gn:country_code":"NP",
+    "gn:dem":3518,
+    "gn:elevation":"3512.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6941673,
+    "gn:latitude":28.81937,
+    "gn:longitude":83.84811,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Jharkot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675553,
+        1092048365,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6941673
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"592333fc2935f58993ced9758e3c4c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048365,
+            "locality_id":1225886377,
+            "region_id":85675553
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048365,
+            "locality_id":1225886377,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1225886377,
+    "wof:lastmodified":1536955153,
+    "wof:name":"Jharkot",
+    "wof:parent_id":1092048365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.84810999999998,
+    28.81937000000001,
+    83.84810999999998,
+    28.81937000000001
+],
+  "geometry": {"coordinates":[83.84810999999998,28.81937000000001],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1309754465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.49971,27.93667,85.49971,27.93667",
+    "geom:latitude":27.93667,
+    "geom:longitude":85.49971,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"23",
+    "gn:admin4_code":"230030",
+    "gn:asciiname":"Sursing",
+    "gn:country_code":"NP",
+    "gn:dem":1795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7994792,
+    "gn:latitude":27.93667,
+    "gn:longitude":85.49971,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sursing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7994792
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cb726156f2f610417ba18a32e949bcc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1309754465,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1309754465,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1309754465,
+    "wof:lastmodified":1537004442,
+    "wof:name":"Sursing",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.49971,
+    27.93667,
+    85.49971,
+    27.93667
+],
+  "geometry": {"coordinates":[85.49970999999999,27.93667],"type":"Point"}
+}

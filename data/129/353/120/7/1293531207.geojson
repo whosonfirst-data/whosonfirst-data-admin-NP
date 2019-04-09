@@ -1,0 +1,78 @@
+{
+  "id": 1293531207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.19759,27.969,84.19759,27.969",
+    "geom:latitude":27.969,
+    "geom:longitude":84.19759,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380024.0",
+    "gn:asciiname":"Padheri Bhanjyang",
+    "gn:country_code":"NP",
+    "gn:dem":913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003665,
+    "gn:latitude":27.969,
+    "gn:longitude":84.19759,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Padheri Bhanjyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003665
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5f3b3e5ea6dd27713207d28483232737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1293531207,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1293531207,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293531207,
+    "wof:lastmodified":1536724403,
+    "wof:name":"Padheri Bhanjyang",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.19759,
+    27.969,
+    84.19759,
+    27.969
+],
+  "geometry": {"coordinates":[84.19759000000001,27.969],"type":"Point"}
+}

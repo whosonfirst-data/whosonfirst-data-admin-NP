@@ -1,0 +1,78 @@
+{
+  "id": 1243311289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.64436,28.20192,84.64436,28.20192",
+    "geom:latitude":28.20192,
+    "geom:longitude":84.64436,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360035.0",
+    "gn:asciiname":"Keprung",
+    "gn:country_code":"NP",
+    "gn:dem":1382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7948744,
+    "gn:latitude":28.20192,
+    "gn:longitude":84.64436,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Keprung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7948744
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e1ea48e82cc515f7d96d84e7730a6794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1243311289,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1243311289,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1243311289,
+    "wof:lastmodified":1536999705,
+    "wof:name":"Keprung",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.64435999999998,
+    28.20192,
+    84.64435999999998,
+    28.20192
+],
+  "geometry": {"coordinates":[84.64435999999998,28.20192],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1243016645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.02187,27.83916,85.02187,27.83916",
+    "geom:latitude":27.83916,
+    "geom:longitude":85.02187,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"28",
+    "gn:admin4_code":"280057",
+    "gn:asciiname":"Pimaltar",
+    "gn:country_code":"NP",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7974821,
+    "gn:latitude":27.83916,
+    "gn:longitude":85.02187,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pimaltar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7974821
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c5fd1d04935abbeb8660f85388e495bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1243016645,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1243016645,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1243016645,
+    "wof:lastmodified":1536928939,
+    "wof:name":"Pimaltar",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.02186999999998,
+    27.83916,
+    85.02186999999998,
+    27.83916
+],
+  "geometry": {"coordinates":[85.02186999999998,27.83916],"type":"Point"}
+}

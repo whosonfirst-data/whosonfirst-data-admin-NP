@@ -1,0 +1,78 @@
+{
+  "id": 1226175209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.93209,27.97814,82.93209,27.97814",
+    "geom:latitude":27.97814,
+    "geom:longitude":82.93209,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"52",
+    "gn:admin4_code":"520004",
+    "gn:asciiname":"Nepane",
+    "gn:country_code":"NP",
+    "gn:dem":1399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7979765,
+    "gn:latitude":27.97814,
+    "gn:longitude":82.93209,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nepane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049377,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7979765
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"489d3dfe2cc7f8101c7f8227026e9d8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1226175209,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1226175209,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1226175209,
+    "wof:lastmodified":1537033788,
+    "wof:name":"Nepane",
+    "wof:parent_id":1092049377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.93209,
+    27.97814,
+    82.93209,
+    27.97814
+],
+  "geometry": {"coordinates":[82.93209,27.97814],"type":"Point"}
+}

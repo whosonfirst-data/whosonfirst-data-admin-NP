@@ -1,0 +1,64 @@
+{
+  "id": 1209657091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.27037,26.58951,87.27037,26.58951",
+    "geom:latitude":26.58951,
+    "geom:longitude":87.27037,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"6.0",
+    "gn:admin4_code":"60050.0",
+    "gn:asciiname":"Bengari",
+    "gn:country_code":"NP",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7998383,
+    "gn:latitude":26.58951,
+    "gn:longitude":87.27037,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bengari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7998383
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"76a0f3bafafc789c1cb9576fdf330a5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209657091
+        }
+    ],
+    "wof:id":1209657091,
+    "wof:lastmodified":1536280391,
+    "wof:name":"Bengari",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.27037,
+    26.58951,
+    87.27037,
+    26.58951
+],
+  "geometry": {"coordinates":[87.27037,26.58951],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276272151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.68131,27.37567,85.68131,27.37567",
+    "geom:latitude":27.37567,
+    "geom:longitude":85.68131,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240005.0",
+    "gn:asciiname":"Bisaunidanda",
+    "gn:country_code":"NP",
+    "gn:dem":1387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7962624,
+    "gn:latitude":27.37567,
+    "gn:longitude":85.68131,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bisaunidanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7962624
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"55e7433f7317cc21e6e0356360144407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1276272151,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1276272151,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1276272151,
+    "wof:lastmodified":1536859330,
+    "wof:name":"Bisaunidanda",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.68131,
+    27.37567,
+    85.68131,
+    27.37567
+],
+  "geometry": {"coordinates":[85.68131,27.37567],"type":"Point"}
+}

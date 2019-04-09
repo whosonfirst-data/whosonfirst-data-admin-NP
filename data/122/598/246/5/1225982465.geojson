@@ -1,0 +1,76 @@
+{
+  "id": 1225982465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.61056,27.5387,85.61056,27.5387",
+    "geom:latitude":27.5387,
+    "geom:longitude":85.61056,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Chhatrebanjh",
+    "gn:country_code":"NP",
+    "gn:dem":1499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8469144,
+    "gn:latitude":27.5387,
+    "gn:longitude":85.61056,
+    "gn:modification_date":"2013-03-03",
+    "gn:name":"Chhatrebanjh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8469144
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7b4f680c25a2841fffc555e871ca70d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1225982465,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1225982465,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1225982465,
+    "wof:lastmodified":1536815513,
+    "wof:name":"Chhatrebanjh",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.61055999999998,
+    27.5387,
+    85.61055999999998,
+    27.5387
+],
+  "geometry": {"coordinates":[85.61055999999998,27.5387],"type":"Point"}
+}

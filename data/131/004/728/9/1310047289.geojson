@@ -1,0 +1,78 @@
+{
+  "id": 1310047289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.08311,28.25905,84.08311,28.25905",
+    "geom:latitude":28.25905,
+    "geom:longitude":84.08311,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400043.0",
+    "gn:asciiname":"Thulo Besi",
+    "gn:country_code":"NP",
+    "gn:dem":916,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7961802,
+    "gn:latitude":28.25905,
+    "gn:longitude":84.08311,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thulo Besi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092049331,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7961802
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"32d6deabeb3c85bffd1dbc3f058c6ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1310047289,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1310047289,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1310047289,
+    "wof:lastmodified":1537077286,
+    "wof:name":"Thulo Besi",
+    "wof:parent_id":1092049331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.08310999999998,
+    28.25905,
+    84.08310999999998,
+    28.25905
+],
+  "geometry": {"coordinates":[84.08310999999998,28.25905],"type":"Point"}
+}

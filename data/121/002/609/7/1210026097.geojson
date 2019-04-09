@@ -1,0 +1,78 @@
+{
+  "id": 1210026097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.96688,28.02566,84.96688,28.02566",
+    "geom:latitude":28.02566,
+    "geom:longitude":84.96688,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Boran",
+    "gn:country_code":"NP",
+    "gn:dem":828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10337789,
+    "gn:latitude":28.02566,
+    "gn:longitude":84.96688,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Bor\u0101\u1e45",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Bor\u0101\u1e45"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10337789
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"83cd4c736c153d56c911a87c5f1400f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1210026097,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1210026097,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1210026097,
+    "wof:lastmodified":1537676108,
+    "wof:name":"Boran",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.96688,
+    28.02566,
+    84.96688,
+    28.02566
+],
+  "geometry": {"coordinates":[84.96688,28.02566],"type":"Point"}
+}

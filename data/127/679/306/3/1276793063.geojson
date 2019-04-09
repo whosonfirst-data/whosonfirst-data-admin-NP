@@ -1,0 +1,78 @@
+{
+  "id": 1276793063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.32866,28.13401,82.32866,28.13401",
+    "geom:latitude":28.13401,
+    "geom:longitude":82.32866,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"560013.0",
+    "gn:asciiname":"Mateka",
+    "gn:country_code":"NP",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7938644,
+    "gn:latitude":28.13401,
+    "gn:longitude":82.32866,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mateka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048605,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7938644
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1f9389f2137b9aa2ff5a5af62aa08b2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1276793063,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1276793063,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1276793063,
+    "wof:lastmodified":1536660110,
+    "wof:name":"Mateka",
+    "wof:parent_id":1092048605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.32866,
+    28.13401,
+    82.32866,
+    28.13401
+],
+  "geometry": {"coordinates":[82.32866,28.13401],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260209963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.61982,29.96238,80.61982,29.96238",
+    "geom:latitude":29.96238,
+    "geom:longitude":80.61982,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"75.0",
+    "gn:admin4_code":"750011.0",
+    "gn:asciiname":"Naji",
+    "gn:country_code":"NP",
+    "gn:dem":1255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7940354,
+    "gn:latitude":29.96238,
+    "gn:longitude":80.61982,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Naji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632469,
+        85672209,
+        890503669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7940354
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e960bb38f20d64c89634e67940b3822f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890503669,
+            "locality_id":1260209963,
+            "region_id":85672209
+        }
+    ],
+    "wof:id":1260209963,
+    "wof:lastmodified":1536811271,
+    "wof:name":"Naji",
+    "wof:parent_id":890503669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.61981999999998,
+    29.96238,
+    80.61981999999998,
+    29.96238
+],
+  "geometry": {"coordinates":[80.61981999999998,29.96238],"type":"Point"}
+}

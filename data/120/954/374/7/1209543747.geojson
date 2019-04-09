@@ -1,0 +1,64 @@
+{
+  "id": 1209543747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.08905,28.49546,81.08905,28.49546",
+    "geom:latitude":28.49546,
+    "geom:longitude":81.08905,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710042.0",
+    "gn:asciiname":"Kodaipur",
+    "gn:country_code":"NP",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7957889,
+    "gn:latitude":28.49546,
+    "gn:longitude":81.08905,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kodaipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7957889
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d8fb446b364049c72bb772613b2c2b14",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209543747
+        }
+    ],
+    "wof:id":1209543747,
+    "wof:lastmodified":1536283907,
+    "wof:name":"Kodaipur",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.08905,
+    28.49546,
+    81.08905,
+    28.49546
+],
+  "geometry": {"coordinates":[81.08905,28.49546],"type":"Point"}
+}

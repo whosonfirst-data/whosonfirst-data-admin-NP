@@ -1,0 +1,64 @@
+{
+  "id": 1209452977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.05849,26.85912,85.05849,26.85912",
+    "geom:latitude":26.85912,
+    "geom:longitude":85.05849,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"330069.0",
+    "gn:asciiname":"Inarwa",
+    "gn:country_code":"NP",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009036,
+    "gn:latitude":26.85912,
+    "gn:longitude":85.05849,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Inarwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009036
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"adc1438a09142ba4e98e7b3a4ed1c6be",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209452977
+        }
+    ],
+    "wof:id":1209452977,
+    "wof:lastmodified":1536286621,
+    "wof:name":"Inarwa",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.05849,
+    26.85912,
+    85.05849,
+    26.85912
+],
+  "geometry": {"coordinates":[85.05849000000001,26.85912],"type":"Point"}
+}

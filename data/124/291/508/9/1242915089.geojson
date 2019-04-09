@@ -1,0 +1,78 @@
+{
+  "id": 1242915089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.32986,27.92813,84.32986,27.92813",
+    "geom:latitude":27.92813,
+    "geom:longitude":84.32986,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380026.0",
+    "gn:asciiname":"Rumsi",
+    "gn:country_code":"NP",
+    "gn:dem":880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003830,
+    "gn:latitude":27.92813,
+    "gn:longitude":84.32986,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Rumsi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003830
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e8a8e4526f18554eaf55c27a285a3cd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1242915089,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1242915089,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1242915089,
+    "wof:lastmodified":1537071517,
+    "wof:name":"Rumsi",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.32986,
+    27.92813,
+    84.32986,
+    27.92813
+],
+  "geometry": {"coordinates":[84.32986,27.92813],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209643625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.05454,28.44967,81.05454,28.44967",
+    "geom:latitude":28.44967,
+    "geom:longitude":81.05454,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710008.0",
+    "gn:asciiname":"Bauniya",
+    "gn:country_code":"NP",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956412,
+    "gn:latitude":28.44967,
+    "gn:longitude":81.05454,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bauniya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956412
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2c4e094ae7fbad371e8cb9ed39b9ee93",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209643625
+        }
+    ],
+    "wof:id":1209643625,
+    "wof:lastmodified":1536280806,
+    "wof:name":"Bauniya",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.05454,
+    28.44967,
+    81.05454,
+    28.44967
+],
+  "geometry": {"coordinates":[81.05454,28.44967],"type":"Point"}
+}

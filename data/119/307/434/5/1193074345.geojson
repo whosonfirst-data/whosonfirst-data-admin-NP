@@ -1,0 +1,77 @@
+{
+  "id": 1193074345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.6166,28.68893,83.6166,28.68893",
+    "geom:latitude":28.68893,
+    "geom:longitude":83.6166,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Kobang",
+    "gn:country_code":"NP",
+    "gn:dem":2559,
+    "gn:elevation":"2540.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6941671,
+    "gn:latitude":28.68893,
+    "gn:longitude":83.6166,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Kobang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675553,
+        1092048365,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6941671
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7789aa3633e738afeb5e6335deb20ab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048365,
+            "locality_id":1193074345,
+            "region_id":85675553
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048365,
+            "locality_id":1193074345,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1193074345,
+    "wof:lastmodified":1536365306,
+    "wof:name":"Kobang",
+    "wof:parent_id":1092048365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.6166,
+    28.68893,
+    83.6166,
+    28.68893
+],
+  "geometry": {"coordinates":[83.61660000000001,28.68893],"type":"Point"}
+}

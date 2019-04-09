@@ -1,0 +1,78 @@
+{
+  "id": 1209965091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.06473,27.12699,85.06473,27.12699",
+    "geom:latitude":27.12699,
+    "geom:longitude":85.06473,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"330064.0",
+    "gn:asciiname":"Kushmari",
+    "gn:country_code":"NP",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008988,
+    "gn:latitude":27.12699,
+    "gn:longitude":85.06473,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kushmari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092048051,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008988
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"069d1aaa6ae3c8dbbde6d1d01de85631",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1209965091,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1209965091,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1209965091,
+    "wof:lastmodified":1536369326,
+    "wof:name":"Kushmari",
+    "wof:parent_id":1092048051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.06473000000003,
+    27.12699000000001,
+    85.06473000000003,
+    27.12699000000001
+],
+  "geometry": {"coordinates":[85.06473000000003,27.12699000000001],"type":"Point"}
+}

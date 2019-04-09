@@ -1,0 +1,75 @@
+{
+  "id": 1343876233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.25703,27.71898,83.25703,27.71898",
+    "geom:latitude":27.71898,
+    "geom:longitude":83.25703,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Khaireni",
+    "gn:country_code":"NP",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283221,
+    "gn:latitude":27.71898,
+    "gn:longitude":83.25703,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Khaireni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048457,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283221
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"15df6aa0f333f15dfda5a62a365ad2cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1343876233,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1343876233,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1343876233,
+    "wof:lastmodified":1536643157,
+    "wof:name":"Khaireni",
+    "wof:parent_id":1092048457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.25703,
+    27.71898,
+    83.25703,
+    27.71898
+],
+  "geometry": {"coordinates":[83.25703,27.71898],"type":"Point"}
+}

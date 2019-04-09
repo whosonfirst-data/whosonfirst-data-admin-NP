@@ -1,0 +1,78 @@
+{
+  "id": 1276692259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.23155,29.40779,81.23155,29.40779",
+    "geom:latitude":29.40779,
+    "geom:longitude":81.23155,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"67.0",
+    "gn:admin4_code":"670018.0",
+    "gn:asciiname":"Laske",
+    "gn:country_code":"NP",
+    "gn:dem":2337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003290,
+    "gn:latitude":29.40779,
+    "gn:longitude":81.23155,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Laske",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050627,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003290
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9c163406c7f9e0d77cfb84c4d47a70bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050627,
+            "locality_id":1276692259,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050627,
+            "locality_id":1276692259,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1276692259,
+    "wof:lastmodified":1536795005,
+    "wof:name":"Laske",
+    "wof:parent_id":1092050627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.23155,
+    29.40779,
+    81.23155,
+    29.40779
+],
+  "geometry": {"coordinates":[81.23155,29.40779],"type":"Point"}
+}

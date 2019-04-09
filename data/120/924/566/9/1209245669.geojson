@@ -1,0 +1,64 @@
+{
+  "id": 1209245669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.82766,29.43685,81.82766,29.43685",
+    "geom:latitude":29.43685,
+    "geom:longitude":81.82766,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"64.0",
+    "gn:admin4_code":"640005.0",
+    "gn:asciiname":"Bhateda",
+    "gn:country_code":"NP",
+    "gn:dem":2904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7958064,
+    "gn:latitude":29.43685,
+    "gn:longitude":81.82766,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhateda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7958064
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ca11616c1e1f73c870fc2c543e5f70e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209245669
+        }
+    ],
+    "wof:id":1209245669,
+    "wof:lastmodified":1536293173,
+    "wof:name":"Bhateda",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.82766,
+    29.43685,
+    81.82766,
+    29.43685
+],
+  "geometry": {"coordinates":[81.82765999999999,29.43685],"type":"Point"}
+}

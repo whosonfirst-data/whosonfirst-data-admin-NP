@@ -1,0 +1,78 @@
+{
+  "id": 1259431061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.19137,27.02051,85.19137,27.02051",
+    "geom:latitude":27.02051,
+    "geom:longitude":85.19137,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"330004.0",
+    "gn:asciiname":"Ramdasi",
+    "gn:country_code":"NP",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008610,
+    "gn:latitude":27.02051,
+    "gn:longitude":85.19137,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ramdasi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049419,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008610
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"448668d126a6581c64b5665111807726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1259431061,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1259431061,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1259431061,
+    "wof:lastmodified":1536934973,
+    "wof:name":"Ramdasi",
+    "wof:parent_id":1092049419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.19136999999998,
+    27.02051,
+    85.19136999999998,
+    27.02051
+],
+  "geometry": {"coordinates":[85.19136999999998,27.02051],"type":"Point"}
+}

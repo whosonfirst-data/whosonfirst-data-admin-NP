@@ -1,0 +1,78 @@
+{
+  "id": 1327160541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.43592,29.52497,81.43592,29.52497",
+    "geom:latitude":29.52497,
+    "geom:longitude":81.43592,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"67.0",
+    "gn:admin4_code":"670009.0",
+    "gn:asciiname":"Rajwan Goth",
+    "gn:country_code":"NP",
+    "gn:dem":2311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001222,
+    "gn:latitude":29.52497,
+    "gn:longitude":81.43592,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Rajwan Goth",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050627,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001222
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"13d8e888646453819a64c5221f5f83ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050627,
+            "locality_id":1327160541,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050627,
+            "locality_id":1327160541,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1327160541,
+    "wof:lastmodified":1537070425,
+    "wof:name":"Rajwan Goth",
+    "wof:parent_id":1092050627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.43592,
+    29.52497,
+    81.43592,
+    29.52497
+],
+  "geometry": {"coordinates":[81.43592,29.52497],"type":"Point"}
+}

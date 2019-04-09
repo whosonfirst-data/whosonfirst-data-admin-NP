@@ -1,0 +1,92 @@
+{
+  "id": 421197109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.25,29.66667,81.25,29.66667",
+    "geom:latitude":29.66667,
+    "geom:longitude":81.25,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Baj\u0101ng"
+    ],
+    "qs:gn_country":"NP",
+    "qs:gn_fcode":"ADM3",
+    "qs:gn_id":1283699,
+    "qs:gn_pop":175236,
+    "qs:name":"Bajhang",
+    "qs:name_adm0":"Nepal",
+    "qs:name_adm1":"Sudur Pashchimanchal",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"9",
+    "qs:qs_id":1308569,
+    "qs:woe_adm0":23424911,
+    "qs:woe_id":2268332,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048571,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283699,
+        "gp:id":2268332,
+        "qs:id":1308569,
+        "wd:id":"Q28592",
+        "wk:page":"Bajhang District"
+    },
+    "wof:country":"NP",
+    "wof:created":1459009903,
+    "wof:geomhash":"502a3a22e0265273771b4ee27b8bada2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":421197109,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":421197109,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":421197109,
+    "wof:lastmodified":1505340749,
+    "wof:name":"Bajhang",
+    "wof:parent_id":1092048571,
+    "wof:placetype":"locality",
+    "wof:population":175236,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.25,
+    29.66667,
+    81.25,
+    29.66667
+],
+  "geometry": {"coordinates":[81.25,29.66667],"type":"Point"}
+}

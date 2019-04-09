@@ -1,0 +1,78 @@
+{
+  "id": 1260017651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.67388,27.66147,85.67388,27.66147",
+    "geom:latitude":27.66147,
+    "geom:longitude":85.67388,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240036.0",
+    "gn:asciiname":"Dhaireni",
+    "gn:country_code":"NP",
+    "gn:dem":1115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7963132,
+    "gn:latitude":27.66147,
+    "gn:longitude":85.67388,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhaireni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7963132
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"af97c1d15d3de59a5014077620be52a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1260017651,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1260017651,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1260017651,
+    "wof:lastmodified":1537079622,
+    "wof:name":"Dhaireni",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.67388000000003,
+    27.66147,
+    85.67388000000003,
+    27.66147
+],
+  "geometry": {"coordinates":[85.67388000000003,27.66147],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1309832319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.65202,28.61872,81.65202,28.61872",
+    "geom:latitude":28.61872,
+    "geom:longitude":81.65202,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590023.0",
+    "gn:asciiname":"Dahaldanda",
+    "gn:country_code":"NP",
+    "gn:dem":1027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7999273,
+    "gn:latitude":28.61872,
+    "gn:longitude":81.65202,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dahaldanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7999273
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f6b19567bd510c132f169caa4d881bb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1309832319,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1309832319,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1309832319,
+    "wof:lastmodified":1536892695,
+    "wof:name":"Dahaldanda",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.65202,
+    28.61872,
+    81.65202,
+    28.61872
+],
+  "geometry": {"coordinates":[81.65201999999999,28.61872],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1243081925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.96009,27.22766,85.96009,27.22766",
+    "geom:latitude":27.22766,
+    "geom:longitude":85.96009,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Thakledado",
+    "gn:country_code":"NP",
+    "gn:dem":833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10351451,
+    "gn:latitude":27.22766,
+    "gn:longitude":85.96009,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Th\u0101kle\u1e0d\u0101\u0303\u1e0do",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Th\u0101kle\u1e0d\u0101\u0303\u1e0do",
+        "Th\u0101kle\u1e0d\u0101n\u1e0do"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049679,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10351451
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c1f0adab0680e4c3339e8e3573166fd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1243081925,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1243081925,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1243081925,
+    "wof:lastmodified":1537676109,
+    "wof:name":"Thakledado",
+    "wof:parent_id":1092049679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.96009000000002,
+    27.22766,
+    85.96009000000002,
+    27.22766
+],
+  "geometry": {"coordinates":[85.96009000000002,27.22766],"type":"Point"}
+}

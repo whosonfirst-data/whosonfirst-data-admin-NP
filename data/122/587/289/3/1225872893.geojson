@@ -1,0 +1,78 @@
+{
+  "id": 1225872893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.27727,29.32151,83.27727,29.32151",
+    "geom:latitude":29.32151,
+    "geom:longitude":83.27727,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"62.0",
+    "gn:admin4_code":"620022.0",
+    "gn:asciiname":"Chhamdang",
+    "gn:country_code":"NP",
+    "gn:dem":4251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7945763,
+    "gn:latitude":29.32151,
+    "gn:longitude":83.27727,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chhamdang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050349,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7945763
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4c6a829eda2d2bb1ffd72810cfe1020f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1225872893,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1225872893,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1225872893,
+    "wof:lastmodified":1536974180,
+    "wof:name":"Chhamdang",
+    "wof:parent_id":1092050349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.27727,
+    29.32151,
+    83.27727,
+    29.32151
+],
+  "geometry": {"coordinates":[83.27727,29.32151],"type":"Point"}
+}

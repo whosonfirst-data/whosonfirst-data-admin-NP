@@ -1,0 +1,64 @@
+{
+  "id": 1209362537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.86668,28.52114,84.86668,28.52114",
+    "geom:latitude":28.52114,
+    "geom:longitude":84.86668,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360010.0",
+    "gn:asciiname":"Krayak",
+    "gn:country_code":"NP",
+    "gn:dem":2221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7948015,
+    "gn:latitude":28.52114,
+    "gn:longitude":84.86668,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Krayak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7948015
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1c98cd5684011327ab5b860dba625cd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209362537
+        }
+    ],
+    "wof:id":1209362537,
+    "wof:lastmodified":1536289374,
+    "wof:name":"Krayak",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.86668,
+    28.521140000000006,
+    84.86668,
+    28.521140000000006
+],
+  "geometry": {"coordinates":[84.86668,28.52114000000001],"type":"Point"}
+}

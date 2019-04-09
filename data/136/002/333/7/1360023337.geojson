@@ -1,0 +1,78 @@
+{
+  "id": 1360023337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.91482,27.66963,84.91482,27.66963",
+    "geom:latitude":27.66963,
+    "geom:longitude":84.91482,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310013",
+    "gn:asciiname":"Kholakharka",
+    "gn:country_code":"NP",
+    "gn:dem":1448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7968086,
+    "gn:latitude":27.66963,
+    "gn:longitude":84.91482,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kholakharka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7968086
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"03c7c45aad80301cf2fde15fd53fd09b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1360023337,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1360023337,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1360023337,
+    "wof:lastmodified":1537033225,
+    "wof:name":"Kholakharka",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.91481999999998,
+    27.66963,
+    84.91481999999998,
+    27.66963
+],
+  "geometry": {"coordinates":[84.91481999999998,27.66963],"type":"Point"}
+}

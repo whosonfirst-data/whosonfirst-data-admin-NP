@@ -1,0 +1,78 @@
+{
+  "id": 1310232989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.23765,28.43069,82.23765,28.43069",
+    "geom:latitude":28.43069,
+    "geom:longitude":82.23765,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550003",
+    "gn:asciiname":"Barachaur",
+    "gn:country_code":"NP",
+    "gn:dem":1253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7987953,
+    "gn:latitude":28.43069,
+    "gn:longitude":82.23765,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Barachaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049579,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7987953
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bb275d526efc3328694f8ac52c47c65b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1310232989,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1310232989,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1310232989,
+    "wof:lastmodified":1536812138,
+    "wof:name":"Barachaur",
+    "wof:parent_id":1092049579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.23765,
+    28.43069,
+    82.23765,
+    28.43069
+],
+  "geometry": {"coordinates":[82.23765,28.43069],"type":"Point"}
+}

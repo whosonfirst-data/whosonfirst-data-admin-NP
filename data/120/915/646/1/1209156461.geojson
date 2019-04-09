@@ -1,0 +1,64 @@
+{
+  "id": 1209156461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.10953,27.40225,87.10953,27.40225",
+    "geom:latitude":27.40225,
+    "geom:longitude":87.10953,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100043.0",
+    "gn:asciiname":"Simle",
+    "gn:country_code":"NP",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933586,
+    "gn:latitude":27.40225,
+    "gn:longitude":87.10953,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Simle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933586
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1df0c64dba67b5f8e08e87b05c6b4f3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209156461
+        }
+    ],
+    "wof:id":1209156461,
+    "wof:lastmodified":1536296041,
+    "wof:name":"Simle",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.10953,
+    27.40225,
+    87.10953,
+    27.40225
+],
+  "geometry": {"coordinates":[87.10953000000001,27.40225],"type":"Point"}
+}

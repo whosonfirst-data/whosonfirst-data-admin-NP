@@ -1,0 +1,78 @@
+{
+  "id": 1276924049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.27852,26.81701,87.27852,26.81701",
+    "geom:latitude":26.81701,
+    "geom:longitude":87.27852,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"6.0",
+    "gn:admin4_code":"60018.0",
+    "gn:asciiname":"Motimarg",
+    "gn:country_code":"NP",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7997681,
+    "gn:latitude":26.81701,
+    "gn:longitude":87.27852,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Motimarg",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049923,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7997681
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8b6e1797286f1bcfdebc6878721d2050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1276924049,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1276924049,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1276924049,
+    "wof:lastmodified":1536981407,
+    "wof:name":"Motimarg",
+    "wof:parent_id":1092049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.27852,
+    26.81701,
+    87.27852,
+    26.81701
+],
+  "geometry": {"coordinates":[87.27852,26.81701],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1243496379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.50326,27.77265,84.50326,27.77265",
+    "geom:latitude":27.77265,
+    "geom:longitude":84.50326,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"35.0",
+    "gn:admin4_code":"350018.0",
+    "gn:asciiname":"Kusumtar",
+    "gn:country_code":"NP",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7934565,
+    "gn:latitude":27.77265,
+    "gn:longitude":84.50326,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kusumtar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092050101,
+        85675585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7934565
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fb67e07e49e10256e2fd8d45ac53c33f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":1243496379,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":1243496379,
+            "region_id":85675585
+        }
+    ],
+    "wof:id":1243496379,
+    "wof:lastmodified":1536733823,
+    "wof:name":"Kusumtar",
+    "wof:parent_id":1092050101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.50326,
+    27.77265,
+    84.50326,
+    27.77265
+],
+  "geometry": {"coordinates":[84.50326,27.77265],"type":"Point"}
+}

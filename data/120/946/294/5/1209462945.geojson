@@ -1,0 +1,64 @@
+{
+  "id": 1209462945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.16912,28.35443,83.16912,28.35443",
+    "geom:latitude":28.35443,
+    "geom:longitude":83.16912,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450020.0",
+    "gn:asciiname":"Ghosakhani",
+    "gn:country_code":"NP",
+    "gn:dem":1623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7954739,
+    "gn:latitude":28.35443,
+    "gn:longitude":83.16912,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ghosakhani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7954739
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3b95838eea47c016c59b784cab33e3e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209462945
+        }
+    ],
+    "wof:id":1209462945,
+    "wof:lastmodified":1536286323,
+    "wof:name":"Ghosakhani",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.16911999999998,
+    28.35443,
+    83.16911999999998,
+    28.35443
+],
+  "geometry": {"coordinates":[83.16911999999998,28.35443],"type":"Point"}
+}

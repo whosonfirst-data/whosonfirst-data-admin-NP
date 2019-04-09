@@ -1,0 +1,64 @@
+{
+  "id": 1209356817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.00596,27.71724,85.00596,27.71724",
+    "geom:latitude":27.71724,
+    "geom:longitude":85.00596,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300005.0",
+    "gn:asciiname":"Chhotikharka",
+    "gn:country_code":"NP",
+    "gn:dem":1727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7941177,
+    "gn:latitude":27.71724,
+    "gn:longitude":85.00596,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chhotikharka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7941177
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"047d1b855b141c26db34dc5337335bff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209356817
+        }
+    ],
+    "wof:id":1209356817,
+    "wof:lastmodified":1536289563,
+    "wof:name":"Chhotikharka",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.00596,
+    27.717240000000004,
+    85.00596,
+    27.717240000000004
+],
+  "geometry": {"coordinates":[85.00596,27.71724],"type":"Point"}
+}

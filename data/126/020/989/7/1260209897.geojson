@@ -1,0 +1,78 @@
+{
+  "id": 1260209897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.80485,28.07364,82.80485,28.07364",
+    "geom:latitude":28.07364,
+    "geom:longitude":82.80485,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"52",
+    "gn:admin4_code":"520012",
+    "gn:asciiname":"Kitghat",
+    "gn:country_code":"NP",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7979994,
+    "gn:latitude":28.07364,
+    "gn:longitude":82.80485,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kitghat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049377,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7979994
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"23c234570d686476125e7b8cf616f7e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1260209897,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1260209897,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1260209897,
+    "wof:lastmodified":1536811351,
+    "wof:name":"Kitghat",
+    "wof:parent_id":1092049377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.80485,
+    28.07364,
+    82.80485,
+    28.07364
+],
+  "geometry": {"coordinates":[82.80485,28.07364],"type":"Point"}
+}

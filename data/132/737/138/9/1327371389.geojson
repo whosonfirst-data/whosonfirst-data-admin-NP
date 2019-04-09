@@ -1,0 +1,79 @@
+{
+  "id": 1327371389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.62308,28.26251,83.62308,28.26251",
+    "geom:latitude":28.26251,
+    "geom:longitude":83.62308,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"44",
+    "gn:admin4_code":"440041",
+    "gn:asciiname":"Pang",
+    "gn:country_code":"NP",
+    "gn:dem":1062,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7978880,
+    "gn:latitude":28.26251,
+    "gn:longitude":83.62308,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049297,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7978880,
+        "wk:page":"Pang%2C_Dhawalagiri"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b97e2c2ece0465145950cde6fa5923fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049297,
+            "locality_id":1327371389,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049297,
+            "locality_id":1327371389,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1327371389,
+    "wof:lastmodified":1537570152,
+    "wof:name":"Pang",
+    "wof:parent_id":1092049297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.62308,
+    28.26251,
+    83.62308,
+    28.26251
+],
+  "geometry": {"coordinates":[83.62308,28.26251],"type":"Point"}
+}

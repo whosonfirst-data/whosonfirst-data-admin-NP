@@ -1,0 +1,78 @@
+{
+  "id": 1293437743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.09375,28.26934,84.09375,28.26934",
+    "geom:latitude":28.26934,
+    "geom:longitude":84.09375,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400043.0",
+    "gn:asciiname":"Syarchok",
+    "gn:country_code":"NP",
+    "gn:dem":1224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7961799,
+    "gn:latitude":28.26934,
+    "gn:longitude":84.09375,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Syarchok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092049331,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7961799
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2cfae33b8c9f605929183b072b44e607",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1293437743,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1293437743,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293437743,
+    "wof:lastmodified":1536857566,
+    "wof:name":"Syarchok",
+    "wof:parent_id":1092049331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.09375,
+    28.26934,
+    84.09375,
+    28.26934
+],
+  "geometry": {"coordinates":[84.09375,28.26934],"type":"Point"}
+}

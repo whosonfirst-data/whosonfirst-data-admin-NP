@@ -1,0 +1,78 @@
+{
+  "id": 1343303709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.62891,28.41086,83.62891,28.41086",
+    "geom:latitude":28.41086,
+    "geom:longitude":83.62891,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"43",
+    "gn:admin4_code":"430016",
+    "gn:asciiname":"Kolalibang",
+    "gn:country_code":"NP",
+    "gn:dem":1909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7972180,
+    "gn:latitude":28.41086,
+    "gn:longitude":83.62891,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kolalibang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675553,
+        1092049089,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7972180
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6591163c95d9eda3241958a97da095ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049089,
+            "locality_id":1343303709,
+            "region_id":85675553
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049089,
+            "locality_id":1343303709,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1343303709,
+    "wof:lastmodified":1536972069,
+    "wof:name":"Kolalibang",
+    "wof:parent_id":1092049089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.62891,
+    28.41086,
+    83.62891,
+    28.41086
+],
+  "geometry": {"coordinates":[83.62891,28.41086],"type":"Point"}
+}

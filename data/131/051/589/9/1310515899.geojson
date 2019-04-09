@@ -1,0 +1,81 @@
+{
+  "id": 1310515899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.15348,29.10412,80.15348,29.10412",
+    "geom:latitude":29.10412,
+    "geom:longitude":80.15348,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Barmdeo Mandi",
+    "gn:country_code":"NP",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283655,
+    "gn:latitude":29.10412,
+    "gn:longitude":80.15348,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Barmdeo Mandi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bramhadeu Mandi",
+        "Barnideo Mandi",
+        "Bramahdeomandi",
+        "Barmdeo Mandi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048227,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283655
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0ea2c2f1439a6e488ecc71bfe08f94af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1310515899,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1310515899,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1310515899,
+    "wof:lastmodified":1537676062,
+    "wof:name":"Barmdeo Mandi",
+    "wof:parent_id":1092048227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.15348,
+    29.10412,
+    80.15348,
+    29.10412
+],
+  "geometry": {"coordinates":[80.15348,29.10412],"type":"Point"}
+}

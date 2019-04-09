@@ -1,0 +1,78 @@
+{
+  "id": 1310147961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.1934,27.72458,85.1934,27.72458",
+    "geom:latitude":27.72458,
+    "geom:longitude":85.1934,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300008.0",
+    "gn:asciiname":"Rupakot",
+    "gn:country_code":"NP",
+    "gn:dem":1059,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7941275,
+    "gn:latitude":27.72458,
+    "gn:longitude":85.1934,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Rupakot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7941275
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0ae03d05ca3fd12eee54b529ec8dd37d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1310147961,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1310147961,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1310147961,
+    "wof:lastmodified":1536936125,
+    "wof:name":"Rupakot",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.1934,
+    27.72458,
+    85.1934,
+    27.72458
+],
+  "geometry": {"coordinates":[85.1934,27.72458],"type":"Point"}
+}

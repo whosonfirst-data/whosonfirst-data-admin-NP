@@ -1,0 +1,78 @@
+{
+  "id": 1260005719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.07772,29.35764,82.07772,29.35764",
+    "geom:latitude":29.35764,
+    "geom:longitude":82.07772,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"630027.0",
+    "gn:asciiname":"Dike",
+    "gn:country_code":"NP",
+    "gn:dem":3277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956108,
+    "gn:latitude":29.35764,
+    "gn:longitude":82.07772,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dike",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092050797,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956108
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"80b6e4871749b13d50da0e0a73fc1a62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1260005719,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1260005719,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1260005719,
+    "wof:lastmodified":1537096730,
+    "wof:name":"Dike",
+    "wof:parent_id":1092050797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.07772,
+    29.35764,
+    82.07772,
+    29.35764
+],
+  "geometry": {"coordinates":[82.07772,29.35764],"type":"Point"}
+}

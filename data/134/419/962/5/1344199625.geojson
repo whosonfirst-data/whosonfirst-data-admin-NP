@@ -1,0 +1,78 @@
+{
+  "id": 1344199625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.30021,27.64849,84.30021,27.64849",
+    "geom:latitude":27.64849,
+    "geom:longitude":84.30021,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"35.0",
+    "gn:admin4_code":"350015.0",
+    "gn:asciiname":"Bhawanichok",
+    "gn:country_code":"NP",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7934493,
+    "gn:latitude":27.64849,
+    "gn:longitude":84.30021,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhawanichok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092050101,
+        85675585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7934493
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a0f6858a2efbb36342c7c69ca896989d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":1344199625,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":1344199625,
+            "region_id":85675585
+        }
+    ],
+    "wof:id":1344199625,
+    "wof:lastmodified":1536674800,
+    "wof:name":"Bhawanichok",
+    "wof:parent_id":1092050101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.30020999999998,
+    27.64849,
+    84.30020999999998,
+    27.64849
+],
+  "geometry": {"coordinates":[84.30020999999998,27.64849],"type":"Point"}
+}

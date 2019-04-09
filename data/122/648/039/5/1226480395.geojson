@@ -1,0 +1,78 @@
+{
+  "id": 1226480395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.89826,28.00024,84.89826,28.00024",
+    "geom:latitude":28.00024,
+    "geom:longitude":84.89826,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300050.0",
+    "gn:asciiname":"Khahare Bajar",
+    "gn:country_code":"NP",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7942553,
+    "gn:latitude":28.00024,
+    "gn:longitude":84.89826,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khahare Bajar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7942553
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b89b5335e22546a12ed88f09581032a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1226480395,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1226480395,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1226480395,
+    "wof:lastmodified":1537088935,
+    "wof:name":"Khahare Bajar",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.89826,
+    28.00024,
+    84.89826,
+    28.00024
+],
+  "geometry": {"coordinates":[84.89825999999999,28.00024],"type":"Point"}
+}

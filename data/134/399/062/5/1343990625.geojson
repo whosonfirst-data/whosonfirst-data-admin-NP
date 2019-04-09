@@ -1,0 +1,77 @@
+{
+  "id": 1343990625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.22833,29.27778,81.22833,29.27778",
+    "geom:latitude":29.27778,
+    "geom:longitude":81.22833,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:asciiname":"Ghughurkot",
+    "gn:country_code":"NP",
+    "gn:dem":975,
+    "gn:elevation":"1284.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8521511,
+    "gn:latitude":29.27778,
+    "gn:longitude":81.22833,
+    "gn:modification_date":"2013-04-24",
+    "gn:name":"Ghughurkot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048527,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8521511
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"43a8ccd42a0d6c5dd469580f5a489a89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1343990625,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1343990625,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1343990625,
+    "wof:lastmodified":1536975931,
+    "wof:name":"Ghughurkot",
+    "wof:parent_id":1092048527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.22833,
+    29.27778,
+    81.22833,
+    29.27778
+],
+  "geometry": {"coordinates":[81.22833,29.27778],"type":"Point"}
+}

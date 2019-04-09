@@ -1,0 +1,78 @@
+{
+  "id": 1210049215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.51867,28.26419,82.51867,28.26419",
+    "geom:latitude":28.26419,
+    "geom:longitude":82.51867,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530025",
+    "gn:asciiname":"Kharsedanda",
+    "gn:country_code":"NP",
+    "gn:dem":1582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7983819,
+    "gn:latitude":28.26419,
+    "gn:longitude":82.51867,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kharsedanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7983819
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"471b4e63c41b99fba45ec2e8305a05f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1210049215,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1210049215,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1210049215,
+    "wof:lastmodified":1536375517,
+    "wof:name":"Kharsedanda",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.51867,
+    28.26419000000001,
+    82.51867,
+    28.26419000000001
+],
+  "geometry": {"coordinates":[82.51867,28.26419000000001],"type":"Point"}
+}

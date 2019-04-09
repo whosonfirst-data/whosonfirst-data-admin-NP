@@ -1,0 +1,64 @@
+{
+  "id": 1209657419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.31677,27.61429,84.31677,27.61429",
+    "geom:latitude":27.61429,
+    "geom:longitude":84.31677,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"35.0",
+    "gn:admin4_code":"350036.0",
+    "gn:asciiname":"Ratanpur",
+    "gn:country_code":"NP",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7935097,
+    "gn:latitude":27.61429,
+    "gn:longitude":84.31677,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ratanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7935097
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9688e7884d9fcaee7240af68399e5611",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209657419
+        }
+    ],
+    "wof:id":1209657419,
+    "wof:lastmodified":1536280382,
+    "wof:name":"Ratanpur",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.31676999999998,
+    27.614290000000004,
+    84.31676999999998,
+    27.614290000000004
+],
+  "geometry": {"coordinates":[84.31676999999998,27.61429],"type":"Point"}
+}

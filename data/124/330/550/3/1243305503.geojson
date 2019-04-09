@@ -1,0 +1,78 @@
+{
+  "id": 1243305503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.32918,28.40118,83.32918,28.40118",
+    "geom:latitude":28.40118,
+    "geom:longitude":83.32918,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"43",
+    "gn:admin4_code":"430036",
+    "gn:asciiname":"Dilibang",
+    "gn:country_code":"NP",
+    "gn:dem":1741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7972591,
+    "gn:latitude":28.40118,
+    "gn:longitude":83.32918,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dilibang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675553,
+        1092049089,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7972591
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3715cebf30144d32622187f311b7e7e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049089,
+            "locality_id":1243305503,
+            "region_id":85675553
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049089,
+            "locality_id":1243305503,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1243305503,
+    "wof:lastmodified":1537008002,
+    "wof:name":"Dilibang",
+    "wof:parent_id":1092049089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.32918000000002,
+    28.40118,
+    83.32918000000002,
+    28.40118
+],
+  "geometry": {"coordinates":[83.32918000000002,28.40118],"type":"Point"}
+}

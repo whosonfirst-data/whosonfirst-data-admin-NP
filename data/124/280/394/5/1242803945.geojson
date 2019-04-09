@@ -1,0 +1,78 @@
+{
+  "id": 1242803945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.37323,29.52542,80.37323,29.52542",
+    "geom:latitude":29.52542,
+    "geom:longitude":80.37323,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740040",
+    "gn:asciiname":"Khanne",
+    "gn:country_code":"NP",
+    "gn:dem":1070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7977441,
+    "gn:latitude":29.52542,
+    "gn:longitude":80.37323,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khanne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050255,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7977441
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"187133af24dbdec08e49cf7ed1f944f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1242803945,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1242803945,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1242803945,
+    "wof:lastmodified":1536737676,
+    "wof:name":"Khanne",
+    "wof:parent_id":1092050255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.37323,
+    29.52542,
+    80.37323,
+    29.52542
+],
+  "geometry": {"coordinates":[80.37323000000001,29.52542],"type":"Point"}
+}

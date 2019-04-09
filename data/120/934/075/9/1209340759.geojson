@@ -1,0 +1,64 @@
+{
+  "id": 1209340759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.78432,29.75234,80.78432,29.75234",
+    "geom:latitude":29.75234,
+    "geom:longitude":80.78432,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"75.0",
+    "gn:admin4_code":"750040.0",
+    "gn:asciiname":"Padpada",
+    "gn:country_code":"NP",
+    "gn:dem":1348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7941023,
+    "gn:latitude":29.75234,
+    "gn:longitude":80.78432,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Padpada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7941023
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1949d5047066bc431020e75fb0ec8f6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209340759
+        }
+    ],
+    "wof:id":1209340759,
+    "wof:lastmodified":1536290072,
+    "wof:name":"Padpada",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.78432,
+    29.752340000000004,
+    80.78432,
+    29.752340000000004
+],
+  "geometry": {"coordinates":[80.78431999999999,29.75234],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1243004137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.54218,27.82808,82.54218,27.82808",
+    "geom:latitude":27.82808,
+    "geom:longitude":82.54218,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"560010.0",
+    "gn:asciiname":"Bodipur",
+    "gn:country_code":"NP",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7938561,
+    "gn:latitude":27.82808,
+    "gn:longitude":82.54218,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bodipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048605,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7938561
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5176b0ee1c2426afdc4701db3f279d47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1243004137,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1243004137,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1243004137,
+    "wof:lastmodified":1536946686,
+    "wof:name":"Bodipur",
+    "wof:parent_id":1092048605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.54218,
+    27.82808,
+    82.54218,
+    27.82808
+],
+  "geometry": {"coordinates":[82.54218,27.82808],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1327276073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.03518,27.7779,85.03518,27.7779",
+    "geom:latitude":27.7779,
+    "geom:longitude":85.03518,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300014.0",
+    "gn:asciiname":"Jaisikalphant",
+    "gn:country_code":"NP",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7941462,
+    "gn:latitude":27.7779,
+    "gn:longitude":85.03518,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jaisikalphant",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7941462
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"38f1b1e9e6ee597e874018d9b501e207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1327276073,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1327276073,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1327276073,
+    "wof:lastmodified":1536906861,
+    "wof:name":"Jaisikalphant",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.03518000000003,
+    27.7779,
+    85.03518000000003,
+    27.7779
+],
+  "geometry": {"coordinates":[85.03518000000003,27.7779],"type":"Point"}
+}

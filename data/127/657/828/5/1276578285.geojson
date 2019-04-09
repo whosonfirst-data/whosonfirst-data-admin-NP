@@ -1,0 +1,78 @@
+{
+  "id": 1276578285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.88885,28.53844,81.88885,28.53844",
+    "geom:latitude":28.53844,
+    "geom:longitude":81.88885,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590027.0",
+    "gn:asciiname":"Khanigaun",
+    "gn:country_code":"NP",
+    "gn:dem":1378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7999417,
+    "gn:latitude":28.53844,
+    "gn:longitude":81.88885,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khanigaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7999417
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e3d3ac311400f472629f50067a0a6088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1276578285,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1276578285,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1276578285,
+    "wof:lastmodified":1536948529,
+    "wof:name":"Khanigaun",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.88885,
+    28.53844,
+    81.88885,
+    28.53844
+],
+  "geometry": {"coordinates":[81.88885000000001,28.53844],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1310020235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.24136,27.82236,85.24136,27.82236",
+    "geom:latitude":27.82236,
+    "geom:longitude":85.24136,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kadegau",
+    "gn:country_code":"NP",
+    "gn:dem":1948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10316896,
+    "gn:latitude":27.82236,
+    "gn:longitude":85.24136,
+    "gn:modification_date":"2017-11-09",
+    "gn:name":"K\u0101\u0303\u1e0deg\u0101\u0169",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "K\u0101\u0303\u1e0deg\u0101\u0169"
+    ],
+    "name:und_x_variant":[
+        "K\u0101\u1e0deg\u0101\u0169",
+        "K\u0101\u1e0deg\u0101un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10316896
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3973afc594db8bf85abef8b90579ea7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1310020235,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1310020235,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1310020235,
+    "wof:lastmodified":1537676079,
+    "wof:name":"Kadegau",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.24136,
+    27.82236,
+    85.24136,
+    27.82236
+],
+  "geometry": {"coordinates":[85.24136,27.82236],"type":"Point"}
+}

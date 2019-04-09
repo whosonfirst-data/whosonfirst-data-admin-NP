@@ -1,0 +1,75 @@
+{
+  "id": 1293893215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.44885,27.17098,86.44885,27.17098",
+    "geom:latitude":27.17098,
+    "geom:longitude":86.44885,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dundunma",
+    "gn:country_code":"NP",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10329207,
+    "gn:latitude":27.17098,
+    "gn:longitude":86.44885,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"\u1e0cu\u1e45\u1e0du\u1e45m\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050225,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10329207
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b841db3f5c79aa17db8df03b443c63e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050225,
+            "locality_id":1293893215,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050225,
+            "locality_id":1293893215,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1293893215,
+    "wof:lastmodified":1536699536,
+    "wof:name":"Dundunma",
+    "wof:parent_id":1092050225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.44885,
+    27.17098,
+    86.44885,
+    27.17098
+],
+  "geometry": {"coordinates":[86.44884999999999,27.17098],"type":"Point"}
+}

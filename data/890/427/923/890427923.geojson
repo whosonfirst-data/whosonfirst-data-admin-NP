@@ -1,0 +1,76 @@
+{
+  "id": 890427923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.7424,27.06117,84.7424,27.06117",
+    "geom:latitude":27.06117,
+    "geom:longitude":84.7424,
+    "gn:country":"NP",
+    "gn:fcode":"ADM4",
+    "gn:pop":2311,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Biranchibarba",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":437,
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092050453,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7801078,
+        "qs:id":703561,
+        "wd:id":"Q3411924",
+        "wk:page":"Biranchibarba"
+    },
+    "wof:country":"NP",
+    "wof:created":1469051726,
+    "wof:geomhash":"cd023c0d4bdddae64e7246d5f0ddadf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050453,
+            "localadmin_id":890427923,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050453,
+            "localadmin_id":890427923,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":890427923,
+    "wof:lastmodified":1527792819,
+    "wof:name":"Biranchibarba",
+    "wof:parent_id":1092050453,
+    "wof:placetype":"localadmin",
+    "wof:population":2311,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.7424,
+    27.06117,
+    84.7424,
+    27.06117
+],
+  "geometry": {"coordinates":[84.7424,27.06117],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1327464667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.90043,28.90717,82.90043,28.90717",
+    "geom:latitude":28.90717,
+    "geom:longitude":82.90043,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"62.0",
+    "gn:admin4_code":"620004.0",
+    "gn:asciiname":"Tallaghar",
+    "gn:country_code":"NP",
+    "gn:dem":2673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7945414,
+    "gn:latitude":28.90717,
+    "gn:longitude":82.90043,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tallaghar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050349,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7945414
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"22752bfbe5da069e3b9c80007d8a8143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1327464667,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1327464667,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1327464667,
+    "wof:lastmodified":1536632820,
+    "wof:name":"Tallaghar",
+    "wof:parent_id":1092050349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.90043,
+    28.90717,
+    82.90043,
+    28.90717
+],
+  "geometry": {"coordinates":[82.90043,28.90717],"type":"Point"}
+}

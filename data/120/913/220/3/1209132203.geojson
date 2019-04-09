@@ -1,0 +1,64 @@
+{
+  "id": 1209132203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.23723,29.60198,81.23723,29.60198",
+    "geom:latitude":29.60198,
+    "geom:longitude":81.23723,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"68.0",
+    "gn:admin4_code":"680044.0",
+    "gn:asciiname":"Seragaun",
+    "gn:country_code":"NP",
+    "gn:dem":1923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7998369,
+    "gn:latitude":29.60198,
+    "gn:longitude":81.23723,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Seragaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7998369
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7023cbf1434bf87d15d1e90aa2f35098",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209132203
+        }
+    ],
+    "wof:id":1209132203,
+    "wof:lastmodified":1536296773,
+    "wof:name":"Seragaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.23723000000003,
+    29.60198,
+    81.23723000000003,
+    29.60198
+],
+  "geometry": {"coordinates":[81.23723000000003,29.60198],"type":"Point"}
+}

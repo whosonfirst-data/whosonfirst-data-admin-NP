@@ -1,0 +1,78 @@
+{
+  "id": 1327182631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.21964,27.44515,85.21964,27.44515",
+    "geom:latitude":27.44515,
+    "geom:longitude":85.21964,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310043",
+    "gn:asciiname":"Dhedregaun",
+    "gn:country_code":"NP",
+    "gn:dem":847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7969370,
+    "gn:latitude":27.44515,
+    "gn:longitude":85.21964,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhedregaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7969370
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4c39bc8a8a9e38cc5975c6fc2dae3843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1327182631,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1327182631,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1327182631,
+    "wof:lastmodified":1537039865,
+    "wof:name":"Dhedregaun",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.21964,
+    27.44515,
+    85.21964,
+    27.44515
+],
+  "geometry": {"coordinates":[85.21964,27.44515],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343587345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.24439,28.33559,82.24439,28.33559",
+    "geom:latitude":28.33559,
+    "geom:longitude":82.24439,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550025",
+    "gn:asciiname":"Garche",
+    "gn:country_code":"NP",
+    "gn:dem":1300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7988881,
+    "gn:latitude":28.33559,
+    "gn:longitude":82.24439,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Garche",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049579,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7988881
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"857b5718d5291903d7ab67c9c13a85fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1343587345,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1343587345,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1343587345,
+    "wof:lastmodified":1537058202,
+    "wof:name":"Garche",
+    "wof:parent_id":1092049579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.24439,
+    28.33559,
+    82.24439,
+    28.33559
+],
+  "geometry": {"coordinates":[82.24439,28.33559],"type":"Point"}
+}

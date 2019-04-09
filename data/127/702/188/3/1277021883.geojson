@@ -1,0 +1,78 @@
+{
+  "id": 1277021883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.90229,27.45841,87.90229,27.45841",
+    "geom:latitude":27.45841,
+    "geom:longitude":87.90229,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10050.0",
+    "gn:asciiname":"Yamphudin",
+    "gn:country_code":"NP",
+    "gn:dem":1864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005813,
+    "gn:latitude":27.45841,
+    "gn:longitude":87.90229,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Yamphudin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005813
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2026e6b9949528189079556821b88c5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1277021883,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1277021883,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1277021883,
+    "wof:lastmodified":1536849616,
+    "wof:name":"Yamphudin",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.90229000000002,
+    27.45841,
+    87.90229000000002,
+    27.45841
+],
+  "geometry": {"coordinates":[87.90229000000002,27.45841],"type":"Point"}
+}

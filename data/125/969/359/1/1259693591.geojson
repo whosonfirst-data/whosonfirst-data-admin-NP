@@ -1,0 +1,79 @@
+{
+  "id": 1259693591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.78333,27.81667,84.78333,27.81667",
+    "geom:latitude":27.81667,
+    "geom:longitude":84.78333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Benighat",
+    "gn:country_code":"NP",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283636,
+    "gn:latitude":27.81667,
+    "gn:longitude":84.78333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Benigh\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Benigh\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283636,
+        "wk:page":"Benighat"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"369edd892be23a9900d2b56243be9cf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1259693591,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1259693591,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1259693591,
+    "wof:lastmodified":1537676062,
+    "wof:name":"Benighat",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.78333,
+    27.81667,
+    84.78333,
+    27.81667
+],
+  "geometry": {"coordinates":[84.78333000000001,27.81667],"type":"Point"}
+}

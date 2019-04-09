@@ -1,0 +1,78 @@
+{
+  "id": 1259811739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.6032,28.15085,81.6032,28.15085",
+    "geom:latitude":28.15085,
+    "geom:longitude":81.6032,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"570002.0",
+    "gn:asciiname":"Parsarampur",
+    "gn:country_code":"NP",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005853,
+    "gn:latitude":28.15085,
+    "gn:longitude":81.6032,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Parsarampur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092050297,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005853
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"690f875af4e28ad8f8437e19841908e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1259811739,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1259811739,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1259811739,
+    "wof:lastmodified":1536882003,
+    "wof:name":"Parsarampur",
+    "wof:parent_id":1092050297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.6032,
+    28.15085,
+    81.6032,
+    28.15085
+],
+  "geometry": {"coordinates":[81.6032,28.15085],"type":"Point"}
+}

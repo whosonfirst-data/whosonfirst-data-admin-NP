@@ -1,0 +1,78 @@
+{
+  "id": 1242706129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.16952,28.37531,82.16952,28.37531",
+    "geom:latitude":28.37531,
+    "geom:longitude":82.16952,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550024",
+    "gn:asciiname":"Salyan khalanga",
+    "gn:country_code":"NP",
+    "gn:dem":1291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7988850,
+    "gn:latitude":28.37531,
+    "gn:longitude":82.16952,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Salyan khalanga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049579,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7988850
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1acdd2c25a6eaf54bcc34bcc4c244604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1242706129,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1242706129,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1242706129,
+    "wof:lastmodified":1536877916,
+    "wof:name":"Salyan khalanga",
+    "wof:parent_id":1092049579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.16951999999998,
+    28.37531,
+    82.16951999999998,
+    28.37531
+],
+  "geometry": {"coordinates":[82.16951999999998,28.37531],"type":"Point"}
+}

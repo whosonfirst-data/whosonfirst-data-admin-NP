@@ -1,0 +1,79 @@
+{
+  "id": 1259731889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.17439,28.02845,85.17439,28.02845",
+    "geom:latitude":28.02845,
+    "geom:longitude":85.17439,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"29",
+    "gn:admin4_code":"290015",
+    "gn:asciiname":"Thulogaun",
+    "gn:country_code":"NP",
+    "gn:dem":1332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7982300,
+    "gn:latitude":28.02845,
+    "gn:longitude":85.17439,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thulogaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048409,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7982300,
+        "wk:page":"Thulogaun"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"153ccd377db6c034e15acf6d33c6762c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048409,
+            "locality_id":1259731889,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048409,
+            "locality_id":1259731889,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1259731889,
+    "wof:lastmodified":1537570153,
+    "wof:name":"Thulogaun",
+    "wof:parent_id":1092048409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.17439,
+    28.02845,
+    85.17439,
+    28.02845
+],
+  "geometry": {"coordinates":[85.17439,28.02845],"type":"Point"}
+}

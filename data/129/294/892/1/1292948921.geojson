@@ -1,0 +1,78 @@
+{
+  "id": 1292948921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.9017,27.64605,82.9017,27.64605",
+    "geom:latitude":27.64605,
+    "geom:longitude":82.9017,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"50.0",
+    "gn:admin4_code":"500019.0",
+    "gn:asciiname":"Kharindrapur",
+    "gn:country_code":"NP",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7959402,
+    "gn:latitude":27.64605,
+    "gn:longitude":82.9017,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kharindrapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048259,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7959402
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3869d9e6c298f64ff4cf63e044e41183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1292948921,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1292948921,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1292948921,
+    "wof:lastmodified":1537063592,
+    "wof:name":"Kharindrapur",
+    "wof:parent_id":1092048259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.9017,
+    27.64605,
+    82.9017,
+    27.64605
+],
+  "geometry": {"coordinates":[82.90170000000001,27.64605],"type":"Point"}
+}

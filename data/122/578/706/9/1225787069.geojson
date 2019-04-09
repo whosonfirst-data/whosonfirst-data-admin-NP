@@ -1,0 +1,78 @@
+{
+  "id": 1225787069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.9883,26.93612,87.9883,26.93612",
+    "geom:latitude":26.93612,
+    "geom:longitude":87.9883,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30047.0",
+    "gn:asciiname":"Basnetgaun",
+    "gn:country_code":"NP",
+    "gn:dem":1261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7952716,
+    "gn:latitude":26.93612,
+    "gn:longitude":87.9883,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Basnetgaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7952716
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5d6b86d1b704972cae304b1f09756477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1225787069,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1225787069,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1225787069,
+    "wof:lastmodified":1537095107,
+    "wof:name":"Basnetgaun",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.9883,
+    26.93612000000001,
+    87.9883,
+    26.93612000000001
+],
+  "geometry": {"coordinates":[87.9883,26.93612000000001],"type":"Point"}
+}

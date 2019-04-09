@@ -1,0 +1,78 @@
+{
+  "id": 1209964685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.78809,26.49795,87.78809,26.49795",
+    "geom:latitude":26.49795,
+    "geom:longitude":87.78809,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40034.0",
+    "gn:asciiname":"Sitaulatol",
+    "gn:country_code":"NP",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7954921,
+    "gn:latitude":26.49795,
+    "gn:longitude":87.78809,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sitaulatol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7954921
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"669d853e5ba81aab3cc60436eb5ab066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1209964685,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1209964685,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1209964685,
+    "wof:lastmodified":1536369737,
+    "wof:name":"Sitaulatol",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.78809,
+    26.49795,
+    87.78809,
+    26.49795
+],
+  "geometry": {"coordinates":[87.78809,26.49795],"type":"Point"}
+}

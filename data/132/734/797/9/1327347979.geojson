@@ -1,0 +1,75 @@
+{
+  "id": 1327347979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.78957,29.0282,82.78957,29.0282",
+    "geom:latitude":29.0282,
+    "geom:longitude":82.78957,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tibrikot",
+    "gn:country_code":"NP",
+    "gn:dem":2175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282669,
+    "gn:latitude":29.0282,
+    "gn:longitude":82.78957,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Tibrikot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050349,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282669
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bd621a05d5615ab14c28c755b92d6461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1327347979,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1327347979,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1327347979,
+    "wof:lastmodified":1536802624,
+    "wof:name":"Tibrikot",
+    "wof:parent_id":1092050349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.78957,
+    29.0282,
+    82.78957,
+    29.0282
+],
+  "geometry": {"coordinates":[82.78957,29.0282],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209347279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.73802,28.14033,82.73802,28.14033",
+    "geom:latitude":28.14033,
+    "geom:longitude":82.73802,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"52",
+    "gn:admin4_code":"520006",
+    "gn:asciiname":"Ghustung",
+    "gn:country_code":"NP",
+    "gn:dem":799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7979817,
+    "gn:latitude":28.14033,
+    "gn:longitude":82.73802,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ghustung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7979817
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"09875c230e2a89442a87088fce2c2b1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209347279
+        }
+    ],
+    "wof:id":1209347279,
+    "wof:lastmodified":1536289870,
+    "wof:name":"Ghustung",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.73801999999998,
+    28.14033,
+    82.73801999999998,
+    28.14033
+],
+  "geometry": {"coordinates":[82.73801999999998,28.14033],"type":"Point"}
+}

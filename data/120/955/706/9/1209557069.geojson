@@ -1,0 +1,64 @@
+{
+  "id": 1209557069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.26695,27.80417,83.26695,27.80417",
+    "geom:latitude":27.80417,
+    "geom:longitude":83.26695,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"47",
+    "gn:admin4_code":"470057",
+    "gn:asciiname":"Dhungri Khola Gaun",
+    "gn:country_code":"NP",
+    "gn:dem":894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7976874,
+    "gn:latitude":27.80417,
+    "gn:longitude":83.26695,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhungri Khola Gaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7976874
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e131a8a5b7a4e6e4a4cc9f6e5d2ad898",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209557069
+        }
+    ],
+    "wof:id":1209557069,
+    "wof:lastmodified":1536283511,
+    "wof:name":"Dhungri Khola Gaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.26695,
+    27.804170000000006,
+    83.26695,
+    27.804170000000006
+],
+  "geometry": {"coordinates":[83.26694999999999,27.80417000000001],"type":"Point"}
+}

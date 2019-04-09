@@ -1,0 +1,64 @@
+{
+  "id": 1209044615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.89616,27.5081,84.89616,27.5081",
+    "geom:latitude":27.5081,
+    "geom:longitude":84.89616,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310038",
+    "gn:asciiname":"Dhungyang",
+    "gn:country_code":"NP",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7969114,
+    "gn:latitude":27.5081,
+    "gn:longitude":84.89616,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhungyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7969114
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3ef18b903f4d93a78bc196a1a471b70d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209044615
+        }
+    ],
+    "wof:id":1209044615,
+    "wof:lastmodified":1536299439,
+    "wof:name":"Dhungyang",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.89616,
+    27.5081,
+    84.89616,
+    27.5081
+],
+  "geometry": {"coordinates":[84.89615999999999,27.5081],"type":"Point"}
+}

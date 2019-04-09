@@ -1,0 +1,78 @@
+{
+  "id": 1226490215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.09662,27.99367,84.09662,27.99367",
+    "geom:latitude":27.99367,
+    "geom:longitude":84.09662,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380012.0",
+    "gn:asciiname":"Kumaltari",
+    "gn:country_code":"NP",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003152,
+    "gn:latitude":27.99367,
+    "gn:longitude":84.09662,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kumaltari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003152
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c6d4725375b82a0c06c6567e598616a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1226490215,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1226490215,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1226490215,
+    "wof:lastmodified":1537075024,
+    "wof:name":"Kumaltari",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.09662,
+    27.99367,
+    84.09662,
+    27.99367
+],
+  "geometry": {"coordinates":[84.09662,27.99367],"type":"Point"}
+}

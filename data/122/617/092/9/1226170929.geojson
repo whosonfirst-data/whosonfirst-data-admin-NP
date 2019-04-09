@@ -1,0 +1,78 @@
+{
+  "id": 1226170929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.91341,27.99449,82.91341,27.99449",
+    "geom:latitude":27.99449,
+    "geom:longitude":82.91341,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"52",
+    "gn:admin4_code":"520036",
+    "gn:asciiname":"Arjam",
+    "gn:country_code":"NP",
+    "gn:dem":1281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7980641,
+    "gn:latitude":27.99449,
+    "gn:longitude":82.91341,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Arjam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049377,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7980641
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"02f5731b86fe1b4d058d074beb7080f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1226170929,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1226170929,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1226170929,
+    "wof:lastmodified":1537039773,
+    "wof:name":"Arjam",
+    "wof:parent_id":1092049377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.91341,
+    27.99449000000001,
+    82.91341,
+    27.99449000000001
+],
+  "geometry": {"coordinates":[82.91341,27.99449000000001],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209457059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.17541,27.12549,86.17541,27.12549",
+    "geom:latitude":27.12549,
+    "geom:longitude":86.17541,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200032",
+    "gn:asciiname":"Kastar",
+    "gn:country_code":"NP",
+    "gn:dem":907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7993542,
+    "gn:latitude":27.12549,
+    "gn:longitude":86.17541,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kastar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7993542
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"37095c5b18693616710d4ee7a326a5e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209457059
+        }
+    ],
+    "wof:id":1209457059,
+    "wof:lastmodified":1536286501,
+    "wof:name":"Kastar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.17541,
+    27.125490000000006,
+    86.17541,
+    27.125490000000006
+],
+  "geometry": {"coordinates":[86.17541,27.12549000000001],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293630995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.32152,28.25364,84.32152,28.25364",
+    "geom:latitude":28.25364,
+    "geom:longitude":84.32152,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370004",
+    "gn:asciiname":"Najere",
+    "gn:country_code":"NP",
+    "gn:dem":1140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7965926,
+    "gn:latitude":28.25364,
+    "gn:longitude":84.32152,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Najere",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050009,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7965926
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"067212dfe975d65af8f4a8034ee3b01b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1293630995,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1293630995,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293630995,
+    "wof:lastmodified":1537074249,
+    "wof:name":"Najere",
+    "wof:parent_id":1092050009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.32151999999998,
+    28.25364,
+    84.32151999999998,
+    28.25364
+],
+  "geometry": {"coordinates":[84.32151999999998,28.25364],"type":"Point"}
+}

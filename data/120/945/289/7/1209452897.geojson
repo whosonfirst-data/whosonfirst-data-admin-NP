@@ -1,0 +1,64 @@
+{
+  "id": 1209452897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.2789,27.97182,85.2789,27.97182",
+    "geom:latitude":27.97182,
+    "geom:longitude":85.2789,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"29",
+    "gn:admin4_code":"290013",
+    "gn:asciiname":"Chenchettol",
+    "gn:country_code":"NP",
+    "gn:dem":1307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7982261,
+    "gn:latitude":27.97182,
+    "gn:longitude":85.2789,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chenchettol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7982261
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"12490becbd027be7bdcd7a314df61ff4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209452897
+        }
+    ],
+    "wof:id":1209452897,
+    "wof:lastmodified":1536286622,
+    "wof:name":"Chenchettol",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.2789,
+    27.97182,
+    85.2789,
+    27.97182
+],
+  "geometry": {"coordinates":[85.27889999999999,27.97182],"type":"Point"}
+}

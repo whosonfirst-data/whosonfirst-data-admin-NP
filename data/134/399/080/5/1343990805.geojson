@@ -1,0 +1,78 @@
+{
+  "id": 1343990805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.56606,28.48548,82.56606,28.48548",
+    "geom:latitude":28.48548,
+    "geom:longitude":82.56606,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530038",
+    "gn:asciiname":"Koral",
+    "gn:country_code":"NP",
+    "gn:dem":2079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7984369,
+    "gn:latitude":28.48548,
+    "gn:longitude":82.56606,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Koral",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7984369
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5db399e883ef4ab198fe8ca167cd9d04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1343990805,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1343990805,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1343990805,
+    "wof:lastmodified":1536975677,
+    "wof:name":"Koral",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.56606,
+    28.48548,
+    82.56606,
+    28.48548
+],
+  "geometry": {"coordinates":[82.56605999999999,28.48548],"type":"Point"}
+}

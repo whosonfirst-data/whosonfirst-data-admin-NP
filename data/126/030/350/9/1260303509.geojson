@@ -1,0 +1,81 @@
+{
+  "id": 1260303509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.76914,27.89092,85.76914,27.89092",
+    "geom:latitude":27.89092,
+    "geom:longitude":85.76914,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ghunwabesi",
+    "gn:country_code":"NP",
+    "gn:dem":1451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10321764,
+    "gn:latitude":27.89092,
+    "gn:longitude":85.76914,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Ghunw\u0101besi\u0307\u0304",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Ghunw\u0101besi\u0307\u0304"
+    ],
+    "name:nep_x_variant":[
+        "Ghunw\u0101bes\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10321764
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f1fee8dcecfa7702fa7e75c248af13b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1260303509,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1260303509,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1260303509,
+    "wof:lastmodified":1537676085,
+    "wof:name":"Ghunwabesi",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.76914000000002,
+    27.89092,
+    85.76914000000002,
+    27.89092
+],
+  "geometry": {"coordinates":[85.76914000000002,27.89092],"type":"Point"}
+}

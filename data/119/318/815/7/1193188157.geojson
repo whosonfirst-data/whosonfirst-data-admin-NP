@@ -1,0 +1,78 @@
+{
+  "id": 1193188157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.87941,28.40047,83.87941,28.40047",
+    "geom:latitude":28.40047,
+    "geom:longitude":83.87941,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400024.0",
+    "gn:asciiname":"Ramche",
+    "gn:country_code":"NP",
+    "gn:dem":2183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7961069,
+    "gn:latitude":28.40047,
+    "gn:longitude":83.87941,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ramche",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092049331,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7961069
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d2352a82441049983ee0992281b04ba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1193188157,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1193188157,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1193188157,
+    "wof:lastmodified":1536364443,
+    "wof:name":"Ramche",
+    "wof:parent_id":1092049331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.87941,
+    28.40047,
+    83.87941,
+    28.40047
+],
+  "geometry": {"coordinates":[83.87940999999999,28.40047],"type":"Point"}
+}

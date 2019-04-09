@@ -1,0 +1,78 @@
+{
+  "id": 1193085011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.88794,26.76436,87.88794,26.76436",
+    "geom:latitude":26.76436,
+    "geom:longitude":87.88794,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30007.0",
+    "gn:asciiname":"Sitali",
+    "gn:country_code":"NP",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7951637,
+    "gn:latitude":26.76436,
+    "gn:longitude":87.88794,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sitali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7951637
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8ba0f78e89501a7a07eda2109bb8cf41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1193085011,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1193085011,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1193085011,
+    "wof:lastmodified":1536376725,
+    "wof:name":"Sitali",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.88794,
+    26.76436,
+    87.88794,
+    26.76436
+],
+  "geometry": {"coordinates":[87.88794,26.76436],"type":"Point"}
+}

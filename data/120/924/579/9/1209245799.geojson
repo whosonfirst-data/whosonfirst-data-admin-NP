@@ -1,0 +1,64 @@
+{
+  "id": 1209245799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.29001,29.63598,81.29001,29.63598",
+    "geom:latitude":29.63598,
+    "geom:longitude":81.29001,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680014",
+    "gn:asciiname":"Jharigaun",
+    "gn:country_code":"NP",
+    "gn:dem":2113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7990481,
+    "gn:latitude":29.63598,
+    "gn:longitude":81.29001,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jharigaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7990481
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fe00cc95ce77908730b2ffb9a478cfe6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209245799
+        }
+    ],
+    "wof:id":1209245799,
+    "wof:lastmodified":1536293169,
+    "wof:name":"Jharigaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.29001,
+    29.63598,
+    81.29001,
+    29.63598
+],
+  "geometry": {"coordinates":[81.29001,29.63598],"type":"Point"}
+}

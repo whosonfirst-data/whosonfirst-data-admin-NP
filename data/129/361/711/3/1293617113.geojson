@@ -1,0 +1,78 @@
+{
+  "id": 1293617113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.3152,28.09421,82.3152,28.09421",
+    "geom:latitude":28.09421,
+    "geom:longitude":82.3152,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"560022.0",
+    "gn:asciiname":"Majagaun",
+    "gn:country_code":"NP",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7939137,
+    "gn:latitude":28.09421,
+    "gn:longitude":82.3152,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Majagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048605,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7939137
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fa0cc6426d7a6f1225a8cac433896005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1293617113,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1293617113,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1293617113,
+    "wof:lastmodified":1537094246,
+    "wof:name":"Majagaun",
+    "wof:parent_id":1092048605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.3152,
+    28.09421,
+    82.3152,
+    28.09421
+],
+  "geometry": {"coordinates":[82.3152,28.09421],"type":"Point"}
+}

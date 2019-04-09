@@ -1,0 +1,64 @@
+{
+  "id": 1209552949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.56186,28.22966,84.56186,28.22966",
+    "geom:latitude":28.22966,
+    "geom:longitude":84.56186,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370032",
+    "gn:asciiname":"Pamje Madi",
+    "gn:country_code":"NP",
+    "gn:dem":2636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7966562,
+    "gn:latitude":28.22966,
+    "gn:longitude":84.56186,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pamje Madi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7966562
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cac907490c0321f93f468e40760c2b33",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209552949
+        }
+    ],
+    "wof:id":1209552949,
+    "wof:lastmodified":1536283635,
+    "wof:name":"Pamje Madi",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.56186,
+    28.22966,
+    84.56186,
+    28.22966
+],
+  "geometry": {"coordinates":[84.56186,28.22966],"type":"Point"}
+}

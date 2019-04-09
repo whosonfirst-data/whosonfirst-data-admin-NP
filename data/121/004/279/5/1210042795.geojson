@@ -1,0 +1,70 @@
+{
+  "id": 1210042795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5023,29.81489,80.5023,29.81489",
+    "geom:latitude":29.81489,
+    "geom:longitude":80.5023,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"75.0",
+    "gn:admin4_code":"750022.0",
+    "gn:asciiname":"Khette Bagar",
+    "gn:country_code":"NP",
+    "gn:dem":829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7940551,
+    "gn:latitude":29.81489,
+    "gn:longitude":80.5023,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khette Bagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632469,
+        85672209,
+        890503669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7940551
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3f942319b13d3fb999e640e0a129c16f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890503669,
+            "locality_id":1210042795,
+            "region_id":85672209
+        }
+    ],
+    "wof:id":1210042795,
+    "wof:lastmodified":1536382200,
+    "wof:name":"Khette Bagar",
+    "wof:parent_id":890503669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5023,
+    29.81489,
+    80.5023,
+    29.81489
+],
+  "geometry": {"coordinates":[80.50230000000001,29.81489],"type":"Point"}
+}

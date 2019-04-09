@@ -1,0 +1,78 @@
+{
+  "id": 1277100841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.88718,28.37337,82.88718,28.37337",
+    "geom:latitude":28.37337,
+    "geom:longitude":82.88718,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530010",
+    "gn:asciiname":"Jhyalgung",
+    "gn:country_code":"NP",
+    "gn:dem":1924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7983211,
+    "gn:latitude":28.37337,
+    "gn:longitude":82.88718,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jhyalgung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7983211
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ba4514bbb297c51f362488d57045ec61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1277100841,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1277100841,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1277100841,
+    "wof:lastmodified":1536741468,
+    "wof:name":"Jhyalgung",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.88718,
+    28.37337,
+    82.88718,
+    28.37337
+],
+  "geometry": {"coordinates":[82.88718,28.37337],"type":"Point"}
+}

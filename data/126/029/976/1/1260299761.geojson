@@ -1,0 +1,78 @@
+{
+  "id": 1260299761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.22658,27.96135,82.22658,27.96135",
+    "geom:latitude":27.96135,
+    "geom:longitude":82.22658,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Jalkundi",
+    "gn:country_code":"NP",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283322,
+    "gn:latitude":27.96135,
+    "gn:longitude":82.22658,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Jalkundi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Jalku\u1e47\u1e0di\u0307\u0304"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048605,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283322
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7839124fb1f98fdaf0b96d8115940ad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1260299761,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1260299761,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1260299761,
+    "wof:lastmodified":1537676053,
+    "wof:name":"Jalkundi",
+    "wof:parent_id":1092048605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.22658,
+    27.96135,
+    82.22658,
+    27.96135
+],
+  "geometry": {"coordinates":[82.22658,27.96135],"type":"Point"}
+}

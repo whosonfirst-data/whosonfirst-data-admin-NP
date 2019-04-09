@@ -1,0 +1,78 @@
+{
+  "id": 1276816083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.65167,28.61895,83.65167,28.61895",
+    "geom:latitude":28.61895,
+    "geom:longitude":83.65167,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"42",
+    "gn:admin4_code":"420010",
+    "gn:asciiname":"Sari",
+    "gn:country_code":"NP",
+    "gn:dem":2240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7971852,
+    "gn:latitude":28.61895,
+    "gn:longitude":83.65167,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675553,
+        1092048365,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7971852
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"885e3e7d1a0d5325894413c1b2137823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048365,
+            "locality_id":1276816083,
+            "region_id":85675553
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048365,
+            "locality_id":1276816083,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1276816083,
+    "wof:lastmodified":1536627318,
+    "wof:name":"Sari",
+    "wof:parent_id":1092048365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.65167,
+    28.61895,
+    83.65167,
+    28.61895
+],
+  "geometry": {"coordinates":[83.65167,28.61895],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1260299755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.88043,28.89777,80.88043,28.89777",
+    "geom:latitude":28.89777,
+    "geom:longitude":80.88043,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Katauje",
+    "gn:country_code":"NP",
+    "gn:dem":923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283234,
+    "gn:latitude":28.89777,
+    "gn:longitude":80.88043,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Ka\u1e6da\u0169je",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Ka\u1e6da\u0169je"
+    ],
+    "name:und_x_variant":[
+        "Katunje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283234
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"161ea496bf60b1da1afa48da58e585e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1260299755,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1260299755,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1260299755,
+    "wof:lastmodified":1537676051,
+    "wof:name":"Katauje",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.88043,
+    28.89777,
+    80.88043,
+    28.89777
+],
+  "geometry": {"coordinates":[80.88043,28.89777],"type":"Point"}
+}

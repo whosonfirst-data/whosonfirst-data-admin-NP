@@ -1,0 +1,78 @@
+{
+  "id": 1193197637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.10679,26.68381,88.10679,26.68381",
+    "geom:latitude":26.68381,
+    "geom:longitude":88.10679,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40037.0",
+    "gn:asciiname":"Soltangaun",
+    "gn:country_code":"NP",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7955043,
+    "gn:latitude":26.68381,
+    "gn:longitude":88.10679,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Soltangaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7955043
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"82a8f65d19b2d4bcceaa5ffc7dadd25c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1193197637,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1193197637,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1193197637,
+    "wof:lastmodified":1536376199,
+    "wof:name":"Soltangaun",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.10679,
+    26.68381,
+    88.10679,
+    26.68381
+],
+  "geometry": {"coordinates":[88.10679,26.68381],"type":"Point"}
+}

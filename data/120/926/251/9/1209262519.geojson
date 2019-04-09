@@ -1,0 +1,64 @@
+{
+  "id": 1209262519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.12546,28.44223,83.12546,28.44223",
+    "geom:latitude":28.44223,
+    "geom:longitude":83.12546,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450013.0",
+    "gn:asciiname":"Paira Kharka",
+    "gn:country_code":"NP",
+    "gn:dem":2536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7950682,
+    "gn:latitude":28.44223,
+    "gn:longitude":83.12546,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Paira Kharka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7950682
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f83df4752feab40233ea9c704eb70d1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209262519
+        }
+    ],
+    "wof:id":1209262519,
+    "wof:lastmodified":1536292642,
+    "wof:name":"Paira Kharka",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.12546,
+    28.44223,
+    83.12546,
+    28.44223
+],
+  "geometry": {"coordinates":[83.12546,28.44223],"type":"Point"}
+}

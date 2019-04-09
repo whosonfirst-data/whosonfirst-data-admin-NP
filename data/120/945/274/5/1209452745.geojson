@@ -1,0 +1,64 @@
+{
+  "id": 1209452745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.10961,26.86136,87.10961,26.86136",
+    "geom:latitude":26.86136,
+    "geom:longitude":87.10961,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140024.0",
+    "gn:asciiname":"Lemlem",
+    "gn:country_code":"NP",
+    "gn:dem":857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007147,
+    "gn:latitude":26.86136,
+    "gn:longitude":87.10961,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lemlem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007147
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"da2180165f55a1bc336bceec25133fb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209452745
+        }
+    ],
+    "wof:id":1209452745,
+    "wof:lastmodified":1536286625,
+    "wof:name":"Lemlem",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.10961,
+    26.86136,
+    87.10961,
+    26.86136
+],
+  "geometry": {"coordinates":[87.10961,26.86136],"type":"Point"}
+}

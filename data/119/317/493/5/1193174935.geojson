@@ -1,0 +1,78 @@
+{
+  "id": 1193174935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.07219,27.7567,85.07219,27.7567",
+    "geom:latitude":27.7567,
+    "geom:longitude":85.07219,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300014.0",
+    "gn:asciiname":"Bhyangle",
+    "gn:country_code":"NP",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7941481,
+    "gn:latitude":27.7567,
+    "gn:longitude":85.07219,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhyangle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7941481
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"72305be4a013fb61d7587306645a1a48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1193174935,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1193174935,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1193174935,
+    "wof:lastmodified":1536376379,
+    "wof:name":"Bhyangle",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.07219,
+    27.7567,
+    85.07219,
+    27.7567
+],
+  "geometry": {"coordinates":[85.07219000000001,27.7567],"type":"Point"}
+}

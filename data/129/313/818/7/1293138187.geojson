@@ -1,0 +1,78 @@
+{
+  "id": 1293138187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.60529,28.16117,83.60529,28.16117",
+    "geom:latitude":28.16117,
+    "geom:longitude":83.60529,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450052.0",
+    "gn:asciiname":"Chimse",
+    "gn:country_code":"NP",
+    "gn:dem":1455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7963306,
+    "gn:latitude":28.16117,
+    "gn:longitude":83.60529,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chimse",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7963306
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"60e3e33b575d4c107426f73485e78dbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1293138187,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1293138187,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1293138187,
+    "wof:lastmodified":1536793848,
+    "wof:name":"Chimse",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.60529,
+    28.16117,
+    83.60529,
+    28.16117
+],
+  "geometry": {"coordinates":[83.60529,28.16117],"type":"Point"}
+}

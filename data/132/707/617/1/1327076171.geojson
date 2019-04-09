@@ -1,0 +1,78 @@
+{
+  "id": 1327076171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.34652,26.67174,87.34652,26.67174",
+    "geom:latitude":26.67174,
+    "geom:longitude":87.34652,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"5",
+    "gn:admin4_code":"50058",
+    "gn:asciiname":"Syalmaratol",
+    "gn:country_code":"NP",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7971097,
+    "gn:latitude":26.67174,
+    "gn:longitude":87.34652,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Syalmaratol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092048303,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7971097
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"05fb50b6e206f81b606a5c304fa773ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1327076171,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1327076171,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1327076171,
+    "wof:lastmodified":1536697614,
+    "wof:name":"Syalmaratol",
+    "wof:parent_id":1092048303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.34652,
+    26.67174,
+    87.34652,
+    26.67174
+],
+  "geometry": {"coordinates":[87.34652,26.67174],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343599483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.52949,27.67216,84.52949,27.67216",
+    "geom:latitude":27.67216,
+    "geom:longitude":84.52949,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"35.0",
+    "gn:admin4_code":"350017.0",
+    "gn:asciiname":"Kholesimal",
+    "gn:country_code":"NP",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7934525,
+    "gn:latitude":27.67216,
+    "gn:longitude":84.52949,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kholesimal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092050101,
+        85675585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7934525
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"006a23d48517221017723aacdc426c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":1343599483,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":1343599483,
+            "region_id":85675585
+        }
+    ],
+    "wof:id":1343599483,
+    "wof:lastmodified":1537041259,
+    "wof:name":"Kholesimal",
+    "wof:parent_id":1092050101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.52949,
+    27.67216,
+    84.52949,
+    27.67216
+],
+  "geometry": {"coordinates":[84.52949,27.67216],"type":"Point"}
+}

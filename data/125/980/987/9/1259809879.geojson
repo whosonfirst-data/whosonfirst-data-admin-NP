@@ -1,0 +1,78 @@
+{
+  "id": 1259809879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.01061,28.30577,82.01061,28.30577",
+    "geom:latitude":28.30577,
+    "geom:longitude":82.01061,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550020",
+    "gn:asciiname":"Thakur Samma",
+    "gn:country_code":"NP",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7988613,
+    "gn:latitude":28.30577,
+    "gn:longitude":82.01061,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thakur Samma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049579,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7988613
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"513253ec7d41f0aa269694c53cafa1f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1259809879,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1259809879,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1259809879,
+    "wof:lastmodified":1536884798,
+    "wof:name":"Thakur Samma",
+    "wof:parent_id":1092049579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.01061,
+    28.30577000000001,
+    82.01061,
+    28.30577000000001
+],
+  "geometry": {"coordinates":[82.01061,28.30577000000001],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209463077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.44381,27.1311,86.44381,27.1311",
+    "geom:latitude":27.1311,
+    "geom:longitude":86.44381,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140033.0",
+    "gn:asciiname":"Sota",
+    "gn:country_code":"NP",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007552,
+    "gn:latitude":27.1311,
+    "gn:longitude":86.44381,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007552
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4249e2fed405ec0487e44b879ba67618",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209463077
+        }
+    ],
+    "wof:id":1209463077,
+    "wof:lastmodified":1536286320,
+    "wof:name":"Sota",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.44381,
+    27.1311,
+    86.44381,
+    27.1311
+],
+  "geometry": {"coordinates":[86.44381,27.1311],"type":"Point"}
+}

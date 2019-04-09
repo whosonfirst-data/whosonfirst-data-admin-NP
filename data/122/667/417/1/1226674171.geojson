@@ -1,0 +1,78 @@
+{
+  "id": 1226674171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.40446,28.26302,82.40446,28.26302",
+    "geom:latitude":28.26302,
+    "geom:longitude":82.40446,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550038",
+    "gn:asciiname":"Lekhsalam",
+    "gn:country_code":"NP",
+    "gn:dem":1909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7989465,
+    "gn:latitude":28.26302,
+    "gn:longitude":82.40446,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lekhsalam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7989465
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"468ba8e26a017365df8cd8702f827a03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1226674171,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1226674171,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1226674171,
+    "wof:lastmodified":1536817809,
+    "wof:name":"Lekhsalam",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.40446,
+    28.26302,
+    82.40446,
+    28.26302
+],
+  "geometry": {"coordinates":[82.40446,28.26302],"type":"Point"}
+}

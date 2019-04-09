@@ -1,0 +1,78 @@
+{
+  "id": 1193210331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.31122,27.90752,85.31122,27.90752",
+    "geom:latitude":27.90752,
+    "geom:longitude":85.31122,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"28",
+    "gn:admin4_code":"280043",
+    "gn:asciiname":"Manethok",
+    "gn:country_code":"NP",
+    "gn:dem":923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7974575,
+    "gn:latitude":27.90752,
+    "gn:longitude":85.31122,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Manethok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7974575
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a0ae6eee2fafdb64cb34d04d7a997834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1193210331,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1193210331,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1193210331,
+    "wof:lastmodified":1536364690,
+    "wof:name":"Manethok",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.31121999999998,
+    27.90752,
+    85.31121999999998,
+    27.90752
+],
+  "geometry": {"coordinates":[85.31121999999998,27.90752],"type":"Point"}
+}

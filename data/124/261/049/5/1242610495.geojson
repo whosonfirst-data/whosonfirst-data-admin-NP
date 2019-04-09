@@ -1,0 +1,78 @@
+{
+  "id": 1242610495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.39382,28.41223,82.39382,28.41223",
+    "geom:latitude":28.41223,
+    "geom:longitude":82.39382,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530023",
+    "gn:asciiname":"Badadhungga",
+    "gn:country_code":"NP",
+    "gn:dem":1953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7983752,
+    "gn:latitude":28.41223,
+    "gn:longitude":82.39382,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Badadhungga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7983752
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6aeb162b7fcdf5c6d022f37f7ed7b428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1242610495,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1242610495,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1242610495,
+    "wof:lastmodified":1537015600,
+    "wof:name":"Badadhungga",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.39381999999998,
+    28.41223,
+    82.39381999999998,
+    28.41223
+],
+  "geometry": {"coordinates":[82.39381999999998,28.41223],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310347259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.74767,27.51499,87.74767,27.51499",
+    "geom:latitude":27.51499,
+    "geom:longitude":87.74767,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10008.0",
+    "gn:asciiname":"Sapothong",
+    "gn:country_code":"NP",
+    "gn:dem":2135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005102,
+    "gn:latitude":27.51499,
+    "gn:longitude":87.74767,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sapothong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005102
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"768a4be15fc923c80742acfe4ccddacd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1310347259,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1310347259,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1310347259,
+    "wof:lastmodified":1536647385,
+    "wof:name":"Sapothong",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.74767,
+    27.51499,
+    87.74767,
+    27.51499
+],
+  "geometry": {"coordinates":[87.74767,27.51499],"type":"Point"}
+}

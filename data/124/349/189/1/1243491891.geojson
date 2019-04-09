@@ -1,0 +1,78 @@
+{
+  "id": 1243491891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.53303,28.28791,83.53303,28.28791",
+    "geom:latitude":28.28791,
+    "geom:longitude":83.53303,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450036.0",
+    "gn:asciiname":"Dahare",
+    "gn:country_code":"NP",
+    "gn:dem":1631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7959276,
+    "gn:latitude":28.28791,
+    "gn:longitude":83.53303,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dahare",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7959276
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ec49c8035f3110e2aab5fd3583296a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1243491891,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1243491891,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1243491891,
+    "wof:lastmodified":1536739806,
+    "wof:name":"Dahare",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.53303000000002,
+    28.28791,
+    83.53303000000002,
+    28.28791
+],
+  "geometry": {"coordinates":[83.53303000000002,28.28791],"type":"Point"}
+}

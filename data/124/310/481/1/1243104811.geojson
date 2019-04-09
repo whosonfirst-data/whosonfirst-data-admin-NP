@@ -1,0 +1,78 @@
+{
+  "id": 1243104811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.18708,28.61564,85.18708,28.61564",
+    "geom:latitude":28.61564,
+    "geom:longitude":85.18708,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360013.0",
+    "gn:asciiname":"Nueladajjyen(Mailatasaching)Bhanjyang",
+    "gn:country_code":"NP",
+    "gn:dem":4867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7948116,
+    "gn:latitude":28.61564,
+    "gn:longitude":85.18708,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nueladajjyen(Mailatasaching)Bhanjyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7948116
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"eac928c34efbaf783ca4b8699fad497b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1243104811,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1243104811,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1243104811,
+    "wof:lastmodified":1536800871,
+    "wof:name":"Nueladajjyen(Mailatasaching)Bhanjyang",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.18708000000002,
+    28.61564000000001,
+    85.18708000000002,
+    28.61564000000001
+],
+  "geometry": {"coordinates":[85.18708000000002,28.61564000000001],"type":"Point"}
+}

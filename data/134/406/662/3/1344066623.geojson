@@ -1,0 +1,78 @@
+{
+  "id": 1344066623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.09065,27.7412,86.09065,27.7412",
+    "geom:latitude":27.7412,
+    "geom:longitude":86.09065,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Godun",
+    "gn:country_code":"NP",
+    "gn:dem":1588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10322206,
+    "gn:latitude":27.7412,
+    "gn:longitude":86.09065,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Godu\u1e45",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Godu\u1e45"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675579,
+        1092050535,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10322206
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d7cf86ed6d636e2a76e556f4b5f16a3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1344066623,
+            "region_id":85675579
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1344066623,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1344066623,
+    "wof:lastmodified":1537676090,
+    "wof:name":"Godun",
+    "wof:parent_id":1092050535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.09065,
+    27.7412,
+    86.09065,
+    27.7412
+],
+  "geometry": {"coordinates":[86.09065,27.7412],"type":"Point"}
+}

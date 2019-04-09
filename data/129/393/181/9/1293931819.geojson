@@ -1,0 +1,78 @@
+{
+  "id": 1293931819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.14147,27.78966,85.14147,27.78966",
+    "geom:latitude":27.78966,
+    "geom:longitude":85.14147,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"28",
+    "gn:admin4_code":"280035",
+    "gn:asciiname":"Tallo Jhyangli",
+    "gn:country_code":"NP",
+    "gn:dem":1258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7974364,
+    "gn:latitude":27.78966,
+    "gn:longitude":85.14147,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tallo Jhyangli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7974364
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d751d530a9a93b7aa8095b431d89f4ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1293931819,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1293931819,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1293931819,
+    "wof:lastmodified":1536643100,
+    "wof:name":"Tallo Jhyangli",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.14147,
+    27.78966,
+    85.14147,
+    27.78966
+],
+  "geometry": {"coordinates":[85.14147,27.78966],"type":"Point"}
+}

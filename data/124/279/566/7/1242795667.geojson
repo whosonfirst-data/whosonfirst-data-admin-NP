@@ -1,0 +1,78 @@
+{
+  "id": 1242795667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.87929,26.72359,87.87929,26.72359",
+    "geom:latitude":26.72359,
+    "geom:longitude":87.87929,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chepti",
+    "gn:country_code":"NP",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283535,
+    "gn:latitude":26.72359,
+    "gn:longitude":87.87929,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Chepti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Chep\u1e6di\u0307\u0304g\u0101\u0169"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283535
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1ced55b392ebbb557b5616292afc7736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1242795667,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1242795667,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1242795667,
+    "wof:lastmodified":1537676059,
+    "wof:name":"Chepti",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.87929,
+    26.72359,
+    87.87929,
+    26.72359
+],
+  "geometry": {"coordinates":[87.87929,26.72359],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1242610409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.25472,29.53267,81.25472,29.53267",
+    "geom:latitude":29.53267,
+    "geom:longitude":81.25472,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680025",
+    "gn:asciiname":"Thakuri Thana",
+    "gn:country_code":"NP",
+    "gn:dem":2237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7993429,
+    "gn:latitude":29.53267,
+    "gn:longitude":81.25472,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thakuri Thana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048571,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7993429
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e3a302495465b73874f3a2422e0589e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1242610409,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1242610409,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1242610409,
+    "wof:lastmodified":1537015715,
+    "wof:name":"Thakuri Thana",
+    "wof:parent_id":1092048571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.25471999999998,
+    29.53267,
+    81.25471999999998,
+    29.53267
+],
+  "geometry": {"coordinates":[81.25471999999998,29.53267],"type":"Point"}
+}

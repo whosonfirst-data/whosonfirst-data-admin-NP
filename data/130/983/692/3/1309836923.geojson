@@ -1,0 +1,78 @@
+{
+  "id": 1309836923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.92274,28.37965,81.92274,28.37965",
+    "geom:latitude":28.37965,
+    "geom:longitude":81.92274,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590035.0",
+    "gn:asciiname":"Dhap",
+    "gn:country_code":"NP",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7999864,
+    "gn:latitude":28.37965,
+    "gn:longitude":81.92274,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7999864
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0d65ebd629001320f591016cd4fd1ba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1309836923,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1309836923,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1309836923,
+    "wof:lastmodified":1536885825,
+    "wof:name":"Dhap",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.92274,
+    28.37965,
+    81.92274,
+    28.37965
+],
+  "geometry": {"coordinates":[81.92274,28.37965],"type":"Point"}
+}

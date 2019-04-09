@@ -1,0 +1,64 @@
+{
+  "id": 1209162541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.02375,27.06033,88.02375,27.06033",
+    "geom:latitude":27.06033,
+    "geom:longitude":88.02375,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30016.0",
+    "gn:asciiname":"Kaiyankata",
+    "gn:country_code":"NP",
+    "gn:dem":2825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7951879,
+    "gn:latitude":27.06033,
+    "gn:longitude":88.02375,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kaiyankata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7951879
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"960e76da6f65e46a98b09a5e902d157e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209162541
+        }
+    ],
+    "wof:id":1209162541,
+    "wof:lastmodified":1536295850,
+    "wof:name":"Kaiyankata",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.02375,
+    27.06033,
+    88.02375,
+    27.06033
+],
+  "geometry": {"coordinates":[88.02375000000001,27.06033],"type":"Point"}
+}

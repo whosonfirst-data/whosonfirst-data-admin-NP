@@ -1,0 +1,78 @@
+{
+  "id": 1327375669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.31874,27.60219,83.31874,27.60219",
+    "geom:latitude":27.60219,
+    "geom:longitude":83.31874,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"49",
+    "gn:admin4_code":"490068",
+    "gn:asciiname":"Dolai",
+    "gn:country_code":"NP",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7987810,
+    "gn:latitude":27.60219,
+    "gn:longitude":83.31874,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dolai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048457,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7987810
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"543357b0296d52954f26b9181068e963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1327375669,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1327375669,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1327375669,
+    "wof:lastmodified":1536762998,
+    "wof:name":"Dolai",
+    "wof:parent_id":1092048457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.31874,
+    27.60219,
+    83.31874,
+    27.60219
+],
+  "geometry": {"coordinates":[83.31874000000001,27.60219],"type":"Point"}
+}

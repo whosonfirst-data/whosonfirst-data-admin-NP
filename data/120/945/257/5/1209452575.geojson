@@ -1,0 +1,64 @@
+{
+  "id": 1209452575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.98685,27.84467,83.98685,27.84467",
+    "geom:latitude":27.84467,
+    "geom:longitude":83.98685,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"47",
+    "gn:admin4_code":"470023",
+    "gn:asciiname":"Sakhardi",
+    "gn:country_code":"NP",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7976227,
+    "gn:latitude":27.84467,
+    "gn:longitude":83.98685,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sakhardi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7976227
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c23c7d59015fb25166bfb79b177efd2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209452575
+        }
+    ],
+    "wof:id":1209452575,
+    "wof:lastmodified":1536286629,
+    "wof:name":"Sakhardi",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.98685,
+    27.84467,
+    83.98685,
+    27.84467
+],
+  "geometry": {"coordinates":[83.98685,27.84467],"type":"Point"}
+}

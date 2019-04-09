@@ -1,0 +1,64 @@
+{
+  "id": 1209443213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.73016,29.36987,81.73016,29.36987",
+    "geom:latitude":29.36987,
+    "geom:longitude":81.73016,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"67.0",
+    "gn:admin4_code":"670026.0",
+    "gn:asciiname":"Phuyanlagaun",
+    "gn:country_code":"NP",
+    "gn:dem":1205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005257,
+    "gn:latitude":29.36987,
+    "gn:longitude":81.73016,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Phuyanlagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005257
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ede3fc39860622df0bb92495d1829b9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209443213
+        }
+    ],
+    "wof:id":1209443213,
+    "wof:lastmodified":1536286897,
+    "wof:name":"Phuyanlagaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.73016,
+    29.36987,
+    81.73016,
+    29.36987
+],
+  "geometry": {"coordinates":[81.73016,29.36987],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1225986421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.40486,27.11735,86.40486,27.11735",
+    "geom:latitude":27.11735,
+    "geom:longitude":86.40486,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140021.0",
+    "gn:asciiname":"Dansitar",
+    "gn:country_code":"NP",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007065,
+    "gn:latitude":27.11735,
+    "gn:longitude":86.40486,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dansitar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050179,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007065
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d832df7a48553a88bd5a6636f6f69423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1225986421,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1225986421,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1225986421,
+    "wof:lastmodified":1536810173,
+    "wof:name":"Dansitar",
+    "wof:parent_id":1092050179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.40486,
+    27.11735,
+    86.40486,
+    27.11735
+],
+  "geometry": {"coordinates":[86.40486,27.11735],"type":"Point"}
+}

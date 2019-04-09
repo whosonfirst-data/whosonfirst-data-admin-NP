@@ -1,0 +1,78 @@
+{
+  "id": 1193060409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.71055,27.37339,85.71055,27.37339",
+    "geom:latitude":27.37339,
+    "geom:longitude":85.71055,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200045",
+    "gn:asciiname":"Singpal",
+    "gn:country_code":"NP",
+    "gn:dem":1454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7993991,
+    "gn:latitude":27.37339,
+    "gn:longitude":85.71055,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Singpal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049679,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7993991
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9bf0cdd79ad89367ea44e7d6bdc1bc18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1193060409,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1193060409,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1193060409,
+    "wof:lastmodified":1536378409,
+    "wof:name":"Singpal",
+    "wof:parent_id":1092049679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.71055,
+    27.37339,
+    85.71055,
+    27.37339
+],
+  "geometry": {"coordinates":[85.71055,27.37339],"type":"Point"}
+}

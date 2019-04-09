@@ -1,0 +1,64 @@
+{
+  "id": 1209347347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.17121,29.44814,81.17121,29.44814",
+    "geom:latitude":29.44814,
+    "geom:longitude":81.17121,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680019",
+    "gn:asciiname":"Kalukheti",
+    "gn:country_code":"NP",
+    "gn:dem":1587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7991649,
+    "gn:latitude":29.44814,
+    "gn:longitude":81.17121,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kalukheti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7991649
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ba295a9bcf3a8da224d2915e7d57799d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209347347
+        }
+    ],
+    "wof:id":1209347347,
+    "wof:lastmodified":1536289868,
+    "wof:name":"Kalukheti",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.17121,
+    29.44814,
+    81.17121,
+    29.44814
+],
+  "geometry": {"coordinates":[81.17121,29.44814],"type":"Point"}
+}

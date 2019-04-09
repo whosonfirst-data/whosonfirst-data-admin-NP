@@ -1,0 +1,90 @@
+{
+  "id": 421170545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.33218,27.70704,85.33218,27.70704",
+    "geom:latitude":27.70704,
+    "geom:longitude":85.33218,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "K\u0101tm\u0101ndu"
+    ],
+    "qs:gn_country":"NP",
+    "qs:gn_fcode":"ADM3",
+    "qs:gn_id":1283241,
+    "qs:gn_pop":1264684,
+    "qs:name":"Kathmandu",
+    "qs:name_adm0":"Nepal",
+    "qs:name_adm1":"Madhyamanchal",
+    "qs:photos":223,
+    "qs:photos_1k":45,
+    "qs:photos_9k":205,
+    "qs:photos_9r":24,
+    "qs:photos_all":46156,
+    "qs:photos_sr":4,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"12",
+    "qs:qs_id":1192939,
+    "qs:woe_adm0":23424911,
+    "qs:woe_id":23706767,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092048931,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283241,
+        "gp:id":23706767,
+        "qs:id":1192939
+    },
+    "wof:country":"NP",
+    "wof:created":1459008857,
+    "wof:geomhash":"31985c14de986c860d0d1cf5daa20241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "localadmin_id":421170545,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "localadmin_id":421170545,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":421170545,
+    "wof:lastmodified":1505340599,
+    "wof:name":"Kathmandu",
+    "wof:parent_id":1092048931,
+    "wof:placetype":"localadmin",
+    "wof:population":1264684,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.33218,
+    27.70704,
+    85.33218,
+    27.70704
+],
+  "geometry": {"coordinates":[85.33217999999999,27.70704],"type":"Point"}
+}

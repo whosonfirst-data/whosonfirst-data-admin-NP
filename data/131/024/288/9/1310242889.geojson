@@ -1,0 +1,78 @@
+{
+  "id": 1310242889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.27658,28.17874,85.27658,28.17874",
+    "geom:latitude":28.17874,
+    "geom:longitude":85.27658,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"29",
+    "gn:admin4_code":"290003",
+    "gn:asciiname":"Baten",
+    "gn:country_code":"NP",
+    "gn:dem":2654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7982117,
+    "gn:latitude":28.17874,
+    "gn:longitude":85.27658,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Baten",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048409,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7982117
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"436e50b6a36166fb7ff97beff08b209b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048409,
+            "locality_id":1310242889,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048409,
+            "locality_id":1310242889,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1310242889,
+    "wof:lastmodified":1536798311,
+    "wof:name":"Baten",
+    "wof:parent_id":1092048409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.27658000000002,
+    28.17874,
+    85.27658000000002,
+    28.17874
+],
+  "geometry": {"coordinates":[85.27658000000002,28.17874],"type":"Point"}
+}

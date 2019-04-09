@@ -1,0 +1,78 @@
+{
+  "id": 1326468293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.97285,26.93775,86.97285,26.93775",
+    "geom:latitude":26.93775,
+    "geom:longitude":86.97285,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100045.0",
+    "gn:asciiname":"Makhuwa",
+    "gn:country_code":"NP",
+    "gn:dem":976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933642,
+    "gn:latitude":26.93775,
+    "gn:longitude":86.97285,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Makhuwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933642
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f36c584ff490241bbb027cc274ed064b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1326468293,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1326468293,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1326468293,
+    "wof:lastmodified":1537072949,
+    "wof:name":"Makhuwa",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.97285,
+    26.93775,
+    86.97285,
+    26.93775
+],
+  "geometry": {"coordinates":[86.97284999999999,26.93775],"type":"Point"}
+}

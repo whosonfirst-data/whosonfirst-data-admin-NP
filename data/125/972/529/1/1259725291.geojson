@@ -1,0 +1,78 @@
+{
+  "id": 1259725291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.66471,27.98353,83.66471,27.98353",
+    "geom:latitude":27.98353,
+    "geom:longitude":83.66471,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390043.0",
+    "gn:asciiname":"Tolatung",
+    "gn:country_code":"NP",
+    "gn:dem":1290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001769,
+    "gn:latitude":27.98353,
+    "gn:longitude":83.66471,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tolatung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001769
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"dce63743b93037c846d4d93a6f3fb5b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1259725291,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1259725291,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1259725291,
+    "wof:lastmodified":1537006127,
+    "wof:name":"Tolatung",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.66471,
+    27.98353,
+    83.66471,
+    27.98353
+],
+  "geometry": {"coordinates":[83.66471,27.98353],"type":"Point"}
+}

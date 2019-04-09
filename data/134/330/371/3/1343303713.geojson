@@ -1,0 +1,78 @@
+{
+  "id": 1343303713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.23996,27.95899,83.23996,27.95899",
+    "geom:latitude":27.95899,
+    "geom:longitude":83.23996,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"51.0",
+    "gn:admin4_code":"510005.0",
+    "gn:asciiname":"Panthi Tola",
+    "gn:country_code":"NP",
+    "gn:dem":978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7938952,
+    "gn:latitude":27.95899,
+    "gn:longitude":83.23996,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Panthi Tola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092049537,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7938952
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"84108a80a583eb7736867c121fdb0793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049537,
+            "locality_id":1343303713,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049537,
+            "locality_id":1343303713,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1343303713,
+    "wof:lastmodified":1536972063,
+    "wof:name":"Panthi Tola",
+    "wof:parent_id":1092049537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.23996,
+    27.95899,
+    83.23996,
+    27.95899
+],
+  "geometry": {"coordinates":[83.23996,27.95899],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1344000185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.25812,27.72718,86.25812,27.72718",
+    "geom:latitude":27.72718,
+    "geom:longitude":86.25812,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"22.0",
+    "gn:admin4_code":"220049.0",
+    "gn:asciiname":"Ghamtara",
+    "gn:country_code":"NP",
+    "gn:dem":2033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7945226,
+    "gn:latitude":27.72718,
+    "gn:longitude":86.25812,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ghamtara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675579,
+        1092050535,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7945226
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3e484b7ac13a22ff87f020bab811cb73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1344000185,
+            "region_id":85675579
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1344000185,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1344000185,
+    "wof:lastmodified":1536962515,
+    "wof:name":"Ghamtara",
+    "wof:parent_id":1092050535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.25811999999998,
+    27.72718,
+    86.25811999999998,
+    27.72718
+],
+  "geometry": {"coordinates":[86.25811999999998,27.72718],"type":"Point"}
+}

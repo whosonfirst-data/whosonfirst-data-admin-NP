@@ -1,0 +1,78 @@
+{
+  "id": 1309920103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.04852,26.74344,87.04852,26.74344",
+    "geom:latitude":26.74344,
+    "geom:longitude":87.04852,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Shrilanka",
+    "gn:country_code":"NP",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11605820,
+    "gn:latitude":26.74344,
+    "gn:longitude":87.04852,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Shri\u0307\u0304la\u1e45k\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Shri\u0307\u0304la\u1e45k\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049923,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11605820
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7bc3b7ab69bfdfedb5831e9bbe37e055",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1309920103,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1309920103,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1309920103,
+    "wof:lastmodified":1537676121,
+    "wof:name":"Shrilanka",
+    "wof:parent_id":1092049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.04852,
+    26.74344,
+    87.04852,
+    26.74344
+],
+  "geometry": {"coordinates":[87.04852,26.74344],"type":"Point"}
+}

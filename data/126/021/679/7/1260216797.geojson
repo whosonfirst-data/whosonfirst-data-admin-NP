@@ -1,0 +1,78 @@
+{
+  "id": 1260216797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.71116,28.74551,81.71116,28.74551",
+    "geom:latitude":28.74551,
+    "geom:longitude":81.71116,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"60.0",
+    "gn:admin4_code":"600014.0",
+    "gn:asciiname":"Pokharipata",
+    "gn:country_code":"NP",
+    "gn:dem":1125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7936853,
+    "gn:latitude":28.74551,
+    "gn:longitude":81.71116,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pokharipata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092050583,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7936853
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"064f2e3943900c0baaa1823354d18d21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1260216797,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1260216797,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1260216797,
+    "wof:lastmodified":1536802447,
+    "wof:name":"Pokharipata",
+    "wof:parent_id":1092050583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.71115999999998,
+    28.74551,
+    81.71115999999998,
+    28.74551
+],
+  "geometry": {"coordinates":[81.71115999999998,28.74551],"type":"Point"}
+}

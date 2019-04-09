@@ -1,0 +1,64 @@
+{
+  "id": 1209241033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.62308,29.016,80.62308,29.016",
+    "geom:latitude":29.016,
+    "geom:longitude":80.62308,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710038.0",
+    "gn:asciiname":"Marhatti",
+    "gn:country_code":"NP",
+    "gn:dem":1279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7957618,
+    "gn:latitude":29.016,
+    "gn:longitude":80.62308,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Marhatti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7957618
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6a7bf595f677993d299b7c5744172de1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209241033
+        }
+    ],
+    "wof:id":1209241033,
+    "wof:lastmodified":1536293319,
+    "wof:name":"Marhatti",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.62308,
+    29.016,
+    80.62308,
+    29.016
+],
+  "geometry": {"coordinates":[80.62308,29.016],"type":"Point"}
+}

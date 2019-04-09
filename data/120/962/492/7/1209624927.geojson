@@ -1,0 +1,64 @@
+{
+  "id": 1209624927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.85343,27.7971,84.85343,27.7971",
+    "geom:latitude":27.7971,
+    "geom:longitude":84.85343,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dadagau",
+    "gn:country_code":"NP",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11599752,
+    "gn:latitude":27.7971,
+    "gn:longitude":84.85343,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"\u1e0c\u0101\u0303\u1e0d\u0101g\u0101\u0169",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "\u1e0c\u0101\u0303\u1e0d\u0101g\u0101\u0169"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11599752
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"43660e2088b5380dcad715b79d98a865",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209624927
+        }
+    ],
+    "wof:id":1209624927,
+    "wof:lastmodified":1537676113,
+    "wof:name":"Dadagau",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.85343,
+    27.7971,
+    84.85343,
+    27.7971
+],
+  "geometry": {"coordinates":[84.85343,27.7971],"type":"Point"}
+}

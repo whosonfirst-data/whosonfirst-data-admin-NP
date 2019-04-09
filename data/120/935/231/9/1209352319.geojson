@@ -1,0 +1,64 @@
+{
+  "id": 1209352319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.5637,26.93695,86.5637,26.93695",
+    "geom:latitude":26.93695,
+    "geom:longitude":86.5637,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140044.0",
+    "gn:asciiname":"Gaidakhor",
+    "gn:country_code":"NP",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007952,
+    "gn:latitude":26.93695,
+    "gn:longitude":86.5637,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gaidakhor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007952
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"49894cd96126a86d0f02d17ef0ab9ac9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209352319
+        }
+    ],
+    "wof:id":1209352319,
+    "wof:lastmodified":1536289702,
+    "wof:name":"Gaidakhor",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.5637,
+    26.93695,
+    86.5637,
+    26.93695
+],
+  "geometry": {"coordinates":[86.5637,26.93695],"type":"Point"}
+}

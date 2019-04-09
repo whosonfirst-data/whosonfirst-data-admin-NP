@@ -1,0 +1,64 @@
+{
+  "id": 1209542017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.12098,29.0263,81.12098,29.0263",
+    "geom:latitude":29.0263,
+    "geom:longitude":81.12098,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"70.0",
+    "gn:admin4_code":"700025.0",
+    "gn:asciiname":"Palchaur",
+    "gn:country_code":"NP",
+    "gn:dem":991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7946772,
+    "gn:latitude":29.0263,
+    "gn:longitude":81.12098,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Palchaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7946772
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"868a07f52986a81d14331104789d5f6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209542017
+        }
+    ],
+    "wof:id":1209542017,
+    "wof:lastmodified":1536283960,
+    "wof:name":"Palchaur",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.12098,
+    29.0263,
+    81.12098,
+    29.0263
+],
+  "geometry": {"coordinates":[81.12098,29.0263],"type":"Point"}
+}

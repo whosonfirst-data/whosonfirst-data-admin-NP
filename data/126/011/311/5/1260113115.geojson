@@ -1,0 +1,78 @@
+{
+  "id": 1260113115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.87953,28.90655,81.87953,28.90655",
+    "geom:latitude":28.90655,
+    "geom:longitude":81.87953,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"60.0",
+    "gn:admin4_code":"600022.0",
+    "gn:asciiname":"Utisini",
+    "gn:country_code":"NP",
+    "gn:dem":2029,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7937089,
+    "gn:latitude":28.90655,
+    "gn:longitude":81.87953,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Utisini",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092050583,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7937089
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ca9dcfa1ac8b2b38f9a5b3ad66a08c3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1260113115,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1260113115,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1260113115,
+    "wof:lastmodified":1536945835,
+    "wof:name":"Utisini",
+    "wof:parent_id":1092050583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.87953,
+    28.90655,
+    81.87953,
+    28.90655
+],
+  "geometry": {"coordinates":[81.87953,28.90655],"type":"Point"}
+}

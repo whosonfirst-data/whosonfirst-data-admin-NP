@@ -1,0 +1,64 @@
+{
+  "id": 1209048667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.15037,27.63929,85.15037,27.63929",
+    "geom:latitude":27.63929,
+    "geom:longitude":85.15037,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310010",
+    "gn:asciiname":"Ampudol",
+    "gn:country_code":"NP",
+    "gn:dem":1642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7968017,
+    "gn:latitude":27.63929,
+    "gn:longitude":85.15037,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ampudol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7968017
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1146ab601724708a662beb848bf848e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209048667
+        }
+    ],
+    "wof:id":1209048667,
+    "wof:lastmodified":1536299318,
+    "wof:name":"Ampudol",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.15037,
+    27.639290000000006,
+    85.15037,
+    27.639290000000006
+],
+  "geometry": {"coordinates":[85.15037,27.63929000000001],"type":"Point"}
+}

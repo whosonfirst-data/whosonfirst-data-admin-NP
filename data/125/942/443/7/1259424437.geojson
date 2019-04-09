@@ -1,0 +1,78 @@
+{
+  "id": 1259424437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.32005,28.18199,84.32005,28.18199",
+    "geom:latitude":28.18199,
+    "geom:longitude":84.32005,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370053",
+    "gn:asciiname":"Sindure",
+    "gn:country_code":"NP",
+    "gn:dem":1387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7967013,
+    "gn:latitude":28.18199,
+    "gn:longitude":84.32005,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sindure",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050009,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7967013
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ad7e5292277c44f1d9694865138370ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1259424437,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1259424437,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1259424437,
+    "wof:lastmodified":1536944080,
+    "wof:name":"Sindure",
+    "wof:parent_id":1092050009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.32005,
+    28.18199000000001,
+    84.32005,
+    28.18199000000001
+],
+  "geometry": {"coordinates":[84.32004999999999,28.18199000000001],"type":"Point"}
+}

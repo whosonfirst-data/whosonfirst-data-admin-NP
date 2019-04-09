@@ -1,0 +1,78 @@
+{
+  "id": 1343699193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.94621,28.19486,83.94621,28.19486",
+    "geom:latitude":28.19486,
+    "geom:longitude":83.94621,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400032.0",
+    "gn:asciiname":"Bagaltari",
+    "gn:country_code":"NP",
+    "gn:dem":835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7961425,
+    "gn:latitude":28.19486,
+    "gn:longitude":83.94621,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bagaltari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092049331,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7961425
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"eb0d46ca6aff110cc707386a5ba02fd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1343699193,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1343699193,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1343699193,
+    "wof:lastmodified":1536899109,
+    "wof:name":"Bagaltari",
+    "wof:parent_id":1092049331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.94621,
+    28.19486,
+    83.94621,
+    28.19486
+],
+  "geometry": {"coordinates":[83.94620999999999,28.19486],"type":"Point"}
+}

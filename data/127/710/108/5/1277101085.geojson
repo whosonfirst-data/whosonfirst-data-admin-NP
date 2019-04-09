@@ -1,0 +1,79 @@
+{
+  "id": 1277101085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.50392,29.05543,81.50392,29.05543",
+    "geom:latitude":29.05543,
+    "geom:longitude":81.50392,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"60.0",
+    "gn:admin4_code":"600053.0",
+    "gn:asciiname":"Singasain",
+    "gn:country_code":"NP",
+    "gn:dem":1638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7938053,
+    "gn:latitude":29.05543,
+    "gn:longitude":81.50392,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Singasain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092050583,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7938053,
+        "wk:page":"Singasain"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1023e79bf7e34f99fb9d9bad73cc22af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1277101085,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1277101085,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1277101085,
+    "wof:lastmodified":1537570148,
+    "wof:name":"Singasain",
+    "wof:parent_id":1092050583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.50392,
+    29.05543,
+    81.50392,
+    29.05543
+],
+  "geometry": {"coordinates":[81.50391999999999,29.05543],"type":"Point"}
+}

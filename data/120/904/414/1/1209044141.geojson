@@ -1,0 +1,64 @@
+{
+  "id": 1209044141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.1264,28.00468,84.1264,28.00468",
+    "geom:latitude":28.00468,
+    "geom:longitude":84.1264,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380012.0",
+    "gn:asciiname":"Saunepani",
+    "gn:country_code":"NP",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003111,
+    "gn:latitude":28.00468,
+    "gn:longitude":84.1264,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Saunepani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003111
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e33d8cb7a7be7d65f147f291fb4fea51",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209044141
+        }
+    ],
+    "wof:id":1209044141,
+    "wof:lastmodified":1536299450,
+    "wof:name":"Saunepani",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.1264,
+    28.00468,
+    84.1264,
+    28.00468
+],
+  "geometry": {"coordinates":[84.1264,28.00468],"type":"Point"}
+}

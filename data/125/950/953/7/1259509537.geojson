@@ -1,0 +1,78 @@
+{
+  "id": 1259509537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.04981,29.18151,82.04981,29.18151",
+    "geom:latitude":29.18151,
+    "geom:longitude":82.04981,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"630022.0",
+    "gn:asciiname":"Bhenchaur",
+    "gn:country_code":"NP",
+    "gn:dem":2714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956016,
+    "gn:latitude":29.18151,
+    "gn:longitude":82.04981,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhenchaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092050797,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956016
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cfa53e82f2d5c26e83558af46e0071fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1259509537,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1259509537,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1259509537,
+    "wof:lastmodified":1536820571,
+    "wof:name":"Bhenchaur",
+    "wof:parent_id":1092050797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.04981,
+    29.18151,
+    82.04981,
+    29.18151
+],
+  "geometry": {"coordinates":[82.04980999999999,29.18151],"type":"Point"}
+}

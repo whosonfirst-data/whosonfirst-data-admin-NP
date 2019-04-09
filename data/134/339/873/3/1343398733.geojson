@@ -1,0 +1,78 @@
+{
+  "id": 1343398733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.12123,26.50257,87.12123,26.50257",
+    "geom:latitude":26.50257,
+    "geom:longitude":87.12123,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"6.0",
+    "gn:admin4_code":"60024.0",
+    "gn:asciiname":"Harinagara Bajar",
+    "gn:country_code":"NP",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7997853,
+    "gn:latitude":26.50257,
+    "gn:longitude":87.12123,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Harinagara Bajar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049923,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7997853
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c219a4e7e2683aa9c35a1a0ae5f5bbb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1343398733,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1343398733,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1343398733,
+    "wof:lastmodified":1536834193,
+    "wof:name":"Harinagara Bajar",
+    "wof:parent_id":1092049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.12123000000003,
+    26.50257,
+    87.12123000000003,
+    26.50257
+],
+  "geometry": {"coordinates":[87.12123000000003,26.50257],"type":"Point"}
+}

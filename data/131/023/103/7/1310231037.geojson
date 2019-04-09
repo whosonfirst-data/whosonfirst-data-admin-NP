@@ -1,0 +1,78 @@
+{
+  "id": 1310231037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.55009,28.79809,81.55009,28.79809",
+    "geom:latitude":28.79809,
+    "geom:longitude":81.55009,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"69.0",
+    "gn:admin4_code":"690058.0",
+    "gn:asciiname":"Nagade",
+    "gn:country_code":"NP",
+    "gn:dem":805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933706,
+    "gn:latitude":28.79809,
+    "gn:longitude":81.55009,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nagade",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048527,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933706
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c227330f0f0f28b05e3ea716442e585a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1310231037,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1310231037,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1310231037,
+    "wof:lastmodified":1536814780,
+    "wof:name":"Nagade",
+    "wof:parent_id":1092048527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.55009,
+    28.79809,
+    81.55009,
+    28.79809
+],
+  "geometry": {"coordinates":[81.55009,28.79809],"type":"Point"}
+}

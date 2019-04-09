@@ -1,0 +1,78 @@
+{
+  "id": 1293513961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.7032,29.29204,81.7032,29.29204",
+    "geom:latitude":29.29204,
+    "geom:longitude":81.7032,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"64.0",
+    "gn:admin4_code":"640018.0",
+    "gn:asciiname":"Khari Toli",
+    "gn:country_code":"NP",
+    "gn:dem":2209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7958267,
+    "gn:latitude":29.29204,
+    "gn:longitude":81.7032,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khari Toli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092048809,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7958267
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"579e27f382f643174e2a02ffd1afca22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048809,
+            "locality_id":1293513961,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048809,
+            "locality_id":1293513961,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1293513961,
+    "wof:lastmodified":1536748869,
+    "wof:name":"Khari Toli",
+    "wof:parent_id":1092048809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.7032,
+    29.29204,
+    81.7032,
+    29.29204
+],
+  "geometry": {"coordinates":[81.7032,29.29204],"type":"Point"}
+}

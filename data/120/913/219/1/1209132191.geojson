@@ -1,0 +1,64 @@
+{
+  "id": 1209132191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.23774,28.4977,82.23774,28.4977",
+    "geom:latitude":28.4977,
+    "geom:longitude":82.23774,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550016",
+    "gn:asciiname":"Thulo Jimali",
+    "gn:country_code":"NP",
+    "gn:dem":1468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7988407,
+    "gn:latitude":28.4977,
+    "gn:longitude":82.23774,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thulo Jimali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7988407
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2b35d623da67c7c7ee393603d17c42a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209132191
+        }
+    ],
+    "wof:id":1209132191,
+    "wof:lastmodified":1536296773,
+    "wof:name":"Thulo Jimali",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.23774,
+    28.4977,
+    82.23774,
+    28.4977
+],
+  "geometry": {"coordinates":[82.23774,28.4977],"type":"Point"}
+}

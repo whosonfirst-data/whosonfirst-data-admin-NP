@@ -1,0 +1,78 @@
+{
+  "id": 1327058043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.23484,29.1585,81.23484,29.1585",
+    "geom:latitude":29.1585,
+    "geom:longitude":81.23484,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"69.0",
+    "gn:admin4_code":"690047.0",
+    "gn:asciiname":"Daya",
+    "gn:country_code":"NP",
+    "gn:dem":781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008758,
+    "gn:latitude":29.1585,
+    "gn:longitude":81.23484,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Daya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048527,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008758
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"eb5bc8ecc7ff8a7097f8a1b37c2eb65e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1327058043,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1327058043,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1327058043,
+    "wof:lastmodified":1536723875,
+    "wof:name":"Daya",
+    "wof:parent_id":1092048527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.23484,
+    29.1585,
+    81.23484,
+    29.1585
+],
+  "geometry": {"coordinates":[81.23484000000001,29.1585],"type":"Point"}
+}

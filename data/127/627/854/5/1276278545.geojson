@@ -1,0 +1,78 @@
+{
+  "id": 1276278545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.48371,27.85943,84.48371,27.85943",
+    "geom:latitude":27.85943,
+    "geom:longitude":84.48371,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380013.0",
+    "gn:asciiname":"Bagai",
+    "gn:country_code":"NP",
+    "gn:dem":882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003185,
+    "gn:latitude":27.85943,
+    "gn:longitude":84.48371,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bagai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003185
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ce3992a0ecbd7b378db7712dbf372ab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1276278545,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1276278545,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1276278545,
+    "wof:lastmodified":1536851039,
+    "wof:name":"Bagai",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.48371,
+    27.85943,
+    84.48371,
+    27.85943
+],
+  "geometry": {"coordinates":[84.48371,27.85943],"type":"Point"}
+}

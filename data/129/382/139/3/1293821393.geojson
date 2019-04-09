@@ -1,0 +1,78 @@
+{
+  "id": 1293821393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.84672,28.049,83.84672,28.049",
+    "geom:latitude":28.049,
+    "geom:longitude":83.84672,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390042.0",
+    "gn:asciiname":"Tilichaur",
+    "gn:country_code":"NP",
+    "gn:dem":1367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001736,
+    "gn:latitude":28.049,
+    "gn:longitude":83.84672,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tilichaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001736
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ce2fadc48d7c16f87b035ff697f21370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1293821393,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1293821393,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293821393,
+    "wof:lastmodified":1536802672,
+    "wof:name":"Tilichaur",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.84671999999998,
+    28.049,
+    83.84671999999998,
+    28.049
+],
+  "geometry": {"coordinates":[83.84671999999998,28.049],"type":"Point"}
+}

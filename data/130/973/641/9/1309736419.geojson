@@ -1,0 +1,78 @@
+{
+  "id": 1309736419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.91089,29.43794,80.91089,29.43794",
+    "geom:latitude":29.43794,
+    "geom:longitude":80.91089,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"70.0",
+    "gn:admin4_code":"700007.0",
+    "gn:asciiname":"Malu Koireli",
+    "gn:country_code":"NP",
+    "gn:dem":1084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7946113,
+    "gn:latitude":29.43794,
+    "gn:longitude":80.91089,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Malu Koireli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048653,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7946113
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b04b0e744bb89c50cb24c2a6a2ace9ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1309736419,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1309736419,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1309736419,
+    "wof:lastmodified":1537029952,
+    "wof:name":"Malu Koireli",
+    "wof:parent_id":1092048653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.91089000000002,
+    29.43794,
+    80.91089000000002,
+    29.43794
+],
+  "geometry": {"coordinates":[80.91089000000002,29.43794],"type":"Point"}
+}

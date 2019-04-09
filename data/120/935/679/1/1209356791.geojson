@@ -1,0 +1,64 @@
+{
+  "id": 1209356791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.91784,26.99869,84.91784,26.99869",
+    "geom:latitude":26.99869,
+    "geom:longitude":84.91784,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"330016.0",
+    "gn:asciiname":"Chiljhapati",
+    "gn:country_code":"NP",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008652,
+    "gn:latitude":26.99869,
+    "gn:longitude":84.91784,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chiljhapati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008652
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"873acd408a204bb815e6c75ed3a39300",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209356791
+        }
+    ],
+    "wof:id":1209356791,
+    "wof:lastmodified":1536289563,
+    "wof:name":"Chiljhapati",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.91784,
+    26.998690000000003,
+    84.91784,
+    26.998690000000003
+],
+  "geometry": {"coordinates":[84.91784,26.99869],"type":"Point"}
+}

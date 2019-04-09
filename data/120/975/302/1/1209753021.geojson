@@ -1,0 +1,79 @@
+{
+  "id": 1209753021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.92366,27.88519,83.92366,27.88519",
+    "geom:latitude":27.88519,
+    "geom:longitude":83.92366,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390048.0",
+    "gn:asciiname":"Bhattarai Gaun",
+    "gn:country_code":"NP",
+    "gn:dem":480,
+    "gn:elevation":"469.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002065,
+    "gn:latitude":27.88519,
+    "gn:longitude":83.92366,
+    "gn:modification_date":"2016-05-17",
+    "gn:name":"Bhattarai Gaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002065
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ce460b1b0f9365d36b47efdd23a4de61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1209753021,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1209753021,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1209753021,
+    "wof:lastmodified":1536391888,
+    "wof:name":"Bhattarai Gaun",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.92366,
+    27.88519,
+    83.92366,
+    27.88519
+],
+  "geometry": {"coordinates":[83.92366,27.88519],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209352163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.69998,27.85442,84.69998,27.85442",
+    "geom:latitude":27.85442,
+    "geom:longitude":84.69998,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360009.0",
+    "gn:asciiname":"Hatiya",
+    "gn:country_code":"NP",
+    "gn:dem":1368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7948001,
+    "gn:latitude":27.85442,
+    "gn:longitude":84.69998,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Hatiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7948001
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e98d53fc5dbab8c9b8b8129d424c65fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209352163
+        }
+    ],
+    "wof:id":1209352163,
+    "wof:lastmodified":1536289706,
+    "wof:name":"Hatiya",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.69998000000002,
+    27.85442,
+    84.69998000000002,
+    27.85442
+],
+  "geometry": {"coordinates":[84.69998000000002,27.85442],"type":"Point"}
+}

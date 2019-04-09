@@ -1,0 +1,64 @@
+{
+  "id": 1209262435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.88132,27.792,83.88132,27.792",
+    "geom:latitude":27.792,
+    "geom:longitude":83.88132,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"47",
+    "gn:admin4_code":"470024",
+    "gn:asciiname":"Romadi",
+    "gn:country_code":"NP",
+    "gn:dem":1060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7976238,
+    "gn:latitude":27.792,
+    "gn:longitude":83.88132,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Romadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7976238
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"76fd8ff132b99b0188900373d19d64ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209262435
+        }
+    ],
+    "wof:id":1209262435,
+    "wof:lastmodified":1536292643,
+    "wof:name":"Romadi",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.88132,
+    27.792,
+    83.88132,
+    27.792
+],
+  "geometry": {"coordinates":[83.88132,27.792],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1277114675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.05489,27.63559,85.05489,27.63559",
+    "geom:latitude":27.63559,
+    "geom:longitude":85.05489,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310035",
+    "gn:asciiname":"Pakhatol",
+    "gn:country_code":"NP",
+    "gn:dem":1817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7968991,
+    "gn:latitude":27.63559,
+    "gn:longitude":85.05489,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pakhatol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7968991
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"91a55a7dec9604834d5ffa36adec0a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1277114675,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1277114675,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1277114675,
+    "wof:lastmodified":1536721908,
+    "wof:name":"Pakhatol",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.05489,
+    27.63559,
+    85.05489,
+    27.63559
+],
+  "geometry": {"coordinates":[85.05489,27.63559],"type":"Point"}
+}

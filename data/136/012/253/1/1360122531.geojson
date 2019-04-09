@@ -1,0 +1,78 @@
+{
+  "id": 1360122531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.12003,27.94915,85.12003,27.94915",
+    "geom:latitude":27.94915,
+    "geom:longitude":85.12003,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"28",
+    "gn:admin4_code":"280029",
+    "gn:asciiname":"Cham Bhanjyang",
+    "gn:country_code":"NP",
+    "gn:dem":1041,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7974248,
+    "gn:latitude":27.94915,
+    "gn:longitude":85.12003,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Cham Bhanjyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7974248
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6699dfa31b61aa2b75614c89d44f4929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1360122531,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1360122531,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1360122531,
+    "wof:lastmodified":1536891251,
+    "wof:name":"Cham Bhanjyang",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.12003,
+    27.94915,
+    85.12003,
+    27.94915
+],
+  "geometry": {"coordinates":[85.12003,27.94915],"type":"Point"}
+}

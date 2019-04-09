@@ -1,0 +1,78 @@
+{
+  "id": 1276805477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.9531,27.66111,84.9531,27.66111",
+    "geom:latitude":27.66111,
+    "geom:longitude":84.9531,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310017",
+    "gn:asciiname":"Pakani",
+    "gn:country_code":"NP",
+    "gn:dem":1432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7968286,
+    "gn:latitude":27.66111,
+    "gn:longitude":84.9531,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pakani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7968286
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"502644049e346383c75cd4245cbabd11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1276805477,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1276805477,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1276805477,
+    "wof:lastmodified":1536642396,
+    "wof:name":"Pakani",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.9531,
+    27.66111,
+    84.9531,
+    27.66111
+],
+  "geometry": {"coordinates":[84.95310000000001,27.66111],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209256417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.02733,27.65809,84.02733,27.65809",
+    "geom:latitude":27.65809,
+    "geom:longitude":84.02733,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"48",
+    "gn:admin4_code":"480070",
+    "gn:asciiname":"Basantapur",
+    "gn:country_code":"NP",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7973541,
+    "gn:latitude":27.65809,
+    "gn:longitude":84.02733,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Basantapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7973541
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a03f350749d0bc52261b21edeeda34d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209256417
+        }
+    ],
+    "wof:id":1209256417,
+    "wof:lastmodified":1536292836,
+    "wof:name":"Basantapur",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.02733,
+    27.65809,
+    84.02733,
+    27.65809
+],
+  "geometry": {"coordinates":[84.02733000000001,27.65809],"type":"Point"}
+}

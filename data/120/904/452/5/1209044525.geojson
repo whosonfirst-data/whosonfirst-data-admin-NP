@@ -1,0 +1,64 @@
+{
+  "id": 1209044525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.55575,27.60437,85.55575,27.60437",
+    "geom:latitude":27.60437,
+    "geom:longitude":85.55575,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240065.0",
+    "gn:asciiname":"Dandagaun",
+    "gn:country_code":"NP",
+    "gn:dem":1636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7963542,
+    "gn:latitude":27.60437,
+    "gn:longitude":85.55575,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dandagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7963542
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"74b55172da51e109f66732ffdff0bf08",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209044525
+        }
+    ],
+    "wof:id":1209044525,
+    "wof:lastmodified":1536299441,
+    "wof:name":"Dandagaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.55575,
+    27.60437,
+    85.55575,
+    27.60437
+],
+  "geometry": {"coordinates":[85.55575,27.60437],"type":"Point"}
+}

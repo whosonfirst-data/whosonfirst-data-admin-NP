@@ -1,0 +1,78 @@
+{
+  "id": 1276809511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.57564,27.24274,86.57564,27.24274",
+    "geom:latitude":27.24274,
+    "geom:longitude":86.57564,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"12",
+    "gn:admin4_code":"120050",
+    "gn:asciiname":"Bhorle",
+    "gn:country_code":"NP",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7975720,
+    "gn:latitude":27.24274,
+    "gn:longitude":86.57564,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhorle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050225,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7975720
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b1b8b2051707e3d211bf0c69d843a5ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050225,
+            "locality_id":1276809511,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050225,
+            "locality_id":1276809511,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1276809511,
+    "wof:lastmodified":1536636604,
+    "wof:name":"Bhorle",
+    "wof:parent_id":1092050225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.57564,
+    27.24274,
+    86.57564,
+    27.24274
+],
+  "geometry": {"coordinates":[86.57564000000001,27.24274],"type":"Point"}
+}

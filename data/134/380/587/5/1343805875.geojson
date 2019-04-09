@@ -1,0 +1,78 @@
+{
+  "id": 1343805875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.37771,28.25867,84.37771,28.25867",
+    "geom:latitude":28.25867,
+    "geom:longitude":84.37771,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370003",
+    "gn:asciiname":"Khasur",
+    "gn:country_code":"NP",
+    "gn:dem":942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7965901,
+    "gn:latitude":28.25867,
+    "gn:longitude":84.37771,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khasur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050009,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7965901
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"04ce4be1b037bf950aa3395900da542e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1343805875,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1343805875,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1343805875,
+    "wof:lastmodified":1536745151,
+    "wof:name":"Khasur",
+    "wof:parent_id":1092050009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.37771,
+    28.25867,
+    84.37771,
+    28.25867
+],
+  "geometry": {"coordinates":[84.37770999999999,28.25867],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209224337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.10247,27.53802,85.10247,27.53802",
+    "geom:latitude":27.53802,
+    "geom:longitude":85.10247,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dhorsin",
+    "gn:country_code":"NP",
+    "gn:dem":1044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283458,
+    "gn:latitude":27.53802,
+    "gn:longitude":85.10247,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Dhorsi\u1e45",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Dhorsi\u1e45"
+    ],
+    "name:und_x_variant":[
+        "Dhursing",
+        "Dharsing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283458
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fc2faca1ce2f52dfbb5ac2ef32bb6499",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209224337
+        }
+    ],
+    "wof:id":1209224337,
+    "wof:lastmodified":1537676057,
+    "wof:name":"Dhorsin",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.10247,
+    27.53802,
+    85.10247,
+    27.53802
+],
+  "geometry": {"coordinates":[85.10247,27.53802],"type":"Point"}
+}

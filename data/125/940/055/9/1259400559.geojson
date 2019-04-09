@@ -1,0 +1,79 @@
+{
+  "id": 1259400559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.78921,27.85593,86.78921,27.85593",
+    "geom:latitude":27.85593,
+    "geom:longitude":86.78921,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pangboche",
+    "gn:country_code":"NP",
+    "gn:dem":3967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282945,
+    "gn:latitude":27.85593,
+    "gn:longitude":86.78921,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pangboche",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pangpoche",
+        "Pangboche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049841,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282945
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0decb82daa22de7e7369d35576116369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1259400559,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1259400559,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1259400559,
+    "wof:lastmodified":1537676045,
+    "wof:name":"Pangboche",
+    "wof:parent_id":1092049841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.78921,
+    27.85593,
+    86.78921,
+    27.85593
+],
+  "geometry": {"coordinates":[86.78921,27.85593],"type":"Point"}
+}

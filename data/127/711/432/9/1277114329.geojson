@@ -1,0 +1,78 @@
+{
+  "id": 1277114329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.51515,27.06925,86.51515,27.06925",
+    "geom:latitude":27.06925,
+    "geom:longitude":86.51515,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140031.0",
+    "gn:asciiname":"Bhutiya",
+    "gn:country_code":"NP",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007475,
+    "gn:latitude":27.06925,
+    "gn:longitude":86.51515,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhutiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050179,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007475
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"43e6e517efb73366c5595885e9f2f3c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1277114329,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1277114329,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1277114329,
+    "wof:lastmodified":1536722375,
+    "wof:name":"Bhutiya",
+    "wof:parent_id":1092050179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.51515,
+    27.06925,
+    86.51515,
+    27.06925
+],
+  "geometry": {"coordinates":[86.51515000000001,27.06925],"type":"Point"}
+}

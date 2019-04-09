@@ -1,0 +1,64 @@
+{
+  "id": 1209054387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.78372,28.01576,83.78372,28.01576",
+    "geom:latitude":28.01576,
+    "geom:longitude":83.78372,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390014.0",
+    "gn:asciiname":"Shyam-Pokhari",
+    "gn:country_code":"NP",
+    "gn:dem":994,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8000867,
+    "gn:latitude":28.01576,
+    "gn:longitude":83.78372,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Shyam-Pokhari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8000867
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f23054b424777be08ecde1ea724fd054",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209054387
+        }
+    ],
+    "wof:id":1209054387,
+    "wof:lastmodified":1536299150,
+    "wof:name":"Shyam-Pokhari",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.78372,
+    28.01576,
+    83.78372,
+    28.01576
+],
+  "geometry": {"coordinates":[83.78372,28.01576],"type":"Point"}
+}

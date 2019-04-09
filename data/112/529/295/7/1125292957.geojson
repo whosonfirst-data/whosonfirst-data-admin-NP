@@ -1,0 +1,102 @@
+{
+  "id": 1125292957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.83333,27.16667,87.83333,27.16667",
+    "geom:latitude":27.16667,
+    "geom:longitude":87.83333,
+    "gn:gn_country":"NP",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":211098,
+    "iso:country":"NP",
+    "lbl:latitude":27.16667,
+    "lbl:longitude":87.83333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NP",
+    "qs_pg:gn_country":"NP",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1282947,
+    "qs_pg:gn_pop":211098,
+    "qs_pg:name":"Panchthar",
+    "qs_pg:name_adm0":"Nepal",
+    "qs_pg:name_adm1":"Purwanchal",
+    "qs_pg:photos":2,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":2,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":401428,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424911,
+    "qs_pg:woe_id":23706750,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"quattroshapes_pg",
+    "woe:adm0_id":23424911,
+    "woe:name_adm0":"Nepal",
+    "woe:name_adm1":"Purwanchal",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282947,
+        "gp:id":23706750,
+        "qs:id":401428,
+        "qs_pg:id":401428
+    },
+    "wof:country":"NP",
+    "wof:created":1497043009,
+    "wof:geomhash":"be0591362e0a5a2aa1dfd381267ab918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "localadmin_id":1125292957,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "localadmin_id":1125292957,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1125292957,
+    "wof:lastmodified":1534379389,
+    "wof:name":"Panchthar",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"localadmin",
+    "wof:population":211098,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421198175
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.83333,
+    27.16667,
+    87.83333,
+    27.16667
+],
+  "geometry": {"coordinates":[87.83333,27.16667],"type":"Point"}
+}

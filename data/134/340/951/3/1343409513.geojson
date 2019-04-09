@@ -1,0 +1,78 @@
+{
+  "id": 1343409513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.37371,27.04398,87.37371,27.04398",
+    "geom:latitude":27.04398,
+    "geom:longitude":87.37371,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"7.0",
+    "gn:admin4_code":"70034.0",
+    "gn:asciiname":"Sijaligaun",
+    "gn:country_code":"NP",
+    "gn:dem":1686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7943462,
+    "gn:latitude":27.04398,
+    "gn:longitude":87.37371,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sijaligaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049207,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7943462
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"20040d5de46ea899ef6656b47d5e9afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049207,
+            "locality_id":1343409513,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049207,
+            "locality_id":1343409513,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1343409513,
+    "wof:lastmodified":1536818986,
+    "wof:name":"Sijaligaun",
+    "wof:parent_id":1092049207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.37371,
+    27.04398,
+    87.37371,
+    27.04398
+],
+  "geometry": {"coordinates":[87.37371,27.04398],"type":"Point"}
+}

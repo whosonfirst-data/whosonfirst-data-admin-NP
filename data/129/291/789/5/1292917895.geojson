@@ -1,0 +1,81 @@
+{
+  "id": 1292917895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.80014,28.03965,84.80014,28.03965",
+    "geom:latitude":28.03965,
+    "geom:longitude":84.80014,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Majinthok",
+    "gn:country_code":"NP",
+    "gn:dem":856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10337762,
+    "gn:latitude":28.03965,
+    "gn:longitude":84.80014,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Majinthok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Majinthok"
+    ],
+    "name:und_x_variant":[
+        "N\u0101\u1e45ge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10337762
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"21765765b581c96b2c78d995e1fd7401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1292917895,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1292917895,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1292917895,
+    "wof:lastmodified":1537676107,
+    "wof:name":"Majinthok",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.80014,
+    28.03965,
+    84.80014,
+    28.03965
+],
+  "geometry": {"coordinates":[84.80014,28.03965],"type":"Point"}
+}

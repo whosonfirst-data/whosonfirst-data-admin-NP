@@ -1,0 +1,78 @@
+{
+  "id": 1225986223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.06468,27.50869,83.06468,27.50869",
+    "geom:latitude":27.50869,
+    "geom:longitude":83.06468,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"50.0",
+    "gn:admin4_code":"500028.0",
+    "gn:asciiname":"Ganeshpur",
+    "gn:country_code":"NP",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7959520,
+    "gn:latitude":27.50869,
+    "gn:longitude":83.06468,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ganeshpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048259,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7959520
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a759840255eb8b91188948d5001f5781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1225986223,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1225986223,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1225986223,
+    "wof:lastmodified":1536810420,
+    "wof:name":"Ganeshpur",
+    "wof:parent_id":1092048259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.06468000000002,
+    27.50869,
+    83.06468000000002,
+    27.50869
+],
+  "geometry": {"coordinates":[83.06468000000002,27.50869],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209543761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.15596,29.61974,83.15596,29.61974",
+    "geom:latitude":29.61974,
+    "geom:longitude":83.15596,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"62.0",
+    "gn:admin4_code":"620019.0",
+    "gn:asciiname":"Khung Bhanjyang",
+    "gn:country_code":"NP",
+    "gn:dem":5511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7945676,
+    "gn:latitude":29.61974,
+    "gn:longitude":83.15596,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khung Bhanjyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7945676
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a7b061334fc155c8c52af8624a7e4012",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209543761
+        }
+    ],
+    "wof:id":1209543761,
+    "wof:lastmodified":1536283907,
+    "wof:name":"Khung Bhanjyang",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.15596,
+    29.619740000000004,
+    83.15596,
+    29.619740000000004
+],
+  "geometry": {"coordinates":[83.15595999999999,29.61974],"type":"Point"}
+}

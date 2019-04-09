@@ -1,0 +1,78 @@
+{
+  "id": 1326461249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.37115,27.89232,82.37115,27.89232",
+    "geom:latitude":27.89232,
+    "geom:longitude":82.37115,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"560031.0",
+    "gn:asciiname":"Baghkholi",
+    "gn:country_code":"NP",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7939596,
+    "gn:latitude":27.89232,
+    "gn:longitude":82.37115,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Baghkholi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048605,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7939596
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b429739717a402aab0d6a6938e3eb21a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1326461249,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1326461249,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1326461249,
+    "wof:lastmodified":1537083156,
+    "wof:name":"Baghkholi",
+    "wof:parent_id":1092048605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.37115,
+    27.89232,
+    82.37115,
+    27.89232
+],
+  "geometry": {"coordinates":[82.37115,27.89232],"type":"Point"}
+}

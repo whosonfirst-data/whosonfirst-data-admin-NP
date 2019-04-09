@@ -1,0 +1,64 @@
+{
+  "id": 1209054463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.05173,28.23645,84.05173,28.23645",
+    "geom:latitude":28.23645,
+    "geom:longitude":84.05173,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400001.0",
+    "gn:asciiname":"Chante",
+    "gn:country_code":"NP",
+    "gn:dem":851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7960207,
+    "gn:latitude":28.23645,
+    "gn:longitude":84.05173,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chante",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7960207
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c41483a74d33796e208832e2894dc362",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209054463
+        }
+    ],
+    "wof:id":1209054463,
+    "wof:lastmodified":1536299148,
+    "wof:name":"Chante",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.05173,
+    28.23645,
+    84.05173,
+    28.23645
+],
+  "geometry": {"coordinates":[84.05173000000001,28.23645],"type":"Point"}
+}

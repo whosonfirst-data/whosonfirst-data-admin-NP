@@ -1,0 +1,78 @@
+{
+  "id": 1327071725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.02684,27.96172,83.02684,27.96172",
+    "geom:latitude":27.96172,
+    "geom:longitude":83.02684,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"51.0",
+    "gn:admin4_code":"510031.0",
+    "gn:asciiname":"Ghorakhori",
+    "gn:country_code":"NP",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7943662,
+    "gn:latitude":27.96172,
+    "gn:longitude":83.02684,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ghorakhori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092049537,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7943662
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"28b4dc04d735f212b022fb3a489a3228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049537,
+            "locality_id":1327071725,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049537,
+            "locality_id":1327071725,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1327071725,
+    "wof:lastmodified":1536703969,
+    "wof:name":"Ghorakhori",
+    "wof:parent_id":1092049537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.02684,
+    27.96172,
+    83.02684,
+    27.96172
+],
+  "geometry": {"coordinates":[83.02684000000001,27.96172],"type":"Point"}
+}

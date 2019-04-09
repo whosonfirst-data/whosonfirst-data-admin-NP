@@ -1,0 +1,78 @@
+{
+  "id": 1343391905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.33108,28.76684,81.33108,28.76684",
+    "geom:latitude":28.76684,
+    "geom:longitude":81.33108,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590050.0",
+    "gn:asciiname":"Skulgada",
+    "gn:country_code":"NP",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8000515,
+    "gn:latitude":28.76684,
+    "gn:longitude":81.33108,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Skulgada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8000515
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"18ee84d2e2bef79da15202f222a2e394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1343391905,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1343391905,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1343391905,
+    "wof:lastmodified":1536844126,
+    "wof:name":"Skulgada",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.33108,
+    28.76684,
+    81.33108,
+    28.76684
+],
+  "geometry": {"coordinates":[81.33108,28.76684],"type":"Point"}
+}

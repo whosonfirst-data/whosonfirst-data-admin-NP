@@ -1,0 +1,78 @@
+{
+  "id": 1276667449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.58114,26.90805,87.58114,26.90805",
+    "geom:latitude":26.90805,
+    "geom:longitude":87.58114,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lumagdin",
+    "gn:country_code":"NP",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11606561,
+    "gn:latitude":26.90805,
+    "gn:longitude":87.58114,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Lum\u0101gdin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Lum\u0101gdin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11606561
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b08685ab9056fc975c396d3a538aee5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1276667449,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1276667449,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1276667449,
+    "wof:lastmodified":1537676127,
+    "wof:name":"Lumagdin",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.58114,
+    26.90805,
+    87.58114,
+    26.90805
+],
+  "geometry": {"coordinates":[87.58114,26.90805],"type":"Point"}
+}

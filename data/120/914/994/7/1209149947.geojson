@@ -1,0 +1,64 @@
+{
+  "id": 1209149947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.81295,28.08004,83.81295,28.08004",
+    "geom:latitude":28.08004,
+    "geom:longitude":83.81295,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390044.0",
+    "gn:asciiname":"Arbadi",
+    "gn:country_code":"NP",
+    "gn:dem":917,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001844,
+    "gn:latitude":28.08004,
+    "gn:longitude":83.81295,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Arbadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001844
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d08ca9cfdb0b5ca1146e350c1797d351",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209149947
+        }
+    ],
+    "wof:id":1209149947,
+    "wof:lastmodified":1536296232,
+    "wof:name":"Arbadi",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.81295,
+    28.080040000000004,
+    83.81295,
+    28.080040000000004
+],
+  "geometry": {"coordinates":[83.81295,28.08004],"type":"Point"}
+}

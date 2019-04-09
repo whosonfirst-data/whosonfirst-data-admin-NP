@@ -1,0 +1,78 @@
+{
+  "id": 1276923927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.63254,28.20683,83.63254,28.20683",
+    "geom:latitude":28.20683,
+    "geom:longitude":83.63254,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450002.0",
+    "gn:asciiname":"Chipleti",
+    "gn:country_code":"NP",
+    "gn:dem":1389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7946397,
+    "gn:latitude":28.20683,
+    "gn:longitude":83.63254,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chipleti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7946397
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e7757f09ef41dd884f3aff098c9cd67f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1276923927,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1276923927,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1276923927,
+    "wof:lastmodified":1536981546,
+    "wof:name":"Chipleti",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.63254,
+    28.20683,
+    83.63254,
+    28.20683
+],
+  "geometry": {"coordinates":[83.63254000000001,28.20683],"type":"Point"}
+}

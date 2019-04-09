@@ -1,0 +1,78 @@
+{
+  "id": 1277010529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.30836,28.98732,81.30836,28.98732",
+    "geom:latitude":28.98732,
+    "geom:longitude":81.30836,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"69",
+    "gn:admin4_code":"690026",
+    "gn:asciiname":"Antikhan",
+    "gn:country_code":"NP",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7973227,
+    "gn:latitude":28.98732,
+    "gn:longitude":81.30836,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Antikhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048527,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7973227
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ff79bd98c4094e4b8d8218f463b53f6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1277010529,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1277010529,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1277010529,
+    "wof:lastmodified":1536864750,
+    "wof:name":"Antikhan",
+    "wof:parent_id":1092048527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.30836,
+    28.98732,
+    81.30836,
+    28.98732
+],
+  "geometry": {"coordinates":[81.30835999999999,28.98732],"type":"Point"}
+}

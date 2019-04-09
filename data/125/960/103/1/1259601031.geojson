@@ -1,0 +1,79 @@
+{
+  "id": 1259601031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.06151,27.61402,86.06151,27.61402",
+    "geom:latitude":27.61402,
+    "geom:longitude":86.06151,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gurungau",
+    "gn:country_code":"NP",
+    "gn:dem":1189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10323772,
+    "gn:latitude":27.61402,
+    "gn:longitude":86.06151,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Guru\u1e45g\u0101\u0169",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guru\u1e45g\u0101\u0169",
+        "Guru\u1e45g\u0101un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675579,
+        1092050535,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10323772
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4fd7669699fd7ac9930f3bf469fde2ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1259601031,
+            "region_id":85675579
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1259601031,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1259601031,
+    "wof:lastmodified":1537676094,
+    "wof:name":"Gurungau",
+    "wof:parent_id":1092050535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.06151,
+    27.61402,
+    86.06151,
+    27.61402
+],
+  "geometry": {"coordinates":[86.06151,27.61402],"type":"Point"}
+}

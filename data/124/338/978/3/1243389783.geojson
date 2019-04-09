@@ -1,0 +1,78 @@
+{
+  "id": 1243389783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.8717,28.68804,81.8717,28.68804",
+    "geom:latitude":28.68804,
+    "geom:longitude":81.8717,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"61.0",
+    "gn:admin4_code":"610030.0",
+    "gn:asciiname":"Kaule",
+    "gn:country_code":"NP",
+    "gn:dem":2091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7953861,
+    "gn:latitude":28.68804,
+    "gn:longitude":81.8717,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kaule",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092048763,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7953861
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"acb7f66998112a8f421df703a19fe5c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048763,
+            "locality_id":1243389783,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048763,
+            "locality_id":1243389783,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1243389783,
+    "wof:lastmodified":1536886924,
+    "wof:name":"Kaule",
+    "wof:parent_id":1092048763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.8717,
+    28.68804,
+    81.8717,
+    28.68804
+],
+  "geometry": {"coordinates":[81.8717,28.68804],"type":"Point"}
+}

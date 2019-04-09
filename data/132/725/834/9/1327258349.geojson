@@ -1,0 +1,78 @@
+{
+  "id": 1327258349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.28809,28.27182,82.28809,28.27182",
+    "geom:latitude":28.27182,
+    "geom:longitude":82.28809,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550036",
+    "gn:asciiname":"Kayanpani",
+    "gn:country_code":"NP",
+    "gn:dem":1406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7989446,
+    "gn:latitude":28.27182,
+    "gn:longitude":82.28809,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kayanpani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049579,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7989446
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7eb6f3aae937bdf70a1f894c2af58a6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1327258349,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1327258349,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1327258349,
+    "wof:lastmodified":1536933019,
+    "wof:name":"Kayanpani",
+    "wof:parent_id":1092049579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.28809,
+    28.27182,
+    82.28809,
+    28.27182
+],
+  "geometry": {"coordinates":[82.28809,28.27182],"type":"Point"}
+}

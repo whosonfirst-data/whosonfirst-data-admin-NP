@@ -1,0 +1,64 @@
+{
+  "id": 1209552941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.8018,28.03445,83.8018,28.03445",
+    "geom:latitude":28.03445,
+    "geom:longitude":83.8018,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390019.0",
+    "gn:asciiname":"Lekhandhunga",
+    "gn:country_code":"NP",
+    "gn:dem":963,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001044,
+    "gn:latitude":28.03445,
+    "gn:longitude":83.8018,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lekhandhunga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001044
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2ab5cabab1230ce69b33010cd220c68b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209552941
+        }
+    ],
+    "wof:id":1209552941,
+    "wof:lastmodified":1536283635,
+    "wof:name":"Lekhandhunga",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.8018,
+    28.03445,
+    83.8018,
+    28.03445
+],
+  "geometry": {"coordinates":[83.8018,28.03445],"type":"Point"}
+}

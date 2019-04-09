@@ -1,0 +1,73 @@
+{
+  "id": 421191731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"83.27557,27.451161,83.27557,27.451161",
+    "geom:latitude":27.451161,
+    "geom:longitude":83.27557,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Maharajgani",
+    "qs:name_adm0":"India",
+    "qs:name_adm1":"Uttar Pradesh",
+    "qs:photos":27,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":27,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1153732,
+    "qs:woe_adm0":23424848,
+    "qs:woe_id":12586763,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12586763,
+        "qs:id":1153732
+    },
+    "wof:country":"NP",
+    "wof:created":1459009703,
+    "wof:geomhash":"6b15430359a78281e774259c270fcde9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":421191731,
+            "region_id":85675561
+        }
+    ],
+    "wof:id":421191731,
+    "wof:lastmodified":1473969722,
+    "wof:name":"Maharajgani",
+    "wof:parent_id":85675561,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.27557,
+    27.451161,
+    83.27557,
+    27.451161
+],
+  "geometry": {"coordinates":[83.27557,27.451161],"type":"Point"}
+}

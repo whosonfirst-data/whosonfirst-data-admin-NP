@@ -1,0 +1,64 @@
+{
+  "id": 1209146925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.88099,28.04911,84.88099,28.04911",
+    "geom:latitude":28.04911,
+    "geom:longitude":84.88099,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300031.0",
+    "gn:asciiname":"Mathillo Mulabari",
+    "gn:country_code":"NP",
+    "gn:dem":1194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7942059,
+    "gn:latitude":28.04911,
+    "gn:longitude":84.88099,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mathillo Mulabari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7942059
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6f1763642fb3ab8fd1ac733242730e27",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209146925
+        }
+    ],
+    "wof:id":1209146925,
+    "wof:lastmodified":1536296328,
+    "wof:name":"Mathillo Mulabari",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.88099,
+    28.04911,
+    84.88099,
+    28.04911
+],
+  "geometry": {"coordinates":[84.88099,28.04911],"type":"Point"}
+}

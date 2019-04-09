@@ -1,0 +1,81 @@
+{
+  "id": 1226557807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.0382,27.97326,84.0382,27.97326",
+    "geom:latitude":27.97326,
+    "geom:longitude":84.0382,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bandi Chhap",
+    "gn:country_code":"NP",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283681,
+    "gn:latitude":27.97326,
+    "gn:longitude":84.0382,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Bandi\u0307\u0304 Chh\u0101p",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Bandi\u0307\u0304 Chh\u0101p"
+    ],
+    "name:und_x_variant":[
+        "Bandichh\u0101p"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283681
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"807799533ceefddce1f07b4f4edc3d85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1226557807,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1226557807,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1226557807,
+    "wof:lastmodified":1537676063,
+    "wof:name":"Bandi Chhap",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.0382,
+    27.97326,
+    84.0382,
+    27.97326
+],
+  "geometry": {"coordinates":[84.0382,27.97326],"type":"Point"}
+}

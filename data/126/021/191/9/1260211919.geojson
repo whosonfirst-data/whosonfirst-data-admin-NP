@@ -1,0 +1,78 @@
+{
+  "id": 1260211919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.06042,29.27912,81.06042,29.27912",
+    "geom:latitude":29.27912,
+    "geom:longitude":81.06042,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"70.0",
+    "gn:admin4_code":"700043.0",
+    "gn:asciiname":"Rithagaun",
+    "gn:country_code":"NP",
+    "gn:dem":992,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7947491,
+    "gn:latitude":29.27912,
+    "gn:longitude":81.06042,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Rithagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048653,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7947491
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1001899f6ec2cda5d75acea7c80e5c7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1260211919,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1260211919,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1260211919,
+    "wof:lastmodified":1536808766,
+    "wof:name":"Rithagaun",
+    "wof:parent_id":1092048653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.06042,
+    29.27912,
+    81.06042,
+    29.27912
+],
+  "geometry": {"coordinates":[81.06041999999999,29.27912],"type":"Point"}
+}

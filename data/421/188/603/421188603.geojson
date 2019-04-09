@@ -1,0 +1,94 @@
+{
+  "id": 421188603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.33333,28.58333,83.33333,28.58333",
+    "geom:latitude":28.58333,
+    "geom:longitude":83.33333,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Mayangdi"
+    ],
+    "qs:gn_country":"NP",
+    "qs:gn_fcode":"ADM3",
+    "qs:gn_id":1283020,
+    "qs:gn_pop":117417,
+    "qs:name":"Myagdi",
+    "qs:name_adm0":"Nepal",
+    "qs:name_adm1":"Pashchimanchal",
+    "qs:photos":7,
+    "qs:photos_1k":1,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":805,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"9",
+    "qs:qs_id":1103573,
+    "qs:woe_adm0":23424911,
+    "qs:woe_id":23706777,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675553,
+        1092049089,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283020,
+        "gp:id":23706777,
+        "qs:id":1103573,
+        "qs_pg:id":1103573
+    },
+    "wof:country":"NP",
+    "wof:created":1459009571,
+    "wof:geomhash":"72b5cc29ab7937b33c216123e63aab2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049089,
+            "localadmin_id":421188603,
+            "region_id":85675553
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049089,
+            "localadmin_id":421188603,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":421188603,
+    "wof:lastmodified":1505340708,
+    "wof:name":"Myagdi",
+    "wof:parent_id":1092049089,
+    "wof:placetype":"localadmin",
+    "wof:population":117417,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.33333,
+    28.58333,
+    83.33333,
+    28.58333
+],
+  "geometry": {"coordinates":[83.33333,28.58333],"type":"Point"}
+}

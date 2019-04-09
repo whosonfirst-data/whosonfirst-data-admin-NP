@@ -1,0 +1,78 @@
+{
+  "id": 1193213887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.6481,28.17592,83.6481,28.17592",
+    "geom:latitude":28.17592,
+    "geom:longitude":83.6481,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"44",
+    "gn:admin4_code":"440023",
+    "gn:asciiname":"Bhusalchaur",
+    "gn:country_code":"NP",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7978537,
+    "gn:latitude":28.17592,
+    "gn:longitude":83.6481,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhusalchaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049297,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7978537
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"02eaab8a0107391819926d8b9e6347dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049297,
+            "locality_id":1193213887,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049297,
+            "locality_id":1193213887,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1193213887,
+    "wof:lastmodified":1536382486,
+    "wof:name":"Bhusalchaur",
+    "wof:parent_id":1092049297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.6481,
+    28.17592,
+    83.6481,
+    28.17592
+],
+  "geometry": {"coordinates":[83.6481,28.17592],"type":"Point"}
+}

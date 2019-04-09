@@ -1,0 +1,64 @@
+{
+  "id": 1209037659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.29554,28.65353,82.29554,28.65353",
+    "geom:latitude":28.65353,
+    "geom:longitude":82.29554,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"54",
+    "gn:admin4_code":"540020",
+    "gn:asciiname":"Pateri",
+    "gn:country_code":"NP",
+    "gn:dem":1357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7985737,
+    "gn:latitude":28.65353,
+    "gn:longitude":82.29554,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pateri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7985737
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4be8292b8c8db634068345854c337536",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209037659
+        }
+    ],
+    "wof:id":1209037659,
+    "wof:lastmodified":1536299648,
+    "wof:name":"Pateri",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.29554,
+    28.65353,
+    82.29554,
+    28.65353
+],
+  "geometry": {"coordinates":[82.29554,28.65353],"type":"Point"}
+}

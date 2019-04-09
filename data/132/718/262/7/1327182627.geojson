@@ -1,0 +1,78 @@
+{
+  "id": 1327182627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.32528,27.53453,85.32528,27.53453",
+    "geom:latitude":27.53453,
+    "geom:longitude":85.32528,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"25",
+    "gn:admin4_code":"250012",
+    "gn:asciiname":"Bhotdanda",
+    "gn:country_code":"NP",
+    "gn:dem":2019,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7965489,
+    "gn:latitude":27.53453,
+    "gn:longitude":85.32528,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhotdanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048971,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7965489
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"86a6736c1df41579a01e973d3102647f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048971,
+            "locality_id":1327182627,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048971,
+            "locality_id":1327182627,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1327182627,
+    "wof:lastmodified":1537039872,
+    "wof:name":"Bhotdanda",
+    "wof:parent_id":1092048971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.32528,
+    27.53453,
+    85.32528,
+    27.53453
+],
+  "geometry": {"coordinates":[85.32528000000001,27.53453],"type":"Point"}
+}

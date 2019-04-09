@@ -1,0 +1,78 @@
+{
+  "id": 1293029159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.05435,29.2119,81.05435,29.2119",
+    "geom:latitude":29.2119,
+    "geom:longitude":81.05435,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"70.0",
+    "gn:admin4_code":"700041.0",
+    "gn:asciiname":"Pokhari Devisthan",
+    "gn:country_code":"NP",
+    "gn:dem":1420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7947447,
+    "gn:latitude":29.2119,
+    "gn:longitude":81.05435,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pokhari Devisthan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048653,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7947447
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"137d9e5c66c47791aa2a5303777eb672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1293029159,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1293029159,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1293029159,
+    "wof:lastmodified":1536951137,
+    "wof:name":"Pokhari Devisthan",
+    "wof:parent_id":1092048653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.05435,
+    29.2119,
+    81.05435,
+    29.2119
+],
+  "geometry": {"coordinates":[81.05435,29.2119],"type":"Point"}
+}

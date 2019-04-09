@@ -1,0 +1,79 @@
+{
+  "id": 1276805193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.4128,27.70817,84.4128,27.70817",
+    "geom:latitude":27.70817,
+    "geom:longitude":84.4128,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"48",
+    "gn:admin4_code":"480021",
+    "gn:asciiname":"Gaindakot",
+    "gn:country_code":"NP",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7972948,
+    "gn:latitude":27.70817,
+    "gn:longitude":84.4128,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gaindakot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050413,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7972948,
+        "wk:page":"Gaindakot"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"079e3ccb9185c978572b730de39ef120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050413,
+            "locality_id":1276805193,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050413,
+            "locality_id":1276805193,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1276805193,
+    "wof:lastmodified":1537570152,
+    "wof:name":"Gaindakot",
+    "wof:parent_id":1092050413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.4128,
+    27.70817000000001,
+    84.4128,
+    27.70817000000001
+],
+  "geometry": {"coordinates":[84.4128,27.70817000000001],"type":"Point"}
+}

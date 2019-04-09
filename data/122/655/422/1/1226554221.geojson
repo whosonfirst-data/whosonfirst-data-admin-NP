@@ -1,0 +1,78 @@
+{
+  "id": 1226554221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.46959,28.34141,81.46959,28.34141",
+    "geom:latitude":28.34141,
+    "geom:longitude":81.46959,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dhakela",
+    "gn:country_code":"NP",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283470,
+    "gn:latitude":28.34141,
+    "gn:longitude":81.46959,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Dhakel\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Dhakel\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048097,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283470
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fc8f7e4bfb8daaa3624351b5631fe102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1226554221,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1226554221,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1226554221,
+    "wof:lastmodified":1537676057,
+    "wof:name":"Dhakela",
+    "wof:parent_id":1092048097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.46959,
+    28.34141,
+    81.46959,
+    28.34141
+],
+  "geometry": {"coordinates":[81.46959,28.34141],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1326578001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.21215,27.75156,85.21215,27.75156",
+    "geom:latitude":27.75156,
+    "geom:longitude":85.21215,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300008.0",
+    "gn:asciiname":"Dumrichaur",
+    "gn:country_code":"NP",
+    "gn:dem":1328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7941251,
+    "gn:latitude":27.75156,
+    "gn:longitude":85.21215,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dumrichaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7941251
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"55e19ace2c5a920b428bff3d958bab7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1326578001,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1326578001,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1326578001,
+    "wof:lastmodified":1536918754,
+    "wof:name":"Dumrichaur",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.21215,
+    27.75156,
+    85.21215,
+    27.75156
+],
+  "geometry": {"coordinates":[85.21214999999999,27.75156],"type":"Point"}
+}

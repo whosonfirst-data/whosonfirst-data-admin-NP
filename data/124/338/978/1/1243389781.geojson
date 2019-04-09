@@ -1,0 +1,78 @@
+{
+  "id": 1243389781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.2746,29.88998,82.2746,29.88998",
+    "geom:latitude":29.88998,
+    "geom:longitude":82.2746,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"66.0",
+    "gn:admin4_code":"660023.0",
+    "gn:asciiname":"Phaunyachaur",
+    "gn:country_code":"NP",
+    "gn:dem":4079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7951241,
+    "gn:latitude":29.88998,
+    "gn:longitude":82.2746,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Phaunyachaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050353,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7951241
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2b3d220e01a732aeee37e18aa0cea3b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1243389781,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1243389781,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1243389781,
+    "wof:lastmodified":1536886927,
+    "wof:name":"Phaunyachaur",
+    "wof:parent_id":1092050353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.2746,
+    29.88998,
+    82.2746,
+    29.88998
+],
+  "geometry": {"coordinates":[82.27460000000001,29.88998],"type":"Point"}
+}

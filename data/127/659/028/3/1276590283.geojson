@@ -1,0 +1,78 @@
+{
+  "id": 1276590283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.56851,27.58252,85.56851,27.58252",
+    "geom:latitude":27.58252,
+    "geom:longitude":85.56851,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240076.0",
+    "gn:asciiname":"Lamichhane",
+    "gn:country_code":"NP",
+    "gn:dem":1533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7963797,
+    "gn:latitude":27.58252,
+    "gn:longitude":85.56851,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lamichhane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7963797
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0cf2ffaa0ae11c3bec20523934340cb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1276590283,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1276590283,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1276590283,
+    "wof:lastmodified":1536932508,
+    "wof:name":"Lamichhane",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.56851,
+    27.58252,
+    85.56851,
+    27.58252
+],
+  "geometry": {"coordinates":[85.56851,27.58252],"type":"Point"}
+}

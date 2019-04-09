@@ -1,0 +1,78 @@
+{
+  "id": 1310331557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.41108,29.31294,80.41108,29.31294",
+    "geom:latitude":29.31294,
+    "geom:longitude":80.41108,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"73.0",
+    "gn:admin4_code":"730008.0",
+    "gn:asciiname":"Chuchwan",
+    "gn:country_code":"NP",
+    "gn:dem":1238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7935694,
+    "gn:latitude":29.31294,
+    "gn:longitude":80.41108,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chuchwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675567,
+        1092048697,
+        1108807135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7935694
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0f73ec4935917c2e2c45d7cfa1bc5378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048697,
+            "locality_id":1310331557,
+            "region_id":85675567
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048697,
+            "locality_id":1310331557,
+            "region_id":1108807135
+        }
+    ],
+    "wof:id":1310331557,
+    "wof:lastmodified":1536670507,
+    "wof:name":"Chuchwan",
+    "wof:parent_id":1092048697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.41108,
+    29.31294,
+    80.41108,
+    29.31294
+],
+  "geometry": {"coordinates":[80.41108,29.31294],"type":"Point"}
+}

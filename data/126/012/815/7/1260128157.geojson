@@ -1,0 +1,78 @@
+{
+  "id": 1260128157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.60412,26.95977,86.60412,26.95977",
+    "geom:latitude":26.95977,
+    "geom:longitude":86.60412,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140044.0",
+    "gn:asciiname":"Churumpha",
+    "gn:country_code":"NP",
+    "gn:dem":1293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007982,
+    "gn:latitude":26.95977,
+    "gn:longitude":86.60412,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Churumpha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050179,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007982
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"672bb7044fba4a184d897d8409f40c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1260128157,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1260128157,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1260128157,
+    "wof:lastmodified":1536924598,
+    "wof:name":"Churumpha",
+    "wof:parent_id":1092050179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.60412,
+    26.95977,
+    86.60412,
+    26.95977
+],
+  "geometry": {"coordinates":[86.60411999999999,26.95977],"type":"Point"}
+}

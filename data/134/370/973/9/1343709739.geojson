@@ -1,0 +1,78 @@
+{
+  "id": 1343709739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.03787,28.50086,83.03787,28.50086",
+    "geom:latitude":28.50086,
+    "geom:longitude":83.03787,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450005.0",
+    "gn:asciiname":"Syalpakha",
+    "gn:country_code":"NP",
+    "gn:dem":2899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7947906,
+    "gn:latitude":28.50086,
+    "gn:longitude":83.03787,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Syalpakha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7947906
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a6491cce2a04ea9ac659ef5825eba945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1343709739,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1343709739,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1343709739,
+    "wof:lastmodified":1536883486,
+    "wof:name":"Syalpakha",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.03787,
+    28.50086,
+    83.03787,
+    28.50086
+],
+  "geometry": {"coordinates":[83.03787,28.50086],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276379889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.50305,27.20517,85.50305,27.20517",
+    "geom:latitude":27.20517,
+    "geom:longitude":85.50305,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310036",
+    "gn:asciiname":"Raigaun",
+    "gn:country_code":"NP",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7968993,
+    "gn:latitude":27.20517,
+    "gn:longitude":85.50305,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Raigaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7968993
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e205b78e2cf0d159b6f8b44a641efdce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1276379889,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1276379889,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1276379889,
+    "wof:lastmodified":1536716475,
+    "wof:name":"Raigaun",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.50305,
+    27.20517000000001,
+    85.50305,
+    27.20517000000001
+],
+  "geometry": {"coordinates":[85.50305,27.20517000000001],"type":"Point"}
+}

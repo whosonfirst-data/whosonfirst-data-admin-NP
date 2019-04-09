@@ -1,0 +1,78 @@
+{
+  "id": 1343709817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.44344,27.30314,87.44344,27.30314",
+    "geom:latitude":27.30314,
+    "geom:longitude":87.44344,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"9",
+    "gn:admin4_code":"90023.0",
+    "gn:asciiname":"Patighar",
+    "gn:country_code":"NP",
+    "gn:dem":1470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7990374,
+    "gn:latitude":27.30314,
+    "gn:longitude":87.44344,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Patighar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049597,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7990374
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7952340aa20b299033a661de99d14f76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1343709817,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1343709817,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1343709817,
+    "wof:lastmodified":1536883381,
+    "wof:name":"Patighar",
+    "wof:parent_id":1092049597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.44344,
+    27.30314000000001,
+    87.44344,
+    27.30314000000001
+],
+  "geometry": {"coordinates":[87.44344,27.30314000000001],"type":"Point"}
+}

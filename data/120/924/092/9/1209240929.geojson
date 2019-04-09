@@ -1,0 +1,64 @@
+{
+  "id": 1209240929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.7369,29.59193,81.7369,29.59193",
+    "geom:latitude":29.59193,
+    "geom:longitude":81.7369,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"67.0",
+    "gn:admin4_code":"670025.0",
+    "gn:asciiname":"Aul Bakshan",
+    "gn:country_code":"NP",
+    "gn:dem":1769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8004939,
+    "gn:latitude":29.59193,
+    "gn:longitude":81.7369,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Aul Bakshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8004939
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8b91fa9d9e30de6b606db8fea2249a0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209240929
+        }
+    ],
+    "wof:id":1209240929,
+    "wof:lastmodified":1536293321,
+    "wof:name":"Aul Bakshan",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.7369,
+    29.59193,
+    81.7369,
+    29.59193
+],
+  "geometry": {"coordinates":[81.73690000000001,29.59193],"type":"Point"}
+}

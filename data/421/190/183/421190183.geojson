@@ -1,0 +1,87 @@
+{
+  "id": 421190183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.41667,28.25,84.41667,28.25",
+    "geom:latitude":28.25,
+    "geom:longitude":84.41667,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"NP",
+    "qs:gn_fcode":"ADM3",
+    "qs:gn_id":1283151,
+    "qs:gn_pop":181180,
+    "qs:name":"Lamjung",
+    "qs:name_adm0":"Nepal",
+    "qs:name_adm1":"Pashchimanchal",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":391,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"9",
+    "qs:qs_id":1118946,
+    "qs:woe_adm0":23424911,
+    "qs:woe_id":23706770,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050009,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283151,
+        "gp:id":23706770,
+        "qs:id":1118946
+    },
+    "wof:country":"NP",
+    "wof:created":1459009649,
+    "wof:geomhash":"a0734311d3ec2cc6332653bc914dd7f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "localadmin_id":421190183,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "localadmin_id":421190183,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":421190183,
+    "wof:lastmodified":1505340716,
+    "wof:name":"Lamjung",
+    "wof:parent_id":1092050009,
+    "wof:placetype":"localadmin",
+    "wof:population":181180,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.41667,
+    28.25,
+    84.41667,
+    28.25
+],
+  "geometry": {"coordinates":[84.41667,28.25],"type":"Point"}
+}

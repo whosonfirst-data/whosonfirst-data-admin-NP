@@ -1,0 +1,75 @@
+{
+  "id": 1310415611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.16176,27.68211,85.16176,27.68211",
+    "geom:latitude":27.68211,
+    "geom:longitude":85.16176,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Toplan",
+    "gn:country_code":"NP",
+    "gn:dem":2056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10276936,
+    "gn:latitude":27.68211,
+    "gn:longitude":85.16176,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Topl\u0101\u1e45",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10276936
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8bd527f91ef1aa8f7344e54e5df62efc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1310415611,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1310415611,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1310415611,
+    "wof:lastmodified":1537044755,
+    "wof:name":"Toplan",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.16176,
+    27.68211,
+    85.16176,
+    27.68211
+],
+  "geometry": {"coordinates":[85.16176,27.68211],"type":"Point"}
+}

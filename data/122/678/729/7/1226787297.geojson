@@ -1,0 +1,78 @@
+{
+  "id": 1226787297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.21487,27.52216,85.21487,27.52216",
+    "geom:latitude":27.52216,
+    "geom:longitude":85.21487,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310022",
+    "gn:asciiname":"Khanidanda",
+    "gn:country_code":"NP",
+    "gn:dem":1367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7968452,
+    "gn:latitude":27.52216,
+    "gn:longitude":85.21487,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khanidanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7968452
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c706789d86b0c246fe3facb43d56ef79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1226787297,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1226787297,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1226787297,
+    "wof:lastmodified":1536655708,
+    "wof:name":"Khanidanda",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.21486999999998,
+    27.52216,
+    85.21486999999998,
+    27.52216
+],
+  "geometry": {"coordinates":[85.21486999999998,27.52216],"type":"Point"}
+}

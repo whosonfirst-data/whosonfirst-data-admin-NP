@@ -1,0 +1,78 @@
+{
+  "id": 1260127905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.73718,28.2447,84.73718,28.2447",
+    "geom:latitude":28.2447,
+    "geom:longitude":84.73718,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360067.0",
+    "gn:asciiname":"Jongong",
+    "gn:country_code":"NP",
+    "gn:dem":1548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7949689,
+    "gn:latitude":28.2447,
+    "gn:longitude":84.73718,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jongong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7949689
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"614e7c4673e8aa4724484d2c28f7dbc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1260127905,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1260127905,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1260127905,
+    "wof:lastmodified":1536924924,
+    "wof:name":"Jongong",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.73718000000002,
+    28.2447,
+    84.73718000000002,
+    28.2447
+],
+  "geometry": {"coordinates":[84.73718000000002,28.2447],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1327260109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.78289,28.8722,81.78289,28.8722",
+    "geom:latitude":28.8722,
+    "geom:longitude":81.78289,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"60.0",
+    "gn:admin4_code":"600013.0",
+    "gn:asciiname":"Lampata",
+    "gn:country_code":"NP",
+    "gn:dem":1127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7936777,
+    "gn:latitude":28.8722,
+    "gn:longitude":81.78289,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lampata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092050583,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7936777
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"723b59983a7fccd2417ddf1d39433b33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1327260109,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1327260109,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1327260109,
+    "wof:lastmodified":1536930447,
+    "wof:name":"Lampata",
+    "wof:parent_id":1092050583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.78289000000002,
+    28.8722,
+    81.78289000000002,
+    28.8722
+],
+  "geometry": {"coordinates":[81.78289000000002,28.8722],"type":"Point"}
+}

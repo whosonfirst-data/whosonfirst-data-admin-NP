@@ -1,0 +1,64 @@
+{
+  "id": 1209030967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.51811,28.89351,80.51811,28.89351",
+    "geom:latitude":28.89351,
+    "geom:longitude":80.51811,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710015.0",
+    "gn:asciiname":"Olani",
+    "gn:country_code":"NP",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956594,
+    "gn:latitude":28.89351,
+    "gn:longitude":80.51811,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Olani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956594
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"320ad4144a0cd33cd1a65fa59356ea23",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209030967
+        }
+    ],
+    "wof:id":1209030967,
+    "wof:lastmodified":1536299851,
+    "wof:name":"Olani",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.51811,
+    28.89351,
+    80.51811,
+    28.89351
+],
+  "geometry": {"coordinates":[80.51810999999999,28.89351],"type":"Point"}
+}

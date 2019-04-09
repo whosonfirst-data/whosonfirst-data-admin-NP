@@ -1,0 +1,78 @@
+{
+  "id": 1226581477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.41318,27.23987,87.41318,27.23987",
+    "geom:latitude":27.23987,
+    "geom:longitude":87.41318,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"9",
+    "gn:admin4_code":"90015",
+    "gn:asciiname":"Ahale",
+    "gn:country_code":"NP",
+    "gn:dem":2013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7990223,
+    "gn:latitude":27.23987,
+    "gn:longitude":87.41318,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ahale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049597,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7990223
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f470d81bbfe332070a97b62183cf1f56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1226581477,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1226581477,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1226581477,
+    "wof:lastmodified":1536948896,
+    "wof:name":"Ahale",
+    "wof:parent_id":1092049597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.41318000000003,
+    27.23987,
+    87.41318000000003,
+    27.23987
+],
+  "geometry": {"coordinates":[87.41318000000003,27.23987],"type":"Point"}
+}

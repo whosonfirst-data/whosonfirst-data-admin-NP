@@ -1,0 +1,64 @@
+{
+  "id": 1209548335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.46147,29.05088,81.46147,29.05088",
+    "geom:latitude":29.05088,
+    "geom:longitude":81.46147,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"60.0",
+    "gn:admin4_code":"600045.0",
+    "gn:asciiname":"Nauli",
+    "gn:country_code":"NP",
+    "gn:dem":837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7937838,
+    "gn:latitude":29.05088,
+    "gn:longitude":81.46147,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nauli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7937838
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a1b3b32356de1e29134ac75a989d257f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209548335
+        }
+    ],
+    "wof:id":1209548335,
+    "wof:lastmodified":1536283773,
+    "wof:name":"Nauli",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.46146999999998,
+    29.05088,
+    81.46146999999998,
+    29.05088
+],
+  "geometry": {"coordinates":[81.46146999999998,29.05088],"type":"Point"}
+}

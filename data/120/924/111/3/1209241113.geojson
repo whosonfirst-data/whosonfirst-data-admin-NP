@@ -1,0 +1,64 @@
+{
+  "id": 1209241113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.59987,28.66125,80.59987,28.66125",
+    "geom:latitude":28.66125,
+    "geom:longitude":80.59987,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710010.0",
+    "gn:asciiname":"Taratal",
+    "gn:country_code":"NP",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956439,
+    "gn:latitude":28.66125,
+    "gn:longitude":80.59987,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Taratal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956439
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8d1f28b21b41e92c799b923ad2d6a8ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209241113
+        }
+    ],
+    "wof:id":1209241113,
+    "wof:lastmodified":1536293317,
+    "wof:name":"Taratal",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.59987,
+    28.66125,
+    80.59987,
+    28.66125
+],
+  "geometry": {"coordinates":[80.59987,28.66125],"type":"Point"}
+}

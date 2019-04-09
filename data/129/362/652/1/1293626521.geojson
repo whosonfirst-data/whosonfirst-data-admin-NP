@@ -1,0 +1,78 @@
+{
+  "id": 1293626521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.03911,28.22592,84.03911,28.22592",
+    "geom:latitude":28.22592,
+    "geom:longitude":84.03911,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400001.0",
+    "gn:asciiname":"Arba",
+    "gn:country_code":"NP",
+    "gn:dem":1019,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7960181,
+    "gn:latitude":28.22592,
+    "gn:longitude":84.03911,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Arba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092049331,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7960181
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c8d0511afe54af3b6572467ddfa654af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1293626521,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1293626521,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293626521,
+    "wof:lastmodified":1537080540,
+    "wof:name":"Arba",
+    "wof:parent_id":1092049331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.03911,
+    28.22592,
+    84.03911,
+    28.22592
+],
+  "geometry": {"coordinates":[84.03910999999999,28.22592],"type":"Point"}
+}

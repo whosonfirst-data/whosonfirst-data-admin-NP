@@ -1,0 +1,78 @@
+{
+  "id": 1226479907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.09301,28.27714,84.09301,28.27714",
+    "geom:latitude":28.27714,
+    "geom:longitude":84.09301,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400043.0",
+    "gn:asciiname":"Krungi",
+    "gn:country_code":"NP",
+    "gn:dem":1119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7961791,
+    "gn:latitude":28.27714,
+    "gn:longitude":84.09301,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Krungi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092049331,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7961791
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"28700675267667b09aca407143795283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1226479907,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1226479907,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1226479907,
+    "wof:lastmodified":1537089583,
+    "wof:name":"Krungi",
+    "wof:parent_id":1092049331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.09300999999998,
+    28.27714000000001,
+    84.09300999999998,
+    28.27714000000001
+],
+  "geometry": {"coordinates":[84.09300999999998,28.27714000000001],"type":"Point"}
+}

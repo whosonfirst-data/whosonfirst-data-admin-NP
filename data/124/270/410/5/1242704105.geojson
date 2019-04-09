@@ -1,0 +1,78 @@
+{
+  "id": 1242704105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.81529,29.5591,80.81529,29.5591",
+    "geom:latitude":29.5591,
+    "geom:longitude":80.81529,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680012",
+    "gn:asciiname":"Maubhera",
+    "gn:country_code":"NP",
+    "gn:dem":2088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7989931,
+    "gn:latitude":29.5591,
+    "gn:longitude":80.81529,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Maubhera",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048571,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7989931
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"95dc22140629de1e7fc0164de02388b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1242704105,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1242704105,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1242704105,
+    "wof:lastmodified":1536880940,
+    "wof:name":"Maubhera",
+    "wof:parent_id":1092048571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.81529,
+    29.5591,
+    80.81529,
+    29.5591
+],
+  "geometry": {"coordinates":[80.81529,29.5591],"type":"Point"}
+}

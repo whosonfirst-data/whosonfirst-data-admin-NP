@@ -1,0 +1,78 @@
+{
+  "id": 1293816535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.02162,29.34104,82.02162,29.34104",
+    "geom:latitude":29.34104,
+    "geom:longitude":82.02162,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"630023.0",
+    "gn:asciiname":"Pigi",
+    "gn:country_code":"NP",
+    "gn:dem":2797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956035,
+    "gn:latitude":29.34104,
+    "gn:longitude":82.02162,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pigi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092050797,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956035
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"af1b471a95ef5ab5ae4cc1c9f9af057a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1293816535,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1293816535,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1293816535,
+    "wof:lastmodified":1536809397,
+    "wof:name":"Pigi",
+    "wof:parent_id":1092050797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.02162,
+    29.34104,
+    82.02162,
+    29.34104
+],
+  "geometry": {"coordinates":[82.02162,29.34104],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226697931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.21579,27.86982,84.21579,27.86982",
+    "geom:latitude":27.86982,
+    "geom:longitude":84.21579,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380010.0",
+    "gn:asciiname":"Swamidanda",
+    "gn:country_code":"NP",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003058,
+    "gn:latitude":27.86982,
+    "gn:longitude":84.21579,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Swamidanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003058
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6096bed4b9f75c1e80b7ae7bea38b80b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1226697931,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1226697931,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1226697931,
+    "wof:lastmodified":1536785037,
+    "wof:name":"Swamidanda",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.21579,
+    27.86982,
+    84.21579,
+    27.86982
+],
+  "geometry": {"coordinates":[84.21579,27.86982],"type":"Point"}
+}

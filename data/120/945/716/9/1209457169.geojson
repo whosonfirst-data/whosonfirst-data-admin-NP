@@ -1,0 +1,64 @@
+{
+  "id": 1209457169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.38945,27.71295,85.38945,27.71295",
+    "geom:latitude":27.71295,
+    "geom:longitude":85.38945,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"27.0",
+    "gn:admin4_code":"270040.0",
+    "gn:asciiname":"Adhikarigaun",
+    "gn:country_code":"NP",
+    "gn:dem":1357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7962375,
+    "gn:latitude":27.71295,
+    "gn:longitude":85.38945,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Adhikarigaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7962375
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ea74f1b4d581ad0f4b594e65a7b3edfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209457169
+        }
+    ],
+    "wof:id":1209457169,
+    "wof:lastmodified":1536286499,
+    "wof:name":"Adhikarigaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.38945,
+    27.71295,
+    85.38945,
+    27.71295
+],
+  "geometry": {"coordinates":[85.38945,27.71295],"type":"Point"}
+}

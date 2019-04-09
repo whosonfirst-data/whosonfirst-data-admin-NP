@@ -1,0 +1,78 @@
+{
+  "id": 1327076085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.63204,26.52818,87.63204,26.52818",
+    "geom:latitude":26.52818,
+    "geom:longitude":87.63204,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"5",
+    "gn:admin4_code":"50027",
+    "gn:asciiname":"Khukutol",
+    "gn:country_code":"NP",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7970344,
+    "gn:latitude":26.52818,
+    "gn:longitude":87.63204,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khukutol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092048303,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7970344
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"dd8e8e4a4f6e624f4a94eded5ce312b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1327076085,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1327076085,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1327076085,
+    "wof:lastmodified":1536697729,
+    "wof:name":"Khukutol",
+    "wof:parent_id":1092048303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.63204,
+    26.52818,
+    87.63204,
+    26.52818
+],
+  "geometry": {"coordinates":[87.63204,26.52818],"type":"Point"}
+}

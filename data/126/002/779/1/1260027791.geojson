@@ -1,0 +1,78 @@
+{
+  "id": 1260027791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.99201,27.63923,82.99201,27.63923",
+    "geom:latitude":27.63923,
+    "geom:longitude":82.99201,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"50.0",
+    "gn:admin4_code":"500033.0",
+    "gn:asciiname":"Amahawa",
+    "gn:country_code":"NP",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7959596,
+    "gn:latitude":27.63923,
+    "gn:longitude":82.99201,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Amahawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048259,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7959596
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"877136c77138cca7d01113877c23938f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1260027791,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1260027791,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1260027791,
+    "wof:lastmodified":1537065403,
+    "wof:name":"Amahawa",
+    "wof:parent_id":1092048259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.99201,
+    27.63923,
+    82.99201,
+    27.63923
+],
+  "geometry": {"coordinates":[82.99200999999999,27.63923],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1242603705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.79499,29.58066,80.79499,29.58066",
+    "geom:latitude":29.58066,
+    "geom:longitude":80.79499,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680013",
+    "gn:asciiname":"Dharghar",
+    "gn:country_code":"NP",
+    "gn:dem":2188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7990293,
+    "gn:latitude":29.58066,
+    "gn:longitude":80.79499,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dharghar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048571,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7990293
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"01ebdede7899b12c5c075b575e8bf386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1242603705,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1242603705,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1242603705,
+    "wof:lastmodified":1537025022,
+    "wof:name":"Dharghar",
+    "wof:parent_id":1092048571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.79499,
+    29.58066,
+    80.79499,
+    29.58066
+],
+  "geometry": {"coordinates":[80.79499,29.58066],"type":"Point"}
+}

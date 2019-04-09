@@ -1,0 +1,78 @@
+{
+  "id": 1327275865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.8034,26.5438,86.8034,26.5438",
+    "geom:latitude":26.5438,
+    "geom:longitude":86.8034,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"15",
+    "gn:admin4_code":"150075",
+    "gn:asciiname":"Lavatoliya",
+    "gn:country_code":"NP",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7991169,
+    "gn:latitude":26.5438,
+    "gn:longitude":86.8034,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lavatoliya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092048485,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7991169
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bcbe615a48abc002dfa0dcd68d3a1a66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048485,
+            "locality_id":1327275865,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048485,
+            "locality_id":1327275865,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1327275865,
+    "wof:lastmodified":1536907137,
+    "wof:name":"Lavatoliya",
+    "wof:parent_id":1092048485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.8034,
+    26.5438,
+    86.8034,
+    26.5438
+],
+  "geometry": {"coordinates":[86.8034,26.5438],"type":"Point"}
+}

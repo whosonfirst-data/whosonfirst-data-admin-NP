@@ -1,0 +1,78 @@
+{
+  "id": 1259821137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.67952,28.11681,83.67952,28.11681",
+    "geom:latitude":28.11681,
+    "geom:longitude":83.67952,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"44",
+    "gn:admin4_code":"440035",
+    "gn:asciiname":"Lumkhu Deurali",
+    "gn:country_code":"NP",
+    "gn:dem":1648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7978742,
+    "gn:latitude":28.11681,
+    "gn:longitude":83.67952,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lumkhu Deurali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049297,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7978742
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b0546b5ff80b624d1f912488e1c89e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049297,
+            "locality_id":1259821137,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049297,
+            "locality_id":1259821137,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1259821137,
+    "wof:lastmodified":1536867807,
+    "wof:name":"Lumkhu Deurali",
+    "wof:parent_id":1092049297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.67952,
+    28.11681,
+    83.67952,
+    28.11681
+],
+  "geometry": {"coordinates":[83.67952,28.11681],"type":"Point"}
+}

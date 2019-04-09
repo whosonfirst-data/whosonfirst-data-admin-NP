@@ -1,0 +1,78 @@
+{
+  "id": 1242816469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.90045,26.63233,85.90045,26.63233",
+    "geom:latitude":26.63233,
+    "geom:longitude":85.90045,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"17.0",
+    "gn:admin4_code":"170037.0",
+    "gn:asciiname":"Phulgama",
+    "gn:country_code":"NP",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7943741,
+    "gn:latitude":26.63233,
+    "gn:longitude":85.90045,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Phulgama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092048127,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7943741
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"319591111a6e14b2d7ec227f41461e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048127,
+            "locality_id":1242816469,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048127,
+            "locality_id":1242816469,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1242816469,
+    "wof:lastmodified":1536719965,
+    "wof:name":"Phulgama",
+    "wof:parent_id":1092048127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.90045,
+    26.63233,
+    85.90045,
+    26.63233
+],
+  "geometry": {"coordinates":[85.90045000000001,26.63233],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276900633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.16142,28.49334,81.16142,28.49334",
+    "geom:latitude":28.49334,
+    "geom:longitude":81.16142,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"58.0",
+    "gn:admin4_code":"580006.0",
+    "gn:asciiname":"Tihuni",
+    "gn:country_code":"NP",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009423,
+    "gn:latitude":28.49334,
+    "gn:longitude":81.16142,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tihuni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048097,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009423
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5ab64a184d9b3385aee32d1b9ed33346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1276900633,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1276900633,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1276900633,
+    "wof:lastmodified":1537012765,
+    "wof:name":"Tihuni",
+    "wof:parent_id":1092048097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.16141999999998,
+    28.49334,
+    81.16141999999998,
+    28.49334
+],
+  "geometry": {"coordinates":[81.16141999999998,28.49334],"type":"Point"}
+}

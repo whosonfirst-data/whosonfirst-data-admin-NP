@@ -1,0 +1,78 @@
+{
+  "id": 1225892485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.25942,26.96721,87.25942,26.96721",
+    "geom:latitude":26.96721,
+    "geom:longitude":87.25942,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"7.0",
+    "gn:admin4_code":"70002.0",
+    "gn:asciiname":"Mangtin",
+    "gn:country_code":"NP",
+    "gn:dem":1388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7942629,
+    "gn:latitude":26.96721,
+    "gn:longitude":87.25942,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mangtin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049207,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7942629
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0d730295acea50e71c3532e01dca2abf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049207,
+            "locality_id":1225892485,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049207,
+            "locality_id":1225892485,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1225892485,
+    "wof:lastmodified":1536946745,
+    "wof:name":"Mangtin",
+    "wof:parent_id":1092049207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.25941999999998,
+    26.96721,
+    87.25941999999998,
+    26.96721
+],
+  "geometry": {"coordinates":[87.25941999999998,26.96721],"type":"Point"}
+}

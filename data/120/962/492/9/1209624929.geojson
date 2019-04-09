@@ -1,0 +1,67 @@
+{
+  "id": 1209624929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.02773,28.52432,82.02773,28.52432",
+    "geom:latitude":28.52432,
+    "geom:longitude":82.02773,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bureli",
+    "gn:country_code":"NP",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283566,
+    "gn:latitude":28.52432,
+    "gn:longitude":82.02773,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Bureli\u0307\u0304",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Bureli\u0307\u0304"
+    ],
+    "name:und_x_variant":[
+        "Buri\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283566
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ef342009cafddd78fdb2318ba68f32df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209624929
+        }
+    ],
+    "wof:id":1209624929,
+    "wof:lastmodified":1537676060,
+    "wof:name":"Bureli",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.02773,
+    28.52432,
+    82.02773,
+    28.52432
+],
+  "geometry": {"coordinates":[82.02773000000001,28.52432],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343487921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6588,29.64721,80.6588,29.64721",
+    "geom:latitude":29.64721,
+    "geom:longitude":80.6588,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740037.0",
+    "gn:asciiname":"Thulabari",
+    "gn:country_code":"NP",
+    "gn:dem":1756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7976900,
+    "gn:latitude":29.64721,
+    "gn:longitude":80.6588,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thulabari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050255,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7976900
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0bb3ccb519fa3752c9e066bbf471e654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1343487921,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1343487921,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1343487921,
+    "wof:lastmodified":1536706952,
+    "wof:name":"Thulabari",
+    "wof:parent_id":1092050255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6588,
+    29.64721,
+    80.6588,
+    29.64721
+],
+  "geometry": {"coordinates":[80.6588,29.64721],"type":"Point"}
+}

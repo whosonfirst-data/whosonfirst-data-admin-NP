@@ -1,0 +1,79 @@
+{
+  "id": 1243564271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.31006,26.78639,85.31006,26.78639",
+    "geom:latitude":26.78639,
+    "geom:longitude":85.31006,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Hajminiyatola",
+    "gn:country_code":"NP",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283357,
+    "gn:latitude":26.78639,
+    "gn:longitude":85.31006,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Hajmini\u0307\u0304y\u0101\u1e6dol\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hajmini\u0307\u0304y\u0101\u1e6dol\u0101",
+        "Hajminia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049419,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283357
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2637bb739737e5e7c7badf4da1d5b932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1243564271,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1243564271,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1243564271,
+    "wof:lastmodified":1537676054,
+    "wof:name":"Hajminiyatola",
+    "wof:parent_id":1092049419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.31006,
+    26.78639,
+    85.31006,
+    26.78639
+],
+  "geometry": {"coordinates":[85.31005999999999,26.78639],"type":"Point"}
+}

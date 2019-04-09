@@ -1,0 +1,78 @@
+{
+  "id": 1243496119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.05858,26.43747,88.05858,26.43747",
+    "geom:latitude":26.43747,
+    "geom:longitude":88.05858,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40006.0",
+    "gn:asciiname":"Dugdugi",
+    "gn:country_code":"NP",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7954014,
+    "gn:latitude":26.43747,
+    "gn:longitude":88.05858,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dugdugi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7954014
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1bdefc40466b329fcb2bb967459b6814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1243496119,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1243496119,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1243496119,
+    "wof:lastmodified":1536734147,
+    "wof:name":"Dugdugi",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.05858,
+    26.43747,
+    88.05858,
+    26.43747
+],
+  "geometry": {"coordinates":[88.05858000000001,26.43747],"type":"Point"}
+}

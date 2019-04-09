@@ -1,0 +1,78 @@
+{
+  "id": 1226175369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.4569,28.17072,81.4569,28.17072",
+    "geom:latitude":28.17072,
+    "geom:longitude":81.4569,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"58.0",
+    "gn:admin4_code":"580013.0",
+    "gn:asciiname":"Karnalipur",
+    "gn:country_code":"NP",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009668,
+    "gn:latitude":28.17072,
+    "gn:longitude":81.4569,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Karnalipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048097,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009668
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"dd4af86c85f43c842257dc58baef464b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1226175369,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1226175369,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1226175369,
+    "wof:lastmodified":1537033575,
+    "wof:name":"Karnalipur",
+    "wof:parent_id":1092048097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.4569,
+    28.17072000000001,
+    81.4569,
+    28.17072000000001
+],
+  "geometry": {"coordinates":[81.4569,28.17072000000001],"type":"Point"}
+}

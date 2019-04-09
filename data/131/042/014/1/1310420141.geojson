@@ -1,0 +1,75 @@
+{
+  "id": 1310420141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.54465,27.58687,86.54465,27.58687",
+    "geom:latitude":27.58687,
+    "geom:longitude":86.54465,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Junbesi",
+    "gn:country_code":"NP",
+    "gn:dem":2853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283284,
+    "gn:latitude":27.58687,
+    "gn:longitude":86.54465,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Junbesi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049841,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283284
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1a7ccd90678a3fe784dcc31e44c01d39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1310420141,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1310420141,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1310420141,
+    "wof:lastmodified":1537038419,
+    "wof:name":"Junbesi",
+    "wof:parent_id":1092049841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.54465,
+    27.58687,
+    86.54465,
+    27.58687
+],
+  "geometry": {"coordinates":[86.54465,27.58687],"type":"Point"}
+}

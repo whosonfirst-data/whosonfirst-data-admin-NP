@@ -1,0 +1,78 @@
+{
+  "id": 1226071457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.2529,28.6386,82.2529,28.6386",
+    "geom:latitude":28.6386,
+    "geom:longitude":82.2529,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"54",
+    "gn:admin4_code":"540006",
+    "gn:asciiname":"Gairipanch",
+    "gn:country_code":"NP",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7985184,
+    "gn:latitude":28.6386,
+    "gn:longitude":82.2529,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gairipanch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049495,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7985184
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3f4325d9e18bd31de02964be6ff08c7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1226071457,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1226071457,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1226071457,
+    "wof:lastmodified":1536688330,
+    "wof:name":"Gairipanch",
+    "wof:parent_id":1092049495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.2529,
+    28.6386,
+    82.2529,
+    28.6386
+],
+  "geometry": {"coordinates":[82.2529,28.6386],"type":"Point"}
+}

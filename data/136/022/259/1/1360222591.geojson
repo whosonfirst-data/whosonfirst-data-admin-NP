@@ -1,0 +1,78 @@
+{
+  "id": 1360222591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.25134,27.02295,86.25134,27.02295",
+    "geom:latitude":27.02295,
+    "geom:longitude":86.25134,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200046",
+    "gn:asciiname":"Lose",
+    "gn:country_code":"NP",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7994028,
+    "gn:latitude":27.02295,
+    "gn:longitude":86.25134,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lose",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049679,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7994028
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"42126c9c3092db1abbba670b6121feeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1360222591,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1360222591,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1360222591,
+    "wof:lastmodified":1536747029,
+    "wof:name":"Lose",
+    "wof:parent_id":1092049679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.25134,
+    27.02295,
+    86.25134,
+    27.02295
+],
+  "geometry": {"coordinates":[86.25134,27.02295],"type":"Point"}
+}

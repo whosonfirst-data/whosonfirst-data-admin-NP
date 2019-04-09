@@ -1,0 +1,78 @@
+{
+  "id": 1360132739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.02446,26.53241,88.02446,26.53241",
+    "geom:latitude":26.53241,
+    "geom:longitude":88.02446,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40024.0",
+    "gn:asciiname":"Tulsibari",
+    "gn:country_code":"NP",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7954595,
+    "gn:latitude":26.53241,
+    "gn:longitude":88.02446,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tulsibari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7954595
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"24ea47dc6b0e163e5832638e979655b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1360132739,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1360132739,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1360132739,
+    "wof:lastmodified":1536876130,
+    "wof:name":"Tulsibari",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.02445999999998,
+    26.53241,
+    88.02445999999998,
+    26.53241
+],
+  "geometry": {"coordinates":[88.02445999999998,26.53241],"type":"Point"}
+}

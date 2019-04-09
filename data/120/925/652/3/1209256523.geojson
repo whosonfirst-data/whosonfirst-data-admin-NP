@@ -1,0 +1,64 @@
+{
+  "id": 1209256523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.42653,26.53643,87.42653,26.53643",
+    "geom:latitude":26.53643,
+    "geom:longitude":87.42653,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"5",
+    "gn:admin4_code":"50004",
+    "gn:asciiname":"Lichidangi",
+    "gn:country_code":"NP",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7969645,
+    "gn:latitude":26.53643,
+    "gn:longitude":87.42653,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lichidangi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7969645
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0285b74967dd713fd2afed97c8488b0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209256523
+        }
+    ],
+    "wof:id":1209256523,
+    "wof:lastmodified":1536292833,
+    "wof:name":"Lichidangi",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.42653,
+    26.53643,
+    87.42653,
+    26.53643
+],
+  "geometry": {"coordinates":[87.42653,26.53643],"type":"Point"}
+}

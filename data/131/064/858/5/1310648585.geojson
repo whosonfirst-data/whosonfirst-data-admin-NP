@@ -1,0 +1,78 @@
+{
+  "id": 1310648585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.86236,27.88709,83.86236,27.88709",
+    "geom:latitude":27.88709,
+    "geom:longitude":83.86236,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390047.0",
+    "gn:asciiname":"Madi",
+    "gn:country_code":"NP",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002023,
+    "gn:latitude":27.88709,
+    "gn:longitude":83.86236,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Madi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002023
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2df963d501b9835ed01227058d9d3535",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1310648585,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1310648585,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1310648585,
+    "wof:lastmodified":1536710860,
+    "wof:name":"Madi",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.86236,
+    27.88709,
+    83.86236,
+    27.88709
+],
+  "geometry": {"coordinates":[83.86236,27.88709],"type":"Point"}
+}

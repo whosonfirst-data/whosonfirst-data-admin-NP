@@ -1,0 +1,78 @@
+{
+  "id": 1310642327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.43779,28.06991,84.43779,28.06991",
+    "geom:latitude":28.06991,
+    "geom:longitude":84.43779,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380035.0",
+    "gn:asciiname":"Kharipani",
+    "gn:country_code":"NP",
+    "gn:dem":831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8004292,
+    "gn:latitude":28.06991,
+    "gn:longitude":84.43779,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kharipani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8004292
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e9b4efddf827775399dc56cec7a1e061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1310642327,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1310642327,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1310642327,
+    "wof:lastmodified":1536719852,
+    "wof:name":"Kharipani",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.43779,
+    28.06991,
+    84.43779,
+    28.06991
+],
+  "geometry": {"coordinates":[84.43779000000001,28.06991],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1309754105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.17079,26.87673,87.17079,26.87673",
+    "geom:latitude":26.87673,
+    "geom:longitude":87.17079,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"6",
+    "gn:admin4_code":"60007",
+    "gn:asciiname":"Barahaksetra",
+    "gn:country_code":"NP",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7997479,
+    "gn:latitude":26.87673,
+    "gn:longitude":87.17079,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Barahaksetra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049923,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7997479
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fd43eb41525d809a3087f5b7bf55f289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1309754105,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1309754105,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1309754105,
+    "wof:lastmodified":1537004901,
+    "wof:name":"Barahaksetra",
+    "wof:parent_id":1092049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.17079,
+    26.87673,
+    87.17079,
+    26.87673
+],
+  "geometry": {"coordinates":[87.17079,26.87673],"type":"Point"}
+}

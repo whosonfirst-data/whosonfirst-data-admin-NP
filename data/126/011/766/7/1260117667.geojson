@@ -1,0 +1,78 @@
+{
+  "id": 1260117667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.16004,28.03196,84.16004,28.03196",
+    "geom:latitude":28.03196,
+    "geom:longitude":84.16004,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380033.0",
+    "gn:asciiname":"Kerabari",
+    "gn:country_code":"NP",
+    "gn:dem":816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8004199,
+    "gn:latitude":28.03196,
+    "gn:longitude":84.16004,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kerabari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8004199
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"85199408a4edff8429fbeeb342a76c8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1260117667,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1260117667,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1260117667,
+    "wof:lastmodified":1536939504,
+    "wof:name":"Kerabari",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.16004000000002,
+    28.03196,
+    84.16004000000002,
+    28.03196
+],
+  "geometry": {"coordinates":[84.16004000000002,28.03196],"type":"Point"}
+}

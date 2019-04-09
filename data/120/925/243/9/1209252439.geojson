@@ -1,0 +1,64 @@
+{
+  "id": 1209252439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.59986,27.04435,87.59986,27.04435",
+    "geom:latitude":27.04435,
+    "geom:longitude":87.59986,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"2",
+    "gn:admin4_code":"20041",
+    "gn:asciiname":"Tallo Khalde",
+    "gn:country_code":"NP",
+    "gn:dem":1003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7978193,
+    "gn:latitude":27.04435,
+    "gn:longitude":87.59986,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tallo Khalde",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7978193
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4e2a8f467e10c4345ef95a59b678ec19",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209252439
+        }
+    ],
+    "wof:id":1209252439,
+    "wof:lastmodified":1536292963,
+    "wof:name":"Tallo Khalde",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.59985999999998,
+    27.04435,
+    87.59985999999998,
+    27.04435
+],
+  "geometry": {"coordinates":[87.59985999999998,27.04435],"type":"Point"}
+}

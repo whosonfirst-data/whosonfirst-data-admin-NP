@@ -1,0 +1,78 @@
+{
+  "id": 1310336169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.94353,29.38732,81.94353,29.38732",
+    "geom:latitude":29.38732,
+    "geom:longitude":81.94353,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"630007.0",
+    "gn:asciiname":"Chuphekharka",
+    "gn:country_code":"NP",
+    "gn:dem":3099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7955673,
+    "gn:latitude":29.38732,
+    "gn:longitude":81.94353,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chuphekharka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092050797,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7955673
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2f73bbcfa8e8d0b6eb222b9b5530c29f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1310336169,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1310336169,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1310336169,
+    "wof:lastmodified":1536663822,
+    "wof:name":"Chuphekharka",
+    "wof:parent_id":1092050797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.94353000000002,
+    29.38732000000001,
+    81.94353000000002,
+    29.38732000000001
+],
+  "geometry": {"coordinates":[81.94353000000002,29.38732000000001],"type":"Point"}
+}

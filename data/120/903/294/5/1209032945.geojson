@@ -1,0 +1,64 @@
+{
+  "id": 1209032945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.82476,28.78508,81.82476,28.78508",
+    "geom:latitude":28.78508,
+    "geom:longitude":81.82476,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"60.0",
+    "gn:admin4_code":"600024.0",
+    "gn:asciiname":"Syantada",
+    "gn:country_code":"NP",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7937210,
+    "gn:latitude":28.78508,
+    "gn:longitude":81.82476,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Syantada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7937210
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"54eebb7dcda186932905f9cc9b662daf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209032945
+        }
+    ],
+    "wof:id":1209032945,
+    "wof:lastmodified":1536299791,
+    "wof:name":"Syantada",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.82476,
+    28.78508,
+    81.82476,
+    28.78508
+],
+  "geometry": {"coordinates":[81.82476,28.78508],"type":"Point"}
+}

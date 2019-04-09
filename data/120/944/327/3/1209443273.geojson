@@ -1,0 +1,64 @@
+{
+  "id": 1209443273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.53829,28.51677,82.53829,28.51677",
+    "geom:latitude":28.51677,
+    "geom:longitude":82.53829,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530035",
+    "gn:asciiname":"Ralekholagaun",
+    "gn:country_code":"NP",
+    "gn:dem":1570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7984204,
+    "gn:latitude":28.51677,
+    "gn:longitude":82.53829,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ralekholagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7984204
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4c11214c20071e3b94c6637b63bf0b65",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209443273
+        }
+    ],
+    "wof:id":1209443273,
+    "wof:lastmodified":1536286896,
+    "wof:name":"Ralekholagaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.53829,
+    28.51677,
+    82.53829,
+    28.51677
+],
+  "geometry": {"coordinates":[82.53829,28.51677],"type":"Point"}
+}

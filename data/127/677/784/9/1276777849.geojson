@@ -1,0 +1,79 @@
+{
+  "id": 1276777849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.8866,28.36487,81.8866,28.36487",
+    "geom:latitude":28.36487,
+    "geom:longitude":81.8866,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Beteni",
+    "gn:country_code":"NP",
+    "gn:dem":956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283633,
+    "gn:latitude":28.36487,
+    "gn:longitude":81.8866,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Beteni\u0307\u0304",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Beteni\u0307\u0304"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283633,
+        "wk:page":"Beteni"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7d3026f3cfe40a2cbc802d552cf6024b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1276777849,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1276777849,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1276777849,
+    "wof:lastmodified":1537676062,
+    "wof:name":"Beteni",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.8866,
+    28.36487,
+    81.8866,
+    28.36487
+],
+  "geometry": {"coordinates":[81.8866,28.36487],"type":"Point"}
+}

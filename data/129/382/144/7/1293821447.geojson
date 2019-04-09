@@ -1,0 +1,78 @@
+{
+  "id": 1293821447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.11653,28.44029,83.11653,28.44029",
+    "geom:latitude":28.44029,
+    "geom:longitude":83.11653,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450013.0",
+    "gn:asciiname":"Khibang Khani",
+    "gn:country_code":"NP",
+    "gn:dem":2177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7950955,
+    "gn:latitude":28.44029,
+    "gn:longitude":83.11653,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khibang Khani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7950955
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6e8ef5cc20d21406bbe08d9471bea05b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1293821447,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1293821447,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1293821447,
+    "wof:lastmodified":1536802605,
+    "wof:name":"Khibang Khani",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.11653000000003,
+    28.44029,
+    83.11653000000003,
+    28.44029
+],
+  "geometry": {"coordinates":[83.11653000000003,28.44029],"type":"Point"}
+}

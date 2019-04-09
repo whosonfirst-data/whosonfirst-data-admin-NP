@@ -1,0 +1,64 @@
+{
+  "id": 1209356853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.81583,27.35426,85.81583,27.35426",
+    "geom:latitude":27.35426,
+    "geom:longitude":85.81583,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200006",
+    "gn:asciiname":"Tharikholagaun",
+    "gn:country_code":"NP",
+    "gn:dem":1478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7992480,
+    "gn:latitude":27.35426,
+    "gn:longitude":85.81583,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tharikholagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7992480
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6b26b756649a2f49addde40d4d0d0149",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209356853
+        }
+    ],
+    "wof:id":1209356853,
+    "wof:lastmodified":1536289562,
+    "wof:name":"Tharikholagaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.81583,
+    27.35426,
+    85.81583,
+    27.35426
+],
+  "geometry": {"coordinates":[85.81583000000001,27.35426],"type":"Point"}
+}

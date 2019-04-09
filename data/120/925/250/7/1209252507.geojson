@@ -1,0 +1,64 @@
+{
+  "id": 1209252507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.98802,27.07529,86.98802,27.07529",
+    "geom:latitude":27.07529,
+    "geom:longitude":86.98802,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100003.0",
+    "gn:asciiname":"Kanyadaha",
+    "gn:country_code":"NP",
+    "gn:dem":1334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8010350,
+    "gn:latitude":27.07529,
+    "gn:longitude":86.98802,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kanyadaha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8010350
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3f5997d06e24e0cd9aecfcbce065e930",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209252507
+        }
+    ],
+    "wof:id":1209252507,
+    "wof:lastmodified":1536292961,
+    "wof:name":"Kanyadaha",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.98801999999998,
+    27.075290000000006,
+    86.98801999999998,
+    27.075290000000006
+],
+  "geometry": {"coordinates":[86.98801999999998,27.07529000000001],"type":"Point"}
+}

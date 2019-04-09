@@ -1,0 +1,64 @@
+{
+  "id": 1209162685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.07806,27.39753,86.07806,27.39753",
+    "geom:latitude":27.39753,
+    "geom:longitude":86.07806,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"21",
+    "gn:admin4_code":"210035",
+    "gn:asciiname":"Tekanpur",
+    "gn:country_code":"NP",
+    "gn:dem":905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7981655,
+    "gn:latitude":27.39753,
+    "gn:longitude":86.07806,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tekanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7981655
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"740ddd0cb8f60287ff1e4b3c4e2b4b5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209162685
+        }
+    ],
+    "wof:id":1209162685,
+    "wof:lastmodified":1536295847,
+    "wof:name":"Tekanpur",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.07806,
+    27.39753,
+    86.07806,
+    27.39753
+],
+  "geometry": {"coordinates":[86.07805999999999,27.39753],"type":"Point"}
+}

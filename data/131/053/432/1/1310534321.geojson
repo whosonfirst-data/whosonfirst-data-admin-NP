@@ -1,0 +1,78 @@
+{
+  "id": 1310534321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.86479,28.04245,81.86479,28.04245",
+    "geom:latitude":28.04245,
+    "geom:longitude":81.86479,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"570010.0",
+    "gn:asciiname":"Khalwa Jurpani",
+    "gn:country_code":"NP",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007160,
+    "gn:latitude":28.04245,
+    "gn:longitude":81.86479,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khalwa Jurpani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092050297,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007160
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"809db9431f77e30d91114d08ce55031d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1310534321,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1310534321,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1310534321,
+    "wof:lastmodified":1536874413,
+    "wof:name":"Khalwa Jurpani",
+    "wof:parent_id":1092050297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.86479,
+    28.04245,
+    81.86479,
+    28.04245
+],
+  "geometry": {"coordinates":[81.86479,28.04245],"type":"Point"}
+}

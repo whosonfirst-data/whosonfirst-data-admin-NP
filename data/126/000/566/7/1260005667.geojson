@@ -1,0 +1,78 @@
+{
+  "id": 1260005667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.55702,29.0175,81.55702,29.0175",
+    "geom:latitude":29.0175,
+    "geom:longitude":81.55702,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"60.0",
+    "gn:admin4_code":"600028.0",
+    "gn:asciiname":"Gairigaun",
+    "gn:country_code":"NP",
+    "gn:dem":1290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7937323,
+    "gn:latitude":29.0175,
+    "gn:longitude":81.55702,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gairigaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092050583,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7937323
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fe4742a7f0dbef74f0834439ca4ff16f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1260005667,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1260005667,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1260005667,
+    "wof:lastmodified":1537096788,
+    "wof:name":"Gairigaun",
+    "wof:parent_id":1092050583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.55702,
+    29.0175,
+    81.55702,
+    29.0175
+],
+  "geometry": {"coordinates":[81.55701999999999,29.0175],"type":"Point"}
+}

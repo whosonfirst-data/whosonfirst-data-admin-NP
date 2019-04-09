@@ -1,0 +1,78 @@
+{
+  "id": 1343603273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.82177,26.76617,87.82177,26.76617",
+    "geom:latitude":26.76617,
+    "geom:longitude":87.82177,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30025.0",
+    "gn:asciiname":"Thewagaun",
+    "gn:country_code":"NP",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7952157,
+    "gn:latitude":26.76617,
+    "gn:longitude":87.82177,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thewagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7952157
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"495ab23d16822f2a3acbb340fc916879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1343603273,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1343603273,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1343603273,
+    "wof:lastmodified":1537035993,
+    "wof:name":"Thewagaun",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.82177,
+    26.76617,
+    87.82177,
+    26.76617
+],
+  "geometry": {"coordinates":[87.82177,26.76617],"type":"Point"}
+}

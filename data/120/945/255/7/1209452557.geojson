@@ -1,0 +1,64 @@
+{
+  "id": 1209452557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.37005,28.07024,84.37005,28.07024",
+    "geom:latitude":28.07024,
+    "geom:longitude":84.37005,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380041.0",
+    "gn:asciiname":"Chandrawati",
+    "gn:country_code":"NP",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8004512,
+    "gn:latitude":28.07024,
+    "gn:longitude":84.37005,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chandrawati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8004512
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5d752633eed56f5f7a81b1d9f1e7721f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209452557
+        }
+    ],
+    "wof:id":1209452557,
+    "wof:lastmodified":1536286629,
+    "wof:name":"Chandrawati",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.37005,
+    28.07024,
+    84.37005,
+    28.07024
+],
+  "geometry": {"coordinates":[84.37005000000001,28.07024],"type":"Point"}
+}

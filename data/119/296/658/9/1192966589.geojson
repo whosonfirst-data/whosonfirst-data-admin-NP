@@ -1,0 +1,78 @@
+{
+  "id": 1192966589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.29177,27.08613,85.29177,27.08613",
+    "geom:latitude":27.08613,
+    "geom:longitude":85.29177,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"32",
+    "gn:admin4_code":"320084.0",
+    "gn:asciiname":"Bramhatol",
+    "gn:country_code":"NP",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7982757,
+    "gn:latitude":27.08613,
+    "gn:longitude":85.29177,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bramhatol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049419,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7982757
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ae619ac70ee55b85c378f3e53562f7aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1192966589,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1192966589,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1192966589,
+    "wof:lastmodified":1536382784,
+    "wof:name":"Bramhatol",
+    "wof:parent_id":1092049419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.29177,
+    27.08613,
+    85.29177,
+    27.08613
+],
+  "geometry": {"coordinates":[85.29177,27.08613],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276487365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.31359,27.56181,85.31359,27.56181",
+    "geom:latitude":27.56181,
+    "geom:longitude":85.31359,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"25",
+    "gn:admin4_code":"250029",
+    "gn:asciiname":"Gairigaun",
+    "gn:country_code":"NP",
+    "gn:dem":1585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7965700,
+    "gn:latitude":27.56181,
+    "gn:longitude":85.31359,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gairigaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048971,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7965700
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"30eddc3d7a8c3b4c2378240c5d6b0e2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048971,
+            "locality_id":1276487365,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048971,
+            "locality_id":1276487365,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1276487365,
+    "wof:lastmodified":1537066656,
+    "wof:name":"Gairigaun",
+    "wof:parent_id":1092048971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.31359,
+    27.56181,
+    85.31359,
+    27.56181
+],
+  "geometry": {"coordinates":[85.31359,27.56181],"type":"Point"}
+}

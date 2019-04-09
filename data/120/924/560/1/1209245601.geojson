@@ -1,0 +1,65 @@
+{
+  "id": 1209245601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.25908,29.14256,81.25908,29.14256",
+    "geom:latitude":29.14256,
+    "geom:longitude":81.25908,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"69.0",
+    "gn:admin4_code":"690047.0",
+    "gn:asciiname":"Mangalsen",
+    "gn:country_code":"NP",
+    "gn:dem":1233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008813,
+    "gn:latitude":29.14256,
+    "gn:longitude":81.25908,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mangalsen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008813,
+        "wk:page":"Mangalsen"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"45ce59664f506eaf71d2b3499a57151d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209245601
+        }
+    ],
+    "wof:id":1209245601,
+    "wof:lastmodified":1537570157,
+    "wof:name":"Mangalsen",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.25908000000003,
+    29.14256,
+    81.25908000000003,
+    29.14256
+],
+  "geometry": {"coordinates":[81.25908000000003,29.14256],"type":"Point"}
+}

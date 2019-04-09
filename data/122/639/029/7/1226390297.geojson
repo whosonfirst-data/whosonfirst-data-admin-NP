@@ -1,0 +1,78 @@
+{
+  "id": 1226390297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.30269,27.60961,83.30269,27.60961",
+    "geom:latitude":27.60961,
+    "geom:longitude":83.30269,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"49",
+    "gn:admin4_code":"490025",
+    "gn:asciiname":"Gopalapur",
+    "gn:country_code":"NP",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7987135,
+    "gn:latitude":27.60961,
+    "gn:longitude":83.30269,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gopalapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048457,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7987135
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f007e114a185e8ddd0f4467250acec3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1226390297,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1226390297,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1226390297,
+    "wof:lastmodified":1536725817,
+    "wof:name":"Gopalapur",
+    "wof:parent_id":1092048457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.30269,
+    27.60961,
+    83.30269,
+    27.60961
+],
+  "geometry": {"coordinates":[83.30269,27.60961],"type":"Point"}
+}

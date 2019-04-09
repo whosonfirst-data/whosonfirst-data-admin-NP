@@ -1,0 +1,78 @@
+{
+  "id": 1276594705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.39369,27.97408,85.39369,27.97408",
+    "geom:latitude":27.97408,
+    "geom:longitude":85.39369,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"28",
+    "gn:admin4_code":"280051",
+    "gn:asciiname":"Buldunche",
+    "gn:country_code":"NP",
+    "gn:dem":1897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7974720,
+    "gn:latitude":27.97408,
+    "gn:longitude":85.39369,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Buldunche",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7974720
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"644cbb2905cfb2e2ba69a15a2f7b9fd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1276594705,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1276594705,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1276594705,
+    "wof:lastmodified":1536926659,
+    "wof:name":"Buldunche",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.39369,
+    27.97408,
+    85.39369,
+    27.97408
+],
+  "geometry": {"coordinates":[85.39369000000001,27.97408],"type":"Point"}
+}

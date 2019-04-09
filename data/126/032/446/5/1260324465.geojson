@@ -1,0 +1,78 @@
+{
+  "id": 1260324465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.45726,28.03637,84.45726,28.03637",
+    "geom:latitude":28.03637,
+    "geom:longitude":84.45726,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380007.0",
+    "gn:asciiname":"Majhiban",
+    "gn:country_code":"NP",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002936,
+    "gn:latitude":28.03637,
+    "gn:longitude":84.45726,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Majhiban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002936
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bc2f4d8fcacf63a7d311d285eb6a8c68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1260324465,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1260324465,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1260324465,
+    "wof:lastmodified":1536656910,
+    "wof:name":"Majhiban",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.45725999999998,
+    28.03637,
+    84.45725999999998,
+    28.03637
+],
+  "geometry": {"coordinates":[84.45725999999998,28.03637],"type":"Point"}
+}

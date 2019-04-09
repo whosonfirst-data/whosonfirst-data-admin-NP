@@ -1,0 +1,64 @@
+{
+  "id": 1209456619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.58706,28.0449,84.58706,28.0449",
+    "geom:latitude":28.0449,
+    "geom:longitude":84.58706,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360014.0",
+    "gn:asciiname":"Kolipani",
+    "gn:country_code":"NP",
+    "gn:dem":907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7948147,
+    "gn:latitude":28.0449,
+    "gn:longitude":84.58706,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kolipani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7948147
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7cd4e064d06a49e483c760b8620244ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209456619
+        }
+    ],
+    "wof:id":1209456619,
+    "wof:lastmodified":1536286511,
+    "wof:name":"Kolipani",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.58706,
+    28.0449,
+    84.58706,
+    28.0449
+],
+  "geometry": {"coordinates":[84.58705999999999,28.0449],"type":"Point"}
+}

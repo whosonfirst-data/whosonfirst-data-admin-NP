@@ -1,0 +1,78 @@
+{
+  "id": 1243205205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.324,30.14822,81.324,30.14822",
+    "geom:latitude":30.14822,
+    "geom:longitude":81.324,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"66.0",
+    "gn:admin4_code":"660018.0",
+    "gn:asciiname":"Lambaj",
+    "gn:country_code":"NP",
+    "gn:dem":3898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7951152,
+    "gn:latitude":30.14822,
+    "gn:longitude":81.324,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lambaj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050353,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7951152
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a926e2f7fd6bf4fbb9dfd45ba76cce0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1243205205,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1243205205,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1243205205,
+    "wof:lastmodified":1536656531,
+    "wof:name":"Lambaj",
+    "wof:parent_id":1092050353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.324,
+    30.14822,
+    81.324,
+    30.14822
+],
+  "geometry": {"coordinates":[81.324,30.14822],"type":"Point"}
+}

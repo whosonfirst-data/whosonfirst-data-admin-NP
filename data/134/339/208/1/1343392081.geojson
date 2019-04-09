@@ -1,0 +1,78 @@
+{
+  "id": 1343392081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.08671,28.90935,80.08671,28.90935",
+    "geom:latitude":28.90935,
+    "geom:longitude":80.08671,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"72.0",
+    "gn:admin4_code":"720003.0",
+    "gn:asciiname":"Krisnanagar",
+    "gn:country_code":"NP",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7958553,
+    "gn:latitude":28.90935,
+    "gn:longitude":80.08671,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Krisnanagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048227,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7958553
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"713bce4aac65352fb122dc26941d13dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1343392081,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1343392081,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1343392081,
+    "wof:lastmodified":1536843893,
+    "wof:name":"Krisnanagar",
+    "wof:parent_id":1092048227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.08671,
+    28.90935,
+    80.08671,
+    28.90935
+],
+  "geometry": {"coordinates":[80.08671,28.90935],"type":"Point"}
+}

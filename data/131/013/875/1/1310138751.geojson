@@ -1,0 +1,78 @@
+{
+  "id": 1310138751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.64226,28.82416,81.64226,28.82416",
+    "geom:latitude":28.82416,
+    "geom:longitude":81.64226,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"60.0",
+    "gn:admin4_code":"600016.0",
+    "gn:asciiname":"Chhuwala",
+    "gn:country_code":"NP",
+    "gn:dem":1155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7936927,
+    "gn:latitude":28.82416,
+    "gn:longitude":81.64226,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chhuwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092050583,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7936927
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d59a64cc379a3c6a64d7677575d1ca80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1310138751,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1310138751,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1310138751,
+    "wof:lastmodified":1536948895,
+    "wof:name":"Chhuwala",
+    "wof:parent_id":1092050583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.64226,
+    28.82416,
+    81.64226,
+    28.82416
+],
+  "geometry": {"coordinates":[81.64225999999999,28.82416],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1193214093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.56851,27.31404,87.56851,27.31404",
+    "geom:latitude":27.31404,
+    "geom:longitude":87.56851,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10004.0",
+    "gn:asciiname":"Ahale",
+    "gn:country_code":"NP",
+    "gn:dem":2068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005029,
+    "gn:latitude":27.31404,
+    "gn:longitude":87.56851,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ahale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005029
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"221eec1fd7ca2a2741d8e5efb6268a6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1193214093,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1193214093,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1193214093,
+    "wof:lastmodified":1536382300,
+    "wof:name":"Ahale",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.56851,
+    27.31404,
+    87.56851,
+    27.31404
+],
+  "geometry": {"coordinates":[87.56851,27.31404],"type":"Point"}
+}

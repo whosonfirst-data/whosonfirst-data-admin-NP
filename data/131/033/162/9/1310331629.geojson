@@ -1,0 +1,78 @@
+{
+  "id": 1310331629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.75186,30.00903,80.75186,30.00903",
+    "geom:latitude":30.00903,
+    "geom:longitude":80.75186,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"75.0",
+    "gn:admin4_code":"750031.0",
+    "gn:asciiname":"Kalju Gad",
+    "gn:country_code":"NP",
+    "gn:dem":1575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7940802,
+    "gn:latitude":30.00903,
+    "gn:longitude":80.75186,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kalju Gad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050347,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7940802
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8c151158fb3ec45a34d6cef962aeae7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050347,
+            "locality_id":1310331629,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050347,
+            "locality_id":1310331629,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1310331629,
+    "wof:lastmodified":1536670409,
+    "wof:name":"Kalju Gad",
+    "wof:parent_id":1092050347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.75186,
+    30.00903,
+    80.75186,
+    30.00903
+],
+  "geometry": {"coordinates":[80.75185999999999,30.00903],"type":"Point"}
+}

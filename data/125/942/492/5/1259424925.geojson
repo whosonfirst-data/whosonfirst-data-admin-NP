@@ -1,0 +1,78 @@
+{
+  "id": 1259424925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.47979,27.58965,85.47979,27.58965",
+    "geom:latitude":27.58965,
+    "geom:longitude":85.47979,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240049.0",
+    "gn:asciiname":"Lapsetar",
+    "gn:country_code":"NP",
+    "gn:dem":1532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7963299,
+    "gn:latitude":27.58965,
+    "gn:longitude":85.47979,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lapsetar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7963299
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"167fef8234ee89413dc2727793b3b2b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1259424925,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1259424925,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1259424925,
+    "wof:lastmodified":1536943473,
+    "wof:name":"Lapsetar",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.47979000000002,
+    27.58965,
+    85.47979000000002,
+    27.58965
+],
+  "geometry": {"coordinates":[85.47979000000002,27.58965],"type":"Point"}
+}

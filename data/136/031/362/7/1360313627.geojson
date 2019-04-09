@@ -1,0 +1,78 @@
+{
+  "id": 1360313627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.02642,28.99309,82.02642,28.99309",
+    "geom:latitude":28.99309,
+    "geom:longitude":82.02642,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"61.0",
+    "gn:admin4_code":"610004.0",
+    "gn:asciiname":"Chade Patan",
+    "gn:country_code":"NP",
+    "gn:dem":3551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7952899,
+    "gn:latitude":28.99309,
+    "gn:longitude":82.02642,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chade Patan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092048763,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7952899
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bb4cfdf8d3ce9a6786758024551f55d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048763,
+            "locality_id":1360313627,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048763,
+            "locality_id":1360313627,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1360313627,
+    "wof:lastmodified":1536613634,
+    "wof:name":"Chade Patan",
+    "wof:parent_id":1092048763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.02642,
+    28.99309,
+    82.02642,
+    28.99309
+],
+  "geometry": {"coordinates":[82.02642,28.99309],"type":"Point"}
+}

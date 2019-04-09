@@ -1,0 +1,78 @@
+{
+  "id": 1310347401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.87163,27.16118,85.87163,27.16118",
+    "geom:latitude":27.16118,
+    "geom:longitude":85.87163,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200025",
+    "gn:asciiname":"Pathiparan",
+    "gn:country_code":"NP",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7993283,
+    "gn:latitude":27.16118,
+    "gn:longitude":85.87163,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pathiparan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049679,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7993283
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"798cb93eee205380b0cb5b1b0534d883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1310347401,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1310347401,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1310347401,
+    "wof:lastmodified":1536647188,
+    "wof:name":"Pathiparan",
+    "wof:parent_id":1092049679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.87163000000002,
+    27.16118,
+    85.87163000000002,
+    27.16118
+],
+  "geometry": {"coordinates":[85.87163000000002,27.16118],"type":"Point"}
+}

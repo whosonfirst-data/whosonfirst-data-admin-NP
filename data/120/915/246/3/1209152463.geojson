@@ -1,0 +1,64 @@
+{
+  "id": 1209152463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.94884,27.8879,84.94884,27.8879",
+    "geom:latitude":27.8879,
+    "geom:longitude":84.94884,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300023.0",
+    "gn:asciiname":"Patle",
+    "gn:country_code":"NP",
+    "gn:dem":1341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7941800,
+    "gn:latitude":27.8879,
+    "gn:longitude":84.94884,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Patle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7941800
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5392e174b39c4cda8dbca3a58891f90d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209152463
+        }
+    ],
+    "wof:id":1209152463,
+    "wof:lastmodified":1536296162,
+    "wof:name":"Patle",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.94884,
+    27.8879,
+    84.94884,
+    27.8879
+],
+  "geometry": {"coordinates":[84.94884,27.8879],"type":"Point"}
+}

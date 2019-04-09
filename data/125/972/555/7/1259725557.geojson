@@ -1,0 +1,78 @@
+{
+  "id": 1259725557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.96977,27.03851,84.96977,27.03851",
+    "geom:latitude":27.03851,
+    "geom:longitude":84.96977,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"330022.0",
+    "gn:asciiname":"Bairathpur",
+    "gn:country_code":"NP",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008695,
+    "gn:latitude":27.03851,
+    "gn:longitude":84.96977,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bairathpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092048051,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008695
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4bd5bdd63ac3d832edd6978c86bb81c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1259725557,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1259725557,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1259725557,
+    "wof:lastmodified":1537005772,
+    "wof:name":"Bairathpur",
+    "wof:parent_id":1092048051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.96977,
+    27.03851,
+    84.96977,
+    27.03851
+],
+  "geometry": {"coordinates":[84.96977,27.03851],"type":"Point"}
+}

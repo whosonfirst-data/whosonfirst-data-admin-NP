@@ -1,0 +1,78 @@
+{
+  "id": 1259631183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.44156,27.87062,84.44156,27.87062",
+    "geom:latitude":27.87062,
+    "geom:longitude":84.44156,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380016.0",
+    "gn:asciiname":"Doregaun",
+    "gn:country_code":"NP",
+    "gn:dem":1268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003262,
+    "gn:latitude":27.87062,
+    "gn:longitude":84.44156,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Doregaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003262
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"03ac24b540c46a3a36f0e81a2a49438e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1259631183,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1259631183,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1259631183,
+    "wof:lastmodified":1536645476,
+    "wof:name":"Doregaun",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.44156,
+    27.87062,
+    84.44156,
+    27.87062
+],
+  "geometry": {"coordinates":[84.44156,27.87062],"type":"Point"}
+}

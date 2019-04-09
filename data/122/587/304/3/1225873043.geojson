@@ -1,0 +1,78 @@
+{
+  "id": 1225873043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.56601,28.78286,81.56601,28.78286",
+    "geom:latitude":28.78286,
+    "geom:longitude":81.56601,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"69.0",
+    "gn:admin4_code":"690058.0",
+    "gn:asciiname":"Pipaltada",
+    "gn:country_code":"NP",
+    "gn:dem":866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933496,
+    "gn:latitude":28.78286,
+    "gn:longitude":81.56601,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pipaltada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048527,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933496
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"eb8bd96a394329ce8b20daa843bc7f27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1225873043,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1225873043,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1225873043,
+    "wof:lastmodified":1536973988,
+    "wof:name":"Pipaltada",
+    "wof:parent_id":1092048527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.56600999999998,
+    28.78286,
+    81.56600999999998,
+    28.78286
+],
+  "geometry": {"coordinates":[81.56600999999998,28.78286],"type":"Point"}
+}

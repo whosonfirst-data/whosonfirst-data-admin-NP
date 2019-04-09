@@ -1,0 +1,64 @@
+{
+  "id": 1209245743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.05677,29.54436,81.05677,29.54436",
+    "geom:latitude":29.54436,
+    "geom:longitude":81.05677,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680005",
+    "gn:asciiname":"Pundhar",
+    "gn:country_code":"NP",
+    "gn:dem":2053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7987881,
+    "gn:latitude":29.54436,
+    "gn:longitude":81.05677,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pundhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7987881
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"de65613aea9e8e52687c6cd30cdaf678",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209245743
+        }
+    ],
+    "wof:id":1209245743,
+    "wof:lastmodified":1536293172,
+    "wof:name":"Pundhar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.05677,
+    29.54436,
+    81.05677,
+    29.54436
+],
+  "geometry": {"coordinates":[81.05677,29.54436],"type":"Point"}
+}

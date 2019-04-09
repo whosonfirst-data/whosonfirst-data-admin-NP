@@ -1,0 +1,78 @@
+{
+  "id": 1310538935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.36463,27.3983,83.36463,27.3983",
+    "geom:latitude":27.3983,
+    "geom:longitude":83.36463,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"49",
+    "gn:admin4_code":"490065",
+    "gn:asciiname":"Badduliya",
+    "gn:country_code":"NP",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7987760,
+    "gn:latitude":27.3983,
+    "gn:longitude":83.36463,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Badduliya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048457,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7987760
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"93cadff3e892d5a7f56aa4f701c413f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1310538935,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1310538935,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1310538935,
+    "wof:lastmodified":1536867360,
+    "wof:name":"Badduliya",
+    "wof:parent_id":1092048457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.36463,
+    27.3983,
+    83.36463,
+    27.3983
+],
+  "geometry": {"coordinates":[83.36463000000001,27.3983],"type":"Point"}
+}

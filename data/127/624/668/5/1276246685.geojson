@@ -1,0 +1,76 @@
+{
+  "id": 1276246685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.69895,30.05719,81.69895,30.05719",
+    "geom:latitude":30.05719,
+    "geom:longitude":81.69895,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kermi",
+    "gn:country_code":"NP",
+    "gn:dem":3150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283230,
+    "gn:latitude":30.05719,
+    "gn:longitude":81.69895,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kermi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050353,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283230,
+        "wk:page":"Kermi"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8d2a49515f380939c11fbab0cfd5ee3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1276246685,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1276246685,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1276246685,
+    "wof:lastmodified":1537570142,
+    "wof:name":"Kermi",
+    "wof:parent_id":1092050353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.69895,
+    30.05719,
+    81.69895,
+    30.05719
+],
+  "geometry": {"coordinates":[81.69895,30.05719],"type":"Point"}
+}

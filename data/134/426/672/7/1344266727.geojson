@@ -1,0 +1,79 @@
+{
+  "id": 1344266727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.10147,27.60377,86.10147,27.60377",
+    "geom:latitude":27.60377,
+    "geom:longitude":86.10147,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Salleni",
+    "gn:country_code":"NP",
+    "gn:dem":1365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10323915,
+    "gn:latitude":27.60377,
+    "gn:longitude":86.10147,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Salle\u1e45i\u0307\u0304",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salle\u1e45i\u0307\u0304",
+        "Salle\u1e45\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675579,
+        1092050535,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10323915
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b18bf696e69a12087c12a38ca6b4d55e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1344266727,
+            "region_id":85675579
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1344266727,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1344266727,
+    "wof:lastmodified":1537676095,
+    "wof:name":"Salleni",
+    "wof:parent_id":1092050535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.10146999999998,
+    27.60377,
+    86.10146999999998,
+    27.60377
+],
+  "geometry": {"coordinates":[86.10146999999998,27.60377],"type":"Point"}
+}

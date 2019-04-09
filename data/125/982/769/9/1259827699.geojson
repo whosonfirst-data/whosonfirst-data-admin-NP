@@ -1,0 +1,78 @@
+{
+  "id": 1259827699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.29357,27.30187,87.29357,27.30187",
+    "geom:latitude":27.30187,
+    "geom:longitude":87.29357,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"9",
+    "gn:admin4_code":"90006.0",
+    "gn:asciiname":"Ambote",
+    "gn:country_code":"NP",
+    "gn:dem":712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7989936,
+    "gn:latitude":27.30187,
+    "gn:longitude":87.29357,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ambote",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049597,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7989936
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"70df2f3b12b8f7db46dc0024e23392ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1259827699,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1259827699,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1259827699,
+    "wof:lastmodified":1536858363,
+    "wof:name":"Ambote",
+    "wof:parent_id":1092049597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.29356999999997,
+    27.30187,
+    87.29356999999997,
+    27.30187
+],
+  "geometry": {"coordinates":[87.29356999999997,27.30187],"type":"Point"}
+}

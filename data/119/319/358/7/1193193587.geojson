@@ -1,0 +1,78 @@
+{
+  "id": 1193193587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.03777,27.38518,88.03777,27.38518",
+    "geom:latitude":27.38518,
+    "geom:longitude":88.03777,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"2",
+    "gn:admin4_code":"20012",
+    "gn:asciiname":"Tarunipani",
+    "gn:country_code":"NP",
+    "gn:dem":3899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7977397,
+    "gn:latitude":27.38518,
+    "gn:longitude":88.03777,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tarunipani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7977397
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9b701eae020b2750c63dc804d059dd80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1193193587,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1193193587,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1193193587,
+    "wof:lastmodified":1536380247,
+    "wof:name":"Tarunipani",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.03777,
+    27.38518,
+    88.03777,
+    27.38518
+],
+  "geometry": {"coordinates":[88.03776999999999,27.38518],"type":"Point"}
+}

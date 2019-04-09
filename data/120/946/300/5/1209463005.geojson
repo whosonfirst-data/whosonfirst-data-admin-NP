@@ -1,0 +1,64 @@
+{
+  "id": 1209463005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.56261,27.05853,86.56261,27.05853",
+    "geom:latitude":27.05853,
+    "geom:longitude":86.56261,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140013.0",
+    "gn:asciiname":"Dagale",
+    "gn:country_code":"NP",
+    "gn:dem":1359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8006801,
+    "gn:latitude":27.05853,
+    "gn:longitude":86.56261,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dagale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8006801
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3b470d43f415dddbc793f87da4521a95",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209463005
+        }
+    ],
+    "wof:id":1209463005,
+    "wof:lastmodified":1536286321,
+    "wof:name":"Dagale",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.56260999999998,
+    27.05853,
+    86.56260999999998,
+    27.05853
+],
+  "geometry": {"coordinates":[86.56260999999998,27.05853],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226175297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.81702,29.35449,80.81702,29.35449",
+    "geom:latitude":29.35449,
+    "geom:longitude":80.81702,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"70.0",
+    "gn:admin4_code":"700031.0",
+    "gn:asciiname":"Patana",
+    "gn:country_code":"NP",
+    "gn:dem":1127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7946978,
+    "gn:latitude":29.35449,
+    "gn:longitude":80.81702,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Patana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048653,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7946978
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"652c51553e2257daddd3427056614de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1226175297,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1226175297,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1226175297,
+    "wof:lastmodified":1537033672,
+    "wof:name":"Patana",
+    "wof:parent_id":1092048653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.81702,
+    29.35449,
+    80.81702,
+    29.35449
+],
+  "geometry": {"coordinates":[80.81702,29.35449],"type":"Point"}
+}

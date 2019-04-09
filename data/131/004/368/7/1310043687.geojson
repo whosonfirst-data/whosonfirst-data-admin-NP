@@ -1,0 +1,78 @@
+{
+  "id": 1310043687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.90946,27.00373,84.90946,27.00373",
+    "geom:latitude":27.00373,
+    "geom:longitude":84.90946,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"330044.0",
+    "gn:asciiname":"Itiyahi Thulo",
+    "gn:country_code":"NP",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008847,
+    "gn:latitude":27.00373,
+    "gn:longitude":84.90946,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Itiyahi Thulo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092048051,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008847
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"56fb044d306ceecef62f8587756e47b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1310043687,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1310043687,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1310043687,
+    "wof:lastmodified":1537082396,
+    "wof:name":"Itiyahi Thulo",
+    "wof:parent_id":1092048051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.90946,
+    27.00373,
+    84.90946,
+    27.00373
+],
+  "geometry": {"coordinates":[84.90946,27.00373],"type":"Point"}
+}

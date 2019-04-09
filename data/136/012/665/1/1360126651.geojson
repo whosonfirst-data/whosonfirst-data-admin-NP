@@ -1,0 +1,78 @@
+{
+  "id": 1360126651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.01645,26.66782,86.01645,26.66782",
+    "geom:latitude":26.66782,
+    "geom:longitude":86.01645,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"17.0",
+    "gn:admin4_code":"170047.0",
+    "gn:asciiname":"Jagirtol",
+    "gn:country_code":"NP",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7943832,
+    "gn:latitude":26.66782,
+    "gn:longitude":86.01645,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jagirtol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092048127,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7943832
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"586f692be5b7b0ddb851f73eb159af1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048127,
+            "locality_id":1360126651,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048127,
+            "locality_id":1360126651,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1360126651,
+    "wof:lastmodified":1536885205,
+    "wof:name":"Jagirtol",
+    "wof:parent_id":1092048127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.01645,
+    26.66782000000001,
+    86.01645,
+    26.66782000000001
+],
+  "geometry": {"coordinates":[86.01645000000001,26.66782000000001],"type":"Point"}
+}

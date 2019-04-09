@@ -1,0 +1,75 @@
+{
+  "id": 1343972411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.69956,28.13508,84.69956,28.13508",
+    "geom:latitude":28.13508,
+    "geom:longitude":84.69956,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Jiwadanda",
+    "gn:country_code":"NP",
+    "gn:dem":906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283297,
+    "gn:latitude":28.13508,
+    "gn:longitude":84.69956,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Jiw\u0101danda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283297
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"02f4e48deb744ea17eaa1d5b11b69529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1343972411,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1343972411,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1343972411,
+    "wof:lastmodified":1537001929,
+    "wof:name":"Jiwadanda",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.69955999999998,
+    28.13508,
+    84.69955999999998,
+    28.13508
+],
+  "geometry": {"coordinates":[84.69955999999998,28.13508],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276809887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.60799,27.78226,85.60799,27.78226",
+    "geom:latitude":27.78226,
+    "geom:longitude":85.60799,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Badegaun",
+    "gn:country_code":"NP",
+    "gn:dem":1252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8469163,
+    "gn:latitude":27.78226,
+    "gn:longitude":85.60799,
+    "gn:modification_date":"2013-03-03",
+    "gn:name":"Badegaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8469163
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"19e29215844c0a3a04118951fb17479d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1276809887,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1276809887,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1276809887,
+    "wof:lastmodified":1536636106,
+    "wof:name":"Badegaun",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.60799,
+    27.78226,
+    85.60799,
+    27.78226
+],
+  "geometry": {"coordinates":[85.60799,27.78226],"type":"Point"}
+}

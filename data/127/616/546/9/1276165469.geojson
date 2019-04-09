@@ -1,0 +1,78 @@
+{
+  "id": 1276165469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.8649,26.7533,87.8649,26.7533",
+    "geom:latitude":26.7533,
+    "geom:longitude":87.8649,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30025.0",
+    "gn:asciiname":"Bisanetar",
+    "gn:country_code":"NP",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7952168,
+    "gn:latitude":26.7533,
+    "gn:longitude":87.8649,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bisanetar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7952168
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e79501f6f515aefd0122dadeac98f3c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1276165469,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1276165469,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1276165469,
+    "wof:lastmodified":1537002949,
+    "wof:name":"Bisanetar",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.8649,
+    26.7533,
+    87.8649,
+    26.7533
+],
+  "geometry": {"coordinates":[87.86490000000001,26.7533],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1243301725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.5931,27.61188,84.5931,27.61188",
+    "geom:latitude":27.61188,
+    "geom:longitude":84.5931,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"35.0",
+    "gn:admin4_code":"350021.0",
+    "gn:asciiname":"Simaltandi",
+    "gn:country_code":"NP",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7934632,
+    "gn:latitude":27.61188,
+    "gn:longitude":84.5931,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Simaltandi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092050101,
+        85675585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7934632
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"35e85e34607d0d50a5516c7e39892108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":1243301725,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":1243301725,
+            "region_id":85675585
+        }
+    ],
+    "wof:id":1243301725,
+    "wof:lastmodified":1537013417,
+    "wof:name":"Simaltandi",
+    "wof:parent_id":1092050101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.5931,
+    27.61188,
+    84.5931,
+    27.61188
+],
+  "geometry": {"coordinates":[84.59310000000001,27.61188],"type":"Point"}
+}

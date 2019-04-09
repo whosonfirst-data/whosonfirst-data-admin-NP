@@ -1,0 +1,78 @@
+{
+  "id": 1327058279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.64248,28.31531,82.64248,28.31531",
+    "geom:latitude":28.31531,
+    "geom:longitude":82.64248,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530031",
+    "gn:asciiname":"Dhanara",
+    "gn:country_code":"NP",
+    "gn:dem":1187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7983990,
+    "gn:latitude":28.31531,
+    "gn:longitude":82.64248,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhanara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7983990
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"402e98491c4f03f149a9e70529531e50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1327058279,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1327058279,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1327058279,
+    "wof:lastmodified":1536723555,
+    "wof:name":"Dhanara",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.64248,
+    28.31531,
+    82.64248,
+    28.31531
+],
+  "geometry": {"coordinates":[82.64248000000001,28.31531],"type":"Point"}
+}

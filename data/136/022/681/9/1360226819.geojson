@@ -1,0 +1,78 @@
+{
+  "id": 1360226819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.19107,27.18224,85.19107,27.18224",
+    "geom:latitude":27.18224,
+    "geom:longitude":85.19107,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"330068.0",
+    "gn:asciiname":"Sangamchok",
+    "gn:country_code":"NP",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009021,
+    "gn:latitude":27.18224,
+    "gn:longitude":85.19107,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sangamchok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092048051,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009021
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1004b158f8f902a4ce35dc2b01893833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1360226819,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1360226819,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1360226819,
+    "wof:lastmodified":1536741019,
+    "wof:name":"Sangamchok",
+    "wof:parent_id":1092048051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.19107,
+    27.18224,
+    85.19107,
+    27.18224
+],
+  "geometry": {"coordinates":[85.19107,27.18224],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343503209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.98323,26.51997,87.98323,26.51997",
+    "geom:latitude":26.51997,
+    "geom:longitude":87.98323,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40024.0",
+    "gn:asciiname":"Kanchansri Bajar",
+    "gn:country_code":"NP",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7954614,
+    "gn:latitude":26.51997,
+    "gn:longitude":87.98323,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kanchansri Bajar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7954614
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"53a67047d3bf4146dd56d21cd30b6aa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1343503209,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1343503209,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1343503209,
+    "wof:lastmodified":1536684510,
+    "wof:name":"Kanchansri Bajar",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.98323,
+    26.51997,
+    87.98323,
+    26.51997
+],
+  "geometry": {"coordinates":[87.98323000000001,26.51997],"type":"Point"}
+}

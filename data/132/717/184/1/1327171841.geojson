@@ -1,0 +1,78 @@
+{
+  "id": 1327171841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.64976,26.59235,87.64976,26.59235",
+    "geom:latitude":26.59235,
+    "geom:longitude":87.64976,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40033.0",
+    "gn:asciiname":"Balubathan Kalitol",
+    "gn:country_code":"NP",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7954879,
+    "gn:latitude":26.59235,
+    "gn:longitude":87.64976,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Balubathan Kalitol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7954879
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bbaa482c3616f5a7e42dabc67e1c6b79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1327171841,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1327171841,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1327171841,
+    "wof:lastmodified":1537054599,
+    "wof:name":"Balubathan Kalitol",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.64976,
+    26.59235,
+    87.64976,
+    26.59235
+],
+  "geometry": {"coordinates":[87.64976,26.59235],"type":"Point"}
+}

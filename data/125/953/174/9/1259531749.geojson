@@ -1,0 +1,78 @@
+{
+  "id": 1259531749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.24508,27.61806,84.24508,27.61806",
+    "geom:latitude":27.61806,
+    "geom:longitude":84.24508,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"35.0",
+    "gn:admin4_code":"350011.0",
+    "gn:asciiname":"Sisai",
+    "gn:country_code":"NP",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7934414,
+    "gn:latitude":27.61806,
+    "gn:longitude":84.24508,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sisai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092050101,
+        85675585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7934414
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c50b6794790a0734cdb1c2c77b605d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":1259531749,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":1259531749,
+            "region_id":85675585
+        }
+    ],
+    "wof:id":1259531749,
+    "wof:lastmodified":1536789913,
+    "wof:name":"Sisai",
+    "wof:parent_id":1092050101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.24508,
+    27.61806,
+    84.24508,
+    27.61806
+],
+  "geometry": {"coordinates":[84.24508,27.61806],"type":"Point"}
+}

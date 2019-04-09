@@ -1,0 +1,64 @@
+{
+  "id": 1209143465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.34952,27.99334,83.34952,27.99334",
+    "geom:latitude":27.99334,
+    "geom:longitude":83.34952,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"46.0",
+    "gn:admin4_code":"460040.0",
+    "gn:asciiname":"Chhap Gaun",
+    "gn:country_code":"NP",
+    "gn:dem":1227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7950255,
+    "gn:latitude":27.99334,
+    "gn:longitude":83.34952,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chhap Gaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7950255
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"db20bb2fb7c60ca1f6ccb06a8859cc9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209143465
+        }
+    ],
+    "wof:id":1209143465,
+    "wof:lastmodified":1536296430,
+    "wof:name":"Chhap Gaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.34952,
+    27.993340000000003,
+    83.34952,
+    27.993340000000003
+],
+  "geometry": {"coordinates":[83.34952,27.99334],"type":"Point"}
+}

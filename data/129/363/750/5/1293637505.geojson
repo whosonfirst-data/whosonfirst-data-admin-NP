@@ -1,0 +1,78 @@
+{
+  "id": 1293637505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.25258,27.27897,87.25258,27.27897",
+    "geom:latitude":27.27897,
+    "geom:longitude":87.25258,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"9",
+    "gn:admin4_code":"90014",
+    "gn:asciiname":"Suntalabari",
+    "gn:country_code":"NP",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7990179,
+    "gn:latitude":27.27897,
+    "gn:longitude":87.25258,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Suntalabari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049597,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7990179
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"18fc319def2db3432860d707716f3308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1293637505,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1293637505,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1293637505,
+    "wof:lastmodified":1537065208,
+    "wof:name":"Suntalabari",
+    "wof:parent_id":1092049597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.25258000000002,
+    27.27897,
+    87.25258000000002,
+    27.27897
+],
+  "geometry": {"coordinates":[87.25258000000002,27.27897],"type":"Point"}
+}

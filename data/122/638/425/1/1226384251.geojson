@@ -1,0 +1,78 @@
+{
+  "id": 1226384251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.11871,27.9555,83.11871,27.9555",
+    "geom:latitude":27.9555,
+    "geom:longitude":83.11871,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"51.0",
+    "gn:admin4_code":"510024.0",
+    "gn:asciiname":"Bhalukholagaun",
+    "gn:country_code":"NP",
+    "gn:dem":1068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7942477,
+    "gn:latitude":27.9555,
+    "gn:longitude":83.11871,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhalukholagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092049537,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7942477
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bfc8a7560a429e92becbb9c6f54fcaf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049537,
+            "locality_id":1226384251,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049537,
+            "locality_id":1226384251,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1226384251,
+    "wof:lastmodified":1536734255,
+    "wof:name":"Bhalukholagaun",
+    "wof:parent_id":1092049537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.11871,
+    27.9555,
+    83.11871,
+    27.9555
+],
+  "geometry": {"coordinates":[83.11870999999999,27.9555],"type":"Point"}
+}

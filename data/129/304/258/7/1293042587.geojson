@@ -1,0 +1,78 @@
+{
+  "id": 1293042587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.46866,28.13424,84.46866,28.13424",
+    "geom:latitude":28.13424,
+    "geom:longitude":84.46866,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370040",
+    "gn:asciiname":"Sathimurephant",
+    "gn:country_code":"NP",
+    "gn:dem":885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7966765,
+    "gn:latitude":28.13424,
+    "gn:longitude":84.46866,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sathimurephant",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050009,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7966765
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5117b9210eefc0df25675749373f1e72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1293042587,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1293042587,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293042587,
+    "wof:lastmodified":1536932258,
+    "wof:name":"Sathimurephant",
+    "wof:parent_id":1092050009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.46866,
+    28.13424,
+    84.46866,
+    28.13424
+],
+  "geometry": {"coordinates":[84.46866,28.13424],"type":"Point"}
+}

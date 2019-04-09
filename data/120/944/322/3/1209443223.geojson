@@ -1,0 +1,64 @@
+{
+  "id": 1209443223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.73791,29.73044,80.73791,29.73044",
+    "geom:latitude":29.73044,
+    "geom:longitude":80.73791,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"75.0",
+    "gn:admin4_code":"750027.0",
+    "gn:asciiname":"Chiurani",
+    "gn:country_code":"NP",
+    "gn:dem":965,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7940699,
+    "gn:latitude":29.73044,
+    "gn:longitude":80.73791,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chiurani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7940699
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5f0d8a39d7d938e6598ea1890449f40c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209443223
+        }
+    ],
+    "wof:id":1209443223,
+    "wof:lastmodified":1536286897,
+    "wof:name":"Chiurani",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.73791,
+    29.73044,
+    80.73791,
+    29.73044
+],
+  "geometry": {"coordinates":[80.73791,29.73044],"type":"Point"}
+}

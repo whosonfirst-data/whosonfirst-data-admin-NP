@@ -1,0 +1,78 @@
+{
+  "id": 1277015413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.94674,28.98269,82.94674,28.98269",
+    "geom:latitude":28.98269,
+    "geom:longitude":82.94674,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"62.0",
+    "gn:admin4_code":"620016.0",
+    "gn:asciiname":"Thulo Patan Khare",
+    "gn:country_code":"NP",
+    "gn:dem":4712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7945611,
+    "gn:latitude":28.98269,
+    "gn:longitude":82.94674,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thulo Patan Khare",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050349,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7945611
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6ab4a7cb1c1fee67fd04c7274c4cdd89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1277015413,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1277015413,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1277015413,
+    "wof:lastmodified":1536858189,
+    "wof:name":"Thulo Patan Khare",
+    "wof:parent_id":1092050349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.94674,
+    28.98269,
+    82.94674,
+    28.98269
+],
+  "geometry": {"coordinates":[82.94674000000001,28.98269],"type":"Point"}
+}

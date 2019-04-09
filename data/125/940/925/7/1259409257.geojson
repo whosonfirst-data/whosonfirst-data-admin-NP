@@ -1,0 +1,78 @@
+{
+  "id": 1259409257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.45631,28.78444,81.45631,28.78444",
+    "geom:latitude":28.78444,
+    "geom:longitude":81.45631,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590047.0",
+    "gn:asciiname":"Jharkhet",
+    "gn:country_code":"NP",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8000374,
+    "gn:latitude":28.78444,
+    "gn:longitude":81.45631,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jharkhet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8000374
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b4f03c7986a90e53902c68f682bcf289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1259409257,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1259409257,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1259409257,
+    "wof:lastmodified":1536965323,
+    "wof:name":"Jharkhet",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.45631,
+    28.78444,
+    81.45631,
+    28.78444
+],
+  "geometry": {"coordinates":[81.45631,28.78444],"type":"Point"}
+}

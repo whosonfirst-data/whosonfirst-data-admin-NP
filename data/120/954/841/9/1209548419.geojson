@@ -1,0 +1,64 @@
+{
+  "id": 1209548419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.396,29.19287,80.396,29.19287",
+    "geom:latitude":29.19287,
+    "geom:longitude":80.396,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"73.0",
+    "gn:admin4_code":"730021.0",
+    "gn:asciiname":"Ludunge",
+    "gn:country_code":"NP",
+    "gn:dem":1014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7936423,
+    "gn:latitude":29.19287,
+    "gn:longitude":80.396,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ludunge",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7936423
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"35b40eeba0d25e9fb5e2579af3c9a185",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209548419
+        }
+    ],
+    "wof:id":1209548419,
+    "wof:lastmodified":1536283770,
+    "wof:name":"Ludunge",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.396,
+    29.192870000000006,
+    80.396,
+    29.192870000000006
+],
+  "geometry": {"coordinates":[80.396,29.19287000000001],"type":"Point"}
+}

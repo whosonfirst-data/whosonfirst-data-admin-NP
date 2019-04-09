@@ -1,0 +1,64 @@
+{
+  "id": 1209054665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.67086,26.84188,87.67086,26.84188",
+    "geom:latitude":26.84188,
+    "geom:longitude":87.67086,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30002.0",
+    "gn:asciiname":"Sagphara",
+    "gn:country_code":"NP",
+    "gn:dem":1098,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7951419,
+    "gn:latitude":26.84188,
+    "gn:longitude":87.67086,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sagphara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7951419
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5f81b42ff7607a0d545b4a7ac2a9efbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209054665
+        }
+    ],
+    "wof:id":1209054665,
+    "wof:lastmodified":1536299144,
+    "wof:name":"Sagphara",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.67086,
+    26.84188,
+    87.67086,
+    26.84188
+],
+  "geometry": {"coordinates":[87.67086,26.84188],"type":"Point"}
+}

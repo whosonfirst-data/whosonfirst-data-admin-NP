@@ -1,0 +1,78 @@
+{
+  "id": 1326971753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.25687,28.11002,83.25687,28.11002",
+    "geom:latitude":28.11002,
+    "geom:longitude":83.25687,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"46.0",
+    "gn:admin4_code":"460007.0",
+    "gn:asciiname":"Kumal Gaun",
+    "gn:country_code":"NP",
+    "gn:dem":829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7949780,
+    "gn:latitude":28.11002,
+    "gn:longitude":83.25687,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kumal Gaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050755,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7949780
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"de103d8c5f8283ced7f8dc30f44838fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1326971753,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1326971753,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1326971753,
+    "wof:lastmodified":1536846805,
+    "wof:name":"Kumal Gaun",
+    "wof:parent_id":1092050755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.25686999999998,
+    28.11002,
+    83.25686999999998,
+    28.11002
+],
+  "geometry": {"coordinates":[83.25686999999998,28.11002],"type":"Point"}
+}

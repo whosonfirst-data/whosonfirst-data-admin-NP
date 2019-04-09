@@ -1,0 +1,81 @@
+{
+  "id": 1260197401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.39036,27.12287,85.39036,27.12287",
+    "geom:latitude":27.12287,
+    "geom:longitude":85.39036,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Juribela",
+    "gn:country_code":"NP",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283283,
+    "gn:latitude":27.12287,
+    "gn:longitude":85.39036,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Juribela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Ju\u1e0di\u0307\u0304bel\u0101"
+    ],
+    "name:nep_x_variant":[
+        "Ju\u1e0d\u012bbel\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049419,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283283
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"266e492c160af331d2bcb03cd81efff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1260197401,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1260197401,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1260197401,
+    "wof:lastmodified":1537676053,
+    "wof:name":"Juribela",
+    "wof:parent_id":1092049419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.39036,
+    27.12287,
+    85.39036,
+    27.12287
+],
+  "geometry": {"coordinates":[85.39036,27.12287],"type":"Point"}
+}

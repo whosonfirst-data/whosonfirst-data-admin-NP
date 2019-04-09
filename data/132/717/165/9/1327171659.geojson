@@ -1,0 +1,78 @@
+{
+  "id": 1327171659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.75275,28.1658,83.75275,28.1658",
+    "geom:latitude":28.1658,
+    "geom:longitude":83.75275,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"44",
+    "gn:admin4_code":"440027",
+    "gn:asciiname":"Basuwadanda",
+    "gn:country_code":"NP",
+    "gn:dem":1386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7978605,
+    "gn:latitude":28.1658,
+    "gn:longitude":83.75275,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Basuwadanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049297,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7978605
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a8f1121f3532eff77110b84707265ade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049297,
+            "locality_id":1327171659,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049297,
+            "locality_id":1327171659,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1327171659,
+    "wof:lastmodified":1537054833,
+    "wof:name":"Basuwadanda",
+    "wof:parent_id":1092049297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.75275,
+    28.1658,
+    83.75275,
+    28.1658
+],
+  "geometry": {"coordinates":[83.75275000000001,28.1658],"type":"Point"}
+}

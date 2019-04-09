@@ -1,0 +1,75 @@
+{
+  "id": 1209725341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.75101,29.60693,80.75101,29.60693",
+    "geom:latitude":29.60693,
+    "geom:longitude":80.75101,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dhung",
+    "gn:country_code":"NP",
+    "gn:dem":1604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283445,
+    "gn:latitude":29.60693,
+    "gn:longitude":80.75101,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Dhung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050255,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283445
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"19c0f94b56b6bdb0f050438596c772d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1209725341,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1209725341,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1209725341,
+    "wof:lastmodified":1536384324,
+    "wof:name":"Dhung",
+    "wof:parent_id":1092050255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.75101,
+    29.60693,
+    80.75101,
+    29.60693
+],
+  "geometry": {"coordinates":[80.75100999999999,29.60693],"type":"Point"}
+}

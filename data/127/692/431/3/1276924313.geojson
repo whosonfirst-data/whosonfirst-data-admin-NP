@@ -1,0 +1,78 @@
+{
+  "id": 1276924313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.61513,27.62923,84.61513,27.62923",
+    "geom:latitude":27.62923,
+    "geom:longitude":84.61513,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"35.0",
+    "gn:admin4_code":"350006.0",
+    "gn:asciiname":"Parbatbasti",
+    "gn:country_code":"NP",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7934245,
+    "gn:latitude":27.62923,
+    "gn:longitude":84.61513,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Parbatbasti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092050101,
+        85675585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7934245
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"660161806f0d50299b7aa9463a2c2296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":1276924313,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":1276924313,
+            "region_id":85675585
+        }
+    ],
+    "wof:id":1276924313,
+    "wof:lastmodified":1536981085,
+    "wof:name":"Parbatbasti",
+    "wof:parent_id":1092050101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.61513000000002,
+    27.62923,
+    84.61513000000002,
+    27.62923
+],
+  "geometry": {"coordinates":[84.61513000000002,27.62923],"type":"Point"}
+}

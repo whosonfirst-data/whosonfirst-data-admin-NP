@@ -1,0 +1,63 @@
+{
+  "id": 1209543823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.51418,28.90072,81.51418,28.90072",
+    "geom:latitude":28.90072,
+    "geom:longitude":81.51418,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:asciiname":"Lyati Bindraseni",
+    "gn:country_code":"NP",
+    "gn:dem":1225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8436555,
+    "gn:latitude":28.90072,
+    "gn:longitude":81.51418,
+    "gn:modification_date":"2013-01-02",
+    "gn:name":"Lyati Bindraseni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8436555,
+        "wk:page":"Lyati_Bindraseni"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2fb666c56010108e544949b934848753",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209543823
+        }
+    ],
+    "wof:id":1209543823,
+    "wof:lastmodified":1537570158,
+    "wof:name":"Lyati Bindraseni",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.51418000000002,
+    28.90072,
+    81.51418000000002,
+    28.90072
+],
+  "geometry": {"coordinates":[81.51418000000002,28.90072],"type":"Point"}
+}

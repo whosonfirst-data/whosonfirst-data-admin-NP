@@ -1,0 +1,78 @@
+{
+  "id": 1343498869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.7507,27.19851,86.7507,27.19851",
+    "geom:latitude":27.19851,
+    "geom:longitude":86.7507,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"13.0",
+    "gn:admin4_code":"130012.0",
+    "gn:asciiname":"Rambani",
+    "gn:country_code":"NP",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7964192,
+    "gn:latitude":27.19851,
+    "gn:longitude":86.7507,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Rambani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050841,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7964192
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"243a2009ff199ed1c81db358ab3cc677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1343498869,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1343498869,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1343498869,
+    "wof:lastmodified":1536690793,
+    "wof:name":"Rambani",
+    "wof:parent_id":1092050841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.7507,
+    27.19851,
+    86.7507,
+    27.19851
+],
+  "geometry": {"coordinates":[86.75069999999999,27.19851],"type":"Point"}
+}

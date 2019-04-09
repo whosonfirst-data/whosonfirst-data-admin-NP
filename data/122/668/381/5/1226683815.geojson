@@ -1,0 +1,79 @@
+{
+  "id": 1226683815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.22719,27.86177,84.22719,27.86177",
+    "geom:latitude":27.86177,
+    "geom:longitude":84.22719,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380010.0",
+    "gn:asciiname":"Bhirkot",
+    "gn:country_code":"NP",
+    "gn:dem":840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003065,
+    "gn:latitude":27.86177,
+    "gn:longitude":84.22719,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhirkot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003065,
+        "wk:page":"Bhirkot%2C_Tanahu"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7ffb97c5d3dcdf4c223f1c6d8fac827c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1226683815,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1226683815,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1226683815,
+    "wof:lastmodified":1537570157,
+    "wof:name":"Bhirkot",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.22719000000002,
+    27.86177,
+    84.22719000000002,
+    27.86177
+],
+  "geometry": {"coordinates":[84.22719000000002,27.86177],"type":"Point"}
+}

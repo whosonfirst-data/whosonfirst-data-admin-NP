@@ -1,0 +1,78 @@
+{
+  "id": 1293731841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.11835,28.0417,83.11835,28.0417",
+    "geom:latitude":28.0417,
+    "geom:longitude":83.11835,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"51.0",
+    "gn:admin4_code":"510006.0",
+    "gn:asciiname":"Ghoptegaida",
+    "gn:country_code":"NP",
+    "gn:dem":1621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7939106,
+    "gn:latitude":28.0417,
+    "gn:longitude":83.11835,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ghoptegaida",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092049537,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7939106
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"beafcaecc5c6518d63f1e586b8c40297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049537,
+            "locality_id":1293731841,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049537,
+            "locality_id":1293731841,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1293731841,
+    "wof:lastmodified":1536932734,
+    "wof:name":"Ghoptegaida",
+    "wof:parent_id":1092049537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.11835,
+    28.0417,
+    83.11835,
+    28.0417
+],
+  "geometry": {"coordinates":[83.11835000000001,28.0417],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1193225955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.29191,28.14032,83.29191,28.14032",
+    "geom:latitude":28.14032,
+    "geom:longitude":83.29191,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"46.0",
+    "gn:admin4_code":"460011.0",
+    "gn:asciiname":"Badagaun",
+    "gn:country_code":"NP",
+    "gn:dem":1221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7949829,
+    "gn:latitude":28.14032,
+    "gn:longitude":83.29191,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Badagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050755,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7949829
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"67f7d8836c71db419aa6788d72a00c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1193225955,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1193225955,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1193225955,
+    "wof:lastmodified":1536370508,
+    "wof:name":"Badagaun",
+    "wof:parent_id":1092050755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.29191,
+    28.14032000000001,
+    83.29191,
+    28.14032000000001
+],
+  "geometry": {"coordinates":[83.29191,28.14032000000001],"type":"Point"}
+}

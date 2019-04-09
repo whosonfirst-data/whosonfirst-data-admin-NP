@@ -1,0 +1,78 @@
+{
+  "id": 1343303705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.3406,27.82782,84.3406,27.82782",
+    "geom:latitude":27.82782,
+    "geom:longitude":84.3406,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380003.0",
+    "gn:asciiname":"Dihi",
+    "gn:country_code":"NP",
+    "gn:dem":1158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002750,
+    "gn:latitude":27.82782,
+    "gn:longitude":84.3406,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dihi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002750
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9329827038f638894de9e9acad93991d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1343303705,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1343303705,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1343303705,
+    "wof:lastmodified":1536972075,
+    "wof:name":"Dihi",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.3406,
+    27.82782000000001,
+    84.3406,
+    27.82782000000001
+],
+  "geometry": {"coordinates":[84.34059999999999,27.82782000000001],"type":"Point"}
+}

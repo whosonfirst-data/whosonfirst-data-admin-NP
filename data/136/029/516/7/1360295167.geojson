@@ -1,0 +1,79 @@
+{
+  "id": 1360295167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.38353,28.26076,81.38353,28.26076",
+    "geom:latitude":28.26076,
+    "geom:longitude":81.38353,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Belbhar",
+    "gn:country_code":"NP",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283641,
+    "gn:latitude":28.26076,
+    "gn:longitude":81.38353,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Belbh\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bilbh\u0101r\u012b",
+        "Belbh\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048097,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283641
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"23306b0e0c925e86b9a425486f881c07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1360295167,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1360295167,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1360295167,
+    "wof:lastmodified":1537676062,
+    "wof:name":"Belbhar",
+    "wof:parent_id":1092048097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.38353000000002,
+    28.26076,
+    81.38353000000002,
+    28.26076
+],
+  "geometry": {"coordinates":[81.38353000000002,28.26076],"type":"Point"}
+}

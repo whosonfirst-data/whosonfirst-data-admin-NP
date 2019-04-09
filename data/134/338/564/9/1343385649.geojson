@@ -1,0 +1,78 @@
+{
+  "id": 1343385649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.29925,28.15191,82.29925,28.15191",
+    "geom:latitude":28.15191,
+    "geom:longitude":82.29925,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"560040.0",
+    "gn:asciiname":"Chulise",
+    "gn:country_code":"NP",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7940041,
+    "gn:latitude":28.15191,
+    "gn:longitude":82.29925,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chulise",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048605,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7940041
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"28fa877067b9922d7572bdcdc1a171c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1343385649,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1343385649,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1343385649,
+    "wof:lastmodified":1536853178,
+    "wof:name":"Chulise",
+    "wof:parent_id":1092048605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.29925,
+    28.15191,
+    82.29925,
+    28.15191
+],
+  "geometry": {"coordinates":[82.29925,28.15191],"type":"Point"}
+}

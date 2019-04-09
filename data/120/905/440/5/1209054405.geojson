@@ -1,0 +1,64 @@
+{
+  "id": 1209054405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.12862,27.92328,84.12862,27.92328",
+    "geom:latitude":27.92328,
+    "geom:longitude":84.12862,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380038.0",
+    "gn:asciiname":"Surpa",
+    "gn:country_code":"NP",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8004409,
+    "gn:latitude":27.92328,
+    "gn:longitude":84.12862,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Surpa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8004409
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2a8695a77610fc00fe159d15efb99392",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209054405
+        }
+    ],
+    "wof:id":1209054405,
+    "wof:lastmodified":1536299150,
+    "wof:name":"Surpa",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.12862,
+    27.92328,
+    84.12862,
+    27.92328
+],
+  "geometry": {"coordinates":[84.12862,27.92328],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209342765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.92877,29.3803,80.92877,29.3803",
+    "geom:latitude":29.3803,
+    "geom:longitude":80.92877,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"70.0",
+    "gn:admin4_code":"700007.0",
+    "gn:asciiname":"Kauradi",
+    "gn:country_code":"NP",
+    "gn:dem":1683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7946120,
+    "gn:latitude":29.3803,
+    "gn:longitude":80.92877,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kauradi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7946120
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f525856cc3186adfe75bda77c6aca2a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209342765
+        }
+    ],
+    "wof:id":1209342765,
+    "wof:lastmodified":1536290011,
+    "wof:name":"Kauradi",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.92877,
+    29.3803,
+    80.92877,
+    29.3803
+],
+  "geometry": {"coordinates":[80.92877,29.3803],"type":"Point"}
+}

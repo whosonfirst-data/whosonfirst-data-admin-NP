@@ -1,0 +1,78 @@
+{
+  "id": 1309947807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.37457,27.36075,87.37457,27.36075",
+    "geom:latitude":27.36075,
+    "geom:longitude":87.37457,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"9",
+    "gn:admin4_code":"90011",
+    "gn:asciiname":"Yangsijung",
+    "gn:country_code":"NP",
+    "gn:dem":1350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7990043,
+    "gn:latitude":27.36075,
+    "gn:longitude":87.37457,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Yangsijung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049597,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7990043
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e820ac8f0efcc3924606c3a84df3be49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1309947807,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1309947807,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1309947807,
+    "wof:lastmodified":1536726886,
+    "wof:name":"Yangsijung",
+    "wof:parent_id":1092049597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.37456999999998,
+    27.36075,
+    87.37456999999998,
+    27.36075
+],
+  "geometry": {"coordinates":[87.37456999999998,27.36075],"type":"Point"}
+}

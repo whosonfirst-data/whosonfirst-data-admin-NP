@@ -1,0 +1,78 @@
+{
+  "id": 1326567963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.88596,27.53114,84.88596,27.53114",
+    "geom:latitude":27.53114,
+    "geom:longitude":84.88596,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310038",
+    "gn:asciiname":"Kalidhap",
+    "gn:country_code":"NP",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7969096,
+    "gn:latitude":27.53114,
+    "gn:longitude":84.88596,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kalidhap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7969096
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6817d809f2a0aaf4f9711c445277550d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1326567963,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1326567963,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1326567963,
+    "wof:lastmodified":1536933218,
+    "wof:name":"Kalidhap",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.88596,
+    27.53114,
+    84.88596,
+    27.53114
+],
+  "geometry": {"coordinates":[84.88596,27.53114],"type":"Point"}
+}

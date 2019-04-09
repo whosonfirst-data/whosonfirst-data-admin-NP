@@ -1,0 +1,78 @@
+{
+  "id": 1242910955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.34967,27.35644,83.34967,27.35644",
+    "geom:latitude":27.35644,
+    "geom:longitude":83.34967,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"49",
+    "gn:admin4_code":"490055",
+    "gn:asciiname":"Sonbarsa",
+    "gn:country_code":"NP",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7987576,
+    "gn:latitude":27.35644,
+    "gn:longitude":83.34967,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sonbarsa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048457,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7987576
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"079fa98bad6e0c4fe02cdc9283d2b075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1242910955,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1242910955,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1242910955,
+    "wof:lastmodified":1537077337,
+    "wof:name":"Sonbarsa",
+    "wof:parent_id":1092048457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.34966999999997,
+    27.35644000000001,
+    83.34966999999997,
+    27.35644000000001
+],
+  "geometry": {"coordinates":[83.34966999999997,27.35644000000001],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310433641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.49583,29.43567,80.49583,29.43567",
+    "geom:latitude":29.43567,
+    "geom:longitude":80.49583,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740048",
+    "gn:asciiname":"Batulasau",
+    "gn:country_code":"NP",
+    "gn:dem":1179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7979926,
+    "gn:latitude":29.43567,
+    "gn:longitude":80.49583,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Batulasau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050255,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7979926
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8f7e643e036d4916396f9fb6092ce8b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1310433641,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1310433641,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1310433641,
+    "wof:lastmodified":1537019868,
+    "wof:name":"Batulasau",
+    "wof:parent_id":1092050255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.49583,
+    29.43567,
+    80.49583,
+    29.43567
+],
+  "geometry": {"coordinates":[80.49583,29.43567],"type":"Point"}
+}

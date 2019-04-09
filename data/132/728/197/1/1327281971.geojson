@@ -1,0 +1,78 @@
+{
+  "id": 1327281971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.10376,28.18042,84.10376,28.18042",
+    "geom:latitude":28.18042,
+    "geom:longitude":84.10376,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400022.0",
+    "gn:asciiname":"Ghatok Pakho Ban",
+    "gn:country_code":"NP",
+    "gn:dem":716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7961001,
+    "gn:latitude":28.18042,
+    "gn:longitude":84.10376,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ghatok Pakho Ban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092049331,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7961001
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"87faa7c617f553325aa9f6ac93411de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1327281971,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1327281971,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1327281971,
+    "wof:lastmodified":1536898043,
+    "wof:name":"Ghatok Pakho Ban",
+    "wof:parent_id":1092049331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.10376,
+    28.18042,
+    84.10376,
+    28.18042
+],
+  "geometry": {"coordinates":[84.10375999999999,28.18042],"type":"Point"}
+}

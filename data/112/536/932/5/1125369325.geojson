@@ -1,0 +1,102 @@
+{
+  "id": 1125369325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.16667,26.66667,87.16667,26.66667",
+    "geom:latitude":26.66667,
+    "geom:longitude":87.16667,
+    "gn:gn_country":"NP",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":690454,
+    "iso:country":"NP",
+    "lbl:latitude":26.66667,
+    "lbl:longitude":87.16667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NP",
+    "qs_pg:gn_country":"NP",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1282744,
+    "qs_pg:gn_pop":690454,
+    "qs_pg:name":"Sunsari",
+    "qs_pg:name_adm0":"Nepal",
+    "qs_pg:name_adm1":"Purwanchal",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":66,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":11,
+    "qs_pg:qs_id":968910,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424911,
+    "qs_pg:woe_id":23706746,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"quattroshapes_pg",
+    "woe:adm0_id":23424911,
+    "woe:name_adm0":"Nepal",
+    "woe:name_adm1":"Purwanchal",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049923,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282744,
+        "gp:id":23706746,
+        "qs:id":968910,
+        "qs_pg:id":968910
+    },
+    "wof:country":"NP",
+    "wof:created":1497047285,
+    "wof:geomhash":"d3c46ea3d2c8c50f796477e609e0b223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "localadmin_id":1125369325,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "localadmin_id":1125369325,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1125369325,
+    "wof:lastmodified":1534379388,
+    "wof:name":"Sunsari",
+    "wof:parent_id":1092049923,
+    "wof:placetype":"localadmin",
+    "wof:population":690454,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421183209
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.16667,
+    26.66667,
+    87.16667,
+    26.66667
+],
+  "geometry": {"coordinates":[87.16667,26.66667],"type":"Point"}
+}

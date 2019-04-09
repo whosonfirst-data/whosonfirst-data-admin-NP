@@ -1,0 +1,92 @@
+{
+  "id": 421187765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.34937,27.71795,85.34937,27.71795",
+    "geom:latitude":27.71795,
+    "geom:longitude":85.34937,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:nep_x_preferred":[
+        "\u091a\u093e\u092c\u0939\u093f\u0932"
+    ],
+    "name:spa_x_preferred":[
+        "Chabahil"
+    ],
+    "qs:gn_country":"NP",
+    "qs:gn_fcode":"PPLL",
+    "qs:gn_id":7962265,
+    "qs:gn_pop":0,
+    "qs:name":"Chabahil",
+    "qs:name_adm0":"Nepal",
+    "qs:name_adm1":"Madhyamanchal",
+    "qs:photos":1456,
+    "qs:photos_1k":295,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1456,
+    "qs:photos_sr":12,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1085990,
+    "qs:woe_adm0":23424911,
+    "qs:woe_id":22662747,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":259,
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092048931,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7962265,
+        "gp:id":22662747,
+        "qs:id":1085990,
+        "wd:id":"Q5065997"
+    },
+    "wof:country":"NP",
+    "wof:created":1459009523,
+    "wof:geomhash":"bb4b1fbae195ecf937ac3f1e2cdc9283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":421187765,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":421187765,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":421187765,
+    "wof:lastmodified":1527716244,
+    "wof:name":"Chabahil",
+    "wof:parent_id":1092048931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.34937,
+    27.71795,
+    85.34937,
+    27.71795
+],
+  "geometry": {"coordinates":[85.34936999999999,27.71795],"type":"Point"}
+}

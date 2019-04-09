@@ -1,0 +1,78 @@
+{
+  "id": 1276165075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.64503,28.01599,84.64503,28.01599",
+    "geom:latitude":28.01599,
+    "geom:longitude":84.64503,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360021.0",
+    "gn:asciiname":"Thapathok",
+    "gn:country_code":"NP",
+    "gn:dem":1311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7948386,
+    "gn:latitude":28.01599,
+    "gn:longitude":84.64503,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thapathok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7948386
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9faf9b06317c7f808e6945061631f9d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1276165075,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1276165075,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1276165075,
+    "wof:lastmodified":1537003425,
+    "wof:name":"Thapathok",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.64503,
+    28.01599,
+    84.64503,
+    28.01599
+],
+  "geometry": {"coordinates":[84.64503000000001,28.01599],"type":"Point"}
+}

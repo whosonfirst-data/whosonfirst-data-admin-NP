@@ -1,0 +1,64 @@
+{
+  "id": 1209032957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.35119,28.38597,82.35119,28.38597",
+    "geom:latitude":28.38597,
+    "geom:longitude":82.35119,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550008",
+    "gn:asciiname":"Darda",
+    "gn:country_code":"NP",
+    "gn:dem":1880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7988117,
+    "gn:latitude":28.38597,
+    "gn:longitude":82.35119,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Darda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7988117
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7aaf302283c0f4a00b13a127161186c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209032957
+        }
+    ],
+    "wof:id":1209032957,
+    "wof:lastmodified":1536299791,
+    "wof:name":"Darda",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.35119,
+    28.38597,
+    82.35119,
+    28.38597
+],
+  "geometry": {"coordinates":[82.35119,28.38597],"type":"Point"}
+}

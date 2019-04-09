@@ -1,0 +1,78 @@
+{
+  "id": 1225982039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.79278,28.15678,83.79278,28.15678",
+    "geom:latitude":28.15678,
+    "geom:longitude":83.79278,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390015.0",
+    "gn:asciiname":"Betehani",
+    "gn:country_code":"NP",
+    "gn:dem":1178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8000893,
+    "gn:latitude":28.15678,
+    "gn:longitude":83.79278,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Betehani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8000893
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2ea787416a8ef22debe6bf79e8111f40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1225982039,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1225982039,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1225982039,
+    "wof:lastmodified":1536816045,
+    "wof:name":"Betehani",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.79278000000002,
+    28.15678,
+    83.79278000000002,
+    28.15678
+],
+  "geometry": {"coordinates":[83.79278000000002,28.15678],"type":"Point"}
+}

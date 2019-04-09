@@ -1,0 +1,78 @@
+{
+  "id": 1242715701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.50204,28.04168,84.50204,28.04168",
+    "geom:latitude":28.04168,
+    "geom:longitude":84.50204,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360047.0",
+    "gn:asciiname":"Chhapthok",
+    "gn:country_code":"NP",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7949100,
+    "gn:latitude":28.04168,
+    "gn:longitude":84.50204,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chhapthok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7949100
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f5674aff70cd8f49bc1c55bf8c47091a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1242715701,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1242715701,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1242715701,
+    "wof:lastmodified":1536863434,
+    "wof:name":"Chhapthok",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.50204000000002,
+    28.04168,
+    84.50204000000002,
+    28.04168
+],
+  "geometry": {"coordinates":[84.50204000000002,28.04168],"type":"Point"}
+}

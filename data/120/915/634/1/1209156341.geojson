@@ -1,0 +1,64 @@
+{
+  "id": 1209156341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.03413,27.37868,87.03413,27.37868",
+    "geom:latitude":27.37868,
+    "geom:longitude":87.03413,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100037.0",
+    "gn:asciiname":"Jhumagadhi",
+    "gn:country_code":"NP",
+    "gn:dem":1402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933446,
+    "gn:latitude":27.37868,
+    "gn:longitude":87.03413,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jhumagadhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933446
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4ce17aa8dae0fe7ec3cda8f36bb2a5d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209156341
+        }
+    ],
+    "wof:id":1209156341,
+    "wof:lastmodified":1536296044,
+    "wof:name":"Jhumagadhi",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.03413,
+    27.37868,
+    87.03413,
+    27.37868
+],
+  "geometry": {"coordinates":[87.03413,27.37868],"type":"Point"}
+}

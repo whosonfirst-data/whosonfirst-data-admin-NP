@@ -1,0 +1,78 @@
+{
+  "id": 1310237799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.76707,28.65926,80.76707,28.65926",
+    "geom:latitude":28.65926,
+    "geom:longitude":80.76707,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710013.0",
+    "gn:asciiname":"Gadariya",
+    "gn:country_code":"NP",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956541,
+    "gn:latitude":28.65926,
+    "gn:longitude":80.76707,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gadariya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956541
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"89067533e18e888c055b1193010b6ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1310237799,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1310237799,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1310237799,
+    "wof:lastmodified":1536805482,
+    "wof:name":"Gadariya",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.76706999999998,
+    28.65926,
+    80.76706999999998,
+    28.65926
+],
+  "geometry": {"coordinates":[80.76706999999998,28.65926],"type":"Point"}
+}

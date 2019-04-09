@@ -1,0 +1,81 @@
+{
+  "id": 1326539715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.1901,27.56786,84.1901,27.56786",
+    "geom:latitude":27.56786,
+    "geom:longitude":84.1901,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Androli",
+    "gn:country_code":"NP",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283733,
+    "gn:latitude":27.56786,
+    "gn:longitude":84.1901,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Androli\u0307\u0304",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Androli\u0307\u0304"
+    ],
+    "name:und_x_variant":[
+        "Andr\u0101uli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092050101,
+        85675585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283733
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7a51a19fac36b766f376ba759c25aa59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":1326539715,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":1326539715,
+            "region_id":85675585
+        }
+    ],
+    "wof:id":1326539715,
+    "wof:lastmodified":1537676065,
+    "wof:name":"Androli",
+    "wof:parent_id":1092050101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.1901,
+    27.56786,
+    84.1901,
+    27.56786
+],
+  "geometry": {"coordinates":[84.1901,27.56786],"type":"Point"}
+}

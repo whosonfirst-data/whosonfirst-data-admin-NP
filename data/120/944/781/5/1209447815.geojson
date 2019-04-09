@@ -1,0 +1,64 @@
+{
+  "id": 1209447815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.59457,28.15086,81.59457,28.15086",
+    "geom:latitude":28.15086,
+    "geom:longitude":81.59457,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"570040.0",
+    "gn:asciiname":"Thakurpur",
+    "gn:country_code":"NP",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008496,
+    "gn:latitude":28.15086,
+    "gn:longitude":81.59457,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thakurpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008496
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ad7a71a4b9520c9ee509b25f04f2dad9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209447815
+        }
+    ],
+    "wof:id":1209447815,
+    "wof:lastmodified":1536286762,
+    "wof:name":"Thakurpur",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.59456999999998,
+    28.15086,
+    81.59456999999998,
+    28.15086
+],
+  "geometry": {"coordinates":[81.59456999999998,28.15086],"type":"Point"}
+}

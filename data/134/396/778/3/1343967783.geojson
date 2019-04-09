@@ -1,0 +1,78 @@
+{
+  "id": 1343967783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.04358,28.49,85.04358,28.49",
+    "geom:latitude":28.49,
+    "geom:longitude":85.04358,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chhokun",
+    "gn:country_code":"NP",
+    "gn:dem":3042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10317835,
+    "gn:latitude":28.49,
+    "gn:longitude":85.04358,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Chhoku\u1e45",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Chhoku\u1e45"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10317835
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7b303102dcdc991c5eeded8d2000e256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1343967783,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1343967783,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1343967783,
+    "wof:lastmodified":1537676081,
+    "wof:name":"Chhokun",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.04358,
+    28.49,
+    85.04358,
+    28.49
+],
+  "geometry": {"coordinates":[85.04358000000001,28.49],"type":"Point"}
+}

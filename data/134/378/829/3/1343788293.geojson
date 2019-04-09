@@ -1,0 +1,78 @@
+{
+  "id": 1343788293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.70447,28.35962,82.70447,28.35962",
+    "geom:latitude":28.35962,
+    "geom:longitude":82.70447,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530012",
+    "gn:asciiname":"Ghaukhani",
+    "gn:country_code":"NP",
+    "gn:dem":2431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7983366,
+    "gn:latitude":28.35962,
+    "gn:longitude":82.70447,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ghaukhani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7983366
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5abda2edfa2b2d87b3892d0565732d90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1343788293,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1343788293,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1343788293,
+    "wof:lastmodified":1536771482,
+    "wof:name":"Ghaukhani",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.70447,
+    28.35962,
+    82.70447,
+    28.35962
+],
+  "geometry": {"coordinates":[82.70447,28.35962],"type":"Point"}
+}

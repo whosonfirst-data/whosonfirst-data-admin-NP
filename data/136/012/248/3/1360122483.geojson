@@ -1,0 +1,83 @@
+{
+  "id": 1360122483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.62745,27.6566,85.62745,27.6566",
+    "geom:latitude":27.6566,
+    "geom:longitude":85.62745,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Pachkhal",
+    "gn:country_code":"NP",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282948,
+    "gn:latitude":27.6566,
+    "gn:longitude":85.62745,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"P\u0101\u0303chkh\u0101l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "P\u0101\u0303chkh\u0101l"
+    ],
+    "name:und_x_variant":[
+        "Panchkhal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282948,
+        "wk:page":"Panchkhal"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d4e6881cd4863a0d4bf6eb54e015a0a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1360122483,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1360122483,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1360122483,
+    "wof:lastmodified":1537676045,
+    "wof:name":"Pachkhal",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.62745,
+    27.6566,
+    85.62745,
+    27.6566
+],
+  "geometry": {"coordinates":[85.62745,27.6566],"type":"Point"}
+}

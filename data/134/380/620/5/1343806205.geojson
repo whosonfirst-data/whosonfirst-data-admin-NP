@@ -1,0 +1,78 @@
+{
+  "id": 1343806205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.96649,27.29413,85.96649,27.29413",
+    "geom:latitude":27.29413,
+    "geom:longitude":85.96649,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200019",
+    "gn:asciiname":"Mulbato Nigale",
+    "gn:country_code":"NP",
+    "gn:dem":1022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7992823,
+    "gn:latitude":27.29413,
+    "gn:longitude":85.96649,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mulbato Nigale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049679,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7992823
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f24f2968c8d5cdfb4fa2a3d092e407e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1343806205,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1343806205,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1343806205,
+    "wof:lastmodified":1536744715,
+    "wof:name":"Mulbato Nigale",
+    "wof:parent_id":1092049679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.96649000000002,
+    27.29413,
+    85.96649000000002,
+    27.29413
+],
+  "geometry": {"coordinates":[85.96649000000002,27.29413],"type":"Point"}
+}

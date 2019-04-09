@@ -1,0 +1,64 @@
+{
+  "id": 1209563157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.28061,28.16122,84.28061,28.16122",
+    "geom:latitude":28.16122,
+    "geom:longitude":84.28061,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370005",
+    "gn:asciiname":"Bangre",
+    "gn:country_code":"NP",
+    "gn:dem":1038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7965952,
+    "gn:latitude":28.16122,
+    "gn:longitude":84.28061,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bangre",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7965952
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ff9b82645a60a8571732cdfb27108b29",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209563157
+        }
+    ],
+    "wof:id":1209563157,
+    "wof:lastmodified":1536283324,
+    "wof:name":"Bangre",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.28061,
+    28.16122,
+    84.28061,
+    28.16122
+],
+  "geometry": {"coordinates":[84.28061,28.16122],"type":"Point"}
+}

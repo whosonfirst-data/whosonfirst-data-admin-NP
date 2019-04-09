@@ -1,0 +1,78 @@
+{
+  "id": 1243105283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.85677,27.50443,85.85677,27.50443",
+    "geom:latitude":27.50443,
+    "geom:longitude":85.85677,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"21",
+    "gn:admin4_code":"210024",
+    "gn:asciiname":"Kaphale",
+    "gn:country_code":"NP",
+    "gn:dem":1534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7981421,
+    "gn:latitude":27.50443,
+    "gn:longitude":85.85677,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kaphale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049711,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7981421
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a9f4c28d17cb0023a3ff7326e9f31deb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1243105283,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1243105283,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1243105283,
+    "wof:lastmodified":1536800262,
+    "wof:name":"Kaphale",
+    "wof:parent_id":1092049711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.85677,
+    27.50443,
+    85.85677,
+    27.50443
+],
+  "geometry": {"coordinates":[85.85677,27.50443],"type":"Point"}
+}

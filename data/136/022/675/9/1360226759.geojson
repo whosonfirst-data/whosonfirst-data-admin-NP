@@ -1,0 +1,78 @@
+{
+  "id": 1360226759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.6927,27.06813,84.6927,27.06813",
+    "geom:latitude":27.06813,
+    "geom:longitude":84.6927,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"34",
+    "gn:admin4_code":"340025",
+    "gn:asciiname":"Jagarnathpur",
+    "gn:country_code":"NP",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7979336,
+    "gn:latitude":27.06813,
+    "gn:longitude":84.6927,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jagarnathpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092050453,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7979336
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f0c280b1cb61bc552ce754aebf3eb9d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050453,
+            "locality_id":1360226759,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050453,
+            "locality_id":1360226759,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1360226759,
+    "wof:lastmodified":1536741099,
+    "wof:name":"Jagarnathpur",
+    "wof:parent_id":1092050453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.6927,
+    27.06813,
+    84.6927,
+    27.06813
+],
+  "geometry": {"coordinates":[84.6927,27.06813],"type":"Point"}
+}

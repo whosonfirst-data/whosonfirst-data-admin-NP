@@ -1,0 +1,66 @@
+{
+  "id": 1209456851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.67229,27.35709,87.67229,27.35709",
+    "geom:latitude":27.35709,
+    "geom:longitude":87.67229,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:asciiname":"Taplejung",
+    "gn:country_code":"NP",
+    "gn:dem":1788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282712,
+    "gn:latitude":27.35709,
+    "gn:longitude":87.67229,
+    "gn:modification_date":"2017-07-08",
+    "gn:name":"T\u0101plejung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u0101plejung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282712,
+        "wk:page":"Taplejung"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2f307d414301ae4b19d4b2e4f1e79a50",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209456851
+        }
+    ],
+    "wof:id":1209456851,
+    "wof:lastmodified":1537676039,
+    "wof:name":"Taplejung",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.67229,
+    27.35709,
+    87.67229,
+    27.35709
+],
+  "geometry": {"coordinates":[87.67229,27.35709],"type":"Point"}
+}

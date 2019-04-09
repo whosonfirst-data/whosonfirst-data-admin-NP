@@ -1,0 +1,78 @@
+{
+  "id": 1309947833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.99845,27.27236,87.99845,27.27236",
+    "geom:latitude":27.27236,
+    "geom:longitude":87.99845,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"2",
+    "gn:admin4_code":"20008",
+    "gn:asciiname":"Yakling",
+    "gn:country_code":"NP",
+    "gn:dem":2443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7977275,
+    "gn:latitude":27.27236,
+    "gn:longitude":87.99845,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Yakling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7977275
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ac2cec3179d66929fecb12bc7c317514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1309947833,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1309947833,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1309947833,
+    "wof:lastmodified":1536726853,
+    "wof:name":"Yakling",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.99845,
+    27.27236,
+    87.99845,
+    27.27236
+],
+  "geometry": {"coordinates":[87.99845000000001,27.27236],"type":"Point"}
+}

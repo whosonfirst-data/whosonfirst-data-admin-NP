@@ -1,0 +1,78 @@
+{
+  "id": 1243120397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.44908,26.51579,87.44908,26.51579",
+    "geom:latitude":26.51579,
+    "geom:longitude":87.44908,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"5",
+    "gn:admin4_code":"50004",
+    "gn:asciiname":"Laksmipur",
+    "gn:country_code":"NP",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7969664,
+    "gn:latitude":26.51579,
+    "gn:longitude":87.44908,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Laksmipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092048303,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7969664
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b71a300facbc1e25a65ff00cf5c69b34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1243120397,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1243120397,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1243120397,
+    "wof:lastmodified":1536779227,
+    "wof:name":"Laksmipur",
+    "wof:parent_id":1092048303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.44908000000002,
+    26.51579000000001,
+    87.44908000000002,
+    26.51579000000001
+],
+  "geometry": {"coordinates":[87.44908000000002,26.51579000000001],"type":"Point"}
+}

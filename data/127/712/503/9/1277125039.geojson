@@ -1,0 +1,78 @@
+{
+  "id": 1277125039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.85319,27.03961,84.85319,27.03961",
+    "geom:latitude":27.03961,
+    "geom:longitude":84.85319,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"34",
+    "gn:admin4_code":"340076",
+    "gn:asciiname":"Atharaha",
+    "gn:country_code":"NP",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7979570,
+    "gn:latitude":27.03961,
+    "gn:longitude":84.85319,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Atharaha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092050453,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7979570
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3d85d35698eeffbd789a4b21640b3de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050453,
+            "locality_id":1277125039,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050453,
+            "locality_id":1277125039,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1277125039,
+    "wof:lastmodified":1536707065,
+    "wof:name":"Atharaha",
+    "wof:parent_id":1092050453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.85319,
+    27.03961,
+    84.85319,
+    27.03961
+],
+  "geometry": {"coordinates":[84.85319,27.03961],"type":"Point"}
+}

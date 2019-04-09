@@ -1,0 +1,78 @@
+{
+  "id": 1310542909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.12711,26.60919,87.12711,26.60919",
+    "geom:latitude":26.60919,
+    "geom:longitude":87.12711,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"6.0",
+    "gn:admin4_code":"60012.0",
+    "gn:asciiname":"Bhokraha",
+    "gn:country_code":"NP",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7997566,
+    "gn:latitude":26.60919,
+    "gn:longitude":87.12711,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhokraha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049923,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7997566
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9e95f08415e6a3715c3b64e3dcccb79c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1310542909,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1310542909,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1310542909,
+    "wof:lastmodified":1536861557,
+    "wof:name":"Bhokraha",
+    "wof:parent_id":1092049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.12711,
+    26.60919,
+    87.12711,
+    26.60919
+],
+  "geometry": {"coordinates":[87.12711,26.60919],"type":"Point"}
+}

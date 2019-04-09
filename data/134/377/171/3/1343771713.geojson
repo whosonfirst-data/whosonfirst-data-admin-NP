@@ -1,0 +1,75 @@
+{
+  "id": 1343771713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.00225,29.24327,82.00225,29.24327",
+    "geom:latitude":29.24327,
+    "geom:longitude":82.00225,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lunishera",
+    "gn:country_code":"NP",
+    "gn:dem":2732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283105,
+    "gn:latitude":29.24327,
+    "gn:longitude":82.00225,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Lunishera",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092050797,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283105
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c267a0236eb9e1af0fc735e380d814a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1343771713,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1343771713,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1343771713,
+    "wof:lastmodified":1536794868,
+    "wof:name":"Lunishera",
+    "wof:parent_id":1092050797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.00225,
+    29.24327000000001,
+    82.00225,
+    29.24327000000001
+],
+  "geometry": {"coordinates":[82.00225,29.24327000000001],"type":"Point"}
+}

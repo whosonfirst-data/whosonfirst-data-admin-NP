@@ -1,0 +1,81 @@
+{
+  "id": 1276128223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.33555,26.62443,86.33555,26.62443",
+    "geom:latitude":26.62443,
+    "geom:longitude":86.33555,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Badiarpatti",
+    "gn:country_code":"NP",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283716,
+    "gn:latitude":26.62443,
+    "gn:longitude":86.33555,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Badi\u0101rpatti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Badi\u0101rpatti"
+    ],
+    "name:nep_x_variant":[
+        "Bariy\u0101rpa\u1e6d\u1e6di"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092050497,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283716
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"998d4b67fb9d8d581411dfb129fe509d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050497,
+            "locality_id":1276128223,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050497,
+            "locality_id":1276128223,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1276128223,
+    "wof:lastmodified":1537676064,
+    "wof:name":"Badiarpatti",
+    "wof:parent_id":1092050497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.33555,
+    26.62443,
+    86.33555,
+    26.62443
+],
+  "geometry": {"coordinates":[86.33555,26.62443],"type":"Point"}
+}

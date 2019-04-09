@@ -1,0 +1,78 @@
+{
+  "id": 1360132519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.66065,28.13536,84.66065,28.13536",
+    "geom:latitude":28.13536,
+    "geom:longitude":84.66065,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360044.0",
+    "gn:asciiname":"Kunakharka",
+    "gn:country_code":"NP",
+    "gn:dem":1236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7948984,
+    "gn:latitude":28.13536,
+    "gn:longitude":84.66065,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kunakharka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7948984
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"dc322a0bc31eddb615642e0e122a245f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1360132519,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1360132519,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1360132519,
+    "wof:lastmodified":1536876433,
+    "wof:name":"Kunakharka",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.66065,
+    28.13536,
+    84.66065,
+    28.13536
+],
+  "geometry": {"coordinates":[84.66065,28.13536],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310631709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.53604,28.16593,82.53604,28.16593",
+    "geom:latitude":28.16593,
+    "geom:longitude":82.53604,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530007",
+    "gn:asciiname":"Hapkholagaun",
+    "gn:country_code":"NP",
+    "gn:dem":1453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7983096,
+    "gn:latitude":28.16593,
+    "gn:longitude":82.53604,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Hapkholagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7983096
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e52c0004f22db9bfe2312ede8bb191b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1310631709,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1310631709,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1310631709,
+    "wof:lastmodified":1536735024,
+    "wof:name":"Hapkholagaun",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.53604,
+    28.16593,
+    82.53604,
+    28.16593
+],
+  "geometry": {"coordinates":[82.53604,28.16593],"type":"Point"}
+}

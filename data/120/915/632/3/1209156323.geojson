@@ -1,0 +1,64 @@
+{
+  "id": 1209156323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.75687,27.97838,83.75687,27.97838",
+    "geom:latitude":27.97838,
+    "geom:longitude":83.75687,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390060.0",
+    "gn:asciiname":"Bhakunde",
+    "gn:country_code":"NP",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002464,
+    "gn:latitude":27.97838,
+    "gn:longitude":83.75687,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhakunde",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002464
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6fce894a1d711a92c001ccf8364395f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209156323
+        }
+    ],
+    "wof:id":1209156323,
+    "wof:lastmodified":1536296044,
+    "wof:name":"Bhakunde",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.75686999999998,
+    27.97838,
+    83.75686999999998,
+    27.97838
+],
+  "geometry": {"coordinates":[83.75686999999998,27.97838],"type":"Point"}
+}

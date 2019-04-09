@@ -1,0 +1,78 @@
+{
+  "id": 1326678349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.48793,27.80783,84.48793,27.80783",
+    "geom:latitude":27.80783,
+    "geom:longitude":84.48793,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"35.0",
+    "gn:admin4_code":"350018.0",
+    "gn:asciiname":"Lamagaun",
+    "gn:country_code":"NP",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7934558,
+    "gn:latitude":27.80783,
+    "gn:longitude":84.48793,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lamagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092050101,
+        85675585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7934558
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4321b5989c58d7d2c8189d825fb21f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":1326678349,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":1326678349,
+            "region_id":85675585
+        }
+    ],
+    "wof:id":1326678349,
+    "wof:lastmodified":1536774232,
+    "wof:name":"Lamagaun",
+    "wof:parent_id":1092050101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.48793,
+    27.80783,
+    84.48793,
+    27.80783
+],
+  "geometry": {"coordinates":[84.48793000000001,27.80783],"type":"Point"}
+}

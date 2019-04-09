@@ -1,0 +1,78 @@
+{
+  "id": 1327075909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.55115,27.95887,83.55115,27.95887",
+    "geom:latitude":27.95887,
+    "geom:longitude":83.55115,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390011.0",
+    "gn:asciiname":"Katti Ksetrapal",
+    "gn:country_code":"NP",
+    "gn:dem":882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8000794,
+    "gn:latitude":27.95887,
+    "gn:longitude":83.55115,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Katti Ksetrapal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8000794
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5cc6493b195e2215b161e3d222df45d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1327075909,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1327075909,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1327075909,
+    "wof:lastmodified":1536697973,
+    "wof:name":"Katti Ksetrapal",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.55115,
+    27.95887,
+    83.55115,
+    27.95887
+],
+  "geometry": {"coordinates":[83.55115000000001,27.95887],"type":"Point"}
+}

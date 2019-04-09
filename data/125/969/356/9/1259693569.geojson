@@ -1,0 +1,75 @@
+{
+  "id": 1259693569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.46355,27.26649,85.46355,27.26649",
+    "geom:latitude":27.26649,
+    "geom:longitude":85.46355,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Karanuje",
+    "gn:country_code":"NP",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10330347,
+    "gn:latitude":27.26649,
+    "gn:longitude":85.46355,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Karanuje",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10330347
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f2b3284275289057a54c6b8fc3f9fa2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1259693569,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1259693569,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1259693569,
+    "wof:lastmodified":1537050287,
+    "wof:name":"Karanuje",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.46355,
+    27.26649,
+    85.46355,
+    27.26649
+],
+  "geometry": {"coordinates":[85.46355,27.26649],"type":"Point"}
+}

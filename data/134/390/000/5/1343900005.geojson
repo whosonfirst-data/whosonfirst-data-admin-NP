@@ -1,0 +1,78 @@
+{
+  "id": 1343900005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.96608,27.13531,86.96608,27.13531",
+    "geom:latitude":27.13531,
+    "geom:longitude":86.96608,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100024.0",
+    "gn:asciiname":"Katti",
+    "gn:country_code":"NP",
+    "gn:dem":1254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933138,
+    "gn:latitude":27.13531,
+    "gn:longitude":86.96608,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Katti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933138
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0e4ccb626810f2305d6c923b1418ad2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1343900005,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1343900005,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1343900005,
+    "wof:lastmodified":1536606648,
+    "wof:name":"Katti",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.96608,
+    27.13531,
+    86.96608,
+    27.13531
+],
+  "geometry": {"coordinates":[86.96608000000001,27.13531],"type":"Point"}
+}

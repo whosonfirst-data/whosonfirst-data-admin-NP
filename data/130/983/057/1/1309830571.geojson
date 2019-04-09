@@ -1,0 +1,78 @@
+{
+  "id": 1309830571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.67024,28.9359,81.67024,28.9359",
+    "geom:latitude":28.9359,
+    "geom:longitude":81.67024,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"60.0",
+    "gn:admin4_code":"600006.0",
+    "gn:asciiname":"Baskholagaun",
+    "gn:country_code":"NP",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7936612,
+    "gn:latitude":28.9359,
+    "gn:longitude":81.67024,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Baskholagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092050583,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7936612
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6f0fdcd26ba152129f0d8b8e3f281e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1309830571,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1309830571,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1309830571,
+    "wof:lastmodified":1536895314,
+    "wof:name":"Baskholagaun",
+    "wof:parent_id":1092050583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.67024,
+    28.9359,
+    81.67024,
+    28.9359
+],
+  "geometry": {"coordinates":[81.67024000000001,28.9359],"type":"Point"}
+}

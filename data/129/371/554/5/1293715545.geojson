@@ -1,0 +1,78 @@
+{
+  "id": 1293715545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.73502,28.23091,81.73502,28.23091",
+    "geom:latitude":28.23091,
+    "geom:longitude":81.73502,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"570025.0",
+    "gn:asciiname":"Beteni",
+    "gn:country_code":"NP",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008184,
+    "gn:latitude":28.23091,
+    "gn:longitude":81.73502,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Beteni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092050297,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008184
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"733372aa7e6640816d2ea4f787313272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1293715545,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1293715545,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1293715545,
+    "wof:lastmodified":1536955859,
+    "wof:name":"Beteni",
+    "wof:parent_id":1092050297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.73501999999998,
+    28.23091,
+    81.73501999999998,
+    28.23091
+],
+  "geometry": {"coordinates":[81.73501999999998,28.23091],"type":"Point"}
+}

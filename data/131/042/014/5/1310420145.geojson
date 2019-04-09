@@ -1,0 +1,75 @@
+{
+  "id": 1310420145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.3653,28.91951,83.3653,28.91951",
+    "geom:latitude":28.91951,
+    "geom:longitude":83.3653,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tukotigaon",
+    "gn:country_code":"NP",
+    "gn:dem":4314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282638,
+    "gn:latitude":28.91951,
+    "gn:longitude":83.3653,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Tukotigaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050349,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282638
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b70bde7ae6098338804360ec7e252ea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1310420145,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1310420145,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1310420145,
+    "wof:lastmodified":1537038413,
+    "wof:name":"Tukotigaon",
+    "wof:parent_id":1092050349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.3653,
+    28.91951,
+    83.3653,
+    28.91951
+],
+  "geometry": {"coordinates":[83.3653,28.91951],"type":"Point"}
+}

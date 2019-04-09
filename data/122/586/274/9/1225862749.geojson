@@ -1,0 +1,80 @@
+{
+  "id": 1225862749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.84468,27.89252,86.84468,27.89252",
+    "geom:latitude":27.89252,
+    "geom:longitude":86.84468,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dingboche",
+    "gn:country_code":"NP",
+    "gn:dem":4638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283437,
+    "gn:latitude":27.89252,
+    "gn:longitude":86.84468,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dingboche",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dingpoche",
+        "Dingboche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049841,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283437,
+        "wk:page":"Dingboche"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d26d180934311d93ed74ece4aacb9c03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1225862749,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1225862749,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1225862749,
+    "wof:lastmodified":1537676057,
+    "wof:name":"Dingboche",
+    "wof:parent_id":1092049841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.84468000000003,
+    27.89252,
+    86.84468000000003,
+    27.89252
+],
+  "geometry": {"coordinates":[86.84468000000003,27.89252],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310449951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.38819,28.2125,85.38819,28.2125",
+    "geom:latitude":28.2125,
+    "geom:longitude":85.38819,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"29",
+    "gn:admin4_code":"290002",
+    "gn:asciiname":"Gotgang",
+    "gn:country_code":"NP",
+    "gn:dem":3265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7982106,
+    "gn:latitude":28.2125,
+    "gn:longitude":85.38819,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gotgang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048409,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7982106
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c2ec53a20da046d5fbbdb738fbe6ea66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048409,
+            "locality_id":1310449951,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048409,
+            "locality_id":1310449951,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1310449951,
+    "wof:lastmodified":1536996379,
+    "wof:name":"Gotgang",
+    "wof:parent_id":1092048409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.38819000000002,
+    28.2125,
+    85.38819000000002,
+    28.2125
+],
+  "geometry": {"coordinates":[85.38819000000002,28.2125],"type":"Point"}
+}

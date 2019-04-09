@@ -1,0 +1,81 @@
+{
+  "id": 1309920105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.28697,29.3075,82.28697,29.3075",
+    "geom:latitude":29.3075,
+    "geom:longitude":82.28697,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lamri",
+    "gn:country_code":"NP",
+    "gn:dem":2698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283144,
+    "gn:latitude":29.3075,
+    "gn:longitude":82.28697,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"L\u0101mri\u0307\u0304",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "L\u0101mri\u0307\u0304"
+    ],
+    "name:und_x_variant":[
+        "L\u0101mri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092050797,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283144
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0c6e11fa1d19f87dbff2db1d7dd317aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1309920105,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1309920105,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1309920105,
+    "wof:lastmodified":1537676050,
+    "wof:name":"Lamri",
+    "wof:parent_id":1092050797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.28697,
+    29.3075,
+    82.28697,
+    29.3075
+],
+  "geometry": {"coordinates":[82.28697,29.3075],"type":"Point"}
+}

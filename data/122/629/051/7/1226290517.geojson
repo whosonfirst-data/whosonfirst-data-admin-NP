@@ -1,0 +1,78 @@
+{
+  "id": 1226290517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.22356,28.2899,83.22356,28.2899",
+    "geom:latitude":28.2899,
+    "geom:longitude":83.22356,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450004.0",
+    "gn:asciiname":"Amile",
+    "gn:country_code":"NP",
+    "gn:dem":1300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7947272,
+    "gn:latitude":28.2899,
+    "gn:longitude":83.22356,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Amile",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7947272
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7e71423e11d9ffad7cea10a145dce7b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1226290517,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1226290517,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1226290517,
+    "wof:lastmodified":1536868002,
+    "wof:name":"Amile",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.22355999999998,
+    28.2899,
+    83.22355999999998,
+    28.2899
+],
+  "geometry": {"coordinates":[83.22355999999998,28.2899],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293338545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.20575,27.50242,85.20575,27.50242",
+    "geom:latitude":27.50242,
+    "geom:longitude":85.20575,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310022",
+    "gn:asciiname":"Sallegaun",
+    "gn:country_code":"NP",
+    "gn:dem":1775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7968450,
+    "gn:latitude":27.50242,
+    "gn:longitude":85.20575,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sallegaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7968450
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9c0d96c58384e67ab013b17b6aa103d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1293338545,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1293338545,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1293338545,
+    "wof:lastmodified":1537001123,
+    "wof:name":"Sallegaun",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.20575,
+    27.50242,
+    85.20575,
+    27.50242
+],
+  "geometry": {"coordinates":[85.20574999999999,27.50242],"type":"Point"}
+}

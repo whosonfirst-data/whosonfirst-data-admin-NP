@@ -1,0 +1,64 @@
+{
+  "id": 1209134273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.95743,28.52424,81.95743,28.52424",
+    "geom:latitude":28.52424,
+    "geom:longitude":81.95743,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590012.0",
+    "gn:asciiname":"Sahukholagaun",
+    "gn:country_code":"NP",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7998858,
+    "gn:latitude":28.52424,
+    "gn:longitude":81.95743,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sahukholagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7998858
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4b7251549d67bc7908623d10aad61d02",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209134273
+        }
+    ],
+    "wof:id":1209134273,
+    "wof:lastmodified":1536296712,
+    "wof:name":"Sahukholagaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.95743,
+    28.52424,
+    81.95743,
+    28.52424
+],
+  "geometry": {"coordinates":[81.95743,28.52424],"type":"Point"}
+}

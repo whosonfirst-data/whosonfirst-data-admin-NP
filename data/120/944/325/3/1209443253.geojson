@@ -1,0 +1,64 @@
+{
+  "id": 1209443253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.78878,28.63939,81.78878,28.63939",
+    "geom:latitude":28.63939,
+    "geom:longitude":81.78878,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590002.0",
+    "gn:asciiname":"Arukharka",
+    "gn:country_code":"NP",
+    "gn:dem":1905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7998455,
+    "gn:latitude":28.63939,
+    "gn:longitude":81.78878,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Arukharka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7998455
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7ba5057642dc81719def374568864c6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209443253
+        }
+    ],
+    "wof:id":1209443253,
+    "wof:lastmodified":1536286896,
+    "wof:name":"Arukharka",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.78878,
+    28.63939,
+    81.78878,
+    28.63939
+],
+  "geometry": {"coordinates":[81.78878,28.63939],"type":"Point"}
+}

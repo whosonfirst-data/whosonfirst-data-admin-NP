@@ -1,0 +1,78 @@
+{
+  "id": 1209958737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.81778,27.45495,85.81778,27.45495",
+    "geom:latitude":27.45495,
+    "geom:longitude":85.81778,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"21",
+    "gn:admin4_code":"210044",
+    "gn:asciiname":"Lubu",
+    "gn:country_code":"NP",
+    "gn:dem":682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7981851,
+    "gn:latitude":27.45495,
+    "gn:longitude":85.81778,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lubu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049711,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7981851
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"495e1a90c18088c75267b7413d579e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1209958737,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1209958737,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1209958737,
+    "wof:lastmodified":1536375781,
+    "wof:name":"Lubu",
+    "wof:parent_id":1092049711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.81778,
+    27.45495,
+    85.81778,
+    27.45495
+],
+  "geometry": {"coordinates":[85.81778,27.45495],"type":"Point"}
+}

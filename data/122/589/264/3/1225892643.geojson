@@ -1,0 +1,78 @@
+{
+  "id": 1225892643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.59351,28.04917,86.59351,28.04917",
+    "geom:latitude":28.04917,
+    "geom:longitude":86.59351,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"11",
+    "gn:admin4_code":"110024",
+    "gn:asciiname":"Kanchung",
+    "gn:country_code":"NP",
+    "gn:dem":5181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7997011,
+    "gn:latitude":28.04917,
+    "gn:longitude":86.59351,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kanchung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049841,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7997011
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d80061a5ebfe4b02cc67a7d1f9a6be04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1225892643,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1225892643,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1225892643,
+    "wof:lastmodified":1536946551,
+    "wof:name":"Kanchung",
+    "wof:parent_id":1092049841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.59351,
+    28.04917,
+    86.59351,
+    28.04917
+],
+  "geometry": {"coordinates":[86.59350999999999,28.04917],"type":"Point"}
+}

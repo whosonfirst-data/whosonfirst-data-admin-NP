@@ -1,0 +1,78 @@
+{
+  "id": 1243016359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.85716,27.00562,87.85716,27.00562",
+    "geom:latitude":27.00562,
+    "geom:longitude":87.85716,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30004.0",
+    "gn:asciiname":"Lalichok",
+    "gn:country_code":"NP",
+    "gn:dem":2080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7951509,
+    "gn:latitude":27.00562,
+    "gn:longitude":87.85716,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lalichok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7951509
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1bd4ccd2538d06ff7dc1207f843bdc46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1243016359,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1243016359,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1243016359,
+    "wof:lastmodified":1536929302,
+    "wof:name":"Lalichok",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.85716,
+    27.00562,
+    87.85716,
+    27.00562
+],
+  "geometry": {"coordinates":[87.85715999999999,27.00562],"type":"Point"}
+}

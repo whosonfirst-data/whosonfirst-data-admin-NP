@@ -1,0 +1,78 @@
+{
+  "id": 1276697845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.00981,27.5127,86.00981,27.5127",
+    "geom:latitude":27.5127,
+    "geom:longitude":86.00981,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"22.0",
+    "gn:admin4_code":"220014.0",
+    "gn:asciiname":"Pakhe",
+    "gn:country_code":"NP",
+    "gn:dem":1540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7944439,
+    "gn:latitude":27.5127,
+    "gn:longitude":86.00981,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pakhe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675579,
+        1092050535,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7944439
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ac3796bd9e4101dc0c1f8dbeee2581db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1276697845,
+            "region_id":85675579
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1276697845,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1276697845,
+    "wof:lastmodified":1536787687,
+    "wof:name":"Pakhe",
+    "wof:parent_id":1092050535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.00981,
+    27.5127,
+    86.00981,
+    27.5127
+],
+  "geometry": {"coordinates":[86.00981,27.5127],"type":"Point"}
+}

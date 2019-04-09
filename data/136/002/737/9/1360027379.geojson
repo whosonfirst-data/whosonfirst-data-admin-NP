@@ -1,0 +1,78 @@
+{
+  "id": 1360027379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.77169,26.74796,87.77169,26.74796",
+    "geom:latitude":26.74796,
+    "geom:longitude":87.77169,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30002.0",
+    "gn:asciiname":"Thamchuli",
+    "gn:country_code":"NP",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7951451,
+    "gn:latitude":26.74796,
+    "gn:longitude":87.77169,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thamchuli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7951451
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4133eccfaa03baf75481d9ed4128a385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1360027379,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1360027379,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1360027379,
+    "wof:lastmodified":1537027721,
+    "wof:name":"Thamchuli",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.77169,
+    26.74796,
+    87.77169,
+    26.74796
+],
+  "geometry": {"coordinates":[87.77169000000001,26.74796],"type":"Point"}
+}

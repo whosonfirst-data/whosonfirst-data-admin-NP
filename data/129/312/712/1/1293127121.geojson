@@ -1,0 +1,78 @@
+{
+  "id": 1293127121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.72653,29.43918,80.72653,29.43918",
+    "geom:latitude":29.43918,
+    "geom:longitude":80.72653,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740019",
+    "gn:asciiname":"Kaprat",
+    "gn:country_code":"NP",
+    "gn:dem":1601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7972368,
+    "gn:latitude":29.43918,
+    "gn:longitude":80.72653,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kaprat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050255,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7972368
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5182a33a4d527a7e02af9ea43c1bf500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1293127121,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1293127121,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1293127121,
+    "wof:lastmodified":1536809359,
+    "wof:name":"Kaprat",
+    "wof:parent_id":1092050255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.72653000000003,
+    29.43918,
+    80.72653000000003,
+    29.43918
+],
+  "geometry": {"coordinates":[80.72653000000003,29.43918],"type":"Point"}
+}

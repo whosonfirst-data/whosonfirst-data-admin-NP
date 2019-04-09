@@ -1,0 +1,78 @@
+{
+  "id": 1344205463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.79938,27.29824,87.79938,27.29824",
+    "geom:latitude":27.29824,
+    "geom:longitude":87.79938,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10048.0",
+    "gn:asciiname":"Mauwa",
+    "gn:country_code":"NP",
+    "gn:dem":1764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005783,
+    "gn:latitude":27.29824,
+    "gn:longitude":87.79938,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mauwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005783
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d868650bed18f20a05c25b7ac6633149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1344205463,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1344205463,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1344205463,
+    "wof:lastmodified":1536666489,
+    "wof:name":"Mauwa",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.79938,
+    27.29824,
+    87.79938,
+    27.29824
+],
+  "geometry": {"coordinates":[87.79938,27.29824],"type":"Point"}
+}

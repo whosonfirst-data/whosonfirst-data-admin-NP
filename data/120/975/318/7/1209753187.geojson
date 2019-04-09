@@ -1,0 +1,78 @@
+{
+  "id": 1209753187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.50381,26.86246,87.50381,26.86246",
+    "geom:latitude":26.86246,
+    "geom:longitude":87.50381,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"5",
+    "gn:admin4_code":"50054",
+    "gn:asciiname":"Kolbote",
+    "gn:country_code":"NP",
+    "gn:dem":1571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7971052,
+    "gn:latitude":26.86246,
+    "gn:longitude":87.50381,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kolbote",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092048303,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7971052
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c56fc3ef363f76cde2fad5aa1ef418e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1209753187,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1209753187,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1209753187,
+    "wof:lastmodified":1536391824,
+    "wof:name":"Kolbote",
+    "wof:parent_id":1092048303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.50381,
+    26.86246,
+    87.50381,
+    26.86246
+],
+  "geometry": {"coordinates":[87.50381,26.86246],"type":"Point"}
+}

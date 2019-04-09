@@ -1,0 +1,75 @@
+{
+  "id": 1344071343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.61929,28.657,84.61929,28.657",
+    "geom:latitude":28.657,
+    "geom:longitude":84.61929,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Larkya",
+    "gn:country_code":"NP",
+    "gn:dem":3972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283135,
+    "gn:latitude":28.657,
+    "gn:longitude":84.61929,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"L\u0101rkya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283135
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fb4e14a3a967ae683a500a845adb297e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1344071343,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1344071343,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1344071343,
+    "wof:lastmodified":1536858477,
+    "wof:name":"Larkya",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.61929,
+    28.657,
+    84.61929,
+    28.657
+],
+  "geometry": {"coordinates":[84.61929000000001,28.657],"type":"Point"}
+}

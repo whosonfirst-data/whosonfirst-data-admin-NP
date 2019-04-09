@@ -1,0 +1,78 @@
+{
+  "id": 1310043241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.25875,28.13122,84.25875,28.13122",
+    "geom:latitude":28.13122,
+    "geom:longitude":84.25875,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370050",
+    "gn:asciiname":"Pokharithok",
+    "gn:country_code":"NP",
+    "gn:dem":1210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7966984,
+    "gn:latitude":28.13122,
+    "gn:longitude":84.25875,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pokharithok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050009,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7966984
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0220a7b6f5439dd829ff4a57bf9a1df3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1310043241,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1310043241,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1310043241,
+    "wof:lastmodified":1537082978,
+    "wof:name":"Pokharithok",
+    "wof:parent_id":1092050009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.25875,
+    28.13122000000001,
+    84.25875,
+    28.13122000000001
+],
+  "geometry": {"coordinates":[84.25875000000001,28.13122000000001],"type":"Point"}
+}

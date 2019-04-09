@@ -1,0 +1,78 @@
+{
+  "id": 1209853115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.93663,28.18719,83.93663,28.18719",
+    "geom:latitude":28.18719,
+    "geom:longitude":83.93663,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400033.0",
+    "gn:asciiname":"Odare",
+    "gn:country_code":"NP",
+    "gn:dem":774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7961521,
+    "gn:latitude":28.18719,
+    "gn:longitude":83.93663,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Odare",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092049331,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7961521
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"21a01999f2a06fe40be9e7a4d213cd7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1209853115,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1209853115,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1209853115,
+    "wof:lastmodified":1536387501,
+    "wof:name":"Odare",
+    "wof:parent_id":1092049331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.93663000000002,
+    28.18719,
+    83.93663000000002,
+    28.18719
+],
+  "geometry": {"coordinates":[83.93663000000002,28.18719],"type":"Point"}
+}

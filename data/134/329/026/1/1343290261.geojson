@@ -1,0 +1,78 @@
+{
+  "id": 1343290261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.59597,30.03581,81.59597,30.03581",
+    "geom:latitude":30.03581,
+    "geom:longitude":81.59597,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"66.0",
+    "gn:admin4_code":"660018.0",
+    "gn:asciiname":"Puiya",
+    "gn:country_code":"NP",
+    "gn:dem":3624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7951108,
+    "gn:latitude":30.03581,
+    "gn:longitude":81.59597,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Puiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050353,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7951108
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"943e976b12a8f0f316eee48603e605b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1343290261,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1343290261,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1343290261,
+    "wof:lastmodified":1536991210,
+    "wof:name":"Puiya",
+    "wof:parent_id":1092050353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.59597,
+    30.03581,
+    81.59597,
+    30.03581
+],
+  "geometry": {"coordinates":[81.59596999999999,30.03581],"type":"Point"}
+}

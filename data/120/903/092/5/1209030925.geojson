@@ -1,0 +1,64 @@
+{
+  "id": 1209030925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.37293,29.12858,80.37293,29.12858",
+    "geom:latitude":29.12858,
+    "geom:longitude":80.37293,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"73.0",
+    "gn:admin4_code":"730013.0",
+    "gn:asciiname":"Ampani",
+    "gn:country_code":"NP",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7936109,
+    "gn:latitude":29.12858,
+    "gn:longitude":80.37293,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ampani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7936109
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2b8e2471e031ab3b2a7d803bdb3635d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209030925
+        }
+    ],
+    "wof:id":1209030925,
+    "wof:lastmodified":1536299852,
+    "wof:name":"Ampani",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.37293000000003,
+    29.12858,
+    80.37293000000003,
+    29.12858
+],
+  "geometry": {"coordinates":[80.37293000000003,29.12858],"type":"Point"}
+}

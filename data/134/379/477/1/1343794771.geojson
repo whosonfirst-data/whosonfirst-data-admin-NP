@@ -1,0 +1,78 @@
+{
+  "id": 1343794771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.02791,29.576,81.02791,29.576",
+    "geom:latitude":29.576,
+    "geom:longitude":81.02791,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680027",
+    "gn:asciiname":"Galla Lek",
+    "gn:country_code":"NP",
+    "gn:dem":2342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7994106,
+    "gn:latitude":29.576,
+    "gn:longitude":81.02791,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Galla Lek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048571,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7994106
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"26f3915dd847f753e92fbcb5baf11203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1343794771,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1343794771,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1343794771,
+    "wof:lastmodified":1536761742,
+    "wof:name":"Galla Lek",
+    "wof:parent_id":1092048571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.02790999999998,
+    29.576,
+    81.02790999999998,
+    29.576
+],
+  "geometry": {"coordinates":[81.02790999999998,29.576],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276702313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.3303,27.62232,85.3303,27.62232",
+    "geom:latitude":27.62232,
+    "geom:longitude":85.3303,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"25",
+    "gn:admin4_code":"250014",
+    "gn:asciiname":"Magargaun",
+    "gn:country_code":"NP",
+    "gn:dem":1407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7965509,
+    "gn:latitude":27.62232,
+    "gn:longitude":85.3303,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Magargaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048971,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7965509
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6a665a3d1c95f743a9d37af190838736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048971,
+            "locality_id":1276702313,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048971,
+            "locality_id":1276702313,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1276702313,
+    "wof:lastmodified":1536781862,
+    "wof:name":"Magargaun",
+    "wof:parent_id":1092048971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.3303,
+    27.62232,
+    85.3303,
+    27.62232
+],
+  "geometry": {"coordinates":[85.33029999999999,27.62232],"type":"Point"}
+}

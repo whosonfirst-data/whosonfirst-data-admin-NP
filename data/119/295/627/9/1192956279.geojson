@@ -1,0 +1,78 @@
+{
+  "id": 1192956279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.22518,27.89691,85.22518,27.89691",
+    "geom:latitude":27.89691,
+    "geom:longitude":85.22518,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"28",
+    "gn:admin4_code":"280055.0",
+    "gn:asciiname":"Pattabari",
+    "gn:country_code":"NP",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7974781,
+    "gn:latitude":27.89691,
+    "gn:longitude":85.22518,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pattabari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7974781
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"040df9b0923a0e723af0a267ea02c6b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1192956279,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1192956279,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1192956279,
+    "wof:lastmodified":1536370153,
+    "wof:name":"Pattabari",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.22518000000002,
+    27.89691,
+    85.22518000000002,
+    27.89691
+],
+  "geometry": {"coordinates":[85.22518000000002,27.89691],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 421184687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.882259,28.254266,84.882259,28.254266",
+    "geom:latitude":28.254266,
+    "geom:longitude":84.882259,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"K'u-la-k'o",
+    "qs:name_adm0":"Nepal",
+    "qs:name_adm1":"Pashchimanchal",
+    "qs:photos":70,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":70,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1003019,
+    "qs:woe_adm0":23424911,
+    "qs:woe_id":2269079,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2269079,
+        "qs:id":1003019
+    },
+    "wof:country":"NP",
+    "wof:created":1459009419,
+    "wof:geomhash":"8d6249e1825705412c7d3a9f2825c46b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":421184687,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":421184687,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":421184687,
+    "wof:lastmodified":1500058104,
+    "wof:name":"K'u-la-k'o",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.882259,
+    28.254266,
+    84.882259,
+    28.254266
+],
+  "geometry": {"coordinates":[84.882259,28.254266],"type":"Point"}
+}

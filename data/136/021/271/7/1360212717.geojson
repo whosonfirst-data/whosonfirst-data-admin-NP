@@ -1,0 +1,78 @@
+{
+  "id": 1360212717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.74055,29.74598,80.74055,29.74598",
+    "geom:latitude":29.74598,
+    "geom:longitude":80.74055,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"75.0",
+    "gn:admin4_code":"750040.0",
+    "gn:asciiname":"Ghodedhar",
+    "gn:country_code":"NP",
+    "gn:dem":1600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7941018,
+    "gn:latitude":29.74598,
+    "gn:longitude":80.74055,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ghodedhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050347,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7941018
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0dfdae57db3ec6da4242b6d9f38e9577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050347,
+            "locality_id":1360212717,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050347,
+            "locality_id":1360212717,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1360212717,
+    "wof:lastmodified":1536761923,
+    "wof:name":"Ghodedhar",
+    "wof:parent_id":1092050347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.74055,
+    29.74598,
+    80.74055,
+    29.74598
+],
+  "geometry": {"coordinates":[80.74055,29.74598],"type":"Point"}
+}

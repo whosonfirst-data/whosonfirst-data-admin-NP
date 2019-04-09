@@ -1,0 +1,78 @@
+{
+  "id": 1209954689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.0315,27.53815,85.0315,27.53815",
+    "geom:latitude":27.53815,
+    "geom:longitude":85.0315,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310006",
+    "gn:asciiname":"Chuniya",
+    "gn:country_code":"NP",
+    "gn:dem":1111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7967878,
+    "gn:latitude":27.53815,
+    "gn:longitude":85.0315,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chuniya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7967878
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e699dc3ad1bb4a347cad671e4d24b3d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1209954689,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1209954689,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1209954689,
+    "wof:lastmodified":1536379835,
+    "wof:name":"Chuniya",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.0315,
+    27.53815,
+    85.0315,
+    27.53815
+],
+  "geometry": {"coordinates":[85.03149999999999,27.53815],"type":"Point"}
+}

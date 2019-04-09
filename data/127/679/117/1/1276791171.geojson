@@ -1,0 +1,78 @@
+{
+  "id": 1276791171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.75049,29.00251,80.75049,29.00251",
+    "geom:latitude":29.00251,
+    "geom:longitude":80.75049,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710028.0",
+    "gn:asciiname":"Paldisain",
+    "gn:country_code":"NP",
+    "gn:dem":748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7957198,
+    "gn:latitude":29.00251,
+    "gn:longitude":80.75049,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Paldisain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7957198
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d189f97be73f6cf139f318053e6284f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1276791171,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1276791171,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1276791171,
+    "wof:lastmodified":1536662586,
+    "wof:name":"Paldisain",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.75049,
+    29.00251,
+    80.75049,
+    29.00251
+],
+  "geometry": {"coordinates":[80.75049,29.00251],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209033201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.39572,28.89461,81.39572,28.89461",
+    "geom:latitude":28.89461,
+    "geom:longitude":81.39572,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590009.0",
+    "gn:asciiname":"Kot",
+    "gn:country_code":"NP",
+    "gn:dem":951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7998741,
+    "gn:latitude":28.89461,
+    "gn:longitude":81.39572,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7998741
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"80aea74a8934d1bd1063ee5bc5746a13",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209033201
+        }
+    ],
+    "wof:id":1209033201,
+    "wof:lastmodified":1536299785,
+    "wof:name":"Kot",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.39572,
+    28.89461,
+    81.39572,
+    28.89461
+],
+  "geometry": {"coordinates":[81.39572,28.89461],"type":"Point"}
+}

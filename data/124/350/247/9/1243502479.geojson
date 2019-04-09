@@ -1,0 +1,78 @@
+{
+  "id": 1243502479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.76393,27.34921,87.76393,27.34921",
+    "geom:latitude":27.34921,
+    "geom:longitude":87.76393,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10049.0",
+    "gn:asciiname":"Selutham",
+    "gn:country_code":"NP",
+    "gn:dem":1455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005798,
+    "gn:latitude":27.34921,
+    "gn:longitude":87.76393,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Selutham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005798
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b0bd46f7c2264aafb1f07cc6486f90ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1243502479,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1243502479,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1243502479,
+    "wof:lastmodified":1536725216,
+    "wof:name":"Selutham",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.76393,
+    27.34921,
+    87.76393,
+    27.34921
+],
+  "geometry": {"coordinates":[87.76393,27.34921],"type":"Point"}
+}

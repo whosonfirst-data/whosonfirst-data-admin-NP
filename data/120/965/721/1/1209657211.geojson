@@ -1,0 +1,64 @@
+{
+  "id": 1209657211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.56119,26.78073,86.56119,26.78073",
+    "geom:latitude":26.78073,
+    "geom:longitude":86.56119,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"15",
+    "gn:admin4_code":"150094",
+    "gn:asciiname":"Nainadabar",
+    "gn:country_code":"NP",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7991304,
+    "gn:latitude":26.78073,
+    "gn:longitude":86.56119,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nainadabar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7991304
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a7c29d34bc7e8d0583a0a819f34ac757",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209657211
+        }
+    ],
+    "wof:id":1209657211,
+    "wof:lastmodified":1536280388,
+    "wof:name":"Nainadabar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.56119,
+    26.78073,
+    86.56119,
+    26.78073
+],
+  "geometry": {"coordinates":[86.56119,26.78073],"type":"Point"}
+}

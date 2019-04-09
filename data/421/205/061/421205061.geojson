@@ -1,0 +1,94 @@
+{
+  "id": 421205061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.33333,27.58333,85.33333,27.58333",
+    "geom:latitude":27.58333,
+    "geom:longitude":85.33333,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Patan"
+    ],
+    "qs:gn_country":"NP",
+    "qs:gn_fcode":"ADM3",
+    "qs:gn_id":1283154,
+    "qs:gn_pop":373438,
+    "qs:name":"Lalitpur",
+    "qs:name_adm0":"Nepal",
+    "qs:name_adm1":"Madhyamanchal",
+    "qs:photos":5,
+    "qs:photos_1k":1,
+    "qs:photos_9k":7,
+    "qs:photos_9r":8,
+    "qs:photos_all":1677,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"10",
+    "qs:qs_id":1192940,
+    "qs:woe_adm0":23424911,
+    "qs:woe_id":23706768,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048971,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283154,
+        "gp:id":23706768,
+        "qs:id":1192940
+    },
+    "wof:country":"NP",
+    "wof:created":1459010211,
+    "wof:geomhash":"7cf17f449bb6f802d6f5d2b1dd64c34b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048971,
+            "localadmin_id":421205061,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048971,
+            "localadmin_id":421205061,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":421205061,
+    "wof:lastmodified":1534379389,
+    "wof:name":"Lalitpur",
+    "wof:parent_id":1092048971,
+    "wof:placetype":"localadmin",
+    "wof:population":373438,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[
+        1125418463
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.33333,
+    27.58333,
+    85.33333,
+    27.58333
+],
+  "geometry": {"coordinates":[85.33333,27.58333],"type":"Point"}
+}

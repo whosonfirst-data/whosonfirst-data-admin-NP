@@ -1,0 +1,64 @@
+{
+  "id": 1209134139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.64131,28.00599,81.64131,28.00599",
+    "geom:latitude":28.00599,
+    "geom:longitude":81.64131,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"570014.0",
+    "gn:asciiname":"Bhanghotana",
+    "gn:country_code":"NP",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007909,
+    "gn:latitude":28.00599,
+    "gn:longitude":81.64131,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhanghotana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007909
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ef8f778dab43312b86039f0076fa57ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209134139
+        }
+    ],
+    "wof:id":1209134139,
+    "wof:lastmodified":1536296715,
+    "wof:name":"Bhanghotana",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.64131,
+    28.00599,
+    81.64131,
+    28.00599
+],
+  "geometry": {"coordinates":[81.64131,28.00599],"type":"Point"}
+}

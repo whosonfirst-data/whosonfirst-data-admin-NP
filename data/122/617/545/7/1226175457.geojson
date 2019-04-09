@@ -1,0 +1,78 @@
+{
+  "id": 1226175457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.50365,28.17969,82.50365,28.17969",
+    "geom:latitude":28.17969,
+    "geom:longitude":82.50365,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530006",
+    "gn:asciiname":"Sarechaur",
+    "gn:country_code":"NP",
+    "gn:dem":1854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7983034,
+    "gn:latitude":28.17969,
+    "gn:longitude":82.50365,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sarechaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7983034
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"888c153a528c57d389cfc4a9e7652b0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1226175457,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1226175457,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1226175457,
+    "wof:lastmodified":1537033464,
+    "wof:name":"Sarechaur",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.50365,
+    28.17969,
+    82.50365,
+    28.17969
+],
+  "geometry": {"coordinates":[82.50364999999999,28.17969],"type":"Point"}
+}

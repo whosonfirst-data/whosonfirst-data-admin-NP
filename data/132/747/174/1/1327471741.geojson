@@ -1,0 +1,78 @@
+{
+  "id": 1327471741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.79282,27.51807,87.79282,27.51807",
+    "geom:latitude":27.51807,
+    "geom:longitude":87.79282,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10016.0",
+    "gn:asciiname":"Lepchung",
+    "gn:country_code":"NP",
+    "gn:dem":1790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005233,
+    "gn:latitude":27.51807,
+    "gn:longitude":87.79282,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lepchung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005233
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d8276ffc26a74425485f2a97c91c32d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1327471741,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1327471741,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1327471741,
+    "wof:lastmodified":1536621838,
+    "wof:name":"Lepchung",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.79281999999998,
+    27.51807,
+    87.79281999999998,
+    27.51807
+],
+  "geometry": {"coordinates":[87.79281999999998,27.51807],"type":"Point"}
+}

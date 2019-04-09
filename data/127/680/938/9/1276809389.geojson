@@ -1,0 +1,78 @@
+{
+  "id": 1276809389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.30968,27.88517,83.30968,27.88517",
+    "geom:latitude":27.88517,
+    "geom:longitude":83.30968,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"51.0",
+    "gn:admin4_code":"510034.0",
+    "gn:asciiname":"Than Takura",
+    "gn:country_code":"NP",
+    "gn:dem":940,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7944104,
+    "gn:latitude":27.88517,
+    "gn:longitude":83.30968,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Than Takura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092049537,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7944104
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f4173e84162574094db6a581b5c32db6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049537,
+            "locality_id":1276809389,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049537,
+            "locality_id":1276809389,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1276809389,
+    "wof:lastmodified":1536636758,
+    "wof:name":"Than Takura",
+    "wof:parent_id":1092049537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.30968,
+    27.88517,
+    83.30968,
+    27.88517
+],
+  "geometry": {"coordinates":[83.30968,27.88517],"type":"Point"}
+}

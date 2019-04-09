@@ -1,0 +1,78 @@
+{
+  "id": 1292917899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.61001,28.89788,81.61001,28.89788",
+    "geom:latitude":28.89788,
+    "geom:longitude":81.61001,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lamji",
+    "gn:country_code":"NP",
+    "gn:dem":952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283152,
+    "gn:latitude":28.89788,
+    "gn:longitude":81.61001,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Lamji\u0307\u0304",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Lamji\u0307\u0304"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092050583,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283152
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"36cb7d1d17464f90b1e278dc3dded704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1292917899,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1292917899,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1292917899,
+    "wof:lastmodified":1537676050,
+    "wof:name":"Lamji",
+    "wof:parent_id":1092050583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.61001,
+    28.89788,
+    81.61001,
+    28.89788
+],
+  "geometry": {"coordinates":[81.61001,28.89788],"type":"Point"}
+}

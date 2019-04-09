@@ -1,0 +1,78 @@
+{
+  "id": 1259621243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.91387,26.97511,86.91387,26.97511",
+    "geom:latitude":26.97511,
+    "geom:longitude":86.91387,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"13.0",
+    "gn:admin4_code":"130036.0",
+    "gn:asciiname":"Ghodedanda",
+    "gn:country_code":"NP",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7964631,
+    "gn:latitude":26.97511,
+    "gn:longitude":86.91387,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ghodedanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050841,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7964631
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"58dd74e04ccd5ab3136d745f6978dd04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1259621243,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1259621243,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1259621243,
+    "wof:lastmodified":1536660277,
+    "wof:name":"Ghodedanda",
+    "wof:parent_id":1092050841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.91386999999997,
+    26.97511,
+    86.91386999999997,
+    26.97511
+],
+  "geometry": {"coordinates":[86.91386999999997,26.97511],"type":"Point"}
+}

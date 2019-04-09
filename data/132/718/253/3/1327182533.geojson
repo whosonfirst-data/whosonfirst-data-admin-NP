@@ -1,0 +1,78 @@
+{
+  "id": 1327182533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.18844,28.0986,85.18844,28.0986",
+    "geom:latitude":28.0986,
+    "geom:longitude":85.18844,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"29",
+    "gn:admin4_code":"290004",
+    "gn:asciiname":"Karumaryang",
+    "gn:country_code":"NP",
+    "gn:dem":2103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7982134,
+    "gn:latitude":28.0986,
+    "gn:longitude":85.18844,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Karumaryang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048409,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7982134
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b139ed28ef6cddb5250ae5b6cebc7cc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048409,
+            "locality_id":1327182533,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048409,
+            "locality_id":1327182533,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1327182533,
+    "wof:lastmodified":1537039997,
+    "wof:name":"Karumaryang",
+    "wof:parent_id":1092048409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.18844,
+    28.0986,
+    85.18844,
+    28.0986
+],
+  "geometry": {"coordinates":[85.18844,28.0986],"type":"Point"}
+}

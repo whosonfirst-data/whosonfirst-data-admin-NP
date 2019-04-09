@@ -1,0 +1,78 @@
+{
+  "id": 1243586797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.61211,28.88356,81.61211,28.88356",
+    "geom:latitude":28.88356,
+    "geom:longitude":81.61211,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"60.0",
+    "gn:admin4_code":"600004.0",
+    "gn:asciiname":"Ghiyatidu",
+    "gn:country_code":"NP",
+    "gn:dem":1324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7936583,
+    "gn:latitude":28.88356,
+    "gn:longitude":81.61211,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ghiyatidu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092050583,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7936583
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1bd4438e3cb49d745461e32dc188b012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1243586797,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1243586797,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1243586797,
+    "wof:lastmodified":1537096868,
+    "wof:name":"Ghiyatidu",
+    "wof:parent_id":1092050583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.61211,
+    28.88356,
+    81.61211,
+    28.88356
+],
+  "geometry": {"coordinates":[81.61211,28.88356],"type":"Point"}
+}

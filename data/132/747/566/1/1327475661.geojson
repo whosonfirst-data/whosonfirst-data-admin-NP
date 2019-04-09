@@ -1,0 +1,78 @@
+{
+  "id": 1327475661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.06553,27.00916,87.06553,27.00916",
+    "geom:latitude":27.00916,
+    "geom:longitude":87.06553,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100020.0",
+    "gn:asciiname":"Bagdale",
+    "gn:country_code":"NP",
+    "gn:dem":1661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933016,
+    "gn:latitude":27.00916,
+    "gn:longitude":87.06553,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bagdale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933016
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"148b4e0f92b9ccad4d01b68fa7096128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1327475661,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1327475661,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1327475661,
+    "wof:lastmodified":1536615956,
+    "wof:name":"Bagdale",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.06553000000002,
+    27.00916,
+    87.06553000000002,
+    27.00916
+],
+  "geometry": {"coordinates":[87.06553000000002,27.00916],"type":"Point"}
+}

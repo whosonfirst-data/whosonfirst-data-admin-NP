@@ -1,0 +1,78 @@
+{
+  "id": 1310438265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.27818,28.966,81.27818,28.966",
+    "geom:latitude":28.966,
+    "geom:longitude":81.27818,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"69",
+    "gn:admin4_code":"690026",
+    "gn:asciiname":"Chosa",
+    "gn:country_code":"NP",
+    "gn:dem":983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7978093,
+    "gn:latitude":28.966,
+    "gn:longitude":81.27818,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chosa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048527,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7978093
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"87023d7e521b434b7b79c67e059aa866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1310438265,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1310438265,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1310438265,
+    "wof:lastmodified":1537013340,
+    "wof:name":"Chosa",
+    "wof:parent_id":1092048527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.27818,
+    28.966,
+    81.27818,
+    28.966
+],
+  "geometry": {"coordinates":[81.27818000000001,28.966],"type":"Point"}
+}

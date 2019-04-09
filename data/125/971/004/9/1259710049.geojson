@@ -1,0 +1,78 @@
+{
+  "id": 1259710049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.87781,28.00507,82.87781,28.00507",
+    "geom:latitude":28.00507,
+    "geom:longitude":82.87781,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"52",
+    "gn:admin4_code":"520036",
+    "gn:asciiname":"Chutreni",
+    "gn:country_code":"NP",
+    "gn:dem":1579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7980623,
+    "gn:latitude":28.00507,
+    "gn:longitude":82.87781,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chutreni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049377,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7980623
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d9e766d5802bf5712042608159d13824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1259710049,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1259710049,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1259710049,
+    "wof:lastmodified":1537027737,
+    "wof:name":"Chutreni",
+    "wof:parent_id":1092049377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.87781,
+    28.00507,
+    82.87781,
+    28.00507
+],
+  "geometry": {"coordinates":[82.87781,28.00507],"type":"Point"}
+}

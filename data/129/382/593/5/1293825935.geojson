@@ -1,0 +1,78 @@
+{
+  "id": 1293825935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.48124,27.03778,87.48124,27.03778",
+    "geom:latitude":27.03778,
+    "geom:longitude":87.48124,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"8.0",
+    "gn:admin4_code":"80019.0",
+    "gn:asciiname":"Phyauki",
+    "gn:country_code":"NP",
+    "gn:dem":1103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8006184,
+    "gn:latitude":27.03778,
+    "gn:longitude":87.48124,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Phyauki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050137,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8006184
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6336f9df3a222249fca9d6178634a708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050137,
+            "locality_id":1293825935,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050137,
+            "locality_id":1293825935,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1293825935,
+    "wof:lastmodified":1536796486,
+    "wof:name":"Phyauki",
+    "wof:parent_id":1092050137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.48124,
+    27.03778,
+    87.48124,
+    27.03778
+],
+  "geometry": {"coordinates":[87.48124,27.03778],"type":"Point"}
+}

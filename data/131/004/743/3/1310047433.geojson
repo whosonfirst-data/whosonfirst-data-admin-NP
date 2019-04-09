@@ -1,0 +1,78 @@
+{
+  "id": 1310047433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.32323,28.1212,84.32323,28.1212",
+    "geom:latitude":28.1212,
+    "geom:longitude":84.32323,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370034",
+    "gn:asciiname":"Gairi",
+    "gn:country_code":"NP",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7966614,
+    "gn:latitude":28.1212,
+    "gn:longitude":84.32323,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gairi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7966614
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"15b6eaafade0ecbe7eef24bc0ea9d12b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1310047433,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1310047433,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1310047433,
+    "wof:lastmodified":1537077093,
+    "wof:name":"Gairi",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.32323000000002,
+    28.1212,
+    84.32323000000002,
+    28.1212
+],
+  "geometry": {"coordinates":[84.32323000000002,28.1212],"type":"Point"}
+}

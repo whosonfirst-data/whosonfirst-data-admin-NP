@@ -1,0 +1,78 @@
+{
+  "id": 1344185525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.87803,29.58575,80.87803,29.58575",
+    "geom:latitude":29.58575,
+    "geom:longitude":80.87803,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680022",
+    "gn:asciiname":"Bhatigau",
+    "gn:country_code":"NP",
+    "gn:dem":1571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7992734,
+    "gn:latitude":29.58575,
+    "gn:longitude":80.87803,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhatigau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048571,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7992734
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fcb4671a465435e41eeb9bbfda3acd2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1344185525,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1344185525,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1344185525,
+    "wof:lastmodified":1536695454,
+    "wof:name":"Bhatigau",
+    "wof:parent_id":1092048571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.87803000000002,
+    29.58575,
+    80.87803000000002,
+    29.58575
+],
+  "geometry": {"coordinates":[80.87803000000002,29.58575],"type":"Point"}
+}

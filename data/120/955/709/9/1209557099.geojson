@@ -1,0 +1,64 @@
+{
+  "id": 1209557099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.92049,27.86524,83.92049,27.86524",
+    "geom:latitude":27.86524,
+    "geom:longitude":83.92049,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"47",
+    "gn:admin4_code":"470053",
+    "gn:asciiname":"Laskare",
+    "gn:country_code":"NP",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7976813,
+    "gn:latitude":27.86524,
+    "gn:longitude":83.92049,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Laskare",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7976813
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"97a9332ef62b6de93732006aa15ab18b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209557099
+        }
+    ],
+    "wof:id":1209557099,
+    "wof:lastmodified":1536283510,
+    "wof:name":"Laskare",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.92049,
+    27.865240000000004,
+    83.92049,
+    27.865240000000004
+],
+  "geometry": {"coordinates":[83.92049,27.86524],"type":"Point"}
+}

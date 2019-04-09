@@ -1,0 +1,78 @@
+{
+  "id": 1260117959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.65371,27.35902,87.65371,27.35902",
+    "geom:latitude":27.35902,
+    "geom:longitude":87.65371,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10032.0",
+    "gn:asciiname":"Yanglijung",
+    "gn:country_code":"NP",
+    "gn:dem":1522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005525,
+    "gn:latitude":27.35902,
+    "gn:longitude":87.65371,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Yanglijung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005525
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2e36620c986ca037e8604997ad8c971e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1260117959,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1260117959,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1260117959,
+    "wof:lastmodified":1536939144,
+    "wof:name":"Yanglijung",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.65371,
+    27.35902,
+    87.65371,
+    27.35902
+],
+  "geometry": {"coordinates":[87.65371,27.35902],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1192960291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.66462,26.97824,85.66462,26.97824",
+    "geom:latitude":26.97824,
+    "geom:longitude":85.66462,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"19",
+    "gn:admin4_code":"190018.0",
+    "gn:asciiname":"Nainpuretol",
+    "gn:country_code":"NP",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7991624,
+    "gn:latitude":26.97824,
+    "gn:longitude":85.66462,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nainpuretol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092049639,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7991624
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"abaf200889aa76a0694fde0adaa156ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049639,
+            "locality_id":1192960291,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049639,
+            "locality_id":1192960291,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1192960291,
+    "wof:lastmodified":1536366418,
+    "wof:name":"Nainpuretol",
+    "wof:parent_id":1092049639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.66462,
+    26.97824,
+    85.66462,
+    26.97824
+],
+  "geometry": {"coordinates":[85.66462,26.97824],"type":"Point"}
+}

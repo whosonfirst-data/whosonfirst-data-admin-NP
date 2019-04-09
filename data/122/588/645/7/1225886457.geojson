@@ -1,0 +1,78 @@
+{
+  "id": 1225886457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.00402,27.21968,87.00402,27.21968",
+    "geom:latitude":27.21968,
+    "geom:longitude":87.00402,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100025.0",
+    "gn:asciiname":"Chhop Narayan",
+    "gn:country_code":"NP",
+    "gn:dem":1754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933152,
+    "gn:latitude":27.21968,
+    "gn:longitude":87.00402,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chhop Narayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933152
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d12b7d8e7d9bf0a4bd01da74b766d040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1225886457,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1225886457,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1225886457,
+    "wof:lastmodified":1536955049,
+    "wof:name":"Chhop Narayan",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.00402,
+    27.21968,
+    87.00402,
+    27.21968
+],
+  "geometry": {"coordinates":[87.00402,27.21968],"type":"Point"}
+}

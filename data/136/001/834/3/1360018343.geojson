@@ -1,0 +1,78 @@
+{
+  "id": 1360018343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.45624,28.26354,82.45624,28.26354",
+    "geom:latitude":28.26354,
+    "geom:longitude":82.45624,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530034",
+    "gn:asciiname":"Bhorja",
+    "gn:country_code":"NP",
+    "gn:dem":1571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7984155,
+    "gn:latitude":28.26354,
+    "gn:longitude":82.45624,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhorja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7984155
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7c9271e52b8d4d441609a618e6598a00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1360018343,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1360018343,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1360018343,
+    "wof:lastmodified":1537040270,
+    "wof:name":"Bhorja",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.45624000000002,
+    28.26354000000001,
+    82.45624000000002,
+    28.26354000000001
+],
+  "geometry": {"coordinates":[82.45624000000002,28.26354000000001],"type":"Point"}
+}

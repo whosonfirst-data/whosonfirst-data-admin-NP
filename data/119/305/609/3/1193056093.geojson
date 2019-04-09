@@ -1,0 +1,78 @@
+{
+  "id": 1193056093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.77138,27.95683,83.77138,27.95683",
+    "geom:latitude":27.95683,
+    "geom:longitude":83.77138,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390060.0",
+    "gn:asciiname":"Garhau Kalika Temple",
+    "gn:country_code":"NP",
+    "gn:dem":1348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002452,
+    "gn:latitude":27.95683,
+    "gn:longitude":83.77138,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Garhau Kalika Temple",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002452
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0a80993a3aa135a3e1facac581116778",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1193056093,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1193056093,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1193056093,
+    "wof:lastmodified":1536382713,
+    "wof:name":"Garhau Kalika Temple",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.77138000000002,
+    27.95683,
+    83.77138000000002,
+    27.95683
+],
+  "geometry": {"coordinates":[83.77138000000002,27.95683],"type":"Point"}
+}

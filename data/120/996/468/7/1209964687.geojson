@@ -1,0 +1,78 @@
+{
+  "id": 1209964687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.9106,26.80335,87.9106,26.80335",
+    "geom:latitude":26.80335,
+    "geom:longitude":87.9106,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30005.0",
+    "gn:asciiname":"Shera",
+    "gn:country_code":"NP",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7951541,
+    "gn:latitude":26.80335,
+    "gn:longitude":87.9106,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Shera",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7951541
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2fddd5ace30113ac3f217a2999666700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1209964687,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1209964687,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1209964687,
+    "wof:lastmodified":1536369733,
+    "wof:name":"Shera",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.9106,
+    26.80335,
+    87.9106,
+    26.80335
+],
+  "geometry": {"coordinates":[87.9106,26.80335],"type":"Point"}
+}

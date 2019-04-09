@@ -1,0 +1,78 @@
+{
+  "id": 1293038557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.62562,26.81472,87.62562,26.81472",
+    "geom:latitude":26.81472,
+    "geom:longitude":87.62562,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"5",
+    "gn:admin4_code":"50049",
+    "gn:asciiname":"Pattawal",
+    "gn:country_code":"NP",
+    "gn:dem":918,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7970912,
+    "gn:latitude":26.81472,
+    "gn:longitude":87.62562,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pattawal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092048303,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7970912
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"419f1c349fe5961753a9c8dbcb2a781b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1293038557,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1293038557,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1293038557,
+    "wof:lastmodified":1536938020,
+    "wof:name":"Pattawal",
+    "wof:parent_id":1092048303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.62562,
+    26.81472,
+    87.62562,
+    26.81472
+],
+  "geometry": {"coordinates":[87.62562,26.81472],"type":"Point"}
+}

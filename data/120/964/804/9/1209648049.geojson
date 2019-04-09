@@ -1,0 +1,64 @@
+{
+  "id": 1209648049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.02894,28.61345,81.02894,28.61345",
+    "geom:latitude":28.61345,
+    "geom:longitude":81.02894,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710021.0",
+    "gn:asciiname":"Kumari Bag",
+    "gn:country_code":"NP",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956845,
+    "gn:latitude":28.61345,
+    "gn:longitude":81.02894,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kumari Bag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956845
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3ed1cfaf48a2976a1718a31c798cc1ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209648049
+        }
+    ],
+    "wof:id":1209648049,
+    "wof:lastmodified":1536280670,
+    "wof:name":"Kumari Bag",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.02894,
+    28.61345,
+    81.02894,
+    28.61345
+],
+  "geometry": {"coordinates":[81.02894000000001,28.61345],"type":"Point"}
+}

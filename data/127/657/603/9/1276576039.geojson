@@ -1,0 +1,78 @@
+{
+  "id": 1276576039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.62747,29.59814,80.62747,29.59814",
+    "geom:latitude":29.59814,
+    "geom:longitude":80.62747,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740061",
+    "gn:asciiname":"Jagargaun",
+    "gn:country_code":"NP",
+    "gn:dem":1828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7985855,
+    "gn:latitude":29.59814,
+    "gn:longitude":80.62747,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jagargaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050255,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7985855
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4b774afd6b3e0dcdba90cb01da27bb6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1276576039,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1276576039,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1276576039,
+    "wof:lastmodified":1536951382,
+    "wof:name":"Jagargaun",
+    "wof:parent_id":1092050255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.62747,
+    29.59814,
+    80.62747,
+    29.59814
+],
+  "geometry": {"coordinates":[80.62747,29.59814],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209156751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.43354,27.64998,84.43354,27.64998",
+    "geom:latitude":27.64998,
+    "geom:longitude":84.43354,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"35.0",
+    "gn:admin4_code":"350005.0",
+    "gn:asciiname":"Gauriganj",
+    "gn:country_code":"NP",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7934213,
+    "gn:latitude":27.64998,
+    "gn:longitude":84.43354,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gauriganj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7934213
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"aa701c7b3acf2527b90c6c7b49f36a50",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209156751
+        }
+    ],
+    "wof:id":1209156751,
+    "wof:lastmodified":1536296035,
+    "wof:name":"Gauriganj",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.43354000000002,
+    27.64998,
+    84.43354000000002,
+    27.64998
+],
+  "geometry": {"coordinates":[84.43354000000002,27.64998],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209648039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.41766,29.53602,80.41766,29.53602",
+    "geom:latitude":29.53602,
+    "geom:longitude":80.41766,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740024",
+    "gn:asciiname":"Malbela",
+    "gn:country_code":"NP",
+    "gn:dem":1330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7973899,
+    "gn:latitude":29.53602,
+    "gn:longitude":80.41766,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Malbela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7973899
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"dfb43a91ab7b7d392a74c8988cea1f28",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209648039
+        }
+    ],
+    "wof:id":1209648039,
+    "wof:lastmodified":1536280670,
+    "wof:name":"Malbela",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.41766,
+    29.53602,
+    80.41766,
+    29.53602
+],
+  "geometry": {"coordinates":[80.41766,29.53602],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293537801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.96875,27.62045,84.96875,27.62045",
+    "geom:latitude":27.62045,
+    "geom:longitude":84.96875,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310017",
+    "gn:asciiname":"Thosne",
+    "gn:country_code":"NP",
+    "gn:dem":1686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7968254,
+    "gn:latitude":27.62045,
+    "gn:longitude":84.96875,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thosne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7968254
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4e104fe51b5cc9be3a1efa6237b373dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1293537801,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1293537801,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1293537801,
+    "wof:lastmodified":1536714992,
+    "wof:name":"Thosne",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.96875,
+    27.62045,
+    84.96875,
+    27.62045
+],
+  "geometry": {"coordinates":[84.96875,27.62045],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1327360057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.66149,28.04218,82.66149,28.04218",
+    "geom:latitude":28.04218,
+    "geom:longitude":82.66149,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"560017.0",
+    "gn:asciiname":"Lekhyapa",
+    "gn:country_code":"NP",
+    "gn:dem":1523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7938947,
+    "gn:latitude":28.04218,
+    "gn:longitude":82.66149,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lekhyapa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048605,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7938947
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5ad3ec2f9f06df2eb670ea1077672b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1327360057,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1327360057,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1327360057,
+    "wof:lastmodified":1536785931,
+    "wof:name":"Lekhyapa",
+    "wof:parent_id":1092048605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.66149,
+    28.04218,
+    82.66149,
+    28.04218
+],
+  "geometry": {"coordinates":[82.66149,28.04218],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209362719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.45811,27.03952,87.45811,27.03952",
+    "geom:latitude":27.03952,
+    "geom:longitude":87.45811,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"8.0",
+    "gn:admin4_code":"80009.0",
+    "gn:asciiname":"Sungure",
+    "gn:country_code":"NP",
+    "gn:dem":1775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005977,
+    "gn:latitude":27.03952,
+    "gn:longitude":87.45811,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sungure",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005977
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"02f90ed20babb4bf9d6da4f5305d66c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209362719
+        }
+    ],
+    "wof:id":1209362719,
+    "wof:lastmodified":1536289370,
+    "wof:name":"Sungure",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.45810999999998,
+    27.03952,
+    87.45810999999998,
+    27.03952
+],
+  "geometry": {"coordinates":[87.45810999999998,27.03952],"type":"Point"}
+}

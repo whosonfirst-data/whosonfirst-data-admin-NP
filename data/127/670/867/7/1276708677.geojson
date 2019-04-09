@@ -1,0 +1,78 @@
+{
+  "id": 1276708677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.46497,27.74655,83.46497,27.74655",
+    "geom:latitude":27.74655,
+    "geom:longitude":83.46497,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"47",
+    "gn:admin4_code":"470020",
+    "gn:asciiname":"Dobhan Panthe",
+    "gn:country_code":"NP",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7976131,
+    "gn:latitude":27.74655,
+    "gn:longitude":83.46497,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dobhan Panthe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050889,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7976131
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7553153643a050db912c7bf97b8a6d3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1276708677,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1276708677,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1276708677,
+    "wof:lastmodified":1536773536,
+    "wof:name":"Dobhan Panthe",
+    "wof:parent_id":1092050889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.46497,
+    27.74655,
+    83.46497,
+    27.74655
+],
+  "geometry": {"coordinates":[83.46496999999999,27.74655],"type":"Point"}
+}

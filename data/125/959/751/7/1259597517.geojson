@@ -1,0 +1,79 @@
+{
+  "id": 1259597517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.62039,27.61676,85.62039,27.61676",
+    "geom:latitude":27.61676,
+    "geom:longitude":85.62039,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pathakdhi",
+    "gn:country_code":"NP",
+    "gn:dem":925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10321805,
+    "gn:latitude":27.61676,
+    "gn:longitude":85.62039,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"P\u0101thak\u1e0dhi\u0307\u0304",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u0101thak\u1e0dhi\u0307\u0304",
+        "P\u0101thak\u1e0dh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10321805
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"80309c03ffaf16a15862662b01dc78eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1259597517,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1259597517,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1259597517,
+    "wof:lastmodified":1537676085,
+    "wof:name":"Pathakdhi",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.62039,
+    27.61676,
+    85.62039,
+    27.61676
+],
+  "geometry": {"coordinates":[85.62039,27.61676],"type":"Point"}
+}

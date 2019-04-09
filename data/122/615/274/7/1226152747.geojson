@@ -1,0 +1,75 @@
+{
+  "id": 1226152747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.64408,27.3462,86.64408,27.3462",
+    "geom:latitude":27.3462,
+    "geom:longitude":86.64408,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bhandarigu",
+    "gn:country_code":"NP",
+    "gn:dem":1693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11205822,
+    "gn:latitude":27.3462,
+    "gn:longitude":86.64408,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Bhan\u1e0d\u0101ri\u0307\u0304g\u0169",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049841,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11205822
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fa164e0963aa6100cf09dfd4aa007edc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1226152747,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1226152747,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1226152747,
+    "wof:lastmodified":1537064651,
+    "wof:name":"Bhandarigu",
+    "wof:parent_id":1092049841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.64408,
+    27.3462,
+    86.64408,
+    27.3462
+],
+  "geometry": {"coordinates":[86.64408,27.3462],"type":"Point"}
+}

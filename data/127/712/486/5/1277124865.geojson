@@ -1,0 +1,78 @@
+{
+  "id": 1277124865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.35056,26.97821,87.35056,26.97821",
+    "geom:latitude":26.97821,
+    "geom:longitude":87.35056,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"7.0",
+    "gn:admin4_code":"70015.0",
+    "gn:asciiname":"Tallo Kopche",
+    "gn:country_code":"NP",
+    "gn:dem":1076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7942971,
+    "gn:latitude":26.97821,
+    "gn:longitude":87.35056,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tallo Kopche",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049207,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7942971
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f178d0921aa1052b505ca57f3c08b35c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049207,
+            "locality_id":1277124865,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049207,
+            "locality_id":1277124865,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1277124865,
+    "wof:lastmodified":1536707296,
+    "wof:name":"Tallo Kopche",
+    "wof:parent_id":1092049207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.35056,
+    26.97821,
+    87.35056,
+    26.97821
+],
+  "geometry": {"coordinates":[87.35056,26.97821],"type":"Point"}
+}

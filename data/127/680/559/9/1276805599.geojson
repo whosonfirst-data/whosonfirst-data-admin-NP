@@ -1,0 +1,78 @@
+{
+  "id": 1276805599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.54265,27.37444,85.54265,27.37444",
+    "geom:latitude":27.37444,
+    "geom:longitude":85.54265,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240032.0",
+    "gn:asciiname":"Dhap",
+    "gn:country_code":"NP",
+    "gn:dem":683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7963036,
+    "gn:latitude":27.37444,
+    "gn:longitude":85.54265,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7963036
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0ec370759850d93bad437869e007571b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1276805599,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1276805599,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1276805599,
+    "wof:lastmodified":1536642232,
+    "wof:name":"Dhap",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.54265,
+    27.37444,
+    85.54265,
+    27.37444
+],
+  "geometry": {"coordinates":[85.54264999999999,27.37444],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1193193811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.17159,28.04487,86.17159,28.04487",
+    "geom:latitude":28.04487,
+    "geom:longitude":86.17159,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"22.0",
+    "gn:admin4_code":"220033.0",
+    "gn:asciiname":"Thangchhemu",
+    "gn:country_code":"NP",
+    "gn:dem":3260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7944891,
+    "gn:latitude":28.04487,
+    "gn:longitude":86.17159,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thangchhemu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675579,
+        1092050535,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7944891
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a3af1a2b7a95bffcf1d872e06339df40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1193193811,
+            "region_id":85675579
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1193193811,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1193193811,
+    "wof:lastmodified":1536380050,
+    "wof:name":"Thangchhemu",
+    "wof:parent_id":1092050535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.17159000000002,
+    28.04487,
+    86.17159000000002,
+    28.04487
+],
+  "geometry": {"coordinates":[86.17159000000002,28.04487],"type":"Point"}
+}

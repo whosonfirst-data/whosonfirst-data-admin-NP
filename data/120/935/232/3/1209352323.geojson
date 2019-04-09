@@ -1,0 +1,64 @@
+{
+  "id": 1209352323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.22266,26.42189,87.22266,26.42189",
+    "geom:latitude":26.42189,
+    "geom:longitude":87.22266,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"6",
+    "gn:admin4_code":"60002",
+    "gn:asciiname":"Bairiya",
+    "gn:country_code":"NP",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7997349,
+    "gn:latitude":26.42189,
+    "gn:longitude":87.22266,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bairiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7997349
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"360f6ca555a43e5276c499b3aabef9bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209352323
+        }
+    ],
+    "wof:id":1209352323,
+    "wof:lastmodified":1536289702,
+    "wof:name":"Bairiya",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.22266,
+    26.42189,
+    87.22266,
+    26.42189
+],
+  "geometry": {"coordinates":[87.22266,26.42189],"type":"Point"}
+}

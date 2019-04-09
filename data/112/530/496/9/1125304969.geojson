@@ -1,0 +1,103 @@
+{
+  "id": 1125304969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.66667,27.58333,85.66667,27.58333",
+    "geom:latitude":27.58333,
+    "geom:longitude":85.66667,
+    "gn:gn_country":"NP",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":399759,
+    "iso:country":"NP",
+    "lbl:latitude":27.58333,
+    "lbl:longitude":85.66667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NP",
+    "qs_pg:gn_country":"NP",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1283282,
+    "qs_pg:gn_pop":399759,
+    "qs_pg:name":"Kavrepalanchok",
+    "qs_pg:name_adm0":"Nepal",
+    "qs_pg:name_adm1":"Madhyamanchal",
+    "qs_pg:photos":4,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":10,
+    "qs_pg:photos_9r":9,
+    "qs_pg:photos_all":2276,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":1103553,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424911,
+    "qs_pg:woe_id":23706761,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"quattroshapes_pg",
+    "woe:adm0_id":23424911,
+    "woe:name_adm0":"Nepal",
+    "woe:name_adm1":"Madhyamanchal",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283282,
+        "gp:id":23706761,
+        "qs_pg:id":1103553
+    },
+    "wof:country":"NP",
+    "wof:created":1497043637,
+    "wof:geomhash":"023a63348bc86a89e3b2dce8f42b736c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "localadmin_id":1125304969,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "localadmin_id":1125304969,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1125304969,
+    "wof:lastmodified":1534379389,
+    "wof:name":"Kavrepalanchok",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"localadmin",
+    "wof:population":399759,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[
+        421188595
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.66667,
+    27.58333,
+    85.66667,
+    27.58333
+],
+  "geometry": {"coordinates":[85.66667,27.58333],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209143571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.26536,26.86159,87.26536,26.86159",
+    "geom:latitude":26.86159,
+    "geom:longitude":87.26536,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"6.0",
+    "gn:admin4_code":"60013.0",
+    "gn:asciiname":"Dandagaun Dharne",
+    "gn:country_code":"NP",
+    "gn:dem":1252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7997611,
+    "gn:latitude":26.86159,
+    "gn:longitude":87.26536,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dandagaun Dharne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7997611
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cf4f985f20da4f83f0f01a789f2e1e17",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209143571
+        }
+    ],
+    "wof:id":1209143571,
+    "wof:lastmodified":1536296428,
+    "wof:name":"Dandagaun Dharne",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.26536,
+    26.861590000000003,
+    87.26536,
+    26.861590000000003
+],
+  "geometry": {"coordinates":[87.26536,26.86159],"type":"Point"}
+}

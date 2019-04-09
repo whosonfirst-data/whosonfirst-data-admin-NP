@@ -1,0 +1,78 @@
+{
+  "id": 1226069401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.79526,28.99592,82.79526,28.99592",
+    "geom:latitude":28.99592,
+    "geom:longitude":82.79526,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"62.0",
+    "gn:admin4_code":"620021.0",
+    "gn:asciiname":"Urutola",
+    "gn:country_code":"NP",
+    "gn:dem":2586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7945747,
+    "gn:latitude":28.99592,
+    "gn:longitude":82.79526,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Urutola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050349,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7945747
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5b24347be08c8f39d798d40fe1c499f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1226069401,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1226069401,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1226069401,
+    "wof:lastmodified":1536691335,
+    "wof:name":"Urutola",
+    "wof:parent_id":1092050349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.79526,
+    28.99592,
+    82.79526,
+    28.99592
+],
+  "geometry": {"coordinates":[82.79526,28.99592],"type":"Point"}
+}

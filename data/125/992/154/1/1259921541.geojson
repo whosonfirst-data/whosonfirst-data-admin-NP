@@ -1,0 +1,78 @@
+{
+  "id": 1259921541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.7404,28.1144,83.7404,28.1144",
+    "geom:latitude":28.1144,
+    "geom:longitude":83.7404,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390046.0",
+    "gn:asciiname":"Okhle",
+    "gn:country_code":"NP",
+    "gn:dem":1293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001991,
+    "gn:latitude":28.1144,
+    "gn:longitude":83.7404,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Okhle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001991
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8ca657d6d8b69f7fe675404c0cf63006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1259921541,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1259921541,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1259921541,
+    "wof:lastmodified":1536724708,
+    "wof:name":"Okhle",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.7404,
+    28.1144,
+    83.7404,
+    28.1144
+],
+  "geometry": {"coordinates":[83.74039999999999,28.1144],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1360222157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.56832,28.14737,84.56832,28.14737",
+    "geom:latitude":28.14737,
+    "geom:longitude":84.56832,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370037",
+    "gn:asciiname":"Bakot",
+    "gn:country_code":"NP",
+    "gn:dem":1237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7966702,
+    "gn:latitude":28.14737,
+    "gn:longitude":84.56832,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bakot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050009,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7966702
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"de8a4f6ba74f5c31d9a0238977aa3221",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1360222157,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1360222157,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1360222157,
+    "wof:lastmodified":1536747625,
+    "wof:name":"Bakot",
+    "wof:parent_id":1092050009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.56832,
+    28.14737,
+    84.56832,
+    28.14737
+],
+  "geometry": {"coordinates":[84.56832,28.14737],"type":"Point"}
+}

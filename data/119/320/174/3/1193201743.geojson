@@ -1,0 +1,78 @@
+{
+  "id": 1193201743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.54005,26.90706,86.54005,26.90706",
+    "geom:latitude":26.90706,
+    "geom:longitude":86.54005,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140027.0",
+    "gn:asciiname":"Bohoribot",
+    "gn:country_code":"NP",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007300,
+    "gn:latitude":26.90706,
+    "gn:longitude":86.54005,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bohoribot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050179,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007300
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"91eb6548fa2f6349d13ccaf2d9d79eaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1193201743,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1193201743,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1193201743,
+    "wof:lastmodified":1536372060,
+    "wof:name":"Bohoribot",
+    "wof:parent_id":1092050179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.54005,
+    26.90706,
+    86.54005,
+    26.90706
+],
+  "geometry": {"coordinates":[86.54004999999999,26.90706],"type":"Point"}
+}

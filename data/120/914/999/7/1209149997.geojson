@@ -1,0 +1,64 @@
+{
+  "id": 1209149997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.06643,28.36515,83.06643,28.36515",
+    "geom:latitude":28.36515,
+    "geom:longitude":83.06643,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45",
+    "gn:admin4_code":"450057",
+    "gn:asciiname":"Ghumaune",
+    "gn:country_code":"NP",
+    "gn:dem":1533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7965146,
+    "gn:latitude":28.36515,
+    "gn:longitude":83.06643,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ghumaune",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7965146
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f990c257507bbee40b68818aca9713b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209149997
+        }
+    ],
+    "wof:id":1209149997,
+    "wof:lastmodified":1536296231,
+    "wof:name":"Ghumaune",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.06643000000003,
+    28.36515,
+    83.06643000000003,
+    28.36515
+],
+  "geometry": {"coordinates":[83.06643000000003,28.36515],"type":"Point"}
+}

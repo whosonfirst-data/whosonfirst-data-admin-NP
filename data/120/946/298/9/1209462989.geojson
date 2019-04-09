@@ -1,0 +1,64 @@
+{
+  "id": 1209462989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.14886,26.68535,88.14886,26.68535",
+    "geom:latitude":26.68535,
+    "geom:longitude":88.14886,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40037.0",
+    "gn:asciiname":"Chautarigaun",
+    "gn:country_code":"NP",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7955059,
+    "gn:latitude":26.68535,
+    "gn:longitude":88.14886,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chautarigaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7955059
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"08e0818cf1435002aa420e69cd412a4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209462989
+        }
+    ],
+    "wof:id":1209462989,
+    "wof:lastmodified":1536286322,
+    "wof:name":"Chautarigaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.14886,
+    26.68535,
+    88.14886,
+    26.68535
+],
+  "geometry": {"coordinates":[88.14886,26.68535],"type":"Point"}
+}

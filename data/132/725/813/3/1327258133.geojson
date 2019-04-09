@@ -1,0 +1,78 @@
+{
+  "id": 1327258133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.56522,28.42366,82.56522,28.42366",
+    "geom:latitude":28.42366,
+    "geom:longitude":82.56522,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530039",
+    "gn:asciiname":"Sephu",
+    "gn:country_code":"NP",
+    "gn:dem":2043,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7984418,
+    "gn:latitude":28.42366,
+    "gn:longitude":82.56522,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sephu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7984418
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5f36f77ffd8f22ed5ae5efb21797ad82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1327258133,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1327258133,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1327258133,
+    "wof:lastmodified":1536933324,
+    "wof:name":"Sephu",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.56522,
+    28.42366,
+    82.56522,
+    28.42366
+],
+  "geometry": {"coordinates":[82.56522,28.42366],"type":"Point"}
+}

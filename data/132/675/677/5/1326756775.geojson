@@ -1,0 +1,78 @@
+{
+  "id": 1326756775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.15418,29.52085,81.15418,29.52085",
+    "geom:latitude":29.52085,
+    "geom:longitude":81.15418,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"68.0",
+    "gn:admin4_code":"680041.0",
+    "gn:asciiname":"Dilbunga",
+    "gn:country_code":"NP",
+    "gn:dem":1165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7997749,
+    "gn:latitude":29.52085,
+    "gn:longitude":81.15418,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dilbunga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048571,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7997749
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"016f5f07e346d7facb986bf7da0b9821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1326756775,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1326756775,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1326756775,
+    "wof:lastmodified":1536660470,
+    "wof:name":"Dilbunga",
+    "wof:parent_id":1092048571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.15418000000003,
+    29.52085,
+    81.15418000000003,
+    29.52085
+],
+  "geometry": {"coordinates":[81.15418000000003,29.52085],"type":"Point"}
+}

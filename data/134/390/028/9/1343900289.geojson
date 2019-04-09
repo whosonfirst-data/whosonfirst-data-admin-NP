@@ -1,0 +1,78 @@
+{
+  "id": 1343900289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.34005,26.77145,85.34005,26.77145",
+    "geom:latitude":26.77145,
+    "geom:longitude":85.34005,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"32",
+    "gn:admin4_code":"320079",
+    "gn:asciiname":"Mohanpur",
+    "gn:country_code":"NP",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7982727,
+    "gn:latitude":26.77145,
+    "gn:longitude":85.34005,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mohanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049419,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7982727
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"330bdee596924018131fd0413588b580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1343900289,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1343900289,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1343900289,
+    "wof:lastmodified":1536606228,
+    "wof:name":"Mohanpur",
+    "wof:parent_id":1092049419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.34005,
+    26.77145,
+    85.34005,
+    26.77145
+],
+  "geometry": {"coordinates":[85.34005000000001,26.77145],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1259894219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.49292,27.97258,85.49292,27.97258",
+    "geom:latitude":27.97258,
+    "geom:longitude":85.49292,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kyuola Bhanjyan",
+    "gn:country_code":"NP",
+    "gn:dem":3472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10316782,
+    "gn:latitude":27.97258,
+    "gn:longitude":85.49292,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Kyuol\u0101 Bha\u00f1jy\u0101\u1e45",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Kyuol\u0101 Bha\u00f1jy\u0101\u1e45"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10316782
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"87a5c9d72498ba626fd6d65f767125b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1259894219,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1259894219,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1259894219,
+    "wof:lastmodified":1537676078,
+    "wof:name":"Kyuola Bhanjyan",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.49292,
+    27.97258,
+    85.49292,
+    27.97258
+],
+  "geometry": {"coordinates":[85.49292,27.97258],"type":"Point"}
+}

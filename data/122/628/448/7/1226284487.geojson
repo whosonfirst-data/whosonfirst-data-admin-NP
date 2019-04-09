@@ -1,0 +1,78 @@
+{
+  "id": 1226284487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.11977,26.95141,87.11977,26.95141",
+    "geom:latitude":26.95141,
+    "geom:longitude":87.11977,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100026.0",
+    "gn:asciiname":"Jyamire",
+    "gn:country_code":"NP",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933181,
+    "gn:latitude":26.95141,
+    "gn:longitude":87.11977,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jyamire",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933181
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d02424be2a967538b559d426e2b540c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1226284487,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1226284487,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1226284487,
+    "wof:lastmodified":1536876971,
+    "wof:name":"Jyamire",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.11976999999997,
+    26.95141,
+    87.11976999999997,
+    26.95141
+],
+  "geometry": {"coordinates":[87.11976999999997,26.95141],"type":"Point"}
+}

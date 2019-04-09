@@ -1,0 +1,78 @@
+{
+  "id": 1193078535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.60253,28.01045,84.60253,28.01045",
+    "geom:latitude":28.01045,
+    "geom:longitude":84.60253,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360050.0",
+    "gn:asciiname":"Jyamire",
+    "gn:country_code":"NP",
+    "gn:dem":862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7949169,
+    "gn:latitude":28.01045,
+    "gn:longitude":84.60253,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jyamire",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7949169
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"18ba53d40ca97644ea301d07bca0cc20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1193078535,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1193078535,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1193078535,
+    "wof:lastmodified":1536383188,
+    "wof:name":"Jyamire",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.60253,
+    28.01045,
+    84.60253,
+    28.01045
+],
+  "geometry": {"coordinates":[84.60253,28.01045],"type":"Point"}
+}

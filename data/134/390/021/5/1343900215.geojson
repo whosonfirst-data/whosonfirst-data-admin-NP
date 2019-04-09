@@ -1,0 +1,78 @@
+{
+  "id": 1343900215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.56985,27.88065,85.56985,27.88065",
+    "geom:latitude":27.88065,
+    "geom:longitude":85.56985,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"23",
+    "gn:admin4_code":"230016",
+    "gn:asciiname":"Bicharichaurtol",
+    "gn:country_code":"NP",
+    "gn:dem":1783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7994520,
+    "gn:latitude":27.88065,
+    "gn:longitude":85.56985,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bicharichaurtol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7994520
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"57282462f2060ad809bac5a59f5e9cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1343900215,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1343900215,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1343900215,
+    "wof:lastmodified":1536606338,
+    "wof:name":"Bicharichaurtol",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.56985,
+    27.88065,
+    85.56985,
+    27.88065
+],
+  "geometry": {"coordinates":[85.56985,27.88065],"type":"Point"}
+}

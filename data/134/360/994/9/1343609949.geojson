@@ -1,0 +1,78 @@
+{
+  "id": 1343609949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.66831,27.76752,85.66831,27.76752",
+    "geom:latitude":27.76752,
+    "geom:longitude":85.66831,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"23",
+    "gn:admin4_code":"230040",
+    "gn:asciiname":"Budhichaur",
+    "gn:country_code":"NP",
+    "gn:dem":1113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7994972,
+    "gn:latitude":27.76752,
+    "gn:longitude":85.66831,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Budhichaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7994972
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e7e74d81020d91be6bb2632fbe78ecca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1343609949,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1343609949,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1343609949,
+    "wof:lastmodified":1537026802,
+    "wof:name":"Budhichaur",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.66830999999998,
+    27.76752,
+    85.66830999999998,
+    27.76752
+],
+  "geometry": {"coordinates":[85.66830999999998,27.76752],"type":"Point"}
+}

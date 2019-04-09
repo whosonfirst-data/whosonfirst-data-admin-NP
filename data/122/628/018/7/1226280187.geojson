@@ -1,0 +1,78 @@
+{
+  "id": 1226280187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.97269,28.08763,83.97269,28.08763",
+    "geom:latitude":28.08763,
+    "geom:longitude":83.97269,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380021.0",
+    "gn:asciiname":"Babiyadanda",
+    "gn:country_code":"NP",
+    "gn:dem":1027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003492,
+    "gn:latitude":28.08763,
+    "gn:longitude":83.97269,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Babiyadanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003492
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"59a601896348e2a79e1a5b023e5995d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1226280187,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1226280187,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1226280187,
+    "wof:lastmodified":1536883305,
+    "wof:name":"Babiyadanda",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.97269,
+    28.08763,
+    83.97269,
+    28.08763
+],
+  "geometry": {"coordinates":[83.97269,28.08763],"type":"Point"}
+}

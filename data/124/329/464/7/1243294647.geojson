@@ -1,0 +1,78 @@
+{
+  "id": 1243294647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.60264,29.46585,80.60264,29.46585",
+    "geom:latitude":29.46585,
+    "geom:longitude":80.60264,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740056",
+    "gn:asciiname":"Lam Bagar",
+    "gn:country_code":"NP",
+    "gn:dem":1872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7983927,
+    "gn:latitude":29.46585,
+    "gn:longitude":80.60264,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lam Bagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050255,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7983927
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"be7cb0f6cc7c516c13504aae16fd5744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1243294647,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1243294647,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1243294647,
+    "wof:lastmodified":1537023340,
+    "wof:name":"Lam Bagar",
+    "wof:parent_id":1092050255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.60264000000002,
+    29.46585,
+    80.60264000000002,
+    29.46585
+],
+  "geometry": {"coordinates":[80.60264000000002,29.46585],"type":"Point"}
+}

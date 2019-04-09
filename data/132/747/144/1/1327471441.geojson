@@ -1,0 +1,78 @@
+{
+  "id": 1327471441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.67876,27.51716,83.67876,27.51716",
+    "geom:latitude":27.51716,
+    "geom:longitude":83.67876,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"48",
+    "gn:admin4_code":"480056",
+    "gn:asciiname":"Unwach",
+    "gn:country_code":"NP",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7973345,
+    "gn:latitude":27.51716,
+    "gn:longitude":83.67876,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Unwach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050413,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7973345
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"004503ea382d18b5e53b8507713181b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050413,
+            "locality_id":1327471441,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050413,
+            "locality_id":1327471441,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1327471441,
+    "wof:lastmodified":1536622250,
+    "wof:name":"Unwach",
+    "wof:parent_id":1092050413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.67876,
+    27.51716,
+    83.67876,
+    27.51716
+],
+  "geometry": {"coordinates":[83.67876,27.51716],"type":"Point"}
+}

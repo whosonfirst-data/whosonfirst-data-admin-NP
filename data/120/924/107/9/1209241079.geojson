@@ -1,0 +1,64 @@
+{
+  "id": 1209241079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.3202,29.24936,81.3202,29.24936",
+    "geom:latitude":29.24936,
+    "geom:longitude":81.3202,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"69.0",
+    "gn:admin4_code":"690040.0",
+    "gn:asciiname":"Nawaghar",
+    "gn:country_code":"NP",
+    "gn:dem":1532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7998535,
+    "gn:latitude":29.24936,
+    "gn:longitude":81.3202,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nawaghar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7998535
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b1d53c23e0d54015d210932be3ae87ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209241079
+        }
+    ],
+    "wof:id":1209241079,
+    "wof:lastmodified":1536293317,
+    "wof:name":"Nawaghar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.3202,
+    29.24936,
+    81.3202,
+    29.24936
+],
+  "geometry": {"coordinates":[81.3202,29.24936],"type":"Point"}
+}

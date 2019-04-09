@@ -1,0 +1,78 @@
+{
+  "id": 1310539069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.1172,26.8537,87.1172,26.8537",
+    "geom:latitude":26.8537,
+    "geom:longitude":87.1172,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140024.0",
+    "gn:asciiname":"Bhotebari",
+    "gn:country_code":"NP",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007152,
+    "gn:latitude":26.8537,
+    "gn:longitude":87.1172,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhotebari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050179,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007152
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e33a0411c0e53423051dd6d71bf1df2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1310539069,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1310539069,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1310539069,
+    "wof:lastmodified":1536867164,
+    "wof:name":"Bhotebari",
+    "wof:parent_id":1092050179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.1172,
+    26.8537,
+    87.1172,
+    26.8537
+],
+  "geometry": {"coordinates":[87.1172,26.8537],"type":"Point"}
+}

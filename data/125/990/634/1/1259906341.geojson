@@ -1,0 +1,78 @@
+{
+  "id": 1259906341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.09972,28.75504,82.09972,28.75504",
+    "geom:latitude":28.75504,
+    "geom:longitude":82.09972,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"61.0",
+    "gn:admin4_code":"610010.0",
+    "gn:asciiname":"Rajikuri",
+    "gn:country_code":"NP",
+    "gn:dem":1288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7953147,
+    "gn:latitude":28.75504,
+    "gn:longitude":82.09972,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Rajikuri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092048763,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7953147
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7206d04b7bbadb68b23c73313c1abc06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048763,
+            "locality_id":1259906341,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048763,
+            "locality_id":1259906341,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1259906341,
+    "wof:lastmodified":1536746037,
+    "wof:name":"Rajikuri",
+    "wof:parent_id":1092048763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.09971999999998,
+    28.75504,
+    82.09971999999998,
+    28.75504
+],
+  "geometry": {"coordinates":[82.09971999999998,28.75504],"type":"Point"}
+}

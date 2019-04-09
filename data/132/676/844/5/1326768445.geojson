@@ -1,0 +1,78 @@
+{
+  "id": 1326768445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.90409,26.97135,87.90409,26.97135",
+    "geom:latitude":26.97135,
+    "geom:longitude":87.90409,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30027.0",
+    "gn:asciiname":"Jallaribesi",
+    "gn:country_code":"NP",
+    "gn:dem":1210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7952252,
+    "gn:latitude":26.97135,
+    "gn:longitude":87.90409,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jallaribesi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7952252
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f046adb9e25725a0938f94bd788a994b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1326768445,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1326768445,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1326768445,
+    "wof:lastmodified":1536642653,
+    "wof:name":"Jallaribesi",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.90409,
+    26.97135,
+    87.90409,
+    26.97135
+],
+  "geometry": {"coordinates":[87.90409,26.97135],"type":"Point"}
+}

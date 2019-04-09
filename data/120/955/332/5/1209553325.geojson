@@ -1,0 +1,64 @@
+{
+  "id": 1209553325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.53521,27.08856,85.53521,27.08856",
+    "geom:latitude":27.08856,
+    "geom:longitude":85.53521,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"19",
+    "gn:admin4_code":"190040",
+    "gn:asciiname":"Luiteltol",
+    "gn:country_code":"NP",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7991818,
+    "gn:latitude":27.08856,
+    "gn:longitude":85.53521,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Luiteltol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7991818
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0f2867d1a624d18291a770820f30f818",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209553325
+        }
+    ],
+    "wof:id":1209553325,
+    "wof:lastmodified":1536283627,
+    "wof:name":"Luiteltol",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.53520999999998,
+    27.08856,
+    85.53520999999998,
+    27.08856
+],
+  "geometry": {"coordinates":[85.53520999999998,27.08856],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1327075833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.90972,28.15777,83.90972,28.15777",
+    "geom:latitude":28.15777,
+    "geom:longitude":83.90972,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390022.0",
+    "gn:asciiname":"Chaukiswara",
+    "gn:country_code":"NP",
+    "gn:dem":1161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001151,
+    "gn:latitude":28.15777,
+    "gn:longitude":83.90972,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chaukiswara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001151
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"158aa92cc92e74f218a1f753773e5a9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1327075833,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1327075833,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1327075833,
+    "wof:lastmodified":1536698081,
+    "wof:name":"Chaukiswara",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.90972,
+    28.15777000000001,
+    83.90972,
+    28.15777000000001
+],
+  "geometry": {"coordinates":[83.90971999999999,28.15777000000001],"type":"Point"}
+}

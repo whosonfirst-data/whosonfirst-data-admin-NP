@@ -1,0 +1,78 @@
+{
+  "id": 1260121927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.79576,27.05401,87.79576,27.05401",
+    "geom:latitude":27.05401,
+    "geom:longitude":87.79576,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"2",
+    "gn:admin4_code":"20027.0",
+    "gn:asciiname":"Bhimauri",
+    "gn:country_code":"NP",
+    "gn:dem":1872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7977734,
+    "gn:latitude":27.05401,
+    "gn:longitude":87.79576,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhimauri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7977734
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9d76558cf76c9d3e87e8556f59d6e532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1260121927,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1260121927,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1260121927,
+    "wof:lastmodified":1536933519,
+    "wof:name":"Bhimauri",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.79576,
+    27.05401,
+    87.79576,
+    27.05401
+],
+  "geometry": {"coordinates":[87.79576,27.05401],"type":"Point"}
+}

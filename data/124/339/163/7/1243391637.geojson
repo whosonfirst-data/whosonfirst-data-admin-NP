@@ -1,0 +1,78 @@
+{
+  "id": 1243391637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.1892,28.464,81.1892,28.464",
+    "geom:latitude":28.464,
+    "geom:longitude":81.1892,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"58.0",
+    "gn:admin4_code":"580024.0",
+    "gn:asciiname":"Laksmipur",
+    "gn:country_code":"NP",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009902,
+    "gn:latitude":28.464,
+    "gn:longitude":81.1892,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Laksmipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048097,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009902
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"24b640b80ca632a78d51417206418aa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1243391637,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1243391637,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1243391637,
+    "wof:lastmodified":1536884154,
+    "wof:name":"Laksmipur",
+    "wof:parent_id":1092048097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.1892,
+    28.464,
+    81.1892,
+    28.464
+],
+  "geometry": {"coordinates":[81.1892,28.464],"type":"Point"}
+}

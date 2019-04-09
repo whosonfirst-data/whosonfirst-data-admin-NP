@@ -1,0 +1,64 @@
+{
+  "id": 1209033067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.77814,28.651,81.77814,28.651",
+    "geom:latitude":28.651,
+    "geom:longitude":81.77814,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"60.0",
+    "gn:admin4_code":"600030.0",
+    "gn:asciiname":"Dharam Pokhara",
+    "gn:country_code":"NP",
+    "gn:dem":1799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7937388,
+    "gn:latitude":28.651,
+    "gn:longitude":81.77814,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dharam Pokhara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7937388
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cd9fb7d2b4c05c22616e473db029dadd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209033067
+        }
+    ],
+    "wof:id":1209033067,
+    "wof:lastmodified":1536299788,
+    "wof:name":"Dharam Pokhara",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.77814000000002,
+    28.651,
+    81.77814000000002,
+    28.651
+],
+  "geometry": {"coordinates":[81.77814000000002,28.651],"type":"Point"}
+}

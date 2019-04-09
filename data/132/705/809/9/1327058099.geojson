@@ -1,0 +1,78 @@
+{
+  "id": 1327058099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.1653,28.09912,82.1653,28.09912",
+    "geom:latitude":28.09912,
+    "geom:longitude":82.1653,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"560005.0",
+    "gn:asciiname":"Thapagaun",
+    "gn:country_code":"NP",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7938350,
+    "gn:latitude":28.09912,
+    "gn:longitude":82.1653,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thapagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048605,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7938350
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"74af454f6eb62ff875c7453f3865beb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1327058099,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1327058099,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1327058099,
+    "wof:lastmodified":1536723795,
+    "wof:name":"Thapagaun",
+    "wof:parent_id":1092048605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.1653,
+    28.09912000000001,
+    82.1653,
+    28.09912000000001
+],
+  "geometry": {"coordinates":[82.1653,28.09912000000001],"type":"Point"}
+}

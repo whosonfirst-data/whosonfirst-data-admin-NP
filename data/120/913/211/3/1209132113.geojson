@@ -1,0 +1,64 @@
+{
+  "id": 1209132113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.66466,29.5296,81.66466,29.5296",
+    "geom:latitude":29.5296,
+    "geom:longitude":81.66466,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"67.0",
+    "gn:admin4_code":"670019.0",
+    "gn:asciiname":"Tanka",
+    "gn:country_code":"NP",
+    "gn:dem":2080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003812,
+    "gn:latitude":29.5296,
+    "gn:longitude":81.66466,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tanka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003812
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9dced57bd591dc9588efc88aaaaaaa28",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209132113
+        }
+    ],
+    "wof:id":1209132113,
+    "wof:lastmodified":1536296775,
+    "wof:name":"Tanka",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.66466,
+    29.5296,
+    81.66466,
+    29.5296
+],
+  "geometry": {"coordinates":[81.66466,29.5296],"type":"Point"}
+}

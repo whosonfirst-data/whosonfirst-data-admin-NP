@@ -1,0 +1,78 @@
+{
+  "id": 1293149073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.8852,27.33399,85.8852,27.33399",
+    "geom:latitude":27.33399,
+    "geom:longitude":85.8852,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200001",
+    "gn:asciiname":"Langdi",
+    "gn:country_code":"NP",
+    "gn:dem":1610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7992297,
+    "gn:latitude":27.33399,
+    "gn:longitude":85.8852,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Langdi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049679,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7992297
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"360a4a30b4e186ef83659459b17ceaaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1293149073,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1293149073,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1293149073,
+    "wof:lastmodified":1536778616,
+    "wof:name":"Langdi",
+    "wof:parent_id":1092049679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.8852,
+    27.33399,
+    85.8852,
+    27.33399
+],
+  "geometry": {"coordinates":[85.8852,27.33399],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276165387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.03271,26.52679,88.03271,26.52679",
+    "geom:latitude":26.52679,
+    "geom:longitude":88.03271,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40024.0",
+    "gn:asciiname":"Dhaduwa",
+    "gn:country_code":"NP",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7954593,
+    "gn:latitude":26.52679,
+    "gn:longitude":88.03271,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhaduwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7954593
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2cac15b43340af03fad42ff16676998c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1276165387,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1276165387,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1276165387,
+    "wof:lastmodified":1537003045,
+    "wof:name":"Dhaduwa",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.03271,
+    26.52679,
+    88.03271,
+    26.52679
+],
+  "geometry": {"coordinates":[88.03270999999999,26.52679],"type":"Point"}
+}

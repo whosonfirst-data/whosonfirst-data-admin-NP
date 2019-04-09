@@ -1,0 +1,64 @@
+{
+  "id": 1209452793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.36018,26.88962,87.36018,26.88962",
+    "geom:latitude":26.88962,
+    "geom:longitude":87.36018,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"7.0",
+    "gn:admin4_code":"70016.0",
+    "gn:asciiname":"Phedakchung",
+    "gn:country_code":"NP",
+    "gn:dem":1553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7943031,
+    "gn:latitude":26.88962,
+    "gn:longitude":87.36018,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Phedakchung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7943031
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"07855b4677b413d5bf8c9020912dbd2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209452793
+        }
+    ],
+    "wof:id":1209452793,
+    "wof:lastmodified":1536286624,
+    "wof:name":"Phedakchung",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.36018,
+    26.88962,
+    87.36018,
+    26.88962
+],
+  "geometry": {"coordinates":[87.36018,26.88962],"type":"Point"}
+}

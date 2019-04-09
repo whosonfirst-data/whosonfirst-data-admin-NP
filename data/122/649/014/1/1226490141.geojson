@@ -1,0 +1,78 @@
+{
+  "id": 1226490141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.08382,27.95993,84.08382,27.95993",
+    "geom:latitude":27.95993,
+    "geom:longitude":84.08382,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380032.0",
+    "gn:asciiname":"Kuwakot",
+    "gn:country_code":"NP",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8004150,
+    "gn:latitude":27.95993,
+    "gn:longitude":84.08382,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kuwakot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8004150
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"608397e9f1c71fc24ca024c5c8b868d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1226490141,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1226490141,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1226490141,
+    "wof:lastmodified":1537075120,
+    "wof:name":"Kuwakot",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.08381999999997,
+    27.95993,
+    84.08381999999997,
+    27.95993
+],
+  "geometry": {"coordinates":[84.08381999999997,27.95993],"type":"Point"}
+}

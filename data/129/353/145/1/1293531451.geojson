@@ -1,0 +1,78 @@
+{
+  "id": 1293531451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.20643,27.07936,87.20643,27.07936",
+    "geom:latitude":27.07936,
+    "geom:longitude":87.20643,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"7.0",
+    "gn:admin4_code":"70017.0",
+    "gn:asciiname":"Muhane",
+    "gn:country_code":"NP",
+    "gn:dem":853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7943048,
+    "gn:latitude":27.07936,
+    "gn:longitude":87.20643,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Muhane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049207,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7943048
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"227a681f4661530228667517d630bc53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049207,
+            "locality_id":1293531451,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049207,
+            "locality_id":1293531451,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1293531451,
+    "wof:lastmodified":1536724079,
+    "wof:name":"Muhane",
+    "wof:parent_id":1092049207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.20643000000003,
+    27.07936,
+    87.20643000000003,
+    27.07936
+],
+  "geometry": {"coordinates":[87.20643000000003,27.07936],"type":"Point"}
+}

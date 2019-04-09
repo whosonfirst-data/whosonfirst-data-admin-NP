@@ -1,0 +1,64 @@
+{
+  "id": 1209530023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.1785,26.77375,88.1785,26.77375",
+    "geom:latitude":26.77375,
+    "geom:longitude":88.1785,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tirin",
+    "gn:country_code":"NP",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11601228,
+    "gn:latitude":26.77375,
+    "gn:longitude":88.1785,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Tiri\u1e45",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Tiri\u1e45"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11601228
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"308737ab1714771af4bc310a0db8630d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209530023
+        }
+    ],
+    "wof:id":1209530023,
+    "wof:lastmodified":1537676116,
+    "wof:name":"Tirin",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.1785,
+    26.77375,
+    88.1785,
+    26.77375
+],
+  "geometry": {"coordinates":[88.1785,26.77375],"type":"Point"}
+}

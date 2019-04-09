@@ -1,0 +1,64 @@
+{
+  "id": 1209054599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.80016,27.35935,87.80016,27.35935",
+    "geom:latitude":27.35935,
+    "geom:longitude":87.80016,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10040.0",
+    "gn:asciiname":"Sikaicha",
+    "gn:country_code":"NP",
+    "gn:dem":1860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005650,
+    "gn:latitude":27.35935,
+    "gn:longitude":87.80016,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sikaicha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005650
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3ad8cf4db02c28816c23422aee114766",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209054599
+        }
+    ],
+    "wof:id":1209054599,
+    "wof:lastmodified":1536299146,
+    "wof:name":"Sikaicha",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.80015999999998,
+    27.35935,
+    87.80015999999998,
+    27.35935
+],
+  "geometry": {"coordinates":[87.80015999999998,27.35935],"type":"Point"}
+}

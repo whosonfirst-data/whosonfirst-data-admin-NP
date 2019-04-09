@@ -1,0 +1,64 @@
+{
+  "id": 1209652891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.46616,28.00642,83.46616,28.00642",
+    "geom:latitude":28.00642,
+    "geom:longitude":83.46616,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"46.0",
+    "gn:admin4_code":"460056.0",
+    "gn:asciiname":"Pipaldanda",
+    "gn:country_code":"NP",
+    "gn:dem":793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7950457,
+    "gn:latitude":28.00642,
+    "gn:longitude":83.46616,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pipaldanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7950457
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8a6c201619d37fa60cd98df169d24f5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209652891
+        }
+    ],
+    "wof:id":1209652891,
+    "wof:lastmodified":1536280524,
+    "wof:name":"Pipaldanda",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.46616,
+    28.00642,
+    83.46616,
+    28.00642
+],
+  "geometry": {"coordinates":[83.46616,28.00642],"type":"Point"}
+}

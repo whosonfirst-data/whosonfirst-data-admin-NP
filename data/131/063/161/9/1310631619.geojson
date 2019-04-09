@@ -1,0 +1,78 @@
+{
+  "id": 1310631619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.96331,29.44514,80.96331,29.44514",
+    "geom:latitude":29.44514,
+    "geom:longitude":80.96331,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680035",
+    "gn:asciiname":"Pades",
+    "gn:country_code":"NP",
+    "gn:dem":1661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7995611,
+    "gn:latitude":29.44514,
+    "gn:longitude":80.96331,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pades",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048571,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7995611
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9a50456530561990ffd68c2b78618af9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1310631619,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1310631619,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1310631619,
+    "wof:lastmodified":1536735139,
+    "wof:name":"Pades",
+    "wof:parent_id":1092048571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.96330999999998,
+    29.44514,
+    80.96330999999998,
+    29.44514
+],
+  "geometry": {"coordinates":[80.96330999999998,29.44514],"type":"Point"}
+}

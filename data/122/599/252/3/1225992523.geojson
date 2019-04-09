@@ -1,0 +1,78 @@
+{
+  "id": 1225992523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.37503,27.08786,87.37503,27.08786",
+    "geom:latitude":27.08786,
+    "geom:longitude":87.37503,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"7.0",
+    "gn:admin4_code":"70029.0",
+    "gn:asciiname":"Sirise",
+    "gn:country_code":"NP",
+    "gn:dem":1739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7943358,
+    "gn:latitude":27.08786,
+    "gn:longitude":87.37503,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sirise",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049207,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7943358
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0b7804f95572b576373c885419259f6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049207,
+            "locality_id":1225992523,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049207,
+            "locality_id":1225992523,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1225992523,
+    "wof:lastmodified":1536801963,
+    "wof:name":"Sirise",
+    "wof:parent_id":1092049207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.37503000000002,
+    27.08786,
+    87.37503000000002,
+    27.08786
+],
+  "geometry": {"coordinates":[87.37503000000002,27.08786],"type":"Point"}
+}

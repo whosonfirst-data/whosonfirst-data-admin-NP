@@ -1,0 +1,64 @@
+{
+  "id": 1209146919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.18235,27.73129,86.18235,27.73129",
+    "geom:latitude":27.73129,
+    "geom:longitude":86.18235,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"22.0",
+    "gn:admin4_code":"220023.0",
+    "gn:asciiname":"Pandung Pokhari",
+    "gn:country_code":"NP",
+    "gn:dem":1863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7944646,
+    "gn:latitude":27.73129,
+    "gn:longitude":86.18235,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pandung Pokhari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7944646
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"277a98ca6fd288ecac40c7718b55649a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209146919
+        }
+    ],
+    "wof:id":1209146919,
+    "wof:lastmodified":1536296328,
+    "wof:name":"Pandung Pokhari",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.18235,
+    27.73129,
+    86.18235,
+    27.73129
+],
+  "geometry": {"coordinates":[86.18235,27.73129],"type":"Point"}
+}

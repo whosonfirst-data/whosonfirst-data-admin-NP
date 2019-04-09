@@ -1,0 +1,78 @@
+{
+  "id": 1242816091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.79826,28.10112,83.79826,28.10112",
+    "geom:latitude":28.10112,
+    "geom:longitude":83.79826,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390049.0",
+    "gn:asciiname":"Bhorle",
+    "gn:country_code":"NP",
+    "gn:dem":1114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002098,
+    "gn:latitude":28.10112,
+    "gn:longitude":83.79826,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhorle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002098
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"aaeccb5456d47a3bd79410f6bdeec1c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1242816091,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1242816091,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1242816091,
+    "wof:lastmodified":1536720467,
+    "wof:name":"Bhorle",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.79826,
+    28.10112,
+    83.79826,
+    28.10112
+],
+  "geometry": {"coordinates":[83.79826,28.10112],"type":"Point"}
+}

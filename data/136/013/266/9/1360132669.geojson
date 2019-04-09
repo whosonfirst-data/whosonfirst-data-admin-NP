@@ -1,0 +1,78 @@
+{
+  "id": 1360132669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.31309,27.55255,83.31309,27.55255",
+    "geom:latitude":27.55255,
+    "geom:longitude":83.31309,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"49",
+    "gn:admin4_code":"490021",
+    "gn:asciiname":"Sanatpurwa",
+    "gn:country_code":"NP",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7987062,
+    "gn:latitude":27.55255,
+    "gn:longitude":83.31309,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sanatpurwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048457,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7987062
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6ecbb3449fc1a2503308205f81237ca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1360132669,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1360132669,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1360132669,
+    "wof:lastmodified":1536876229,
+    "wof:name":"Sanatpurwa",
+    "wof:parent_id":1092048457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.31309,
+    27.55255,
+    83.31309,
+    27.55255
+],
+  "geometry": {"coordinates":[83.31309,27.55255],"type":"Point"}
+}

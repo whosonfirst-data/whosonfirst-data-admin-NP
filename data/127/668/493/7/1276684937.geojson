@@ -1,0 +1,78 @@
+{
+  "id": 1276684937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.54251,28.53768,82.54251,28.53768",
+    "geom:latitude":28.53768,
+    "geom:longitude":82.54251,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530035",
+    "gn:asciiname":"Bathandanda",
+    "gn:country_code":"NP",
+    "gn:dem":2137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7984226,
+    "gn:latitude":28.53768,
+    "gn:longitude":82.54251,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bathandanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049495,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7984226
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"58395d4700278a30eeb6f4f33be92883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1276684937,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1276684937,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1276684937,
+    "wof:lastmodified":1536804561,
+    "wof:name":"Bathandanda",
+    "wof:parent_id":1092049495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.54251,
+    28.53768,
+    82.54251,
+    28.53768
+],
+  "geometry": {"coordinates":[82.54250999999999,28.53768],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1225886639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.19906,27.71033,85.19906,27.71033",
+    "geom:latitude":27.71033,
+    "geom:longitude":85.19906,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300034.0",
+    "gn:asciiname":"Masinegaun",
+    "gn:country_code":"NP",
+    "gn:dem":1261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7942151,
+    "gn:latitude":27.71033,
+    "gn:longitude":85.19906,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Masinegaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092048931,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7942151
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a02034ae11a8c89c6b2f35ad00d3fe73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":1225886639,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":1225886639,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1225886639,
+    "wof:lastmodified":1536954822,
+    "wof:name":"Masinegaun",
+    "wof:parent_id":1092048931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.19906,
+    27.71033,
+    85.19906,
+    27.71033
+],
+  "geometry": {"coordinates":[85.19906,27.71033],"type":"Point"}
+}

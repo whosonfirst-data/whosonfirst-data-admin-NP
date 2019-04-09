@@ -1,0 +1,64 @@
+{
+  "id": 1209031053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.31417,29.32552,82.31417,29.32552",
+    "geom:latitude":29.32552,
+    "geom:longitude":82.31417,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"630005.0",
+    "gn:asciiname":"Dhune",
+    "gn:country_code":"NP",
+    "gn:dem":3005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7955634,
+    "gn:latitude":29.32552,
+    "gn:longitude":82.31417,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhune",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7955634
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c9ab911ec2853afceae9078a90ab0ea6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209031053
+        }
+    ],
+    "wof:id":1209031053,
+    "wof:lastmodified":1536299849,
+    "wof:name":"Dhune",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.31416999999998,
+    29.32552,
+    82.31416999999998,
+    29.32552
+],
+  "geometry": {"coordinates":[82.31416999999998,29.32552],"type":"Point"}
+}

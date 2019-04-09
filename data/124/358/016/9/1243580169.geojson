@@ -1,0 +1,78 @@
+{
+  "id": 1243580169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.86423,28.07464,81.86423,28.07464",
+    "geom:latitude":28.07464,
+    "geom:longitude":81.86423,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"570020.0",
+    "gn:asciiname":"Simarwadanda",
+    "gn:country_code":"NP",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008096,
+    "gn:latitude":28.07464,
+    "gn:longitude":81.86423,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Simarwadanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092050297,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008096
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ebefdf2d7d1d0419ab8823f39492b22f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1243580169,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1243580169,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1243580169,
+    "wof:lastmodified":1536610346,
+    "wof:name":"Simarwadanda",
+    "wof:parent_id":1092050297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.86423,
+    28.07464,
+    81.86423,
+    28.07464
+],
+  "geometry": {"coordinates":[81.86423000000001,28.07464],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209653167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.03524,27.75742,85.03524,27.75742",
+    "geom:latitude":27.75742,
+    "geom:longitude":85.03524,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300005.0",
+    "gn:asciiname":"Ghalegaun",
+    "gn:country_code":"NP",
+    "gn:dem":724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7941159,
+    "gn:latitude":27.75742,
+    "gn:longitude":85.03524,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ghalegaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7941159
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"61f6e799e66e9e7cba7d7a548688a0cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209653167
+        }
+    ],
+    "wof:id":1209653167,
+    "wof:lastmodified":1536280519,
+    "wof:name":"Ghalegaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.03524,
+    27.75742,
+    85.03524,
+    27.75742
+],
+  "geometry": {"coordinates":[85.03524,27.75742],"type":"Point"}
+}

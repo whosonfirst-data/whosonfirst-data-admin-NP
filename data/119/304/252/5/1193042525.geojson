@@ -1,0 +1,78 @@
+{
+  "id": 1193042525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.73938,28.50384,81.73938,28.50384",
+    "geom:latitude":28.50384,
+    "geom:longitude":81.73938,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590024.0",
+    "gn:asciiname":"Kholtepani",
+    "gn:country_code":"NP",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7999308,
+    "gn:latitude":28.50384,
+    "gn:longitude":81.73938,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kholtepani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7999308
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b3d64d697225f3e3c9e75e9b9f66478b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1193042525,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1193042525,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1193042525,
+    "wof:lastmodified":1536374414,
+    "wof:name":"Kholtepani",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.73938000000003,
+    28.50384,
+    81.73938000000003,
+    28.50384
+],
+  "geometry": {"coordinates":[81.73938000000003,28.50384],"type":"Point"}
+}

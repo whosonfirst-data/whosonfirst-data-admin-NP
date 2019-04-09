@@ -1,0 +1,78 @@
+{
+  "id": 1343867925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.40075,27.06482,85.40075,27.06482",
+    "geom:latitude":27.06482,
+    "geom:longitude":85.40075,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bishrampur",
+    "gn:country_code":"NP",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10332091,
+    "gn:latitude":27.06482,
+    "gn:longitude":85.40075,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Bishr\u0101mpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Bishr\u0101mpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049419,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10332091
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"957f9eb13b6cb41c26c753e896be278a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1343867925,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1343867925,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1343867925,
+    "wof:lastmodified":1537676104,
+    "wof:name":"Bishrampur",
+    "wof:parent_id":1092049419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.40075,
+    27.06482,
+    85.40075,
+    27.06482
+],
+  "geometry": {"coordinates":[85.40075,27.06482],"type":"Point"}
+}

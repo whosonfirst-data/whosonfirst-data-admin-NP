@@ -1,0 +1,78 @@
+{
+  "id": 1209958685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.7636,26.87991,87.7636,26.87991",
+    "geom:latitude":26.87991,
+    "geom:longitude":87.7636,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30009.0",
+    "gn:asciiname":"Barbote",
+    "gn:country_code":"NP",
+    "gn:dem":921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7951740,
+    "gn:latitude":26.87991,
+    "gn:longitude":87.7636,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Barbote",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7951740
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6dd4047dee0740fcafc604b416a31a61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1209958685,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1209958685,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1209958685,
+    "wof:lastmodified":1536375828,
+    "wof:name":"Barbote",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.7636,
+    26.87991,
+    87.7636,
+    26.87991
+],
+  "geometry": {"coordinates":[87.7636,26.87991],"type":"Point"}
+}

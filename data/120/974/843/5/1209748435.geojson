@@ -1,0 +1,78 @@
+{
+  "id": 1209748435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.74642,28.55712,82.74642,28.55712",
+    "geom:latitude":28.55712,
+    "geom:longitude":82.74642,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"54",
+    "gn:admin4_code":"540018",
+    "gn:asciiname":"Nayanbang",
+    "gn:country_code":"NP",
+    "gn:dem":2123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7985602,
+    "gn:latitude":28.55712,
+    "gn:longitude":82.74642,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nayanbang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049495,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7985602
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0def1913069b6286151cb290fffc17df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1209748435,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1209748435,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1209748435,
+    "wof:lastmodified":1536393903,
+    "wof:name":"Nayanbang",
+    "wof:parent_id":1092049495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.74642,
+    28.55712,
+    82.74642,
+    28.55712
+],
+  "geometry": {"coordinates":[82.74642,28.55712],"type":"Point"}
+}

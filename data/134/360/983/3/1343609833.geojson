@@ -1,0 +1,78 @@
+{
+  "id": 1343609833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.52756,27.75913,85.52756,27.75913",
+    "geom:latitude":27.75913,
+    "geom:longitude":85.52756,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"27.0",
+    "gn:admin4_code":"270041.0",
+    "gn:asciiname":"Panchapale",
+    "gn:country_code":"NP",
+    "gn:dem":1317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7962388,
+    "gn:latitude":27.75913,
+    "gn:longitude":85.52756,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Panchapale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092048931,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7962388
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7cef2ad623136637276d431083748a36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":1343609833,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":1343609833,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1343609833,
+    "wof:lastmodified":1537026954,
+    "wof:name":"Panchapale",
+    "wof:parent_id":1092048931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.52756,
+    27.75913,
+    85.52756,
+    27.75913
+],
+  "geometry": {"coordinates":[85.52755999999999,27.75913],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310438237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.44291,28.4849,82.44291,28.4849",
+    "geom:latitude":28.4849,
+    "geom:longitude":82.44291,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530040",
+    "gn:asciiname":"Kharkadanda",
+    "gn:country_code":"NP",
+    "gn:dem":1945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7984458,
+    "gn:latitude":28.4849,
+    "gn:longitude":82.44291,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kharkadanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7984458
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1b43318f26a05b5a13ab0493c0034da9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1310438237,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1310438237,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1310438237,
+    "wof:lastmodified":1537013381,
+    "wof:name":"Kharkadanda",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.44291,
+    28.4849,
+    82.44291,
+    28.4849
+],
+  "geometry": {"coordinates":[82.44291,28.4849],"type":"Point"}
+}

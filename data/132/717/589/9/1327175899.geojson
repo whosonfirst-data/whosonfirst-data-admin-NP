@@ -1,0 +1,78 @@
+{
+  "id": 1327175899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.81112,28.04717,84.81112,28.04717",
+    "geom:latitude":28.04717,
+    "geom:longitude":84.81112,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360003.0",
+    "gn:asciiname":"Arughat",
+    "gn:country_code":"NP",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7947879,
+    "gn:latitude":28.04717,
+    "gn:longitude":84.81112,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Arughat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7947879
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"be91c56fb3495cd869836d3002ed664e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1327175899,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1327175899,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1327175899,
+    "wof:lastmodified":1537049104,
+    "wof:name":"Arughat",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.81111999999997,
+    28.04717,
+    84.81111999999997,
+    28.04717
+],
+  "geometry": {"coordinates":[84.81111999999997,28.04717],"type":"Point"}
+}

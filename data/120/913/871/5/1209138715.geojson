@@ -1,0 +1,64 @@
+{
+  "id": 1209138715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.32637,29.58634,81.32637,29.58634",
+    "geom:latitude":29.58634,
+    "geom:longitude":81.32637,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680010",
+    "gn:asciiname":"Kadapani Goth",
+    "gn:country_code":"NP",
+    "gn:dem":2127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7989290,
+    "gn:latitude":29.58634,
+    "gn:longitude":81.32637,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kadapani Goth",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7989290
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"723d0a5bbc0ec6a200c650aba837ed01",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209138715
+        }
+    ],
+    "wof:id":1209138715,
+    "wof:lastmodified":1536296575,
+    "wof:name":"Kadapani Goth",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.32637,
+    29.586340000000003,
+    81.32637,
+    29.586340000000003
+],
+  "geometry": {"coordinates":[81.32637,29.58634],"type":"Point"}
+}

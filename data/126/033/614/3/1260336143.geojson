@@ -1,0 +1,78 @@
+{
+  "id": 1260336143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.67775,27.23043,86.67775,27.23043",
+    "geom:latitude":27.23043,
+    "geom:longitude":86.67775,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"13",
+    "gn:admin4_code":"130045",
+    "gn:asciiname":"Basbote",
+    "gn:country_code":"NP",
+    "gn:dem":1617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7964764,
+    "gn:latitude":27.23043,
+    "gn:longitude":86.67775,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Basbote",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050841,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7964764
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"99b1ebc71feb39002085bd12dd881ddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1260336143,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1260336143,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1260336143,
+    "wof:lastmodified":1536640624,
+    "wof:name":"Basbote",
+    "wof:parent_id":1092050841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.67775,
+    27.23043,
+    86.67775,
+    27.23043
+],
+  "geometry": {"coordinates":[86.67775,27.23043],"type":"Point"}
+}

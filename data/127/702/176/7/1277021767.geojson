@@ -1,0 +1,78 @@
+{
+  "id": 1277021767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.16307,27.29515,87.16307,27.29515",
+    "geom:latitude":27.29515,
+    "geom:longitude":87.16307,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100019.0",
+    "gn:asciiname":"Kotgaun",
+    "gn:country_code":"NP",
+    "gn:dem":1058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7932987,
+    "gn:latitude":27.29515,
+    "gn:longitude":87.16307,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kotgaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7932987
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5ebbfc17338f9b5c86e0b8cb5c1e38c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1277021767,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1277021767,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1277021767,
+    "wof:lastmodified":1536849754,
+    "wof:name":"Kotgaun",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.16306999999998,
+    27.29515,
+    87.16306999999998,
+    27.29515
+],
+  "geometry": {"coordinates":[87.16306999999998,27.29515],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1260122183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.921,27.81104,85.921,27.81104",
+    "geom:latitude":27.81104,
+    "geom:longitude":85.921,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"23",
+    "gn:admin4_code":"230006.0",
+    "gn:asciiname":"Dharapa",
+    "gn:country_code":"NP",
+    "gn:dem":1488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7994286,
+    "gn:latitude":27.81104,
+    "gn:longitude":85.921,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dharapa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7994286
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"69539e549e038a5c4ea176ae05d28a6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1260122183,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1260122183,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1260122183,
+    "wof:lastmodified":1536933181,
+    "wof:name":"Dharapa",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.921,
+    27.81104,
+    85.921,
+    27.81104
+],
+  "geometry": {"coordinates":[85.92100000000001,27.81104],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293701069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.52174,26.49151,87.52174,26.49151",
+    "geom:latitude":26.49151,
+    "geom:longitude":87.52174,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Baterbari",
+    "gn:country_code":"NP",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11602709,
+    "gn:latitude":26.49151,
+    "gn:longitude":87.52174,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Ba\u1e6derb\u0101ri\u0307\u0304",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Ba\u1e6derb\u0101ri\u0307\u0304"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092048303,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11602709
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0112b077c268561187e0d22056dd8062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1293701069,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1293701069,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1293701069,
+    "wof:lastmodified":1537676120,
+    "wof:name":"Baterbari",
+    "wof:parent_id":1092048303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.52174000000002,
+    26.49151,
+    87.52174000000002,
+    26.49151
+],
+  "geometry": {"coordinates":[87.52174000000002,26.49151],"type":"Point"}
+}

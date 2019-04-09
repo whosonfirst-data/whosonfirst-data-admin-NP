@@ -1,0 +1,78 @@
+{
+  "id": 1259928105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.53513,27.43997,86.53513,27.43997",
+    "geom:latitude":27.43997,
+    "geom:longitude":86.53513,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"11",
+    "gn:admin4_code":"110019",
+    "gn:asciiname":"Chyangsar",
+    "gn:country_code":"NP",
+    "gn:dem":2338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7996901,
+    "gn:latitude":27.43997,
+    "gn:longitude":86.53513,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chyangsar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049841,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7996901
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b72628686b7d56e356bc23b5f5b5aac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1259928105,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1259928105,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1259928105,
+    "wof:lastmodified":1536715333,
+    "wof:name":"Chyangsar",
+    "wof:parent_id":1092049841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.53513000000002,
+    27.43997,
+    86.53513000000002,
+    27.43997
+],
+  "geometry": {"coordinates":[86.53513000000002,27.43997],"type":"Point"}
+}

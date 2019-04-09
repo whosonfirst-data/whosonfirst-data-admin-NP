@@ -1,0 +1,78 @@
+{
+  "id": 1193214241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.366,27.75356,87.366,27.75356",
+    "geom:latitude":27.75356,
+    "geom:longitude":87.366,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"9",
+    "gn:admin4_code":"90010",
+    "gn:asciiname":"Thang Thumbuk",
+    "gn:country_code":"NP",
+    "gn:dem":1952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7990027,
+    "gn:latitude":27.75356,
+    "gn:longitude":87.366,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thang Thumbuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049597,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7990027
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"601707515f7d70a625d12adac768465b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1193214241,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1193214241,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1193214241,
+    "wof:lastmodified":1536382165,
+    "wof:name":"Thang Thumbuk",
+    "wof:parent_id":1092049597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.366,
+    27.75356,
+    87.366,
+    27.75356
+],
+  "geometry": {"coordinates":[87.366,27.75356],"type":"Point"}
+}

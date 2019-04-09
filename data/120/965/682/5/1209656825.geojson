@@ -1,0 +1,64 @@
+{
+  "id": 1209656825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.71535,28.05346,83.71535,28.05346",
+    "geom:latitude":28.05346,
+    "geom:longitude":83.71535,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390025.0",
+    "gn:asciiname":"Anbhang",
+    "gn:country_code":"NP",
+    "gn:dem":1413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001228,
+    "gn:latitude":28.05346,
+    "gn:longitude":83.71535,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Anbhang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001228
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4fa1cef0c6cc2a2044c66036ef030423",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209656825
+        }
+    ],
+    "wof:id":1209656825,
+    "wof:lastmodified":1536280398,
+    "wof:name":"Anbhang",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.71535,
+    28.05346,
+    83.71535,
+    28.05346
+],
+  "geometry": {"coordinates":[83.71535,28.05346],"type":"Point"}
+}

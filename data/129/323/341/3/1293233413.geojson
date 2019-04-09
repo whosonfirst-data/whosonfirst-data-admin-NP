@@ -1,0 +1,78 @@
+{
+  "id": 1293233413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.38441,28.40726,82.38441,28.40726",
+    "geom:latitude":28.40726,
+    "geom:longitude":82.38441,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530023",
+    "gn:asciiname":"Kharka",
+    "gn:country_code":"NP",
+    "gn:dem":1983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7983744,
+    "gn:latitude":28.40726,
+    "gn:longitude":82.38441,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kharka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7983744
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8408106e6d5b2d57cf61b95476b4c50d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1293233413,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1293233413,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1293233413,
+    "wof:lastmodified":1536656509,
+    "wof:name":"Kharka",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.38441,
+    28.40726,
+    82.38441,
+    28.40726
+],
+  "geometry": {"coordinates":[82.38441,28.40726],"type":"Point"}
+}

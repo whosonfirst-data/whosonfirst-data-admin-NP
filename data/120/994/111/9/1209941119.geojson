@@ -1,0 +1,66 @@
+{
+  "id": 1209941119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.9249,27.86486,81.9249,27.86486",
+    "geom:latitude":27.86486,
+    "geom:longitude":81.9249,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"570021.0",
+    "gn:asciiname":"Baghauda",
+    "gn:country_code":"NP",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008121,
+    "gn:latitude":27.86486,
+    "gn:longitude":81.9249,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Baghauda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008121
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5f780fb85109aaa0c895fe6761496e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1209941119,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209941119,
+    "wof:lastmodified":1536388463,
+    "wof:name":"Baghauda",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.9249,
+    27.86486,
+    81.9249,
+    27.86486
+],
+  "geometry": {"coordinates":[81.92489999999999,27.86486],"type":"Point"}
+}

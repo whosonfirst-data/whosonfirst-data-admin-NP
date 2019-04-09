@@ -1,0 +1,78 @@
+{
+  "id": 1327260257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.49731,28.44983,82.49731,28.44983",
+    "geom:latitude":28.44983,
+    "geom:longitude":82.49731,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530045",
+    "gn:asciiname":"Kharabang",
+    "gn:country_code":"NP",
+    "gn:dem":1934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7984645,
+    "gn:latitude":28.44983,
+    "gn:longitude":82.49731,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kharabang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7984645
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3ea4f5cf86716682af0e39620c9dff0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1327260257,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1327260257,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1327260257,
+    "wof:lastmodified":1536930246,
+    "wof:name":"Kharabang",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.49731,
+    28.44983,
+    82.49731,
+    28.44983
+],
+  "geometry": {"coordinates":[82.49731,28.44983],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209054435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.31315,28.39485,83.31315,28.39485",
+    "geom:latitude":28.39485,
+    "geom:longitude":83.31315,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"43",
+    "gn:admin4_code":"430036",
+    "gn:asciiname":"Jhurbang",
+    "gn:country_code":"NP",
+    "gn:dem":1859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7972572,
+    "gn:latitude":28.39485,
+    "gn:longitude":83.31315,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jhurbang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7972572
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"37da7ece7e9158dc0ee03a6038c50a98",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209054435
+        }
+    ],
+    "wof:id":1209054435,
+    "wof:lastmodified":1536299149,
+    "wof:name":"Jhurbang",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.31315,
+    28.39485,
+    83.31315,
+    28.39485
+],
+  "geometry": {"coordinates":[83.31314999999999,28.39485],"type":"Point"}
+}

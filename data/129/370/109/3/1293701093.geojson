@@ -1,0 +1,81 @@
+{
+  "id": 1293701093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.90394,27.92657,85.90394,27.92657",
+    "geom:latitude":27.92657,
+    "geom:longitude":85.90394,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tasithan",
+    "gn:country_code":"NP",
+    "gn:dem":2443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10321596,
+    "gn:latitude":27.92657,
+    "gn:longitude":85.90394,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"T\u0101\u0303sith\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "T\u0101nsith\u0101n"
+    ],
+    "name:und_x_variant":[
+        "T\u0101\u0303sith\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10321596
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5f8426ab91f3873e989d1b918918fd98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1293701093,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1293701093,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1293701093,
+    "wof:lastmodified":1537676084,
+    "wof:name":"Tasithan",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.90394,
+    27.92657,
+    85.90394,
+    27.92657
+],
+  "geometry": {"coordinates":[85.90394000000001,27.92657],"type":"Point"}
+}

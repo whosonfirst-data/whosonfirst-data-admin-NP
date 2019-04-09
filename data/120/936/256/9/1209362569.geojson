@@ -1,0 +1,64 @@
+{
+  "id": 1209362569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.25301,28.23242,83.25301,28.23242",
+    "geom:latitude":28.23242,
+    "geom:longitude":83.25301,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450025.0",
+    "gn:asciiname":"Damling",
+    "gn:country_code":"NP",
+    "gn:dem":1633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7955957,
+    "gn:latitude":28.23242,
+    "gn:longitude":83.25301,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Damling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7955957
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"61ea11955f030f6d2318f3c3420e94e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209362569
+        }
+    ],
+    "wof:id":1209362569,
+    "wof:lastmodified":1536289373,
+    "wof:name":"Damling",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.25301,
+    28.23242,
+    83.25301,
+    28.23242
+],
+  "geometry": {"coordinates":[83.25301,28.23242],"type":"Point"}
+}

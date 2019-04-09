@@ -1,0 +1,78 @@
+{
+  "id": 1293631085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.1957,28.24998,84.1957,28.24998",
+    "geom:latitude":28.24998,
+    "geom:longitude":84.1957,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400028.0",
+    "gn:asciiname":"Harse",
+    "gn:country_code":"NP",
+    "gn:dem":1112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7961202,
+    "gn:latitude":28.24998,
+    "gn:longitude":84.1957,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Harse",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092049331,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7961202
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9284ca3a4ea70276c87ab8fde5bb3dd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1293631085,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1293631085,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293631085,
+    "wof:lastmodified":1537074129,
+    "wof:name":"Harse",
+    "wof:parent_id":1092049331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.1957,
+    28.24998,
+    84.1957,
+    28.24998
+],
+  "geometry": {"coordinates":[84.1957,28.24998],"type":"Point"}
+}

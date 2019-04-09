@@ -1,0 +1,79 @@
+{
+  "id": 1310719737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.48752,27.13768,86.48752,27.13768",
+    "geom:latitude":27.13768,
+    "geom:longitude":86.48752,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dalmijawa",
+    "gn:country_code":"NP",
+    "gn:dem":1189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10329209,
+    "gn:latitude":27.13768,
+    "gn:longitude":86.48752,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"D\u0101lmi\u0307\u0304j\u0101w\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101lmi\u0307\u0304j\u0101w\u0101",
+        "D\u0101lm\u012bj\u0101w\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050841,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10329209
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"390cac8a39666c1a9f4811642704adf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1310719737,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1310719737,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1310719737,
+    "wof:lastmodified":1537676100,
+    "wof:name":"Dalmijawa",
+    "wof:parent_id":1092050841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.48751999999998,
+    27.13768,
+    86.48751999999998,
+    27.13768
+],
+  "geometry": {"coordinates":[86.48751999999998,27.13768],"type":"Point"}
+}

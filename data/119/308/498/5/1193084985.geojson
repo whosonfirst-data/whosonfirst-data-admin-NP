@@ -1,0 +1,78 @@
+{
+  "id": 1193084985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.78165,28.01709,83.78165,28.01709",
+    "geom:latitude":28.01709,
+    "geom:longitude":83.78165,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390014.0",
+    "gn:asciiname":"Gairithok",
+    "gn:country_code":"NP",
+    "gn:dem":853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8000866,
+    "gn:latitude":28.01709,
+    "gn:longitude":83.78165,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gairithok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8000866
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4f7d075cb315fef6de35a00f1545d33c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1193084985,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1193084985,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1193084985,
+    "wof:lastmodified":1536376746,
+    "wof:name":"Gairithok",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.78165,
+    28.01709,
+    83.78165,
+    28.01709
+],
+  "geometry": {"coordinates":[83.78165,28.01709],"type":"Point"}
+}

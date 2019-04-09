@@ -1,0 +1,65 @@
+{
+  "id": 1209146995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.38281,26.80732,85.38281,26.80732",
+    "geom:latitude":26.80732,
+    "geom:longitude":85.38281,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"19",
+    "gn:admin4_code":"190001",
+    "gn:asciiname":"Achalgadh",
+    "gn:country_code":"NP",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7991486,
+    "gn:latitude":26.80732,
+    "gn:longitude":85.38281,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Achalgadh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7991486,
+        "wk:page":"Achalgadh"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6cf854a3b9366fb364ca97050933d432",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209146995
+        }
+    ],
+    "wof:id":1209146995,
+    "wof:lastmodified":1537570154,
+    "wof:name":"Achalgadh",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.38280999999998,
+    26.80732,
+    85.38280999999998,
+    26.80732
+],
+  "geometry": {"coordinates":[85.38280999999998,26.80732],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1242803839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.46716,29.5945,80.46716,29.5945",
+    "geom:latitude":29.5945,
+    "geom:longitude":80.46716,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740042",
+    "gn:asciiname":"Deulek",
+    "gn:country_code":"NP",
+    "gn:dem":1838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7977937,
+    "gn:latitude":29.5945,
+    "gn:longitude":80.46716,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Deulek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050255,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7977937
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"09a2986aa510f971901a6c7f44d57495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1242803839,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1242803839,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1242803839,
+    "wof:lastmodified":1536737813,
+    "wof:name":"Deulek",
+    "wof:parent_id":1092050255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.46715999999998,
+    29.5945,
+    80.46715999999998,
+    29.5945
+],
+  "geometry": {"coordinates":[80.46715999999998,29.5945],"type":"Point"}
+}

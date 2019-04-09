@@ -1,0 +1,61 @@
+{
+  "id": 1209629581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.47944,26.84304,85.47944,26.84304",
+    "geom:latitude":26.84304,
+    "geom:longitude":85.47944,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Batraui",
+    "gn:country_code":"NP",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11245262,
+    "gn:latitude":26.84304,
+    "gn:longitude":85.47944,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Batraui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11245262
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1e9da9ec43024f5c7698b5e571c91911",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209629581
+        }
+    ],
+    "wof:id":1209629581,
+    "wof:lastmodified":1536281235,
+    "wof:name":"Batraui",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.47944,
+    26.84304,
+    85.47944,
+    26.84304
+],
+  "geometry": {"coordinates":[85.47944,26.84304],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226687953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.33092,27.48457,86.33092,27.48457",
+    "geom:latitude":27.48457,
+    "geom:longitude":86.33092,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5.0",
+    "gn:asciiname":"Khijikati",
+    "gn:country_code":"NP",
+    "gn:dem":1896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8436564,
+    "gn:latitude":27.48457,
+    "gn:longitude":86.33092,
+    "gn:modification_date":"2013-01-02",
+    "gn:name":"Khijikati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050225,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8436564
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"da18e31d3cda7455650900d2287d9cff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050225,
+            "locality_id":1226687953,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050225,
+            "locality_id":1226687953,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1226687953,
+    "wof:lastmodified":1536798841,
+    "wof:name":"Khijikati",
+    "wof:parent_id":1092050225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.33091999999998,
+    27.48457,
+    86.33091999999998,
+    27.48457
+],
+  "geometry": {"coordinates":[86.33091999999998,27.48457],"type":"Point"}
+}

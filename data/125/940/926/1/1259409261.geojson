@@ -1,0 +1,78 @@
+{
+  "id": 1259409261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.19964,28.9271,81.19964,28.9271",
+    "geom:latitude":28.9271,
+    "geom:longitude":81.19964,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"69.0",
+    "gn:admin4_code":"690074.0",
+    "gn:asciiname":"Sirangada",
+    "gn:country_code":"NP",
+    "gn:dem":1029,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7937715,
+    "gn:latitude":28.9271,
+    "gn:longitude":81.19964,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sirangada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048527,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7937715
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"eee499c9caffae8454d0cbd4960c11dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1259409261,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1259409261,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1259409261,
+    "wof:lastmodified":1536965318,
+    "wof:name":"Sirangada",
+    "wof:parent_id":1092048527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.19964,
+    28.9271,
+    81.19964,
+    28.9271
+],
+  "geometry": {"coordinates":[81.19964,28.9271],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1260336261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.93708,26.49482,87.93708,26.49482",
+    "geom:latitude":26.49482,
+    "geom:longitude":87.93708,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40042.0",
+    "gn:asciiname":"Janatachok",
+    "gn:country_code":"NP",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7955202,
+    "gn:latitude":26.49482,
+    "gn:longitude":87.93708,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Janatachok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7955202
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e17788d8609e21b054926f5d375eb7fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1260336261,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1260336261,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1260336261,
+    "wof:lastmodified":1536640465,
+    "wof:name":"Janatachok",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.93708000000002,
+    26.49482,
+    87.93708000000002,
+    26.49482
+],
+  "geometry": {"coordinates":[87.93708000000002,26.49482],"type":"Point"}
+}

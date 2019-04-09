@@ -1,0 +1,64 @@
+{
+  "id": 1209462881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.76895,28.00416,83.76895,28.00416",
+    "geom:latitude":28.00416,
+    "geom:longitude":83.76895,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390054.0",
+    "gn:asciiname":"Jogithum",
+    "gn:country_code":"NP",
+    "gn:dem":765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002283,
+    "gn:latitude":28.00416,
+    "gn:longitude":83.76895,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jogithum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002283
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"50fafdf551c0b7a2e72f5bb500b133f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209462881
+        }
+    ],
+    "wof:id":1209462881,
+    "wof:lastmodified":1536286324,
+    "wof:name":"Jogithum",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.76895,
+    28.00416,
+    83.76895,
+    28.00416
+],
+  "geometry": {"coordinates":[83.76895,28.00416],"type":"Point"}
+}

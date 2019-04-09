@@ -1,0 +1,78 @@
+{
+  "id": 1259420407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.91876,28.09962,83.91876,28.09962",
+    "geom:latitude":28.09962,
+    "geom:longitude":83.91876,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390056.0",
+    "gn:asciiname":"Pujarithar",
+    "gn:country_code":"NP",
+    "gn:dem":1001,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002324,
+    "gn:latitude":28.09962,
+    "gn:longitude":83.91876,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pujarithar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002324
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a359674c940811438bc7bc2127a14e4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1259420407,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1259420407,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1259420407,
+    "wof:lastmodified":1536949553,
+    "wof:name":"Pujarithar",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.91875999999998,
+    28.09962,
+    83.91875999999998,
+    28.09962
+],
+  "geometry": {"coordinates":[83.91875999999998,28.09962],"type":"Point"}
+}

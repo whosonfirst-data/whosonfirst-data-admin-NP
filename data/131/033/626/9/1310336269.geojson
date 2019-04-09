@@ -1,0 +1,78 @@
+{
+  "id": 1310336269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.14701,28.27486,82.14701,28.27486",
+    "geom:latitude":28.27486,
+    "geom:longitude":82.14701,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550029",
+    "gn:asciiname":"Jhirghat",
+    "gn:country_code":"NP",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7989155,
+    "gn:latitude":28.27486,
+    "gn:longitude":82.14701,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jhirghat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049579,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7989155
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6139d8729835c63f5f18eec00d8bb6d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1310336269,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1310336269,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1310336269,
+    "wof:lastmodified":1536663682,
+    "wof:name":"Jhirghat",
+    "wof:parent_id":1092049579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.14701,
+    28.27486,
+    82.14701,
+    28.27486
+],
+  "geometry": {"coordinates":[82.14700999999999,28.27486],"type":"Point"}
+}

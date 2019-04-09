@@ -1,0 +1,66 @@
+{
+  "id": 1327166745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.14139,28.37936,81.14139,28.37936",
+    "geom:latitude":28.37936,
+    "geom:longitude":81.14139,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"58.0",
+    "gn:admin4_code":"580005.0",
+    "gn:asciiname":"Sadakpurwa",
+    "gn:country_code":"NP",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009397,
+    "gn:latitude":28.37936,
+    "gn:longitude":81.14139,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sadakpurwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009397
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d5349ab1e4a6423cb85552cad866abf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1327166745,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327166745,
+    "wof:lastmodified":1537061699,
+    "wof:name":"Sadakpurwa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.14139,
+    28.37936,
+    81.14139,
+    28.37936
+],
+  "geometry": {"coordinates":[81.14139,28.37936],"type":"Point"}
+}

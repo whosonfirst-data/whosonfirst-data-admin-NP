@@ -1,0 +1,81 @@
+{
+  "id": 1242985057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.3725,28.301,81.3725,28.301",
+    "geom:latitude":28.301,
+    "geom:longitude":81.3725,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Jabdahawa",
+    "gn:country_code":"NP",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283328,
+    "gn:latitude":28.301,
+    "gn:longitude":81.3725,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Jabdahaw\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Jabdahaw\u0101"
+    ],
+    "name:und_x_variant":[
+        "Jabd\u0101hawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048097,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283328
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3a44d2bed231f68c3fd97b1bb227db89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1242985057,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1242985057,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1242985057,
+    "wof:lastmodified":1537676054,
+    "wof:name":"Jabdahawa",
+    "wof:parent_id":1092048097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.3725,
+    28.301,
+    81.3725,
+    28.301
+],
+  "geometry": {"coordinates":[81.3725,28.301],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1242921451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.48876,26.74724,86.48876,26.74724",
+    "geom:latitude":26.74724,
+    "geom:longitude":86.48876,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"16",
+    "gn:admin4_code":"160014.0",
+    "gn:asciiname":"Musahartol",
+    "gn:country_code":"NP",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7995716,
+    "gn:latitude":26.74724,
+    "gn:longitude":86.48876,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Musahartol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092050497,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7995716
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d0a2a39594466603e1e7f0d5e21388ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050497,
+            "locality_id":1242921451,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050497,
+            "locality_id":1242921451,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1242921451,
+    "wof:lastmodified":1537062722,
+    "wof:name":"Musahartol",
+    "wof:parent_id":1092050497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.48876,
+    26.74724,
+    86.48876,
+    26.74724
+],
+  "geometry": {"coordinates":[86.48876,26.74724],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343503037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.0062,27.30155,88.0062,27.30155",
+    "geom:latitude":27.30155,
+    "geom:longitude":88.0062,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"2",
+    "gn:admin4_code":"20012",
+    "gn:asciiname":"Kholmedanda",
+    "gn:country_code":"NP",
+    "gn:dem":2220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7977392,
+    "gn:latitude":27.30155,
+    "gn:longitude":88.0062,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kholmedanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7977392
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bb887e9149b04ca28977bd621d6528a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1343503037,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1343503037,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1343503037,
+    "wof:lastmodified":1536684733,
+    "wof:name":"Kholmedanda",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.0062,
+    27.30155,
+    88.0062,
+    27.30155
+],
+  "geometry": {"coordinates":[88.00620000000001,27.30155],"type":"Point"}
+}

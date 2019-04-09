@@ -1,0 +1,64 @@
+{
+  "id": 1209147009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.59926,27.89802,85.59926,27.89802",
+    "geom:latitude":27.89802,
+    "geom:longitude":85.59926,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"23",
+    "gn:admin4_code":"230004",
+    "gn:asciiname":"Newartol",
+    "gn:country_code":"NP",
+    "gn:dem":1656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7994309,
+    "gn:latitude":27.89802,
+    "gn:longitude":85.59926,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Newartol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7994309
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"63a94e16bda7327556287b7a09547851",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209147009
+        }
+    ],
+    "wof:id":1209147009,
+    "wof:lastmodified":1536296326,
+    "wof:name":"Newartol",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.59926,
+    27.89802,
+    85.59926,
+    27.89802
+],
+  "geometry": {"coordinates":[85.59926,27.89802],"type":"Point"}
+}

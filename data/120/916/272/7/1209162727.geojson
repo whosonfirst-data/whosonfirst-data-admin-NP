@@ -1,0 +1,64 @@
+{
+  "id": 1209162727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.84253,27.68659,85.84253,27.68659",
+    "geom:latitude":27.68659,
+    "geom:longitude":85.84253,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"23",
+    "gn:admin4_code":"230042",
+    "gn:asciiname":"Chiple",
+    "gn:country_code":"NP",
+    "gn:dem":2012,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7995017,
+    "gn:latitude":27.68659,
+    "gn:longitude":85.84253,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chiple",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7995017
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2875ca3f5cdb67750a24543ca7f33d0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209162727
+        }
+    ],
+    "wof:id":1209162727,
+    "wof:lastmodified":1536295846,
+    "wof:name":"Chiple",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.84253000000002,
+    27.68659,
+    85.84253000000002,
+    27.68659
+],
+  "geometry": {"coordinates":[85.84253000000002,27.68659],"type":"Point"}
+}

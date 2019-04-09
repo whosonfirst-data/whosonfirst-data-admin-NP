@@ -1,0 +1,75 @@
+{
+  "id": 1360202587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.17109,27.64246,86.17109,27.64246",
+    "geom:latitude":27.64246,
+    "geom:longitude":86.17109,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Phaplu",
+    "gn:country_code":"NP",
+    "gn:dem":2256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10321821,
+    "gn:latitude":27.64246,
+    "gn:longitude":86.17109,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Ph\u0101plu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675579,
+        1092050535,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10321821
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"10e54a1d828085e54bb60e9b06766926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1360202587,
+            "region_id":85675579
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1360202587,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1360202587,
+    "wof:lastmodified":1536776748,
+    "wof:name":"Phaplu",
+    "wof:parent_id":1092050535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.17109,
+    27.64246,
+    86.17109,
+    27.64246
+],
+  "geometry": {"coordinates":[86.17109000000001,27.64246],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1277118625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.1803,27.07253,85.1803,27.07253",
+    "geom:latitude":27.07253,
+    "geom:longitude":85.1803,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"330056.0",
+    "gn:asciiname":"Bintol",
+    "gn:country_code":"NP",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008936,
+    "gn:latitude":27.07253,
+    "gn:longitude":85.1803,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bintol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092048051,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008936
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bdd54e9a18d940c104da58073c7e620c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1277118625,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1277118625,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1277118625,
+    "wof:lastmodified":1536716267,
+    "wof:name":"Bintol",
+    "wof:parent_id":1092048051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.1803,
+    27.07253,
+    85.1803,
+    27.07253
+],
+  "geometry": {"coordinates":[85.1803,27.07253],"type":"Point"}
+}

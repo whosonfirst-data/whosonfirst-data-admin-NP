@@ -1,0 +1,64 @@
+{
+  "id": 1209134001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.34701,28.11734,82.34701,28.11734",
+    "geom:latitude":28.11734,
+    "geom:longitude":82.34701,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"560003.0",
+    "gn:asciiname":"Hadime",
+    "gn:country_code":"NP",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7938270,
+    "gn:latitude":28.11734,
+    "gn:longitude":82.34701,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Hadime",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7938270
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ff9c81cded1579cbc75094f00087cb1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209134001
+        }
+    ],
+    "wof:id":1209134001,
+    "wof:lastmodified":1536296719,
+    "wof:name":"Hadime",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.34701,
+    28.11734,
+    82.34701,
+    28.11734
+],
+  "geometry": {"coordinates":[82.34701,28.11734],"type":"Point"}
+}

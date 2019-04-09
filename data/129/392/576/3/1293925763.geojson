@@ -1,0 +1,82 @@
+{
+  "id": 1293925763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.954,27.281,85.954,27.281",
+    "geom:latitude":27.281,
+    "geom:longitude":85.954,
+    "gn:admin1_code":"CR",
+    "gn:asciiname":"Sindhuli Garhi",
+    "gn:country_code":"NP",
+    "gn:dem":1412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282775,
+    "gn:latitude":27.281,
+    "gn:longitude":85.954,
+    "gn:modification_date":"2016-10-06",
+    "gn:name":"Sindhuli\u0307\u0304 Garhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sindhuli Gadhi",
+        "Sindhuli",
+        "Gadhi",
+        "Sindhul\u012b Garhi",
+        "Sindhuli\u0307\u0304 Garhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049679,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282775
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d93872f5dbb87b31282b07f41161bf5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1293925763,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1293925763,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1293925763,
+    "wof:lastmodified":1537676040,
+    "wof:name":"Sindhuli Garhi",
+    "wof:parent_id":1092049679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.954,
+    27.281,
+    85.954,
+    27.281
+],
+  "geometry": {"coordinates":[85.95399999999999,27.281],"type":"Point"}
+}

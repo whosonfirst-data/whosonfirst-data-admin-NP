@@ -1,0 +1,64 @@
+{
+  "id": 1209037677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.12444,28.19045,82.12444,28.19045",
+    "geom:latitude":28.19045,
+    "geom:longitude":82.12444,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550021",
+    "gn:asciiname":"Eklebar",
+    "gn:country_code":"NP",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7988729,
+    "gn:latitude":28.19045,
+    "gn:longitude":82.12444,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Eklebar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7988729
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5ef51466a70041f58edf602946fc808c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209037677
+        }
+    ],
+    "wof:id":1209037677,
+    "wof:lastmodified":1536299647,
+    "wof:name":"Eklebar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.12444,
+    28.19045,
+    82.12444,
+    28.19045
+],
+  "geometry": {"coordinates":[82.12444000000001,28.19045],"type":"Point"}
+}

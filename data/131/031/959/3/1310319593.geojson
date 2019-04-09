@@ -1,0 +1,81 @@
+{
+  "id": 1310319593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.94625,28.58436,81.94625,28.58436",
+    "geom:latitude":28.58436,
+    "geom:longitude":81.94625,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lapu",
+    "gn:country_code":"NP",
+    "gn:dem":1299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283162,
+    "gn:latitude":28.58436,
+    "gn:longitude":81.94625,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"L\u0101pu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "L\u0101pu"
+    ],
+    "name:und_x_variant":[
+        "L\u0101bu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283162
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6298a405c5f204b31bd3cf337c3e19e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1310319593,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1310319593,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1310319593,
+    "wof:lastmodified":1537676050,
+    "wof:name":"Lapu",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.94625,
+    28.58436,
+    81.94625,
+    28.58436
+],
+  "geometry": {"coordinates":[81.94625000000001,28.58436],"type":"Point"}
+}

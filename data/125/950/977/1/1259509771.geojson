@@ -1,0 +1,78 @@
+{
+  "id": 1259509771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.70039,28.05837,81.70039,28.05837",
+    "geom:latitude":28.05837,
+    "geom:longitude":81.70039,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"570019.0",
+    "gn:asciiname":"Uchchemasaha",
+    "gn:country_code":"NP",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008062,
+    "gn:latitude":28.05837,
+    "gn:longitude":81.70039,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Uchchemasaha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092050297,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008062
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7abe3320c5b584d2aa9d1b0d3e4e5248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1259509771,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1259509771,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1259509771,
+    "wof:lastmodified":1536820243,
+    "wof:name":"Uchchemasaha",
+    "wof:parent_id":1092050297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.70039,
+    28.05837,
+    81.70039,
+    28.05837
+],
+  "geometry": {"coordinates":[81.70039,28.05837],"type":"Point"}
+}

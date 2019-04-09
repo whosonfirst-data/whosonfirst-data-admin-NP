@@ -1,0 +1,78 @@
+{
+  "id": 1260211991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.17396,28.42058,81.17396,28.42058",
+    "geom:latitude":28.42058,
+    "geom:longitude":81.17396,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"58.0",
+    "gn:admin4_code":"580001.0",
+    "gn:asciiname":"Chitainpur",
+    "gn:country_code":"NP",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009265,
+    "gn:latitude":28.42058,
+    "gn:longitude":81.17396,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chitainpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048097,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009265
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"277777ceda3cb9099a27ba420e6f4888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1260211991,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1260211991,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1260211991,
+    "wof:lastmodified":1536808679,
+    "wof:name":"Chitainpur",
+    "wof:parent_id":1092048097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.17396,
+    28.42058,
+    81.17396,
+    28.42058
+],
+  "geometry": {"coordinates":[81.17395999999999,28.42058],"type":"Point"}
+}

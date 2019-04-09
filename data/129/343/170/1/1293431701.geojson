@@ -1,0 +1,78 @@
+{
+  "id": 1293431701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.57174,26.55288,87.57174,26.55288",
+    "geom:latitude":26.55288,
+    "geom:longitude":87.57174,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"5",
+    "gn:admin4_code":"50002.0",
+    "gn:asciiname":"Baraltol",
+    "gn:country_code":"NP",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7969579,
+    "gn:latitude":26.55288,
+    "gn:longitude":87.57174,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Baraltol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092048303,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7969579
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8ce157bfe6bf575ecc0e2a6daa7e9032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1293431701,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1293431701,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1293431701,
+    "wof:lastmodified":1536866194,
+    "wof:name":"Baraltol",
+    "wof:parent_id":1092048303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.57174,
+    26.55288,
+    87.57174,
+    26.55288
+],
+  "geometry": {"coordinates":[87.57174000000001,26.55288],"type":"Point"}
+}

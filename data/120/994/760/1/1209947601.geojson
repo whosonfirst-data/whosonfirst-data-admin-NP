@@ -1,0 +1,78 @@
+{
+  "id": 1209947601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.30829,28.24218,81.30829,28.24218",
+    "geom:latitude":28.24218,
+    "geom:longitude":81.30829,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"58.0",
+    "gn:admin4_code":"580011.0",
+    "gn:asciiname":"Chaudharipur",
+    "gn:country_code":"NP",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009589,
+    "gn:latitude":28.24218,
+    "gn:longitude":81.30829,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chaudharipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048097,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009589
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5f41596327561b48b3cb31f80ba26c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1209947601,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1209947601,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1209947601,
+    "wof:lastmodified":1536385660,
+    "wof:name":"Chaudharipur",
+    "wof:parent_id":1092048097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.30829,
+    28.24218,
+    81.30829,
+    28.24218
+],
+  "geometry": {"coordinates":[81.30829,28.24218],"type":"Point"}
+}

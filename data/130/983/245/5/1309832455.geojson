@@ -1,0 +1,78 @@
+{
+  "id": 1309832455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.73242,29.07844,81.73242,29.07844",
+    "geom:latitude":29.07844,
+    "geom:longitude":81.73242,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"64.0",
+    "gn:admin4_code":"640006.0",
+    "gn:asciiname":"Dansile",
+    "gn:country_code":"NP",
+    "gn:dem":2342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7958080,
+    "gn:latitude":29.07844,
+    "gn:longitude":81.73242,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dansile",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092048809,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7958080
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6fe29cab1d75e64da65a92734a2f9d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048809,
+            "locality_id":1309832455,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048809,
+            "locality_id":1309832455,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1309832455,
+    "wof:lastmodified":1536892508,
+    "wof:name":"Dansile",
+    "wof:parent_id":1092048809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.73241999999998,
+    29.07844,
+    81.73241999999998,
+    29.07844
+],
+  "geometry": {"coordinates":[81.73241999999998,29.07844],"type":"Point"}
+}

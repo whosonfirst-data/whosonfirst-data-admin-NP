@@ -1,0 +1,78 @@
+{
+  "id": 1243492077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.79482,27.05616,86.79482,27.05616",
+    "geom:latitude":27.05616,
+    "geom:longitude":86.79482,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"13",
+    "gn:admin4_code":"130070",
+    "gn:asciiname":"Aduwabari",
+    "gn:country_code":"NP",
+    "gn:dem":984,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7965241,
+    "gn:latitude":27.05616,
+    "gn:longitude":86.79482,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Aduwabari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050841,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7965241
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d68ff372886d8f50e99a21d126c492c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1243492077,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1243492077,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1243492077,
+    "wof:lastmodified":1536739565,
+    "wof:name":"Aduwabari",
+    "wof:parent_id":1092050841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.79482,
+    27.05616,
+    86.79482,
+    27.05616
+],
+  "geometry": {"coordinates":[86.79482,27.05616],"type":"Point"}
+}

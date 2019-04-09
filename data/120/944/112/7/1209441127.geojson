@@ -1,0 +1,64 @@
+{
+  "id": 1209441127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.86132,28.04976,81.86132,28.04976",
+    "geom:latitude":28.04976,
+    "geom:longitude":81.86132,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"570010.0",
+    "gn:asciiname":"Lalahi",
+    "gn:country_code":"NP",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007148,
+    "gn:latitude":28.04976,
+    "gn:longitude":81.86132,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lalahi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007148
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"16f63d93184d3de4ca28acef91ce0662",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209441127
+        }
+    ],
+    "wof:id":1209441127,
+    "wof:lastmodified":1536286957,
+    "wof:name":"Lalahi",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.86131999999998,
+    28.04976,
+    81.86131999999998,
+    28.04976
+],
+  "geometry": {"coordinates":[81.86131999999998,28.04976],"type":"Point"}
+}

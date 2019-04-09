@@ -1,0 +1,64 @@
+{
+  "id": 1209553113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.11625,26.85693,87.11625,26.85693",
+    "geom:latitude":26.85693,
+    "geom:longitude":87.11625,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140024.0",
+    "gn:asciiname":"Dukhlukaune",
+    "gn:country_code":"NP",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007150,
+    "gn:latitude":26.85693,
+    "gn:longitude":87.11625,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dukhlukaune",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007150
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b85da6a3267cd5fa23f74549440ea02b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209553113
+        }
+    ],
+    "wof:id":1209553113,
+    "wof:lastmodified":1536283632,
+    "wof:name":"Dukhlukaune",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.11625,
+    26.85693,
+    87.11625,
+    26.85693
+],
+  "geometry": {"coordinates":[87.11624999999999,26.85693],"type":"Point"}
+}

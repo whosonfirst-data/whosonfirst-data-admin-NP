@@ -1,0 +1,78 @@
+{
+  "id": 1343990653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.08894,29.51117,81.08894,29.51117",
+    "geom:latitude":29.51117,
+    "geom:longitude":81.08894,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680032",
+    "gn:asciiname":"Gurelthum",
+    "gn:country_code":"NP",
+    "gn:dem":1725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7995192,
+    "gn:latitude":29.51117,
+    "gn:longitude":81.08894,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gurelthum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048571,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7995192
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bc5b9cc67e304c9055d095f5f5fa1d0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1343990653,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1343990653,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1343990653,
+    "wof:lastmodified":1536975891,
+    "wof:name":"Gurelthum",
+    "wof:parent_id":1092048571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.08894000000002,
+    29.51117,
+    81.08894000000002,
+    29.51117
+],
+  "geometry": {"coordinates":[81.08894000000002,29.51117],"type":"Point"}
+}

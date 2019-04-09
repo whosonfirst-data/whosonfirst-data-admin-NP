@@ -1,0 +1,78 @@
+{
+  "id": 1276161157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.24483,26.71318,87.24483,26.71318",
+    "geom:latitude":26.71318,
+    "geom:longitude":87.24483,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"6",
+    "gn:admin4_code":"60006.0",
+    "gn:asciiname":"Ranipokharitol",
+    "gn:country_code":"NP",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7997417,
+    "gn:latitude":26.71318,
+    "gn:longitude":87.24483,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ranipokharitol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049923,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7997417
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"664629d1d6eb36552025ead456e10fd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1276161157,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1276161157,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1276161157,
+    "wof:lastmodified":1537008739,
+    "wof:name":"Ranipokharitol",
+    "wof:parent_id":1092049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.24483000000002,
+    26.71318,
+    87.24483000000002,
+    26.71318
+],
+  "geometry": {"coordinates":[87.24483000000002,26.71318],"type":"Point"}
+}

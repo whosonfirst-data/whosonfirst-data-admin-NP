@@ -1,0 +1,64 @@
+{
+  "id": 1209044233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.28485,27.38774,83.28485,27.38774",
+    "geom:latitude":27.38774,
+    "geom:longitude":83.28485,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"49",
+    "gn:admin4_code":"490001",
+    "gn:asciiname":"Thumwa Pandit",
+    "gn:country_code":"NP",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7986742,
+    "gn:latitude":27.38774,
+    "gn:longitude":83.28485,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thumwa Pandit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7986742
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fd7f8869d99fb677d9137842154a4d9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209044233
+        }
+    ],
+    "wof:id":1209044233,
+    "wof:lastmodified":1536299448,
+    "wof:name":"Thumwa Pandit",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.28485,
+    27.38774,
+    83.28485,
+    27.38774
+],
+  "geometry": {"coordinates":[83.28485000000001,27.38774],"type":"Point"}
+}

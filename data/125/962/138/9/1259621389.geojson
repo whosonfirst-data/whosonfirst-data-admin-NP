@@ -1,0 +1,78 @@
+{
+  "id": 1259621389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.53121,27.39041,85.53121,27.39041",
+    "geom:latitude":27.39041,
+    "geom:longitude":85.53121,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240075.0",
+    "gn:asciiname":"Jagathali",
+    "gn:country_code":"NP",
+    "gn:dem":896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7963785,
+    "gn:latitude":27.39041,
+    "gn:longitude":85.53121,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jagathali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7963785
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5e1a35f89a4791e617747c1f290e37a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1259621389,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1259621389,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1259621389,
+    "wof:lastmodified":1536660086,
+    "wof:name":"Jagathali",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.53121,
+    27.39041,
+    85.53121,
+    27.39041
+],
+  "geometry": {"coordinates":[85.53121,27.39041],"type":"Point"}
+}

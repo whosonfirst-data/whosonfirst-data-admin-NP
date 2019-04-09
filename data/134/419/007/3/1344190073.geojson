@@ -1,0 +1,78 @@
+{
+  "id": 1344190073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.37687,28.03224,82.37687,28.03224",
+    "geom:latitude":28.03224,
+    "geom:longitude":82.37687,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"560007.0",
+    "gn:asciiname":"Katuki",
+    "gn:country_code":"NP",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7938439,
+    "gn:latitude":28.03224,
+    "gn:longitude":82.37687,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Katuki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048605,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7938439
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ad881aff6829ecdf900d7de8cd38bf77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1344190073,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1344190073,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1344190073,
+    "wof:lastmodified":1536688767,
+    "wof:name":"Katuki",
+    "wof:parent_id":1092048605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.37687,
+    28.03224,
+    82.37687,
+    28.03224
+],
+  "geometry": {"coordinates":[82.37687,28.03224],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1276137253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.88631,27.19775,87.88631,27.19775",
+    "geom:latitude":27.19775,
+    "geom:longitude":87.88631,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ektin",
+    "gn:country_code":"NP",
+    "gn:dem":1512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282603,
+    "gn:latitude":27.19775,
+    "gn:longitude":87.88631,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Ektin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Ektin"
+    ],
+    "name:und_x_variant":[
+        "Yekt\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282603
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0423ce6434949c9e956ddfbb593c7db4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1276137253,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1276137253,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1276137253,
+    "wof:lastmodified":1537676036,
+    "wof:name":"Ektin",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.88631,
+    27.19775,
+    87.88631,
+    27.19775
+],
+  "geometry": {"coordinates":[87.88630999999999,27.19775],"type":"Point"}
+}

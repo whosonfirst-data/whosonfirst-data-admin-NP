@@ -1,0 +1,64 @@
+{
+  "id": 1209563143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.92672,27.973,83.92672,27.973",
+    "geom:latitude":27.973,
+    "geom:longitude":83.92672,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390016.0",
+    "gn:asciiname":"Kamante",
+    "gn:country_code":"NP",
+    "gn:dem":838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8000927,
+    "gn:latitude":27.973,
+    "gn:longitude":83.92672,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kamante",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8000927
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ee566d366487a21658fa92fbbe90fcc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209563143
+        }
+    ],
+    "wof:id":1209563143,
+    "wof:lastmodified":1536283324,
+    "wof:name":"Kamante",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.92671999999997,
+    27.973000000000006,
+    83.92671999999997,
+    27.973000000000006
+],
+  "geometry": {"coordinates":[83.92671999999997,27.97300000000001],"type":"Point"}
+}

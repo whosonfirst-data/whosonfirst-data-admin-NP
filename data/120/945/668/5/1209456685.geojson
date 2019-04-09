@@ -1,0 +1,64 @@
+{
+  "id": 1209456685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.61915,28.10151,83.61915,28.10151",
+    "geom:latitude":28.10151,
+    "geom:longitude":83.61915,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"44",
+    "gn:admin4_code":"440002",
+    "gn:asciiname":"Majhthar",
+    "gn:country_code":"NP",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7978224,
+    "gn:latitude":28.10151,
+    "gn:longitude":83.61915,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Majhthar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7978224
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6d63c4b78be406a238a5d9fcf19556af",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209456685
+        }
+    ],
+    "wof:id":1209456685,
+    "wof:lastmodified":1536286509,
+    "wof:name":"Majhthar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.61915,
+    28.10151,
+    83.61915,
+    28.10151
+],
+  "geometry": {"coordinates":[83.61915,28.10151],"type":"Point"}
+}

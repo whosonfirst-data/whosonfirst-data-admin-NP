@@ -1,0 +1,78 @@
+{
+  "id": 1343492107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.27796,28.61014,82.27796,28.61014",
+    "geom:latitude":28.61014,
+    "geom:longitude":82.27796,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"54",
+    "gn:admin4_code":"540020",
+    "gn:asciiname":"Bisaunechaur",
+    "gn:country_code":"NP",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7985702,
+    "gn:latitude":28.61014,
+    "gn:longitude":82.27796,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bisaunechaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049495,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7985702
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b17aafb0b5c7648fcbf0b8a61996141a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1343492107,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1343492107,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1343492107,
+    "wof:lastmodified":1536700802,
+    "wof:name":"Bisaunechaur",
+    "wof:parent_id":1092049495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.27796,
+    28.61014,
+    82.27796,
+    28.61014
+],
+  "geometry": {"coordinates":[82.27795999999999,28.61014],"type":"Point"}
+}

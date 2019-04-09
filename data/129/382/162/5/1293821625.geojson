@@ -1,0 +1,78 @@
+{
+  "id": 1293821625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.38685,27.55457,86.38685,27.55457",
+    "geom:latitude":27.55457,
+    "geom:longitude":86.38685,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"11",
+    "gn:admin4_code":"110006",
+    "gn:asciiname":"Risti",
+    "gn:country_code":"NP",
+    "gn:dem":2096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7996527,
+    "gn:latitude":27.55457,
+    "gn:longitude":86.38685,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Risti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049841,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7996527
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7795c584a79a4feb4f65ca317e609b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1293821625,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1293821625,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1293821625,
+    "wof:lastmodified":1536802386,
+    "wof:name":"Risti",
+    "wof:parent_id":1092049841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.38685,
+    27.55457,
+    86.38685,
+    27.55457
+],
+  "geometry": {"coordinates":[86.38685,27.55457],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1243591673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.60745,27.72349,83.60745,27.72349",
+    "geom:latitude":27.72349,
+    "geom:longitude":83.60745,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"47",
+    "gn:admin4_code":"470026",
+    "gn:asciiname":"Birsing",
+    "gn:country_code":"NP",
+    "gn:dem":1114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7976307,
+    "gn:latitude":27.72349,
+    "gn:longitude":83.60745,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Birsing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050889,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7976307
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"df605d038d2a603fff0e6dd538da0e6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1243591673,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1243591673,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1243591673,
+    "wof:lastmodified":1537089806,
+    "wof:name":"Birsing",
+    "wof:parent_id":1092050889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.60745,
+    27.72349,
+    83.60745,
+    27.72349
+],
+  "geometry": {"coordinates":[83.60745,27.72349],"type":"Point"}
+}

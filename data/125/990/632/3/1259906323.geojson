@@ -1,0 +1,78 @@
+{
+  "id": 1259906323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.06576,29.4328,82.06576,29.4328",
+    "geom:latitude":29.4328,
+    "geom:longitude":82.06576,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"630021.0",
+    "gn:asciiname":"Bota",
+    "gn:country_code":"NP",
+    "gn:dem":2819,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7955998,
+    "gn:latitude":29.4328,
+    "gn:longitude":82.06576,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092050797,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7955998
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4ac6274d609195da920a419bea344533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1259906323,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1259906323,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1259906323,
+    "wof:lastmodified":1536746062,
+    "wof:name":"Bota",
+    "wof:parent_id":1092050797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.06576,
+    29.4328,
+    82.06576,
+    29.4328
+],
+  "geometry": {"coordinates":[82.06576,29.4328],"type":"Point"}
+}

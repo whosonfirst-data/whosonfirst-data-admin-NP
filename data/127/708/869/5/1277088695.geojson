@@ -1,0 +1,81 @@
+{
+  "id": 1277088695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.37537,27.02834,85.37537,27.02834",
+    "geom:latitude":27.02834,
+    "geom:longitude":85.37537,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dhangadhi",
+    "gn:country_code":"NP",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10331202,
+    "gn:latitude":27.02834,
+    "gn:longitude":85.37537,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Dhanga\u1e0dhi\u0307\u0304",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Dhanga\u1e0dhi\u0307\u0304"
+    ],
+    "name:nep_x_variant":[
+        "Dhanga\u1e0dh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049419,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10331202
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"603a1c8a8883fc1674caffe656f476dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1277088695,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1277088695,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1277088695,
+    "wof:lastmodified":1537676104,
+    "wof:name":"Dhangadhi",
+    "wof:parent_id":1092049419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.37536999999998,
+    27.02834,
+    85.37536999999998,
+    27.02834
+],
+  "geometry": {"coordinates":[85.37536999999998,27.02834],"type":"Point"}
+}

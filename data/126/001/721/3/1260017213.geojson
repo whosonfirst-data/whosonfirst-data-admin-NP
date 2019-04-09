@@ -1,0 +1,78 @@
+{
+  "id": 1260017213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.92472,28.09977,83.92472,28.09977",
+    "geom:latitude":28.09977,
+    "geom:longitude":83.92472,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390056.0",
+    "gn:asciiname":"Newarbari",
+    "gn:country_code":"NP",
+    "gn:dem":984,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002332,
+    "gn:latitude":28.09977,
+    "gn:longitude":83.92472,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Newarbari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002332
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f2e11230d8290199f9438ecc3ed6ba52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1260017213,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1260017213,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1260017213,
+    "wof:lastmodified":1537080183,
+    "wof:name":"Newarbari",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.92472,
+    28.09977,
+    83.92472,
+    28.09977
+],
+  "geometry": {"coordinates":[83.92471999999999,28.09977],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209262627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.36731,27.09227,87.36731,27.09227",
+    "geom:latitude":27.09227,
+    "geom:longitude":87.36731,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"7.0",
+    "gn:admin4_code":"70029.0",
+    "gn:asciiname":"Ganeshtar",
+    "gn:country_code":"NP",
+    "gn:dem":1805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7943364,
+    "gn:latitude":27.09227,
+    "gn:longitude":87.36731,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ganeshtar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7943364
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"af1aed53f57fb994ef5d81452344b5fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209262627
+        }
+    ],
+    "wof:id":1209262627,
+    "wof:lastmodified":1536292640,
+    "wof:name":"Ganeshtar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.36731,
+    27.092270000000006,
+    87.36731,
+    27.092270000000006
+],
+  "geometry": {"coordinates":[87.36731,27.09227000000001],"type":"Point"}
+}

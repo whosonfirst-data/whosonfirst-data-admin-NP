@@ -1,0 +1,78 @@
+{
+  "id": 1293626561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.43812,28.0273,83.43812,28.0273",
+    "geom:latitude":28.0273,
+    "geom:longitude":83.43812,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"46.0",
+    "gn:admin4_code":"460050.0",
+    "gn:asciiname":"Ritaudigaun",
+    "gn:country_code":"NP",
+    "gn:dem":872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7950379,
+    "gn:latitude":28.0273,
+    "gn:longitude":83.43812,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ritaudigaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050755,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7950379
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"581c927d0f0db9712f5db34c829c4363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1293626561,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1293626561,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1293626561,
+    "wof:lastmodified":1537080483,
+    "wof:name":"Ritaudigaun",
+    "wof:parent_id":1092050755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.43812,
+    28.0273,
+    83.43812,
+    28.0273
+],
+  "geometry": {"coordinates":[83.43812,28.0273],"type":"Point"}
+}

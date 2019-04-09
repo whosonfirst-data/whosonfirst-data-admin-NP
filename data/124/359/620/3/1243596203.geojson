@@ -1,0 +1,78 @@
+{
+  "id": 1243596203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.56672,27.95205,85.56672,27.95205",
+    "geom:latitude":27.95205,
+    "geom:longitude":85.56672,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"23",
+    "gn:admin4_code":"230029",
+    "gn:asciiname":"Kolemu",
+    "gn:country_code":"NP",
+    "gn:dem":2013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7994742,
+    "gn:latitude":27.95205,
+    "gn:longitude":85.56672,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kolemu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7994742
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3957485f135b567144a945eb5caee9a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1243596203,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1243596203,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1243596203,
+    "wof:lastmodified":1537083488,
+    "wof:name":"Kolemu",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.56671999999998,
+    27.95205,
+    85.56671999999998,
+    27.95205
+],
+  "geometry": {"coordinates":[85.56671999999998,27.95205],"type":"Point"}
+}

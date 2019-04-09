@@ -1,0 +1,78 @@
+{
+  "id": 1343409387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.85707,26.68524,87.85707,26.68524",
+    "geom:latitude":26.68524,
+    "geom:longitude":87.85707,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30025.0",
+    "gn:asciiname":"Sunjhoda Dandagaun",
+    "gn:country_code":"NP",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7952189,
+    "gn:latitude":26.68524,
+    "gn:longitude":87.85707,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sunjhoda Dandagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7952189
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d93bfc228457fa705c68689041ea71c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1343409387,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1343409387,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1343409387,
+    "wof:lastmodified":1536819151,
+    "wof:name":"Sunjhoda Dandagaun",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.85707,
+    26.68524,
+    87.85707,
+    26.68524
+],
+  "geometry": {"coordinates":[87.85706999999999,26.68524],"type":"Point"}
+}

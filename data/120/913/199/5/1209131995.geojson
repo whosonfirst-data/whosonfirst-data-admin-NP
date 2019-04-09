@@ -1,0 +1,64 @@
+{
+  "id": 1209131995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.13671,28.64807,81.13671,28.64807",
+    "geom:latitude":28.64807,
+    "geom:longitude":81.13671,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710001.0",
+    "gn:asciiname":"Kauwapur",
+    "gn:country_code":"NP",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956202,
+    "gn:latitude":28.64807,
+    "gn:longitude":81.13671,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kauwapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956202
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f308da3b067cbd6da7a5f279e8d97640",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209131995
+        }
+    ],
+    "wof:id":1209131995,
+    "wof:lastmodified":1536296778,
+    "wof:name":"Kauwapur",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.13671,
+    28.64807,
+    81.13671,
+    28.64807
+],
+  "geometry": {"coordinates":[81.13670999999999,28.64807],"type":"Point"}
+}

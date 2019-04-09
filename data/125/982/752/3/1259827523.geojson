@@ -1,0 +1,78 @@
+{
+  "id": 1259827523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.63523,27.92562,83.63523,27.92562",
+    "geom:latitude":27.92562,
+    "geom:longitude":83.63523,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390033.0",
+    "gn:asciiname":"Tunibot",
+    "gn:country_code":"NP",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001430,
+    "gn:latitude":27.92562,
+    "gn:longitude":83.63523,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tunibot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001430
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e9e3f9a793892e56d23067c0d80bb25f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1259827523,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1259827523,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1259827523,
+    "wof:lastmodified":1536858579,
+    "wof:name":"Tunibot",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.63523,
+    27.92562,
+    83.63523,
+    27.92562
+],
+  "geometry": {"coordinates":[83.63523000000001,27.92562],"type":"Point"}
+}

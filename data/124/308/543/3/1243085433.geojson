@@ -1,0 +1,78 @@
+{
+  "id": 1243085433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.76339,27.80772,84.76339,27.80772",
+    "geom:latitude":27.80772,
+    "geom:longitude":84.76339,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kaldada",
+    "gn:country_code":"NP",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11599708,
+    "gn:latitude":27.80772,
+    "gn:longitude":84.76339,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"K\u0101l\u1e0d\u0101\u0303\u1e0d\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "K\u0101l\u1e0d\u0101\u0303\u1e0d\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11599708
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0c2bbe86835c211235387e61790ba936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1243085433,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1243085433,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1243085433,
+    "wof:lastmodified":1537676112,
+    "wof:name":"Kaldada",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.76339,
+    27.80772,
+    84.76339,
+    27.80772
+],
+  "geometry": {"coordinates":[84.76339,27.80772],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276578263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.66236,29.78931,80.66236,29.78931",
+    "geom:latitude":29.78931,
+    "geom:longitude":80.66236,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"75.0",
+    "gn:admin4_code":"750024.0",
+    "gn:asciiname":"Bilasau",
+    "gn:country_code":"NP",
+    "gn:dem":1780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7940611,
+    "gn:latitude":29.78931,
+    "gn:longitude":80.66236,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bilasau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050347,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7940611
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2b57bdd8538a9d74697a9f4fea91dc22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050347,
+            "locality_id":1276578263,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050347,
+            "locality_id":1276578263,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1276578263,
+    "wof:lastmodified":1536948556,
+    "wof:name":"Bilasau",
+    "wof:parent_id":1092050347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.66235999999998,
+    29.78931,
+    80.66235999999998,
+    29.78931
+],
+  "geometry": {"coordinates":[80.66235999999998,29.78931],"type":"Point"}
+}

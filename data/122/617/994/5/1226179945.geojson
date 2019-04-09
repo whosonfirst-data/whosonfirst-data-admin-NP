@@ -1,0 +1,78 @@
+{
+  "id": 1226179945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.20563,27.58514,83.20563,27.58514",
+    "geom:latitude":27.58514,
+    "geom:longitude":83.20563,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"50.0",
+    "gn:admin4_code":"500059.0",
+    "gn:asciiname":"Ahirauli",
+    "gn:country_code":"NP",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7959946,
+    "gn:latitude":27.58514,
+    "gn:longitude":83.20563,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ahirauli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048259,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7959946
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"23a66987b3f7ea08754dbe5d0f296287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1226179945,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1226179945,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1226179945,
+    "wof:lastmodified":1537027087,
+    "wof:name":"Ahirauli",
+    "wof:parent_id":1092048259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.20563,
+    27.58514000000001,
+    83.20563,
+    27.58514000000001
+],
+  "geometry": {"coordinates":[83.20563,27.58514000000001],"type":"Point"}
+}

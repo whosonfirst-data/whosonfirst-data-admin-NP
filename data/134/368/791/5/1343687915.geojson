@@ -1,0 +1,78 @@
+{
+  "id": 1343687915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.3029,28.46169,82.3029,28.46169",
+    "geom:latitude":28.46169,
+    "geom:longitude":82.3029,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550046",
+    "gn:asciiname":"Kharibot",
+    "gn:country_code":"NP",
+    "gn:dem":1390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7989745,
+    "gn:latitude":28.46169,
+    "gn:longitude":82.3029,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kharibot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049579,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7989745
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0d2a2dfc67eff2c8f8863a40966af613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1343687915,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1343687915,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1343687915,
+    "wof:lastmodified":1536916078,
+    "wof:name":"Kharibot",
+    "wof:parent_id":1092049579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.3029,
+    28.46169,
+    82.3029,
+    28.46169
+],
+  "geometry": {"coordinates":[82.30289999999999,28.46169],"type":"Point"}
+}

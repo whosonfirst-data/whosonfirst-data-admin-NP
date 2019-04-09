@@ -1,0 +1,64 @@
+{
+  "id": 1209156325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.84337,28.00748,83.84337,28.00748",
+    "geom:latitude":28.00748,
+    "geom:longitude":83.84337,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390032.0",
+    "gn:asciiname":"Raniswara",
+    "gn:country_code":"NP",
+    "gn:dem":1349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001416,
+    "gn:latitude":28.00748,
+    "gn:longitude":83.84337,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Raniswara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001416
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"48df54f4c3f3c6751295b119e4910d4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209156325
+        }
+    ],
+    "wof:id":1209156325,
+    "wof:lastmodified":1536296044,
+    "wof:name":"Raniswara",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.84337,
+    28.00748,
+    83.84337,
+    28.00748
+],
+  "geometry": {"coordinates":[83.84336999999999,28.00748],"type":"Point"}
+}

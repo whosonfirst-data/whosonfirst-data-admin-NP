@@ -1,0 +1,78 @@
+{
+  "id": 1326863029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.83081,28.90444,81.83081,28.90444",
+    "geom:latitude":28.90444,
+    "geom:longitude":81.83081,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"60.0",
+    "gn:admin4_code":"600038.0",
+    "gn:asciiname":"Sammeni",
+    "gn:country_code":"NP",
+    "gn:dem":1671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7937708,
+    "gn:latitude":28.90444,
+    "gn:longitude":81.83081,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sammeni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092050583,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7937708
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"574b0608b4e6002ea75094031aea1a71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1326863029,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1326863029,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1326863029,
+    "wof:lastmodified":1537003661,
+    "wof:name":"Sammeni",
+    "wof:parent_id":1092050583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.83081,
+    28.90444,
+    81.83081,
+    28.90444
+],
+  "geometry": {"coordinates":[81.83081,28.90444],"type":"Point"}
+}

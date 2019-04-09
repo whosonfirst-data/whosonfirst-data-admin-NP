@@ -1,0 +1,78 @@
+{
+  "id": 1360122141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.58001,28.26822,83.58001,28.26822",
+    "geom:latitude":28.26822,
+    "geom:longitude":83.58001,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450019.0",
+    "gn:asciiname":"Gahate",
+    "gn:country_code":"NP",
+    "gn:dem":1126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7954130,
+    "gn:latitude":28.26822,
+    "gn:longitude":83.58001,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gahate",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7954130
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"83aa7625dd62010b096b42943741e3e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1360122141,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1360122141,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1360122141,
+    "wof:lastmodified":1536891767,
+    "wof:name":"Gahate",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.58001,
+    28.26822,
+    83.58001,
+    28.26822
+],
+  "geometry": {"coordinates":[83.58001,28.26822],"type":"Point"}
+}

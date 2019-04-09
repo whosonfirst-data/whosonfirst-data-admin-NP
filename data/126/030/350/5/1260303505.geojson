@@ -1,0 +1,82 @@
+{
+  "id": 1260303505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.69184,27.46608,84.69184,27.46608",
+    "geom:latitude":27.46608,
+    "geom:longitude":84.69184,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Harda Goth",
+    "gn:country_code":"NP",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283344,
+    "gn:latitude":27.46608,
+    "gn:longitude":84.69184,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Harda Go\u1e6dh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Harda Go\u1e6dh"
+    ],
+    "name:und_x_variant":[
+        "Hast\u0101",
+        "H\u0101rta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283344
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c969a27832a6277b7b81096f8a7c8d84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1260303505,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1260303505,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1260303505,
+    "wof:lastmodified":1537676054,
+    "wof:name":"Harda Goth",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.69184,
+    27.46608,
+    84.69184,
+    27.46608
+],
+  "geometry": {"coordinates":[84.69184,27.46608],"type":"Point"}
+}

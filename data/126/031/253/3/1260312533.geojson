@@ -1,0 +1,78 @@
+{
+  "id": 1260312533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.26782,28.01406,82.26782,28.01406",
+    "geom:latitude":28.01406,
+    "geom:longitude":82.26782,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"560026.0",
+    "gn:asciiname":"Maj Ghatuwa",
+    "gn:country_code":"NP",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7939291,
+    "gn:latitude":28.01406,
+    "gn:longitude":82.26782,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Maj Ghatuwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048605,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7939291
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"967a3808ab3b83303322359b0c6d8397",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1260312533,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1260312533,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1260312533,
+    "wof:lastmodified":1536673077,
+    "wof:name":"Maj Ghatuwa",
+    "wof:parent_id":1092048605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.26782,
+    28.01406,
+    82.26782,
+    28.01406
+],
+  "geometry": {"coordinates":[82.26782,28.01406],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209829759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.26722,27.43338,86.26722,27.43338",
+    "geom:latitude":27.43338,
+    "geom:longitude":86.26722,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Purbaje",
+    "gn:country_code":"NP",
+    "gn:dem":1427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10328623,
+    "gn:latitude":27.43338,
+    "gn:longitude":86.26722,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Purbaje",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050225,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10328623
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"557747d665d3238a0651c3e193108a71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050225,
+            "locality_id":1209829759,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050225,
+            "locality_id":1209829759,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1209829759,
+    "wof:lastmodified":1536369729,
+    "wof:name":"Purbaje",
+    "wof:parent_id":1092050225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.26722,
+    27.43338,
+    86.26722,
+    27.43338
+],
+  "geometry": {"coordinates":[86.26721999999999,27.43338],"type":"Point"}
+}

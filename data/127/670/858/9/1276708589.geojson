@@ -1,0 +1,78 @@
+{
+  "id": 1276708589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.38649,27.81948,84.38649,27.81948",
+    "geom:latitude":27.81948,
+    "geom:longitude":84.38649,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380029.0",
+    "gn:asciiname":"Ghartibas",
+    "gn:country_code":"NP",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003926,
+    "gn:latitude":27.81948,
+    "gn:longitude":84.38649,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ghartibas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003926
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bc558ce8201423658ea28b89e5485fef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1276708589,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1276708589,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1276708589,
+    "wof:lastmodified":1536773646,
+    "wof:name":"Ghartibas",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.38649000000002,
+    27.81948,
+    84.38649000000002,
+    27.81948
+],
+  "geometry": {"coordinates":[84.38649000000002,27.81948],"type":"Point"}
+}

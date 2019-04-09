@@ -1,0 +1,103 @@
+{
+  "id": 1125377765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.33333,29.08333,81.33333,29.08333",
+    "geom:latitude":29.08333,
+    "geom:longitude":81.33333,
+    "gn:gn_country":"NP",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":239534,
+    "iso:country":"NP",
+    "lbl:latitude":29.08333,
+    "lbl:longitude":81.33333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NP",
+    "qs_pg:gn_country":"NP",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1283743,
+    "qs_pg:gn_pop":239534,
+    "qs_pg:name":"Achham",
+    "qs_pg:name_adm0":"Nepal",
+    "qs_pg:name_adm1":"Sudur Pashchimanchal",
+    "qs_pg:photos":8,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":8,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":1002109,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424911,
+    "qs_pg:woe_id":23706783,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"quattroshapes_pg",
+    "woe:adm0_id":23424911,
+    "woe:name_adm0":"Nepal",
+    "woe:name_adm1":"Sudur Pashchimanchal",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048527,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283743,
+        "gp:id":23706783,
+        "qs_pg:id":1002109
+    },
+    "wof:country":"NP",
+    "wof:created":1497047858,
+    "wof:geomhash":"eb320ea3c57d28369367b7f4e4345c2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "localadmin_id":1125377765,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "localadmin_id":1125377765,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1125377765,
+    "wof:lastmodified":1534379388,
+    "wof:name":"Achham",
+    "wof:parent_id":1092048527,
+    "wof:placetype":"localadmin",
+    "wof:population":239534,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[
+        421184575
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.33333,
+    29.08333,
+    81.33333,
+    29.08333
+],
+  "geometry": {"coordinates":[81.33333,29.08333],"type":"Point"}
+}

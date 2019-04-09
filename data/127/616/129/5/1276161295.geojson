@@ -1,0 +1,78 @@
+{
+  "id": 1276161295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.85839,27.79788,84.85839,27.79788",
+    "geom:latitude":27.79788,
+    "geom:longitude":84.85839,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300013.0",
+    "gn:asciiname":"Dandagaun",
+    "gn:country_code":"NP",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7941400,
+    "gn:latitude":27.79788,
+    "gn:longitude":84.85839,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dandagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7941400
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b5c43bba47de2222d00c53591e4a8e7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1276161295,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1276161295,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1276161295,
+    "wof:lastmodified":1537008560,
+    "wof:name":"Dandagaun",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.85839,
+    27.79788,
+    84.85839,
+    27.79788
+],
+  "geometry": {"coordinates":[84.85839,27.79788],"type":"Point"}
+}

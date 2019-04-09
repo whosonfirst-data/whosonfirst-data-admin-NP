@@ -1,0 +1,78 @@
+{
+  "id": 1293427253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.99129,28.17572,83.99129,28.17572",
+    "geom:latitude":28.17572,
+    "geom:longitude":83.99129,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400032.0",
+    "gn:asciiname":"Sitapaila",
+    "gn:country_code":"NP",
+    "gn:dem":745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7961444,
+    "gn:latitude":28.17572,
+    "gn:longitude":83.99129,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sitapaila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092049331,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7961444
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cda61facaeedee5011adacb673ca91b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1293427253,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1293427253,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293427253,
+    "wof:lastmodified":1536872766,
+    "wof:name":"Sitapaila",
+    "wof:parent_id":1092049331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.99129,
+    28.17572,
+    83.99129,
+    28.17572
+],
+  "geometry": {"coordinates":[83.99129000000001,28.17572],"type":"Point"}
+}

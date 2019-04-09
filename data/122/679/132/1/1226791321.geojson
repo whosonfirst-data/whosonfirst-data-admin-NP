@@ -1,0 +1,78 @@
+{
+  "id": 1226791321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.81899,27.32861,86.81899,27.32861",
+    "geom:latitude":27.32861,
+    "geom:longitude":86.81899,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"13.0",
+    "gn:admin4_code":"130007.0",
+    "gn:asciiname":"Baksila",
+    "gn:country_code":"NP",
+    "gn:dem":1599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7964069,
+    "gn:latitude":27.32861,
+    "gn:longitude":86.81899,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Baksila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050841,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7964069
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d9a2bc9e48968a0a3e1a303b51e06a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1226791321,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1226791321,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1226791321,
+    "wof:lastmodified":1536649702,
+    "wof:name":"Baksila",
+    "wof:parent_id":1092050841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.81899,
+    27.32861,
+    86.81899,
+    27.32861
+],
+  "geometry": {"coordinates":[86.81899,27.32861],"type":"Point"}
+}

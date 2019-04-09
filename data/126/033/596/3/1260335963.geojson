@@ -1,0 +1,78 @@
+{
+  "id": 1260335963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.96987,27.62293,82.96987,27.62293",
+    "geom:latitude":27.62293,
+    "geom:longitude":82.96987,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"50.0",
+    "gn:admin4_code":"500033.0",
+    "gn:asciiname":"Madhunagara",
+    "gn:country_code":"NP",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7959587,
+    "gn:latitude":27.62293,
+    "gn:longitude":82.96987,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Madhunagara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048259,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7959587
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7262153c81ec05a64f8ac32f43f22960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1260335963,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1260335963,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1260335963,
+    "wof:lastmodified":1536640859,
+    "wof:name":"Madhunagara",
+    "wof:parent_id":1092048259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.96987,
+    27.62293,
+    82.96987,
+    27.62293
+],
+  "geometry": {"coordinates":[82.96987,27.62293],"type":"Point"}
+}

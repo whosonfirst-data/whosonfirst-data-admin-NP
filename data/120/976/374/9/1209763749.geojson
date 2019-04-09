@@ -1,0 +1,78 @@
+{
+  "id": 1209763749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.15576,26.60178,87.15576,26.60178",
+    "geom:latitude":26.60178,
+    "geom:longitude":87.15576,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"6.0",
+    "gn:admin4_code":"60026.0",
+    "gn:asciiname":"Haspitaltol",
+    "gn:country_code":"NP",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7997884,
+    "gn:latitude":26.60178,
+    "gn:longitude":87.15576,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Haspitaltol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049923,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7997884
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f3b12786b3eae21451ad1e2e749242a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1209763749,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1209763749,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1209763749,
+    "wof:lastmodified":1536387364,
+    "wof:name":"Haspitaltol",
+    "wof:parent_id":1092049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.15576,
+    26.60178,
+    87.15576,
+    26.60178
+],
+  "geometry": {"coordinates":[87.15576,26.60178],"type":"Point"}
+}

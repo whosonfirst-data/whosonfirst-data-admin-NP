@@ -1,0 +1,64 @@
+{
+  "id": 1209447969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.33059,28.20807,81.33059,28.20807",
+    "geom:latitude":28.20807,
+    "geom:longitude":81.33059,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"58.0",
+    "gn:admin4_code":"580011.0",
+    "gn:asciiname":"Chauburji",
+    "gn:country_code":"NP",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009623,
+    "gn:latitude":28.20807,
+    "gn:longitude":81.33059,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chauburji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009623
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a65fe3be03d8070f3f9e6d74502d6b84",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209447969
+        }
+    ],
+    "wof:id":1209447969,
+    "wof:lastmodified":1536286759,
+    "wof:name":"Chauburji",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.33059,
+    28.208070000000006,
+    81.33059,
+    28.208070000000006
+],
+  "geometry": {"coordinates":[81.33059,28.20807000000001],"type":"Point"}
+}

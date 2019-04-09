@@ -1,0 +1,78 @@
+{
+  "id": 1344089541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.21286,29.16055,81.21286,29.16055",
+    "geom:latitude":29.16055,
+    "geom:longitude":81.21286,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"69.0",
+    "gn:admin4_code":"690017.0",
+    "gn:asciiname":"Moro",
+    "gn:country_code":"NP",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7954033,
+    "gn:latitude":29.16055,
+    "gn:longitude":81.21286,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Moro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048527,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7954033
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"127c1a5a6f168fd6be84043ea5f56159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1344089541,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1344089541,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1344089541,
+    "wof:lastmodified":1536832723,
+    "wof:name":"Moro",
+    "wof:parent_id":1092048527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.21285999999998,
+    29.16055,
+    81.21285999999998,
+    29.16055
+],
+  "geometry": {"coordinates":[81.21285999999998,29.16055],"type":"Point"}
+}

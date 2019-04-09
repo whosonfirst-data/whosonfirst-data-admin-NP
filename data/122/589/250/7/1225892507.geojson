@@ -1,0 +1,78 @@
+{
+  "id": 1225892507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.69628,26.77102,87.69628,26.77102",
+    "geom:latitude":26.77102,
+    "geom:longitude":87.69628,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30002.0",
+    "gn:asciiname":"Dumre",
+    "gn:country_code":"NP",
+    "gn:dem":290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7951406,
+    "gn:latitude":26.77102,
+    "gn:longitude":87.69628,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dumre",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7951406
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"04f9f05ecc9264ee76c59817c54035c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1225892507,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1225892507,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1225892507,
+    "wof:lastmodified":1536946715,
+    "wof:name":"Dumre",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.69628,
+    26.77102,
+    87.69628,
+    26.77102
+],
+  "geometry": {"coordinates":[87.69628,26.77102],"type":"Point"}
+}

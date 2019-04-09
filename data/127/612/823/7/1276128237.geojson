@@ -1,0 +1,75 @@
+{
+  "id": 1276128237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.35225,27.66318,85.35225,27.66318",
+    "geom:latitude":27.66318,
+    "geom:longitude":85.35225,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bistgau",
+    "gn:country_code":"NP",
+    "gn:dem":1308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10276858,
+    "gn:latitude":27.66318,
+    "gn:longitude":85.35225,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Bi\u1e63\u1e6dg\u0101\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048971,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10276858
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"95873589085418e1859c29f8aa687e2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048971,
+            "locality_id":1276128237,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048971,
+            "locality_id":1276128237,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1276128237,
+    "wof:lastmodified":1537051179,
+    "wof:name":"Bistgau",
+    "wof:parent_id":1092048971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.35225,
+    27.66318,
+    85.35225,
+    27.66318
+],
+  "geometry": {"coordinates":[85.35225,27.66318],"type":"Point"}
+}

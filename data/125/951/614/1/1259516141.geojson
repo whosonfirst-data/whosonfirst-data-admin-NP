@@ -1,0 +1,78 @@
+{
+  "id": 1259516141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.63904,28.79431,81.63904,28.79431",
+    "geom:latitude":28.79431,
+    "geom:longitude":81.63904,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"60.0",
+    "gn:admin4_code":"600033.0",
+    "gn:asciiname":"Kosedhungga",
+    "gn:country_code":"NP",
+    "gn:dem":1632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7937492,
+    "gn:latitude":28.79431,
+    "gn:longitude":81.63904,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kosedhungga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092050583,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7937492
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6ce71d38c39c941006779f89ca0ff134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1259516141,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1259516141,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1259516141,
+    "wof:lastmodified":1536811405,
+    "wof:name":"Kosedhungga",
+    "wof:parent_id":1092050583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.63904000000002,
+    28.79431,
+    81.63904000000002,
+    28.79431
+],
+  "geometry": {"coordinates":[81.63904000000002,28.79431],"type":"Point"}
+}

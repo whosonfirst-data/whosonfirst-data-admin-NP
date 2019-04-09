@@ -1,0 +1,78 @@
+{
+  "id": 1343709631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.18581,28.02672,84.18581,28.02672",
+    "geom:latitude":28.02672,
+    "geom:longitude":84.18581,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380033.0",
+    "gn:asciiname":"Tin Piple",
+    "gn:country_code":"NP",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8004204,
+    "gn:latitude":28.02672,
+    "gn:longitude":84.18581,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tin Piple",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8004204
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b022eea1b6df95b047a0a9a73655b63e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1343709631,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1343709631,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1343709631,
+    "wof:lastmodified":1536883638,
+    "wof:name":"Tin Piple",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.18581,
+    28.02672,
+    84.18581,
+    28.02672
+],
+  "geometry": {"coordinates":[84.18581,28.02672],"type":"Point"}
+}

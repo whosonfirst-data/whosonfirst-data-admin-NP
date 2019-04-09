@@ -1,0 +1,78 @@
+{
+  "id": 1260329623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.10083,27.88672,85.10083,27.88672",
+    "geom:latitude":27.88672,
+    "geom:longitude":85.10083,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"28",
+    "gn:admin4_code":"280031",
+    "gn:asciiname":"Bhorle",
+    "gn:country_code":"NP",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7974319,
+    "gn:latitude":27.88672,
+    "gn:longitude":85.10083,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhorle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7974319
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"857efa1d4bd5e987ed9e83f910d71cf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1260329623,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1260329623,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1260329623,
+    "wof:lastmodified":1536649847,
+    "wof:name":"Bhorle",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.10083,
+    27.88672,
+    85.10083,
+    27.88672
+],
+  "geometry": {"coordinates":[85.10083,27.88672],"type":"Point"}
+}

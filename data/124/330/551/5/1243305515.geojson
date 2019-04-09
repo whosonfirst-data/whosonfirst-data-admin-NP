@@ -1,0 +1,78 @@
+{
+  "id": 1243305515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.74599,28.00508,83.74599,28.00508",
+    "geom:latitude":28.00508,
+    "geom:longitude":83.74599,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390054.0",
+    "gn:asciiname":"Panchamul",
+    "gn:country_code":"NP",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002235,
+    "gn:latitude":28.00508,
+    "gn:longitude":83.74599,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Panchamul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002235
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"03ff939d51a168bb5bf8d1296c96d6b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1243305515,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1243305515,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1243305515,
+    "wof:lastmodified":1537007985,
+    "wof:name":"Panchamul",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.74599,
+    28.00508,
+    83.74599,
+    28.00508
+],
+  "geometry": {"coordinates":[83.74599000000001,28.00508],"type":"Point"}
+}

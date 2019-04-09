@@ -1,0 +1,78 @@
+{
+  "id": 1276917735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.20368,27.38989,85.20368,27.38989",
+    "geom:latitude":27.38989,
+    "geom:longitude":85.20368,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310028",
+    "gn:asciiname":"Ranisera",
+    "gn:country_code":"NP",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7968705,
+    "gn:latitude":27.38989,
+    "gn:longitude":85.20368,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ranisera",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7968705
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"89bf4aa72e91c7bcf1245816d43e6eb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1276917735,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1276917735,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1276917735,
+    "wof:lastmodified":1536989661,
+    "wof:name":"Ranisera",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.20368,
+    27.38989,
+    85.20368,
+    27.38989
+],
+  "geometry": {"coordinates":[85.20368000000001,27.38989],"type":"Point"}
+}

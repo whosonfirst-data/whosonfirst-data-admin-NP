@@ -1,0 +1,78 @@
+{
+  "id": 1259721307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.96672,27.19918,86.96672,27.19918",
+    "geom:latitude":27.19918,
+    "geom:longitude":86.96672,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100042.0",
+    "gn:asciiname":"Lumbuwa",
+    "gn:country_code":"NP",
+    "gn:dem":1528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933582,
+    "gn:latitude":27.19918,
+    "gn:longitude":86.96672,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lumbuwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933582
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"27694dba87b42b970c23b8774ac6ee7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1259721307,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1259721307,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1259721307,
+    "wof:lastmodified":1537011783,
+    "wof:name":"Lumbuwa",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.96672,
+    27.19918,
+    86.96672,
+    27.19918
+],
+  "geometry": {"coordinates":[86.96672,27.19918],"type":"Point"}
+}

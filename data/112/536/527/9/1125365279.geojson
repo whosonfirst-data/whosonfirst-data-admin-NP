@@ -1,0 +1,101 @@
+{
+  "id": 1125365279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.66667,28.83333,81.66667,28.83333",
+    "geom:latitude":28.83333,
+    "geom:longitude":81.66667,
+    "gn:gn_country":"NP",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":236425,
+    "iso:country":"NP",
+    "lbl:latitude":28.83333,
+    "lbl:longitude":81.66667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NP",
+    "qs_pg:gn_country":"NP",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1283497,
+    "qs_pg:gn_pop":236425,
+    "qs_pg:name":"Dailekh",
+    "qs_pg:name_adm0":"Nepal",
+    "qs_pg:name_adm1":"Madhya Pashchimanchal",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":5,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":956330,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424911,
+    "qs_pg:woe_id":23706781,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"quattroshapes_pg",
+    "woe:adm0_id":23424911,
+    "woe:name_adm0":"Nepal",
+    "woe:name_adm1":"Madhya Pashchimanchal",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092050583,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283497,
+        "gp:id":23706781,
+        "qs_pg:id":956330
+    },
+    "wof:country":"NP",
+    "wof:created":1497047043,
+    "wof:geomhash":"d4910fe89a682f07fdd94f595c262f44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "localadmin_id":1125365279,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "localadmin_id":1125365279,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1125365279,
+    "wof:lastmodified":1534379388,
+    "wof:name":"Dailekh",
+    "wof:parent_id":1092050583,
+    "wof:placetype":"localadmin",
+    "wof:population":236425,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[
+        421182849
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.66667,
+    28.83333,
+    81.66667,
+    28.83333
+],
+  "geometry": {"coordinates":[81.66667,28.83333],"type":"Point"}
+}

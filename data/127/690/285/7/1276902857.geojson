@@ -1,0 +1,78 @@
+{
+  "id": 1276902857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.18179,29.2002,81.18179,29.2002",
+    "geom:latitude":29.2002,
+    "geom:longitude":81.18179,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"69.0",
+    "gn:admin4_code":"690045.0",
+    "gn:asciiname":"Matela",
+    "gn:country_code":"NP",
+    "gn:dem":1058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008298,
+    "gn:latitude":29.2002,
+    "gn:longitude":81.18179,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Matela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048527,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008298
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8d94a0a842f7779fd3ef46517617e197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1276902857,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1276902857,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1276902857,
+    "wof:lastmodified":1537009826,
+    "wof:name":"Matela",
+    "wof:parent_id":1092048527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.18179,
+    29.2002,
+    81.18179,
+    29.2002
+],
+  "geometry": {"coordinates":[81.18179000000001,29.2002],"type":"Point"}
+}

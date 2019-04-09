@@ -1,0 +1,78 @@
+{
+  "id": 1259912505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.33236,28.18916,81.33236,28.18916",
+    "geom:latitude":28.18916,
+    "geom:longitude":81.33236,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"58.0",
+    "gn:admin4_code":"580011.0",
+    "gn:asciiname":"Murtihawa",
+    "gn:country_code":"NP",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009624,
+    "gn:latitude":28.18916,
+    "gn:longitude":81.33236,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Murtihawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048097,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009624
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c19739245c332587394da30cb0721694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1259912505,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1259912505,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1259912505,
+    "wof:lastmodified":1536737357,
+    "wof:name":"Murtihawa",
+    "wof:parent_id":1092048097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.33236,
+    28.18916,
+    81.33236,
+    28.18916
+],
+  "geometry": {"coordinates":[81.33235999999999,28.18916],"type":"Point"}
+}

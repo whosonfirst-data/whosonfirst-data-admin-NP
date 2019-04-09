@@ -1,0 +1,64 @@
+{
+  "id": 1209033055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.33248,28.55277,82.33248,28.55277",
+    "geom:latitude":28.55277,
+    "geom:longitude":82.33248,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550012",
+    "gn:asciiname":"Nawara",
+    "gn:country_code":"NP",
+    "gn:dem":1286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7988246,
+    "gn:latitude":28.55277,
+    "gn:longitude":82.33248,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nawara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7988246
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bc05f9b18c824f6fea22b7a10900e534",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209033055
+        }
+    ],
+    "wof:id":1209033055,
+    "wof:lastmodified":1536299788,
+    "wof:name":"Nawara",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.33248,
+    28.55277,
+    82.33248,
+    28.55277
+],
+  "geometry": {"coordinates":[82.33248,28.55277],"type":"Point"}
+}

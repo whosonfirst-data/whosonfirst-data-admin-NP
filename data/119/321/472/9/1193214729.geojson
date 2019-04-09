@@ -1,0 +1,78 @@
+{
+  "id": 1193214729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.41013,28.34921,83.41013,28.34921",
+    "geom:latitude":28.34921,
+    "geom:longitude":83.41013,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450015.0",
+    "gn:asciiname":"Bhukkholagaun",
+    "gn:country_code":"NP",
+    "gn:dem":2397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7952195,
+    "gn:latitude":28.34921,
+    "gn:longitude":83.41013,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhukkholagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7952195
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6b4b0528be79451105686e33ffe5c601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1193214729,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1193214729,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1193214729,
+    "wof:lastmodified":1536381711,
+    "wof:name":"Bhukkholagaun",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.41013000000002,
+    28.34921,
+    83.41013000000002,
+    28.34921
+],
+  "geometry": {"coordinates":[83.41013000000002,28.34921],"type":"Point"}
+}

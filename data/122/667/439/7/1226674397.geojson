@@ -1,0 +1,78 @@
+{
+  "id": 1226674397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.89707,29.79742,81.89707,29.79742",
+    "geom:latitude":29.79742,
+    "geom:longitude":81.89707,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"66.0",
+    "gn:admin4_code":"660001.0",
+    "gn:asciiname":"Sagudi",
+    "gn:country_code":"NP",
+    "gn:dem":1906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7950801,
+    "gn:latitude":29.79742,
+    "gn:longitude":81.89707,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sagudi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050353,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7950801
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d21f871cc6820b7c2fa0b84f09e67148",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1226674397,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1226674397,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1226674397,
+    "wof:lastmodified":1536817521,
+    "wof:name":"Sagudi",
+    "wof:parent_id":1092050353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.89707,
+    29.79742,
+    81.89707,
+    29.79742
+],
+  "geometry": {"coordinates":[81.89707,29.79742],"type":"Point"}
+}

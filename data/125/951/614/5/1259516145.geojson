@@ -1,0 +1,78 @@
+{
+  "id": 1259516145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.54267,29.30455,80.54267,29.30455",
+    "geom:latitude":29.30455,
+    "geom:longitude":80.54267,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"73.0",
+    "gn:admin4_code":"730005.0",
+    "gn:asciiname":"Nyalek",
+    "gn:country_code":"NP",
+    "gn:dem":1469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7935551,
+    "gn:latitude":29.30455,
+    "gn:longitude":80.54267,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nyalek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675567,
+        1092048697,
+        1108807135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7935551
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"788d1f2032b222b7cc096344fb9b2210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048697,
+            "locality_id":1259516145,
+            "region_id":85675567
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048697,
+            "locality_id":1259516145,
+            "region_id":1108807135
+        }
+    ],
+    "wof:id":1259516145,
+    "wof:lastmodified":1536811400,
+    "wof:name":"Nyalek",
+    "wof:parent_id":1092048697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.54267,
+    29.30455,
+    80.54267,
+    29.30455
+],
+  "geometry": {"coordinates":[80.54267,29.30455],"type":"Point"}
+}

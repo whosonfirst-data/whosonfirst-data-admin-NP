@@ -1,0 +1,78 @@
+{
+  "id": 1243301719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.57444,27.70726,85.57444,27.70726",
+    "geom:latitude":27.70726,
+    "geom:longitude":85.57444,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240064.0",
+    "gn:asciiname":"Nayangaun",
+    "gn:country_code":"NP",
+    "gn:dem":1116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7963533,
+    "gn:latitude":27.70726,
+    "gn:longitude":85.57444,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nayangaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7963533
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bbc5c23b2f883f8112d809d04e49af30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1243301719,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1243301719,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1243301719,
+    "wof:lastmodified":1537013426,
+    "wof:name":"Nayangaun",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.57444,
+    27.70726,
+    85.57444,
+    27.70726
+],
+  "geometry": {"coordinates":[85.57444,27.70726],"type":"Point"}
+}

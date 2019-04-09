@@ -1,0 +1,64 @@
+{
+  "id": 1209548507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.08007,29.5515,81.08007,29.5515",
+    "geom:latitude":29.5515,
+    "geom:longitude":81.08007,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680017",
+    "gn:asciiname":"Dhamigaun",
+    "gn:country_code":"NP",
+    "gn:dem":2185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7991384,
+    "gn:latitude":29.5515,
+    "gn:longitude":81.08007,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhamigaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7991384
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a546181725e82b7146711ebdc1d9f07b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209548507
+        }
+    ],
+    "wof:id":1209548507,
+    "wof:lastmodified":1536283768,
+    "wof:name":"Dhamigaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.08006999999998,
+    29.5515,
+    81.08006999999998,
+    29.5515
+],
+  "geometry": {"coordinates":[81.08006999999998,29.5515],"type":"Point"}
+}

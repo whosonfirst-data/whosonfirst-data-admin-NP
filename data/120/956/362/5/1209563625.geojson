@@ -1,0 +1,64 @@
+{
+  "id": 1209563625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.51531,26.88782,85.51531,26.88782",
+    "geom:latitude":26.88782,
+    "geom:longitude":85.51531,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"19",
+    "gn:admin4_code":"190052",
+    "gn:asciiname":"Khariya",
+    "gn:country_code":"NP",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7991934,
+    "gn:latitude":26.88782,
+    "gn:longitude":85.51531,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khariya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7991934
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"167354e2f7a87c0c47ed0160b48ce809",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209563625
+        }
+    ],
+    "wof:id":1209563625,
+    "wof:lastmodified":1536283315,
+    "wof:name":"Khariya",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.51531,
+    26.88782,
+    85.51531,
+    26.88782
+],
+  "geometry": {"coordinates":[85.51531,26.88782],"type":"Point"}
+}

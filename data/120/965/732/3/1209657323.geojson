@@ -1,0 +1,64 @@
+{
+  "id": 1209657323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.43197,26.82643,85.43197,26.82643",
+    "geom:latitude":26.82643,
+    "geom:longitude":85.43197,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"19",
+    "gn:admin4_code":"190015",
+    "gn:asciiname":"Mudiyaritol",
+    "gn:country_code":"NP",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7991593,
+    "gn:latitude":26.82643,
+    "gn:longitude":85.43197,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mudiyaritol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7991593
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"32d7e148f91a41fa6125256ed8244a39",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209657323
+        }
+    ],
+    "wof:id":1209657323,
+    "wof:lastmodified":1536280385,
+    "wof:name":"Mudiyaritol",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.43196999999998,
+    26.82643,
+    85.43196999999998,
+    26.82643
+],
+  "geometry": {"coordinates":[85.43196999999998,26.82643],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226069525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.67261,28.49808,82.67261,28.49808",
+    "geom:latitude":28.49808,
+    "geom:longitude":82.67261,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530047",
+    "gn:asciiname":"Bargil",
+    "gn:country_code":"NP",
+    "gn:dem":2434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7984694,
+    "gn:latitude":28.49808,
+    "gn:longitude":82.67261,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bargil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7984694
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ccdc53cea74425bd5ea2d95e3a5163a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1226069525,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1226069525,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1226069525,
+    "wof:lastmodified":1536691169,
+    "wof:name":"Bargil",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.67260999999998,
+    28.49808,
+    82.67260999999998,
+    28.49808
+],
+  "geometry": {"coordinates":[82.67260999999998,28.49808],"type":"Point"}
+}

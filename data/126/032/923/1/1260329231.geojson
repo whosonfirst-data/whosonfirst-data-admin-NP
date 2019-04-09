@@ -1,0 +1,77 @@
+{
+  "id": 1260329231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.5372,27.99406,84.5372,27.99406",
+    "geom:latitude":27.99406,
+    "geom:longitude":84.5372,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:asciiname":"Mirkot",
+    "gn:country_code":"NP",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8469125,
+    "gn:latitude":27.99406,
+    "gn:longitude":84.5372,
+    "gn:modification_date":"2013-03-03",
+    "gn:name":"Mirkot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8469125,
+        "wk:page":"Mirkot"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f91d34d6674c5edac7325a15a914acc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1260329231,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1260329231,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1260329231,
+    "wof:lastmodified":1537570158,
+    "wof:name":"Mirkot",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.5372,
+    27.99406,
+    84.5372,
+    27.99406
+],
+  "geometry": {"coordinates":[84.5372,27.99406],"type":"Point"}
+}

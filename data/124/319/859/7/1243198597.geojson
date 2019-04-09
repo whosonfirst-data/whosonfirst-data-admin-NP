@@ -1,0 +1,78 @@
+{
+  "id": 1243198597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.44854,29.46026,81.44854,29.46026",
+    "geom:latitude":29.46026,
+    "geom:longitude":81.44854,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"67.0",
+    "gn:admin4_code":"670015.0",
+    "gn:asciiname":"Gurmut",
+    "gn:country_code":"NP",
+    "gn:dem":1353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002349,
+    "gn:latitude":29.46026,
+    "gn:longitude":81.44854,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gurmut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050627,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002349
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"021dd385876022101b6459fcce9f8b95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050627,
+            "locality_id":1243198597,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050627,
+            "locality_id":1243198597,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1243198597,
+    "wof:lastmodified":1536666035,
+    "wof:name":"Gurmut",
+    "wof:parent_id":1092050627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.44854000000002,
+    29.46026,
+    81.44854000000002,
+    29.46026
+],
+  "geometry": {"coordinates":[81.44854000000002,29.46026],"type":"Point"}
+}

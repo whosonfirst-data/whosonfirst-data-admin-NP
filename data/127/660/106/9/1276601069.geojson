@@ -1,0 +1,78 @@
+{
+  "id": 1276601069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.59687,27.46863,87.59687,27.46863",
+    "geom:latitude":27.46863,
+    "geom:longitude":87.59687,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10023.0",
+    "gn:asciiname":"Soring",
+    "gn:country_code":"NP",
+    "gn:dem":1863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005362,
+    "gn:latitude":27.46863,
+    "gn:longitude":87.59687,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Soring",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005362
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4c7eddeb68e27fc4003408ded6c2e2f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1276601069,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1276601069,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1276601069,
+    "wof:lastmodified":1536918055,
+    "wof:name":"Soring",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.59687,
+    27.46863,
+    87.59687,
+    27.46863
+],
+  "geometry": {"coordinates":[87.59687,27.46863],"type":"Point"}
+}

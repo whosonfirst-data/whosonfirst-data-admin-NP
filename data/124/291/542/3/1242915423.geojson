@@ -1,0 +1,78 @@
+{
+  "id": 1242915423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.71251,26.9699,85.71251,26.9699",
+    "geom:latitude":26.9699,
+    "geom:longitude":85.71251,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"19",
+    "gn:admin4_code":"190035.0",
+    "gn:asciiname":"Shrinagar",
+    "gn:country_code":"NP",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7991742,
+    "gn:latitude":26.9699,
+    "gn:longitude":85.71251,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Shrinagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092049639,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7991742
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f85f5a996b123615099b55a7fd697a72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049639,
+            "locality_id":1242915423,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049639,
+            "locality_id":1242915423,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1242915423,
+    "wof:lastmodified":1537071091,
+    "wof:name":"Shrinagar",
+    "wof:parent_id":1092049639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.71251,
+    26.9699,
+    85.71251,
+    26.9699
+],
+  "geometry": {"coordinates":[85.71250999999999,26.9699],"type":"Point"}
+}

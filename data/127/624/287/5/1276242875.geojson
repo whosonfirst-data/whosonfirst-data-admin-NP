@@ -1,0 +1,81 @@
+{
+  "id": 1276242875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.69675,26.45408,87.69675,26.45408",
+    "geom:latitude":26.45408,
+    "geom:longitude":87.69675,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Athmauja",
+    "gn:country_code":"NP",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283721,
+    "gn:latitude":26.45408,
+    "gn:longitude":87.69675,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"\u0100thmauj\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "\u0100thmauj\u0101"
+    ],
+    "name:und_x_variant":[
+        "\u0100thmauza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283721
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"db21937b3fea7ee8212bfb1a1c937c8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1276242875,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1276242875,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1276242875,
+    "wof:lastmodified":1537676064,
+    "wof:name":"Athmauja",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.69675,
+    26.45408,
+    87.69675,
+    26.45408
+],
+  "geometry": {"coordinates":[87.69674999999999,26.45408],"type":"Point"}
+}

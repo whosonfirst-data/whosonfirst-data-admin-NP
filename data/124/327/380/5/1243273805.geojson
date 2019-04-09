@@ -1,0 +1,75 @@
+{
+  "id": 1243273805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.91394,27.64717,85.91394,27.64717",
+    "geom:latitude":27.64717,
+    "geom:longitude":85.91394,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tandi",
+    "gn:country_code":"NP",
+    "gn:dem":1803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282720,
+    "gn:latitude":27.64717,
+    "gn:longitude":85.91394,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"T\u0101ndi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675579,
+        1092050535,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282720
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cacdca8fe050e870a3f165437ecfb72b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1243273805,
+            "region_id":85675579
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1243273805,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1243273805,
+    "wof:lastmodified":1537052103,
+    "wof:name":"Tandi",
+    "wof:parent_id":1092050535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.91394,
+    27.64717000000001,
+    85.91394,
+    27.64717000000001
+],
+  "geometry": {"coordinates":[85.91394,27.64717000000001],"type":"Point"}
+}

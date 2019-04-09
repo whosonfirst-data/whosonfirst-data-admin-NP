@@ -1,0 +1,64 @@
+{
+  "id": 1209048315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.97334,27.50755,82.97334,27.50755",
+    "geom:latitude":27.50755,
+    "geom:longitude":82.97334,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"50.0",
+    "gn:admin4_code":"500070.0",
+    "gn:asciiname":"Madhyanagar",
+    "gn:country_code":"NP",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7960100,
+    "gn:latitude":27.50755,
+    "gn:longitude":82.97334,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Madhyanagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7960100
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c3130a8468b8157466e9e6d1c5623eae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209048315
+        }
+    ],
+    "wof:id":1209048315,
+    "wof:lastmodified":1536299326,
+    "wof:name":"Madhyanagar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.97334000000002,
+    27.50755,
+    82.97334000000002,
+    27.50755
+],
+  "geometry": {"coordinates":[82.97334000000002,27.50755],"type":"Point"}
+}

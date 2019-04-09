@@ -1,0 +1,78 @@
+{
+  "id": 1343603013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.32041,28.13016,83.32041,28.13016",
+    "geom:latitude":28.13016,
+    "geom:longitude":83.32041,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"46.0",
+    "gn:admin4_code":"460004.0",
+    "gn:asciiname":"Ghumigaun",
+    "gn:country_code":"NP",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7949736,
+    "gn:latitude":28.13016,
+    "gn:longitude":83.32041,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ghumigaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050755,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7949736
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"99e3f111464a58609e39023271fea2cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1343603013,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1343603013,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1343603013,
+    "wof:lastmodified":1537036329,
+    "wof:name":"Ghumigaun",
+    "wof:parent_id":1092050755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.32041,
+    28.13016,
+    83.32041,
+    28.13016
+],
+  "geometry": {"coordinates":[83.32041,28.13016],"type":"Point"}
+}

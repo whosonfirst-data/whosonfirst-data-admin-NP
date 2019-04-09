@@ -1,0 +1,78 @@
+{
+  "id": 1276267553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.57353,26.76678,86.57353,26.76678",
+    "geom:latitude":26.76678,
+    "geom:longitude":86.57353,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140043.0",
+    "gn:asciiname":"Geruwaidandabari",
+    "gn:country_code":"NP",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007924,
+    "gn:latitude":26.76678,
+    "gn:longitude":86.57353,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Geruwaidandabari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050179,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007924
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8fca42d519559ba418b5fd17e01903a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1276267553,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1276267553,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1276267553,
+    "wof:lastmodified":1536865423,
+    "wof:name":"Geruwaidandabari",
+    "wof:parent_id":1092050179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.57353,
+    26.76678,
+    86.57353,
+    26.76678
+],
+  "geometry": {"coordinates":[86.57353000000001,26.76678],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209156137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.61717,28.33117,83.61717,28.33117",
+    "geom:latitude":28.33117,
+    "geom:longitude":83.61717,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"44",
+    "gn:admin4_code":"440045",
+    "gn:asciiname":"Salyang",
+    "gn:country_code":"NP",
+    "gn:dem":1414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7978971,
+    "gn:latitude":28.33117,
+    "gn:longitude":83.61717,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Salyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7978971
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b04f9accdc3371addddf73ab12047ed1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209156137
+        }
+    ],
+    "wof:id":1209156137,
+    "wof:lastmodified":1536296048,
+    "wof:name":"Salyang",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.61717,
+    28.33117,
+    83.61717,
+    28.33117
+],
+  "geometry": {"coordinates":[83.61717,28.33117],"type":"Point"}
+}

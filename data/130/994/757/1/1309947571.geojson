@@ -1,0 +1,78 @@
+{
+  "id": 1309947571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.16677,28.26824,83.16677,28.26824",
+    "geom:latitude":28.26824,
+    "geom:longitude":83.16677,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450028.0",
+    "gn:asciiname":"Upallo Chaur",
+    "gn:country_code":"NP",
+    "gn:dem":1699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956680,
+    "gn:latitude":28.26824,
+    "gn:longitude":83.16677,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Upallo Chaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956680
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2f10603da422e0867c707f4c0fa4fd02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1309947571,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1309947571,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1309947571,
+    "wof:lastmodified":1536727195,
+    "wof:name":"Upallo Chaur",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.16677,
+    28.26824,
+    83.16677,
+    28.26824
+],
+  "geometry": {"coordinates":[83.16677,28.26824],"type":"Point"}
+}

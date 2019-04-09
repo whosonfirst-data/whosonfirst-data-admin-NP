@@ -1,0 +1,78 @@
+{
+  "id": 1343709979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.94857,27.87975,84.94857,27.87975",
+    "geom:latitude":27.87975,
+    "geom:longitude":84.94857,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300023.0",
+    "gn:asciiname":"pimalkholagaun",
+    "gn:country_code":"NP",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7941802,
+    "gn:latitude":27.87975,
+    "gn:longitude":84.94857,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"pimalkholagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7941802
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e40104538cf5e4c4ab73cecf58b01c03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1343709979,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1343709979,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1343709979,
+    "wof:lastmodified":1536883168,
+    "wof:name":"pimalkholagaun",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.94856999999998,
+    27.87975,
+    84.94856999999998,
+    27.87975
+],
+  "geometry": {"coordinates":[84.94856999999998,27.87975],"type":"Point"}
+}

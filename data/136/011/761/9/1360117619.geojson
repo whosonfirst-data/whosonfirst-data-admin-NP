@@ -1,0 +1,78 @@
+{
+  "id": 1360117619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.46102,28.81907,81.46102,28.81907",
+    "geom:latitude":28.81907,
+    "geom:longitude":81.46102,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590047.0",
+    "gn:asciiname":"Jhallara",
+    "gn:country_code":"NP",
+    "gn:dem":1381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8000346,
+    "gn:latitude":28.81907,
+    "gn:longitude":81.46102,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jhallara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8000346
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4bdef50937946f35053a46f9e2d08100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1360117619,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1360117619,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1360117619,
+    "wof:lastmodified":1536898735,
+    "wof:name":"Jhallara",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.46101999999998,
+    28.81907,
+    81.46101999999998,
+    28.81907
+],
+  "geometry": {"coordinates":[81.46101999999998,28.81907],"type":"Point"}
+}

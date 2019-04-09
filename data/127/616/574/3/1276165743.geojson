@@ -1,0 +1,78 @@
+{
+  "id": 1276165743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.82632,27.82285,84.82632,27.82285",
+    "geom:latitude":27.82285,
+    "geom:longitude":84.82632,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300039.0",
+    "gn:asciiname":"Adamara",
+    "gn:country_code":"NP",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7942342,
+    "gn:latitude":27.82285,
+    "gn:longitude":84.82632,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Adamara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7942342
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"805c2c41cabc935060acf713a762af44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1276165743,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1276165743,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1276165743,
+    "wof:lastmodified":1537002599,
+    "wof:name":"Adamara",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.82632,
+    27.82285,
+    84.82632,
+    27.82285
+],
+  "geometry": {"coordinates":[84.82632,27.82285],"type":"Point"}
+}

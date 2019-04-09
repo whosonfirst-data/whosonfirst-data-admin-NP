@@ -1,0 +1,78 @@
+{
+  "id": 1225982391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.59427,26.90713,87.59427,26.90713",
+    "geom:latitude":26.90713,
+    "geom:longitude":87.59427,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"2",
+    "gn:admin4_code":"20015",
+    "gn:asciiname":"Bhadaure",
+    "gn:country_code":"NP",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7977454,
+    "gn:latitude":26.90713,
+    "gn:longitude":87.59427,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhadaure",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7977454
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"632f3a5f1d6981f24e332ef894c51e16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1225982391,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1225982391,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1225982391,
+    "wof:lastmodified":1536815605,
+    "wof:name":"Bhadaure",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.59427,
+    26.90713,
+    87.59427,
+    26.90713
+],
+  "geometry": {"coordinates":[87.59426999999999,26.90713],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276600719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.9531,27.7901,83.9531,27.7901",
+    "geom:latitude":27.7901,
+    "geom:longitude":83.9531,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"47",
+    "gn:admin4_code":"470032",
+    "gn:asciiname":"Thumsardanda",
+    "gn:country_code":"NP",
+    "gn:dem":1087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7976422,
+    "gn:latitude":27.7901,
+    "gn:longitude":83.9531,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thumsardanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050889,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7976422
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"25cac3f1ab63546dd0a31a5098308a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1276600719,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1276600719,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1276600719,
+    "wof:lastmodified":1536918500,
+    "wof:name":"Thumsardanda",
+    "wof:parent_id":1092050889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.9531,
+    27.7901,
+    83.9531,
+    27.7901
+],
+  "geometry": {"coordinates":[83.95310000000001,27.7901],"type":"Point"}
+}

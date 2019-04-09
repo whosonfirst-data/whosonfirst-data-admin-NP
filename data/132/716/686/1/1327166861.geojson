@@ -1,0 +1,78 @@
+{
+  "id": 1327166861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.61183,28.78715,81.61183,28.78715",
+    "geom:latitude":28.78715,
+    "geom:longitude":81.61183,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"60.0",
+    "gn:admin4_code":"600033.0",
+    "gn:asciiname":"Dumla",
+    "gn:country_code":"NP",
+    "gn:dem":870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7937501,
+    "gn:latitude":28.78715,
+    "gn:longitude":81.61183,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dumla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092050583,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7937501
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1187199c3cee838f02f90d33a88c9e10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1327166861,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1327166861,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1327166861,
+    "wof:lastmodified":1537061545,
+    "wof:name":"Dumla",
+    "wof:parent_id":1092050583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.61183,
+    28.78715,
+    81.61183,
+    28.78715
+],
+  "geometry": {"coordinates":[81.61183,28.78715],"type":"Point"}
+}

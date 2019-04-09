@@ -1,0 +1,79 @@
+{
+  "id": 1360202567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.3924,27.55467,86.3924,27.55467",
+    "geom:latitude":27.55467,
+    "geom:longitude":86.3924,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Namkheti",
+    "gn:country_code":"NP",
+    "gn:dem":2320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10322644,
+    "gn:latitude":27.55467,
+    "gn:longitude":86.3924,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"N\u0101mkheti\u0307\u0304",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u0101mkheti\u0307\u0304",
+        "N\u0101mkhet\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049841,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10322644
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ad81174a23985e3fc387fe72c2403bfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1360202567,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1360202567,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1360202567,
+    "wof:lastmodified":1537676092,
+    "wof:name":"Namkheti",
+    "wof:parent_id":1092049841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.3924,
+    27.55467,
+    86.3924,
+    27.55467
+],
+  "geometry": {"coordinates":[86.39239999999999,27.55467],"type":"Point"}
+}

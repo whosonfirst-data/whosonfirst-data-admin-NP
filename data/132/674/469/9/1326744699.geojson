@@ -1,0 +1,81 @@
+{
+  "id": 1326744699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.03697,27.55949,84.03697,27.55949",
+    "geom:latitude":27.55949,
+    "geom:longitude":84.03697,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nandapur",
+    "gn:country_code":"NP",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283006,
+    "gn:latitude":27.55949,
+    "gn:longitude":84.03697,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Nandapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Nandapur"
+    ],
+    "name:und_x_variant":[
+        "Nandpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050413,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283006
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f82d7e247611d45143a57b4555f2d808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050413,
+            "locality_id":1326744699,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050413,
+            "locality_id":1326744699,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1326744699,
+    "wof:lastmodified":1537676047,
+    "wof:name":"Nandapur",
+    "wof:parent_id":1092050413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.03697,
+    27.55949,
+    84.03697,
+    27.55949
+],
+  "geometry": {"coordinates":[84.03697,27.55949],"type":"Point"}
+}

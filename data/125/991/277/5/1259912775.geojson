@@ -1,0 +1,78 @@
+{
+  "id": 1259912775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.45797,28.59448,82.45797,28.59448",
+    "geom:latitude":28.59448,
+    "geom:longitude":82.45797,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"54",
+    "gn:admin4_code":"540005",
+    "gn:asciiname":"Lahu",
+    "gn:country_code":"NP",
+    "gn:dem":1596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7985136,
+    "gn:latitude":28.59448,
+    "gn:longitude":82.45797,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lahu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049495,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7985136
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ac91edb205fa3268a135d54eca0b0e7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1259912775,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1259912775,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1259912775,
+    "wof:lastmodified":1536737007,
+    "wof:name":"Lahu",
+    "wof:parent_id":1092049495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.45796999999997,
+    28.59448,
+    82.45796999999997,
+    28.59448
+],
+  "geometry": {"coordinates":[82.45796999999997,28.59448],"type":"Point"}
+}

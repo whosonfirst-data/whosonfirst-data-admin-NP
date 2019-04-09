@@ -1,0 +1,64 @@
+{
+  "id": 1209044343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.54748,27.11384,87.54748,27.11384",
+    "geom:latitude":27.11384,
+    "geom:longitude":87.54748,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"8.0",
+    "gn:admin4_code":"80015.0",
+    "gn:asciiname":"Thalagaun",
+    "gn:country_code":"NP",
+    "gn:dem":1647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8006094,
+    "gn:latitude":27.11384,
+    "gn:longitude":87.54748,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thalagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8006094
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1c0fad30b9b7bdf42a3ad6e42b5132e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209044343
+        }
+    ],
+    "wof:id":1209044343,
+    "wof:lastmodified":1536299445,
+    "wof:name":"Thalagaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.54748000000002,
+    27.113840000000003,
+    87.54748000000002,
+    27.113840000000003
+],
+  "geometry": {"coordinates":[87.54748000000002,27.11384],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1242816285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.38816,26.98738,86.38816,26.98738",
+    "geom:latitude":26.98738,
+    "geom:longitude":86.38816,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140017.0",
+    "gn:asciiname":"Gothdanda",
+    "gn:country_code":"NP",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8006876,
+    "gn:latitude":26.98738,
+    "gn:longitude":86.38816,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gothdanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050179,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8006876
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0f09d6daa4577b9f36cfb3f357d55565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1242816285,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1242816285,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1242816285,
+    "wof:lastmodified":1536720213,
+    "wof:name":"Gothdanda",
+    "wof:parent_id":1092050179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.38816,
+    26.98738,
+    86.38816,
+    26.98738
+],
+  "geometry": {"coordinates":[86.38816,26.98738],"type":"Point"}
+}

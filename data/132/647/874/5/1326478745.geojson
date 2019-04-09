@@ -1,0 +1,78 @@
+{
+  "id": 1326478745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.90385,27.23197,85.90385,27.23197",
+    "geom:latitude":27.23197,
+    "geom:longitude":85.90385,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200025",
+    "gn:asciiname":"Asumatital",
+    "gn:country_code":"NP",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7993219,
+    "gn:latitude":27.23197,
+    "gn:longitude":85.90385,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Asumatital",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049679,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7993219
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d063f6759fdb0debb44b1dba3df7de3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1326478745,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1326478745,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1326478745,
+    "wof:lastmodified":1537058654,
+    "wof:name":"Asumatital",
+    "wof:parent_id":1092049679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.90385,
+    27.23197,
+    85.90385,
+    27.23197
+],
+  "geometry": {"coordinates":[85.90385000000001,27.23197],"type":"Point"}
+}

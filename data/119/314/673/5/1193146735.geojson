@@ -1,0 +1,86 @@
+{
+  "id": 1193146735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.5368,27.1268,87.5368,27.1268",
+    "geom:latitude":27.1268,
+    "geom:longitude":87.5368,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tehrathum",
+    "gn:country_code":"NP",
+    "gn:dem":1520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282699,
+    "gn:latitude":27.1268,
+    "gn:longitude":87.5368,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Tehrathum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "My\u0101\u1e45lu\u1e45 Baj\u0101r"
+    ],
+    "name:nep_x_variant":[
+        "Terahathum"
+    ],
+    "name:und_x_variant":[
+        "Terhthum",
+        "Terhathum",
+        "Tehrathum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050137,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282699
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4ccb28f78cad71f1f9aa846c57728bf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050137,
+            "locality_id":1193146735,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050137,
+            "locality_id":1193146735,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1193146735,
+    "wof:lastmodified":1537676039,
+    "wof:name":"Tehrathum",
+    "wof:parent_id":1092050137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.5368,
+    27.1268,
+    87.5368,
+    27.1268
+],
+  "geometry": {"coordinates":[87.5368,27.1268],"type":"Point"}
+}

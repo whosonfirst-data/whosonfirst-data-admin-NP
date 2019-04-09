@@ -1,0 +1,78 @@
+{
+  "id": 1226483951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.59707,28.44578,83.59707,28.44578",
+    "geom:latitude":28.44578,
+    "geom:longitude":83.59707,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"43",
+    "gn:admin4_code":"430004",
+    "gn:asciiname":"Baduk",
+    "gn:country_code":"NP",
+    "gn:dem":1768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7972002,
+    "gn:latitude":28.44578,
+    "gn:longitude":83.59707,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Baduk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675553,
+        1092049089,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7972002
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cf02aace6ceb0a2680f8ad97ff1f4e1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049089,
+            "locality_id":1226483951,
+            "region_id":85675553
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049089,
+            "locality_id":1226483951,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1226483951,
+    "wof:lastmodified":1537083861,
+    "wof:name":"Baduk",
+    "wof:parent_id":1092049089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.59707,
+    28.44578,
+    83.59707,
+    28.44578
+],
+  "geometry": {"coordinates":[83.59707,28.44578],"type":"Point"}
+}

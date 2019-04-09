@@ -1,0 +1,78 @@
+{
+  "id": 1327166809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.9748,28.57727,81.9748,28.57727",
+    "geom:latitude":28.57727,
+    "geom:longitude":81.9748,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590004.0",
+    "gn:asciiname":"Nidaugaun",
+    "gn:country_code":"NP",
+    "gn:dem":1026,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7998520,
+    "gn:latitude":28.57727,
+    "gn:longitude":81.9748,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nidaugaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7998520
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"be062606b2d59cdeef8e9da867c68ae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1327166809,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1327166809,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1327166809,
+    "wof:lastmodified":1537061608,
+    "wof:name":"Nidaugaun",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.9748,
+    28.57727,
+    81.9748,
+    28.57727
+],
+  "geometry": {"coordinates":[81.9748,28.57727],"type":"Point"}
+}

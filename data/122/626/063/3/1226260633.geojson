@@ -1,0 +1,78 @@
+{
+  "id": 1226260633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.07793,27.67806,86.07793,27.67806",
+    "geom:latitude":27.67806,
+    "geom:longitude":86.07793,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dolakha",
+    "gn:country_code":"NP",
+    "gn:dem":1667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283430,
+    "gn:latitude":27.67806,
+    "gn:longitude":86.07793,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Dolakh\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Dolakh\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675579,
+        1092050535,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283430
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e416ae880321ef6d03e755d004867cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1226260633,
+            "region_id":85675579
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1226260633,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1226260633,
+    "wof:lastmodified":1537676056,
+    "wof:name":"Dolakha",
+    "wof:parent_id":1092050535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.07793000000002,
+    27.67806,
+    86.07793000000002,
+    27.67806
+],
+  "geometry": {"coordinates":[86.07793000000002,27.67806],"type":"Point"}
+}

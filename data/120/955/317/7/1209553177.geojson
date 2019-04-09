@@ -1,0 +1,64 @@
+{
+  "id": 1209553177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.25159,26.8884,87.25159,26.8884",
+    "geom:latitude":26.8884,
+    "geom:longitude":87.25159,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"7.0",
+    "gn:admin4_code":"70001.0",
+    "gn:asciiname":"Arubaritol",
+    "gn:country_code":"NP",
+    "gn:dem":821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7942590,
+    "gn:latitude":26.8884,
+    "gn:longitude":87.25159,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Arubaritol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7942590
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"50bb6497f323825e89355800123f3ee9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209553177
+        }
+    ],
+    "wof:id":1209553177,
+    "wof:lastmodified":1536283630,
+    "wof:name":"Arubaritol",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.25159000000002,
+    26.8884,
+    87.25159000000002,
+    26.8884
+],
+  "geometry": {"coordinates":[87.25159000000002,26.8884],"type":"Point"}
+}

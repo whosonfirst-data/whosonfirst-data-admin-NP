@@ -1,0 +1,79 @@
+{
+  "id": 1242915403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.00154,26.70135,88.00154,26.70135",
+    "geom:latitude":26.70135,
+    "geom:longitude":88.00154,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40002.0",
+    "gn:asciiname":"Hattikilla",
+    "gn:country_code":"NP",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7953900,
+    "gn:latitude":26.70135,
+    "gn:longitude":88.00154,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Hattikilla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7953900,
+        "wk:page":"Hattikilla"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6808572bb1e6cb43f28ad936c8c80e1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1242915403,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1242915403,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1242915403,
+    "wof:lastmodified":1537570149,
+    "wof:name":"Hattikilla",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.00154,
+    26.70135,
+    88.00154,
+    26.70135
+],
+  "geometry": {"coordinates":[88.00154000000001,26.70135],"type":"Point"}
+}

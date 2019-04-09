@@ -1,0 +1,78 @@
+{
+  "id": 1277118601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.95194,26.9486,85.95194,26.9486",
+    "geom:latitude":26.9486,
+    "geom:longitude":85.95194,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"17.0",
+    "gn:admin4_code":"170030.0",
+    "gn:asciiname":"Sabedanda",
+    "gn:country_code":"NP",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7943689,
+    "gn:latitude":26.9486,
+    "gn:longitude":85.95194,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sabedanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092048127,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7943689
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2bb617b924567b7d1b3321472b01896f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048127,
+            "locality_id":1277118601,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048127,
+            "locality_id":1277118601,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1277118601,
+    "wof:lastmodified":1536716294,
+    "wof:name":"Sabedanda",
+    "wof:parent_id":1092048127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.95194000000002,
+    26.9486,
+    85.95194000000002,
+    26.9486
+],
+  "geometry": {"coordinates":[85.95194000000002,26.9486],"type":"Point"}
+}

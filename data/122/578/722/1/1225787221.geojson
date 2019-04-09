@@ -1,0 +1,79 @@
+{
+  "id": 1225787221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.39477,27.6933,85.39477,27.6933",
+    "geom:latitude":27.6933,
+    "geom:longitude":85.39477,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1.0",
+    "gn:admin3_code":"26.0",
+    "gn:admin4_code":"260012.0",
+    "gn:asciiname":"Bode",
+    "gn:country_code":"NP",
+    "gn:dem":1353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8010242,
+    "gn:latitude":27.6933,
+    "gn:longitude":85.39477,
+    "gn:modification_date":"2014-04-05",
+    "gn:name":"Bode",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048853,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8010242,
+        "wk:page":"Bode%2C_Nepal"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b2a08e860098a27c54cc43a83ff5718b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048853,
+            "locality_id":1225787221,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048853,
+            "locality_id":1225787221,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1225787221,
+    "wof:lastmodified":1537570158,
+    "wof:name":"Bode",
+    "wof:parent_id":1092048853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.39477,
+    27.6933,
+    85.39477,
+    27.6933
+],
+  "geometry": {"coordinates":[85.39476999999999,27.6933],"type":"Point"}
+}

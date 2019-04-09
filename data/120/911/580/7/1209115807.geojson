@@ -1,0 +1,67 @@
+{
+  "id": 1209115807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.87221,27.81076,85.87221,27.81076",
+    "geom:latitude":27.81076,
+    "geom:longitude":85.87221,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Maneswara",
+    "gn:country_code":"NP",
+    "gn:dem":1325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10322039,
+    "gn:latitude":27.81076,
+    "gn:longitude":85.87221,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"M\u0101nesw\u0101\u0303r\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "M\u0101nesw\u0101nr\u0101"
+    ],
+    "name:nep_x_variant":[
+        "M\u0101nesw\u0101\u0303r\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10322039
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7739b83d620d10a59748e3aea0c5c84f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209115807
+        }
+    ],
+    "wof:id":1209115807,
+    "wof:lastmodified":1537676088,
+    "wof:name":"Maneswara",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.87221,
+    27.81076,
+    85.87221,
+    27.81076
+],
+  "geometry": {"coordinates":[85.87221,27.81076],"type":"Point"}
+}

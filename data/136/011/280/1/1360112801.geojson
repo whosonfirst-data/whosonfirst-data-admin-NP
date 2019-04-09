@@ -1,0 +1,78 @@
+{
+  "id": 1360112801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.97661,29.48468,80.97661,29.48468",
+    "geom:latitude":29.48468,
+    "geom:longitude":80.97661,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680002",
+    "gn:asciiname":"Dhami Lek",
+    "gn:country_code":"NP",
+    "gn:dem":1507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7986946,
+    "gn:latitude":29.48468,
+    "gn:longitude":80.97661,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhami Lek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048571,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7986946
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"91e1aaba4f600156d118a37ffa12abc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1360112801,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1360112801,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1360112801,
+    "wof:lastmodified":1536905928,
+    "wof:name":"Dhami Lek",
+    "wof:parent_id":1092048571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.97661,
+    29.48468,
+    80.97661,
+    29.48468
+],
+  "geometry": {"coordinates":[80.97660999999999,29.48468],"type":"Point"}
+}

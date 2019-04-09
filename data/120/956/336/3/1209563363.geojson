@@ -1,0 +1,64 @@
+{
+  "id": 1209563363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.13467,27.34653,87.13467,27.34653",
+    "geom:latitude":27.34653,
+    "geom:longitude":87.13467,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100060.0",
+    "gn:asciiname":"Dandakanle",
+    "gn:country_code":"NP",
+    "gn:dem":966,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933969,
+    "gn:latitude":27.34653,
+    "gn:longitude":87.13467,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dandakanle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933969
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7dd7865ca854a78d31a3c8850a7ca06f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209563363
+        }
+    ],
+    "wof:id":1209563363,
+    "wof:lastmodified":1536283319,
+    "wof:name":"Dandakanle",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.13467,
+    27.34653,
+    87.13467,
+    27.34653
+],
+  "geometry": {"coordinates":[87.13467,27.34653],"type":"Point"}
+}

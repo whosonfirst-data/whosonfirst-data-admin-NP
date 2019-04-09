@@ -1,0 +1,78 @@
+{
+  "id": 1276482585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.76294,28.06807,83.76294,28.06807",
+    "geom:latitude":28.06807,
+    "geom:longitude":83.76294,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390002.0",
+    "gn:asciiname":"Khirmire",
+    "gn:country_code":"NP",
+    "gn:dem":1294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8000622,
+    "gn:latitude":28.06807,
+    "gn:longitude":83.76294,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khirmire",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8000622
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a45a7daf9e733b4079fc0ed5e3820f7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1276482585,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1276482585,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1276482585,
+    "wof:lastmodified":1537072775,
+    "wof:name":"Khirmire",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.76294,
+    28.06807,
+    83.76294,
+    28.06807
+],
+  "geometry": {"coordinates":[83.76294,28.06807],"type":"Point"}
+}

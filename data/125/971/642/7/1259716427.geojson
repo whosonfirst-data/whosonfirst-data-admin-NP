@@ -1,0 +1,78 @@
+{
+  "id": 1259716427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.21949,28.4561,82.21949,28.4561",
+    "geom:latitude":28.4561,
+    "geom:longitude":82.21949,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550042",
+    "gn:asciiname":"Baragaun",
+    "gn:country_code":"NP",
+    "gn:dem":1287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7989603,
+    "gn:latitude":28.4561,
+    "gn:longitude":82.21949,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Baragaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049579,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7989603
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d5de816edcac43491dfa704c3da335bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1259716427,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1259716427,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1259716427,
+    "wof:lastmodified":1537018851,
+    "wof:name":"Baragaun",
+    "wof:parent_id":1092049579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.21949000000002,
+    28.4561,
+    82.21949000000002,
+    28.4561
+],
+  "geometry": {"coordinates":[82.21949000000002,28.4561],"type":"Point"}
+}

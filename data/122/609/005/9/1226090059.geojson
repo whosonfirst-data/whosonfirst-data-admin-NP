@@ -1,0 +1,78 @@
+{
+  "id": 1226090059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.80224,27.19361,86.80224,27.19361",
+    "geom:latitude":27.19361,
+    "geom:longitude":86.80224,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"13",
+    "gn:admin4_code":"130044",
+    "gn:asciiname":"Jaisitol",
+    "gn:country_code":"NP",
+    "gn:dem":1585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7964756,
+    "gn:latitude":27.19361,
+    "gn:longitude":86.80224,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jaisitol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050841,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7964756
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fa2e3110f69ec6b3db8654b09dab4f93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1226090059,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1226090059,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1226090059,
+    "wof:lastmodified":1536661302,
+    "wof:name":"Jaisitol",
+    "wof:parent_id":1092050841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.80224,
+    27.19361,
+    86.80224,
+    27.19361
+],
+  "geometry": {"coordinates":[86.80224,27.19361],"type":"Point"}
+}

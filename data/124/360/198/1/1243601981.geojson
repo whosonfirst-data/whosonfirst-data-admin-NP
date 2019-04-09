@@ -1,0 +1,78 @@
+{
+  "id": 1243601981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.44735,28.11637,83.44735,28.11637",
+    "geom:latitude":28.11637,
+    "geom:longitude":83.44735,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"46.0",
+    "gn:admin4_code":"460041.0",
+    "gn:asciiname":"Hungdigaun",
+    "gn:country_code":"NP",
+    "gn:dem":1698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7950268,
+    "gn:latitude":28.11637,
+    "gn:longitude":83.44735,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Hungdigaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050755,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7950268
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ed80bb82992806da2087f28bc4d9d04c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1243601981,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1243601981,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1243601981,
+    "wof:lastmodified":1537075271,
+    "wof:name":"Hungdigaun",
+    "wof:parent_id":1092050755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.44735,
+    28.11637,
+    83.44735,
+    28.11637
+],
+  "geometry": {"coordinates":[83.44735,28.11637],"type":"Point"}
+}

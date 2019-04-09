@@ -1,0 +1,75 @@
+{
+  "id": 1326644305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.10259,27.45742,86.10259,27.45742",
+    "geom:latitude":27.45742,
+    "geom:longitude":86.10259,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bundal",
+    "gn:country_code":"NP",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10328845,
+    "gn:latitude":27.45742,
+    "gn:longitude":86.10259,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Bu\u1e45dal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049711,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10328845
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"65bc1e64e4551d91f4602db8f2283050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1326644305,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1326644305,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1326644305,
+    "wof:lastmodified":1536821492,
+    "wof:name":"Bundal",
+    "wof:parent_id":1092049711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.10259,
+    27.45742000000001,
+    86.10259,
+    27.45742000000001
+],
+  "geometry": {"coordinates":[86.10259000000001,27.45742000000001],"type":"Point"}
+}

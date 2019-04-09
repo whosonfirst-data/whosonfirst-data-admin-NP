@@ -1,0 +1,78 @@
+{
+  "id": 1360226497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.88616,26.78273,87.88616,26.78273",
+    "geom:latitude":26.78273,
+    "geom:longitude":87.88616,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30007.0",
+    "gn:asciiname":"Musekholagaun",
+    "gn:country_code":"NP",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7951629,
+    "gn:latitude":26.78273,
+    "gn:longitude":87.88616,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Musekholagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7951629
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"52895919a1cff2fbc9819e65c38a191a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1360226497,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1360226497,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1360226497,
+    "wof:lastmodified":1536741438,
+    "wof:name":"Musekholagaun",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.88616,
+    26.78273,
+    87.88616,
+    26.78273
+],
+  "geometry": {"coordinates":[87.88616,26.78273],"type":"Point"}
+}

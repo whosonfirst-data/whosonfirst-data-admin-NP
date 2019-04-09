@@ -1,0 +1,78 @@
+{
+  "id": 1276255403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.3797,28.63457,80.3797,28.63457",
+    "geom:latitude":28.63457,
+    "geom:longitude":80.3797,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"72.0",
+    "gn:admin4_code":"720010.0",
+    "gn:asciiname":"Khairani",
+    "gn:country_code":"NP",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7958778,
+    "gn:latitude":28.63457,
+    "gn:longitude":80.3797,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khairani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048227,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7958778
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c06c18aef88e0f3c827d5cf798d9ae22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1276255403,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1276255403,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1276255403,
+    "wof:lastmodified":1536882517,
+    "wof:name":"Khairani",
+    "wof:parent_id":1092048227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.3797,
+    28.63457,
+    80.3797,
+    28.63457
+],
+  "geometry": {"coordinates":[80.3797,28.63457],"type":"Point"}
+}

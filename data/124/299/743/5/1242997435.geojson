@@ -1,0 +1,78 @@
+{
+  "id": 1242997435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.82812,28.50661,81.82812,28.50661",
+    "geom:latitude":28.50661,
+    "geom:longitude":81.82812,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590033.0",
+    "gn:asciiname":"Ryauke",
+    "gn:country_code":"NP",
+    "gn:dem":828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7999765,
+    "gn:latitude":28.50661,
+    "gn:longitude":81.82812,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ryauke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7999765
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6abab8ce0c48d51119b9167b36950ce3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1242997435,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1242997435,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1242997435,
+    "wof:lastmodified":1536956060,
+    "wof:name":"Ryauke",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.82812,
+    28.50661,
+    81.82812,
+    28.50661
+],
+  "geometry": {"coordinates":[81.82812,28.50661],"type":"Point"}
+}

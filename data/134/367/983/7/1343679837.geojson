@@ -1,0 +1,79 @@
+{
+  "id": 1343679837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.51727,28.52916,82.51727,28.52916",
+    "geom:latitude":28.52916,
+    "geom:longitude":82.51727,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Subakone",
+    "gn:country_code":"NP",
+    "gn:dem":2147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282753,
+    "gn:latitude":28.52916,
+    "gn:longitude":82.51727,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sub\u0101kone",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bub\u0101kone",
+        "Sub\u0101kone"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282753
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2a385ca94b13924819e919448e9a4104",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1343679837,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1343679837,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1343679837,
+    "wof:lastmodified":1537676040,
+    "wof:name":"Subakone",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.51727,
+    28.52916,
+    82.51727,
+    28.52916
+],
+  "geometry": {"coordinates":[82.51727,28.52916],"type":"Point"}
+}

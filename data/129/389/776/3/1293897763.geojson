@@ -1,0 +1,78 @@
+{
+  "id": 1293897763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.7929,28.54806,81.7929,28.54806",
+    "geom:latitude":28.54806,
+    "geom:longitude":81.7929,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Neta",
+    "gn:country_code":"NP",
+    "gn:dem":1387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282983,
+    "gn:latitude":28.54806,
+    "gn:longitude":81.7929,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Neta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Ne\u1e6d\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282983
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"467b39b893639ede40ac0012c5ccdb64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1293897763,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1293897763,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1293897763,
+    "wof:lastmodified":1537676046,
+    "wof:name":"Neta",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.7929,
+    28.54806,
+    81.7929,
+    28.54806
+],
+  "geometry": {"coordinates":[81.7929,28.54806],"type":"Point"}
+}

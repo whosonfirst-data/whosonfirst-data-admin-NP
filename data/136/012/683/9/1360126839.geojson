@@ -1,0 +1,79 @@
+{
+  "id": 1360126839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.76145,27.37098,85.76145,27.37098",
+    "geom:latitude":27.37098,
+    "geom:longitude":85.76145,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200037",
+    "gn:asciiname":"Chaukidanda",
+    "gn:country_code":"NP",
+    "gn:dem":1740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7993709,
+    "gn:latitude":27.37098,
+    "gn:longitude":85.76145,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chaukidanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049679,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7993709,
+        "wk:page":"Chaukidanda"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f12ff0cb08cbbc4eb2e86b0bf0ebbfd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1360126839,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1360126839,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1360126839,
+    "wof:lastmodified":1537570156,
+    "wof:name":"Chaukidanda",
+    "wof:parent_id":1092049679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.76145,
+    27.37098,
+    85.76145,
+    27.37098
+],
+  "geometry": {"coordinates":[85.76145,27.37098],"type":"Point"}
+}

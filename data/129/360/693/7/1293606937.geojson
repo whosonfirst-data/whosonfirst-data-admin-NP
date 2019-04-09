@@ -1,0 +1,75 @@
+{
+  "id": 1293606937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.56616,27.36653,85.56616,27.36653",
+    "geom:latitude":27.36653,
+    "geom:longitude":85.56616,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Aruboto",
+    "gn:country_code":"NP",
+    "gn:dem":1101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10322393,
+    "gn:latitude":27.36653,
+    "gn:longitude":85.56616,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"\u0100rubo\u1e6do",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10322393
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"38e693212818f4db6b583dd9376ddce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1293606937,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1293606937,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1293606937,
+    "wof:lastmodified":1536612433,
+    "wof:name":"Aruboto",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.56616,
+    27.36653,
+    85.56616,
+    27.36653
+],
+  "geometry": {"coordinates":[85.56616,27.36653],"type":"Point"}
+}

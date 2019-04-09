@@ -1,0 +1,78 @@
+{
+  "id": 1327171867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.65282,27.06751,87.65282,27.06751",
+    "geom:latitude":27.06751,
+    "geom:longitude":87.65282,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"2",
+    "gn:admin4_code":"20041",
+    "gn:asciiname":"Yasok Bajar",
+    "gn:country_code":"NP",
+    "gn:dem":1638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7978182,
+    "gn:latitude":27.06751,
+    "gn:longitude":87.65282,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Yasok Bajar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7978182
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"33a4039563245f1fab111f57d8077b42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1327171867,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1327171867,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1327171867,
+    "wof:lastmodified":1537054569,
+    "wof:name":"Yasok Bajar",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.65281999999998,
+    27.06751,
+    87.65281999999998,
+    27.06751
+],
+  "geometry": {"coordinates":[87.65281999999998,27.06751],"type":"Point"}
+}

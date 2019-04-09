@@ -1,0 +1,80 @@
+{
+  "id": 1310020241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.59216,29.11123,82.59216,29.11123",
+    "geom:latitude":29.11123,
+    "geom:longitude":82.59216,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kaigaon",
+    "gn:country_code":"NP",
+    "gn:dem":2624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283277,
+    "gn:latitude":29.11123,
+    "gn:longitude":82.59216,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u0101igaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaigaun",
+        "K\u0101igaon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050349,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283277,
+        "wk:page":"Kaigaun"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b3a97911aa90124b95b76cf7719e24f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1310020241,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1310020241,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1310020241,
+    "wof:lastmodified":1537676052,
+    "wof:name":"Kaigaon",
+    "wof:parent_id":1092050349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.59215999999998,
+    29.11123,
+    82.59215999999998,
+    29.11123
+],
+  "geometry": {"coordinates":[82.59215999999998,29.11123],"type":"Point"}
+}

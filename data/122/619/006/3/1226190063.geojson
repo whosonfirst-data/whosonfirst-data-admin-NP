@@ -1,0 +1,78 @@
+{
+  "id": 1226190063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.61449,28.23844,83.61449,28.23844",
+    "geom:latitude":28.23844,
+    "geom:longitude":83.61449,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450017.0",
+    "gn:asciiname":"Mauribhir",
+    "gn:country_code":"NP",
+    "gn:dem":1357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7953204,
+    "gn:latitude":28.23844,
+    "gn:longitude":83.61449,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mauribhir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7953204
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7de619185e56b8ba02c4d8582a1fd8d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1226190063,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1226190063,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1226190063,
+    "wof:lastmodified":1537013154,
+    "wof:name":"Mauribhir",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.61449,
+    28.23844,
+    83.61449,
+    28.23844
+],
+  "geometry": {"coordinates":[83.61449,28.23844],"type":"Point"}
+}

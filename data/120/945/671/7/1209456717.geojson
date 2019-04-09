@@ -1,0 +1,64 @@
+{
+  "id": 1209456717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.80246,27.69642,82.80246,27.69642",
+    "geom:latitude":27.69642,
+    "geom:longitude":82.80246,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"50.0",
+    "gn:admin4_code":"500068.0",
+    "gn:asciiname":"Bichagauri",
+    "gn:country_code":"NP",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7960064,
+    "gn:latitude":27.69642,
+    "gn:longitude":82.80246,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bichagauri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7960064
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0e7a8cbb279cf6fe0d2632d14ce6cdb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209456717
+        }
+    ],
+    "wof:id":1209456717,
+    "wof:lastmodified":1536286509,
+    "wof:name":"Bichagauri",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.80246,
+    27.69642,
+    82.80246,
+    27.69642
+],
+  "geometry": {"coordinates":[82.80246,27.69642],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310642263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.06156,27.94964,84.06156,27.94964",
+    "geom:latitude":27.94964,
+    "geom:longitude":84.06156,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380032.0",
+    "gn:asciiname":"Ghormetswanra",
+    "gn:country_code":"NP",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8004117,
+    "gn:latitude":27.94964,
+    "gn:longitude":84.06156,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ghormetswanra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8004117
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b95a6f5db0cd756a2aa7a1c4efdbddd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1310642263,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1310642263,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1310642263,
+    "wof:lastmodified":1536719937,
+    "wof:name":"Ghormetswanra",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.06156,
+    27.94964,
+    84.06156,
+    27.94964
+],
+  "geometry": {"coordinates":[84.06156,27.94964],"type":"Point"}
+}

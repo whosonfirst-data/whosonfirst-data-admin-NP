@@ -1,0 +1,78 @@
+{
+  "id": 1326763389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.89813,29.23334,81.89813,29.23334",
+    "geom:latitude":29.23334,
+    "geom:longitude":81.89813,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"630019.0",
+    "gn:asciiname":"Porkha",
+    "gn:country_code":"NP",
+    "gn:dem":2955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7955960,
+    "gn:latitude":29.23334,
+    "gn:longitude":81.89813,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Porkha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092050797,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7955960
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9839f5319d2108c06220ce199eadb09c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1326763389,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1326763389,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1326763389,
+    "wof:lastmodified":1536650632,
+    "wof:name":"Porkha",
+    "wof:parent_id":1092050797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.89813000000002,
+    29.23334,
+    81.89813000000002,
+    29.23334
+],
+  "geometry": {"coordinates":[81.89813000000002,29.23334],"type":"Point"}
+}

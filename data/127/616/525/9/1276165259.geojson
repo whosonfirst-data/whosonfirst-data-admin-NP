@@ -1,0 +1,78 @@
+{
+  "id": 1276165259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.75636,27.62948,82.75636,27.62948",
+    "geom:latitude":27.62948,
+    "geom:longitude":82.75636,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"50.0",
+    "gn:admin4_code":"500030.0",
+    "gn:asciiname":"Tharauei",
+    "gn:country_code":"NP",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7959551,
+    "gn:latitude":27.62948,
+    "gn:longitude":82.75636,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tharauei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048259,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7959551
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8149b1a277f693dbec4376b9a736ea6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1276165259,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1276165259,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1276165259,
+    "wof:lastmodified":1537003203,
+    "wof:name":"Tharauei",
+    "wof:parent_id":1092048259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.75636,
+    27.62948,
+    82.75636,
+    27.62948
+],
+  "geometry": {"coordinates":[82.75636,27.62948],"type":"Point"}
+}

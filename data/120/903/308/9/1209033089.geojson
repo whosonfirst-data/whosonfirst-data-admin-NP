@@ -1,0 +1,64 @@
+{
+  "id": 1209033089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.40468,29.21241,80.40468,29.21241",
+    "geom:latitude":29.21241,
+    "geom:longitude":80.40468,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"73.0",
+    "gn:admin4_code":"730021.0",
+    "gn:asciiname":"Toli Harada",
+    "gn:country_code":"NP",
+    "gn:dem":1263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7936409,
+    "gn:latitude":29.21241,
+    "gn:longitude":80.40468,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Toli Harada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7936409
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ad10a2d2fadee4b8285b8b6d57d33c06",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209033089
+        }
+    ],
+    "wof:id":1209033089,
+    "wof:lastmodified":1536299787,
+    "wof:name":"Toli Harada",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.40468,
+    29.21241,
+    80.40468,
+    29.21241
+],
+  "geometry": {"coordinates":[80.40468,29.21241],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343990645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.94257,28.04093,82.94257,28.04093",
+    "geom:latitude":28.04093,
+    "geom:longitude":82.94257,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"52",
+    "gn:admin4_code":"520010",
+    "gn:asciiname":"Tham",
+    "gn:country_code":"NP",
+    "gn:dem":1106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7979911,
+    "gn:latitude":28.04093,
+    "gn:longitude":82.94257,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049377,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7979911
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bdff221a0d4bb60cb8a22948fc209fb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1343990645,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1343990645,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1343990645,
+    "wof:lastmodified":1536975905,
+    "wof:name":"Tham",
+    "wof:parent_id":1092049377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.94256999999998,
+    28.04093,
+    82.94256999999998,
+    28.04093
+],
+  "geometry": {"coordinates":[82.94256999999998,28.04093],"type":"Point"}
+}

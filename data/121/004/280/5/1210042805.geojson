@@ -1,0 +1,78 @@
+{
+  "id": 1210042805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.52351,28.75082,81.52351,28.75082",
+    "geom:latitude":28.75082,
+    "geom:longitude":81.52351,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"69.0",
+    "gn:admin4_code":"690058.0",
+    "gn:asciiname":"Tukluka",
+    "gn:country_code":"NP",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933873,
+    "gn:latitude":28.75082,
+    "gn:longitude":81.52351,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tukluka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933873
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"be08c24e57e4162e0d164539e8e0f81d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1210042805,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1210042805,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1210042805,
+    "wof:lastmodified":1536382191,
+    "wof:name":"Tukluka",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.52351,
+    28.75082,
+    81.52351,
+    28.75082
+],
+  "geometry": {"coordinates":[81.52351,28.75082],"type":"Point"}
+}

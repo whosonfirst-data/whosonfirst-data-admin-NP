@@ -1,0 +1,79 @@
+{
+  "id": 1226280709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.32098,27.0695,86.32098,27.0695",
+    "geom:latitude":27.0695,
+    "geom:longitude":86.32098,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5.0",
+    "gn:asciiname":"Ghyansintar",
+    "gn:country_code":"NP",
+    "gn:dem":1114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10330321,
+    "gn:latitude":27.0695,
+    "gn:longitude":86.32098,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Ghy\u0101\u1e45si\u1e45\u1e6d\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Ghy\u0101\u1e45si\u1e45\u1e6d\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049679,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10330321
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3423a594ac8d3facf717b5bbea0c1d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1226280709,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1226280709,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1226280709,
+    "wof:lastmodified":1537676104,
+    "wof:name":"Ghyansintar",
+    "wof:parent_id":1092049679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.32098,
+    27.0695,
+    86.32098,
+    27.0695
+],
+  "geometry": {"coordinates":[86.32098000000001,27.0695],"type":"Point"}
+}

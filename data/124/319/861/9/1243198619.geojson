@@ -1,0 +1,78 @@
+{
+  "id": 1243198619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.89416,29.23844,80.89416,29.23844",
+    "geom:latitude":29.23844,
+    "geom:longitude":80.89416,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"70.0",
+    "gn:admin4_code":"700038.0",
+    "gn:asciiname":"Dakayal",
+    "gn:country_code":"NP",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7947290,
+    "gn:latitude":29.23844,
+    "gn:longitude":80.89416,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dakayal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048653,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7947290
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"542dc7973c47506fbdb9f14d76a8a02d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1243198619,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1243198619,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1243198619,
+    "wof:lastmodified":1536666002,
+    "wof:name":"Dakayal",
+    "wof:parent_id":1092048653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.89416,
+    29.23844,
+    80.89416,
+    29.23844
+],
+  "geometry": {"coordinates":[80.89416,29.23844],"type":"Point"}
+}

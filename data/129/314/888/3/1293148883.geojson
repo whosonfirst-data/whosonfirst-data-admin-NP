@@ -1,0 +1,78 @@
+{
+  "id": 1293148883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.70725,27.45261,87.70725,27.45261",
+    "geom:latitude":27.45261,
+    "geom:longitude":87.70725,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10013.0",
+    "gn:asciiname":"Hangboreng",
+    "gn:country_code":"NP",
+    "gn:dem":980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005176,
+    "gn:latitude":27.45261,
+    "gn:longitude":87.70725,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Hangboreng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005176
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"dd20d861610dde64af076b5511e3a3ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1293148883,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1293148883,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1293148883,
+    "wof:lastmodified":1536778864,
+    "wof:name":"Hangboreng",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.70725,
+    27.45261,
+    87.70725,
+    27.45261
+],
+  "geometry": {"coordinates":[87.70725,27.45261],"type":"Point"}
+}

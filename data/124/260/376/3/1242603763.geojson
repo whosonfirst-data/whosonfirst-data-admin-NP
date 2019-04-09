@@ -1,0 +1,78 @@
+{
+  "id": 1242603763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.51176,28.28885,82.51176,28.28885",
+    "geom:latitude":28.28885,
+    "geom:longitude":82.51176,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530011",
+    "gn:asciiname":"Dibu",
+    "gn:country_code":"NP",
+    "gn:dem":1401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7983308,
+    "gn:latitude":28.28885,
+    "gn:longitude":82.51176,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dibu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7983308
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d8d49f93a370d76aec9b34dae2f6e7de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1242603763,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1242603763,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1242603763,
+    "wof:lastmodified":1537024946,
+    "wof:name":"Dibu",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.51176,
+    28.28885,
+    82.51176,
+    28.28885
+],
+  "geometry": {"coordinates":[82.51176,28.28885],"type":"Point"}
+}

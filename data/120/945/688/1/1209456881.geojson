@@ -1,0 +1,64 @@
+{
+  "id": 1209456881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.36209,27.06347,87.36209,27.06347",
+    "geom:latitude":27.06347,
+    "geom:longitude":87.36209,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"7.0",
+    "gn:admin4_code":"70019.0",
+    "gn:asciiname":"Bajimpakgaun",
+    "gn:country_code":"NP",
+    "gn:dem":1851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7943129,
+    "gn:latitude":27.06347,
+    "gn:longitude":87.36209,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bajimpakgaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7943129
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1c83153c9497c809b2017d62f92ab040",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209456881
+        }
+    ],
+    "wof:id":1209456881,
+    "wof:lastmodified":1536286505,
+    "wof:name":"Bajimpakgaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.36209000000002,
+    27.06347,
+    87.36209000000002,
+    27.06347
+],
+  "geometry": {"coordinates":[87.36209000000002,27.06347],"type":"Point"}
+}

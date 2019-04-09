@@ -1,0 +1,78 @@
+{
+  "id": 1343906005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.36392,28.25212,84.36392,28.25212",
+    "geom:latitude":28.25212,
+    "geom:longitude":84.36392,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370017",
+    "gn:asciiname":"Goteyathok",
+    "gn:country_code":"NP",
+    "gn:dem":953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7966196,
+    "gn:latitude":28.25212,
+    "gn:longitude":84.36392,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Goteyathok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050009,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7966196
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e03e20efb8b767c3c0536ffecb02dd6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1343906005,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1343906005,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1343906005,
+    "wof:lastmodified":1537095433,
+    "wof:name":"Goteyathok",
+    "wof:parent_id":1092050009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.36392,
+    28.25212,
+    84.36392,
+    28.25212
+],
+  "geometry": {"coordinates":[84.36391999999999,28.25212],"type":"Point"}
+}

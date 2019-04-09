@@ -1,0 +1,78 @@
+{
+  "id": 1293018743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.72433,26.90728,87.72433,26.90728",
+    "geom:latitude":26.90728,
+    "geom:longitude":87.72433,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nanrun",
+    "gn:country_code":"NP",
+    "gn:dem":1557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11606512,
+    "gn:latitude":26.90728,
+    "gn:longitude":87.72433,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"N\u0101\u1e45ru\u1e45",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "N\u0101\u1e45ru\u1e45"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11606512
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"86cf59248c6bd6ebfce6cf254c22b797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1293018743,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1293018743,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1293018743,
+    "wof:lastmodified":1537676126,
+    "wof:name":"Nanrun",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.72433000000002,
+    26.90728,
+    87.72433000000002,
+    26.90728
+],
+  "geometry": {"coordinates":[87.72433000000002,26.90728],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209031057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.34111,28.87395,81.34111,28.87395",
+    "geom:latitude":28.87395,
+    "geom:longitude":81.34111,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590021.0",
+    "gn:asciiname":"Baspani",
+    "gn:country_code":"NP",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7999156,
+    "gn:latitude":28.87395,
+    "gn:longitude":81.34111,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Baspani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7999156
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"af911de84318c45a9254b5d8540172e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209031057
+        }
+    ],
+    "wof:id":1209031057,
+    "wof:lastmodified":1536299849,
+    "wof:name":"Baspani",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.34111,
+    28.87395,
+    81.34111,
+    28.87395
+],
+  "geometry": {"coordinates":[81.34111,28.87395],"type":"Point"}
+}

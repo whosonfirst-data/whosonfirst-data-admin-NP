@@ -1,0 +1,78 @@
+{
+  "id": 1343995565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.59662,27.94463,83.59662,27.94463",
+    "geom:latitude":27.94463,
+    "geom:longitude":83.59662,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390052.0",
+    "gn:asciiname":"Bharrarai Tol",
+    "gn:country_code":"NP",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002188,
+    "gn:latitude":27.94463,
+    "gn:longitude":83.59662,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bharrarai Tol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002188
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"10c4a798002ba5a825f3b562cfe30929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1343995565,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1343995565,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1343995565,
+    "wof:lastmodified":1536968916,
+    "wof:name":"Bharrarai Tol",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.59662,
+    27.94463,
+    83.59662,
+    27.94463
+],
+  "geometry": {"coordinates":[83.59662,27.94463],"type":"Point"}
+}

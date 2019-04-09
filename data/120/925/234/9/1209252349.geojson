@@ -1,0 +1,64 @@
+{
+  "id": 1209252349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.9602,28.51034,82.9602,28.51034",
+    "geom:latitude":28.51034,
+    "geom:longitude":82.9602,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450014.0",
+    "gn:asciiname":"Niseldhor",
+    "gn:country_code":"NP",
+    "gn:dem":2995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7951777,
+    "gn:latitude":28.51034,
+    "gn:longitude":82.9602,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Niseldhor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7951777
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8bc8e2946a1cbcc9d485603ab721e6b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209252349
+        }
+    ],
+    "wof:id":1209252349,
+    "wof:lastmodified":1536292964,
+    "wof:name":"Niseldhor",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.9602,
+    28.510340000000006,
+    82.9602,
+    28.510340000000006
+],
+  "geometry": {"coordinates":[82.9602,28.51034000000001],"type":"Point"}
+}

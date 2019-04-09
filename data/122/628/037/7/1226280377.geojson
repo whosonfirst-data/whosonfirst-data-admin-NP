@@ -1,0 +1,78 @@
+{
+  "id": 1226280377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.16395,27.12938,87.16395,27.12938",
+    "geom:latitude":27.12938,
+    "geom:longitude":87.16395,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100014.0",
+    "gn:asciiname":"Supla",
+    "gn:country_code":"NP",
+    "gn:dem":1336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7932871,
+    "gn:latitude":27.12938,
+    "gn:longitude":87.16395,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Supla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7932871
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"85996c9ff5d91f0f331c07fcc9c7c98a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1226280377,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1226280377,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1226280377,
+    "wof:lastmodified":1536883040,
+    "wof:name":"Supla",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.16395,
+    27.12938,
+    87.16395,
+    27.12938
+],
+  "geometry": {"coordinates":[87.16395,27.12938],"type":"Point"}
+}

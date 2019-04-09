@@ -1,0 +1,64 @@
+{
+  "id": 1209548359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.93678,28.7324,81.93678,28.7324",
+    "geom:latitude":28.7324,
+    "geom:longitude":81.93678,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"61.0",
+    "gn:admin4_code":"610026.0",
+    "gn:asciiname":"Thapabun",
+    "gn:country_code":"NP",
+    "gn:dem":1579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7953731,
+    "gn:latitude":28.7324,
+    "gn:longitude":81.93678,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thapabun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7953731
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"18ecc778a9d7ef4797e4238ce1db8d7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209548359
+        }
+    ],
+    "wof:id":1209548359,
+    "wof:lastmodified":1536283772,
+    "wof:name":"Thapabun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.93678,
+    28.7324,
+    81.93678,
+    28.7324
+],
+  "geometry": {"coordinates":[81.93678,28.7324],"type":"Point"}
+}

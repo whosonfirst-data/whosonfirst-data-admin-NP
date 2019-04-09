@@ -1,0 +1,78 @@
+{
+  "id": 1243085423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.44801,26.57321,87.44801,26.57321",
+    "geom:latitude":26.57321,
+    "geom:longitude":87.44801,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dagitol",
+    "gn:country_code":"NP",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11606108,
+    "gn:latitude":26.57321,
+    "gn:longitude":87.44801,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"\u1e0c\u0101\u0303gi\u0307\u0304\u1e6dol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "\u1e0c\u0101\u0303gi\u0307\u0304\u1e6dol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092048303,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11606108
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1f4e745764ad27b40c3f4aae9ae1bb24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1243085423,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1243085423,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1243085423,
+    "wof:lastmodified":1537676124,
+    "wof:name":"Dagitol",
+    "wof:parent_id":1092048303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.44801,
+    26.57321,
+    87.44801,
+    26.57321
+],
+  "geometry": {"coordinates":[87.44801,26.57321],"type":"Point"}
+}

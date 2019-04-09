@@ -1,0 +1,78 @@
+{
+  "id": 1276272287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.2673,27.42893,85.2673,27.42893",
+    "geom:latitude":27.42893,
+    "geom:longitude":85.2673,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310043",
+    "gn:asciiname":"Odare",
+    "gn:country_code":"NP",
+    "gn:dem":1269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7969380,
+    "gn:latitude":27.42893,
+    "gn:longitude":85.2673,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Odare",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7969380
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b9f1a345492bbd3d97eb2afbcbd897be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1276272287,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1276272287,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1276272287,
+    "wof:lastmodified":1536859175,
+    "wof:name":"Odare",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.2673,
+    27.42893,
+    85.2673,
+    27.42893
+],
+  "geometry": {"coordinates":[85.26730000000001,27.42893],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209441353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.47025,29.72614,80.47025,29.72614",
+    "geom:latitude":29.72614,
+    "geom:longitude":80.47025,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"75.0",
+    "gn:admin4_code":"750028.0",
+    "gn:asciiname":"Tallo Baseri",
+    "gn:country_code":"NP",
+    "gn:dem":1493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7940727,
+    "gn:latitude":29.72614,
+    "gn:longitude":80.47025,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tallo Baseri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7940727
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d4d053b68833a3730cf534ea81fa69ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209441353
+        }
+    ],
+    "wof:id":1209441353,
+    "wof:lastmodified":1536286952,
+    "wof:name":"Tallo Baseri",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.47025,
+    29.72614,
+    80.47025,
+    29.72614
+],
+  "geometry": {"coordinates":[80.47024999999999,29.72614],"type":"Point"}
+}

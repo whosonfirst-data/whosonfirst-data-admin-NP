@@ -1,0 +1,78 @@
+{
+  "id": 1259921913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.713,27.64918,85.713,27.64918",
+    "geom:latitude":27.64918,
+    "geom:longitude":85.713,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240009.0",
+    "gn:asciiname":"Bandewatar",
+    "gn:country_code":"NP",
+    "gn:dem":697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7962692,
+    "gn:latitude":27.64918,
+    "gn:longitude":85.713,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bandewatar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7962692
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"757fa1fb8afb7e31e4f3e237f1849ce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1259921913,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1259921913,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1259921913,
+    "wof:lastmodified":1536724230,
+    "wof:name":"Bandewatar",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.713,
+    27.64918,
+    85.713,
+    27.64918
+],
+  "geometry": {"coordinates":[85.71299999999999,27.64918],"type":"Point"}
+}

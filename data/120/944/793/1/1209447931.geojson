@@ -1,0 +1,64 @@
+{
+  "id": 1209447931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.80547,29.74138,80.80547,29.74138",
+    "geom:latitude":29.74138,
+    "geom:longitude":80.80547,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"75.0",
+    "gn:admin4_code":"750027.0",
+    "gn:asciiname":"ThulThala",
+    "gn:country_code":"NP",
+    "gn:dem":1581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7940712,
+    "gn:latitude":29.74138,
+    "gn:longitude":80.80547,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"ThulThala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7940712
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"10109153d5938c29fcb53a67eb568acd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209447931
+        }
+    ],
+    "wof:id":1209447931,
+    "wof:lastmodified":1536286760,
+    "wof:name":"ThulThala",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.80547,
+    29.74138,
+    80.80547,
+    29.74138
+],
+  "geometry": {"coordinates":[80.80547,29.74138],"type":"Point"}
+}

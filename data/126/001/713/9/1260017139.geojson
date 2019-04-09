@@ -1,0 +1,78 @@
+{
+  "id": 1260017139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.01811,28.20881,84.01811,28.20881",
+    "geom:latitude":28.20881,
+    "geom:longitude":84.01811,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400032.0",
+    "gn:asciiname":"Dhunge Sanghu",
+    "gn:country_code":"NP",
+    "gn:dem":833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7961467,
+    "gn:latitude":28.20881,
+    "gn:longitude":84.01811,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhunge Sanghu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092049331,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7961467
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b0b643350e84fbbc0db8ba3807753370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1260017139,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1260017139,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1260017139,
+    "wof:lastmodified":1537080280,
+    "wof:name":"Dhunge Sanghu",
+    "wof:parent_id":1092049331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.01811,
+    28.20881,
+    84.01811,
+    28.20881
+],
+  "geometry": {"coordinates":[84.01810999999999,28.20881],"type":"Point"}
+}

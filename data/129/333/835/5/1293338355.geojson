@@ -1,0 +1,78 @@
+{
+  "id": 1293338355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.6613,26.86568,87.6613,26.86568",
+    "geom:latitude":26.86568,
+    "geom:longitude":87.6613,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30002.0",
+    "gn:asciiname":"Nandetar",
+    "gn:country_code":"NP",
+    "gn:dem":1614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7951363,
+    "gn:latitude":26.86568,
+    "gn:longitude":87.6613,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nandetar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7951363
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ca661dfffc77aa08225a9d43020ca3fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1293338355,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1293338355,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1293338355,
+    "wof:lastmodified":1537001366,
+    "wof:name":"Nandetar",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.6613,
+    26.86568,
+    87.6613,
+    26.86568
+],
+  "geometry": {"coordinates":[87.6613,26.86568],"type":"Point"}
+}

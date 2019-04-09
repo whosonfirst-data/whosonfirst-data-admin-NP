@@ -1,0 +1,78 @@
+{
+  "id": 1309938739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.54357,28.48831,82.54357,28.48831",
+    "geom:latitude":28.48831,
+    "geom:longitude":82.54357,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530038",
+    "gn:asciiname":"Rangkot",
+    "gn:country_code":"NP",
+    "gn:dem":1985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7984367,
+    "gn:latitude":28.48831,
+    "gn:longitude":82.54357,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Rangkot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7984367
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9736e62e7137e45c6c3d5d1b8ff11227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1309938739,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1309938739,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1309938739,
+    "wof:lastmodified":1536739480,
+    "wof:name":"Rangkot",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.54356999999997,
+    28.48831,
+    82.54356999999997,
+    28.48831
+],
+  "geometry": {"coordinates":[82.54356999999997,28.48831],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293921659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.34114,28.21211,85.34114,28.21211",
+    "geom:latitude":28.21211,
+    "geom:longitude":85.34114,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"29",
+    "gn:admin4_code":"290016",
+    "gn:asciiname":"Thuman",
+    "gn:country_code":"NP",
+    "gn:dem":2246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7982306,
+    "gn:latitude":28.21211,
+    "gn:longitude":85.34114,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thuman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048409,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7982306
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7b1430561141acb2fc253dcca70bd84e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048409,
+            "locality_id":1293921659,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048409,
+            "locality_id":1293921659,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1293921659,
+    "wof:lastmodified":1536658396,
+    "wof:name":"Thuman",
+    "wof:parent_id":1092048409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.34114,
+    28.21211,
+    85.34114,
+    28.21211
+],
+  "geometry": {"coordinates":[85.34114,28.21211],"type":"Point"}
+}

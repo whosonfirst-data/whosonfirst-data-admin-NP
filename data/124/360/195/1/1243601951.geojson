@@ -1,0 +1,78 @@
+{
+  "id": 1243601951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.75882,28.08463,83.75882,28.08463",
+    "geom:latitude":28.08463,
+    "geom:longitude":83.75882,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390002.0",
+    "gn:asciiname":"Sirbare",
+    "gn:country_code":"NP",
+    "gn:dem":1075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8000603,
+    "gn:latitude":28.08463,
+    "gn:longitude":83.75882,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sirbare",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8000603
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"270a1041029ee0739e1bd9830e13841e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1243601951,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1243601951,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1243601951,
+    "wof:lastmodified":1537075307,
+    "wof:name":"Sirbare",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.75882,
+    28.08463,
+    83.75882,
+    28.08463
+],
+  "geometry": {"coordinates":[83.75882,28.08463],"type":"Point"}
+}

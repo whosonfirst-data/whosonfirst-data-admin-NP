@@ -1,0 +1,78 @@
+{
+  "id": 1293431539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.83127,27.9693,83.83127,27.9693",
+    "geom:latitude":27.9693,
+    "geom:longitude":83.83127,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390023.0",
+    "gn:asciiname":"Dhir Chhap",
+    "gn:country_code":"NP",
+    "gn:dem":947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001184,
+    "gn:latitude":27.9693,
+    "gn:longitude":83.83127,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhir Chhap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001184
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"24f85bc1727ab7f1c43ede559baae1f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1293431539,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1293431539,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293431539,
+    "wof:lastmodified":1536866414,
+    "wof:name":"Dhir Chhap",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.83126999999998,
+    27.9693,
+    83.83126999999998,
+    27.9693
+],
+  "geometry": {"coordinates":[83.83126999999998,27.9693],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209643643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.66008,29.41359,80.66008,29.41359",
+    "geom:latitude":29.41359,
+    "geom:longitude":80.66008,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740055",
+    "gn:asciiname":"Bajha",
+    "gn:country_code":"NP",
+    "gn:dem":1804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7983250,
+    "gn:latitude":29.41359,
+    "gn:longitude":80.66008,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bajha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7983250
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"88374ac74f8e95b917895baa4546ef03",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209643643
+        }
+    ],
+    "wof:id":1209643643,
+    "wof:lastmodified":1536280805,
+    "wof:name":"Bajha",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.66008000000002,
+    29.413590000000006,
+    80.66008000000002,
+    29.413590000000006
+],
+  "geometry": {"coordinates":[80.66008000000002,29.41359000000001],"type":"Point"}
+}

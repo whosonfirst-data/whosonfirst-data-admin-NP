@@ -1,0 +1,64 @@
+{
+  "id": 1209342811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.62176,28.03759,81.62176,28.03759",
+    "geom:latitude":28.03759,
+    "geom:longitude":81.62176,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"570032.0",
+    "gn:asciiname":"Babugaun",
+    "gn:country_code":"NP",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008366,
+    "gn:latitude":28.03759,
+    "gn:longitude":81.62176,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Babugaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008366
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"847ca661b3efca7ecbb50f73c56f1acb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209342811
+        }
+    ],
+    "wof:id":1209342811,
+    "wof:lastmodified":1536290010,
+    "wof:name":"Babugaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.62176,
+    28.03759,
+    81.62176,
+    28.03759
+],
+  "geometry": {"coordinates":[81.62175999999999,28.03759],"type":"Point"}
+}

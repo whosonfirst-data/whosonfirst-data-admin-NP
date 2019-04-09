@@ -1,0 +1,78 @@
+{
+  "id": 1343995679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.01021,27.13761,87.01021,27.13761",
+    "geom:latitude":27.13761,
+    "geom:longitude":87.01021,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100018.0",
+    "gn:asciiname":"Khewa Bhanjyang",
+    "gn:country_code":"NP",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7932960,
+    "gn:latitude":27.13761,
+    "gn:longitude":87.01021,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khewa Bhanjyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7932960
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8aa4c68c10fcabc7dafb18b78f950d80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1343995679,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1343995679,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1343995679,
+    "wof:lastmodified":1536968774,
+    "wof:name":"Khewa Bhanjyang",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.01021,
+    27.13761,
+    87.01021,
+    27.13761
+],
+  "geometry": {"coordinates":[87.01021,27.13761],"type":"Point"}
+}

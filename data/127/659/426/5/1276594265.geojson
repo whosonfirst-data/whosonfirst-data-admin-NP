@@ -1,0 +1,79 @@
+{
+  "id": 1276594265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.3914,28.41512,84.3914,28.41512",
+    "geom:latitude":28.41512,
+    "geom:longitude":84.3914,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370056",
+    "gn:asciiname":"Jagat",
+    "gn:country_code":"NP",
+    "gn:dem":2148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7967062,
+    "gn:latitude":28.41512,
+    "gn:longitude":84.3914,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jagat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050009,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7967062,
+        "wk:page":"Jagat"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7c92463db2393ed515f4edb941903a82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1276594265,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1276594265,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1276594265,
+    "wof:lastmodified":1537570151,
+    "wof:name":"Jagat",
+    "wof:parent_id":1092050009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.3914,
+    28.41512,
+    84.3914,
+    28.41512
+],
+  "geometry": {"coordinates":[84.3914,28.41512],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209224309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.11025,26.78271,88.11025,26.78271",
+    "geom:latitude":26.78271,
+    "geom:longitude":88.11025,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Malbase",
+    "gn:country_code":"NP",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11601197,
+    "gn:latitude":26.78271,
+    "gn:longitude":88.11025,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"M\u0101lb\u0101\u0303se",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "M\u0101lb\u0101\u0303se"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11601197
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1f071b631b74f917f07d81d771906187",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209224309
+        }
+    ],
+    "wof:id":1209224309,
+    "wof:lastmodified":1537676115,
+    "wof:name":"Malbase",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.11025,
+    26.78271,
+    88.11025,
+    26.78271
+],
+  "geometry": {"coordinates":[88.11024999999999,26.78271],"type":"Point"}
+}

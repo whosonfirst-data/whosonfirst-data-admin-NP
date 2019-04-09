@@ -1,0 +1,64 @@
+{
+  "id": 1209653303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.99793,27.40558,85.99793,27.40558",
+    "geom:latitude":27.40558,
+    "geom:longitude":85.99793,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"21",
+    "gn:admin4_code":"210039",
+    "gn:asciiname":"Pakarwas",
+    "gn:country_code":"NP",
+    "gn:dem":750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7981733,
+    "gn:latitude":27.40558,
+    "gn:longitude":85.99793,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pakarwas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7981733
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4a435abb6291115e7aee2d41afbeee98",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209653303
+        }
+    ],
+    "wof:id":1209653303,
+    "wof:lastmodified":1536280516,
+    "wof:name":"Pakarwas",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.99793000000003,
+    27.40558,
+    85.99793000000003,
+    27.40558
+],
+  "geometry": {"coordinates":[85.99793000000003,27.40558],"type":"Point"}
+}

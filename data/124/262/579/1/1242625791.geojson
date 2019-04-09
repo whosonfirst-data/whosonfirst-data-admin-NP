@@ -1,0 +1,78 @@
+{
+  "id": 1242625791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.85809,28.06166,84.85809,28.06166",
+    "geom:latitude":28.06166,
+    "geom:longitude":84.85809,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300031.0",
+    "gn:asciiname":"Pokhara Mathillo",
+    "gn:country_code":"NP",
+    "gn:dem":857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7942065,
+    "gn:latitude":28.06166,
+    "gn:longitude":84.85809,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pokhara Mathillo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7942065
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"13d9d6fa7ed1039021200bedb974cab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1242625791,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1242625791,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1242625791,
+    "wof:lastmodified":1536993653,
+    "wof:name":"Pokhara Mathillo",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.85809,
+    28.06166,
+    84.85809,
+    28.06166
+],
+  "geometry": {"coordinates":[84.85809,28.06166],"type":"Point"}
+}

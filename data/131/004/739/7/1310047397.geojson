@@ -1,0 +1,78 @@
+{
+  "id": 1310047397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.09606,28.18928,83.09606,28.18928",
+    "geom:latitude":28.18928,
+    "geom:longitude":83.09606,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"46.0",
+    "gn:admin4_code":"460073.0",
+    "gn:asciiname":"Salleri",
+    "gn:country_code":"NP",
+    "gn:dem":1340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7950680,
+    "gn:latitude":28.18928,
+    "gn:longitude":83.09606,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Salleri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050755,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7950680
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"baf36f7fb13360f385725ea67c91bcfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1310047397,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1310047397,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1310047397,
+    "wof:lastmodified":1537077140,
+    "wof:name":"Salleri",
+    "wof:parent_id":1092050755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.09606,
+    28.18928,
+    83.09606,
+    28.18928
+],
+  "geometry": {"coordinates":[83.09605999999999,28.18928],"type":"Point"}
+}

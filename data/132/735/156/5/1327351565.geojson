@@ -1,0 +1,79 @@
+{
+  "id": 1327351565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.52262,28.21717,85.52262,28.21717",
+    "geom:latitude":28.21717,
+    "geom:longitude":85.52262,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Langtang",
+    "gn:country_code":"NP",
+    "gn:dem":3584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283142,
+    "gn:latitude":28.21717,
+    "gn:longitude":85.52262,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"L\u0101ngt\u0101ng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u0101ngt\u0101ng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048409,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283142,
+        "wk:page":"Langtang"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3233a42f6389bfb6f34e5950bcfa2396",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048409,
+            "locality_id":1327351565,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048409,
+            "locality_id":1327351565,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1327351565,
+    "wof:lastmodified":1537676050,
+    "wof:name":"Langtang",
+    "wof:parent_id":1092048409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.52261999999997,
+    28.21717,
+    85.52261999999997,
+    28.21717
+],
+  "geometry": {"coordinates":[85.52261999999997,28.21717],"type":"Point"}
+}

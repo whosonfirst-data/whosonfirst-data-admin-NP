@@ -1,0 +1,78 @@
+{
+  "id": 1360222593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.18764,27.54992,86.18764,27.54992",
+    "geom:latitude":27.54992,
+    "geom:longitude":86.18764,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"21",
+    "gn:admin4_code":"210047",
+    "gn:asciiname":"Bimire Bhimsenthan",
+    "gn:country_code":"NP",
+    "gn:dem":1735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7981951,
+    "gn:latitude":27.54992,
+    "gn:longitude":86.18764,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bimire Bhimsenthan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049711,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7981951
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ee0e6825cafb7156868ba453742fc058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1360222593,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1360222593,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1360222593,
+    "wof:lastmodified":1536747026,
+    "wof:name":"Bimire Bhimsenthan",
+    "wof:parent_id":1092049711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.18764,
+    27.54992,
+    86.18764,
+    27.54992
+],
+  "geometry": {"coordinates":[86.18764,27.54992],"type":"Point"}
+}

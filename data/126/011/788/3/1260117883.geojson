@@ -1,0 +1,78 @@
+{
+  "id": 1260117883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.53053,26.9638,86.53053,26.9638",
+    "geom:latitude":26.9638,
+    "geom:longitude":86.53053,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140010.0",
+    "gn:asciiname":"Beteni Majuwa",
+    "gn:country_code":"NP",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8006707,
+    "gn:latitude":26.9638,
+    "gn:longitude":86.53053,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Beteni Majuwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050179,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8006707
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d51587fcd37bd1ba41bd8f6161b52616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1260117883,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1260117883,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1260117883,
+    "wof:lastmodified":1536939241,
+    "wof:name":"Beteni Majuwa",
+    "wof:parent_id":1092050179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.53053,
+    26.9638,
+    86.53053,
+    26.9638
+],
+  "geometry": {"coordinates":[86.53053,26.9638],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1259430727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.56384,27.60156,83.56384,27.60156",
+    "geom:latitude":27.60156,
+    "geom:longitude":83.56384,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"49",
+    "gn:admin4_code":"490035",
+    "gn:asciiname":"Suryapura",
+    "gn:country_code":"NP",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7987308,
+    "gn:latitude":27.60156,
+    "gn:longitude":83.56384,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Suryapura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048457,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7987308
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"03c5badf8602108e9baf1618bcf6eedf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1259430727,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1259430727,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1259430727,
+    "wof:lastmodified":1536935407,
+    "wof:name":"Suryapura",
+    "wof:parent_id":1092048457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.56384,
+    27.60156,
+    83.56384,
+    27.60156
+],
+  "geometry": {"coordinates":[83.56384,27.60156],"type":"Point"}
+}

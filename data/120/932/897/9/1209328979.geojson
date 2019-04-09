@@ -1,0 +1,67 @@
+{
+  "id": 1209328979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.18984,28.12717,86.18984,28.12717",
+    "geom:latitude":28.12717,
+    "geom:longitude":86.18984,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lendenwabari",
+    "gn:country_code":"NP",
+    "gn:dem":4116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10317520,
+    "gn:latitude":28.12717,
+    "gn:longitude":86.18984,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Le\u1e45de\u1e45w\u0101b\u0101ri\u0307\u0304",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Le\u1e45de\u1e45w\u0101b\u0101ri\u0307\u0304"
+    ],
+    "name:nep_x_variant":[
+        "Le\u1e45de\u1e45w\u0101b\u0101r\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10317520
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8c47f8fea46aca5c48f3803e8a46ce07",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209328979
+        }
+    ],
+    "wof:id":1209328979,
+    "wof:lastmodified":1537676081,
+    "wof:name":"Lendenwabari",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.18984,
+    28.12717,
+    86.18984,
+    28.12717
+],
+  "geometry": {"coordinates":[86.18984,28.12717],"type":"Point"}
+}

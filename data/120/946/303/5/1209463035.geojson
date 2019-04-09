@@ -1,0 +1,64 @@
+{
+  "id": 1209463035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.98398,26.89893,86.98398,26.89893",
+    "geom:latitude":26.89893,
+    "geom:longitude":86.98398,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100045.0",
+    "gn:asciiname":"Byangtar",
+    "gn:country_code":"NP",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933654,
+    "gn:latitude":26.89893,
+    "gn:longitude":86.98398,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Byangtar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933654
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d81f3c93cf64d2c0430112e580ed8b60",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209463035
+        }
+    ],
+    "wof:id":1209463035,
+    "wof:lastmodified":1536286321,
+    "wof:name":"Byangtar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.98398,
+    26.89893,
+    86.98398,
+    26.89893
+],
+  "geometry": {"coordinates":[86.98398,26.89893],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1327381985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.96255,27.65466,83.96255,27.65466",
+    "geom:latitude":27.65466,
+    "geom:longitude":83.96255,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"48",
+    "gn:admin4_code":"480045",
+    "gn:asciiname":"Khairsal",
+    "gn:country_code":"NP",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7973204,
+    "gn:latitude":27.65466,
+    "gn:longitude":83.96255,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khairsal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050413,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7973204
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a30ae3b6d928b64148b1a716f18231af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050413,
+            "locality_id":1327381985,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050413,
+            "locality_id":1327381985,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1327381985,
+    "wof:lastmodified":1536753644,
+    "wof:name":"Khairsal",
+    "wof:parent_id":1092050413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.96255,
+    27.65466,
+    83.96255,
+    27.65466
+],
+  "geometry": {"coordinates":[83.96254999999999,27.65466],"type":"Point"}
+}

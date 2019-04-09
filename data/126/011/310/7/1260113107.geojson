@@ -1,0 +1,78 @@
+{
+  "id": 1260113107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.17324,28.09685,82.17324,28.09685",
+    "geom:latitude":28.09685,
+    "geom:longitude":82.17324,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"560016.0",
+    "gn:asciiname":"Ekali",
+    "gn:country_code":"NP",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7938914,
+    "gn:latitude":28.09685,
+    "gn:longitude":82.17324,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ekali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048605,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7938914
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f70f317b191f8768b502d5862fb7c831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1260113107,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1260113107,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1260113107,
+    "wof:lastmodified":1536945847,
+    "wof:name":"Ekali",
+    "wof:parent_id":1092048605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.17324,
+    28.09685,
+    82.17324,
+    28.09685
+],
+  "geometry": {"coordinates":[82.17324000000001,28.09685],"type":"Point"}
+}

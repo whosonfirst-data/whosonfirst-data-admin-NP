@@ -1,0 +1,79 @@
+{
+  "id": 1276667463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.43722,29.57113,80.43722,29.57113",
+    "geom:latitude":29.57113,
+    "geom:longitude":80.43722,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Baitadi",
+    "gn:country_code":"NP",
+    "gn:dem":891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283700,
+    "gn:latitude":29.57113,
+    "gn:longitude":80.43722,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Baitad\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baitad\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050255,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283700,
+        "wk:page":"Khalanga%2C_Baitadi"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4ab76aa35005d26b556a72e896c71ba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1276667463,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1276667463,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1276667463,
+    "wof:lastmodified":1537676064,
+    "wof:name":"Baitadi",
+    "wof:parent_id":1092050255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.43722,
+    29.57113,
+    80.43722,
+    29.57113
+],
+  "geometry": {"coordinates":[80.43722,29.57113],"type":"Point"}
+}

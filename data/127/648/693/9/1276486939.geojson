@@ -1,0 +1,78 @@
+{
+  "id": 1276486939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.51896,28.11257,83.51896,28.11257",
+    "geom:latitude":28.11257,
+    "geom:longitude":83.51896,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"46.0",
+    "gn:admin4_code":"460017.0",
+    "gn:asciiname":"Sadhankharka",
+    "gn:country_code":"NP",
+    "gn:dem":1532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7949923,
+    "gn:latitude":28.11257,
+    "gn:longitude":83.51896,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sadhankharka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050755,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7949923
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8579e0ef999eb9d6b4a2f8620c1380c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1276486939,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1276486939,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1276486939,
+    "wof:lastmodified":1537067183,
+    "wof:name":"Sadhankharka",
+    "wof:parent_id":1092050755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.51895999999998,
+    28.11257,
+    83.51895999999998,
+    28.11257
+],
+  "geometry": {"coordinates":[83.51895999999998,28.11257],"type":"Point"}
+}

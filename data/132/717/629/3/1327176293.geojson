@@ -1,0 +1,78 @@
+{
+  "id": 1327176293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.3331,27.70309,85.3331,27.70309",
+    "geom:latitude":27.70309,
+    "geom:longitude":85.3331,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"27.0",
+    "gn:admin4_code":"270031.0",
+    "gn:asciiname":"Ghattekulo",
+    "gn:country_code":"NP",
+    "gn:dem":1304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7962228,
+    "gn:latitude":27.70309,
+    "gn:longitude":85.3331,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ghattekulo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092048931,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7962228
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8f3cf59097b687e674a21b4883b4257c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":1327176293,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":1327176293,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1327176293,
+    "wof:lastmodified":1537048594,
+    "wof:name":"Ghattekulo",
+    "wof:parent_id":1092048931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.3331,
+    27.70309,
+    85.3331,
+    27.70309
+],
+  "geometry": {"coordinates":[85.3331,27.70309],"type":"Point"}
+}

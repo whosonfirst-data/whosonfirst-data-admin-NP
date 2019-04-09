@@ -1,0 +1,78 @@
+{
+  "id": 1343509401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.65207,26.55417,87.65207,26.55417",
+    "geom:latitude":26.55417,
+    "geom:longitude":87.65207,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40030.0",
+    "gn:asciiname":"Khayarbari",
+    "gn:country_code":"NP",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7954785,
+    "gn:latitude":26.55417,
+    "gn:longitude":87.65207,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khayarbari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7954785
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9528a17b4236fba7d07bac46f5b2f572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1343509401,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1343509401,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1343509401,
+    "wof:lastmodified":1536675663,
+    "wof:name":"Khayarbari",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.65207,
+    26.55417000000001,
+    87.65207,
+    26.55417000000001
+],
+  "geometry": {"coordinates":[87.65206999999999,26.55417000000001],"type":"Point"}
+}

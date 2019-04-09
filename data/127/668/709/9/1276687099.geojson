@@ -1,0 +1,78 @@
+{
+  "id": 1276687099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.13415,29.15796,81.13415,29.15796",
+    "geom:latitude":29.15796,
+    "geom:longitude":81.13415,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"69.0",
+    "gn:admin4_code":"690066.0",
+    "gn:asciiname":"Dotegada",
+    "gn:country_code":"NP",
+    "gn:dem":1463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7935135,
+    "gn:latitude":29.15796,
+    "gn:longitude":81.13415,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dotegada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048527,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7935135
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c0da2b744c3c2a30ada08cd64030a970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1276687099,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1276687099,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1276687099,
+    "wof:lastmodified":1536801802,
+    "wof:name":"Dotegada",
+    "wof:parent_id":1092048527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.13415,
+    29.15796,
+    81.13415,
+    29.15796
+],
+  "geometry": {"coordinates":[81.13415000000001,29.15796],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209648221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.55615,29.59566,80.55615,29.59566",
+    "geom:latitude":29.59566,
+    "geom:longitude":80.55615,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740013",
+    "gn:asciiname":"Bansgaun",
+    "gn:country_code":"NP",
+    "gn:dem":1385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7970385,
+    "gn:latitude":29.59566,
+    "gn:longitude":80.55615,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bansgaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7970385
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"dab3b06f8be73a2a3d42cede2ccb95f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209648221
+        }
+    ],
+    "wof:id":1209648221,
+    "wof:lastmodified":1536280666,
+    "wof:name":"Bansgaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.55615,
+    29.59566,
+    80.55615,
+    29.59566
+],
+  "geometry": {"coordinates":[80.55615,29.59566],"type":"Point"}
+}

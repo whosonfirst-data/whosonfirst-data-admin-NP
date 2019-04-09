@@ -1,0 +1,64 @@
+{
+  "id": 1209663505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.36195,26.81667,86.36195,26.81667",
+    "geom:latitude":26.81667,
+    "geom:longitude":86.36195,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"16",
+    "gn:admin4_code":"160064",
+    "gn:asciiname":"Turkiya",
+    "gn:country_code":"NP",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7996138,
+    "gn:latitude":26.81667,
+    "gn:longitude":86.36195,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Turkiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7996138
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"130e9ad2ef6090f5e54f7a97a88a8e44",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209663505
+        }
+    ],
+    "wof:id":1209663505,
+    "wof:lastmodified":1536280176,
+    "wof:name":"Turkiya",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.36195,
+    26.81667,
+    86.36195,
+    26.81667
+],
+  "geometry": {"coordinates":[86.36194999999999,26.81667],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1243181939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.77682,27.31022,84.77682,27.31022",
+    "geom:latitude":27.31022,
+    "geom:longitude":84.77682,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bhata",
+    "gn:country_code":"NP",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283610,
+    "gn:latitude":27.31022,
+    "gn:longitude":84.77682,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Bh\u0101\u1e6d\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Bh\u0101\u1e6d\u0101"
+    ],
+    "name:und_x_variant":[
+        "Bh\u0101ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092050453,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283610
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"27f8a65beacadffef4078293ede51f50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050453,
+            "locality_id":1243181939,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050453,
+            "locality_id":1243181939,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1243181939,
+    "wof:lastmodified":1537676061,
+    "wof:name":"Bhata",
+    "wof:parent_id":1092050453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.77682,
+    27.31022,
+    84.77682,
+    27.31022
+],
+  "geometry": {"coordinates":[84.77682,27.31022],"type":"Point"}
+}

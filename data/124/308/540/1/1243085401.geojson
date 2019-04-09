@@ -1,0 +1,75 @@
+{
+  "id": 1243085401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.37309,27.60075,85.37309,27.60075",
+    "geom:latitude":27.60075,
+    "geom:longitude":85.37309,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dhad",
+    "gn:country_code":"NP",
+    "gn:dem":1459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10676003,
+    "gn:latitude":27.60075,
+    "gn:longitude":85.37309,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"\u1e0ch\u0101\u0303\u1e0d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048971,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10676003
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6efe1b9e84c25921ad7f86451030c162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048971,
+            "locality_id":1243085401,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048971,
+            "locality_id":1243085401,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1243085401,
+    "wof:lastmodified":1536827997,
+    "wof:name":"Dhad",
+    "wof:parent_id":1092048971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.37309,
+    27.60075,
+    85.37309,
+    27.60075
+],
+  "geometry": {"coordinates":[85.37309,27.60075],"type":"Point"}
+}

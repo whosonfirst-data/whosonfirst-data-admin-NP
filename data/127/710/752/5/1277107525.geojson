@@ -1,0 +1,78 @@
+{
+  "id": 1277107525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.08353,28.98019,83.08353,28.98019",
+    "geom:latitude":28.98019,
+    "geom:longitude":83.08353,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"62.0",
+    "gn:admin4_code":"620008.0",
+    "gn:asciiname":"Thanjam",
+    "gn:country_code":"NP",
+    "gn:dem":3934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7945488,
+    "gn:latitude":28.98019,
+    "gn:longitude":83.08353,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thanjam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050349,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7945488
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8275dd38bd34f6d6c260d037fcc8d94a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1277107525,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1277107525,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1277107525,
+    "wof:lastmodified":1536732194,
+    "wof:name":"Thanjam",
+    "wof:parent_id":1092050349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.08353000000002,
+    28.98019,
+    83.08353000000002,
+    28.98019
+],
+  "geometry": {"coordinates":[83.08353000000002,28.98019],"type":"Point"}
+}

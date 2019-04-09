@@ -1,0 +1,78 @@
+{
+  "id": 1293931915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.00283,28.13195,85.00283,28.13195",
+    "geom:latitude":28.13195,
+    "geom:longitude":85.00283,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300038.0",
+    "gn:asciiname":"Karang",
+    "gn:country_code":"NP",
+    "gn:dem":1674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7942298,
+    "gn:latitude":28.13195,
+    "gn:longitude":85.00283,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Karang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7942298
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ee7ecc927f5d0ede6a8dcfb9aaf44b35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1293931915,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1293931915,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1293931915,
+    "wof:lastmodified":1536642962,
+    "wof:name":"Karang",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.00283,
+    28.13195,
+    85.00283,
+    28.13195
+],
+  "geometry": {"coordinates":[85.00283,28.13195],"type":"Point"}
+}

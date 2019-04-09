@@ -1,0 +1,64 @@
+{
+  "id": 1209256787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.95292,27.26359,85.95292,27.26359",
+    "geom:latitude":27.26359,
+    "geom:longitude":85.95292,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200008",
+    "gn:asciiname":"Siundheni",
+    "gn:country_code":"NP",
+    "gn:dem":943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7992531,
+    "gn:latitude":27.26359,
+    "gn:longitude":85.95292,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Siundheni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7992531
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0f18a31e9f79344e7363335697ec4829",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209256787
+        }
+    ],
+    "wof:id":1209256787,
+    "wof:lastmodified":1536292827,
+    "wof:name":"Siundheni",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.95291999999998,
+    27.26359,
+    85.95291999999998,
+    27.26359
+],
+  "geometry": {"coordinates":[85.95291999999998,27.26359],"type":"Point"}
+}

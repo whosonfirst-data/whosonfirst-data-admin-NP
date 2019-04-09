@@ -1,0 +1,78 @@
+{
+  "id": 1326677925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.41111,28.15712,83.41111,28.15712",
+    "geom:latitude":28.15712,
+    "geom:longitude":83.41111,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450055.0",
+    "gn:asciiname":"Panchauli",
+    "gn:country_code":"NP",
+    "gn:dem":2077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7964170,
+    "gn:latitude":28.15712,
+    "gn:longitude":83.41111,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Panchauli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7964170
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f54316362eeb136d33dbd945dd05aa66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1326677925,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1326677925,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1326677925,
+    "wof:lastmodified":1536774785,
+    "wof:name":"Panchauli",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.41111,
+    28.15712000000001,
+    83.41111,
+    28.15712000000001
+],
+  "geometry": {"coordinates":[83.41110999999999,28.15712000000001],"type":"Point"}
+}

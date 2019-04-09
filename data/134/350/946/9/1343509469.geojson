@@ -1,0 +1,78 @@
+{
+  "id": 1343509469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.56881,28.21352,85.56881,28.21352",
+    "geom:latitude":28.21352,
+    "geom:longitude":85.56881,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"29",
+    "gn:admin4_code":"290011",
+    "gn:asciiname":"Kyangjing Gumba",
+    "gn:country_code":"NP",
+    "gn:dem":3955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7982211,
+    "gn:latitude":28.21352,
+    "gn:longitude":85.56881,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kyangjing Gumba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048409,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7982211
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b1f4e6e1369f64c4eaa4b31b71da0b00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048409,
+            "locality_id":1343509469,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048409,
+            "locality_id":1343509469,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1343509469,
+    "wof:lastmodified":1536675573,
+    "wof:name":"Kyangjing Gumba",
+    "wof:parent_id":1092048409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.56881,
+    28.21352000000001,
+    85.56881,
+    28.21352000000001
+],
+  "geometry": {"coordinates":[85.56881,28.21352000000001],"type":"Point"}
+}

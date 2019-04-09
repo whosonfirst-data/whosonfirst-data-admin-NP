@@ -1,0 +1,78 @@
+{
+  "id": 1310347029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.73007,28.00056,83.73007,28.00056",
+    "geom:latitude":28.00056,
+    "geom:longitude":83.73007,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390057.0",
+    "gn:asciiname":"Khaniyadanda",
+    "gn:country_code":"NP",
+    "gn:dem":1016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002370,
+    "gn:latitude":28.00056,
+    "gn:longitude":83.73007,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khaniyadanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002370
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d7e86d1d424065217b532938f6d7ed3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1310347029,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1310347029,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1310347029,
+    "wof:lastmodified":1536647710,
+    "wof:name":"Khaniyadanda",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.73007,
+    28.00056,
+    83.73007,
+    28.00056
+],
+  "geometry": {"coordinates":[83.73007,28.00056],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1242591989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.20733,27.7228,86.20733,27.7228",
+    "geom:latitude":27.7228,
+    "geom:longitude":86.20733,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Jhyanmarin",
+    "gn:country_code":"NP",
+    "gn:dem":1955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10321849,
+    "gn:latitude":27.7228,
+    "gn:longitude":86.20733,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Jhy\u0101\u1e45m\u0101ri\u1e45",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675579,
+        1092050535,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10321849
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"13f3b9019247cc3860f01780734f85d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1242591989,
+            "region_id":85675579
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1242591989,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1242591989,
+    "wof:lastmodified":1537041092,
+    "wof:name":"Jhyanmarin",
+    "wof:parent_id":1092050535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.20733,
+    27.7228,
+    86.20733,
+    27.7228
+],
+  "geometry": {"coordinates":[86.20733,27.7228],"type":"Point"}
+}

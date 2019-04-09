@@ -1,0 +1,78 @@
+{
+  "id": 1226483849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.54265,28.12995,84.54265,28.12995",
+    "geom:latitude":28.12995,
+    "geom:longitude":84.54265,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370008",
+    "gn:asciiname":"Kaprechaur",
+    "gn:country_code":"NP",
+    "gn:dem":1182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7966017,
+    "gn:latitude":28.12995,
+    "gn:longitude":84.54265,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kaprechaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050009,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7966017
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b3259277fe20ce0283d3d28ae2ef6431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1226483849,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1226483849,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1226483849,
+    "wof:lastmodified":1537083997,
+    "wof:name":"Kaprechaur",
+    "wof:parent_id":1092050009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.54265,
+    28.12995,
+    84.54265,
+    28.12995
+],
+  "geometry": {"coordinates":[84.54264999999999,28.12995],"type":"Point"}
+}

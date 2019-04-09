@@ -1,0 +1,78 @@
+{
+  "id": 1260012379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.75387,28.01955,81.75387,28.01955",
+    "geom:latitude":28.01955,
+    "geom:longitude":81.75387,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"570034.0",
+    "gn:asciiname":"Bisambharpur",
+    "gn:country_code":"NP",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008419,
+    "gn:latitude":28.01955,
+    "gn:longitude":81.75387,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bisambharpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092050297,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008419
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d347ff003c9edf98caa02976230aa189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1260012379,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1260012379,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1260012379,
+    "wof:lastmodified":1537087175,
+    "wof:name":"Bisambharpur",
+    "wof:parent_id":1092050297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.75386999999998,
+    28.01955,
+    81.75386999999998,
+    28.01955
+],
+  "geometry": {"coordinates":[81.75386999999998,28.01955],"type":"Point"}
+}

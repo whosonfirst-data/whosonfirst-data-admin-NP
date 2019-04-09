@@ -1,0 +1,78 @@
+{
+  "id": 1310147699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.62895,27.31769,87.62895,27.31769",
+    "geom:latitude":27.31769,
+    "geom:longitude":87.62895,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10010.0",
+    "gn:asciiname":"Simbu",
+    "gn:country_code":"NP",
+    "gn:dem":1270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005122,
+    "gn:latitude":27.31769,
+    "gn:longitude":87.62895,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Simbu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005122
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"eefa12134253abbbb2353ee19f93cf51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1310147699,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1310147699,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1310147699,
+    "wof:lastmodified":1536936464,
+    "wof:name":"Simbu",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.62895,
+    27.31769,
+    87.62895,
+    27.31769
+],
+  "geometry": {"coordinates":[87.62895,27.31769],"type":"Point"}
+}

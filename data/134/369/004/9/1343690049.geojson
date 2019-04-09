@@ -1,0 +1,78 @@
+{
+  "id": 1343690049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.85775,29.49554,80.85775,29.49554",
+    "geom:latitude":29.49554,
+    "geom:longitude":80.85775,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"68.0",
+    "gn:admin4_code":"680045.0",
+    "gn:asciiname":"Raikosi",
+    "gn:country_code":"NP",
+    "gn:dem":1677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7998547,
+    "gn:latitude":29.49554,
+    "gn:longitude":80.85775,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Raikosi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048571,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7998547
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2aaca6f82221621250decd51d8a48764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1343690049,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1343690049,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1343690049,
+    "wof:lastmodified":1536912949,
+    "wof:name":"Raikosi",
+    "wof:parent_id":1092048571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.85775,
+    29.49554,
+    80.85775,
+    29.49554
+],
+  "geometry": {"coordinates":[80.85775,29.49554],"type":"Point"}
+}

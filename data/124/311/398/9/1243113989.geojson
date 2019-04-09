@@ -1,0 +1,78 @@
+{
+  "id": 1243113989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.61766,27.06104,87.61766,27.06104",
+    "geom:latitude":27.06104,
+    "geom:longitude":87.61766,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"2",
+    "gn:admin4_code":"20038",
+    "gn:asciiname":"Dumsi Pokhari",
+    "gn:country_code":"NP",
+    "gn:dem":1569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7978102,
+    "gn:latitude":27.06104,
+    "gn:longitude":87.61766,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dumsi Pokhari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7978102
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"364e8e8ffed5aef01eb4f4e26f65c056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1243113989,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1243113989,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1243113989,
+    "wof:lastmodified":1536788293,
+    "wof:name":"Dumsi Pokhari",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.61766,
+    27.06104,
+    87.61766,
+    27.06104
+],
+  "geometry": {"coordinates":[87.61766,27.06104],"type":"Point"}
+}

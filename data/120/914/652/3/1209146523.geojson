@@ -1,0 +1,64 @@
+{
+  "id": 1209146523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.73129,28.1926,83.73129,28.1926",
+    "geom:latitude":28.1926,
+    "geom:longitude":83.73129,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"44",
+    "gn:admin4_code":"440052",
+    "gn:asciiname":"Malyandi",
+    "gn:country_code":"NP",
+    "gn:dem":1264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7979095,
+    "gn:latitude":28.1926,
+    "gn:longitude":83.73129,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Malyandi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7979095
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5d5d5f8b31c3226ac275b9f9a8aeb743",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209146523
+        }
+    ],
+    "wof:id":1209146523,
+    "wof:lastmodified":1536296336,
+    "wof:name":"Malyandi",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.73129,
+    28.1926,
+    83.73129,
+    28.1926
+],
+  "geometry": {"coordinates":[83.73129,28.1926],"type":"Point"}
+}

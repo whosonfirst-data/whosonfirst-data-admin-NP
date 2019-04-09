@@ -1,0 +1,64 @@
+{
+  "id": 1209362857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.01506,26.66572,88.01506,26.66572",
+    "geom:latitude":26.66572,
+    "geom:longitude":88.01506,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40043.0",
+    "gn:asciiname":"Salbari",
+    "gn:country_code":"NP",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7955217,
+    "gn:latitude":26.66572,
+    "gn:longitude":88.01506,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Salbari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7955217
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fcd6d26dd237cb1e96f4fd59d61e869e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209362857
+        }
+    ],
+    "wof:id":1209362857,
+    "wof:lastmodified":1536289367,
+    "wof:name":"Salbari",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.01505999999998,
+    26.66572,
+    88.01505999999998,
+    26.66572
+],
+  "geometry": {"coordinates":[88.01505999999998,26.66572],"type":"Point"}
+}

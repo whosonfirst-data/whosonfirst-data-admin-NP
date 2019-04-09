@@ -1,0 +1,78 @@
+{
+  "id": 1310232985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.44708,29.08564,82.44708,29.08564",
+    "geom:latitude":29.08564,
+    "geom:longitude":82.44708,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"62.0",
+    "gn:admin4_code":"620020.0",
+    "gn:asciiname":"Ghattekholagaun",
+    "gn:country_code":"NP",
+    "gn:dem":2558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7945735,
+    "gn:latitude":29.08564,
+    "gn:longitude":82.44708,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ghattekholagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050349,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7945735
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e3836a8218333376df354b4a20288fea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1310232985,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1310232985,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1310232985,
+    "wof:lastmodified":1536812142,
+    "wof:name":"Ghattekholagaun",
+    "wof:parent_id":1092050349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.44708,
+    29.08564,
+    82.44708,
+    29.08564
+],
+  "geometry": {"coordinates":[82.44708,29.08564],"type":"Point"}
+}

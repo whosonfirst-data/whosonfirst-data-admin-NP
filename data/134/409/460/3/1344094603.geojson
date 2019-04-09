@@ -1,0 +1,78 @@
+{
+  "id": 1344094603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.35557,27.90865,85.35557,27.90865",
+    "geom:latitude":27.90865,
+    "geom:longitude":85.35557,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"28",
+    "gn:admin4_code":"280060",
+    "gn:asciiname":"Lamatol",
+    "gn:country_code":"NP",
+    "gn:dem":1303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7974889,
+    "gn:latitude":27.90865,
+    "gn:longitude":85.35557,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lamatol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7974889
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fbc9a96ac8c535f53315bea115389372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1344094603,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1344094603,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1344094603,
+    "wof:lastmodified":1536825341,
+    "wof:name":"Lamatol",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.35557,
+    27.90865,
+    85.35557,
+    27.90865
+],
+  "geometry": {"coordinates":[85.35557,27.90865],"type":"Point"}
+}

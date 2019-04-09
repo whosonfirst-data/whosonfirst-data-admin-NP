@@ -1,0 +1,78 @@
+{
+  "id": 1276913021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.04514,26.6007,88.04514,26.6007",
+    "geom:latitude":26.6007,
+    "geom:longitude":88.04514,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40017.0",
+    "gn:asciiname":"Baraghare",
+    "gn:country_code":"NP",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7954369,
+    "gn:latitude":26.6007,
+    "gn:longitude":88.04514,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Baraghare",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7954369
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"efcbba0459db54651f931a8d49144919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1276913021,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1276913021,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1276913021,
+    "wof:lastmodified":1536995910,
+    "wof:name":"Baraghare",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.04514,
+    26.6007,
+    88.04514,
+    26.6007
+],
+  "geometry": {"coordinates":[88.04514,26.6007],"type":"Point"}
+}

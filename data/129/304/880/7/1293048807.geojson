@@ -1,0 +1,78 @@
+{
+  "id": 1293048807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.72342,27.65479,83.72342,27.65479",
+    "geom:latitude":27.65479,
+    "geom:longitude":83.72342,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"48",
+    "gn:admin4_code":"480018",
+    "gn:asciiname":"Behawariya",
+    "gn:country_code":"NP",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7972894,
+    "gn:latitude":27.65479,
+    "gn:longitude":83.72342,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Behawariya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050413,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7972894
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ba6cb29f63b98bcb8c71b4d3691af677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050413,
+            "locality_id":1293048807,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050413,
+            "locality_id":1293048807,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293048807,
+    "wof:lastmodified":1536923353,
+    "wof:name":"Behawariya",
+    "wof:parent_id":1092050413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.72341999999998,
+    27.65479,
+    83.72341999999998,
+    27.65479
+],
+  "geometry": {"coordinates":[83.72341999999998,27.65479],"type":"Point"}
+}

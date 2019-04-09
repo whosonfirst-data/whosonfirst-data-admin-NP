@@ -1,0 +1,78 @@
+{
+  "id": 1360117637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.40572,29.3908,80.40572,29.3908",
+    "geom:latitude":29.3908,
+    "geom:longitude":80.40572,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740007",
+    "gn:asciiname":"Jamadi",
+    "gn:country_code":"NP",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7968067,
+    "gn:latitude":29.3908,
+    "gn:longitude":80.40572,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jamadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050255,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7968067
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"94f3d8e6e1eda34bc88e782f0ef0a9cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1360117637,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1360117637,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1360117637,
+    "wof:lastmodified":1536898709,
+    "wof:name":"Jamadi",
+    "wof:parent_id":1092050255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.40572,
+    29.3908,
+    80.40572,
+    29.3908
+],
+  "geometry": {"coordinates":[80.40572,29.3908],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1243211687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.50785,28.13314,83.50785,28.13314",
+    "geom:latitude":28.13314,
+    "geom:longitude":83.50785,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450029.0",
+    "gn:asciiname":"Baren Bajar",
+    "gn:country_code":"NP",
+    "gn:dem":1699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7957410,
+    "gn:latitude":28.13314,
+    "gn:longitude":83.50785,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Baren Bajar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7957410
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b65815573d0a17d57dccf9bfed4ccbb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1243211687,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1243211687,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1243211687,
+    "wof:lastmodified":1536646543,
+    "wof:name":"Baren Bajar",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.50785,
+    28.13314,
+    83.50785,
+    28.13314
+],
+  "geometry": {"coordinates":[83.50785,28.13314],"type":"Point"}
+}

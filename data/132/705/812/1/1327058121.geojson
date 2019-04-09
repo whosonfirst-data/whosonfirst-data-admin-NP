@@ -1,0 +1,78 @@
+{
+  "id": 1327058121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.62534,28.02999,82.62534,28.02999",
+    "geom:latitude":28.02999,
+    "geom:longitude":82.62534,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"560017.0",
+    "gn:asciiname":"Bai",
+    "gn:country_code":"NP",
+    "gn:dem":1264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7938940,
+    "gn:latitude":28.02999,
+    "gn:longitude":82.62534,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048605,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7938940
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3de5c64719608ac5f0946c4e6b473f6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1327058121,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1327058121,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1327058121,
+    "wof:lastmodified":1536723765,
+    "wof:name":"Bai",
+    "wof:parent_id":1092048605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.62534000000002,
+    28.02999,
+    82.62534000000002,
+    28.02999
+],
+  "geometry": {"coordinates":[82.62534000000002,28.02999],"type":"Point"}
+}

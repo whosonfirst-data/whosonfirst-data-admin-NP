@@ -1,0 +1,78 @@
+{
+  "id": 1259816307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.85729,28.46467,82.85729,28.46467",
+    "geom:latitude":28.46467,
+    "geom:longitude":82.85729,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530048",
+    "gn:asciiname":"Srajakharka",
+    "gn:country_code":"NP",
+    "gn:dem":2856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7984757,
+    "gn:latitude":28.46467,
+    "gn:longitude":82.85729,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Srajakharka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7984757
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0f3fbda5c6a916f0d67d20999d3d7eb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1259816307,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1259816307,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1259816307,
+    "wof:lastmodified":1536875104,
+    "wof:name":"Srajakharka",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.85729,
+    28.46467,
+    82.85729,
+    28.46467
+],
+  "geometry": {"coordinates":[82.85729000000001,28.46467],"type":"Point"}
+}

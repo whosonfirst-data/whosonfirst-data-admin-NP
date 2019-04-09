@@ -1,0 +1,78 @@
+{
+  "id": 1327258319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.58801,28.25696,82.58801,28.25696",
+    "geom:latitude":28.25696,
+    "geom:longitude":82.58801,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530021",
+    "gn:asciiname":"Chhap",
+    "gn:country_code":"NP",
+    "gn:dem":1149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7983656,
+    "gn:latitude":28.25696,
+    "gn:longitude":82.58801,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chhap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7983656
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1529d93f64283d619f578f10abd560ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1327258319,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1327258319,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1327258319,
+    "wof:lastmodified":1536933058,
+    "wof:name":"Chhap",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.58801,
+    28.25696,
+    82.58801,
+    28.25696
+],
+  "geometry": {"coordinates":[82.58801,28.25696],"type":"Point"}
+}

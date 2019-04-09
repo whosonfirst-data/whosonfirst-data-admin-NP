@@ -1,0 +1,78 @@
+{
+  "id": 1259621057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.434,28.07716,83.434,28.07716",
+    "geom:latitude":28.07716,
+    "geom:longitude":83.434,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"46.0",
+    "gn:admin4_code":"460016.0",
+    "gn:asciiname":"Dabhungaun",
+    "gn:country_code":"NP",
+    "gn:dem":1750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7949915,
+    "gn:latitude":28.07716,
+    "gn:longitude":83.434,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dabhungaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050755,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7949915
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c4788d469050f413b085b0f9138f2c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1259621057,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1259621057,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1259621057,
+    "wof:lastmodified":1536660518,
+    "wof:name":"Dabhungaun",
+    "wof:parent_id":1092050755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.434,
+    28.07716,
+    83.434,
+    28.07716
+],
+  "geometry": {"coordinates":[83.434,28.07716],"type":"Point"}
+}

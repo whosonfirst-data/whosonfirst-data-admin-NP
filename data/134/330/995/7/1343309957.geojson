@@ -1,0 +1,78 @@
+{
+  "id": 1343309957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.91428,27.57532,82.91428,27.57532",
+    "geom:latitude":27.57532,
+    "geom:longitude":82.91428,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"50.0",
+    "gn:admin4_code":"500077.0",
+    "gn:asciiname":"Banjanriya",
+    "gn:country_code":"NP",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7960168,
+    "gn:latitude":27.57532,
+    "gn:longitude":82.91428,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Banjanriya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048259,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7960168
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"35f5ec79094c3f7fae47088373da051a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1343309957,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1343309957,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1343309957,
+    "wof:lastmodified":1536963398,
+    "wof:name":"Banjanriya",
+    "wof:parent_id":1092048259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.91428,
+    27.57532,
+    82.91428,
+    27.57532
+],
+  "geometry": {"coordinates":[82.91428000000001,27.57532],"type":"Point"}
+}

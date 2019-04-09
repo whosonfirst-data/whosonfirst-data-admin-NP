@@ -1,0 +1,78 @@
+{
+  "id": 1209763995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.59162,27.35391,85.59162,27.35391",
+    "geom:latitude":27.35391,
+    "geom:longitude":85.59162,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240031.0",
+    "gn:asciiname":"Jogithumka",
+    "gn:country_code":"NP",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7963021,
+    "gn:latitude":27.35391,
+    "gn:longitude":85.59162,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jogithumka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7963021
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0b4765c2112dd4a9c7746e9891602e56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1209763995,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1209763995,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1209763995,
+    "wof:lastmodified":1536387275,
+    "wof:name":"Jogithumka",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.59161999999998,
+    27.35391,
+    85.59161999999998,
+    27.35391
+],
+  "geometry": {"coordinates":[85.59161999999998,27.35391],"type":"Point"}
+}

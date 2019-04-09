@@ -1,0 +1,78 @@
+{
+  "id": 1242911257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.20947,27.40111,87.20947,27.40111",
+    "geom:latitude":27.40111,
+    "geom:longitude":87.20947,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"9",
+    "gn:admin4_code":"90013",
+    "gn:asciiname":"Guwabari",
+    "gn:country_code":"NP",
+    "gn:dem":892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7990114,
+    "gn:latitude":27.40111,
+    "gn:longitude":87.20947,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Guwabari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049597,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7990114
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ab5e6ce3b393b3fc61d428edb6a62e57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1242911257,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1242911257,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1242911257,
+    "wof:lastmodified":1537076950,
+    "wof:name":"Guwabari",
+    "wof:parent_id":1092049597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.20947,
+    27.40111,
+    87.20947,
+    27.40111
+],
+  "geometry": {"coordinates":[87.20947,27.40111],"type":"Point"}
+}

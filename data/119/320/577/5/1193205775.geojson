@@ -1,0 +1,78 @@
+{
+  "id": 1193205775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.18386,27.98923,84.18386,27.98923",
+    "geom:latitude":27.98923,
+    "geom:longitude":84.18386,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380024.0",
+    "gn:asciiname":"Chaptar",
+    "gn:country_code":"NP",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003674,
+    "gn:latitude":27.98923,
+    "gn:longitude":84.18386,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chaptar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003674
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"756e004b579c17008defd930915d5bc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1193205775,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1193205775,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1193205775,
+    "wof:lastmodified":1536367784,
+    "wof:name":"Chaptar",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.18386,
+    27.98923,
+    84.18386,
+    27.98923
+],
+  "geometry": {"coordinates":[84.18386,27.98923],"type":"Point"}
+}

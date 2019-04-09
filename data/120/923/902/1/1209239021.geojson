@@ -1,0 +1,64 @@
+{
+  "id": 1209239021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.08629,29.23842,81.08629,29.23842",
+    "geom:latitude":29.23842,
+    "geom:longitude":81.08629,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"70.0",
+    "gn:admin4_code":"700018.0",
+    "gn:asciiname":"Gajado",
+    "gn:country_code":"NP",
+    "gn:dem":1949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7946622,
+    "gn:latitude":29.23842,
+    "gn:longitude":81.08629,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gajado",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7946622
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f7b8c75c619b53157956522af2743a92",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209239021
+        }
+    ],
+    "wof:id":1209239021,
+    "wof:lastmodified":1536293383,
+    "wof:name":"Gajado",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.08629,
+    29.23842,
+    81.08629,
+    29.23842
+],
+  "geometry": {"coordinates":[81.08629000000001,29.23842],"type":"Point"}
+}

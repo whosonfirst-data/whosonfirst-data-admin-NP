@@ -1,0 +1,78 @@
+{
+  "id": 1277015379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.23216,28.53597,82.23216,28.53597",
+    "geom:latitude":28.53597,
+    "geom:longitude":82.23216,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550001",
+    "gn:asciiname":"Painyakattekholagaun",
+    "gn:country_code":"NP",
+    "gn:dem":975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7987888,
+    "gn:latitude":28.53597,
+    "gn:longitude":82.23216,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Painyakattekholagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049579,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7987888
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b6e1104fb16d88fcfd48ef6aa47e5d25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1277015379,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1277015379,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1277015379,
+    "wof:lastmodified":1536858232,
+    "wof:name":"Painyakattekholagaun",
+    "wof:parent_id":1092049579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.23216,
+    28.53597,
+    82.23216,
+    28.53597
+],
+  "geometry": {"coordinates":[82.23215999999999,28.53597],"type":"Point"}
+}

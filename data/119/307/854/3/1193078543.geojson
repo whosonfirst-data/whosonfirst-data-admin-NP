@@ -1,0 +1,78 @@
+{
+  "id": 1193078543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.43926,28.36347,83.43926,28.36347",
+    "geom:latitude":28.36347,
+    "geom:longitude":83.43926,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"43",
+    "gn:admin4_code":"430005.0",
+    "gn:asciiname":"Rakhor",
+    "gn:country_code":"NP",
+    "gn:dem":1836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7972007,
+    "gn:latitude":28.36347,
+    "gn:longitude":83.43926,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Rakhor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675553,
+        1092049089,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7972007
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6503dde0d6b92a56fb6d1813e167399e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049089,
+            "locality_id":1193078543,
+            "region_id":85675553
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049089,
+            "locality_id":1193078543,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1193078543,
+    "wof:lastmodified":1536383180,
+    "wof:name":"Rakhor",
+    "wof:parent_id":1092049089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.43926,
+    28.36347,
+    83.43926,
+    28.36347
+],
+  "geometry": {"coordinates":[83.43926,28.36347],"type":"Point"}
+}

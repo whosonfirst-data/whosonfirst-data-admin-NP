@@ -1,0 +1,78 @@
+{
+  "id": 1242619491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.91691,27.58098,84.91691,27.58098",
+    "geom:latitude":27.58098,
+    "geom:longitude":84.91691,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310007",
+    "gn:asciiname":"Nakchheda",
+    "gn:country_code":"NP",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7967936,
+    "gn:latitude":27.58098,
+    "gn:longitude":84.91691,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nakchheda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7967936
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7e51a1448ebbcbc6cb804c27c2830f50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1242619491,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1242619491,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1242619491,
+    "wof:lastmodified":1537002652,
+    "wof:name":"Nakchheda",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.91691,
+    27.58098,
+    84.91691,
+    27.58098
+],
+  "geometry": {"coordinates":[84.91691,27.58098],"type":"Point"}
+}

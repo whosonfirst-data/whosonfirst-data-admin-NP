@@ -1,0 +1,64 @@
+{
+  "id": 1209054719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.35432,27.02789,87.35432,27.02789",
+    "geom:latitude":27.02789,
+    "geom:longitude":87.35432,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"7.0",
+    "gn:admin4_code":"70006.0",
+    "gn:asciiname":"Tamanggaun",
+    "gn:country_code":"NP",
+    "gn:dem":1586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7942733,
+    "gn:latitude":27.02789,
+    "gn:longitude":87.35432,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tamanggaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7942733
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c11d9a7004d60beadba52fa62d07fb77",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209054719
+        }
+    ],
+    "wof:id":1209054719,
+    "wof:lastmodified":1536299143,
+    "wof:name":"Tamanggaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.35432,
+    27.027890000000006,
+    87.35432,
+    27.027890000000006
+],
+  "geometry": {"coordinates":[87.35432,27.02789000000001],"type":"Point"}
+}

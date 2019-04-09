@@ -1,0 +1,78 @@
+{
+  "id": 1259827685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.621,26.96792,87.621,26.96792",
+    "geom:latitude":26.96792,
+    "geom:longitude":87.621,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"2",
+    "gn:admin4_code":"20024.0",
+    "gn:asciiname":"Tumbiya",
+    "gn:country_code":"NP",
+    "gn:dem":1750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7977667,
+    "gn:latitude":26.96792,
+    "gn:longitude":87.621,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tumbiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7977667
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ec890ee5ea63e12bde1269d9008672ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1259827685,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1259827685,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1259827685,
+    "wof:lastmodified":1536858378,
+    "wof:name":"Tumbiya",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.62100000000002,
+    26.96792,
+    87.62100000000002,
+    26.96792
+],
+  "geometry": {"coordinates":[87.62100000000002,26.96792],"type":"Point"}
+}

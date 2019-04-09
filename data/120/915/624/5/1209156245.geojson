@@ -1,0 +1,64 @@
+{
+  "id": 1209156245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.61709,28.40097,83.61709,28.40097",
+    "geom:latitude":28.40097,
+    "geom:longitude":83.61709,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"43",
+    "gn:admin4_code":"430034",
+    "gn:asciiname":"Kaphaldanda",
+    "gn:country_code":"NP",
+    "gn:dem":2013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7972528,
+    "gn:latitude":28.40097,
+    "gn:longitude":83.61709,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kaphaldanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7972528
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b894028791ed20235f444f157aaf7ac1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209156245
+        }
+    ],
+    "wof:id":1209156245,
+    "wof:lastmodified":1536296046,
+    "wof:name":"Kaphaldanda",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.61709,
+    28.40097,
+    83.61709,
+    28.40097
+],
+  "geometry": {"coordinates":[83.61709,28.40097],"type":"Point"}
+}

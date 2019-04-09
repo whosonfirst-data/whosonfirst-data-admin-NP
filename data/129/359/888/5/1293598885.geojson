@@ -1,0 +1,75 @@
+{
+  "id": 1293598885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.55742,29.01934,82.55742,29.01934",
+    "geom:latitude":29.01934,
+    "geom:longitude":82.55742,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lunh",
+    "gn:country_code":"NP",
+    "gn:dem":1999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283106,
+    "gn:latitude":29.01934,
+    "gn:longitude":82.55742,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"L\u016bnh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050349,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283106
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a4516e8e6c12fb4b3ee731376842d0e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1293598885,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1293598885,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1293598885,
+    "wof:lastmodified":1536624448,
+    "wof:name":"Lunh",
+    "wof:parent_id":1092050349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.55742,
+    29.01934,
+    82.55742,
+    29.01934
+],
+  "geometry": {"coordinates":[82.55741999999999,29.01934],"type":"Point"}
+}

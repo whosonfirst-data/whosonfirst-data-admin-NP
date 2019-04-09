@@ -1,0 +1,64 @@
+{
+  "id": 1209252525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.57242,27.25091,87.57242,27.25091",
+    "geom:latitude":27.25091,
+    "geom:longitude":87.57242,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"8.0",
+    "gn:admin4_code":"80024.0",
+    "gn:asciiname":"Targaun",
+    "gn:country_code":"NP",
+    "gn:dem":2016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8006245,
+    "gn:latitude":27.25091,
+    "gn:longitude":87.57242,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Targaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8006245
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"eb7c4e4ada61fc0b3676d39b1576648b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209252525
+        }
+    ],
+    "wof:id":1209252525,
+    "wof:lastmodified":1536292961,
+    "wof:name":"Targaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.57242,
+    27.25091,
+    87.57242,
+    27.25091
+],
+  "geometry": {"coordinates":[87.57241999999999,27.25091],"type":"Point"}
+}

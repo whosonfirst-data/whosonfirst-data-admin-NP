@@ -1,0 +1,78 @@
+{
+  "id": 1192966705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.23382,27.19183,86.23382,27.19183",
+    "geom:latitude":27.19183,
+    "geom:longitude":86.23382,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200049.0",
+    "gn:asciiname":"Khursani Bhanjyang",
+    "gn:country_code":"NP",
+    "gn:dem":1637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7994091,
+    "gn:latitude":27.19183,
+    "gn:longitude":86.23382,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khursani Bhanjyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049679,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7994091
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8b0934a066b95aae3179291e1ff55c15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1192966705,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1192966705,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1192966705,
+    "wof:lastmodified":1536382685,
+    "wof:name":"Khursani Bhanjyang",
+    "wof:parent_id":1092049679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.23382,
+    27.19183,
+    86.23382,
+    27.19183
+],
+  "geometry": {"coordinates":[86.23381999999999,27.19183],"type":"Point"}
+}

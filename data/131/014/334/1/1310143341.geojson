@@ -1,0 +1,78 @@
+{
+  "id": 1310143341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.10277,28.05535,84.10277,28.05535",
+    "geom:latitude":28.05535,
+    "geom:longitude":84.10277,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380027.0",
+    "gn:asciiname":"Sikhre",
+    "gn:country_code":"NP",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003873,
+    "gn:latitude":28.05535,
+    "gn:longitude":84.10277,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sikhre",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003873
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f35c764ef8e9bd0d6e6ea5d6be3c3b62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1310143341,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1310143341,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1310143341,
+    "wof:lastmodified":1536942441,
+    "wof:name":"Sikhre",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.10276999999998,
+    28.05535,
+    84.10276999999998,
+    28.05535
+],
+  "geometry": {"coordinates":[84.10276999999998,28.05535],"type":"Point"}
+}

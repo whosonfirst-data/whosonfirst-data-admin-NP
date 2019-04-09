@@ -1,0 +1,78 @@
+{
+  "id": 1326454789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.24878,28.02573,82.24878,28.02573",
+    "geom:latitude":28.02573,
+    "geom:longitude":82.24878,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"560026.0",
+    "gn:asciiname":"Ambapur",
+    "gn:country_code":"NP",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7939265,
+    "gn:latitude":28.02573,
+    "gn:longitude":82.24878,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ambapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048605,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7939265
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5c8c73adde0c5038c7fea60c3c4fa620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1326454789,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1326454789,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1326454789,
+    "wof:lastmodified":1537092438,
+    "wof:name":"Ambapur",
+    "wof:parent_id":1092048605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.24878000000002,
+    28.02573,
+    82.24878000000002,
+    28.02573
+],
+  "geometry": {"coordinates":[82.24878000000002,28.02573],"type":"Point"}
+}

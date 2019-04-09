@@ -1,0 +1,81 @@
+{
+  "id": 1343398543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.4643,27.88924,83.4643,27.88924",
+    "geom:latitude":27.88924,
+    "geom:longitude":83.4643,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8.0",
+    "gn:asciiname":"Palpa",
+    "gn:country_code":"NP",
+    "gn:dem":1154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282952,
+    "gn:latitude":27.88924,
+    "gn:longitude":83.4643,
+    "gn:modification_date":"2016-10-06",
+    "gn:name":"P\u0101lp\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tansen",
+        "P\u0101lp\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050889,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282952,
+        "wk:page":"Palpa_District"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0b4dc21c0086b5469d72f749f1e37c45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1343398543,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1343398543,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1343398543,
+    "wof:lastmodified":1537676045,
+    "wof:name":"Palpa",
+    "wof:parent_id":1092050889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.4643,
+    27.88924,
+    83.4643,
+    27.88924
+],
+  "geometry": {"coordinates":[83.46429999999999,27.88924],"type":"Point"}
+}

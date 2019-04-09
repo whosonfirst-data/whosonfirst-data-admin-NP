@@ -1,0 +1,64 @@
+{
+  "id": 1209563427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.88328,26.92765,85.88328,26.92765",
+    "geom:latitude":26.92765,
+    "geom:longitude":85.88328,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"18",
+    "gn:admin4_code":"180039",
+    "gn:asciiname":"Phulbaritol",
+    "gn:country_code":"NP",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7967462,
+    "gn:latitude":26.92765,
+    "gn:longitude":85.88328,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Phulbaritol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7967462
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"dda28cf3ee33f4bb0a54b137d6963c9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209563427
+        }
+    ],
+    "wof:id":1209563427,
+    "wof:lastmodified":1536283318,
+    "wof:name":"Phulbaritol",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.88328,
+    26.92765,
+    85.88328,
+    26.92765
+],
+  "geometry": {"coordinates":[85.88328,26.92765],"type":"Point"}
+}

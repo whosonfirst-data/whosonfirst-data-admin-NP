@@ -1,0 +1,64 @@
+{
+  "id": 1209152549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.93773,27.89136,84.93773,27.89136",
+    "geom:latitude":27.89136,
+    "geom:longitude":84.93773,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300035.0",
+    "gn:asciiname":"Hilekharka",
+    "gn:country_code":"NP",
+    "gn:dem":961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7942184,
+    "gn:latitude":27.89136,
+    "gn:longitude":84.93773,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Hilekharka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7942184
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"25679ab836a2acbd26880a8a2b7abaf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209152549
+        }
+    ],
+    "wof:id":1209152549,
+    "wof:lastmodified":1536296160,
+    "wof:name":"Hilekharka",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.93773,
+    27.89136,
+    84.93773,
+    27.89136
+],
+  "geometry": {"coordinates":[84.93773,27.89136],"type":"Point"}
+}

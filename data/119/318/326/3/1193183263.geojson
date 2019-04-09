@@ -1,0 +1,78 @@
+{
+  "id": 1193183263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.25403,26.8413,87.25403,26.8413",
+    "geom:latitude":26.8413,
+    "geom:longitude":87.25403,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"6.0",
+    "gn:admin4_code":"60013.0",
+    "gn:asciiname":"Machhamara Bhanjyang",
+    "gn:country_code":"NP",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7997617,
+    "gn:latitude":26.8413,
+    "gn:longitude":87.25403,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Machhamara Bhanjyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049923,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7997617
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5705a9e663a7b131e88574f42e24ab01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1193183263,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1193183263,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1193183263,
+    "wof:lastmodified":1536367764,
+    "wof:name":"Machhamara Bhanjyang",
+    "wof:parent_id":1092049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.25403,
+    26.8413,
+    87.25403,
+    26.8413
+],
+  "geometry": {"coordinates":[87.25403,26.8413],"type":"Point"}
+}

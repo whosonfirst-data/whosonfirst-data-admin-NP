@@ -1,0 +1,75 @@
+{
+  "id": 1309920091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.63016,27.38709,87.63016,27.38709",
+    "geom:latitude":27.38709,
+    "geom:longitude":87.63016,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Handrung",
+    "gn:country_code":"NP",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283355,
+    "gn:latitude":27.38709,
+    "gn:longitude":87.63016,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"H\u0101ndrung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283355
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cc382958e3ffcc24edeea6d108bb4839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1309920091,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1309920091,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1309920091,
+    "wof:lastmodified":1536766659,
+    "wof:name":"Handrung",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.63016,
+    27.38709,
+    87.63016,
+    27.38709
+],
+  "geometry": {"coordinates":[87.63016,27.38709],"type":"Point"}
+}

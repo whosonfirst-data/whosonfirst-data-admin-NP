@@ -1,0 +1,78 @@
+{
+  "id": 1327271863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.86363,28.08112,84.86363,28.08112",
+    "geom:latitude":28.08112,
+    "geom:longitude":84.86363,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300006.0",
+    "gn:asciiname":"Lokuwa",
+    "gn:country_code":"NP",
+    "gn:dem":1166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7941202,
+    "gn:latitude":28.08112,
+    "gn:longitude":84.86363,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lokuwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7941202
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f7979a76da48c3ae38551120c29060e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1327271863,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1327271863,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1327271863,
+    "wof:lastmodified":1536912998,
+    "wof:name":"Lokuwa",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.86363,
+    28.08112,
+    84.86363,
+    28.08112
+],
+  "geometry": {"coordinates":[84.86363,28.08112],"type":"Point"}
+}

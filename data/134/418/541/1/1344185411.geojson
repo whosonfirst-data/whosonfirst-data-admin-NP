@@ -1,0 +1,78 @@
+{
+  "id": 1344185411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.68303,29.68974,80.68303,29.68974",
+    "geom:latitude":29.68974,
+    "geom:longitude":80.68303,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740030",
+    "gn:asciiname":"Sotti",
+    "gn:country_code":"NP",
+    "gn:dem":910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7975181,
+    "gn:latitude":29.68974,
+    "gn:longitude":80.68303,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sotti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050255,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7975181
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4f11295d1da7e6d56f999082a3c6db41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1344185411,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1344185411,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1344185411,
+    "wof:lastmodified":1536695608,
+    "wof:name":"Sotti",
+    "wof:parent_id":1092050255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.68303,
+    29.68974,
+    80.68303,
+    29.68974
+],
+  "geometry": {"coordinates":[80.68303,29.68974],"type":"Point"}
+}

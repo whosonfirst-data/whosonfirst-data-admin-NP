@@ -1,0 +1,79 @@
+{
+  "id": 1276153741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.72325,28.01242,82.72325,28.01242",
+    "geom:latitude":28.01242,
+    "geom:longitude":82.72325,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"52",
+    "gn:admin4_code":"520032",
+    "gn:asciiname":"Markabang",
+    "gn:country_code":"NP",
+    "gn:dem":1225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7980533,
+    "gn:latitude":28.01242,
+    "gn:longitude":82.72325,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Markabang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049377,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7980533,
+        "wk:page":"Markabang"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"067068bb1b29cdf777dfa0a6ff5be8d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1276153741,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1276153741,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1276153741,
+    "wof:lastmodified":1537570153,
+    "wof:name":"Markabang",
+    "wof:parent_id":1092049377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.72325,
+    28.01242,
+    82.72325,
+    28.01242
+],
+  "geometry": {"coordinates":[82.72324999999999,28.01242],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1277107595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.52241,29.39778,80.52241,29.39778",
+    "geom:latitude":29.39778,
+    "geom:longitude":80.52241,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740027",
+    "gn:asciiname":"Chordaula",
+    "gn:country_code":"NP",
+    "gn:dem":1840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7974648,
+    "gn:latitude":29.39778,
+    "gn:longitude":80.52241,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chordaula",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050255,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7974648
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"64c184adc472027bc865ce67f5efd07b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1277107595,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1277107595,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1277107595,
+    "wof:lastmodified":1536732101,
+    "wof:name":"Chordaula",
+    "wof:parent_id":1092050255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.52241,
+    29.39778,
+    80.52241,
+    29.39778
+],
+  "geometry": {"coordinates":[80.52240999999999,29.39778],"type":"Point"}
+}

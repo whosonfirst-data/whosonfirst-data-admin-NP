@@ -1,0 +1,64 @@
+{
+  "id": 1209641623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.55613,29.21247,81.55613,29.21247",
+    "geom:latitude":29.21247,
+    "geom:longitude":81.55613,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"64.0",
+    "gn:admin4_code":"640026.0",
+    "gn:asciiname":"Kuripata",
+    "gn:country_code":"NP",
+    "gn:dem":2233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7958436,
+    "gn:latitude":29.21247,
+    "gn:longitude":81.55613,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kuripata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7958436
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7a9189dedadfdefdec6e0aee667c967e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209641623
+        }
+    ],
+    "wof:id":1209641623,
+    "wof:lastmodified":1536280868,
+    "wof:name":"Kuripata",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.55613000000002,
+    29.21247,
+    81.55613000000002,
+    29.21247
+],
+  "geometry": {"coordinates":[81.55613000000002,29.21247],"type":"Point"}
+}

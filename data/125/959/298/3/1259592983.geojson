@@ -1,0 +1,75 @@
+{
+  "id": 1259592983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.80925,27.47175,86.80925,27.47175",
+    "geom:latitude":27.47175,
+    "geom:longitude":86.80925,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Humwam",
+    "gn:country_code":"NP",
+    "gn:dem":1835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11209825,
+    "gn:latitude":27.47175,
+    "gn:longitude":86.80925,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Humw\u0101m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049841,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11209825
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1c1c96de5c7d0439ace4c03628b33bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1259592983,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1259592983,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1259592983,
+    "wof:lastmodified":1536701297,
+    "wof:name":"Humwam",
+    "wof:parent_id":1092049841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.80925,
+    27.47175,
+    86.80925,
+    27.47175
+],
+  "geometry": {"coordinates":[86.80925000000001,27.47175],"type":"Point"}
+}

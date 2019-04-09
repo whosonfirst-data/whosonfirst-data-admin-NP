@@ -1,0 +1,79 @@
+{
+  "id": 1293049173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.36235,27.05529,86.36235,27.05529",
+    "geom:latitude":27.05529,
+    "geom:longitude":86.36235,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5.0",
+    "gn:asciiname":"Nagdaha Khola",
+    "gn:country_code":"NP",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10330288,
+    "gn:latitude":27.05529,
+    "gn:longitude":86.36235,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"N\u0101gdaha Khol\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "N\u0101gdaha Khol\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050179,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10330288
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d13b4b6dcf8b9e18bc99af8b1f6ad2f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1293049173,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1293049173,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1293049173,
+    "wof:lastmodified":1537676103,
+    "wof:name":"Nagdaha Khola",
+    "wof:parent_id":1092050179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.36235,
+    27.05529000000001,
+    86.36235,
+    27.05529000000001
+],
+  "geometry": {"coordinates":[86.36235000000001,27.05529000000001],"type":"Point"}
+}

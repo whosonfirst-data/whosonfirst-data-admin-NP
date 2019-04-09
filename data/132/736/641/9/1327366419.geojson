@@ -1,0 +1,78 @@
+{
+  "id": 1327366419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.93745,28.03109,82.93745,28.03109",
+    "geom:latitude":28.03109,
+    "geom:longitude":82.93745,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"52",
+    "gn:admin4_code":"520010",
+    "gn:asciiname":"Syani Tham",
+    "gn:country_code":"NP",
+    "gn:dem":906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7979908,
+    "gn:latitude":28.03109,
+    "gn:longitude":82.93745,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Syani Tham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049377,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7979908
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2a5504a21b767bc78c32042a8db1b1b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1327366419,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1327366419,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1327366419,
+    "wof:lastmodified":1536776749,
+    "wof:name":"Syani Tham",
+    "wof:parent_id":1092049377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.93745,
+    28.03109000000001,
+    82.93745,
+    28.03109000000001
+],
+  "geometry": {"coordinates":[82.93745,28.03109000000001],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293732083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.6932,27.39067,87.6932,27.39067",
+    "geom:latitude":27.39067,
+    "geom:longitude":87.6932,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10009.0",
+    "gn:asciiname":"Hangdewa",
+    "gn:country_code":"NP",
+    "gn:dem":1298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005116,
+    "gn:latitude":27.39067,
+    "gn:longitude":87.6932,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Hangdewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005116
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"98a41e203ace14267f92845f77d3d850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1293732083,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1293732083,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1293732083,
+    "wof:lastmodified":1536932407,
+    "wof:name":"Hangdewa",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.6932,
+    27.39067,
+    87.6932,
+    27.39067
+],
+  "geometry": {"coordinates":[87.6932,27.39067],"type":"Point"}
+}

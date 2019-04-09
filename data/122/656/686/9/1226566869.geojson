@@ -1,0 +1,78 @@
+{
+  "id": 1226566869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.65463,28.15292,81.65463,28.15292",
+    "geom:latitude":28.15292,
+    "geom:longitude":81.65463,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"570042.0",
+    "gn:asciiname":"Dhodpurwa",
+    "gn:country_code":"NP",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008509,
+    "gn:latitude":28.15292,
+    "gn:longitude":81.65463,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhodpurwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092050297,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008509
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cd9cf6238ed66eaec29e5353a71323b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1226566869,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1226566869,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1226566869,
+    "wof:lastmodified":1536967881,
+    "wof:name":"Dhodpurwa",
+    "wof:parent_id":1092050297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.65463000000003,
+    28.15292,
+    81.65463000000003,
+    28.15292
+],
+  "geometry": {"coordinates":[81.65463000000003,28.15292],"type":"Point"}
+}

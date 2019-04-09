@@ -1,0 +1,64 @@
+{
+  "id": 1209657377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.69321,27.31167,85.69321,27.31167",
+    "geom:latitude":27.31167,
+    "geom:longitude":85.69321,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200026",
+    "gn:asciiname":"Khalangadanda",
+    "gn:country_code":"NP",
+    "gn:dem":916,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7993329,
+    "gn:latitude":27.31167,
+    "gn:longitude":85.69321,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khalangadanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7993329
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3a1d75260b66ac82407f3b569fea9c88",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209657377
+        }
+    ],
+    "wof:id":1209657377,
+    "wof:lastmodified":1536280384,
+    "wof:name":"Khalangadanda",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.69321,
+    27.31167,
+    85.69321,
+    27.31167
+],
+  "geometry": {"coordinates":[85.69320999999999,27.31167],"type":"Point"}
+}

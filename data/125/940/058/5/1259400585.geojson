@@ -1,0 +1,79 @@
+{
+  "id": 1259400585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.03394,27.10061,85.03394,27.10061",
+    "geom:latitude":27.10061,
+    "geom:longitude":85.03394,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sakhui",
+    "gn:country_code":"NP",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10332219,
+    "gn:latitude":27.10061,
+    "gn:longitude":85.03394,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Sakhui\u0307\u0304",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sakhui\u0307\u0304",
+        "Sakhu\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092048051,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10332219
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"92ba4267b7ec75c3340dedf3f5a0d526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1259400585,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1259400585,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1259400585,
+    "wof:lastmodified":1537676105,
+    "wof:name":"Sakhui",
+    "wof:parent_id":1092048051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.03394,
+    27.10061,
+    85.03394,
+    27.10061
+],
+  "geometry": {"coordinates":[85.03394,27.10061],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1209954133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.89042,28.25401,83.89042,28.25401",
+    "geom:latitude":28.25401,
+    "geom:longitude":83.89042,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400018.0",
+    "gn:asciiname":"Chilimdanda",
+    "gn:country_code":"NP",
+    "gn:dem":1045,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7960761,
+    "gn:latitude":28.25401,
+    "gn:longitude":83.89042,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chilimdanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092049331,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7960761
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d0294748b1512a4621d9e415b1800ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1209954133,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1209954133,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1209954133,
+    "wof:lastmodified":1536380331,
+    "wof:name":"Chilimdanda",
+    "wof:parent_id":1092049331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.89041999999998,
+    28.25401,
+    83.89041999999998,
+    28.25401
+],
+  "geometry": {"coordinates":[83.89041999999998,28.25401],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209252809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.78822,27.32232,85.78822,27.32232",
+    "geom:latitude":27.32232,
+    "geom:longitude":85.78822,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200050",
+    "gn:asciiname":"Guranse",
+    "gn:country_code":"NP",
+    "gn:dem":997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7994134,
+    "gn:latitude":27.32232,
+    "gn:longitude":85.78822,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Guranse",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7994134
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"87b525eb4ca073e85979ee9aa733a38b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209252809
+        }
+    ],
+    "wof:id":1209252809,
+    "wof:lastmodified":1536292955,
+    "wof:name":"Guranse",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.78822,
+    27.32232,
+    85.78822,
+    27.32232
+],
+  "geometry": {"coordinates":[85.78822,27.32232],"type":"Point"}
+}

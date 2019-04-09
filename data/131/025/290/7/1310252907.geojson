@@ -1,0 +1,78 @@
+{
+  "id": 1310252907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.03997,26.98492,87.03997,26.98492",
+    "geom:latitude":26.98492,
+    "geom:longitude":87.03997,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100047.0",
+    "gn:asciiname":"Dyabu",
+    "gn:country_code":"NP",
+    "gn:dem":1256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933701,
+    "gn:latitude":26.98492,
+    "gn:longitude":87.03997,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dyabu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933701
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"38b2d3642b025ba1d6e722f34f77b279",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1310252907,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1310252907,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1310252907,
+    "wof:lastmodified":1536784361,
+    "wof:name":"Dyabu",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.03997,
+    26.98492,
+    87.03997,
+    26.98492
+],
+  "geometry": {"coordinates":[87.03997,26.98492],"type":"Point"}
+}

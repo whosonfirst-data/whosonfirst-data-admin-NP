@@ -1,0 +1,78 @@
+{
+  "id": 1193061713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.78994,27.87838,85.78994,27.87838",
+    "geom:latitude":27.87838,
+    "geom:longitude":85.78994,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"23",
+    "gn:admin4_code":"230053",
+    "gn:asciiname":"Wagunje",
+    "gn:country_code":"NP",
+    "gn:dem":2064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7995219,
+    "gn:latitude":27.87838,
+    "gn:longitude":85.78994,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Wagunje",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7995219
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5c9160a0aeb920b067dfa36a649287d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1193061713,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1193061713,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1193061713,
+    "wof:lastmodified":1536377176,
+    "wof:name":"Wagunje",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.78994,
+    27.87838,
+    85.78994,
+    27.87838
+],
+  "geometry": {"coordinates":[85.78994,27.87838],"type":"Point"}
+}

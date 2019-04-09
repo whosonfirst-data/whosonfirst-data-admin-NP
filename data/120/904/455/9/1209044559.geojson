@@ -1,0 +1,64 @@
+{
+  "id": 1209044559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.4926,27.65213,85.4926,27.65213",
+    "geom:latitude":27.65213,
+    "geom:longitude":85.4926,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1.0",
+    "gn:admin3_code":"26.0",
+    "gn:admin4_code":"260006.0",
+    "gn:asciiname":"Banjhaban",
+    "gn:country_code":"NP",
+    "gn:dem":1675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8010174,
+    "gn:latitude":27.65213,
+    "gn:longitude":85.4926,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Banjhaban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8010174
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"aeb65f29b91d8bd213f5ed09b50be803",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209044559
+        }
+    ],
+    "wof:id":1209044559,
+    "wof:lastmodified":1536299440,
+    "wof:name":"Banjhaban",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.4926,
+    27.65213,
+    85.4926,
+    27.65213
+],
+  "geometry": {"coordinates":[85.4926,27.65213],"type":"Point"}
+}

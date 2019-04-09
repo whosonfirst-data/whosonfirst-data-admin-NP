@@ -1,0 +1,64 @@
+{
+  "id": 1209356557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.9831,26.71058,87.9831,26.71058",
+    "geom:latitude":26.71058,
+    "geom:longitude":87.9831,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40002.0",
+    "gn:asciiname":"Sisne Madanpur",
+    "gn:country_code":"NP",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7953905,
+    "gn:latitude":26.71058,
+    "gn:longitude":87.9831,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sisne Madanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7953905
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f003aef71b8efcf9ba1e39df4b36676d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209356557
+        }
+    ],
+    "wof:id":1209356557,
+    "wof:lastmodified":1536289567,
+    "wof:name":"Sisne Madanpur",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.9831,
+    26.71058,
+    87.9831,
+    26.71058
+],
+  "geometry": {"coordinates":[87.98309999999999,26.71058],"type":"Point"}
+}

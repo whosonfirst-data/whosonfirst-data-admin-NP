@@ -1,0 +1,78 @@
+{
+  "id": 1276924007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.00371,27.97375,83.00371,27.97375",
+    "geom:latitude":27.97375,
+    "geom:longitude":83.00371,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"51.0",
+    "gn:admin4_code":"510027.0",
+    "gn:asciiname":"Baspani",
+    "gn:country_code":"NP",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7942810,
+    "gn:latitude":27.97375,
+    "gn:longitude":83.00371,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Baspani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092049537,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7942810
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"274e5139b566d5135f9c60c8b2391bcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049537,
+            "locality_id":1276924007,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049537,
+            "locality_id":1276924007,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1276924007,
+    "wof:lastmodified":1536981458,
+    "wof:name":"Baspani",
+    "wof:parent_id":1092049537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.00371,
+    27.97375,
+    83.00371,
+    27.97375
+],
+  "geometry": {"coordinates":[83.00371,27.97375],"type":"Point"}
+}

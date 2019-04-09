@@ -1,0 +1,64 @@
+{
+  "id": 1209656957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.77513,28.1974,83.77513,28.1974",
+    "geom:latitude":28.1974,
+    "geom:longitude":83.77513,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390061.0",
+    "gn:asciiname":"Saunetari",
+    "gn:country_code":"NP",
+    "gn:dem":1388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002510,
+    "gn:latitude":28.1974,
+    "gn:longitude":83.77513,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Saunetari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002510
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"684b8eff43e61e52a04bbe2f82495311",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209656957
+        }
+    ],
+    "wof:id":1209656957,
+    "wof:lastmodified":1536280394,
+    "wof:name":"Saunetari",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.77513,
+    28.1974,
+    83.77513,
+    28.1974
+],
+  "geometry": {"coordinates":[83.77513,28.1974],"type":"Point"}
+}

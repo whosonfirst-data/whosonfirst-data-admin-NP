@@ -1,0 +1,64 @@
+{
+  "id": 1209452711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.5005,27.10346,87.5005,27.10346",
+    "geom:latitude":27.10346,
+    "geom:longitude":87.5005,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"8.0",
+    "gn:admin4_code":"80028.0",
+    "gn:asciiname":"Bokredanda",
+    "gn:country_code":"NP",
+    "gn:dem":1049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8006344,
+    "gn:latitude":27.10346,
+    "gn:longitude":87.5005,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bokredanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8006344
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"01b1ce37f0bcd130003b254e8655cb6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209452711
+        }
+    ],
+    "wof:id":1209452711,
+    "wof:lastmodified":1536286626,
+    "wof:name":"Bokredanda",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.5005,
+    27.10346,
+    87.5005,
+    27.10346
+],
+  "geometry": {"coordinates":[87.5005,27.10346],"type":"Point"}
+}

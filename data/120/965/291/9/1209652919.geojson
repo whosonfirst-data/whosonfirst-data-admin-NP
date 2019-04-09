@@ -1,0 +1,64 @@
+{
+  "id": 1209652919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.1408,28.00967,84.1408,28.00967",
+    "geom:latitude":28.00967,
+    "geom:longitude":84.1408,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380033.0",
+    "gn:asciiname":"Chhabise",
+    "gn:country_code":"NP",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8004182,
+    "gn:latitude":28.00967,
+    "gn:longitude":84.1408,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chhabise",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8004182
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5fcda98bb9dc3a8e09b7bdd29d9ef0ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209652919
+        }
+    ],
+    "wof:id":1209652919,
+    "wof:lastmodified":1536280524,
+    "wof:name":"Chhabise",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.1408,
+    28.00967,
+    84.1408,
+    28.00967
+],
+  "geometry": {"coordinates":[84.1408,28.00967],"type":"Point"}
+}

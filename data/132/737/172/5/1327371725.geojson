@@ -1,0 +1,78 @@
+{
+  "id": 1327371725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.52109,27.64621,85.52109,27.64621",
+    "geom:latitude":27.64621,
+    "geom:longitude":85.52109,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240062.0",
+    "gn:asciiname":"Thakurigaun",
+    "gn:country_code":"NP",
+    "gn:dem":1605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7963501,
+    "gn:latitude":27.64621,
+    "gn:longitude":85.52109,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thakurigaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7963501
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f3f4088548ebe21f974b9bef6b829491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1327371725,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1327371725,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1327371725,
+    "wof:lastmodified":1536768833,
+    "wof:name":"Thakurigaun",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.52109,
+    27.64621,
+    85.52109,
+    27.64621
+],
+  "geometry": {"coordinates":[85.52109,27.64621],"type":"Point"}
+}

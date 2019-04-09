@@ -1,0 +1,61 @@
+{
+  "id": 1209328981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.40314,27.48595,85.40314,27.48595",
+    "geom:latitude":27.48595,
+    "geom:longitude":85.40314,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lamran",
+    "gn:country_code":"NP",
+    "gn:dem":1820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10330445,
+    "gn:latitude":27.48595,
+    "gn:longitude":85.40314,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"L\u0101mr\u0101\u1e45",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10330445
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2cc4efdde4ddb47d81cc053c88ad5fa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209328981
+        }
+    ],
+    "wof:id":1209328981,
+    "wof:lastmodified":1536290435,
+    "wof:name":"Lamran",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.40314000000002,
+    27.48595,
+    85.40314000000002,
+    27.48595
+],
+  "geometry": {"coordinates":[85.40314000000002,27.48595],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343972415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.30131,28.9603,80.30131,28.9603",
+    "geom:latitude":28.9603,
+    "geom:longitude":80.30131,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Joriapani",
+    "gn:country_code":"NP",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283293,
+    "gn:latitude":28.9603,
+    "gn:longitude":80.30131,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Jori\u0101p\u0101ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048227,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283293
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"73fdb79f4715addcae65abbd72739e52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1343972415,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1343972415,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1343972415,
+    "wof:lastmodified":1537001925,
+    "wof:name":"Joriapani",
+    "wof:parent_id":1092048227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.30131,
+    28.9603,
+    80.30131,
+    28.9603
+],
+  "geometry": {"coordinates":[80.30131,28.9603],"type":"Point"}
+}

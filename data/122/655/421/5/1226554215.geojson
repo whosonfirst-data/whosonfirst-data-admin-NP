@@ -1,0 +1,75 @@
+{
+  "id": 1226554215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.18202,27.52475,87.18202,27.52475",
+    "geom:latitude":27.52475,
+    "geom:longitude":87.18202,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Waleng",
+    "gn:country_code":"NP",
+    "gn:dem":1239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282618,
+    "gn:latitude":27.52475,
+    "gn:longitude":87.18202,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"W\u0101leng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049597,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282618
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"554e68ab7844fb19ff7fe2672250b031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1226554215,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1226554215,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1226554215,
+    "wof:lastmodified":1536984961,
+    "wof:name":"Waleng",
+    "wof:parent_id":1092049597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.18202,
+    27.52475,
+    87.18202,
+    27.52475
+],
+  "geometry": {"coordinates":[87.18201999999999,27.52475],"type":"Point"}
+}

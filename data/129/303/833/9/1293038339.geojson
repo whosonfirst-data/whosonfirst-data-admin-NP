@@ -1,0 +1,78 @@
+{
+  "id": 1293038339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.85107,29.03433,83.85107,29.03433",
+    "geom:latitude":29.03433,
+    "geom:longitude":83.85107,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"42",
+    "gn:admin4_code":"420005",
+    "gn:asciiname":"Nyila",
+    "gn:country_code":"NP",
+    "gn:dem":3996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7971809,
+    "gn:latitude":29.03433,
+    "gn:longitude":83.85107,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nyila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675553,
+        1092048365,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7971809
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"17312c382d87c8a63932467c539ebf19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048365,
+            "locality_id":1293038339,
+            "region_id":85675553
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048365,
+            "locality_id":1293038339,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293038339,
+    "wof:lastmodified":1536938315,
+    "wof:name":"Nyila",
+    "wof:parent_id":1092048365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.85106999999998,
+    29.03433,
+    83.85106999999998,
+    29.03433
+],
+  "geometry": {"coordinates":[83.85106999999998,29.03433],"type":"Point"}
+}

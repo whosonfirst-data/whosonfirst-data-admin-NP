@@ -1,0 +1,78 @@
+{
+  "id": 1309754283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.75335,26.53309,87.75335,26.53309",
+    "geom:latitude":26.53309,
+    "geom:longitude":87.75335,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40004.0",
+    "gn:asciiname":"Kaptanbari",
+    "gn:country_code":"NP",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7953979,
+    "gn:latitude":26.53309,
+    "gn:longitude":87.75335,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kaptanbari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7953979
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4023ab7a4beb0b2bbc0122d9c74f7cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1309754283,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1309754283,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1309754283,
+    "wof:lastmodified":1537004677,
+    "wof:name":"Kaptanbari",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.75335,
+    26.53309,
+    87.75335,
+    26.53309
+],
+  "geometry": {"coordinates":[87.75335,26.53309],"type":"Point"}
+}

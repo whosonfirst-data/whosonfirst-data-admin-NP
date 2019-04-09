@@ -1,0 +1,64 @@
+{
+  "id": 1209044359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.17621,27.15588,87.17621,27.15588",
+    "geom:latitude":27.15588,
+    "geom:longitude":87.17621,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100062.0",
+    "gn:asciiname":"Bakhabuba",
+    "gn:country_code":"NP",
+    "gn:dem":1255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933998,
+    "gn:latitude":27.15588,
+    "gn:longitude":87.17621,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bakhabuba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933998
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7541fcea2eae13bbbd824c1d089ec393",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209044359
+        }
+    ],
+    "wof:id":1209044359,
+    "wof:lastmodified":1536299445,
+    "wof:name":"Bakhabuba",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.17621,
+    27.15588,
+    87.17621,
+    27.15588
+],
+  "geometry": {"coordinates":[87.17621,27.15588],"type":"Point"}
+}

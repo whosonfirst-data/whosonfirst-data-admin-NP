@@ -1,0 +1,78 @@
+{
+  "id": 1226390575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.24789,27.08881,87.24789,27.08881",
+    "geom:latitude":27.08881,
+    "geom:longitude":87.24789,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"7.0",
+    "gn:admin4_code":"70018.0",
+    "gn:asciiname":"Archang",
+    "gn:country_code":"NP",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7943079,
+    "gn:latitude":27.08881,
+    "gn:longitude":87.24789,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Archang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049207,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7943079
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4172a59ac89d07b6a8df304fa5cac2dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049207,
+            "locality_id":1226390575,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049207,
+            "locality_id":1226390575,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1226390575,
+    "wof:lastmodified":1536725446,
+    "wof:name":"Archang",
+    "wof:parent_id":1092049207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.24789,
+    27.08881,
+    87.24789,
+    27.08881
+],
+  "geometry": {"coordinates":[87.24789,27.08881],"type":"Point"}
+}

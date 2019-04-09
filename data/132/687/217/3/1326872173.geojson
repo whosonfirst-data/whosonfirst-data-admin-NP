@@ -1,0 +1,78 @@
+{
+  "id": 1326872173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.14711,27.02942,86.14711,27.02942",
+    "geom:latitude":27.02942,
+    "geom:longitude":86.14711,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200018",
+    "gn:asciiname":"Ghatgaun",
+    "gn:country_code":"NP",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7992820,
+    "gn:latitude":27.02942,
+    "gn:longitude":86.14711,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ghatgaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049679,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7992820
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"891bc32eed91a3ec6df6896bbe98f64e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1326872173,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1326872173,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1326872173,
+    "wof:lastmodified":1536990485,
+    "wof:name":"Ghatgaun",
+    "wof:parent_id":1092049679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.14711,
+    27.02942,
+    86.14711,
+    27.02942
+],
+  "geometry": {"coordinates":[86.14711,27.02942],"type":"Point"}
+}

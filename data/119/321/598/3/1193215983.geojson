@@ -1,0 +1,78 @@
+{
+  "id": 1193215983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.00573,26.44152,88.00573,26.44152",
+    "geom:latitude":26.44152,
+    "geom:longitude":88.00573,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40005.0",
+    "gn:asciiname":"Balubadi",
+    "gn:country_code":"NP",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7954005,
+    "gn:latitude":26.44152,
+    "gn:longitude":88.00573,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Balubadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7954005
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"51514ae820344326a8d6e8c96e531661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1193215983,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1193215983,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1193215983,
+    "wof:lastmodified":1536380508,
+    "wof:name":"Balubadi",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.00573,
+    26.44152,
+    88.00573,
+    26.44152
+],
+  "geometry": {"coordinates":[88.00573,26.44152],"type":"Point"}
+}

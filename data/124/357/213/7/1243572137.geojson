@@ -1,0 +1,76 @@
+{
+  "id": 1243572137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.6826,28.22266,83.6826,28.22266",
+    "geom:latitude":28.22266,
+    "geom:longitude":83.6826,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kusma",
+    "gn:country_code":"NP",
+    "gn:dem":985,
+    "gn:elevation":"880.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283168,
+    "gn:latitude":28.22266,
+    "gn:longitude":83.6826,
+    "gn:modification_date":"2009-06-01",
+    "gn:name":"Kusma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049297,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283168
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1e4733df9a098d8d8265b600ccd18b38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049297,
+            "locality_id":1243572137,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049297,
+            "locality_id":1243572137,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1243572137,
+    "wof:lastmodified":1536622402,
+    "wof:name":"Kusma",
+    "wof:parent_id":1092049297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.6826,
+    28.22266,
+    83.6826,
+    28.22266
+],
+  "geometry": {"coordinates":[83.68259999999999,28.22266],"type":"Point"}
+}

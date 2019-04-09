@@ -1,0 +1,64 @@
+{
+  "id": 1209252723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.12573,27.80011,86.12573,27.80011",
+    "geom:latitude":27.80011,
+    "geom:longitude":86.12573,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"22.0",
+    "gn:admin4_code":"220012.0",
+    "gn:asciiname":"Thapagaun",
+    "gn:country_code":"NP",
+    "gn:dem":1854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7944396,
+    "gn:latitude":27.80011,
+    "gn:longitude":86.12573,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thapagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7944396
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9ffa6b6249ff5ea7d905199b11ba7b4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209252723
+        }
+    ],
+    "wof:id":1209252723,
+    "wof:lastmodified":1536292956,
+    "wof:name":"Thapagaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.12573,
+    27.80011,
+    86.12573,
+    27.80011
+],
+  "geometry": {"coordinates":[86.12573,27.80011],"type":"Point"}
+}

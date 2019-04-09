@@ -1,0 +1,78 @@
+{
+  "id": 1310047471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.78066,26.75816,86.78066,26.75816",
+    "geom:latitude":26.75816,
+    "geom:longitude":86.78066,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140016.0",
+    "gn:asciiname":"Khudiyahi",
+    "gn:country_code":"NP",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8006857,
+    "gn:latitude":26.75816,
+    "gn:longitude":86.78066,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khudiyahi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050179,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8006857
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c4c45110c11dbf2ba880855019f29ae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1310047471,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1310047471,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1310047471,
+    "wof:lastmodified":1537077041,
+    "wof:name":"Khudiyahi",
+    "wof:parent_id":1092050179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.78066,
+    26.75816,
+    86.78066,
+    26.75816
+],
+  "geometry": {"coordinates":[86.78066,26.75816],"type":"Point"}
+}

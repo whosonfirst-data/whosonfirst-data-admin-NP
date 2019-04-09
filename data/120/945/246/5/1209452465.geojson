@@ -1,0 +1,65 @@
+{
+  "id": 1209452465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.23702,28.21927,84.23702,28.21927",
+    "geom:latitude":28.21927,
+    "geom:longitude":84.23702,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370030",
+    "gn:asciiname":"Gilung",
+    "gn:country_code":"NP",
+    "gn:dem":1354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7966527,
+    "gn:latitude":28.21927,
+    "gn:longitude":84.23702,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gilung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7966527,
+        "wk:page":"Gilung"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"21da96d57e6b8acd3286a4cd2410e57c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209452465
+        }
+    ],
+    "wof:id":1209452465,
+    "wof:lastmodified":1537570151,
+    "wof:name":"Gilung",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.23702,
+    28.21927,
+    84.23702,
+    28.21927
+],
+  "geometry": {"coordinates":[84.23702,28.21927],"type":"Point"}
+}

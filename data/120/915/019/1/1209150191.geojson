@@ -1,0 +1,64 @@
+{
+  "id": 1209150191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.45944,26.92506,86.45944,26.92506",
+    "geom:latitude":26.92506,
+    "geom:longitude":86.45944,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140030.0",
+    "gn:asciiname":"Jogedanda",
+    "gn:country_code":"NP",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007428,
+    "gn:latitude":26.92506,
+    "gn:longitude":86.45944,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jogedanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007428
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fbe1c6e541ee23b670bf963d9f1f1e9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209150191
+        }
+    ],
+    "wof:id":1209150191,
+    "wof:lastmodified":1536296226,
+    "wof:name":"Jogedanda",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.45944,
+    26.92506,
+    86.45944,
+    26.92506
+],
+  "geometry": {"coordinates":[86.45944,26.92506],"type":"Point"}
+}

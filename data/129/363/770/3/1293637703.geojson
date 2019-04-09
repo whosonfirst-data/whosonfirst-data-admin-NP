@@ -1,0 +1,78 @@
+{
+  "id": 1293637703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.18648,27.26339,85.18648,27.26339",
+    "geom:latitude":27.26339,
+    "geom:longitude":85.18648,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310014",
+    "gn:asciiname":"Kaileni",
+    "gn:country_code":"NP",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7968104,
+    "gn:latitude":27.26339,
+    "gn:longitude":85.18648,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kaileni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7968104
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"76aff377330dfa5f29f6e584baf18613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1293637703,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1293637703,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1293637703,
+    "wof:lastmodified":1537064971,
+    "wof:name":"Kaileni",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.18648,
+    27.26339,
+    85.18648,
+    27.26339
+],
+  "geometry": {"coordinates":[85.18648,27.26339],"type":"Point"}
+}

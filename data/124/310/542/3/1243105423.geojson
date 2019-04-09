@@ -1,0 +1,78 @@
+{
+  "id": 1243105423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.18687,27.28897,85.18687,27.28897",
+    "geom:latitude":27.28897,
+    "geom:longitude":85.18687,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310040",
+    "gn:asciiname":"Maimachha",
+    "gn:country_code":"NP",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7969197,
+    "gn:latitude":27.28897,
+    "gn:longitude":85.18687,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Maimachha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7969197
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c36bba02cf8a40312bd17e5455d4e95b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1243105423,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1243105423,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1243105423,
+    "wof:lastmodified":1536800091,
+    "wof:name":"Maimachha",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.18687,
+    27.28897000000001,
+    85.18687,
+    27.28897000000001
+],
+  "geometry": {"coordinates":[85.18687,27.28897000000001],"type":"Point"}
+}

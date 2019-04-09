@@ -1,0 +1,78 @@
+{
+  "id": 1242921427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.92201,26.82072,86.92201,26.82072",
+    "geom:latitude":26.82072,
+    "geom:longitude":86.92201,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140006.0",
+    "gn:asciiname":"Amalchuri",
+    "gn:country_code":"NP",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8006564,
+    "gn:latitude":26.82072,
+    "gn:longitude":86.92201,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Amalchuri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050179,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8006564
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4f3fa03a406e66bff0a50a310e2bbf5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1242921427,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1242921427,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1242921427,
+    "wof:lastmodified":1537062750,
+    "wof:name":"Amalchuri",
+    "wof:parent_id":1092050179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.92201,
+    26.82072,
+    86.92201,
+    26.82072
+],
+  "geometry": {"coordinates":[86.92201,26.82072],"type":"Point"}
+}

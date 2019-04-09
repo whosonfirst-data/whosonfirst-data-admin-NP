@@ -1,0 +1,78 @@
+{
+  "id": 1193084807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.85516,28.82777,83.85516,28.82777",
+    "geom:latitude":28.82777,
+    "geom:longitude":83.85516,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"42",
+    "gn:admin4_code":"420006.0",
+    "gn:asciiname":"Jhong",
+    "gn:country_code":"NP",
+    "gn:dem":3566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7971814,
+    "gn:latitude":28.82777,
+    "gn:longitude":83.85516,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jhong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675553,
+        1092048365,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7971814
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"02335a49e86796c57aad0d45e2cf24b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048365,
+            "locality_id":1193084807,
+            "region_id":85675553
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048365,
+            "locality_id":1193084807,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1193084807,
+    "wof:lastmodified":1536376901,
+    "wof:name":"Jhong",
+    "wof:parent_id":1092048365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.85516,
+    28.82777,
+    83.85516,
+    28.82777
+],
+  "geometry": {"coordinates":[83.85516,28.82777],"type":"Point"}
+}

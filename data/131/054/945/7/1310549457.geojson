@@ -1,0 +1,78 @@
+{
+  "id": 1310549457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.52741,27.20173,86.52741,27.20173",
+    "geom:latitude":27.20173,
+    "geom:longitude":86.52741,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"12",
+    "gn:admin4_code":"120002",
+    "gn:asciiname":"Laphe",
+    "gn:country_code":"NP",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7974986,
+    "gn:latitude":27.20173,
+    "gn:longitude":86.52741,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Laphe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050225,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7974986
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"254690bedd34ac95c03b0fe57cd8c035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050225,
+            "locality_id":1310549457,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050225,
+            "locality_id":1310549457,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1310549457,
+    "wof:lastmodified":1536852551,
+    "wof:name":"Laphe",
+    "wof:parent_id":1092050225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.52741,
+    27.20173,
+    86.52741,
+    27.20173
+],
+  "geometry": {"coordinates":[86.52741,27.20173],"type":"Point"}
+}

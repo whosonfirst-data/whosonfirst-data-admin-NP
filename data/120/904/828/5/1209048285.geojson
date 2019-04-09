@@ -1,0 +1,64 @@
+{
+  "id": 1209048285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.12538,28.14684,84.12538,28.14684",
+    "geom:latitude":28.14684,
+    "geom:longitude":84.12538,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400036.0",
+    "gn:asciiname":"Kirakhor",
+    "gn:country_code":"NP",
+    "gn:dem":989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7961621,
+    "gn:latitude":28.14684,
+    "gn:longitude":84.12538,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kirakhor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7961621
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bc9bb6559e1ad886ff8068b089202320",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209048285
+        }
+    ],
+    "wof:id":1209048285,
+    "wof:lastmodified":1536299326,
+    "wof:name":"Kirakhor",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.12538,
+    28.14684,
+    84.12538,
+    28.14684
+],
+  "geometry": {"coordinates":[84.12538000000001,28.14684],"type":"Point"}
+}

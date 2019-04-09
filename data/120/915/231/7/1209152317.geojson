@@ -1,0 +1,64 @@
+{
+  "id": 1209152317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.0884,27.07349,87.0884,27.07349",
+    "geom:latitude":27.07349,
+    "geom:longitude":87.0884,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100040.0",
+    "gn:asciiname":"Himang",
+    "gn:country_code":"NP",
+    "gn:dem":906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933538,
+    "gn:latitude":27.07349,
+    "gn:longitude":87.0884,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Himang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933538
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1566d9929092ad137b1636a4d5594f48",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209152317
+        }
+    ],
+    "wof:id":1209152317,
+    "wof:lastmodified":1536296164,
+    "wof:name":"Himang",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.0884,
+    27.073490000000003,
+    87.0884,
+    27.073490000000003
+],
+  "geometry": {"coordinates":[87.08839999999999,27.07349],"type":"Point"}
+}

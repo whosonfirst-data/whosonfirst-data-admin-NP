@@ -1,0 +1,78 @@
+{
+  "id": 1226480173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.3282,26.77388,86.3282,26.77388",
+    "geom:latitude":26.77388,
+    "geom:longitude":86.3282,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"16",
+    "gn:admin4_code":"160003",
+    "gn:asciiname":"Labkatol",
+    "gn:country_code":"NP",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7995621,
+    "gn:latitude":26.77388,
+    "gn:longitude":86.3282,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Labkatol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092050497,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7995621
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"92210ea251a691e1c5cb22c1b33c90e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050497,
+            "locality_id":1226480173,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050497,
+            "locality_id":1226480173,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1226480173,
+    "wof:lastmodified":1537089221,
+    "wof:name":"Labkatol",
+    "wof:parent_id":1092050497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.3282,
+    26.77388,
+    86.3282,
+    26.77388
+],
+  "geometry": {"coordinates":[86.3282,26.77388],"type":"Point"}
+}

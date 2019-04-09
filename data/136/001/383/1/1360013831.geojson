@@ -1,0 +1,78 @@
+{
+  "id": 1360013831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.32198,29.57403,81.32198,29.57403",
+    "geom:latitude":29.57403,
+    "geom:longitude":81.32198,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680040",
+    "gn:asciiname":"Thakunna",
+    "gn:country_code":"NP",
+    "gn:dem":2537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7997272,
+    "gn:latitude":29.57403,
+    "gn:longitude":81.32198,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thakunna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048571,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7997272
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2583a13d163b8a38f7bb21a5ac9f141c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1360013831,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1360013831,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1360013831,
+    "wof:lastmodified":1537046631,
+    "wof:name":"Thakunna",
+    "wof:parent_id":1092048571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.32198000000002,
+    29.57403,
+    81.32198000000002,
+    29.57403
+],
+  "geometry": {"coordinates":[81.32198000000002,29.57403],"type":"Point"}
+}

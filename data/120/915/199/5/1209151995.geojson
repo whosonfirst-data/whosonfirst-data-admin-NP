@@ -1,0 +1,64 @@
+{
+  "id": 1209151995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.84012,28.09642,83.84012,28.09642",
+    "geom:latitude":28.09642,
+    "geom:longitude":83.84012,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390044.0",
+    "gn:asciiname":"Hallekholagaun",
+    "gn:country_code":"NP",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001869,
+    "gn:latitude":28.09642,
+    "gn:longitude":83.84012,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Hallekholagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001869
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f57e285b544a51515a39e36c44cb3bd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209151995
+        }
+    ],
+    "wof:id":1209151995,
+    "wof:lastmodified":1536296170,
+    "wof:name":"Hallekholagaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.84012,
+    28.09642,
+    83.84012,
+    28.09642
+],
+  "geometry": {"coordinates":[83.84012,28.09642],"type":"Point"}
+}

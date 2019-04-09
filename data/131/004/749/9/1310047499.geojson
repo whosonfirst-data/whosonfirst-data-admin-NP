@@ -1,0 +1,78 @@
+{
+  "id": 1310047499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.55009,26.81343,87.55009,26.81343",
+    "geom:latitude":26.81343,
+    "geom:longitude":87.55009,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"5",
+    "gn:admin4_code":"50065",
+    "gn:asciiname":"Tinpata",
+    "gn:country_code":"NP",
+    "gn:dem":1211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7971282,
+    "gn:latitude":26.81343,
+    "gn:longitude":87.55009,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tinpata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092048303,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7971282
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"302d50909b6c7fe03576ad25e0d66074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1310047499,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1310047499,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1310047499,
+    "wof:lastmodified":1537077001,
+    "wof:name":"Tinpata",
+    "wof:parent_id":1092048303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.55009,
+    26.81343,
+    87.55009,
+    26.81343
+],
+  "geometry": {"coordinates":[87.55009,26.81343],"type":"Point"}
+}

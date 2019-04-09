@@ -1,0 +1,78 @@
+{
+  "id": 1327071733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.11189,27.57788,83.11189,27.57788",
+    "geom:latitude":27.57788,
+    "geom:longitude":83.11189,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"50.0",
+    "gn:admin4_code":"500036.0",
+    "gn:asciiname":"Parsiya",
+    "gn:country_code":"NP",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7959643,
+    "gn:latitude":27.57788,
+    "gn:longitude":83.11189,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Parsiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048259,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7959643
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f25f50690b13d8319d3257ce240ea078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1327071733,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1327071733,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1327071733,
+    "wof:lastmodified":1536703958,
+    "wof:name":"Parsiya",
+    "wof:parent_id":1092048259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.11189,
+    27.57788,
+    83.11189,
+    27.57788
+],
+  "geometry": {"coordinates":[83.11189,27.57788],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293338303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.35827,27.58898,87.35827,27.58898",
+    "geom:latitude":27.58898,
+    "geom:longitude":87.35827,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"9",
+    "gn:admin4_code":"90025",
+    "gn:asciiname":"Ranegaun",
+    "gn:country_code":"NP",
+    "gn:dem":1664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7990438,
+    "gn:latitude":27.58898,
+    "gn:longitude":87.35827,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ranegaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049597,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7990438
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"dcac449f5a54243179d54dc2d30ce319",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1293338303,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1293338303,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1293338303,
+    "wof:lastmodified":1537001435,
+    "wof:name":"Ranegaun",
+    "wof:parent_id":1092049597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.35826999999998,
+    27.58898,
+    87.35826999999998,
+    27.58898
+],
+  "geometry": {"coordinates":[87.35826999999998,27.58898],"type":"Point"}
+}

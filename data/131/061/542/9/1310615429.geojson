@@ -1,0 +1,79 @@
+{
+  "id": 1310615429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.45719,27.86761,85.45719,27.86761",
+    "geom:latitude":27.86761,
+    "geom:longitude":85.45719,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dingau",
+    "gn:country_code":"NP",
+    "gn:dem":2188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10317240,
+    "gn:latitude":27.86761,
+    "gn:longitude":85.45719,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Ding\u0101\u0169",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ding\u0101\u0169",
+        "Ding\u0101un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10317240
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"730d0ee5d3f34c51464e86201f5a3484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1310615429,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1310615429,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1310615429,
+    "wof:lastmodified":1537676081,
+    "wof:name":"Dingau",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.45719,
+    27.86761,
+    85.45719,
+    27.86761
+],
+  "geometry": {"coordinates":[85.45719,27.86761],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1326577823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.2511,26.79618,85.2511,26.79618",
+    "geom:latitude":26.79618,
+    "geom:longitude":85.2511,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"32",
+    "gn:admin4_code":"320002",
+    "gn:asciiname":"Bairiya",
+    "gn:country_code":"NP",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7982342,
+    "gn:latitude":26.79618,
+    "gn:longitude":85.2511,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bairiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049419,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7982342
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6413cd5369b316ef20b039010612ef2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1326577823,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1326577823,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1326577823,
+    "wof:lastmodified":1536918985,
+    "wof:name":"Bairiya",
+    "wof:parent_id":1092049419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.2511,
+    26.79618,
+    85.2511,
+    26.79618
+],
+  "geometry": {"coordinates":[85.25109999999999,26.79618],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1360126295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.37801,28.17695,84.37801,28.17695",
+    "geom:latitude":28.17695,
+    "geom:longitude":84.37801,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370027",
+    "gn:asciiname":"Muraredanda",
+    "gn:country_code":"NP",
+    "gn:dem":1174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7966474,
+    "gn:latitude":28.17695,
+    "gn:longitude":84.37801,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Muraredanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050009,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7966474
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"81c5146fe2ce0ec0312ddd2ca6d89457",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1360126295,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1360126295,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1360126295,
+    "wof:lastmodified":1536885695,
+    "wof:name":"Muraredanda",
+    "wof:parent_id":1092050009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.37801,
+    28.17695,
+    84.37801,
+    28.17695
+],
+  "geometry": {"coordinates":[84.37801,28.17695],"type":"Point"}
+}

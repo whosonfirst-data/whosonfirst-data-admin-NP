@@ -1,0 +1,78 @@
+{
+  "id": 1343806017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.43088,26.58779,86.43088,26.58779",
+    "geom:latitude":26.58779,
+    "geom:longitude":86.43088,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"16",
+    "gn:admin4_code":"160083",
+    "gn:asciiname":"Menha",
+    "gn:country_code":"NP",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7996260,
+    "gn:latitude":26.58779,
+    "gn:longitude":86.43088,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Menha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092050497,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7996260
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a743b9045cc2de9b555f94eee5d1d87f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050497,
+            "locality_id":1343806017,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050497,
+            "locality_id":1343806017,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1343806017,
+    "wof:lastmodified":1536744960,
+    "wof:name":"Menha",
+    "wof:parent_id":1092050497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.43088,
+    26.58779,
+    86.43088,
+    26.58779
+],
+  "geometry": {"coordinates":[86.43088,26.58779],"type":"Point"}
+}

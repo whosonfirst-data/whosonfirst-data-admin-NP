@@ -1,0 +1,78 @@
+{
+  "id": 1327166931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.72436,28.71964,80.72436,28.71964",
+    "geom:latitude":28.71964,
+    "geom:longitude":80.72436,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710044.0",
+    "gn:asciiname":"Ghasita",
+    "gn:country_code":"NP",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7957935,
+    "gn:latitude":28.71964,
+    "gn:longitude":80.72436,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ghasita",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7957935
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"425908c9118218987c0792ebb3679ebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1327166931,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1327166931,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1327166931,
+    "wof:lastmodified":1537061456,
+    "wof:name":"Ghasita",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.72436,
+    28.71964,
+    80.72436,
+    28.71964
+],
+  "geometry": {"coordinates":[80.72436,28.71964],"type":"Point"}
+}

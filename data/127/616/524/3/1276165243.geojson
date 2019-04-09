@@ -1,0 +1,78 @@
+{
+  "id": 1276165243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.35084,27.83617,84.35084,27.83617",
+    "geom:latitude":27.83617,
+    "geom:longitude":84.35084,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380014.0",
+    "gn:asciiname":"Haldung",
+    "gn:country_code":"NP",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003205,
+    "gn:latitude":27.83617,
+    "gn:longitude":84.35084,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Haldung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003205
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b2de99055a2ca07c9ca3ed230af02aea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1276165243,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1276165243,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1276165243,
+    "wof:lastmodified":1537003220,
+    "wof:name":"Haldung",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.35084,
+    27.83617000000001,
+    84.35084,
+    27.83617000000001
+],
+  "geometry": {"coordinates":[84.35084000000001,27.83617000000001],"type":"Point"}
+}

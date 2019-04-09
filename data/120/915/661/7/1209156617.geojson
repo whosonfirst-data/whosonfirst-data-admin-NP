@@ -1,0 +1,64 @@
+{
+  "id": 1209156617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.91163,27.52502,84.91163,27.52502",
+    "geom:latitude":27.52502,
+    "geom:longitude":84.91163,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310038",
+    "gn:asciiname":"ThuloRamche",
+    "gn:country_code":"NP",
+    "gn:dem":1094,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7969102,
+    "gn:latitude":27.52502,
+    "gn:longitude":84.91163,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"ThuloRamche",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7969102
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1c2635a31ccec92b5f99f62b0908cc3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209156617
+        }
+    ],
+    "wof:id":1209156617,
+    "wof:lastmodified":1536296037,
+    "wof:name":"ThuloRamche",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.91163,
+    27.52502,
+    84.91163,
+    27.52502
+],
+  "geometry": {"coordinates":[84.91163,27.52502],"type":"Point"}
+}

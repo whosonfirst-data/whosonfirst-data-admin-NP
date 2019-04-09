@@ -1,0 +1,78 @@
+{
+  "id": 1293731961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.82866,27.57754,82.82866,27.57754",
+    "geom:latitude":27.57754,
+    "geom:longitude":82.82866,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"50.0",
+    "gn:admin4_code":"500016.0",
+    "gn:asciiname":"Pakadi",
+    "gn:country_code":"NP",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7959371,
+    "gn:latitude":27.57754,
+    "gn:longitude":82.82866,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pakadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048259,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7959371
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"847ad716b3b276295f1f31bb7e7754cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1293731961,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1293731961,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1293731961,
+    "wof:lastmodified":1536932573,
+    "wof:name":"Pakadi",
+    "wof:parent_id":1092048259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.82866,
+    27.57754000000001,
+    82.82866,
+    27.57754000000001
+],
+  "geometry": {"coordinates":[82.82866,27.57754000000001],"type":"Point"}
+}

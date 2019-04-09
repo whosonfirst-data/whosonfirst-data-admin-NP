@@ -1,0 +1,75 @@
+{
+  "id": 1326639643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.45929,27.60127,85.45929,27.60127",
+    "geom:latitude":27.60127,
+    "geom:longitude":85.45929,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Jhigatigau",
+    "gn:country_code":"NP",
+    "gn:dem":1667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10668841,
+    "gn:latitude":27.60127,
+    "gn:longitude":85.45929,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Jhigati\u0307\u0304g\u0101\u0169",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10668841
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b06b8cc2026bdda01e6d7457267ca4df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1326639643,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1326639643,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1326639643,
+    "wof:lastmodified":1536828069,
+    "wof:name":"Jhigatigau",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.45929,
+    27.60127,
+    85.45929,
+    27.60127
+],
+  "geometry": {"coordinates":[85.45929,27.60127],"type":"Point"}
+}

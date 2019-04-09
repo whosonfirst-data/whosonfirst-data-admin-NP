@@ -1,0 +1,78 @@
+{
+  "id": 1277021827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.10972,27.44396,87.10972,27.44396",
+    "geom:latitude":27.44396,
+    "geom:longitude":87.10972,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100038.0",
+    "gn:asciiname":"Mulgaun",
+    "gn:country_code":"NP",
+    "gn:dem":1166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933484,
+    "gn:latitude":27.44396,
+    "gn:longitude":87.10972,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mulgaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933484
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"46e1337ccd1b3ad39f312c9d6ba1d344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1277021827,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1277021827,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1277021827,
+    "wof:lastmodified":1536849684,
+    "wof:name":"Mulgaun",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.10972,
+    27.44396,
+    87.10972,
+    27.44396
+],
+  "geometry": {"coordinates":[87.10972,27.44396],"type":"Point"}
+}

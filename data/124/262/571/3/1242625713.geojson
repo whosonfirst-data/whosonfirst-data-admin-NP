@@ -1,0 +1,78 @@
+{
+  "id": 1242625713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.98204,26.93476,84.98204,26.93476",
+    "geom:latitude":26.93476,
+    "geom:longitude":84.98204,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"330045.0",
+    "gn:asciiname":"Katahariya",
+    "gn:country_code":"NP",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008853,
+    "gn:latitude":26.93476,
+    "gn:longitude":84.98204,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Katahariya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092048051,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008853
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5970ab47ac026701094609f3f97e5574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1242625713,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1242625713,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1242625713,
+    "wof:lastmodified":1536993753,
+    "wof:name":"Katahariya",
+    "wof:parent_id":1092048051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.98204,
+    26.93476,
+    84.98204,
+    26.93476
+],
+  "geometry": {"coordinates":[84.98204,26.93476],"type":"Point"}
+}

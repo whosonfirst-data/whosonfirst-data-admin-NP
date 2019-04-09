@@ -1,0 +1,64 @@
+{
+  "id": 1209443091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.35885,29.1756,81.35885,29.1756",
+    "geom:latitude":29.1756,
+    "geom:longitude":81.35885,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"69.0",
+    "gn:admin4_code":"690019.0",
+    "gn:asciiname":"Salkatne",
+    "gn:country_code":"NP",
+    "gn:dem":1310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7958006,
+    "gn:latitude":29.1756,
+    "gn:longitude":81.35885,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Salkatne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7958006
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"eae4f79f3bc4fb40512953eab286cddc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209443091
+        }
+    ],
+    "wof:id":1209443091,
+    "wof:lastmodified":1536286900,
+    "wof:name":"Salkatne",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.35885,
+    29.1756,
+    81.35885,
+    29.1756
+],
+  "geometry": {"coordinates":[81.35885,29.1756],"type":"Point"}
+}

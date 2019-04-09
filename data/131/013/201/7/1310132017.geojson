@@ -1,0 +1,78 @@
+{
+  "id": 1310132017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.42,28.18704,82.42,28.18704",
+    "geom:latitude":28.18704,
+    "geom:longitude":82.42,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530022",
+    "gn:asciiname":"Aruchaur",
+    "gn:country_code":"NP",
+    "gn:dem":882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7983707,
+    "gn:latitude":28.18704,
+    "gn:longitude":82.42,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Aruchaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7983707
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f2cda1025879a47ddbf3aba8cb67ec9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1310132017,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1310132017,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1310132017,
+    "wof:lastmodified":1536958330,
+    "wof:name":"Aruchaur",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.42,
+    28.18704,
+    82.42,
+    28.18704
+],
+  "geometry": {"coordinates":[82.42,28.18704],"type":"Point"}
+}

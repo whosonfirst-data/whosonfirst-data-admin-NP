@@ -1,0 +1,64 @@
+{
+  "id": 1209342687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.01812,29.27083,82.01812,29.27083",
+    "geom:latitude":29.27083,
+    "geom:longitude":82.01812,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"630016.0",
+    "gn:asciiname":"Humto",
+    "gn:country_code":"NP",
+    "gn:dem":3056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7955923,
+    "gn:latitude":29.27083,
+    "gn:longitude":82.01812,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Humto",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7955923
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"77760c7eae8faec682c4f1a92ad4e059",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209342687
+        }
+    ],
+    "wof:id":1209342687,
+    "wof:lastmodified":1536290012,
+    "wof:name":"Humto",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.01812,
+    29.27083,
+    82.01812,
+    29.27083
+],
+  "geometry": {"coordinates":[82.01812,29.27083],"type":"Point"}
+}

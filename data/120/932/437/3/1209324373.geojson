@@ -1,0 +1,67 @@
+{
+  "id": 1209324373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.85401,26.48052,87.85401,26.48052",
+    "geom:latitude":26.48052,
+    "geom:longitude":87.85401,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Jhapa Bajar",
+    "gn:country_code":"NP",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283306,
+    "gn:latitude":26.48052,
+    "gn:longitude":87.85401,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Jh\u0101p\u0101 Baj\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Jh\u0101p\u0101 Baj\u0101r"
+    ],
+    "name:und_x_variant":[
+        "Jh\u0101p\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283306
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0b36c1ff4fff95e911664e3d39616290",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209324373
+        }
+    ],
+    "wof:id":1209324373,
+    "wof:lastmodified":1537676053,
+    "wof:name":"Jhapa Bajar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.85401,
+    26.48052,
+    87.85401,
+    26.48052
+],
+  "geometry": {"coordinates":[87.85401,26.48052],"type":"Point"}
+}

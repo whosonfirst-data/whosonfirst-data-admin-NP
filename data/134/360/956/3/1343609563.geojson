@@ -1,0 +1,78 @@
+{
+  "id": 1343609563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.36276,27.01167,87.36276,27.01167",
+    "geom:latitude":27.01167,
+    "geom:longitude":87.36276,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"7.0",
+    "gn:admin4_code":"70006.0",
+    "gn:asciiname":"Lamighare",
+    "gn:country_code":"NP",
+    "gn:dem":1105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7942740,
+    "gn:latitude":27.01167,
+    "gn:longitude":87.36276,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lamighare",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049207,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7942740
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4fe2e04355084c968dd4fd760d3d12bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049207,
+            "locality_id":1343609563,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049207,
+            "locality_id":1343609563,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1343609563,
+    "wof:lastmodified":1537027311,
+    "wof:name":"Lamighare",
+    "wof:parent_id":1092049207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.36276,
+    27.01167,
+    87.36276,
+    27.01167
+],
+  "geometry": {"coordinates":[87.36275999999999,27.01167],"type":"Point"}
+}

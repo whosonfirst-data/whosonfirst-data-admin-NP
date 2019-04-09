@@ -1,0 +1,78 @@
+{
+  "id": 1276487255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.40622,27.22292,87.40622,27.22292",
+    "geom:latitude":27.22292,
+    "geom:longitude":87.40622,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"9",
+    "gn:admin4_code":"90032",
+    "gn:asciiname":"Limbugaun",
+    "gn:country_code":"NP",
+    "gn:dem":1279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7990601,
+    "gn:latitude":27.22292,
+    "gn:longitude":87.40622,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Limbugaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049597,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7990601
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"78f3230d10c78d5162a17ea4559bbe6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1276487255,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1276487255,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1276487255,
+    "wof:lastmodified":1537066788,
+    "wof:name":"Limbugaun",
+    "wof:parent_id":1092049597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.40621999999998,
+    27.22292,
+    87.40621999999998,
+    27.22292
+],
+  "geometry": {"coordinates":[87.40621999999998,27.22292],"type":"Point"}
+}

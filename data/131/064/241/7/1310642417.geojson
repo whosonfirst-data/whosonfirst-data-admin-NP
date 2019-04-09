@@ -1,0 +1,78 @@
+{
+  "id": 1310642417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.84564,28.02084,83.84564,28.02084",
+    "geom:latitude":28.02084,
+    "geom:longitude":83.84564,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390007.0",
+    "gn:asciiname":"Riju Dobata",
+    "gn:country_code":"NP",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8000742,
+    "gn:latitude":28.02084,
+    "gn:longitude":83.84564,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Riju Dobata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8000742
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7ae83a99e7e1602bd79f7f5ac77d9b9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1310642417,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1310642417,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1310642417,
+    "wof:lastmodified":1536719729,
+    "wof:name":"Riju Dobata",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.84564,
+    28.02084,
+    83.84564,
+    28.02084
+],
+  "geometry": {"coordinates":[83.84564,28.02084],"type":"Point"}
+}

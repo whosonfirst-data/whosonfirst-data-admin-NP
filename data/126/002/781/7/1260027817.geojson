@@ -1,0 +1,78 @@
+{
+  "id": 1260027817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.60644,27.67487,83.60644,27.67487",
+    "geom:latitude":27.67487,
+    "geom:longitude":83.60644,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"49",
+    "gn:admin4_code":"490019",
+    "gn:asciiname":"Kerbari",
+    "gn:country_code":"NP",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7987013,
+    "gn:latitude":27.67487,
+    "gn:longitude":83.60644,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kerbari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048457,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7987013
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f82974fea66235e69e836d6bed7ec0e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1260027817,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1260027817,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1260027817,
+    "wof:lastmodified":1537065369,
+    "wof:name":"Kerbari",
+    "wof:parent_id":1092048457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.60644,
+    27.67487,
+    83.60644,
+    27.67487
+],
+  "geometry": {"coordinates":[83.60644000000001,27.67487],"type":"Point"}
+}

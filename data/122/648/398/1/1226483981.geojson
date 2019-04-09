@@ -1,0 +1,78 @@
+{
+  "id": 1226483981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.87727,27.04015,87.87727,27.04015",
+    "geom:latitude":27.04015,
+    "geom:longitude":87.87727,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30036.0",
+    "gn:asciiname":"Jamane",
+    "gn:country_code":"NP",
+    "gn:dem":2305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7952447,
+    "gn:latitude":27.04015,
+    "gn:longitude":87.87727,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jamane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7952447
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0d0ebe58db7a6cb34e541dc951c1441b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1226483981,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1226483981,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1226483981,
+    "wof:lastmodified":1537083824,
+    "wof:name":"Jamane",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.87727,
+    27.04015,
+    87.87727,
+    27.04015
+],
+  "geometry": {"coordinates":[87.87727,27.04015],"type":"Point"}
+}

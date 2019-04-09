@@ -1,0 +1,78 @@
+{
+  "id": 1343587451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.49784,28.14363,81.49784,28.14363",
+    "geom:latitude":28.14363,
+    "geom:longitude":81.49784,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"58.0",
+    "gn:admin4_code":"580029.0",
+    "gn:asciiname":"Satpatiwa",
+    "gn:country_code":"NP",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8010010,
+    "gn:latitude":28.14363,
+    "gn:longitude":81.49784,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Satpatiwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048097,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8010010
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cac91959513801ab48f38749ad19498a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1343587451,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1343587451,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1343587451,
+    "wof:lastmodified":1537058064,
+    "wof:name":"Satpatiwa",
+    "wof:parent_id":1092048097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.49784,
+    28.14363,
+    81.49784,
+    28.14363
+],
+  "geometry": {"coordinates":[81.49784,28.14363],"type":"Point"}
+}

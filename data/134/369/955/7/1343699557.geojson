@@ -1,0 +1,78 @@
+{
+  "id": 1343699557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.56801,27.43984,86.56801,27.43984",
+    "geom:latitude":27.43984,
+    "geom:longitude":86.56801,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"11",
+    "gn:admin4_code":"110034",
+    "gn:asciiname":"Surke",
+    "gn:country_code":"NP",
+    "gn:dem":2040,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7997324,
+    "gn:latitude":27.43984,
+    "gn:longitude":86.56801,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Surke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049841,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7997324
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"afa4a7f21b3a4b2bea3a3a902e355857",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1343699557,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1343699557,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1343699557,
+    "wof:lastmodified":1536898602,
+    "wof:name":"Surke",
+    "wof:parent_id":1092049841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.56801,
+    27.43984,
+    86.56801,
+    27.43984
+],
+  "geometry": {"coordinates":[86.56801,27.43984],"type":"Point"}
+}

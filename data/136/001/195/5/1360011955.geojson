@@ -1,0 +1,78 @@
+{
+  "id": 1360011955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.86946,28.46755,82.86946,28.46755",
+    "geom:latitude":28.46755,
+    "geom:longitude":82.86946,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530042",
+    "gn:asciiname":"Harimsupa",
+    "gn:country_code":"NP",
+    "gn:dem":2934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7984545,
+    "gn:latitude":28.46755,
+    "gn:longitude":82.86946,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Harimsupa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7984545
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d3b8c85401c0fda56d7fe611c577d4db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1360011955,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1360011955,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1360011955,
+    "wof:lastmodified":1537049200,
+    "wof:name":"Harimsupa",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.86946,
+    28.46755,
+    82.86946,
+    28.46755
+],
+  "geometry": {"coordinates":[82.86946,28.46755],"type":"Point"}
+}

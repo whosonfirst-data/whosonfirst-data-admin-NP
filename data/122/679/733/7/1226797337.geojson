@@ -1,0 +1,78 @@
+{
+  "id": 1226797337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.16411,27.10805,87.16411,27.10805",
+    "geom:latitude":27.10805,
+    "geom:longitude":87.16411,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100051.0",
+    "gn:asciiname":"Chaukibari",
+    "gn:country_code":"NP",
+    "gn:dem":1172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933787,
+    "gn:latitude":27.10805,
+    "gn:longitude":87.16411,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chaukibari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933787
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ad9a227e66e5c0216332dfdefd082d08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1226797337,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1226797337,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1226797337,
+    "wof:lastmodified":1536640422,
+    "wof:name":"Chaukibari",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.16411,
+    27.10805,
+    87.16411,
+    27.10805
+],
+  "geometry": {"coordinates":[87.16410999999999,27.10805],"type":"Point"}
+}

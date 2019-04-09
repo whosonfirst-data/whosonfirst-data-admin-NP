@@ -1,0 +1,79 @@
+{
+  "id": 1276354083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.20096,27.99573,85.20096,27.99573",
+    "geom:latitude":27.99573,
+    "geom:longitude":85.20096,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Swara",
+    "gn:country_code":"NP",
+    "gn:dem":1439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10317513,
+    "gn:latitude":27.99573,
+    "gn:longitude":85.20096,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Sw\u0101\u0303r\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sw\u0101\u0303r\u0101",
+        "Sw\u0101nr\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048409,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10317513
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a27255a52d5e98d3646a681767c03976",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048409,
+            "locality_id":1276354083,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048409,
+            "locality_id":1276354083,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1276354083,
+    "wof:lastmodified":1537676081,
+    "wof:name":"Swara",
+    "wof:parent_id":1092048409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.20096,
+    27.99573,
+    85.20096,
+    27.99573
+],
+  "geometry": {"coordinates":[85.20095999999999,27.99573],"type":"Point"}
+}

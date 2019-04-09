@@ -1,0 +1,78 @@
+{
+  "id": 1226190047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.5508,28.15336,84.5508,28.15336",
+    "geom:latitude":28.15336,
+    "geom:longitude":84.5508,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370037",
+    "gn:asciiname":"Kyamche",
+    "gn:country_code":"NP",
+    "gn:dem":1205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7966700,
+    "gn:latitude":28.15336,
+    "gn:longitude":84.5508,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kyamche",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050009,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7966700
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"703327a6b6cc30cac65012d3149700a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1226190047,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1226190047,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1226190047,
+    "wof:lastmodified":1537013173,
+    "wof:name":"Kyamche",
+    "wof:parent_id":1092050009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.5508,
+    28.15336,
+    84.5508,
+    28.15336
+],
+  "geometry": {"coordinates":[84.5508,28.15336],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276137277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.19406,28.96362,80.19406,28.96362",
+    "geom:latitude":28.96362,
+    "geom:longitude":80.19406,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bahasi",
+    "gn:country_code":"NP",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283707,
+    "gn:latitude":28.96362,
+    "gn:longitude":80.19406,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Bah\u0101si",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048227,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283707
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bd2e03239122522f4b9c0c23d1e14080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1276137277,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1276137277,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1276137277,
+    "wof:lastmodified":1537039656,
+    "wof:name":"Bahasi",
+    "wof:parent_id":1092048227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.19406,
+    28.96362,
+    80.19406,
+    28.96362
+],
+  "geometry": {"coordinates":[80.19405999999999,28.96362],"type":"Point"}
+}

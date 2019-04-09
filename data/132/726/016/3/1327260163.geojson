@@ -1,0 +1,78 @@
+{
+  "id": 1327260163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.99601,28.91144,80.99601,28.91144",
+    "geom:latitude":28.91144,
+    "geom:longitude":80.99601,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710030.0",
+    "gn:asciiname":"Daijegada",
+    "gn:country_code":"NP",
+    "gn:dem":805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7957274,
+    "gn:latitude":28.91144,
+    "gn:longitude":80.99601,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Daijegada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7957274
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9ef22848063913281a63164c3a5fac57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1327260163,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1327260163,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1327260163,
+    "wof:lastmodified":1536930375,
+    "wof:name":"Daijegada",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.99601,
+    28.91144,
+    80.99601,
+    28.91144
+],
+  "geometry": {"coordinates":[80.99601,28.91144],"type":"Point"}
+}

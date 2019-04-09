@@ -1,0 +1,78 @@
+{
+  "id": 1260017457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.09182,27.46653,87.09182,27.46653",
+    "geom:latitude":27.46653,
+    "geom:longitude":87.09182,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"9",
+    "gn:admin4_code":"90029",
+    "gn:asciiname":"Bangdewa",
+    "gn:country_code":"NP",
+    "gn:dem":825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7990501,
+    "gn:latitude":27.46653,
+    "gn:longitude":87.09182,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bangdewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049597,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7990501
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"441149ace406157759052e8787a3ff45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1260017457,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1260017457,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1260017457,
+    "wof:lastmodified":1537079861,
+    "wof:name":"Bangdewa",
+    "wof:parent_id":1092049597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.09182,
+    27.46653,
+    87.09182,
+    27.46653
+],
+  "geometry": {"coordinates":[87.09182,27.46653],"type":"Point"}
+}

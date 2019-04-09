@@ -1,0 +1,78 @@
+{
+  "id": 1293637637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.93448,27.43486,85.93448,27.43486",
+    "geom:latitude":27.43486,
+    "geom:longitude":85.93448,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"21",
+    "gn:admin4_code":"210006",
+    "gn:asciiname":"Apchaur",
+    "gn:country_code":"NP",
+    "gn:dem":1290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7981085,
+    "gn:latitude":27.43486,
+    "gn:longitude":85.93448,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Apchaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049711,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7981085
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"32ee46b7d032ae75c5d91c79c3e25138",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1293637637,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1293637637,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1293637637,
+    "wof:lastmodified":1537065054,
+    "wof:name":"Apchaur",
+    "wof:parent_id":1092049711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.93448000000002,
+    27.43486,
+    85.93448000000002,
+    27.43486
+],
+  "geometry": {"coordinates":[85.93448000000002,27.43486],"type":"Point"}
+}

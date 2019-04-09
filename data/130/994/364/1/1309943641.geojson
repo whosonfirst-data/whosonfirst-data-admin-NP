@@ -1,0 +1,66 @@
+{
+  "id": 1309943641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.02885,26.37882,88.02885,26.37882",
+    "geom:latitude":26.37882,
+    "geom:longitude":88.02885,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40027.0",
+    "gn:asciiname":"Bairbari",
+    "gn:country_code":"NP",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7954705,
+    "gn:latitude":26.37882,
+    "gn:longitude":88.02885,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bairbari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7954705
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"457c26c07f10f05a9f0ec3a5ba22e4c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1309943641,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309943641,
+    "wof:lastmodified":1536732647,
+    "wof:name":"Bairbari",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.02885,
+    26.37882,
+    88.02885,
+    26.37882
+],
+  "geometry": {"coordinates":[88.02885000000001,26.37882],"type":"Point"}
+}

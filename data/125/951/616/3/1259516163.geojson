@@ -1,0 +1,78 @@
+{
+  "id": 1259516163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.79339,28.6152,81.79339,28.6152",
+    "geom:latitude":28.6152,
+    "geom:longitude":81.79339,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590039.0",
+    "gn:asciiname":"Baiseri",
+    "gn:country_code":"NP",
+    "gn:dem":1345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8000008,
+    "gn:latitude":28.6152,
+    "gn:longitude":81.79339,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Baiseri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8000008
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1b89a13d2cfe3e7d7ca4d27572ec3c1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1259516163,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1259516163,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1259516163,
+    "wof:lastmodified":1536811377,
+    "wof:name":"Baiseri",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.79339,
+    28.6152,
+    81.79339,
+    28.6152
+],
+  "geometry": {"coordinates":[81.79339,28.6152],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209543879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.54944,28.23739,81.54944,28.23739",
+    "geom:latitude":28.23739,
+    "geom:longitude":81.54944,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"58.0",
+    "gn:admin4_code":"580004.0",
+    "gn:asciiname":"Uttar Bhakari",
+    "gn:country_code":"NP",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009381,
+    "gn:latitude":28.23739,
+    "gn:longitude":81.54944,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Uttar Bhakari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009381
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f3c4ee8d9effa10bdd1f7aebb58c7218",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209543879
+        }
+    ],
+    "wof:id":1209543879,
+    "wof:lastmodified":1536283904,
+    "wof:name":"Uttar Bhakari",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.54944,
+    28.23739,
+    81.54944,
+    28.23739
+],
+  "geometry": {"coordinates":[81.54944,28.23739],"type":"Point"}
+}

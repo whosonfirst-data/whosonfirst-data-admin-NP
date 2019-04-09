@@ -1,0 +1,78 @@
+{
+  "id": 1343790133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.98699,29.25526,81.98699,29.25526",
+    "geom:latitude":29.25526,
+    "geom:longitude":81.98699,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"630016.0",
+    "gn:asciiname":"Jagatikholagaun",
+    "gn:country_code":"NP",
+    "gn:dem":3112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7955890,
+    "gn:latitude":29.25526,
+    "gn:longitude":81.98699,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jagatikholagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092050797,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7955890
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0bab64c6e87065accec1919182ef30f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1343790133,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1343790133,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1343790133,
+    "wof:lastmodified":1536768727,
+    "wof:name":"Jagatikholagaun",
+    "wof:parent_id":1092050797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.98699,
+    29.25526,
+    81.98699,
+    29.25526
+],
+  "geometry": {"coordinates":[81.98699000000001,29.25526],"type":"Point"}
+}

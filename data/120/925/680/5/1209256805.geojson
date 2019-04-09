@@ -1,0 +1,64 @@
+{
+  "id": 1209256805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.27705,27.97496,85.27705,27.97496",
+    "geom:latitude":27.97496,
+    "geom:longitude":85.27705,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"29",
+    "gn:admin4_code":"290013",
+    "gn:asciiname":"Saramthali",
+    "gn:country_code":"NP",
+    "gn:dem":1496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7982260,
+    "gn:latitude":27.97496,
+    "gn:longitude":85.27705,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Saramthali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7982260
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a9be4ba596382aadb5fc8537ebeb3178",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209256805
+        }
+    ],
+    "wof:id":1209256805,
+    "wof:lastmodified":1536292826,
+    "wof:name":"Saramthali",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.27705,
+    27.97496,
+    85.27705,
+    27.97496
+],
+  "geometry": {"coordinates":[85.27705,27.97496],"type":"Point"}
+}

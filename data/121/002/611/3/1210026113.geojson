@@ -1,0 +1,79 @@
+{
+  "id": 1210026113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.31417,27.81917,85.31417,27.81917",
+    "geom:latitude":27.81917,
+    "geom:longitude":85.31417,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gurungau",
+    "gn:country_code":"NP",
+    "gn:dem":1704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10316763,
+    "gn:latitude":27.81917,
+    "gn:longitude":85.31417,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Guru\u1e45g\u0101\u0169",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guru\u1e45g\u0101\u0169",
+        "Guru\u1e45g\u0101un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10316763
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e09707f93088f200983bb210c5d51c58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1210026113,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1210026113,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1210026113,
+    "wof:lastmodified":1537676078,
+    "wof:name":"Gurungau",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.31416999999998,
+    27.81917,
+    85.31416999999998,
+    27.81917
+],
+  "geometry": {"coordinates":[85.31416999999998,27.81917],"type":"Point"}
+}

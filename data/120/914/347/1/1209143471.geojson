@@ -1,0 +1,64 @@
+{
+  "id": 1209143471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.10483,28.20022,84.10483,28.20022",
+    "geom:latitude":28.20022,
+    "geom:longitude":84.10483,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400026.0",
+    "gn:asciiname":"Kadelgaun",
+    "gn:country_code":"NP",
+    "gn:dem":882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7961163,
+    "gn:latitude":28.20022,
+    "gn:longitude":84.10483,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kadelgaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7961163
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a22b0f60b47239db362f97f692d64641",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209143471
+        }
+    ],
+    "wof:id":1209143471,
+    "wof:lastmodified":1536296430,
+    "wof:name":"Kadelgaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.10483,
+    28.20022,
+    84.10483,
+    28.20022
+],
+  "geometry": {"coordinates":[84.10483000000001,28.20022],"type":"Point"}
+}

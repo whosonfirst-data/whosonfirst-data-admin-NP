@@ -1,0 +1,78 @@
+{
+  "id": 1276262215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.04797,28.25358,83.04797,28.25358",
+    "geom:latitude":28.25358,
+    "geom:longitude":83.04797,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"52",
+    "gn:admin4_code":"520001",
+    "gn:asciiname":"Thatrapatal",
+    "gn:country_code":"NP",
+    "gn:dem":1730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7979636,
+    "gn:latitude":28.25358,
+    "gn:longitude":83.04797,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thatrapatal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049377,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7979636
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"303833024819000c918054e3ae7ffb75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1276262215,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1276262215,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1276262215,
+    "wof:lastmodified":1536872951,
+    "wof:name":"Thatrapatal",
+    "wof:parent_id":1092049377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.04796999999998,
+    28.25358,
+    83.04796999999998,
+    28.25358
+],
+  "geometry": {"coordinates":[83.04796999999998,28.25358],"type":"Point"}
+}

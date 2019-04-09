@@ -1,0 +1,76 @@
+{
+  "id": 1326978437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.30727,27.66211,85.30727,27.66211",
+    "geom:latitude":27.66211,
+    "geom:longitude":85.30727,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Nakkhu",
+    "gn:country_code":"NP",
+    "gn:dem":1287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8740354,
+    "gn:latitude":27.66211,
+    "gn:longitude":85.30727,
+    "gn:modification_date":"2014-03-27",
+    "gn:name":"Nakkhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048971,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8740354
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"65f172cec8ef3b580303ed056f50c63d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048971,
+            "locality_id":1326978437,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048971,
+            "locality_id":1326978437,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1326978437,
+    "wof:lastmodified":1536837396,
+    "wof:name":"Nakkhu",
+    "wof:parent_id":1092048971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.30726999999997,
+    27.66211,
+    85.30726999999997,
+    27.66211
+],
+  "geometry": {"coordinates":[85.30726999999997,27.66211],"type":"Point"}
+}

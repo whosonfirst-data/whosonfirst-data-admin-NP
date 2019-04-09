@@ -1,0 +1,78 @@
+{
+  "id": 1327071711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.34105,28.49045,83.34105,28.49045",
+    "geom:latitude":28.49045,
+    "geom:longitude":83.34105,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"43",
+    "gn:admin4_code":"430039",
+    "gn:asciiname":"Machhim",
+    "gn:country_code":"NP",
+    "gn:dem":1868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7972667,
+    "gn:latitude":28.49045,
+    "gn:longitude":83.34105,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Machhim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675553,
+        1092049089,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7972667
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"372347a98aa9e9835bdf9326cd076b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049089,
+            "locality_id":1327071711,
+            "region_id":85675553
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049089,
+            "locality_id":1327071711,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1327071711,
+    "wof:lastmodified":1536703989,
+    "wof:name":"Machhim",
+    "wof:parent_id":1092049089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.34105,
+    28.49045,
+    83.34105,
+    28.49045
+],
+  "geometry": {"coordinates":[83.34105,28.49045],"type":"Point"}
+}

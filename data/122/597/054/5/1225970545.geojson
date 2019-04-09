@@ -1,0 +1,78 @@
+{
+  "id": 1225970545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.58587,28.61037,81.58587,28.61037",
+    "geom:latitude":28.61037,
+    "geom:longitude":81.58587,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590008.0",
+    "gn:asciiname":"Dhodekhali",
+    "gn:country_code":"NP",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7998693,
+    "gn:latitude":28.61037,
+    "gn:longitude":81.58587,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhodekhali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7998693
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a40721c0e23a7e464a8b86dd2b377106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1225970545,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1225970545,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1225970545,
+    "wof:lastmodified":1536832618,
+    "wof:name":"Dhodekhali",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.58587,
+    28.61037,
+    81.58587,
+    28.61037
+],
+  "geometry": {"coordinates":[81.58587,28.61037],"type":"Point"}
+}

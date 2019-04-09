@@ -1,0 +1,78 @@
+{
+  "id": 1260229169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.3126,27.58143,85.3126,27.58143",
+    "geom:latitude":27.58143,
+    "geom:longitude":85.3126,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"25",
+    "gn:admin4_code":"250010",
+    "gn:asciiname":"Hanumat",
+    "gn:country_code":"NP",
+    "gn:dem":1552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7965474,
+    "gn:latitude":27.58143,
+    "gn:longitude":85.3126,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Hanumat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048971,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7965474
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b44511f52b4b5f6809e4e07127b341ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048971,
+            "locality_id":1260229169,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048971,
+            "locality_id":1260229169,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1260229169,
+    "wof:lastmodified":1536786231,
+    "wof:name":"Hanumat",
+    "wof:parent_id":1092048971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.3126,
+    27.58143,
+    85.3126,
+    27.58143
+],
+  "geometry": {"coordinates":[85.3126,27.58143],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343709975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.21234,27.23718,86.21234,27.23718",
+    "geom:latitude":27.23718,
+    "geom:longitude":86.21234,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200049.0",
+    "gn:asciiname":"Sunnam",
+    "gn:country_code":"NP",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7994116,
+    "gn:latitude":27.23718,
+    "gn:longitude":86.21234,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sunnam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049679,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7994116
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0a1533122b275261e870a3465d4da594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1343709975,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1343709975,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1343709975,
+    "wof:lastmodified":1536883175,
+    "wof:name":"Sunnam",
+    "wof:parent_id":1092049679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.21234,
+    27.23718,
+    86.21234,
+    27.23718
+],
+  "geometry": {"coordinates":[86.21234,27.23718],"type":"Point"}
+}

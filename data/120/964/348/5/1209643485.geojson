@@ -1,0 +1,64 @@
+{
+  "id": 1209643485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.62167,29.23811,81.62167,29.23811",
+    "geom:latitude":29.23811,
+    "geom:longitude":81.62167,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"64.0",
+    "gn:admin4_code":"640022.0",
+    "gn:asciiname":"Khote",
+    "gn:country_code":"NP",
+    "gn:dem":1222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7958359,
+    "gn:latitude":29.23811,
+    "gn:longitude":81.62167,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khote",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7958359
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3eba6ad00c1ba41893df25b9ba270fb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209643485
+        }
+    ],
+    "wof:id":1209643485,
+    "wof:lastmodified":1536280810,
+    "wof:name":"Khote",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.62167,
+    29.23811,
+    81.62167,
+    29.23811
+],
+  "geometry": {"coordinates":[81.62166999999999,29.23811],"type":"Point"}
+}

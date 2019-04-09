@@ -1,0 +1,64 @@
+{
+  "id": 1209447901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.29781,29.14323,80.29781,29.14323",
+    "geom:latitude":29.14323,
+    "geom:longitude":80.29781,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"73.0",
+    "gn:admin4_code":"730013.0",
+    "gn:asciiname":"Rampur",
+    "gn:country_code":"NP",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7936113,
+    "gn:latitude":29.14323,
+    "gn:longitude":80.29781,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Rampur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7936113
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"49a78e9b2681fdcd9af48e2ada531486",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209447901
+        }
+    ],
+    "wof:id":1209447901,
+    "wof:lastmodified":1536286761,
+    "wof:name":"Rampur",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.29781,
+    29.14323,
+    80.29781,
+    29.14323
+],
+  "geometry": {"coordinates":[80.29781,29.14323],"type":"Point"}
+}

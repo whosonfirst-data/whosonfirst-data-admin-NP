@@ -1,0 +1,78 @@
+{
+  "id": 1193061547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.78257,27.31771,87.78257,27.31771",
+    "geom:latitude":27.31771,
+    "geom:longitude":87.78257,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10007.0",
+    "gn:asciiname":"Dumrise",
+    "gn:country_code":"NP",
+    "gn:dem":1472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005074,
+    "gn:latitude":27.31771,
+    "gn:longitude":87.78257,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dumrise",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005074
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"26489d37d58f7f30d25b2500a494abb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1193061547,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1193061547,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1193061547,
+    "wof:lastmodified":1536377325,
+    "wof:name":"Dumrise",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.78256999999998,
+    27.31771,
+    87.78256999999998,
+    27.31771
+],
+  "geometry": {"coordinates":[87.78256999999998,27.31771],"type":"Point"}
+}

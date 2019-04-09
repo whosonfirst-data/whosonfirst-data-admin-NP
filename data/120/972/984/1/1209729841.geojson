@@ -1,0 +1,75 @@
+{
+  "id": 1209729841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.86468,27.88845,83.86468,27.88845",
+    "geom:latitude":27.88845,
+    "geom:longitude":83.86468,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mariphant",
+    "gn:country_code":"NP",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283053,
+    "gn:latitude":27.88845,
+    "gn:longitude":83.86468,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"M\u0101riph\u0101nt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283053
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bb0d07bd3ee9c134b84de526fbde8bf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1209729841,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1209729841,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1209729841,
+    "wof:lastmodified":1536379833,
+    "wof:name":"Mariphant",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.86468,
+    27.88845,
+    83.86468,
+    27.88845
+],
+  "geometry": {"coordinates":[83.86468000000001,27.88845],"type":"Point"}
+}

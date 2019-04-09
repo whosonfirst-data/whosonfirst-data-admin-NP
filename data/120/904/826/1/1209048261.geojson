@@ -1,0 +1,64 @@
+{
+  "id": 1209048261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.33135,28.00206,83.33135,28.00206",
+    "geom:latitude":28.00206,
+    "geom:longitude":83.33135,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"46.0",
+    "gn:admin4_code":"460040.0",
+    "gn:asciiname":"Noram Gaun",
+    "gn:country_code":"NP",
+    "gn:dem":1100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7950249,
+    "gn:latitude":28.00206,
+    "gn:longitude":83.33135,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Noram Gaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7950249
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ffd1503b1ba9c0f66a8932fb361fdd05",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209048261
+        }
+    ],
+    "wof:id":1209048261,
+    "wof:lastmodified":1536299326,
+    "wof:name":"Noram Gaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.33135,
+    28.00206,
+    83.33135,
+    28.00206
+],
+  "geometry": {"coordinates":[83.33135,28.00206],"type":"Point"}
+}

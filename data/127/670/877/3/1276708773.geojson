@@ -1,0 +1,78 @@
+{
+  "id": 1276708773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.72544,26.92961,86.72544,26.92961",
+    "geom:latitude":26.92961,
+    "geom:longitude":86.72544,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140019.0",
+    "gn:asciiname":"Kopche",
+    "gn:country_code":"NP",
+    "gn:dem":1069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007005,
+    "gn:latitude":26.92961,
+    "gn:longitude":86.72544,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kopche",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050179,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007005
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fea7dfc18b7cd1ae96722b3e404899c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1276708773,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1276708773,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1276708773,
+    "wof:lastmodified":1536773416,
+    "wof:name":"Kopche",
+    "wof:parent_id":1092050179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.72544,
+    26.92961,
+    86.72544,
+    26.92961
+],
+  "geometry": {"coordinates":[86.72544000000001,26.92961],"type":"Point"}
+}

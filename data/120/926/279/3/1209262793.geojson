@@ -1,0 +1,64 @@
+{
+  "id": 1209262793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.61904,27.98355,85.61904,27.98355",
+    "geom:latitude":27.98355,
+    "geom:longitude":85.61904,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"23",
+    "gn:admin4_code":"230007",
+    "gn:asciiname":"Dalegaun",
+    "gn:country_code":"NP",
+    "gn:dem":1980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7994344,
+    "gn:latitude":27.98355,
+    "gn:longitude":85.61904,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dalegaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7994344
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"83934da5dcf97029920b0151172ae7a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209262793
+        }
+    ],
+    "wof:id":1209262793,
+    "wof:lastmodified":1536292636,
+    "wof:name":"Dalegaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.61904,
+    27.98355,
+    85.61904,
+    27.98355
+],
+  "geometry": {"coordinates":[85.61904,27.98355],"type":"Point"}
+}

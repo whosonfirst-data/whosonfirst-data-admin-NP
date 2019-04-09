@@ -1,0 +1,78 @@
+{
+  "id": 1293338105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.58533,27.94465,83.58533,27.94465",
+    "geom:latitude":27.94465,
+    "geom:longitude":83.58533,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390052.0",
+    "gn:asciiname":"Imsilgaun",
+    "gn:country_code":"NP",
+    "gn:dem":886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002187,
+    "gn:latitude":27.94465,
+    "gn:longitude":83.58533,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Imsilgaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002187
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"504cf7c6215a9fd10caa769c7759b59f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1293338105,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1293338105,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293338105,
+    "wof:lastmodified":1537001697,
+    "wof:name":"Imsilgaun",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.58533,
+    27.94465,
+    83.58533,
+    27.94465
+],
+  "geometry": {"coordinates":[83.58533,27.94465],"type":"Point"}
+}

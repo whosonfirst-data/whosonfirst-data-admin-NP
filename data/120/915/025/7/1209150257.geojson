@@ -1,0 +1,64 @@
+{
+  "id": 1209150257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.50056,27.83149,85.50056,27.83149",
+    "geom:latitude":27.83149,
+    "geom:longitude":85.50056,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"23",
+    "gn:admin4_code":"230071",
+    "gn:asciiname":"Amale",
+    "gn:country_code":"NP",
+    "gn:dem":1834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7995471,
+    "gn:latitude":27.83149,
+    "gn:longitude":85.50056,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Amale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7995471
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"32db41e8c6e82b7fb27ae3f0f65b2a79",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209150257
+        }
+    ],
+    "wof:id":1209150257,
+    "wof:lastmodified":1536296225,
+    "wof:name":"Amale",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.50056,
+    27.83149,
+    85.50056,
+    27.83149
+],
+  "geometry": {"coordinates":[85.50055999999999,27.83149],"type":"Point"}
+}

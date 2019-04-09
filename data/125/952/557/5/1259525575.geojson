@@ -1,0 +1,78 @@
+{
+  "id": 1259525575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.2653,27.02251,85.2653,27.02251",
+    "geom:latitude":27.02251,
+    "geom:longitude":85.2653,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"32",
+    "gn:admin4_code":"320054",
+    "gn:asciiname":"Chhatawantola",
+    "gn:country_code":"NP",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7982635,
+    "gn:latitude":27.02251,
+    "gn:longitude":85.2653,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chhatawantola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049419,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7982635
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cd2b76b17a05e2a33819f25d51dcbb64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1259525575,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1259525575,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1259525575,
+    "wof:lastmodified":1536798446,
+    "wof:name":"Chhatawantola",
+    "wof:parent_id":1092049419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.2653,
+    27.02251,
+    85.2653,
+    27.02251
+],
+  "geometry": {"coordinates":[85.2653,27.02251],"type":"Point"}
+}

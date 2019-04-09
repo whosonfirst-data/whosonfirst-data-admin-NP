@@ -1,0 +1,78 @@
+{
+  "id": 1277114267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.75134,28.07266,83.75134,28.07266",
+    "geom:latitude":28.07266,
+    "geom:longitude":83.75134,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390002.0",
+    "gn:asciiname":"Bhaktikot",
+    "gn:country_code":"NP",
+    "gn:dem":1421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8000597,
+    "gn:latitude":28.07266,
+    "gn:longitude":83.75134,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhaktikot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8000597
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"30325d5d4ae509ca3c72af5977c748e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1277114267,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1277114267,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1277114267,
+    "wof:lastmodified":1536722460,
+    "wof:name":"Bhaktikot",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.75134,
+    28.07266,
+    83.75134,
+    28.07266
+],
+  "geometry": {"coordinates":[83.75134,28.07266],"type":"Point"}
+}

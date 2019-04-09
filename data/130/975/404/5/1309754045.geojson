@@ -1,0 +1,78 @@
+{
+  "id": 1309754045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.61512,28.14923,83.61512,28.14923",
+    "geom:latitude":28.14923,
+    "geom:longitude":83.61512,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450023.0",
+    "gn:asciiname":"Dhadswara",
+    "gn:country_code":"NP",
+    "gn:dem":1545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7955757,
+    "gn:latitude":28.14923,
+    "gn:longitude":83.61512,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhadswara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7955757
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6d381bbf2ee86d9d30737b41e021e93e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1309754045,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1309754045,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1309754045,
+    "wof:lastmodified":1537004983,
+    "wof:name":"Dhadswara",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.61511999999998,
+    28.14923,
+    83.61511999999998,
+    28.14923
+],
+  "geometry": {"coordinates":[83.61511999999998,28.14923],"type":"Point"}
+}

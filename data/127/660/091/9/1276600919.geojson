@@ -1,0 +1,78 @@
+{
+  "id": 1276600919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.19183,28.03546,83.19183,28.03546",
+    "geom:latitude":28.03546,
+    "geom:longitude":83.19183,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"51.0",
+    "gn:admin4_code":"510003.0",
+    "gn:asciiname":"Mani Pokhara",
+    "gn:country_code":"NP",
+    "gn:dem":1375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7938587,
+    "gn:latitude":28.03546,
+    "gn:longitude":83.19183,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mani Pokhara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092049537,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7938587
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a1cb6e36f1333615ee9848458792b8aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049537,
+            "locality_id":1276600919,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049537,
+            "locality_id":1276600919,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1276600919,
+    "wof:lastmodified":1536918242,
+    "wof:name":"Mani Pokhara",
+    "wof:parent_id":1092049537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.19183000000002,
+    28.03546,
+    83.19183000000002,
+    28.03546
+],
+  "geometry": {"coordinates":[83.19183000000002,28.03546],"type":"Point"}
+}

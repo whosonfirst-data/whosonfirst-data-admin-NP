@@ -1,0 +1,78 @@
+{
+  "id": 1259509711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.47329,29.12857,81.47329,29.12857",
+    "geom:latitude":29.12857,
+    "geom:longitude":81.47329,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"69.0",
+    "gn:admin4_code":"690075.0",
+    "gn:asciiname":"Chubanepani",
+    "gn:country_code":"NP",
+    "gn:dem":1771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7937979,
+    "gn:latitude":29.12857,
+    "gn:longitude":81.47329,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chubanepani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048527,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7937979
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0472856687377d5a41a5073e8640b32d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1259509711,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1259509711,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1259509711,
+    "wof:lastmodified":1536820332,
+    "wof:name":"Chubanepani",
+    "wof:parent_id":1092048527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.47329,
+    29.12857,
+    81.47329,
+    29.12857
+],
+  "geometry": {"coordinates":[81.47329000000001,29.12857],"type":"Point"}
+}

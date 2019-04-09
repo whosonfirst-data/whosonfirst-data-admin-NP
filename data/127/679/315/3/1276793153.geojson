@@ -1,0 +1,78 @@
+{
+  "id": 1276793153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.85485,28.99962,82.85485,28.99962",
+    "geom:latitude":28.99962,
+    "geom:longitude":82.85485,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"62.0",
+    "gn:admin4_code":"620023.0",
+    "gn:asciiname":"Rasigaun",
+    "gn:country_code":"NP",
+    "gn:dem":3299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7945791,
+    "gn:latitude":28.99962,
+    "gn:longitude":82.85485,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Rasigaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050349,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7945791
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0d7c89221035d187b9c8afcb69473059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1276793153,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1276793153,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1276793153,
+    "wof:lastmodified":1536659994,
+    "wof:name":"Rasigaun",
+    "wof:parent_id":1092050349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.85485,
+    28.99962,
+    82.85485,
+    28.99962
+],
+  "geometry": {"coordinates":[82.85485,28.99962],"type":"Point"}
+}

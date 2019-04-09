@@ -1,0 +1,81 @@
+{
+  "id": 1226360283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.01813,28.54491,81.01813,28.54491",
+    "geom:latitude":28.54491,
+    "geom:longitude":81.01813,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lakar",
+    "gn:country_code":"NP",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283157,
+    "gn:latitude":28.54491,
+    "gn:longitude":81.01813,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Lakar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Lakar"
+    ],
+    "name:und_x_variant":[
+        "Lakkar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283157
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1e1622c64745c2a653c2b6c715aa0aa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1226360283,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1226360283,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1226360283,
+    "wof:lastmodified":1537676050,
+    "wof:name":"Lakar",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.01813,
+    28.54491,
+    81.01813,
+    28.54491
+],
+  "geometry": {"coordinates":[81.01813,28.54491],"type":"Point"}
+}

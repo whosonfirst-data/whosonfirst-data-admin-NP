@@ -1,0 +1,64 @@
+{
+  "id": 1209356845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.63048,27.75338,84.63048,27.75338",
+    "geom:latitude":27.75338,
+    "geom:longitude":84.63048,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"35.0",
+    "gn:admin4_code":"350020.0",
+    "gn:asciiname":"Jaithali",
+    "gn:country_code":"NP",
+    "gn:dem":1566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7934601,
+    "gn:latitude":27.75338,
+    "gn:longitude":84.63048,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jaithali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7934601
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ec0c5ca11c2d1b75a7ab69ab05736101",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209356845
+        }
+    ],
+    "wof:id":1209356845,
+    "wof:lastmodified":1536289562,
+    "wof:name":"Jaithali",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.63048,
+    27.75338,
+    84.63048,
+    27.75338
+],
+  "geometry": {"coordinates":[84.63048000000001,27.75338],"type":"Point"}
+}

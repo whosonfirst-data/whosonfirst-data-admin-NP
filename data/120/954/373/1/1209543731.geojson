@@ -1,0 +1,64 @@
+{
+  "id": 1209543731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.45485,29.15168,80.45485,29.15168",
+    "geom:latitude":29.15168,
+    "geom:longitude":80.45485,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"73.0",
+    "gn:admin4_code":"730002.0",
+    "gn:asciiname":"Nagpani",
+    "gn:country_code":"NP",
+    "gn:dem":1176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7935285,
+    "gn:latitude":29.15168,
+    "gn:longitude":80.45485,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nagpani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7935285
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a6509aac9d7bd3667b200611775e6d44",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209543731
+        }
+    ],
+    "wof:id":1209543731,
+    "wof:lastmodified":1536283908,
+    "wof:name":"Nagpani",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.45485,
+    29.15168,
+    80.45485,
+    29.15168
+],
+  "geometry": {"coordinates":[80.45484999999999,29.15168],"type":"Point"}
+}

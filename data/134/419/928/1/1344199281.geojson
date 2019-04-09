@@ -1,0 +1,78 @@
+{
+  "id": 1344199281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.76394,27.2934,87.76394,27.2934",
+    "geom:latitude":27.2934,
+    "geom:longitude":87.76394,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10003.0",
+    "gn:asciiname":"Tumangkhe",
+    "gn:country_code":"NP",
+    "gn:dem":811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005004,
+    "gn:latitude":27.2934,
+    "gn:longitude":87.76394,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tumangkhe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005004
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5a8952a4d358db171452092bbd8b94de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1344199281,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1344199281,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1344199281,
+    "wof:lastmodified":1536675257,
+    "wof:name":"Tumangkhe",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.76394,
+    27.2934,
+    87.76394,
+    27.2934
+],
+  "geometry": {"coordinates":[87.76394000000001,27.2934],"type":"Point"}
+}

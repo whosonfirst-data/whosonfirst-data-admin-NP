@@ -1,0 +1,64 @@
+{
+  "id": 1209657385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.20685,28.0228,85.20685,28.0228",
+    "geom:latitude":28.0228,
+    "geom:longitude":85.20685,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"29",
+    "gn:admin4_code":"290010",
+    "gn:asciiname":"Dhunge",
+    "gn:country_code":"NP",
+    "gn:dem":1515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7982205,
+    "gn:latitude":28.0228,
+    "gn:longitude":85.20685,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhunge",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7982205
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e6bfb161daa5c91b7876891134f75f30",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209657385
+        }
+    ],
+    "wof:id":1209657385,
+    "wof:lastmodified":1536280383,
+    "wof:name":"Dhunge",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.20685,
+    28.0228,
+    85.20685,
+    28.0228
+],
+  "geometry": {"coordinates":[85.20685,28.0228],"type":"Point"}
+}

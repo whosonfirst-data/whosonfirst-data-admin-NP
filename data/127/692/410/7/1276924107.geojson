@@ -1,0 +1,78 @@
+{
+  "id": 1276924107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.7071,27.08001,87.7071,27.08001",
+    "geom:latitude":27.08001,
+    "geom:longitude":87.7071,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"2",
+    "gn:admin4_code":"20023",
+    "gn:asciiname":"Sandhane",
+    "gn:country_code":"NP",
+    "gn:dem":1174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7977645,
+    "gn:latitude":27.08001,
+    "gn:longitude":87.7071,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sandhane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7977645
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e48eda2986ea25a90061176a14f6e331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1276924107,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1276924107,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1276924107,
+    "wof:lastmodified":1536981333,
+    "wof:name":"Sandhane",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.7071,
+    27.08001,
+    87.7071,
+    27.08001
+],
+  "geometry": {"coordinates":[87.7071,27.08001],"type":"Point"}
+}

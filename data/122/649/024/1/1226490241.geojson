@@ -1,0 +1,78 @@
+{
+  "id": 1226490241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.97145,28.1271,83.97145,28.1271",
+    "geom:latitude":28.1271,
+    "geom:longitude":83.97145,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390055.0",
+    "gn:asciiname":"Asamati",
+    "gn:country_code":"NP",
+    "gn:dem":858,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002308,
+    "gn:latitude":28.1271,
+    "gn:longitude":83.97145,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Asamati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002308
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"77d53accc0c2df1710da6ff224630545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1226490241,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1226490241,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1226490241,
+    "wof:lastmodified":1537074991,
+    "wof:name":"Asamati",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.97145,
+    28.1271,
+    83.97145,
+    28.1271
+],
+  "geometry": {"coordinates":[83.97145,28.1271],"type":"Point"}
+}

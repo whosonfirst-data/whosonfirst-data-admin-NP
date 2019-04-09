@@ -1,0 +1,64 @@
+{
+  "id": 1209463147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.29662,26.79487,87.29662,26.79487",
+    "geom:latitude":26.79487,
+    "geom:longitude":87.29662,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"6.0",
+    "gn:admin4_code":"60018.0",
+    "gn:asciiname":"Mamachok",
+    "gn:country_code":"NP",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7997711,
+    "gn:latitude":26.79487,
+    "gn:longitude":87.29662,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mamachok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7997711
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2e0c89c3766e30e7976ffd1f1abc53de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209463147
+        }
+    ],
+    "wof:id":1209463147,
+    "wof:lastmodified":1536286318,
+    "wof:name":"Mamachok",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.29661999999998,
+    26.79487,
+    87.29661999999998,
+    26.79487
+],
+  "geometry": {"coordinates":[87.29661999999998,26.79487],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1259611535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.36193,29.09122,81.36193,29.09122",
+    "geom:latitude":29.09122,
+    "geom:longitude":81.36193,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"69.0",
+    "gn:admin4_code":"690041.0",
+    "gn:asciiname":"Risado",
+    "gn:country_code":"NP",
+    "gn:dem":1410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8000967,
+    "gn:latitude":29.09122,
+    "gn:longitude":81.36193,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Risado",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048527,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8000967
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3955225188c2884a5b2bb800e3d8127d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1259611535,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1259611535,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1259611535,
+    "wof:lastmodified":1536674470,
+    "wof:name":"Risado",
+    "wof:parent_id":1092048527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.36193,
+    29.09122,
+    81.36193,
+    29.09122
+],
+  "geometry": {"coordinates":[81.36193,29.09122],"type":"Point"}
+}

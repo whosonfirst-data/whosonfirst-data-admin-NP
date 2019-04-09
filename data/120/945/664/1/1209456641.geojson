@@ -1,0 +1,64 @@
+{
+  "id": 1209456641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.20981,28.26002,84.20981,28.26002",
+    "geom:latitude":28.26002,
+    "geom:longitude":84.20981,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400028.0",
+    "gn:asciiname":"Surki",
+    "gn:country_code":"NP",
+    "gn:dem":852,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7961226,
+    "gn:latitude":28.26002,
+    "gn:longitude":84.20981,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Surki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7961226
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1cd4e58a35270c396d135b7eca5f12fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209456641
+        }
+    ],
+    "wof:id":1209456641,
+    "wof:lastmodified":1536286511,
+    "wof:name":"Surki",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.20981,
+    28.26002,
+    84.20981,
+    28.26002
+],
+  "geometry": {"coordinates":[84.20981,28.26002],"type":"Point"}
+}

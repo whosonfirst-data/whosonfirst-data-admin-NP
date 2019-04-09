@@ -1,0 +1,78 @@
+{
+  "id": 1310431553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.59041,29.88622,81.59041,29.88622",
+    "geom:latitude":29.88622,
+    "geom:longitude":81.59041,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"67.0",
+    "gn:admin4_code":"670005.0",
+    "gn:asciiname":"Thothorekharka",
+    "gn:country_code":"NP",
+    "gn:dem":4033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8000226,
+    "gn:latitude":29.88622,
+    "gn:longitude":81.59041,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thothorekharka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050627,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8000226
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d93ebbaa8f888227c46cd91ff09337e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050627,
+            "locality_id":1310431553,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050627,
+            "locality_id":1310431553,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1310431553,
+    "wof:lastmodified":1537022718,
+    "wof:name":"Thothorekharka",
+    "wof:parent_id":1092050627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.59040999999998,
+    29.88622,
+    81.59040999999998,
+    29.88622
+],
+  "geometry": {"coordinates":[81.59040999999998,29.88622],"type":"Point"}
+}

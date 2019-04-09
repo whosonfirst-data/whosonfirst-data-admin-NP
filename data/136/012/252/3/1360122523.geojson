@@ -1,0 +1,78 @@
+{
+  "id": 1360122523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.17436,27.85572,85.17436,27.85572",
+    "geom:latitude":27.85572,
+    "geom:longitude":85.17436,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"28",
+    "gn:admin4_code":"280038",
+    "gn:asciiname":"Tallo Tigaun",
+    "gn:country_code":"NP",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7974447,
+    "gn:latitude":27.85572,
+    "gn:longitude":85.17436,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tallo Tigaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7974447
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cae4fe22b96540b4480e3a1a52f3e168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1360122523,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1360122523,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1360122523,
+    "wof:lastmodified":1536891259,
+    "wof:name":"Tallo Tigaun",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.17436,
+    27.85572,
+    85.17436,
+    27.85572
+],
+  "geometry": {"coordinates":[85.17435999999999,27.85572],"type":"Point"}
+}

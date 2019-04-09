@@ -1,0 +1,78 @@
+{
+  "id": 1276468627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.86352,29.74725,81.86352,29.74725",
+    "geom:latitude":29.74725,
+    "geom:longitude":81.86352,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"66.0",
+    "gn:admin4_code":"660009.0",
+    "gn:asciiname":"Mathikula Goth",
+    "gn:country_code":"NP",
+    "gn:dem":3619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7950902,
+    "gn:latitude":29.74725,
+    "gn:longitude":81.86352,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mathikula Goth",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050353,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7950902
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9921af11c832fdcc77ea051493c8b16f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1276468627,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1276468627,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1276468627,
+    "wof:lastmodified":1537091460,
+    "wof:name":"Mathikula Goth",
+    "wof:parent_id":1092050353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.86352,
+    29.74725,
+    81.86352,
+    29.74725
+],
+  "geometry": {"coordinates":[81.86351999999999,29.74725],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1243212077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.95069,26.9218,85.95069,26.9218",
+    "geom:latitude":26.9218,
+    "geom:longitude":85.95069,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"17.0",
+    "gn:admin4_code":"170030.0",
+    "gn:asciiname":"Shivanagar",
+    "gn:country_code":"NP",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7943691,
+    "gn:latitude":26.9218,
+    "gn:longitude":85.95069,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Shivanagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092048127,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7943691
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"dd0ead522236fec72451e807275cb53c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048127,
+            "locality_id":1243212077,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048127,
+            "locality_id":1243212077,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1243212077,
+    "wof:lastmodified":1536645997,
+    "wof:name":"Shivanagar",
+    "wof:parent_id":1092048127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.95069000000002,
+    26.9218,
+    85.95069000000002,
+    26.9218
+],
+  "geometry": {"coordinates":[85.95069000000002,26.9218],"type":"Point"}
+}

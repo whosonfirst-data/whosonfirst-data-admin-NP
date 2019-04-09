@@ -1,0 +1,78 @@
+{
+  "id": 1293240631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.81136,27.16117,84.81136,27.16117",
+    "geom:latitude":27.16117,
+    "geom:longitude":84.81136,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"34",
+    "gn:admin4_code":"340040",
+    "gn:asciiname":"Kauwaban",
+    "gn:country_code":"NP",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7979392,
+    "gn:latitude":27.16117,
+    "gn:longitude":84.81136,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kauwaban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092050453,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7979392
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c6e1a0e8ee27732709bd0efdd9e682f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050453,
+            "locality_id":1293240631,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050453,
+            "locality_id":1293240631,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1293240631,
+    "wof:lastmodified":1536645389,
+    "wof:name":"Kauwaban",
+    "wof:parent_id":1092050453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.81136,
+    27.16117,
+    84.81136,
+    27.16117
+],
+  "geometry": {"coordinates":[84.81135999999999,27.16117],"type":"Point"}
+}

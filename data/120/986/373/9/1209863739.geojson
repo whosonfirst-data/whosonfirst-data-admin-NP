@@ -1,0 +1,78 @@
+{
+  "id": 1209863739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.16159,27.4734,83.16159,27.4734",
+    "geom:latitude":27.4734,
+    "geom:longitude":83.16159,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"50.0",
+    "gn:admin4_code":"500014.0",
+    "gn:asciiname":"Jiginihawa",
+    "gn:country_code":"NP",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7959332,
+    "gn:latitude":27.4734,
+    "gn:longitude":83.16159,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jiginihawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048259,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7959332
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c518c24ba6b59e9cf06aebc3753ce94d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1209863739,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1209863739,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1209863739,
+    "wof:lastmodified":1536380940,
+    "wof:name":"Jiginihawa",
+    "wof:parent_id":1092048259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.16159,
+    27.4734,
+    83.16159,
+    27.4734
+],
+  "geometry": {"coordinates":[83.16159,27.4734],"type":"Point"}
+}

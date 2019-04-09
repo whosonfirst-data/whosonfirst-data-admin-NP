@@ -1,0 +1,78 @@
+{
+  "id": 1226780615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.36725,28.00401,82.36725,28.00401",
+    "geom:latitude":28.00401,
+    "geom:longitude":82.36725,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"560006.0",
+    "gn:asciiname":"Bhaisa Pathara",
+    "gn:country_code":"NP",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7938432,
+    "gn:latitude":28.00401,
+    "gn:longitude":82.36725,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhaisa Pathara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048605,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7938432
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a8ef1dcbc8c6a56b1513bc3f4b8c4e35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1226780615,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1226780615,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1226780615,
+    "wof:lastmodified":1536665407,
+    "wof:name":"Bhaisa Pathara",
+    "wof:parent_id":1092048605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.36725,
+    28.00401,
+    82.36725,
+    28.00401
+],
+  "geometry": {"coordinates":[82.36725,28.00401],"type":"Point"}
+}

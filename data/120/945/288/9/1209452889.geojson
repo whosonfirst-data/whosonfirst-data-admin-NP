@@ -1,0 +1,64 @@
+{
+  "id": 1209452889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.14895,27.90098,85.14895,27.90098",
+    "geom:latitude":27.90098,
+    "geom:longitude":85.14895,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"28",
+    "gn:admin4_code":"280008",
+    "gn:asciiname":"Battar Bajar",
+    "gn:country_code":"NP",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7973741,
+    "gn:latitude":27.90098,
+    "gn:longitude":85.14895,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Battar Bajar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7973741
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e93710aa500dd7be7e11f7a67c9b0564",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209452889
+        }
+    ],
+    "wof:id":1209452889,
+    "wof:lastmodified":1536286622,
+    "wof:name":"Battar Bajar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.14895,
+    27.90098,
+    85.14895,
+    27.90098
+],
+  "geometry": {"coordinates":[85.14895,27.90098],"type":"Point"}
+}

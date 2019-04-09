@@ -1,0 +1,78 @@
+{
+  "id": 1343899947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.34462,26.8206,87.34462,26.8206",
+    "geom:latitude":26.8206,
+    "geom:longitude":87.34462,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"6.0",
+    "gn:admin4_code":"60039.0",
+    "gn:asciiname":"Rajbhadar",
+    "gn:country_code":"NP",
+    "gn:dem":979,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7998177,
+    "gn:latitude":26.8206,
+    "gn:longitude":87.34462,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Rajbhadar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049923,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7998177
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"70c1f67e26b3e7d3cc9212eca05668e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1343899947,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1343899947,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1343899947,
+    "wof:lastmodified":1536606736,
+    "wof:name":"Rajbhadar",
+    "wof:parent_id":1092049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.34461999999998,
+    26.8206,
+    87.34461999999998,
+    26.8206
+],
+  "geometry": {"coordinates":[87.34461999999998,26.8206],"type":"Point"}
+}

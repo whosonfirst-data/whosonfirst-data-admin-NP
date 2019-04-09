@@ -1,0 +1,78 @@
+{
+  "id": 1293527411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.84681,26.85504,85.84681,26.85504",
+    "geom:latitude":26.85504,
+    "geom:longitude":85.84681,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"18",
+    "gn:admin4_code":"180033",
+    "gn:asciiname":"Parsa",
+    "gn:country_code":"NP",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7967385,
+    "gn:latitude":26.85504,
+    "gn:longitude":85.84681,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Parsa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092050709,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7967385
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"add70712e1f31951dc3cda6f38d6fe2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050709,
+            "locality_id":1293527411,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050709,
+            "locality_id":1293527411,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1293527411,
+    "wof:lastmodified":1536729868,
+    "wof:name":"Parsa",
+    "wof:parent_id":1092050709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.84680999999998,
+    26.85504,
+    85.84680999999998,
+    26.85504
+],
+  "geometry": {"coordinates":[85.84680999999998,26.85504],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343587367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.00298,28.12217,83.00298,28.12217",
+    "geom:latitude":28.12217,
+    "geom:longitude":83.00298,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"52",
+    "gn:admin4_code":"520049",
+    "gn:asciiname":"Harre",
+    "gn:country_code":"NP",
+    "gn:dem":1068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7980978,
+    "gn:latitude":28.12217,
+    "gn:longitude":83.00298,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Harre",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049377,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7980978
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8b71a1bc7ab450ad9e232ab960915817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1343587367,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1343587367,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1343587367,
+    "wof:lastmodified":1537058177,
+    "wof:name":"Harre",
+    "wof:parent_id":1092049377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.00298000000002,
+    28.12217,
+    83.00298000000002,
+    28.12217
+],
+  "geometry": {"coordinates":[83.00298000000002,28.12217],"type":"Point"}
+}

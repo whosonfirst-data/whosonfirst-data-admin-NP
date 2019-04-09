@@ -1,0 +1,64 @@
+{
+  "id": 1209356819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.39262,27.48984,85.39262,27.48984",
+    "geom:latitude":27.48984,
+    "geom:longitude":85.39262,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"25",
+    "gn:admin4_code":"250020",
+    "gn:asciiname":"Chandevi",
+    "gn:country_code":"NP",
+    "gn:dem":1632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7965579,
+    "gn:latitude":27.48984,
+    "gn:longitude":85.39262,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chandevi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7965579
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6e256599d368aab4d3b81c492b1e7908",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209356819
+        }
+    ],
+    "wof:id":1209356819,
+    "wof:lastmodified":1536289562,
+    "wof:name":"Chandevi",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.39262,
+    27.48984,
+    85.39262,
+    27.48984
+],
+  "geometry": {"coordinates":[85.39261999999999,27.48984],"type":"Point"}
+}

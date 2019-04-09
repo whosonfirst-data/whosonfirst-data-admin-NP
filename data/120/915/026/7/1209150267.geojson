@@ -1,0 +1,64 @@
+{
+  "id": 1209150267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.94485,27.2496,85.94485,27.2496",
+    "geom:latitude":27.2496,
+    "geom:longitude":85.94485,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200008",
+    "gn:asciiname":"Chunetar",
+    "gn:country_code":"NP",
+    "gn:dem":828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7992569,
+    "gn:latitude":27.2496,
+    "gn:longitude":85.94485,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chunetar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7992569
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f72f1228dc91d2bf830937b6d724b8a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209150267
+        }
+    ],
+    "wof:id":1209150267,
+    "wof:lastmodified":1536296225,
+    "wof:name":"Chunetar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.94485,
+    27.2496,
+    85.94485,
+    27.2496
+],
+  "geometry": {"coordinates":[85.94485,27.2496],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209629585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.23451,27.38819,85.23451,27.38819",
+    "geom:latitude":27.38819,
+    "geom:longitude":85.23451,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pipaldadabesi",
+    "gn:country_code":"NP",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10330205,
+    "gn:latitude":27.38819,
+    "gn:longitude":85.23451,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Pipal\u1e0d\u0101\u0303\u1e0d\u0101besi\u0307\u0304",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Pipal\u1e0d\u0101\u0303\u1e0d\u0101besi\u0307\u0304"
+    ],
+    "name:nep_x_variant":[
+        "Pipal\u1e0d\u0101n\u1e0d\u0101bes\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10330205
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"703876f940f241ea5ee4df955c0f8af8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209629585
+        }
+    ],
+    "wof:id":1209629585,
+    "wof:lastmodified":1537676103,
+    "wof:name":"Pipaldadabesi",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.23451,
+    27.38819,
+    85.23451,
+    27.38819
+],
+  "geometry": {"coordinates":[85.23451,27.38819],"type":"Point"}
+}

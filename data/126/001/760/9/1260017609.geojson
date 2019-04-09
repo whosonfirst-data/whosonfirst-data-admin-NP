@@ -1,0 +1,78 @@
+{
+  "id": 1260017609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.8379,27.05652,84.8379,27.05652",
+    "geom:latitude":27.05652,
+    "geom:longitude":84.8379,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"34",
+    "gn:admin4_code":"340012",
+    "gn:asciiname":"Sisiyari",
+    "gn:country_code":"NP",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7979240,
+    "gn:latitude":27.05652,
+    "gn:longitude":84.8379,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sisiyari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092050453,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7979240
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bb041549f413a4e329b0ad77394f70d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050453,
+            "locality_id":1260017609,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050453,
+            "locality_id":1260017609,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1260017609,
+    "wof:lastmodified":1537079674,
+    "wof:name":"Sisiyari",
+    "wof:parent_id":1092050453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.8379,
+    27.05652000000001,
+    84.8379,
+    27.05652000000001
+],
+  "geometry": {"coordinates":[84.8379,27.05652000000001],"type":"Point"}
+}

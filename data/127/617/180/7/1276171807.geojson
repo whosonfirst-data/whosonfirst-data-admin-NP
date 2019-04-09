@@ -1,0 +1,78 @@
+{
+  "id": 1276171807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.54834,28.04054,84.54834,28.04054",
+    "geom:latitude":28.04054,
+    "geom:longitude":84.54834,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360036.0",
+    "gn:asciiname":"Narinchaur",
+    "gn:country_code":"NP",
+    "gn:dem":1058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7948798,
+    "gn:latitude":28.04054,
+    "gn:longitude":84.54834,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Narinchaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7948798
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"59f4497c3a864070f4fee8936c191078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1276171807,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1276171807,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1276171807,
+    "wof:lastmodified":1536994487,
+    "wof:name":"Narinchaur",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.54834,
+    28.04054,
+    84.54834,
+    28.04054
+],
+  "geometry": {"coordinates":[84.54834,28.04054],"type":"Point"}
+}

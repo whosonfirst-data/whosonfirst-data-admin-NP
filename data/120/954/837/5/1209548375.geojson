@@ -1,0 +1,64 @@
+{
+  "id": 1209548375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.54858,28.59126,82.54858,28.59126",
+    "geom:latitude":28.59126,
+    "geom:longitude":82.54858,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"54",
+    "gn:admin4_code":"540037",
+    "gn:asciiname":"Mate Bisauna",
+    "gn:country_code":"NP",
+    "gn:dem":2197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7986409,
+    "gn:latitude":28.59126,
+    "gn:longitude":82.54858,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mate Bisauna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7986409
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"946ef7bff6fcf34c298e7f85d8214475",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209548375
+        }
+    ],
+    "wof:id":1209548375,
+    "wof:lastmodified":1536283772,
+    "wof:name":"Mate Bisauna",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.54858,
+    28.59126,
+    82.54858,
+    28.59126
+],
+  "geometry": {"coordinates":[82.54858,28.59126],"type":"Point"}
+}

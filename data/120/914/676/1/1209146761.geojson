@@ -1,0 +1,64 @@
+{
+  "id": 1209146761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.92432,26.77847,86.92432,26.77847",
+    "geom:latitude":26.77847,
+    "geom:longitude":86.92432,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140006.0",
+    "gn:asciiname":"Sawalitol",
+    "gn:country_code":"NP",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8006593,
+    "gn:latitude":26.77847,
+    "gn:longitude":86.92432,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sawalitol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8006593
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3f2642741329fff69d1c26af544c67af",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209146761
+        }
+    ],
+    "wof:id":1209146761,
+    "wof:lastmodified":1536296331,
+    "wof:name":"Sawalitol",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.92432,
+    26.77847,
+    86.92432,
+    26.77847
+],
+  "geometry": {"coordinates":[86.92431999999999,26.77847],"type":"Point"}
+}

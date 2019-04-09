@@ -1,0 +1,78 @@
+{
+  "id": 1293010295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.865,26.81914,87.865,26.81914",
+    "geom:latitude":26.81914,
+    "geom:longitude":87.865,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sanogau",
+    "gn:country_code":"NP",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11606461,
+    "gn:latitude":26.81914,
+    "gn:longitude":87.865,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"S\u0101nog\u0101\u0169",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "S\u0101nog\u0101\u0169"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11606461
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b547b94709b72a6e084b0ce3f722ef87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1293010295,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1293010295,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1293010295,
+    "wof:lastmodified":1537676125,
+    "wof:name":"Sanogau",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.865,
+    26.81914,
+    87.865,
+    26.81914
+],
+  "geometry": {"coordinates":[87.86499999999999,26.81914],"type":"Point"}
+}

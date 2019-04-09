@@ -1,0 +1,64 @@
+{
+  "id": 1209553129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.76046,26.99716,87.76046,26.99716",
+    "geom:latitude":26.99716,
+    "geom:longitude":87.76046,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30033.0",
+    "gn:asciiname":"Bhattaraigaun",
+    "gn:country_code":"NP",
+    "gn:dem":1599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7952382,
+    "gn:latitude":26.99716,
+    "gn:longitude":87.76046,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhattaraigaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7952382
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4d35dbd69da7b7356aced4464242b747",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209553129
+        }
+    ],
+    "wof:id":1209553129,
+    "wof:lastmodified":1536283631,
+    "wof:name":"Bhattaraigaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.76046,
+    26.99716,
+    87.76046,
+    26.99716
+],
+  "geometry": {"coordinates":[87.76045999999999,26.99716],"type":"Point"}
+}

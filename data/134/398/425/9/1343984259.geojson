@@ -1,0 +1,78 @@
+{
+  "id": 1343984259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.35815,29.24737,82.35815,29.24737",
+    "geom:latitude":29.24737,
+    "geom:longitude":82.35815,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"630025.0",
+    "gn:asciiname":"Siyalgadhi Chuli",
+    "gn:country_code":"NP",
+    "gn:dem":3777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956069,
+    "gn:latitude":29.24737,
+    "gn:longitude":82.35815,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Siyalgadhi Chuli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092050797,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956069
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"20d6a9a257fd43e6d9cb75ff06455213",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1343984259,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1343984259,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1343984259,
+    "wof:lastmodified":1536984928,
+    "wof:name":"Siyalgadhi Chuli",
+    "wof:parent_id":1092050797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.35815,
+    29.24737,
+    82.35815,
+    29.24737
+],
+  "geometry": {"coordinates":[82.35814999999999,29.24737],"type":"Point"}
+}

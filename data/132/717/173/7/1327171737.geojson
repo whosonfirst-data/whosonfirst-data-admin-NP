@@ -1,0 +1,78 @@
+{
+  "id": 1327171737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.64272,27.77621,83.64272,27.77621",
+    "geom:latitude":27.77621,
+    "geom:longitude":83.64272,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"47",
+    "gn:admin4_code":"470031",
+    "gn:asciiname":"Goldihi",
+    "gn:country_code":"NP",
+    "gn:dem":1331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7976407,
+    "gn:latitude":27.77621,
+    "gn:longitude":83.64272,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Goldihi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050889,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7976407
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"174d2163206b1d1a4e8a811c921b8536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1327171737,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1327171737,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1327171737,
+    "wof:lastmodified":1537054732,
+    "wof:name":"Goldihi",
+    "wof:parent_id":1092050889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.64272,
+    27.77621,
+    83.64272,
+    27.77621
+],
+  "geometry": {"coordinates":[83.64272,27.77621],"type":"Point"}
+}

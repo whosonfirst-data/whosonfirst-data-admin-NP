@@ -1,0 +1,78 @@
+{
+  "id": 1343806135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.29771,27.96742,85.29771,27.96742",
+    "geom:latitude":27.96742,
+    "geom:longitude":85.29771,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"28",
+    "gn:admin4_code":"280036",
+    "gn:asciiname":"Prangaun",
+    "gn:country_code":"NP",
+    "gn:dem":1362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7974413,
+    "gn:latitude":27.96742,
+    "gn:longitude":85.29771,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Prangaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7974413
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"26b6aa2518ee46f801304fa74d681b9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1343806135,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1343806135,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1343806135,
+    "wof:lastmodified":1536744804,
+    "wof:name":"Prangaun",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.29771,
+    27.96742,
+    85.29771,
+    27.96742
+],
+  "geometry": {"coordinates":[85.29771,27.96742],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1292936891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.72259,28.44529,81.72259,28.44529",
+    "geom:latitude":28.44529,
+    "geom:longitude":81.72259,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590010.0",
+    "gn:asciiname":"Baunichaur",
+    "gn:country_code":"NP",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7998770,
+    "gn:latitude":28.44529,
+    "gn:longitude":81.72259,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Baunichaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7998770
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8a5370c75bf91b4baf81f0cc255d54e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1292936891,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1292936891,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1292936891,
+    "wof:lastmodified":1537080804,
+    "wof:name":"Baunichaur",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.72259,
+    28.44529,
+    81.72259,
+    28.44529
+],
+  "geometry": {"coordinates":[81.72259,28.44529],"type":"Point"}
+}

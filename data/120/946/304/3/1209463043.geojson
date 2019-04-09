@@ -1,0 +1,64 @@
+{
+  "id": 1209463043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.79558,27.22068,87.79558,27.22068",
+    "geom:latitude":27.22068,
+    "geom:longitude":87.79558,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"2",
+    "gn:admin4_code":"20037.0",
+    "gn:asciiname":"Malbanse",
+    "gn:country_code":"NP",
+    "gn:dem":1036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7978089,
+    "gn:latitude":27.22068,
+    "gn:longitude":87.79558,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Malbanse",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7978089
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"83f2baf4fe859e29708ab1a8374eb7ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209463043
+        }
+    ],
+    "wof:id":1209463043,
+    "wof:lastmodified":1536286321,
+    "wof:name":"Malbanse",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.79558,
+    27.22068,
+    87.79558,
+    27.22068
+],
+  "geometry": {"coordinates":[87.79558,27.22068],"type":"Point"}
+}

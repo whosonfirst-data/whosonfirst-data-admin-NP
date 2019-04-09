@@ -1,0 +1,64 @@
+{
+  "id": 1209054817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.86258,26.84065,85.86258,26.84065",
+    "geom:latitude":26.84065,
+    "geom:longitude":85.86258,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"18",
+    "gn:admin4_code":"180070",
+    "gn:asciiname":"Singyahi",
+    "gn:country_code":"NP",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7967622,
+    "gn:latitude":26.84065,
+    "gn:longitude":85.86258,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Singyahi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7967622
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7d8e08af5a8b190cb833fbc63f36055c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209054817
+        }
+    ],
+    "wof:id":1209054817,
+    "wof:lastmodified":1536299141,
+    "wof:name":"Singyahi",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.86258000000002,
+    26.84065,
+    85.86258000000002,
+    26.84065
+],
+  "geometry": {"coordinates":[85.86258000000002,26.84065],"type":"Point"}
+}

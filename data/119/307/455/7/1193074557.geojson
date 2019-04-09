@@ -1,0 +1,78 @@
+{
+  "id": 1193074557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.3837,27.0391,86.3837,27.0391",
+    "geom:latitude":27.0391,
+    "geom:longitude":86.3837,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140012.0",
+    "gn:asciiname":"Ramkethumka",
+    "gn:country_code":"NP",
+    "gn:dem":607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8006767,
+    "gn:latitude":27.0391,
+    "gn:longitude":86.3837,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ramkethumka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050179,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8006767
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4c06b6e1f5f66fe117e09571ffaa49b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1193074557,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1193074557,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1193074557,
+    "wof:lastmodified":1536365184,
+    "wof:name":"Ramkethumka",
+    "wof:parent_id":1092050179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.3837,
+    27.0391,
+    86.3837,
+    27.0391
+],
+  "geometry": {"coordinates":[86.3837,27.0391],"type":"Point"}
+}

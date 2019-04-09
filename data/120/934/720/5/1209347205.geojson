@@ -1,0 +1,64 @@
+{
+  "id": 1209347205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.51249,28.26848,81.51249,28.26848",
+    "geom:latitude":28.26848,
+    "geom:longitude":81.51249,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"58.0",
+    "gn:admin4_code":"580020.0",
+    "gn:asciiname":"Shankhariya",
+    "gn:country_code":"NP",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009821,
+    "gn:latitude":28.26848,
+    "gn:longitude":81.51249,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Shankhariya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009821
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f1f9a105b20a170f8746589031ba3f00",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209347205
+        }
+    ],
+    "wof:id":1209347205,
+    "wof:lastmodified":1536289871,
+    "wof:name":"Shankhariya",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.51249,
+    28.26848,
+    81.51249,
+    28.26848
+],
+  "geometry": {"coordinates":[81.51249,28.26848],"type":"Point"}
+}

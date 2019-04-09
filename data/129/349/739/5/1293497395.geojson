@@ -1,0 +1,75 @@
+{
+  "id": 1293497395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.11317,29.08341,81.11317,29.08341",
+    "geom:latitude":29.08341,
+    "geom:longitude":81.11317,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Guani",
+    "gn:country_code":"NP",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283371,
+    "gn:latitude":29.08341,
+    "gn:longitude":81.11317,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Gu\u0101ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048653,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283371
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"eab4e346659bd0f1d976e2041499fba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1293497395,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1293497395,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1293497395,
+    "wof:lastmodified":1536773325,
+    "wof:name":"Guani",
+    "wof:parent_id":1092048653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.11317,
+    29.08341,
+    81.11317,
+    29.08341
+],
+  "geometry": {"coordinates":[81.11317,29.08341],"type":"Point"}
+}

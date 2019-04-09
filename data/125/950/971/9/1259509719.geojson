@@ -1,0 +1,78 @@
+{
+  "id": 1259509719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.9174,28.94093,80.9174,28.94093",
+    "geom:latitude":28.94093,
+    "geom:longitude":80.9174,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"70.0",
+    "gn:admin4_code":"700011.0",
+    "gn:asciiname":"Ratadhunga",
+    "gn:country_code":"NP",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7946260,
+    "gn:latitude":28.94093,
+    "gn:longitude":80.9174,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ratadhunga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048653,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7946260
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"91f97a10325deba321363d28d17c930f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1259509719,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1259509719,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1259509719,
+    "wof:lastmodified":1536820318,
+    "wof:name":"Ratadhunga",
+    "wof:parent_id":1092048653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.9174,
+    28.94093,
+    80.9174,
+    28.94093
+],
+  "geometry": {"coordinates":[80.9174,28.94093],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226284429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.94145,27.06809,87.94145,27.06809",
+    "geom:latitude":27.06809,
+    "geom:longitude":87.94145,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30026.0",
+    "gn:asciiname":"Chibe",
+    "gn:country_code":"NP",
+    "gn:dem":1910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7952204,
+    "gn:latitude":27.06809,
+    "gn:longitude":87.94145,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chibe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7952204
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"44da4a67429471faba9144c4ae3e7d4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1226284429,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1226284429,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1226284429,
+    "wof:lastmodified":1536877051,
+    "wof:name":"Chibe",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.94145,
+    27.06809,
+    87.94145,
+    27.06809
+],
+  "geometry": {"coordinates":[87.94145,27.06809],"type":"Point"}
+}

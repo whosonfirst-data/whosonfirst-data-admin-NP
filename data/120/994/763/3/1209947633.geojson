@@ -1,0 +1,78 @@
+{
+  "id": 1209947633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.48216,29.12498,80.48216,29.12498",
+    "geom:latitude":29.12498,
+    "geom:longitude":80.48216,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"73.0",
+    "gn:admin4_code":"730002.0",
+    "gn:asciiname":"Dola",
+    "gn:country_code":"NP",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7935160,
+    "gn:latitude":29.12498,
+    "gn:longitude":80.48216,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675567,
+        1092048697,
+        1108807135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7935160
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"84663938cc01a74c9c6ff948a5a57eb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048697,
+            "locality_id":1209947633,
+            "region_id":85675567
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048697,
+            "locality_id":1209947633,
+            "region_id":1108807135
+        }
+    ],
+    "wof:id":1209947633,
+    "wof:lastmodified":1536385648,
+    "wof:name":"Dola",
+    "wof:parent_id":1092048697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.48216,
+    29.12498,
+    80.48216,
+    29.12498
+],
+  "geometry": {"coordinates":[80.48215999999999,29.12498],"type":"Point"}
+}

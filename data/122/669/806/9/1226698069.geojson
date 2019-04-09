@@ -1,0 +1,78 @@
+{
+  "id": 1226698069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.08214,27.28045,87.08214,27.28045",
+    "geom:latitude":27.28045,
+    "geom:longitude":87.08214,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100012.0",
+    "gn:asciiname":"Patigher",
+    "gn:country_code":"NP",
+    "gn:dem":1863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7932850,
+    "gn:latitude":27.28045,
+    "gn:longitude":87.08214,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Patigher",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7932850
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e06cbbb3d3ab7c209834115622ffb59d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1226698069,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1226698069,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1226698069,
+    "wof:lastmodified":1536784857,
+    "wof:name":"Patigher",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.08214,
+    27.28045,
+    87.08214,
+    27.28045
+],
+  "geometry": {"coordinates":[87.08214,27.28045],"type":"Point"}
+}

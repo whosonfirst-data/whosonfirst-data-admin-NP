@@ -1,0 +1,78 @@
+{
+  "id": 1226791419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.23065,27.33253,85.23065,27.33253",
+    "geom:latitude":27.33253,
+    "geom:longitude":85.23065,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310040",
+    "gn:asciiname":"Hatti Kholagaun",
+    "gn:country_code":"NP",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7969181,
+    "gn:latitude":27.33253,
+    "gn:longitude":85.23065,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Hatti Kholagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7969181
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"312cdb6eb5ff18fb8ccdd806211e2d9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1226791419,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1226791419,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1226791419,
+    "wof:lastmodified":1536649568,
+    "wof:name":"Hatti Kholagaun",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.23065,
+    27.33253,
+    85.23065,
+    27.33253
+],
+  "geometry": {"coordinates":[85.23065,27.33253],"type":"Point"}
+}

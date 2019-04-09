@@ -1,0 +1,78 @@
+{
+  "id": 1343409699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.3062,27.71963,85.3062,27.71963",
+    "geom:latitude":27.71963,
+    "geom:longitude":85.3062,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"27.0",
+    "gn:admin4_code":"270031.0",
+    "gn:asciiname":"Khusibu",
+    "gn:country_code":"NP",
+    "gn:dem":1298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7962289,
+    "gn:latitude":27.71963,
+    "gn:longitude":85.3062,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khusibu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092048931,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7962289
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a9eeb88742f50bddfe9368a96249b3b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":1343409699,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":1343409699,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1343409699,
+    "wof:lastmodified":1536818742,
+    "wof:name":"Khusibu",
+    "wof:parent_id":1092048931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.3062,
+    27.71963,
+    85.3062,
+    27.71963
+],
+  "geometry": {"coordinates":[85.3062,27.71963],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1243113791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.4911,28.28655,83.4911,28.28655",
+    "geom:latitude":28.28655,
+    "geom:longitude":83.4911,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450043.0",
+    "gn:asciiname":"Khor",
+    "gn:country_code":"NP",
+    "gn:dem":1828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7960976,
+    "gn:latitude":28.28655,
+    "gn:longitude":83.4911,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7960976
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"db92541cf306f7ce3ea2605e49a4a6fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1243113791,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1243113791,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1243113791,
+    "wof:lastmodified":1536788552,
+    "wof:name":"Khor",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.4911,
+    28.28655,
+    83.4911,
+    28.28655
+],
+  "geometry": {"coordinates":[83.4911,28.28655],"type":"Point"}
+}

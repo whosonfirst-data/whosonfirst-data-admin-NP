@@ -1,0 +1,78 @@
+{
+  "id": 1326558207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.2891,28.98181,81.2891,28.98181",
+    "geom:latitude":28.98181,
+    "geom:longitude":81.2891,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"69",
+    "gn:admin4_code":"690026",
+    "gn:asciiname":"Thargaun",
+    "gn:country_code":"NP",
+    "gn:dem":1371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7977429,
+    "gn:latitude":28.98181,
+    "gn:longitude":81.2891,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thargaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048527,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7977429
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9c4503af0700797a1751c73eef5d4e91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1326558207,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1326558207,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1326558207,
+    "wof:lastmodified":1536947057,
+    "wof:name":"Thargaun",
+    "wof:parent_id":1092048527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.2891,
+    28.98181,
+    81.2891,
+    28.98181
+],
+  "geometry": {"coordinates":[81.2891,28.98181],"type":"Point"}
+}

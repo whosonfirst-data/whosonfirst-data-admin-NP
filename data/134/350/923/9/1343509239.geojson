@@ -1,0 +1,78 @@
+{
+  "id": 1343509239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.77627,26.78879,87.77627,26.78879",
+    "geom:latitude":26.78879,
+    "geom:longitude":87.77627,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30025.0",
+    "gn:asciiname":"Daduli",
+    "gn:country_code":"NP",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7952138,
+    "gn:latitude":26.78879,
+    "gn:longitude":87.77627,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Daduli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7952138
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7a20470ab82049a1a3d2da919fdb9014",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1343509239,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1343509239,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1343509239,
+    "wof:lastmodified":1536675884,
+    "wof:name":"Daduli",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.77627,
+    26.78879,
+    87.77627,
+    26.78879
+],
+  "geometry": {"coordinates":[87.77627,26.78879],"type":"Point"}
+}

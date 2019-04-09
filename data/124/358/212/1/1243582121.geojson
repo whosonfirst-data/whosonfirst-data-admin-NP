@@ -1,0 +1,78 @@
+{
+  "id": 1243582121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.76984,30.05152,80.76984,30.05152",
+    "geom:latitude":30.05152,
+    "geom:longitude":80.76984,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"75.0",
+    "gn:admin4_code":"750031.0",
+    "gn:asciiname":"Gatee Bagad",
+    "gn:country_code":"NP",
+    "gn:dem":1907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7940805,
+    "gn:latitude":30.05152,
+    "gn:longitude":80.76984,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gatee Bagad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050347,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7940805
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"49e40d73b34c898000e6ad234a95a18f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050347,
+            "locality_id":1243582121,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050347,
+            "locality_id":1243582121,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1243582121,
+    "wof:lastmodified":1536607328,
+    "wof:name":"Gatee Bagad",
+    "wof:parent_id":1092050347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.76984,
+    30.05152,
+    80.76984,
+    30.05152
+],
+  "geometry": {"coordinates":[80.76984,30.05152],"type":"Point"}
+}

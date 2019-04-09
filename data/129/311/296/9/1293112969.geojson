@@ -1,0 +1,81 @@
+{
+  "id": 1293112969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.79614,28.63496,80.79614,28.63496",
+    "geom:latitude":28.63496,
+    "geom:longitude":80.79614,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Binauli",
+    "gn:country_code":"NP",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283703,
+    "gn:latitude":28.63496,
+    "gn:longitude":80.79614,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Binauli\u0307\u0304",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Binauli\u0307\u0304"
+    ],
+    "name:und_x_variant":[
+        "Baindoli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283703
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4ca2d1b86a496f9307d6e508b7483490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1293112969,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1293112969,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1293112969,
+    "wof:lastmodified":1537676064,
+    "wof:name":"Binauli",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.79614000000002,
+    28.63496,
+    80.79614000000002,
+    28.63496
+],
+  "geometry": {"coordinates":[80.79614000000002,28.63496],"type":"Point"}
+}

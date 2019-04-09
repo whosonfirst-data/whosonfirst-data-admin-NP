@@ -1,0 +1,78 @@
+{
+  "id": 1193060247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.62555,27.1023,87.62555,27.1023",
+    "geom:latitude":27.1023,
+    "geom:longitude":87.62555,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"2",
+    "gn:admin4_code":"20032",
+    "gn:asciiname":"Kattike",
+    "gn:country_code":"NP",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7977885,
+    "gn:latitude":27.1023,
+    "gn:longitude":87.62555,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kattike",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7977885
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5d056153b5e83eb2c9a8843353fa4301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1193060247,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1193060247,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1193060247,
+    "wof:lastmodified":1536378553,
+    "wof:name":"Kattike",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.62555,
+    27.1023,
+    87.62555,
+    27.1023
+],
+  "geometry": {"coordinates":[87.62555,27.1023],"type":"Point"}
+}

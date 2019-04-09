@@ -1,0 +1,78 @@
+{
+  "id": 1343906027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.55415,27.37497,87.55415,27.37497",
+    "geom:latitude":27.37497,
+    "geom:longitude":87.55415,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10029.0",
+    "gn:asciiname":"Kharte",
+    "gn:country_code":"NP",
+    "gn:dem":1076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005450,
+    "gn:latitude":27.37497,
+    "gn:longitude":87.55415,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kharte",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005450
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"913c88d69e16d69d5211231e6e9e384e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1343906027,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1343906027,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1343906027,
+    "wof:lastmodified":1537095403,
+    "wof:name":"Kharte",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.55415,
+    27.37497,
+    87.55415,
+    27.37497
+],
+  "geometry": {"coordinates":[87.55415000000001,27.37497],"type":"Point"}
+}

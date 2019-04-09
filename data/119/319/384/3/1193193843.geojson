@@ -1,0 +1,78 @@
+{
+  "id": 1193193843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.93801,27.76389,84.93801,27.76389",
+    "geom:latitude":27.76389,
+    "geom:longitude":84.93801,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300025.0",
+    "gn:asciiname":"Belbote",
+    "gn:country_code":"NP",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7941852,
+    "gn:latitude":27.76389,
+    "gn:longitude":84.93801,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Belbote",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7941852
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"998bf6b040278788662a9190c739cde3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1193193843,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1193193843,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1193193843,
+    "wof:lastmodified":1536380021,
+    "wof:name":"Belbote",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.93800999999998,
+    27.76389,
+    84.93800999999998,
+    27.76389
+],
+  "geometry": {"coordinates":[84.93800999999998,27.76389],"type":"Point"}
+}

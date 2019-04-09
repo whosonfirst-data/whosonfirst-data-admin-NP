@@ -1,0 +1,88 @@
+{
+  "id": 1225972733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.26679,28.73345,80.26679,28.73345",
+    "geom:latitude":28.73345,
+    "geom:longitude":80.26679,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"72.0",
+    "gn:admin4_code":"720015.0",
+    "gn:asciiname":"Pachhilipatti",
+    "gn:country_code":"NP",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7959009,
+    "gn:latitude":28.73345,
+    "gn:longitude":80.26679,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pachhilipatti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048227,
+        85675567,
+        85632469,
+        85672205,
+        1108695809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7959009
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"179a1df990957d1e07660b0fbbc34baa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1225972733,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1225972733,
+            "region_id":85675567
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695809,
+            "locality_id":1225972733,
+            "region_id":85672205
+        }
+    ],
+    "wof:id":1225972733,
+    "wof:lastmodified":1536829543,
+    "wof:name":"Pachhilipatti",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.26679,
+    28.73345,
+    80.26679,
+    28.73345
+],
+  "geometry": {"coordinates":[80.26679,28.73345],"type":"Point"}
+}

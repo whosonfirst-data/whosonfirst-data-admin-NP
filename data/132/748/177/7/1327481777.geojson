@@ -1,0 +1,78 @@
+{
+  "id": 1327481777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.13884,26.74341,87.13884,26.74341",
+    "geom:latitude":26.74341,
+    "geom:longitude":87.13884,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"6.0",
+    "gn:admin4_code":"60036.0",
+    "gn:asciiname":"Sainikbasti",
+    "gn:country_code":"NP",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7998083,
+    "gn:latitude":26.74341,
+    "gn:longitude":87.13884,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sainikbasti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049923,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7998083
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"706cf1352e3ed54369380c6f2d8d1052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1327481777,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1327481777,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1327481777,
+    "wof:lastmodified":1536606614,
+    "wof:name":"Sainikbasti",
+    "wof:parent_id":1092049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.13884,
+    26.74341,
+    87.13884,
+    26.74341
+],
+  "geometry": {"coordinates":[87.13884,26.74341],"type":"Point"}
+}

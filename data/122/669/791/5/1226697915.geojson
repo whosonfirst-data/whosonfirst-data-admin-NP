@@ -1,0 +1,78 @@
+{
+  "id": 1226697915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.72116,27.79543,83.72116,27.79543",
+    "geom:latitude":27.79543,
+    "geom:longitude":83.72116,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"47",
+    "gn:admin4_code":"470019",
+    "gn:asciiname":"Chirtung Pakha",
+    "gn:country_code":"NP",
+    "gn:dem":1374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7976092,
+    "gn:latitude":27.79543,
+    "gn:longitude":83.72116,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chirtung Pakha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050889,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7976092
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"19eae95f8b061aabb55b19fecffd5b6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1226697915,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1226697915,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1226697915,
+    "wof:lastmodified":1536785059,
+    "wof:name":"Chirtung Pakha",
+    "wof:parent_id":1092050889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.72116,
+    27.79543,
+    83.72116,
+    27.79543
+],
+  "geometry": {"coordinates":[83.72116,27.79543],"type":"Point"}
+}

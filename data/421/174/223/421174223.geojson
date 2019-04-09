@@ -1,0 +1,87 @@
+{
+  "id": 421174223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.86073,27.86433,85.86073,27.86433",
+    "geom:latitude":27.86433,
+    "geom:longitude":85.86073,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Ghunthang"
+    ],
+    "qs:gn_country":"NP",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1283391,
+    "qs:gn_pop":0,
+    "qs:name":"Ghumth\u00e5ng",
+    "qs:name_adm0":"Nepal",
+    "qs:name_adm1":"Madhyamanchal",
+    "qs:photos":125,
+    "qs:photos_1k":25,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":125,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":318191,
+    "qs:woe_adm0":23424911,
+    "qs:woe_id":2269126,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283391,
+        "gp:id":2269126,
+        "qs:id":318191
+    },
+    "wof:country":"NP",
+    "wof:created":1459009024,
+    "wof:geomhash":"7c6c1ddaf9184a749a2287b20d263187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":421174223,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":421174223,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":421174223,
+    "wof:lastmodified":1501219310,
+    "wof:name":"Ghumth\u00e5ng",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.86073,
+    27.86433,
+    85.86073,
+    27.86433
+],
+  "geometry": {"coordinates":[85.86073,27.86433],"type":"Point"}
+}

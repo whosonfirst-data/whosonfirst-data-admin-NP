@@ -1,0 +1,64 @@
+{
+  "id": 1209143355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.69492,28.122,83.69492,28.122",
+    "geom:latitude":28.122,
+    "geom:longitude":83.69492,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"44",
+    "gn:admin4_code":"440022",
+    "gn:asciiname":"Phalamkhani",
+    "gn:country_code":"NP",
+    "gn:dem":1903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7978519,
+    "gn:latitude":28.122,
+    "gn:longitude":83.69492,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Phalamkhani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7978519
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c64400d30d6bac4767a06c23a46a4f9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209143355
+        }
+    ],
+    "wof:id":1209143355,
+    "wof:lastmodified":1536296433,
+    "wof:name":"Phalamkhani",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.69492,
+    28.122,
+    83.69492,
+    28.122
+],
+  "geometry": {"coordinates":[83.69492,28.122],"type":"Point"}
+}

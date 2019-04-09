@@ -1,0 +1,78 @@
+{
+  "id": 1243396109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.61857,28.64635,80.61857,28.64635",
+    "geom:latitude":28.64635,
+    "geom:longitude":80.61857,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710010.0",
+    "gn:asciiname":"Jugeda Katan",
+    "gn:country_code":"NP",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956486,
+    "gn:latitude":28.64635,
+    "gn:longitude":80.61857,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jugeda Katan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956486
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cd7059c3e82e4f1ee937f00fcb28f4a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1243396109,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1243396109,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1243396109,
+    "wof:lastmodified":1536877393,
+    "wof:name":"Jugeda Katan",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.61856999999998,
+    28.64635,
+    80.61856999999998,
+    28.64635
+],
+  "geometry": {"coordinates":[80.61856999999998,28.64635],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1243301597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.02078,26.67598,88.02078,26.67598",
+    "geom:latitude":26.67598,
+    "geom:longitude":88.02078,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40043.0",
+    "gn:asciiname":"Birta Salbari",
+    "gn:country_code":"NP",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7955214,
+    "gn:latitude":26.67598,
+    "gn:longitude":88.02078,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Birta Salbari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7955214
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4c104dff19ddb31f627b95f39b206356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1243301597,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1243301597,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1243301597,
+    "wof:lastmodified":1537013582,
+    "wof:name":"Birta Salbari",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.02078,
+    26.67598,
+    88.02078,
+    26.67598
+],
+  "geometry": {"coordinates":[88.02078,26.67598],"type":"Point"}
+}

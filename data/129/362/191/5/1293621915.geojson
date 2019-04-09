@@ -1,0 +1,78 @@
+{
+  "id": 1293621915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.24757,29.21423,81.24757,29.21423",
+    "geom:latitude":29.21423,
+    "geom:longitude":81.24757,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"69.0",
+    "gn:admin4_code":"690008.0",
+    "gn:asciiname":"Kundali",
+    "gn:country_code":"NP",
+    "gn:dem":849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7936021,
+    "gn:latitude":29.21423,
+    "gn:longitude":81.24757,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kundali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048527,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7936021
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0142468ed8f624b53c8f8394fecbff8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1293621915,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1293621915,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1293621915,
+    "wof:lastmodified":1537087291,
+    "wof:name":"Kundali",
+    "wof:parent_id":1092048527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.24757,
+    29.21423,
+    81.24757,
+    29.21423
+],
+  "geometry": {"coordinates":[81.24757,29.21423],"type":"Point"}
+}

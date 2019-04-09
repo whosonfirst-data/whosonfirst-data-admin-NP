@@ -1,0 +1,78 @@
+{
+  "id": 1343398853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.6229,27.61788,85.6229,27.61788",
+    "geom:latitude":27.61788,
+    "geom:longitude":85.6229,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240067.0",
+    "gn:asciiname":"Pathakdihi",
+    "gn:country_code":"NP",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7963643,
+    "gn:latitude":27.61788,
+    "gn:longitude":85.6229,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pathakdihi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7963643
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"02d27c47dd6ff2ed12ab1c00ef3a5bc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1343398853,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1343398853,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1343398853,
+    "wof:lastmodified":1536834035,
+    "wof:name":"Pathakdihi",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.6229,
+    27.61788,
+    85.6229,
+    27.61788
+],
+  "geometry": {"coordinates":[85.6229,27.61788],"type":"Point"}
+}

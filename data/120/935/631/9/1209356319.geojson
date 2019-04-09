@@ -1,0 +1,64 @@
+{
+  "id": 1209356319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.67546,28.09264,84.67546,28.09264",
+    "geom:latitude":28.09264,
+    "geom:longitude":84.67546,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360060.0",
+    "gn:asciiname":"Ranagaun",
+    "gn:country_code":"NP",
+    "gn:dem":1095,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7949536,
+    "gn:latitude":28.09264,
+    "gn:longitude":84.67546,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ranagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7949536
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4c3e48b8ba03a1fd78e8649507f85f49",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209356319
+        }
+    ],
+    "wof:id":1209356319,
+    "wof:lastmodified":1536289572,
+    "wof:name":"Ranagaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.67546,
+    28.092640000000006,
+    84.67546,
+    28.092640000000006
+],
+  "geometry": {"coordinates":[84.67546,28.09264000000001],"type":"Point"}
+}

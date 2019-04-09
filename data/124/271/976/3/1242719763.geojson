@@ -1,0 +1,78 @@
+{
+  "id": 1242719763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.63463,28.18744,84.63463,28.18744",
+    "geom:latitude":28.18744,
+    "geom:longitude":84.63463,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360029.0",
+    "gn:asciiname":"Dihigaun",
+    "gn:country_code":"NP",
+    "gn:dem":1188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7948618,
+    "gn:latitude":28.18744,
+    "gn:longitude":84.63463,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dihigaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7948618
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d74040f8ad8d6609f0286b768bb01c8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1242719763,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1242719763,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1242719763,
+    "wof:lastmodified":1536857740,
+    "wof:name":"Dihigaun",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.63463,
+    28.18744,
+    84.63463,
+    28.18744
+],
+  "geometry": {"coordinates":[84.63463,28.18744],"type":"Point"}
+}

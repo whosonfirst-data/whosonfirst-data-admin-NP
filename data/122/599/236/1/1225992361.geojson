@@ -1,0 +1,78 @@
+{
+  "id": 1225992361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.50034,28.22733,83.50034,28.22733",
+    "geom:latitude":28.22733,
+    "geom:longitude":83.50034,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450007.0",
+    "gn:asciiname":"Halhale",
+    "gn:country_code":"NP",
+    "gn:dem":1920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7949233,
+    "gn:latitude":28.22733,
+    "gn:longitude":83.50034,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Halhale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7949233
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"86f6a38456440513b9ce4e49455cc5df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1225992361,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1225992361,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1225992361,
+    "wof:lastmodified":1536802168,
+    "wof:name":"Halhale",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.50034000000002,
+    28.22733,
+    83.50034000000002,
+    28.22733
+],
+  "geometry": {"coordinates":[83.50034000000002,28.22733],"type":"Point"}
+}

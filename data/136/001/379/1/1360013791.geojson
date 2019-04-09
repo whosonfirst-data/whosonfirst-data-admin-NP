@@ -1,0 +1,78 @@
+{
+  "id": 1360013791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.01188,28.24423,83.01188,28.24423",
+    "geom:latitude":28.24423,
+    "geom:longitude":83.01188,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"52",
+    "gn:admin4_code":"520040",
+    "gn:asciiname":"Dhanda",
+    "gn:country_code":"NP",
+    "gn:dem":1763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7980774,
+    "gn:latitude":28.24423,
+    "gn:longitude":83.01188,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049377,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7980774
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a7c9ba1e254d70a0a29ef7fd386df0e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1360013791,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1360013791,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1360013791,
+    "wof:lastmodified":1537046683,
+    "wof:name":"Dhanda",
+    "wof:parent_id":1092049377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.01188,
+    28.24423,
+    83.01188,
+    28.24423
+],
+  "geometry": {"coordinates":[83.01188,28.24423],"type":"Point"}
+}

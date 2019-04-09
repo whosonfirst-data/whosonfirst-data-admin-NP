@@ -1,0 +1,64 @@
+{
+  "id": 1209462807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.37547,28.12192,84.37547,28.12192",
+    "geom:latitude":28.12192,
+    "geom:longitude":84.37547,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380040.0",
+    "gn:asciiname":"Masyangtar",
+    "gn:country_code":"NP",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8004483,
+    "gn:latitude":28.12192,
+    "gn:longitude":84.37547,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Masyangtar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8004483
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d2a37e0fbf8364d7c8e512148c527541",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209462807
+        }
+    ],
+    "wof:id":1209462807,
+    "wof:lastmodified":1536286325,
+    "wof:name":"Masyangtar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.37546999999998,
+    28.121920000000006,
+    84.37546999999998,
+    28.121920000000006
+],
+  "geometry": {"coordinates":[84.37546999999998,28.12192000000001],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343398583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.11225,28.22601,84.11225,28.22601",
+    "geom:latitude":28.22601,
+    "geom:longitude":84.11225,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400043.0",
+    "gn:asciiname":"Ldiphat",
+    "gn:country_code":"NP",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7961768,
+    "gn:latitude":28.22601,
+    "gn:longitude":84.11225,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ldiphat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092049331,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7961768
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4e76168f7ee40a179c9a7b0aa5294b44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1343398583,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1343398583,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1343398583,
+    "wof:lastmodified":1536834395,
+    "wof:name":"Ldiphat",
+    "wof:parent_id":1092049331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.11225,
+    28.22601,
+    84.11225,
+    28.22601
+],
+  "geometry": {"coordinates":[84.11225,28.22601],"type":"Point"}
+}

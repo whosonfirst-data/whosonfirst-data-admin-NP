@@ -1,0 +1,78 @@
+{
+  "id": 1210054003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.56911,27.85959,83.56911,27.85959",
+    "geom:latitude":27.85959,
+    "geom:longitude":83.56911,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"47",
+    "gn:admin4_code":"470015",
+    "gn:asciiname":"Sandap",
+    "gn:country_code":"NP",
+    "gn:dem":967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7976023,
+    "gn:latitude":27.85959,
+    "gn:longitude":83.56911,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sandap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050889,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7976023
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f2d19b98f3ff1e2fbdc74cbba6d1b57d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1210054003,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1210054003,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1210054003,
+    "wof:lastmodified":1536370464,
+    "wof:name":"Sandap",
+    "wof:parent_id":1092050889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.56911,
+    27.85959,
+    83.56911,
+    27.85959
+],
+  "geometry": {"coordinates":[83.56910999999999,27.85959],"type":"Point"}
+}

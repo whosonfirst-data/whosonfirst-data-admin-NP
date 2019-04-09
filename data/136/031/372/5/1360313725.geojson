@@ -1,0 +1,78 @@
+{
+  "id": 1360313725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.15354,28.29028,82.15354,28.29028",
+    "geom:latitude":28.29028,
+    "geom:longitude":82.15354,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550022",
+    "gn:asciiname":"Khara",
+    "gn:country_code":"NP",
+    "gn:dem":981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7988785,
+    "gn:latitude":28.29028,
+    "gn:longitude":82.15354,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049579,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7988785
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9b570c534269c11bf921b002bbb862a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1360313725,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1360313725,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1360313725,
+    "wof:lastmodified":1536613493,
+    "wof:name":"Khara",
+    "wof:parent_id":1092049579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.15354,
+    28.29028,
+    82.15354,
+    28.29028
+],
+  "geometry": {"coordinates":[82.15354000000001,28.29028],"type":"Point"}
+}

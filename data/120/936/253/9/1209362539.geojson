@@ -1,0 +1,64 @@
+{
+  "id": 1209362539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.87185,28.37494,84.87185,28.37494",
+    "geom:latitude":28.37494,
+    "geom:longitude":84.87185,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360056.0",
+    "gn:asciiname":"Pukyu",
+    "gn:country_code":"NP",
+    "gn:dem":2551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7949438,
+    "gn:latitude":28.37494,
+    "gn:longitude":84.87185,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pukyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7949438
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4fedb834aa538029abb4d36eac2f4e73",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209362539
+        }
+    ],
+    "wof:id":1209362539,
+    "wof:lastmodified":1536289374,
+    "wof:name":"Pukyu",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.87185,
+    28.37494,
+    84.87185,
+    28.37494
+],
+  "geometry": {"coordinates":[84.87184999999999,28.37494],"type":"Point"}
+}

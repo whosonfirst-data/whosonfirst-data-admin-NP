@@ -1,0 +1,78 @@
+{
+  "id": 1326872005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.04037,27.36266,87.04037,27.36266",
+    "geom:latitude":27.36266,
+    "geom:longitude":87.04037,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100037.0",
+    "gn:asciiname":"Bumdak",
+    "gn:country_code":"NP",
+    "gn:dem":2036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933454,
+    "gn:latitude":27.36266,
+    "gn:longitude":87.04037,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bumdak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933454
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"978cc402544b05968521afd7cdcc73f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1326872005,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1326872005,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1326872005,
+    "wof:lastmodified":1536990710,
+    "wof:name":"Bumdak",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.04037,
+    27.36266,
+    87.04037,
+    27.36266
+],
+  "geometry": {"coordinates":[87.04037,27.36266],"type":"Point"}
+}

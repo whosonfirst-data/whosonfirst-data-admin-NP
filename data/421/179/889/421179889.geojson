@@ -1,0 +1,118 @@
+{
+  "id": 421179889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.3,27.6,85.3,27.6",
+    "geom:latitude":27.6,
+    "geom:longitude":85.3,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bho_x_preferred":[
+        "\u091a\u093e\u092a\u093e\u0917\u093e\u0909\u0901"
+    ],
+    "name:eng_x_preferred":[
+        "Chapagaun"
+    ],
+    "name:ger_x_preferred":[
+        "Chapagaun"
+    ],
+    "name:may_x_preferred":[
+        "Chapagaun"
+    ],
+    "name:nep_x_preferred":[
+        "\u091a\u093e\u092a\u093e\u0917\u093e\u0909\u0902"
+    ],
+    "name:new_x_preferred":[
+        "\u091a\u093e\u092a\u093e\u0917\u093e\u0909\u0902"
+    ],
+    "name:pol_x_preferred":[
+        "Chapagaun"
+    ],
+    "name:unk_x_variant":[
+        "Chapagaun"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u0627\u067e\u0627\u0646 \u06af\u0627\u0624\u06ba"
+    ],
+    "name:vie_x_preferred":[
+        "Chapagaon"
+    ],
+    "qs:gn_country":"NP",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1283548,
+    "qs:gn_pop":0,
+    "qs:name":"Chapagaon",
+    "qs:name_adm0":"Nepal",
+    "qs:name_adm1":"Madhyamanchal",
+    "qs:photos":172,
+    "qs:photos_1k":35,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":172,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":235548,
+    "qs:woe_adm0":23424911,
+    "qs:woe_id":2268426,
+    "src:geom":"quattroshapes",
+    "wd:latitude":15.631556,
+    "wd:longitude":74.582833,
+    "wd:wordcount":28,
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048971,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283548,
+        "gp:id":2268426,
+        "qs:id":235548,
+        "wd:id":"Q3411027"
+    },
+    "wof:country":"NP",
+    "wof:created":1459009237,
+    "wof:geomhash":"26c68e97a61f96f9622766b4d2cfe71e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048971,
+            "locality_id":421179889,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048971,
+            "locality_id":421179889,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":421179889,
+    "wof:lastmodified":1527717703,
+    "wof:name":"Chapagaon",
+    "wof:parent_id":1092048971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.3,
+    27.6,
+    85.3,
+    27.6
+],
+  "geometry": {"coordinates":[85.3,27.6],"type":"Point"}
+}

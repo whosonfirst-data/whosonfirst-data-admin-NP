@@ -1,0 +1,64 @@
+{
+  "id": 1209462815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.23545,28.07173,84.23545,28.07173",
+    "geom:latitude":28.07173,
+    "geom:longitude":84.23545,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380043.0",
+    "gn:asciiname":"Pataltar",
+    "gn:country_code":"NP",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8004617,
+    "gn:latitude":28.07173,
+    "gn:longitude":84.23545,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pataltar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8004617
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"601f1ec4532bcaa849c77173f4c97e2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209462815
+        }
+    ],
+    "wof:id":1209462815,
+    "wof:lastmodified":1536286325,
+    "wof:name":"Pataltar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.23545,
+    28.07173,
+    84.23545,
+    28.07173
+],
+  "geometry": {"coordinates":[84.23545,28.07173],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1193214297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.07116,26.83737,86.07116,26.83737",
+    "geom:latitude":26.83737,
+    "geom:longitude":86.07116,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"17.0",
+    "gn:admin4_code":"170032.0",
+    "gn:asciiname":"Tejnagar",
+    "gn:country_code":"NP",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7943701,
+    "gn:latitude":26.83737,
+    "gn:longitude":86.07116,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tejnagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092048127,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7943701
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"937c79ce94389653e4b3a386d95c1915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048127,
+            "locality_id":1193214297,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048127,
+            "locality_id":1193214297,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1193214297,
+    "wof:lastmodified":1536382114,
+    "wof:name":"Tejnagar",
+    "wof:parent_id":1092048127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.07115999999998,
+    26.83737,
+    86.07115999999998,
+    26.83737
+],
+  "geometry": {"coordinates":[86.07115999999998,26.83737],"type":"Point"}
+}

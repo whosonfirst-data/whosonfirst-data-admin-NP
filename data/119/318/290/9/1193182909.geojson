@@ -1,0 +1,78 @@
+{
+  "id": 1193182909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.3757,28.16569,84.3757,28.16569",
+    "geom:latitude":28.16569,
+    "geom:longitude":84.3757,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370024",
+    "gn:asciiname":"Saunepani",
+    "gn:country_code":"NP",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7966360,
+    "gn:latitude":28.16569,
+    "gn:longitude":84.3757,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Saunepani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050009,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7966360
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"87c1e23a7a6de0d80354e07faa407584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1193182909,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1193182909,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1193182909,
+    "wof:lastmodified":1536368113,
+    "wof:name":"Saunepani",
+    "wof:parent_id":1092050009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.3757,
+    28.16569,
+    84.3757,
+    28.16569
+],
+  "geometry": {"coordinates":[84.37569999999999,28.16569],"type":"Point"}
+}

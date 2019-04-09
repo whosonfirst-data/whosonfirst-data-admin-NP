@@ -1,0 +1,75 @@
+{
+  "id": 1309726469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.4362,27.12716,85.4362,27.12716",
+    "geom:latitude":27.12716,
+    "geom:longitude":85.4362,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mangalpur",
+    "gn:country_code":"NP",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283072,
+    "gn:latitude":27.12716,
+    "gn:longitude":85.4362,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Mangalpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049419,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283072
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"85b1059724cc7898f5d2822f3aa204b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1309726469,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1309726469,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1309726469,
+    "wof:lastmodified":1537043577,
+    "wof:name":"Mangalpur",
+    "wof:parent_id":1092049419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.4362,
+    27.12716,
+    85.4362,
+    27.12716
+],
+  "geometry": {"coordinates":[85.4362,27.12716],"type":"Point"}
+}

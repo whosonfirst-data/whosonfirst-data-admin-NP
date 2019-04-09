@@ -1,0 +1,78 @@
+{
+  "id": 1310033775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.79059,28.45824,81.79059,28.45824",
+    "geom:latitude":28.45824,
+    "geom:longitude":81.79059,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590033.0",
+    "gn:asciiname":"Bhutya",
+    "gn:country_code":"NP",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7999785,
+    "gn:latitude":28.45824,
+    "gn:longitude":81.79059,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhutya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7999785
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3f3364e44ee395e9f8123391ab23d6c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1310033775,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1310033775,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1310033775,
+    "wof:lastmodified":1537096776,
+    "wof:name":"Bhutya",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.79059000000002,
+    28.45824,
+    81.79059000000002,
+    28.45824
+],
+  "geometry": {"coordinates":[81.79059000000002,28.45824],"type":"Point"}
+}

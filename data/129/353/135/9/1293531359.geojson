@@ -1,0 +1,78 @@
+{
+  "id": 1293531359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.70637,27.19,87.70637,27.19",
+    "geom:latitude":27.19,
+    "geom:longitude":87.70637,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"8.0",
+    "gn:admin4_code":"80005.0",
+    "gn:asciiname":"Simhakharka",
+    "gn:country_code":"NP",
+    "gn:dem":1014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005917,
+    "gn:latitude":27.19,
+    "gn:longitude":87.70637,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Simhakharka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050137,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005917
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a65a68492fd17ed12254c298ec4ee8cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050137,
+            "locality_id":1293531359,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050137,
+            "locality_id":1293531359,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1293531359,
+    "wof:lastmodified":1536724204,
+    "wof:name":"Simhakharka",
+    "wof:parent_id":1092050137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.70636999999998,
+    27.19,
+    87.70636999999998,
+    27.19
+],
+  "geometry": {"coordinates":[87.70636999999998,27.19],"type":"Point"}
+}

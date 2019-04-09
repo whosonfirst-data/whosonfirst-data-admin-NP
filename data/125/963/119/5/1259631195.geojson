@@ -1,0 +1,78 @@
+{
+  "id": 1259631195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.41385,28.16166,84.41385,28.16166",
+    "geom:latitude":28.16166,
+    "geom:longitude":84.41385,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370060",
+    "gn:asciiname":"Nayangaun  Pakha",
+    "gn:country_code":"NP",
+    "gn:dem":1149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7967161,
+    "gn:latitude":28.16166,
+    "gn:longitude":84.41385,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nayangaun  Pakha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050009,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7967161
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8d172bf19e1d7758600487090da89e91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1259631195,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1259631195,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1259631195,
+    "wof:lastmodified":1536645460,
+    "wof:name":"Nayangaun  Pakha",
+    "wof:parent_id":1092050009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.41385,
+    28.16166,
+    84.41385,
+    28.16166
+],
+  "geometry": {"coordinates":[84.41385,28.16166],"type":"Point"}
+}

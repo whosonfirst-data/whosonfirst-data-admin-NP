@@ -1,0 +1,78 @@
+{
+  "id": 1276386473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.03242,27.23271,87.03242,27.23271",
+    "geom:latitude":27.23271,
+    "geom:longitude":87.03242,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100053.0",
+    "gn:asciiname":"Kholekharka",
+    "gn:country_code":"NP",
+    "gn:dem":1963,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933819,
+    "gn:latitude":27.23271,
+    "gn:longitude":87.03242,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kholekharka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933819
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f0cbf8db6d5b80616fd442599bbe069d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1276386473,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1276386473,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1276386473,
+    "wof:lastmodified":1536707708,
+    "wof:name":"Kholekharka",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.03242,
+    27.23271,
+    87.03242,
+    27.23271
+],
+  "geometry": {"coordinates":[87.03242,27.23271],"type":"Point"}
+}

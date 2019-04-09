@@ -1,0 +1,78 @@
+{
+  "id": 1293621823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.69393,29.64256,80.69393,29.64256",
+    "geom:latitude":29.64256,
+    "geom:longitude":80.69393,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740033",
+    "gn:asciiname":"Jarsau",
+    "gn:country_code":"NP",
+    "gn:dem":1906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7975977,
+    "gn:latitude":29.64256,
+    "gn:longitude":80.69393,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jarsau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050255,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7975977
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"47e9b89449214b23785023600e09f078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1293621823,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1293621823,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1293621823,
+    "wof:lastmodified":1537087413,
+    "wof:name":"Jarsau",
+    "wof:parent_id":1092050255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.69393000000002,
+    29.64256,
+    80.69393000000002,
+    29.64256
+],
+  "geometry": {"coordinates":[80.69393000000002,29.64256],"type":"Point"}
+}

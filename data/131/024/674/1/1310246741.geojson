@@ -1,0 +1,78 @@
+{
+  "id": 1310246741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.73467,27.00506,86.73467,27.00506",
+    "geom:latitude":27.00506,
+    "geom:longitude":86.73467,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140020.0",
+    "gn:asciiname":"Dharme",
+    "gn:country_code":"NP",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007029,
+    "gn:latitude":27.00506,
+    "gn:longitude":86.73467,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dharme",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050179,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007029
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"10c9543389d2c3986fd232ce50920c40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1310246741,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1310246741,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1310246741,
+    "wof:lastmodified":1536792981,
+    "wof:name":"Dharme",
+    "wof:parent_id":1092050179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.73467,
+    27.00506,
+    86.73467,
+    27.00506
+],
+  "geometry": {"coordinates":[86.73466999999999,27.00506],"type":"Point"}
+}

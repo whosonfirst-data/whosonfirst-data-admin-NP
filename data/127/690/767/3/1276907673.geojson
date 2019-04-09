@@ -1,0 +1,78 @@
+{
+  "id": 1276907673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.2842,28.62669,82.2842,28.62669",
+    "geom:latitude":28.62669,
+    "geom:longitude":82.2842,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"54",
+    "gn:admin4_code":"540020",
+    "gn:asciiname":"Tallo Sakerna",
+    "gn:country_code":"NP",
+    "gn:dem":1095,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7985720,
+    "gn:latitude":28.62669,
+    "gn:longitude":82.2842,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tallo Sakerna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049495,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7985720
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2b7e664bf6557aa5653b64cf4df5a6e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1276907673,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1276907673,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1276907673,
+    "wof:lastmodified":1537003286,
+    "wof:name":"Tallo Sakerna",
+    "wof:parent_id":1092049495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.2842,
+    28.62669,
+    82.2842,
+    28.62669
+],
+  "geometry": {"coordinates":[82.2842,28.62669],"type":"Point"}
+}

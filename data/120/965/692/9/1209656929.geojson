@@ -1,0 +1,64 @@
+{
+  "id": 1209656929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.05573,27.82227,84.05573,27.82227",
+    "geom:latitude":27.82227,
+    "geom:longitude":84.05573,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"48",
+    "gn:admin4_code":"480061",
+    "gn:asciiname":"Ruchang",
+    "gn:country_code":"NP",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7973425,
+    "gn:latitude":27.82227,
+    "gn:longitude":84.05573,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ruchang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7973425
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"06d80376d53928ee4ac30f88e61c8415",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209656929
+        }
+    ],
+    "wof:id":1209656929,
+    "wof:lastmodified":1536280395,
+    "wof:name":"Ruchang",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.05573000000003,
+    27.82227,
+    84.05573000000003,
+    27.82227
+],
+  "geometry": {"coordinates":[84.05573000000003,27.82227],"type":"Point"}
+}

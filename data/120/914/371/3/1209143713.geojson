@@ -1,0 +1,64 @@
+{
+  "id": 1209143713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.80347,26.94205,85.80347,26.94205",
+    "geom:latitude":26.94205,
+    "geom:longitude":85.80347,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"18",
+    "gn:admin4_code":"180012",
+    "gn:asciiname":"Kusmari",
+    "gn:country_code":"NP",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7967233,
+    "gn:latitude":26.94205,
+    "gn:longitude":85.80347,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kusmari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7967233
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6e693192cd05e786388a6789ab537857",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209143713
+        }
+    ],
+    "wof:id":1209143713,
+    "wof:lastmodified":1536296425,
+    "wof:name":"Kusmari",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.80346999999998,
+    26.94205,
+    85.80346999999998,
+    26.94205
+],
+  "geometry": {"coordinates":[85.80346999999998,26.94205],"type":"Point"}
+}

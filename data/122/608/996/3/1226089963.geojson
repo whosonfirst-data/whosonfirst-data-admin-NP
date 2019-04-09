@@ -1,0 +1,78 @@
+{
+  "id": 1226089963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.99388,27.05673,86.99388,27.05673",
+    "geom:latitude":27.05673,
+    "geom:longitude":86.99388,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100003.0",
+    "gn:asciiname":"Bhamla",
+    "gn:country_code":"NP",
+    "gn:dem":1903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8010353,
+    "gn:latitude":27.05673,
+    "gn:longitude":86.99388,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhamla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8010353
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b893a76ffca651d410b2d4e0405fc748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1226089963,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1226089963,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1226089963,
+    "wof:lastmodified":1536661430,
+    "wof:name":"Bhamla",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.99388,
+    27.05673,
+    86.99388,
+    27.05673
+],
+  "geometry": {"coordinates":[86.99388,27.05673],"type":"Point"}
+}

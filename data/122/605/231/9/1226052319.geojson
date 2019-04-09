@@ -1,0 +1,78 @@
+{
+  "id": 1226052319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.25797,26.68676,87.25797,26.68676",
+    "geom:latitude":26.68676,
+    "geom:longitude":87.25797,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Hasposa",
+    "gn:country_code":"NP",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11606005,
+    "gn:latitude":26.68676,
+    "gn:longitude":87.25797,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"H\u0101\u0303spos\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "H\u0101\u0303spos\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049923,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11606005
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1a0faa02ad965b56acf75064f5c52c79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1226052319,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1226052319,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1226052319,
+    "wof:lastmodified":1537676122,
+    "wof:name":"Hasposa",
+    "wof:parent_id":1092049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.25797,
+    26.68676,
+    87.25797,
+    26.68676
+],
+  "geometry": {"coordinates":[87.25797,26.68676],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1225986401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.2812,27.5868,87.2812,27.5868",
+    "geom:latitude":27.5868,
+    "geom:longitude":87.2812,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"9",
+    "gn:admin4_code":"90017",
+    "gn:asciiname":"Murmidanda",
+    "gn:country_code":"NP",
+    "gn:dem":1282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7990276,
+    "gn:latitude":27.5868,
+    "gn:longitude":87.2812,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Murmidanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049597,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7990276
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9ecb92b37a8e218043e49d9adf1aefad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1225986401,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1225986401,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1225986401,
+    "wof:lastmodified":1536810197,
+    "wof:name":"Murmidanda",
+    "wof:parent_id":1092049597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.2812,
+    27.5868,
+    87.2812,
+    27.5868
+],
+  "geometry": {"coordinates":[87.2812,27.5868],"type":"Point"}
+}

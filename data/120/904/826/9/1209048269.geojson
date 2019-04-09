@@ -1,0 +1,64 @@
+{
+  "id": 1209048269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.87122,27.74115,83.87122,27.74115",
+    "geom:latitude":27.74115,
+    "geom:longitude":83.87122,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"47",
+    "gn:admin4_code":"470046",
+    "gn:asciiname":"Khani Damar",
+    "gn:country_code":"NP",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7976708,
+    "gn:latitude":27.74115,
+    "gn:longitude":83.87122,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khani Damar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7976708
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"caae736c96d97c958320c218fe699a86",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209048269
+        }
+    ],
+    "wof:id":1209048269,
+    "wof:lastmodified":1536299326,
+    "wof:name":"Khani Damar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.87122,
+    27.74115,
+    83.87122,
+    27.74115
+],
+  "geometry": {"coordinates":[83.87121999999999,27.74115],"type":"Point"}
+}

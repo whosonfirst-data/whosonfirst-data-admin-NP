@@ -1,0 +1,78 @@
+{
+  "id": 1293798243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.05379,26.75437,88.05379,26.75437",
+    "geom:latitude":26.75437,
+    "geom:longitude":88.05379,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Hadiyagau",
+    "gn:country_code":"NP",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11601174,
+    "gn:latitude":26.75437,
+    "gn:longitude":88.05379,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"H\u00e3\u1e0diy\u0101g\u0101\u0169",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "H\u00e3\u1e0diy\u0101g\u0101\u0169"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11601174
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a2dfaaddbddf106e371f6550b861758d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1293798243,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1293798243,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1293798243,
+    "wof:lastmodified":1537676115,
+    "wof:name":"Hadiyagau",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.05379,
+    26.75437,
+    88.05379,
+    26.75437
+],
+  "geometry": {"coordinates":[88.05379000000001,26.75437],"type":"Point"}
+}

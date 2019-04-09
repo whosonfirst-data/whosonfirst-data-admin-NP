@@ -1,0 +1,64 @@
+{
+  "id": 1209054767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.25518,27.24301,86.25518,27.24301",
+    "geom:latitude":27.24301,
+    "geom:longitude":86.25518,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200027",
+    "gn:asciiname":"Khangsang",
+    "gn:country_code":"NP",
+    "gn:dem":928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7993368,
+    "gn:latitude":27.24301,
+    "gn:longitude":86.25518,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khangsang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7993368
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"999722f845341d44f69fcfc45bec8fce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209054767
+        }
+    ],
+    "wof:id":1209054767,
+    "wof:lastmodified":1536299142,
+    "wof:name":"Khangsang",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.25518000000002,
+    27.24301,
+    86.25518000000002,
+    27.24301
+],
+  "geometry": {"coordinates":[86.25518000000002,27.24301],"type":"Point"}
+}

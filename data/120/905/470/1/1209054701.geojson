@@ -1,0 +1,64 @@
+{
+  "id": 1209054701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.23372,26.73004,87.23372,26.73004",
+    "geom:latitude":26.73004,
+    "geom:longitude":87.23372,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"6",
+    "gn:admin4_code":"60006",
+    "gn:asciiname":"Panchayanjhora",
+    "gn:country_code":"NP",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7997426,
+    "gn:latitude":26.73004,
+    "gn:longitude":87.23372,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Panchayanjhora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7997426
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b212734ed311af7ad4171ea4deda452b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209054701
+        }
+    ],
+    "wof:id":1209054701,
+    "wof:lastmodified":1536299144,
+    "wof:name":"Panchayanjhora",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.23371999999998,
+    26.73004,
+    87.23371999999998,
+    26.73004
+],
+  "geometry": {"coordinates":[87.23371999999998,26.73004],"type":"Point"}
+}

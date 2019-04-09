@@ -1,0 +1,78 @@
+{
+  "id": 1193188169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.45102,27.92663,84.45102,27.92663",
+    "geom:latitude":27.92663,
+    "geom:longitude":84.45102,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380001.0",
+    "gn:asciiname":"Khanikham",
+    "gn:country_code":"NP",
+    "gn:dem":805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002605,
+    "gn:latitude":27.92663,
+    "gn:longitude":84.45102,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khanikham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002605
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4166459fade03f2f6ae2dcee98563117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1193188169,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1193188169,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1193188169,
+    "wof:lastmodified":1536364437,
+    "wof:name":"Khanikham",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.45102,
+    27.92663,
+    84.45102,
+    27.92663
+],
+  "geometry": {"coordinates":[84.45102,27.92663],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293925301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.04662,28.2066,84.04662,28.2066",
+    "geom:latitude":28.2066,
+    "geom:longitude":84.04662,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400022.0",
+    "gn:asciiname":"Dhunganathar",
+    "gn:country_code":"NP",
+    "gn:dem":992,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7960927,
+    "gn:latitude":28.2066,
+    "gn:longitude":84.04662,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhunganathar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092049331,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7960927
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5511db62874093a577d6826bbe8d8f9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1293925301,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1293925301,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293925301,
+    "wof:lastmodified":1536652954,
+    "wof:name":"Dhunganathar",
+    "wof:parent_id":1092049331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.04661999999998,
+    28.2066,
+    84.04661999999998,
+    28.2066
+],
+  "geometry": {"coordinates":[84.04661999999998,28.2066],"type":"Point"}
+}

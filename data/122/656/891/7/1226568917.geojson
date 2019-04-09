@@ -1,0 +1,78 @@
+{
+  "id": 1226568917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.11053,28.51009,81.11053,28.51009",
+    "geom:latitude":28.51009,
+    "geom:longitude":81.11053,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710042.0",
+    "gn:asciiname":"Lamkipul",
+    "gn:country_code":"NP",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7957857,
+    "gn:latitude":28.51009,
+    "gn:longitude":81.11053,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lamkipul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7957857
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6e37a573c61a0010b999360a362e93a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1226568917,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1226568917,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1226568917,
+    "wof:lastmodified":1536965268,
+    "wof:name":"Lamkipul",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.11053000000003,
+    28.51009,
+    81.11053000000003,
+    28.51009
+],
+  "geometry": {"coordinates":[81.11053000000003,28.51009],"type":"Point"}
+}

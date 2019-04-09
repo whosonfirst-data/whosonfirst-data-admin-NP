@@ -1,0 +1,78 @@
+{
+  "id": 1343896153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.23088,27.60543,84.23088,27.60543",
+    "geom:latitude":27.60543,
+    "geom:longitude":84.23088,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"35.0",
+    "gn:admin4_code":"350027.0",
+    "gn:asciiname":"Banakatta",
+    "gn:country_code":"NP",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7934847,
+    "gn:latitude":27.60543,
+    "gn:longitude":84.23088,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Banakatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092050101,
+        85675585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7934847
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d9752961f57488990e5d7aff00890bb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":1343896153,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":1343896153,
+            "region_id":85675585
+        }
+    ],
+    "wof:id":1343896153,
+    "wof:lastmodified":1536612544,
+    "wof:name":"Banakatta",
+    "wof:parent_id":1092050101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.23088,
+    27.60543,
+    84.23088,
+    27.60543
+],
+  "geometry": {"coordinates":[84.23088,27.60543],"type":"Point"}
+}

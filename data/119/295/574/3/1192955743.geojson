@@ -1,0 +1,78 @@
+{
+  "id": 1192955743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.59479,27.56775,83.59479,27.56775",
+    "geom:latitude":27.56775,
+    "geom:longitude":83.59479,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"49",
+    "gn:admin4_code":"490064.0",
+    "gn:asciiname":"Rehara Janakpur",
+    "gn:country_code":"NP",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7987742,
+    "gn:latitude":27.56775,
+    "gn:longitude":83.59479,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Rehara Janakpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050413,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7987742
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"34768e76008a88fd30fd317bdfde631e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050413,
+            "locality_id":1192955743,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050413,
+            "locality_id":1192955743,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1192955743,
+    "wof:lastmodified":1536370676,
+    "wof:name":"Rehara Janakpur",
+    "wof:parent_id":1092050413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.59479,
+    27.56775,
+    83.59479,
+    27.56775
+],
+  "geometry": {"coordinates":[83.59479,27.56775],"type":"Point"}
+}

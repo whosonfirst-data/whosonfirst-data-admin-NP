@@ -1,0 +1,78 @@
+{
+  "id": 1293537569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.6681,27.95875,83.6681,27.95875",
+    "geom:latitude":27.95875,
+    "geom:longitude":83.6681,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390041.0",
+    "gn:asciiname":"Mulibas",
+    "gn:country_code":"NP",
+    "gn:dem":913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001692,
+    "gn:latitude":27.95875,
+    "gn:longitude":83.6681,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mulibas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001692
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1bf6175756ff05fbf86581bee1163e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1293537569,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1293537569,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293537569,
+    "wof:lastmodified":1536715307,
+    "wof:name":"Mulibas",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.6681,
+    27.95875,
+    83.6681,
+    27.95875
+],
+  "geometry": {"coordinates":[83.6681,27.95875],"type":"Point"}
+}

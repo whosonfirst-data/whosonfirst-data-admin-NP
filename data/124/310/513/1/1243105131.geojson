@@ -1,0 +1,78 @@
+{
+  "id": 1243105131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.93641,26.57474,87.93641,26.57474",
+    "geom:latitude":26.57474,
+    "geom:longitude":87.93641,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40013.0",
+    "gn:asciiname":"Mansibadi",
+    "gn:country_code":"NP",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7954260,
+    "gn:latitude":26.57474,
+    "gn:longitude":87.93641,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mansibadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7954260
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"24c3e50e5ed2909810b348ed9de2a5f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1243105131,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1243105131,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1243105131,
+    "wof:lastmodified":1536800451,
+    "wof:name":"Mansibadi",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.93641,
+    26.57474,
+    87.93641,
+    26.57474
+],
+  "geometry": {"coordinates":[87.93641,26.57474],"type":"Point"}
+}

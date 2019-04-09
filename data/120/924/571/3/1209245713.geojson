@@ -1,0 +1,64 @@
+{
+  "id": 1209245713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.50669,28.12301,82.50669,28.12301",
+    "geom:latitude":28.12301,
+    "geom:longitude":82.50669,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"560030.0",
+    "gn:asciiname":"Galena",
+    "gn:country_code":"NP",
+    "gn:dem":1109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7939532,
+    "gn:latitude":28.12301,
+    "gn:longitude":82.50669,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Galena",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7939532
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e515eec1ebeb8cebee52f28800e17c90",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209245713
+        }
+    ],
+    "wof:id":1209245713,
+    "wof:lastmodified":1536293172,
+    "wof:name":"Galena",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.50669,
+    28.12301,
+    82.50669,
+    28.12301
+],
+  "geometry": {"coordinates":[82.50669000000001,28.12301],"type":"Point"}
+}

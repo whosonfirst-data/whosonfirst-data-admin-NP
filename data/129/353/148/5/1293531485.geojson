@@ -1,0 +1,78 @@
+{
+  "id": 1293531485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.93144,27.54165,85.93144,27.54165",
+    "geom:latitude":27.54165,
+    "geom:longitude":85.93144,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"21",
+    "gn:admin4_code":"210055",
+    "gn:asciiname":"Bhadare",
+    "gn:country_code":"NP",
+    "gn:dem":1958,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7982063,
+    "gn:latitude":27.54165,
+    "gn:longitude":85.93144,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhadare",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049711,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7982063
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"615a7db6155808e6ec60188a71f973c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1293531485,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1293531485,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1293531485,
+    "wof:lastmodified":1536724034,
+    "wof:name":"Bhadare",
+    "wof:parent_id":1092049711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.93144000000002,
+    27.54165,
+    85.93144000000002,
+    27.54165
+],
+  "geometry": {"coordinates":[85.93144000000002,27.54165],"type":"Point"}
+}

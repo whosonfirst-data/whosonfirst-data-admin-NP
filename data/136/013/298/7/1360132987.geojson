@@ -1,0 +1,78 @@
+{
+  "id": 1360132987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.34627,27.63879,85.34627,27.63879",
+    "geom:latitude":27.63879,
+    "geom:longitude":85.34627,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"25",
+    "gn:admin4_code":"250021",
+    "gn:asciiname":"Harisiddhi",
+    "gn:country_code":"NP",
+    "gn:dem":1345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7965584,
+    "gn:latitude":27.63879,
+    "gn:longitude":85.34627,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Harisiddhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048971,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7965584
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"63126680021cb65e2668f8c0e5d89b01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048971,
+            "locality_id":1360132987,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048971,
+            "locality_id":1360132987,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1360132987,
+    "wof:lastmodified":1536875790,
+    "wof:name":"Harisiddhi",
+    "wof:parent_id":1092048971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.34626999999998,
+    27.63879,
+    85.34626999999998,
+    27.63879
+],
+  "geometry": {"coordinates":[85.34626999999998,27.63879],"type":"Point"}
+}

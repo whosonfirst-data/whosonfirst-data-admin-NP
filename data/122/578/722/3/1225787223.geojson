@@ -1,0 +1,78 @@
+{
+  "id": 1225787223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.0675,28.16439,85.0675,28.16439",
+    "geom:latitude":28.16439,
+    "geom:longitude":85.0675,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300045.0",
+    "gn:asciiname":"Khyadar",
+    "gn:country_code":"NP",
+    "gn:dem":1882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7942451,
+    "gn:latitude":28.16439,
+    "gn:longitude":85.0675,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khyadar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7942451
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e013de6fceedb70b081e0d122aa6a61b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1225787223,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1225787223,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1225787223,
+    "wof:lastmodified":1537094912,
+    "wof:name":"Khyadar",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.0675,
+    28.16439,
+    85.0675,
+    28.16439
+],
+  "geometry": {"coordinates":[85.0675,28.16439],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209643619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.15699,28.2797,82.15699,28.2797",
+    "geom:latitude":28.2797,
+    "geom:longitude":82.15699,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550022",
+    "gn:asciiname":"Jumledhunga",
+    "gn:country_code":"NP",
+    "gn:dem":880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7988789,
+    "gn:latitude":28.2797,
+    "gn:longitude":82.15699,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jumledhunga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7988789
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"61390b0b562cf5d2e1714d71c9ca2ee0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209643619
+        }
+    ],
+    "wof:id":1209643619,
+    "wof:lastmodified":1536280806,
+    "wof:name":"Jumledhunga",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.15699000000002,
+    28.2797,
+    82.15699000000002,
+    28.2797
+],
+  "geometry": {"coordinates":[82.15699000000002,28.2797],"type":"Point"}
+}

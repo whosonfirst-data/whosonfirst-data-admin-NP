@@ -1,0 +1,64 @@
+{
+  "id": 1209553085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.14871,28.09808,84.14871,28.09808",
+    "geom:latitude":28.09808,
+    "geom:longitude":84.14871,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380046.0",
+    "gn:asciiname":"Aruswanra",
+    "gn:country_code":"NP",
+    "gn:dem":1138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8004910,
+    "gn:latitude":28.09808,
+    "gn:longitude":84.14871,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Aruswanra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8004910
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d5d855365dc485c602b21a3fddba3a61",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209553085
+        }
+    ],
+    "wof:id":1209553085,
+    "wof:lastmodified":1536283632,
+    "wof:name":"Aruswanra",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.14871,
+    28.09808,
+    84.14871,
+    28.09808
+],
+  "geometry": {"coordinates":[84.14870999999999,28.09808],"type":"Point"}
+}

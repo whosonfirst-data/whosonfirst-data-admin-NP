@@ -1,0 +1,116 @@
+{
+  "id": 421187665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.79809,28.84485,83.79809,28.84485",
+    "geom:latitude":28.84485,
+    "geom:longitude":83.79809,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Kagbeni"
+    ],
+    "name:eng_x_preferred":[
+        "Kagbeni"
+    ],
+    "name:fre_x_preferred":[
+        "Kagbeni"
+    ],
+    "name:ger_x_preferred":[
+        "Kagbeni"
+    ],
+    "name:nep_x_preferred":[
+        "\u0915\u093e\u0917\u092c\u0947\u0928\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u0915\u093e\u0917\u092c\u0947\u0928\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Kagbeni"
+    ],
+    "name:por_x_preferred":[
+        "Kagbeni"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0433\u0431\u0435\u043d\u0438"
+    ],
+    "name:unk_x_variant":[
+        "K\u0101gbeni"
+    ],
+    "qs:gn_country":"NP",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1283278,
+    "qs:gn_pop":0,
+    "qs:name":"K\u00e5gbeni",
+    "qs:name_adm0":"Nepal",
+    "qs:name_adm1":"Pashchimanchal",
+    "qs:photos":670,
+    "qs:photos_1k":136,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":670,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1083742,
+    "qs:woe_adm0":23424911,
+    "qs:woe_id":2268597,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675553,
+        1092048365,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283278,
+        "gp:id":2268597,
+        "qs:id":1083742,
+        "wd:id":"Q7239055",
+        "wk:page":"Kagbeni, Mustang"
+    },
+    "wof:country":"NP",
+    "wof:created":1459009520,
+    "wof:geomhash":"89529435ce344fdb973d4d29f815455f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048365,
+            "locality_id":421187665,
+            "region_id":85675553
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048365,
+            "locality_id":421187665,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":421187665,
+    "wof:lastmodified":1514493674,
+    "wof:name":"K\u00e5gbeni",
+    "wof:parent_id":1092048365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.79809,
+    28.84485,
+    83.79809,
+    28.84485
+],
+  "geometry": {"coordinates":[83.79809,28.84485],"type":"Point"}
+}

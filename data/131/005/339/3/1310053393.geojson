@@ -1,0 +1,78 @@
+{
+  "id": 1310053393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.42569,27.9657,83.42569,27.9657",
+    "geom:latitude":27.9657,
+    "geom:longitude":83.42569,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"46.0",
+    "gn:admin4_code":"460075.0",
+    "gn:asciiname":"Okhaldhunga",
+    "gn:country_code":"NP",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7950699,
+    "gn:latitude":27.9657,
+    "gn:longitude":83.42569,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Okhaldhunga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050755,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7950699
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"17ead9900abe27eb322f2e5ebd5be09e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1310053393,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1310053393,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1310053393,
+    "wof:lastmodified":1537068706,
+    "wof:name":"Okhaldhunga",
+    "wof:parent_id":1092050755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.42569,
+    27.9657,
+    83.42569,
+    27.9657
+],
+  "geometry": {"coordinates":[83.42569,27.9657],"type":"Point"}
+}

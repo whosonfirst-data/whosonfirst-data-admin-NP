@@ -1,0 +1,78 @@
+{
+  "id": 1260117805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.42267,28.14283,83.42267,28.14283",
+    "geom:latitude":28.14283,
+    "geom:longitude":83.42267,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450006.0",
+    "gn:asciiname":"Lamdhara",
+    "gn:country_code":"NP",
+    "gn:dem":1941,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7949023,
+    "gn:latitude":28.14283,
+    "gn:longitude":83.42267,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lamdhara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7949023
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6649a8bb322a5d240005b59ae9e6d6b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1260117805,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1260117805,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1260117805,
+    "wof:lastmodified":1536939338,
+    "wof:name":"Lamdhara",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.42267,
+    28.14283,
+    83.42267,
+    28.14283
+],
+  "geometry": {"coordinates":[83.42267,28.14283],"type":"Point"}
+}

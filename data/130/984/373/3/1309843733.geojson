@@ -1,0 +1,78 @@
+{
+  "id": 1309843733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.07053,27.01143,87.07053,27.01143",
+    "geom:latitude":27.01143,
+    "geom:longitude":87.07053,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100049.0",
+    "gn:asciiname":"Khyali",
+    "gn:country_code":"NP",
+    "gn:dem":1672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933737,
+    "gn:latitude":27.01143,
+    "gn:longitude":87.07053,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khyali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933737
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"971d58570b73da84cdb7eb45c280ba76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1309843733,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1309843733,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1309843733,
+    "wof:lastmodified":1536875432,
+    "wof:name":"Khyali",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.07053,
+    27.01143,
+    87.07053,
+    27.01143
+],
+  "geometry": {"coordinates":[87.07053000000001,27.01143],"type":"Point"}
+}

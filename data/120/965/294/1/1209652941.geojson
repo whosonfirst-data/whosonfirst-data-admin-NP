@@ -1,0 +1,64 @@
+{
+  "id": 1209652941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.42547,27.85835,84.42547,27.85835",
+    "geom:latitude":27.85835,
+    "geom:longitude":84.42547,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380018.0",
+    "gn:asciiname":"Bagthal",
+    "gn:country_code":"NP",
+    "gn:dem":704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003333,
+    "gn:latitude":27.85835,
+    "gn:longitude":84.42547,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bagthal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003333
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"57e32912a6bef04ab76ee073fc45ea86",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209652941
+        }
+    ],
+    "wof:id":1209652941,
+    "wof:lastmodified":1536280523,
+    "wof:name":"Bagthal",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.42546999999998,
+    27.85835,
+    84.42546999999998,
+    27.85835
+],
+  "geometry": {"coordinates":[84.42546999999998,27.85835],"type":"Point"}
+}

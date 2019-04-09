@@ -1,0 +1,78 @@
+{
+  "id": 1327182329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.15099,26.60948,87.15099,26.60948",
+    "geom:latitude":26.60948,
+    "geom:longitude":87.15099,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"6.0",
+    "gn:admin4_code":"60026.0",
+    "gn:asciiname":"Mahendrachok",
+    "gn:country_code":"NP",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7997902,
+    "gn:latitude":26.60948,
+    "gn:longitude":87.15099,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mahendrachok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049923,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7997902
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"feb6da1a229b00d7c50f862aa599d100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1327182329,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1327182329,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1327182329,
+    "wof:lastmodified":1537040265,
+    "wof:name":"Mahendrachok",
+    "wof:parent_id":1092049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.15099000000002,
+    26.60948,
+    87.15099000000002,
+    26.60948
+],
+  "geometry": {"coordinates":[87.15099000000002,26.60948],"type":"Point"}
+}

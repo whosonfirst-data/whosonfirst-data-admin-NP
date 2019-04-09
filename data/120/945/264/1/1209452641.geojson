@@ -1,0 +1,64 @@
+{
+  "id": 1209452641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.68539,27.33408,87.68539,27.33408",
+    "geom:latitude":27.33408,
+    "geom:longitude":87.68539,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10006.0",
+    "gn:asciiname":"Salimbe",
+    "gn:country_code":"NP",
+    "gn:dem":1687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005057,
+    "gn:latitude":27.33408,
+    "gn:longitude":87.68539,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Salimbe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005057
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7eee7baaf390209b9c6329e2ae71fe2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209452641
+        }
+    ],
+    "wof:id":1209452641,
+    "wof:lastmodified":1536286627,
+    "wof:name":"Salimbe",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.68539,
+    27.33408,
+    87.68539,
+    27.33408
+],
+  "geometry": {"coordinates":[87.68539,27.33408],"type":"Point"}
+}

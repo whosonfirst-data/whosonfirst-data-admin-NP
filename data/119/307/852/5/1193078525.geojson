@@ -1,0 +1,78 @@
+{
+  "id": 1193078525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.5453,27.97457,84.5453,27.97457",
+    "geom:latitude":27.97457,
+    "geom:longitude":84.5453,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360008.0",
+    "gn:asciiname":"Pari Dihi",
+    "gn:country_code":"NP",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7947981,
+    "gn:latitude":27.97457,
+    "gn:longitude":84.5453,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pari Dihi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7947981
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"25da845927464f58da540c7dbe6890a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1193078525,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1193078525,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1193078525,
+    "wof:lastmodified":1536383197,
+    "wof:name":"Pari Dihi",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.5453,
+    27.97457,
+    84.5453,
+    27.97457
+],
+  "geometry": {"coordinates":[84.5453,27.97457],"type":"Point"}
+}

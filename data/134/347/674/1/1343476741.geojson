@@ -1,0 +1,75 @@
+{
+  "id": 1343476741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.21667,29.31667,83.21667,29.31667",
+    "geom:latitude":29.31667,
+    "geom:longitude":83.21667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Simengaon",
+    "gn:country_code":"NP",
+    "gn:dem":5009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282780,
+    "gn:latitude":29.31667,
+    "gn:longitude":83.21667,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Simengaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050349,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282780
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9d8fb6cbc9d5d213f25cadc381ae65c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1343476741,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1343476741,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1343476741,
+    "wof:lastmodified":1536722992,
+    "wof:name":"Simengaon",
+    "wof:parent_id":1092050349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.21667,
+    29.31667,
+    83.21667,
+    29.31667
+],
+  "geometry": {"coordinates":[83.21666999999999,29.31667],"type":"Point"}
+}

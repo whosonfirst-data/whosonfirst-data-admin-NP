@@ -1,0 +1,64 @@
+{
+  "id": 1209362851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.25716,27.39533,86.25716,27.39533",
+    "geom:latitude":27.39533,
+    "geom:longitude":86.25716,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"12",
+    "gn:admin4_code":"120015",
+    "gn:asciiname":"Kaphalbote",
+    "gn:country_code":"NP",
+    "gn:dem":1285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7975177,
+    "gn:latitude":27.39533,
+    "gn:longitude":86.25716,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kaphalbote",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7975177
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"37d90b7ea6f2be9fda541832105874ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209362851
+        }
+    ],
+    "wof:id":1209362851,
+    "wof:lastmodified":1536289367,
+    "wof:name":"Kaphalbote",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.25716,
+    27.39533,
+    86.25716,
+    27.39533
+],
+  "geometry": {"coordinates":[86.25716,27.39533],"type":"Point"}
+}

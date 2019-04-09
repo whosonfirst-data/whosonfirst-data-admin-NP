@@ -1,0 +1,78 @@
+{
+  "id": 1293720099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.76451,30.01372,81.76451,30.01372",
+    "geom:latitude":30.01372,
+    "geom:longitude":81.76451,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"66.0",
+    "gn:admin4_code":"660007.0",
+    "gn:asciiname":"Chauganphaya",
+    "gn:country_code":"NP",
+    "gn:dem":2770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7950868,
+    "gn:latitude":30.01372,
+    "gn:longitude":81.76451,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chauganphaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050353,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7950868
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"873d5ef6477055276b4935d761be93ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1293720099,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1293720099,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1293720099,
+    "wof:lastmodified":1536949416,
+    "wof:name":"Chauganphaya",
+    "wof:parent_id":1092050353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.76451,
+    30.01372000000001,
+    81.76451,
+    30.01372000000001
+],
+  "geometry": {"coordinates":[81.76451,30.01372000000001],"type":"Point"}
+}

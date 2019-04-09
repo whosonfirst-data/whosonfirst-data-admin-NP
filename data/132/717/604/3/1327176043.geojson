@@ -1,0 +1,78 @@
+{
+  "id": 1327176043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.87982,26.76111,87.87982,26.76111",
+    "geom:latitude":26.76111,
+    "geom:longitude":87.87982,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30007.0",
+    "gn:asciiname":"Majhbari",
+    "gn:country_code":"NP",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7951639,
+    "gn:latitude":26.76111,
+    "gn:longitude":87.87982,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Majhbari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7951639
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d18cd80639fb91591dca397a8f42ae91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1327176043,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1327176043,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1327176043,
+    "wof:lastmodified":1537048916,
+    "wof:name":"Majhbari",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.87982,
+    26.76111,
+    87.87982,
+    26.76111
+],
+  "geometry": {"coordinates":[87.87982,26.76111],"type":"Point"}
+}

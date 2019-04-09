@@ -1,0 +1,78 @@
+{
+  "id": 1243288369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6227,29.04259,80.6227,29.04259",
+    "geom:latitude":29.04259,
+    "geom:longitude":80.6227,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710038.0",
+    "gn:asciiname":"Musichaur",
+    "gn:country_code":"NP",
+    "gn:dem":1146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7957597,
+    "gn:latitude":29.04259,
+    "gn:longitude":80.6227,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Musichaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7957597
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4b109d74b20a33c5ab04a93f9fe86e30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1243288369,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1243288369,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1243288369,
+    "wof:lastmodified":1537032144,
+    "wof:name":"Musichaur",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6227,
+    29.04259,
+    80.6227,
+    29.04259
+],
+  "geometry": {"coordinates":[80.62269999999999,29.04259],"type":"Point"}
+}

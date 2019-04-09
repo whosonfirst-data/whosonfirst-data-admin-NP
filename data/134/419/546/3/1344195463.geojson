@@ -1,0 +1,78 @@
+{
+  "id": 1344195463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.984,27.46963,85.984,27.46963",
+    "geom:latitude":27.46963,
+    "geom:longitude":85.984,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"21",
+    "gn:admin4_code":"210004",
+    "gn:asciiname":"Majuwa",
+    "gn:country_code":"NP",
+    "gn:dem":1476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7981037,
+    "gn:latitude":27.46963,
+    "gn:longitude":85.984,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Majuwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049711,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7981037
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6de0ad4a79a47c3f3891602cf303c747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1344195463,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1344195463,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1344195463,
+    "wof:lastmodified":1536680731,
+    "wof:name":"Majuwa",
+    "wof:parent_id":1092049711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.984,
+    27.46963,
+    85.984,
+    27.46963
+],
+  "geometry": {"coordinates":[85.98399999999999,27.46963],"type":"Point"}
+}

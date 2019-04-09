@@ -1,0 +1,78 @@
+{
+  "id": 1293148893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.96125,26.62067,87.96125,26.62067",
+    "geom:latitude":26.62067,
+    "geom:longitude":87.96125,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40011.0",
+    "gn:asciiname":"Lalmati",
+    "gn:country_code":"NP",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7954127,
+    "gn:latitude":26.62067,
+    "gn:longitude":87.96125,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lalmati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7954127
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"87c821636dc86ec718134f854b94db8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1293148893,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1293148893,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1293148893,
+    "wof:lastmodified":1536778851,
+    "wof:name":"Lalmati",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.96125,
+    26.62067,
+    87.96125,
+    26.62067
+],
+  "geometry": {"coordinates":[87.96125000000001,26.62067],"type":"Point"}
+}

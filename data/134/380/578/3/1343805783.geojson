@@ -1,0 +1,78 @@
+{
+  "id": 1343805783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.32055,27.69316,84.32055,27.69316",
+    "geom:latitude":27.69316,
+    "geom:longitude":84.32055,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"48",
+    "gn:admin4_code":"480041",
+    "gn:asciiname":"Pitauji",
+    "gn:country_code":"NP",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7973158,
+    "gn:latitude":27.69316,
+    "gn:longitude":84.32055,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pitauji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050413,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7973158
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"88b1a743acc17c12f36c345fbb3306c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050413,
+            "locality_id":1343805783,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050413,
+            "locality_id":1343805783,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1343805783,
+    "wof:lastmodified":1536745273,
+    "wof:name":"Pitauji",
+    "wof:parent_id":1092050413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.32055,
+    27.69316,
+    84.32055,
+    27.69316
+],
+  "geometry": {"coordinates":[84.32055,27.69316],"type":"Point"}
+}

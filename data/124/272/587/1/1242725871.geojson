@@ -1,0 +1,78 @@
+{
+  "id": 1242725871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.07582,27.66768,84.07582,27.66768",
+    "geom:latitude":27.66768,
+    "geom:longitude":84.07582,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"48",
+    "gn:admin4_code":"480014",
+    "gn:asciiname":"Nayanbasti",
+    "gn:country_code":"NP",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7972832,
+    "gn:latitude":27.66768,
+    "gn:longitude":84.07582,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nayanbasti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050413,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7972832
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d5ec312f142e25ba04b87a672190ea4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050413,
+            "locality_id":1242725871,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050413,
+            "locality_id":1242725871,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1242725871,
+    "wof:lastmodified":1536849193,
+    "wof:name":"Nayanbasti",
+    "wof:parent_id":1092050413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.07582,
+    27.66768,
+    84.07582,
+    27.66768
+],
+  "geometry": {"coordinates":[84.07581999999999,27.66768],"type":"Point"}
+}

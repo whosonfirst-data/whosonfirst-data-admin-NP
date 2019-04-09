@@ -1,0 +1,77 @@
+{
+  "id": 1343409245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.82952,28.82174,83.82952,28.82174",
+    "geom:latitude":28.82174,
+    "geom:longitude":83.82952,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3.0",
+    "gn:asciiname":"Khingar",
+    "gn:country_code":"NP",
+    "gn:dem":3353,
+    "gn:elevation":"3374.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6941675,
+    "gn:latitude":28.82174,
+    "gn:longitude":83.82952,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Khingar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675553,
+        1092048365,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6941675
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0d085eee00c663aae158e07671020662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048365,
+            "locality_id":1343409245,
+            "region_id":85675553
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048365,
+            "locality_id":1343409245,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1343409245,
+    "wof:lastmodified":1536819333,
+    "wof:name":"Khingar",
+    "wof:parent_id":1092048365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.82952,
+    28.82174,
+    83.82952,
+    28.82174
+],
+  "geometry": {"coordinates":[83.82952,28.82174],"type":"Point"}
+}

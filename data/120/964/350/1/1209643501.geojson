@@ -1,0 +1,64 @@
+{
+  "id": 1209643501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.23151,29.14713,81.23151,29.14713",
+    "geom:latitude":29.14713,
+    "geom:longitude":81.23151,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"69.0",
+    "gn:admin4_code":"690047.0",
+    "gn:asciiname":"Biraltoli",
+    "gn:country_code":"NP",
+    "gn:dem":1255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008560,
+    "gn:latitude":29.14713,
+    "gn:longitude":81.23151,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Biraltoli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008560
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"69b0bcb83780c3d5c943d43bbb82cc26",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209643501
+        }
+    ],
+    "wof:id":1209643501,
+    "wof:lastmodified":1536280810,
+    "wof:name":"Biraltoli",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.23151,
+    29.14713,
+    81.23151,
+    29.14713
+],
+  "geometry": {"coordinates":[81.23151,29.14713],"type":"Point"}
+}

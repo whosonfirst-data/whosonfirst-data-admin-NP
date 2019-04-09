@@ -1,0 +1,78 @@
+{
+  "id": 1327171727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.64026,27.92251,83.64026,27.92251",
+    "geom:latitude":27.92251,
+    "geom:longitude":83.64026,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390033.0",
+    "gn:asciiname":"Pistunka",
+    "gn:country_code":"NP",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001434,
+    "gn:latitude":27.92251,
+    "gn:longitude":83.64026,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pistunka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001434
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"af07f87b7ac32265b0d99d5599486430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1327171727,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1327171727,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1327171727,
+    "wof:lastmodified":1537054746,
+    "wof:name":"Pistunka",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.64026,
+    27.92251,
+    83.64026,
+    27.92251
+],
+  "geometry": {"coordinates":[83.64026,27.92251],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1327082219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.55747,26.76982,86.55747,26.76982",
+    "geom:latitude":26.76982,
+    "geom:longitude":86.55747,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"15",
+    "gn:admin4_code":"150094",
+    "gn:asciiname":"Jimmaltol",
+    "gn:country_code":"NP",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7991302,
+    "gn:latitude":26.76982,
+    "gn:longitude":86.55747,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jimmaltol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092048485,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7991302
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"57c41e7c3f6cc69eade6884ab4f2b1d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048485,
+            "locality_id":1327082219,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048485,
+            "locality_id":1327082219,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1327082219,
+    "wof:lastmodified":1536688803,
+    "wof:name":"Jimmaltol",
+    "wof:parent_id":1092048485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.55747,
+    26.76982000000001,
+    86.55747,
+    26.76982000000001
+],
+  "geometry": {"coordinates":[86.55747,26.76982000000001],"type":"Point"}
+}

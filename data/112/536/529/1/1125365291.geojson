@@ -1,0 +1,101 @@
+{
+  "id": 1125365291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.58333,29.5,80.58333,29.5",
+    "geom:latitude":29.5,
+    "geom:longitude":80.58333,
+    "gn:gn_country":"NP",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":244724,
+    "iso:country":"NP",
+    "lbl:latitude":29.5,
+    "lbl:longitude":80.58333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NP",
+    "qs_pg:gn_country":"NP",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1283701,
+    "qs_pg:gn_pop":244724,
+    "qs_pg:name":"Baitadi",
+    "qs_pg:name_adm0":"Nepal",
+    "qs_pg:name_adm1":"Sudur Pashchimanchal",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":956334,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424911,
+    "qs_pg:woe_id":23706787,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"quattroshapes_pg",
+    "woe:adm0_id":23424911,
+    "woe:name_adm0":"Nepal",
+    "woe:name_adm1":"Sudur Pashchimanchal",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050255,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283701,
+        "gp:id":23706787,
+        "qs_pg:id":956334
+    },
+    "wof:country":"NP",
+    "wof:created":1497047043,
+    "wof:geomhash":"7b065437ad5dc16379de5d26e47dae30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "localadmin_id":1125365291,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "localadmin_id":1125365291,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1125365291,
+    "wof:lastmodified":1534379388,
+    "wof:name":"Baitadi",
+    "wof:parent_id":1092050255,
+    "wof:placetype":"localadmin",
+    "wof:population":244724,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[
+        421182857
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.58333,
+    29.5,
+    80.58333,
+    29.5
+],
+  "geometry": {"coordinates":[80.58333,29.5],"type":"Point"}
+}

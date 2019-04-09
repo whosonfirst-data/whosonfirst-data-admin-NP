@@ -1,0 +1,64 @@
+{
+  "id": 1209146561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.87209,28.08709,83.87209,28.08709",
+    "geom:latitude":28.08709,
+    "geom:longitude":83.87209,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390044.0",
+    "gn:asciiname":"Randan",
+    "gn:country_code":"NP",
+    "gn:dem":1275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001907,
+    "gn:latitude":28.08709,
+    "gn:longitude":83.87209,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Randan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001907
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e93b9494861187b3c168109f3d50d367",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209146561
+        }
+    ],
+    "wof:id":1209146561,
+    "wof:lastmodified":1536296335,
+    "wof:name":"Randan",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.87209,
+    28.087090000000003,
+    83.87209,
+    28.087090000000003
+],
+  "geometry": {"coordinates":[83.87209,28.08709],"type":"Point"}
+}

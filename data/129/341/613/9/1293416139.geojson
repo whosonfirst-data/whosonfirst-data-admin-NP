@@ -1,0 +1,78 @@
+{
+  "id": 1293416139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.17338,28.45038,82.17338,28.45038",
+    "geom:latitude":28.45038,
+    "geom:longitude":82.17338,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550042",
+    "gn:asciiname":"Jhargaun",
+    "gn:country_code":"NP",
+    "gn:dem":1444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7989620,
+    "gn:latitude":28.45038,
+    "gn:longitude":82.17338,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jhargaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049579,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7989620
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fc93242d58d2bdcf1ad74fe429bd742f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1293416139,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1293416139,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1293416139,
+    "wof:lastmodified":1536889629,
+    "wof:name":"Jhargaun",
+    "wof:parent_id":1092049579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.17338000000002,
+    28.45038,
+    82.17338000000002,
+    28.45038
+],
+  "geometry": {"coordinates":[82.17338000000002,28.45038],"type":"Point"}
+}

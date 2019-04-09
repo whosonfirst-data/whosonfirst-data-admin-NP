@@ -1,0 +1,78 @@
+{
+  "id": 1193209919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.51986,27.60646,83.51986,27.60646",
+    "geom:latitude":27.60646,
+    "geom:longitude":83.51986,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"49",
+    "gn:admin4_code":"490043",
+    "gn:asciiname":"Makadahar",
+    "gn:country_code":"NP",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7987412,
+    "gn:latitude":27.60646,
+    "gn:longitude":83.51986,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Makadahar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048457,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7987412
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"951bb45edb8d3f64c592fa12cae888a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1193209919,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1193209919,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1193209919,
+    "wof:lastmodified":1536364932,
+    "wof:name":"Makadahar",
+    "wof:parent_id":1092048457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.51986,
+    27.60646,
+    83.51986,
+    27.60646
+],
+  "geometry": {"coordinates":[83.51985999999999,27.60646],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209356431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.23217,28.11244,84.23217,28.11244",
+    "geom:latitude":28.11244,
+    "geom:longitude":84.23217,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370049",
+    "gn:asciiname":"Neupanebesi",
+    "gn:country_code":"NP",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7966946,
+    "gn:latitude":28.11244,
+    "gn:longitude":84.23217,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Neupanebesi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7966946
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"be2326ce54a548a1e0e5268200f24432",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209356431
+        }
+    ],
+    "wof:id":1209356431,
+    "wof:lastmodified":1536289570,
+    "wof:name":"Neupanebesi",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.23217,
+    28.112440000000007,
+    84.23217,
+    28.112440000000007
+],
+  "geometry": {"coordinates":[84.23217,28.11244000000001],"type":"Point"}
+}

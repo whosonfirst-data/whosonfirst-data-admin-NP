@@ -1,0 +1,64 @@
+{
+  "id": 1209463135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.25592,26.59274,87.25592,26.59274",
+    "geom:latitude":26.59274,
+    "geom:longitude":87.25592,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"6.0",
+    "gn:admin4_code":"60050.0",
+    "gn:asciiname":"Saptariyatol",
+    "gn:country_code":"NP",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7998387,
+    "gn:latitude":26.59274,
+    "gn:longitude":87.25592,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Saptariyatol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7998387
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b50eb648add949aadb559ee63d9d4714",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209463135
+        }
+    ],
+    "wof:id":1209463135,
+    "wof:lastmodified":1536286319,
+    "wof:name":"Saptariyatol",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.25591999999997,
+    26.592740000000006,
+    87.25591999999997,
+    26.592740000000006
+],
+  "geometry": {"coordinates":[87.25591999999997,26.59274000000001],"type":"Point"}
+}

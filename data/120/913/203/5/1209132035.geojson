@@ -1,0 +1,64 @@
+{
+  "id": 1209132035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.97817,28.32598,82.97817,28.32598",
+    "geom:latitude":28.32598,
+    "geom:longitude":82.97817,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"52",
+    "gn:admin4_code":"520045",
+    "gn:asciiname":"Mathillo  Bhegni",
+    "gn:country_code":"NP",
+    "gn:dem":2595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7980882,
+    "gn:latitude":28.32598,
+    "gn:longitude":82.97817,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mathillo  Bhegni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7980882
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b27bb66a7767ba1231f1dc25f347d04f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209132035
+        }
+    ],
+    "wof:id":1209132035,
+    "wof:lastmodified":1536296777,
+    "wof:name":"Mathillo  Bhegni",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.97816999999998,
+    28.32598,
+    82.97816999999998,
+    28.32598
+],
+  "geometry": {"coordinates":[82.97816999999998,28.32598],"type":"Point"}
+}

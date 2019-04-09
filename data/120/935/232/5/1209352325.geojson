@@ -1,0 +1,64 @@
+{
+  "id": 1209352325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.71162,27.43338,87.71162,27.43338",
+    "geom:latitude":27.43338,
+    "geom:longitude":87.71162,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10019.0",
+    "gn:asciiname":"Thauwa",
+    "gn:country_code":"NP",
+    "gn:dem":1394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005311,
+    "gn:latitude":27.43338,
+    "gn:longitude":87.71162,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thauwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005311
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7fa0f4c46178274918f8479667f6dd9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209352325
+        }
+    ],
+    "wof:id":1209352325,
+    "wof:lastmodified":1536289702,
+    "wof:name":"Thauwa",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.71162,
+    27.43338,
+    87.71162,
+    27.43338
+],
+  "geometry": {"coordinates":[87.71162,27.43338],"type":"Point"}
+}

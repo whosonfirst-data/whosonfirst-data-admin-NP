@@ -1,0 +1,78 @@
+{
+  "id": 1193044367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.71312,28.64596,81.71312,28.64596",
+    "geom:latitude":28.64596,
+    "geom:longitude":81.71312,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590045.0",
+    "gn:asciiname":"Lisaghari",
+    "gn:country_code":"NP",
+    "gn:dem":1605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8000242,
+    "gn:latitude":28.64596,
+    "gn:longitude":81.71312,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lisaghari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8000242
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3648b4575dc279560228c805aaef1a40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1193044367,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1193044367,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1193044367,
+    "wof:lastmodified":1536372556,
+    "wof:name":"Lisaghari",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.71311999999998,
+    28.64596,
+    81.71311999999998,
+    28.64596
+],
+  "geometry": {"coordinates":[81.71311999999998,28.64596],"type":"Point"}
+}

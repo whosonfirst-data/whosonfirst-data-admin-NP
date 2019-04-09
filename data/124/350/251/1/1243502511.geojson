@@ -1,0 +1,78 @@
+{
+  "id": 1243502511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.12813,27.59459,87.12813,27.59459",
+    "geom:latitude":27.59459,
+    "geom:longitude":87.12813,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"9",
+    "gn:admin4_code":"90034",
+    "gn:asciiname":"Saisimma",
+    "gn:country_code":"NP",
+    "gn:dem":2434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7990672,
+    "gn:latitude":27.59459,
+    "gn:longitude":87.12813,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Saisimma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049597,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7990672
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"666c4c36ec16f751fc7069522e39b458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1243502511,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1243502511,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1243502511,
+    "wof:lastmodified":1536725171,
+    "wof:name":"Saisimma",
+    "wof:parent_id":1092049597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.12813,
+    27.59459,
+    87.12813,
+    27.59459
+],
+  "geometry": {"coordinates":[87.12813,27.59459],"type":"Point"}
+}

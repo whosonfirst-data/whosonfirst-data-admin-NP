@@ -1,0 +1,75 @@
+{
+  "id": 1327351589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.09233,27.01455,85.09233,27.01455",
+    "geom:latitude":27.01455,
+    "geom:longitude":85.09233,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sirisya",
+    "gn:country_code":"NP",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10332782,
+    "gn:latitude":27.01455,
+    "gn:longitude":85.09233,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Sirisy\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092048051,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10332782
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"46c49edd91b27484aa791c84e2c1f406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1327351589,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1327351589,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1327351589,
+    "wof:lastmodified":1536797671,
+    "wof:name":"Sirisya",
+    "wof:parent_id":1092048051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.09233,
+    27.01455,
+    85.09233,
+    27.01455
+],
+  "geometry": {"coordinates":[85.09233,27.01455],"type":"Point"}
+}

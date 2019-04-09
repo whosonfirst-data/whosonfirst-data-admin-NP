@@ -1,0 +1,64 @@
+{
+  "id": 1209156587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.23139,27.31113,86.23139,27.31113",
+    "geom:latitude":27.31113,
+    "geom:longitude":86.23139,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"21",
+    "gn:admin4_code":"210025",
+    "gn:asciiname":"Nakcha",
+    "gn:country_code":"NP",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7981441,
+    "gn:latitude":27.31113,
+    "gn:longitude":86.23139,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nakcha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7981441
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"200e64b9523d9292e261edc96d8b4266",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209156587
+        }
+    ],
+    "wof:id":1209156587,
+    "wof:lastmodified":1536296038,
+    "wof:name":"Nakcha",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.23139,
+    27.31113,
+    86.23139,
+    27.31113
+],
+  "geometry": {"coordinates":[86.23139,27.31113],"type":"Point"}
+}

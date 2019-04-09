@@ -1,0 +1,78 @@
+{
+  "id": 1326848273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.02073,28.56455,81.02073,28.56455",
+    "geom:latitude":28.56455,
+    "geom:longitude":81.02073,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Joshipur",
+    "gn:country_code":"NP",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283292,
+    "gn:latitude":28.56455,
+    "gn:longitude":81.02073,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Joshi\u0307\u0304pur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Joshi\u0307\u0304pur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283292
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"35ec646014c7bf574a1ce3d650088950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1326848273,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1326848273,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1326848273,
+    "wof:lastmodified":1537676053,
+    "wof:name":"Joshipur",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.02073,
+    28.56455,
+    81.02073,
+    28.56455
+],
+  "geometry": {"coordinates":[81.02073,28.56455],"type":"Point"}
+}

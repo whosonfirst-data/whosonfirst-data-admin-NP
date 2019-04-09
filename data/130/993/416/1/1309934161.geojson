@@ -1,0 +1,78 @@
+{
+  "id": 1309934161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.51429,28.89727,80.51429,28.89727",
+    "geom:latitude":28.89727,
+    "geom:longitude":80.51429,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710015.0",
+    "gn:asciiname":"Bagada",
+    "gn:country_code":"NP",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956590,
+    "gn:latitude":28.89727,
+    "gn:longitude":80.51429,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bagada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956590
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"668f9dc2f6a70fd52bfba9f7f886a537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1309934161,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1309934161,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1309934161,
+    "wof:lastmodified":1536745949,
+    "wof:name":"Bagada",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.51429,
+    28.89727,
+    80.51429,
+    28.89727
+],
+  "geometry": {"coordinates":[80.51429,28.89727],"type":"Point"}
+}

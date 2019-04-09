@@ -1,0 +1,78 @@
+{
+  "id": 1327176059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.43322,26.85991,87.43322,26.85991",
+    "geom:latitude":26.85991,
+    "geom:longitude":87.43322,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"5",
+    "gn:admin4_code":"50046",
+    "gn:asciiname":"Ningladappa",
+    "gn:country_code":"NP",
+    "gn:dem":1314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7970854,
+    "gn:latitude":26.85991,
+    "gn:longitude":87.43322,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ningladappa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092048303,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7970854
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1de3cfca3961d3186e434ccb21227d46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1327176059,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1327176059,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1327176059,
+    "wof:lastmodified":1537048894,
+    "wof:name":"Ningladappa",
+    "wof:parent_id":1092048303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.43321999999998,
+    26.85991,
+    87.43321999999998,
+    26.85991
+],
+  "geometry": {"coordinates":[87.43321999999998,26.85991],"type":"Point"}
+}

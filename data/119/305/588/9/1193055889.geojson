@@ -1,0 +1,78 @@
+{
+  "id": 1193055889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.90263,26.58927,86.90263,26.58927",
+    "geom:latitude":26.58927,
+    "geom:longitude":86.90263,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"15",
+    "gn:admin4_code":"150003",
+    "gn:asciiname":"Dhanpuri",
+    "gn:country_code":"NP",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7990709,
+    "gn:latitude":26.58927,
+    "gn:longitude":86.90263,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhanpuri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092048485,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7990709
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"04ab5f516b4eca5a9c7cf8f63a318350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048485,
+            "locality_id":1193055889,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048485,
+            "locality_id":1193055889,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1193055889,
+    "wof:lastmodified":1536382906,
+    "wof:name":"Dhanpuri",
+    "wof:parent_id":1092048485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.90263,
+    26.58927000000001,
+    86.90263,
+    26.58927000000001
+],
+  "geometry": {"coordinates":[86.90263,26.58927000000001],"type":"Point"}
+}

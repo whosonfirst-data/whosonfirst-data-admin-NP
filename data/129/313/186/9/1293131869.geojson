@@ -1,0 +1,78 @@
+{
+  "id": 1293131869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.18712,29.86516,81.18712,29.86516",
+    "geom:latitude":29.86516,
+    "geom:longitude":81.18712,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680020",
+    "gn:asciiname":"Naya Odar",
+    "gn:country_code":"NP",
+    "gn:dem":3535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7992126,
+    "gn:latitude":29.86516,
+    "gn:longitude":81.18712,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Naya Odar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048571,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7992126
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b861de26c30a9405d5c544ec9bc9d406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1293131869,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1293131869,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1293131869,
+    "wof:lastmodified":1536802812,
+    "wof:name":"Naya Odar",
+    "wof:parent_id":1092048571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.18712,
+    29.86516,
+    81.18712,
+    29.86516
+],
+  "geometry": {"coordinates":[81.18711999999999,29.86516],"type":"Point"}
+}

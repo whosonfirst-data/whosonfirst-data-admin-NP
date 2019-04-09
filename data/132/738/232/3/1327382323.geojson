@@ -1,0 +1,78 @@
+{
+  "id": 1327382323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.271,27.7739,85.271,27.7739",
+    "geom:latitude":27.7739,
+    "geom:longitude":85.271,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"27.0",
+    "gn:admin4_code":"270027.0",
+    "gn:asciiname":"Ath Mail",
+    "gn:country_code":"NP",
+    "gn:dem":1454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7962113,
+    "gn:latitude":27.7739,
+    "gn:longitude":85.271,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ath Mail",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092048931,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7962113
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d9bc571609ac4197cb91147c7788c1b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":1327382323,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":1327382323,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1327382323,
+    "wof:lastmodified":1536753180,
+    "wof:name":"Ath Mail",
+    "wof:parent_id":1092048931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.271,
+    27.7739,
+    85.271,
+    27.7739
+],
+  "geometry": {"coordinates":[85.271,27.7739],"type":"Point"}
+}

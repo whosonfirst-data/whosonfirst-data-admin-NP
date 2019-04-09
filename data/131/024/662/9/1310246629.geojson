@@ -1,0 +1,78 @@
+{
+  "id": 1310246629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.73355,27.32445,87.73355,27.32445",
+    "geom:latitude":27.32445,
+    "geom:longitude":87.73355,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10045.0",
+    "gn:asciiname":"Thaple",
+    "gn:country_code":"NP",
+    "gn:dem":1926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005723,
+    "gn:latitude":27.32445,
+    "gn:longitude":87.73355,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thaple",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005723
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2caad3f800546f13afc1929206e2a8c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1310246629,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1310246629,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1310246629,
+    "wof:lastmodified":1536793120,
+    "wof:name":"Thaple",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.73355,
+    27.32445,
+    87.73355,
+    27.32445
+],
+  "geometry": {"coordinates":[87.73354999999999,27.32445],"type":"Point"}
+}

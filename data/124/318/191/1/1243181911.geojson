@@ -1,0 +1,79 @@
+{
+  "id": 1243181911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.54402,28.28351,84.54402,28.28351",
+    "geom:latitude":28.28351,
+    "geom:longitude":84.54402,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Taje",
+    "gn:country_code":"NP",
+    "gn:dem":1599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282717,
+    "gn:latitude":28.28351,
+    "gn:longitude":84.54402,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"T\u0101\u0303je",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u0101\u0303je",
+        "T\u0101nje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050009,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282717
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"63ee7d8fcc70d28549c40a5f7d17a5a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1243181911,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1243181911,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1243181911,
+    "wof:lastmodified":1537676039,
+    "wof:name":"Taje",
+    "wof:parent_id":1092050009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.54401999999997,
+    28.28351,
+    84.54401999999997,
+    28.28351
+],
+  "geometry": {"coordinates":[84.54401999999997,28.28351],"type":"Point"}
+}

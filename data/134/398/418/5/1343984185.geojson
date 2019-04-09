@@ -1,0 +1,78 @@
+{
+  "id": 1343984185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.04631,28.24722,83.04631,28.24722",
+    "geom:latitude":28.24722,
+    "geom:longitude":83.04631,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"52",
+    "gn:admin4_code":"520001",
+    "gn:asciiname":"Sebini",
+    "gn:country_code":"NP",
+    "gn:dem":2046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7979652,
+    "gn:latitude":28.24722,
+    "gn:longitude":83.04631,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sebini",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049377,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7979652
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ab666d5e7f90398b5aaeb65444305b18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1343984185,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1343984185,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1343984185,
+    "wof:lastmodified":1536985037,
+    "wof:name":"Sebini",
+    "wof:parent_id":1092049377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.04630999999998,
+    28.24722,
+    83.04630999999998,
+    28.24722
+],
+  "geometry": {"coordinates":[83.04630999999998,28.24722],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276594611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.07626,27.30435,85.07626,27.30435",
+    "geom:latitude":27.30435,
+    "geom:longitude":85.07626,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"330088.0",
+    "gn:asciiname":"Sano Akashdhara",
+    "gn:country_code":"NP",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009168,
+    "gn:latitude":27.30435,
+    "gn:longitude":85.07626,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sano Akashdhara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092048051,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009168
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6129068038887f125757248af31cb58c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1276594611,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1276594611,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1276594611,
+    "wof:lastmodified":1536926778,
+    "wof:name":"Sano Akashdhara",
+    "wof:parent_id":1092048051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.07625999999998,
+    27.30435,
+    85.07625999999998,
+    27.30435
+],
+  "geometry": {"coordinates":[85.07625999999998,27.30435],"type":"Point"}
+}

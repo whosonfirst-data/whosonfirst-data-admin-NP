@@ -1,0 +1,78 @@
+{
+  "id": 1310053343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.54528,28.08616,84.54528,28.08616",
+    "geom:latitude":28.08616,
+    "geom:longitude":84.54528,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360030.0",
+    "gn:asciiname":"Patalepani",
+    "gn:country_code":"NP",
+    "gn:dem":1049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7948659,
+    "gn:latitude":28.08616,
+    "gn:longitude":84.54528,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Patalepani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7948659
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"53092c6be3f4d517b6266ea38670c614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1310053343,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1310053343,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1310053343,
+    "wof:lastmodified":1537068771,
+    "wof:name":"Patalepani",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.54528,
+    28.08616,
+    84.54528,
+    28.08616
+],
+  "geometry": {"coordinates":[84.54528000000001,28.08616],"type":"Point"}
+}

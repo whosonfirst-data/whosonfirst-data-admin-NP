@@ -1,0 +1,78 @@
+{
+  "id": 1327460185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.09403,28.68445,82.09403,28.68445",
+    "geom:latitude":28.68445,
+    "geom:longitude":82.09403,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"61.0",
+    "gn:admin4_code":"610021.0",
+    "gn:asciiname":"Tunnigaun",
+    "gn:country_code":"NP",
+    "gn:dem":1165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7953649,
+    "gn:latitude":28.68445,
+    "gn:longitude":82.09403,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tunnigaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092048763,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7953649
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3746d86cbb51a13996b1872a16de3b25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048763,
+            "locality_id":1327460185,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048763,
+            "locality_id":1327460185,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1327460185,
+    "wof:lastmodified":1536639817,
+    "wof:name":"Tunnigaun",
+    "wof:parent_id":1092048763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.09403,
+    28.68445,
+    82.09403,
+    28.68445
+],
+  "geometry": {"coordinates":[82.09403,28.68445],"type":"Point"}
+}

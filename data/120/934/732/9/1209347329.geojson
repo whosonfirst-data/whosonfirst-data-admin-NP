@@ -1,0 +1,64 @@
+{
+  "id": 1209347329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.72462,29.3021,81.72462,29.3021",
+    "geom:latitude":29.3021,
+    "geom:longitude":81.72462,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"64.0",
+    "gn:admin4_code":"640018.0",
+    "gn:asciiname":"Nanikot",
+    "gn:country_code":"NP",
+    "gn:dem":2113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7958266,
+    "gn:latitude":29.3021,
+    "gn:longitude":81.72462,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nanikot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7958266
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"83c98674ff4a98f17cf6019b39592184",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209347329
+        }
+    ],
+    "wof:id":1209347329,
+    "wof:lastmodified":1536289868,
+    "wof:name":"Nanikot",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.72462,
+    29.3021,
+    81.72462,
+    29.3021
+],
+  "geometry": {"coordinates":[81.72462,29.3021],"type":"Point"}
+}

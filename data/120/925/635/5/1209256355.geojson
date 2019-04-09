@@ -1,0 +1,64 @@
+{
+  "id": 1209256355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.58401,28.14518,83.58401,28.14518",
+    "geom:latitude":28.14518,
+    "geom:longitude":83.58401,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450047.0",
+    "gn:asciiname":"Jhyane",
+    "gn:country_code":"NP",
+    "gn:dem":1641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7962003,
+    "gn:latitude":28.14518,
+    "gn:longitude":83.58401,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jhyane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7962003
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0dcb24604d9c380a441d0a35905df975",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209256355
+        }
+    ],
+    "wof:id":1209256355,
+    "wof:lastmodified":1536292837,
+    "wof:name":"Jhyane",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.58400999999998,
+    28.14518,
+    83.58400999999998,
+    28.14518
+],
+  "geometry": {"coordinates":[83.58400999999998,28.14518],"type":"Point"}
+}

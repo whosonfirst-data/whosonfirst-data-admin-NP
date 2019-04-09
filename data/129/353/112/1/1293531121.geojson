@@ -1,0 +1,78 @@
+{
+  "id": 1293531121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.00344,28.29471,84.00344,28.29471",
+    "geom:latitude":28.29471,
+    "geom:longitude":84.00344,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400002.0",
+    "gn:asciiname":"Rawaldanda",
+    "gn:country_code":"NP",
+    "gn:dem":1106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7960222,
+    "gn:latitude":28.29471,
+    "gn:longitude":84.00344,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Rawaldanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092049331,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7960222
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"26e90a30fc2de9400d8ed4b6a14696b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1293531121,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1293531121,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293531121,
+    "wof:lastmodified":1536724521,
+    "wof:name":"Rawaldanda",
+    "wof:parent_id":1092049331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.00344,
+    28.29471,
+    84.00344,
+    28.29471
+],
+  "geometry": {"coordinates":[84.00344,28.29471],"type":"Point"}
+}

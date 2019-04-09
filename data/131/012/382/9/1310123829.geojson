@@ -1,0 +1,76 @@
+{
+  "id": 1310123829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.57272,29.13166,82.57272,29.13166",
+    "geom:latitude":29.13166,
+    "geom:longitude":82.57272,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Rimi",
+    "gn:country_code":"NP",
+    "gn:dem":3166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282850,
+    "gn:latitude":29.13166,
+    "gn:longitude":82.57272,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Rimi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050349,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282850,
+        "wk:page":"Rimi%2C_Nepal"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3a4d496da1565afb863b564c0b8d92ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1310123829,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1310123829,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1310123829,
+    "wof:lastmodified":1537570141,
+    "wof:name":"Rimi",
+    "wof:parent_id":1092050349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.57271999999998,
+    29.13166,
+    82.57271999999998,
+    29.13166
+],
+  "geometry": {"coordinates":[82.57271999999998,29.13166],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 421190265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.962867,27.98091,85.962867,27.98091",
+    "geom:latitude":27.98091,
+    "geom:longitude":85.962867,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5854\u6258\u5e15\u5c3c\u4e61"
+    ],
+    "name:dut_x_preferred":[
+        "Tatopani"
+    ],
+    "name:eng_x_preferred":[
+        "Tatopani"
+    ],
+    "name:ger_x_preferred":[
+        "Tatopani"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30c8\u30d1\u30cb\u6e29\u6cc9"
+    ],
+    "name:may_x_preferred":[
+        "Tatopani"
+    ],
+    "name:nep_x_preferred":[
+        "\u0924\u093e\u0924\u094b\u092a\u093e\u0928\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u0924\u093e\u0924\u094b\u092a\u093e\u0928\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Tatopani"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"T\u00e5top\u00e5ni",
+    "qs:name_adm0":"Nepal",
+    "qs:name_adm1":"Madhyamanchal",
+    "qs:photos":274,
+    "qs:photos_1k":56,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":274,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1119327,
+    "qs:woe_adm0":23424911,
+    "qs:woe_id":2268920,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2268920,
+        "qs:id":1119327,
+        "wd:id":"Q3411015"
+    },
+    "wof:country":"NP",
+    "wof:created":1459009652,
+    "wof:geomhash":"ef5907b46df14c88276ac0a23da3a821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":421190265,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":421190265,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":421190265,
+    "wof:lastmodified":1514493717,
+    "wof:name":"T\u00e5top\u00e5ni",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.962867,
+    27.98091,
+    85.962867,
+    27.98091
+],
+  "geometry": {"coordinates":[85.962867,27.98091],"type":"Point"}
+}

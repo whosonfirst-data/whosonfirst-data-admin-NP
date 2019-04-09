@@ -1,0 +1,64 @@
+{
+  "id": 1209557389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.46657,27.29171,85.46657,27.29171",
+    "geom:latitude":27.29171,
+    "geom:longitude":85.46657,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200039",
+    "gn:asciiname":"Ghante",
+    "gn:country_code":"NP",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7993776,
+    "gn:latitude":27.29171,
+    "gn:longitude":85.46657,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ghante",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7993776
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d2b0b68136e2414ef4c071927759c545",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209557389
+        }
+    ],
+    "wof:id":1209557389,
+    "wof:lastmodified":1536283504,
+    "wof:name":"Ghante",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.46656999999998,
+    27.29171,
+    85.46656999999998,
+    27.29171
+],
+  "geometry": {"coordinates":[85.46656999999998,27.29171],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293816637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.95501,29.53431,80.95501,29.53431",
+    "geom:latitude":29.53431,
+    "geom:longitude":80.95501,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680002",
+    "gn:asciiname":"Siradi",
+    "gn:country_code":"NP",
+    "gn:dem":2078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7987032,
+    "gn:latitude":29.53431,
+    "gn:longitude":80.95501,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Siradi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048571,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7987032
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"041b98a7457cfa0a455ca9cddb53c97d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1293816637,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1293816637,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1293816637,
+    "wof:lastmodified":1536809275,
+    "wof:name":"Siradi",
+    "wof:parent_id":1092048571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.95501,
+    29.53431,
+    80.95501,
+    29.53431
+],
+  "geometry": {"coordinates":[80.95501,29.53431],"type":"Point"}
+}

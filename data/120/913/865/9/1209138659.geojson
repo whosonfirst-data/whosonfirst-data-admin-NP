@@ -1,0 +1,64 @@
+{
+  "id": 1209138659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.52456,28.37459,82.52456,28.37459",
+    "geom:latitude":28.37459,
+    "geom:longitude":82.52456,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530028",
+    "gn:asciiname":"Sarigadanda",
+    "gn:country_code":"NP",
+    "gn:dem":1518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7983890,
+    "gn:latitude":28.37459,
+    "gn:longitude":82.52456,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sarigadanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7983890
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e82b15fb7830262cd7430f9c38b8ba33",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209138659
+        }
+    ],
+    "wof:id":1209138659,
+    "wof:lastmodified":1536296576,
+    "wof:name":"Sarigadanda",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.52456,
+    28.37459,
+    82.52456,
+    28.37459
+],
+  "geometry": {"coordinates":[82.52455999999999,28.37459],"type":"Point"}
+}

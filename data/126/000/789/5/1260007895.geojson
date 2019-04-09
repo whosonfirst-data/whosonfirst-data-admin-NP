@@ -1,0 +1,78 @@
+{
+  "id": 1260007895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.40517,29.51709,80.40517,29.51709",
+    "geom:latitude":29.51709,
+    "geom:longitude":80.40517,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740024",
+    "gn:asciiname":"Dimauda",
+    "gn:country_code":"NP",
+    "gn:dem":1734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7973965,
+    "gn:latitude":29.51709,
+    "gn:longitude":80.40517,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dimauda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050255,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7973965
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"476b59bb1635e960f7d540e4fc09f3c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1260007895,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1260007895,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1260007895,
+    "wof:lastmodified":1537093671,
+    "wof:name":"Dimauda",
+    "wof:parent_id":1092050255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.40517,
+    29.51709,
+    80.40517,
+    29.51709
+],
+  "geometry": {"coordinates":[80.40517,29.51709],"type":"Point"}
+}

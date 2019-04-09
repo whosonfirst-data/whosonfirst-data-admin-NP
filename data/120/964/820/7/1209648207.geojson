@@ -1,0 +1,64 @@
+{
+  "id": 1209648207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.73136,29.50518,80.73136,29.50518",
+    "geom:latitude":29.50518,
+    "geom:longitude":80.73136,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740009",
+    "gn:asciiname":"Salyadi",
+    "gn:country_code":"NP",
+    "gn:dem":2131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7968389,
+    "gn:latitude":29.50518,
+    "gn:longitude":80.73136,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Salyadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7968389
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0428a7af4cf23831866739a2d1aac89e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209648207
+        }
+    ],
+    "wof:id":1209648207,
+    "wof:lastmodified":1536280666,
+    "wof:name":"Salyadi",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.73136,
+    29.50518,
+    80.73136,
+    29.50518
+],
+  "geometry": {"coordinates":[80.73136,29.50518],"type":"Point"}
+}

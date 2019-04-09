@@ -1,0 +1,78 @@
+{
+  "id": 1343990689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.17828,28.42221,81.17828,28.42221",
+    "geom:latitude":28.42221,
+    "geom:longitude":81.17828,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"58.0",
+    "gn:admin4_code":"580017.0",
+    "gn:asciiname":"Sukumbasi Tol",
+    "gn:country_code":"NP",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009722,
+    "gn:latitude":28.42221,
+    "gn:longitude":81.17828,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sukumbasi Tol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048097,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009722
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"afb996e6e894c3b207a9f805bce1d20b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1343990689,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1343990689,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1343990689,
+    "wof:lastmodified":1536975842,
+    "wof:name":"Sukumbasi Tol",
+    "wof:parent_id":1092048097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.17828,
+    28.42221,
+    81.17828,
+    28.42221
+],
+  "geometry": {"coordinates":[81.17828,28.42221],"type":"Point"}
+}

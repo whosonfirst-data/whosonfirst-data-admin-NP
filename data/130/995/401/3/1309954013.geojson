@@ -1,0 +1,78 @@
+{
+  "id": 1309954013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.09388,27.00017,85.09388,27.00017",
+    "geom:latitude":27.00017,
+    "geom:longitude":85.09388,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"330067.0",
+    "gn:asciiname":"Auniya",
+    "gn:country_code":"NP",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008998,
+    "gn:latitude":27.00017,
+    "gn:longitude":85.09388,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Auniya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092048051,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008998
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d98ebcddf5c79d569c05dad6822d5b18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1309954013,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1309954013,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1309954013,
+    "wof:lastmodified":1536717978,
+    "wof:name":"Auniya",
+    "wof:parent_id":1092048051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.09388,
+    27.00017,
+    85.09388,
+    27.00017
+],
+  "geometry": {"coordinates":[85.09388,27.00017],"type":"Point"}
+}

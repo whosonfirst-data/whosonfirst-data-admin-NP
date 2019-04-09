@@ -1,0 +1,79 @@
+{
+  "id": 1326647927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.60436,27.55423,85.60436,27.55423",
+    "geom:latitude":27.55423,
+    "geom:longitude":85.60436,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bhonjangau",
+    "gn:country_code":"NP",
+    "gn:dem":1677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10321946,
+    "gn:latitude":27.55423,
+    "gn:longitude":85.60436,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Bho\u00f1jang\u0101\u0169",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bho\u00f1jang\u0101\u0169",
+        "Bho\u00f1jang\u0101un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10321946
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b6390b39a7d8b815fdbe1b903e61005d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1326647927,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1326647927,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1326647927,
+    "wof:lastmodified":1537676086,
+    "wof:name":"Bhonjangau",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.60436,
+    27.55423,
+    85.60436,
+    27.55423
+],
+  "geometry": {"coordinates":[85.60436,27.55423],"type":"Point"}
+}

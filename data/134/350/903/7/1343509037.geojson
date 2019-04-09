@@ -1,0 +1,78 @@
+{
+  "id": 1343509037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.17386,27.66261,83.17386,27.66261",
+    "geom:latitude":27.66261,
+    "geom:longitude":83.17386,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"50.0",
+    "gn:admin4_code":"500026.0",
+    "gn:asciiname":"Gajehada",
+    "gn:country_code":"NP",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7959488,
+    "gn:latitude":27.66261,
+    "gn:longitude":83.17386,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gajehada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048259,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7959488
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7d48685c0d0547c6f9c0cf9a7ba0bd37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1343509037,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1343509037,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1343509037,
+    "wof:lastmodified":1536676150,
+    "wof:name":"Gajehada",
+    "wof:parent_id":1092048259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.17385999999998,
+    27.66261,
+    83.17385999999998,
+    27.66261
+],
+  "geometry": {"coordinates":[83.17385999999998,27.66261],"type":"Point"}
+}

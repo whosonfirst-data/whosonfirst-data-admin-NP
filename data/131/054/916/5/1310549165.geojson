@@ -1,0 +1,78 @@
+{
+  "id": 1310549165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.04183,27.89545,84.04183,27.89545",
+    "geom:latitude":27.89545,
+    "geom:longitude":84.04183,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380044.0",
+    "gn:asciiname":"Satgairha",
+    "gn:country_code":"NP",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8004694,
+    "gn:latitude":27.89545,
+    "gn:longitude":84.04183,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Satgairha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8004694
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"53022767c69f629e83e7ab21e46769b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1310549165,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1310549165,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1310549165,
+    "wof:lastmodified":1536852927,
+    "wof:name":"Satgairha",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.04183,
+    27.89545,
+    84.04183,
+    27.89545
+],
+  "geometry": {"coordinates":[84.04183,27.89545],"type":"Point"}
+}

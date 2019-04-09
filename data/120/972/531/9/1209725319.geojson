@@ -1,0 +1,79 @@
+{
+  "id": 1209725319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.4819,27.95342,85.4819,27.95342",
+    "geom:latitude":27.95342,
+    "geom:longitude":85.4819,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Helmu",
+    "gn:country_code":"NP",
+    "gn:dem":2968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283341,
+    "gn:latitude":27.95342,
+    "gn:longitude":85.4819,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Helmu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Helambu",
+        "Helmu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283341
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"dba87dd1896f25c40f74a2442321be01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1209725319,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1209725319,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1209725319,
+    "wof:lastmodified":1537676054,
+    "wof:name":"Helmu",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.4819,
+    27.95342,
+    85.4819,
+    27.95342
+],
+  "geometry": {"coordinates":[85.4819,27.95342],"type":"Point"}
+}

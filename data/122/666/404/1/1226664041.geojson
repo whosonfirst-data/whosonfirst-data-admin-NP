@@ -1,0 +1,78 @@
+{
+  "id": 1226664041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.01193,26.93104,88.01193,26.93104",
+    "geom:latitude":26.93104,
+    "geom:longitude":88.01193,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mijaregau",
+    "gn:country_code":"NP",
+    "gn:dem":1683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11602074,
+    "gn:latitude":26.93104,
+    "gn:longitude":88.01193,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Mij\u0101reg\u0101\u0169",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Mij\u0101reg\u0101\u0169"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11602074
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1403e52a2c22a32670b6c7c9d9b49374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1226664041,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1226664041,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1226664041,
+    "wof:lastmodified":1537676118,
+    "wof:name":"Mijaregau",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.01193,
+    26.93104000000001,
+    88.01193,
+    26.93104000000001
+],
+  "geometry": {"coordinates":[88.01193000000001,26.93104000000001],"type":"Point"}
+}

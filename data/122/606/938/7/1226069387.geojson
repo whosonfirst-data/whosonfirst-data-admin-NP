@@ -1,0 +1,78 @@
+{
+  "id": 1226069387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.64853,28.6742,81.64853,28.6742",
+    "geom:latitude":28.6742,
+    "geom:longitude":81.64853,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590023.0",
+    "gn:asciiname":"Nigalpani",
+    "gn:country_code":"NP",
+    "gn:dem":1925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7999289,
+    "gn:latitude":28.6742,
+    "gn:longitude":81.64853,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nigalpani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7999289
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"eb4a6bf41aa80dcc4e8e5c6b9324db00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1226069387,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1226069387,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1226069387,
+    "wof:lastmodified":1536691354,
+    "wof:name":"Nigalpani",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.64853000000002,
+    28.6742,
+    81.64853000000002,
+    28.6742
+],
+  "geometry": {"coordinates":[81.64853000000002,28.6742],"type":"Point"}
+}

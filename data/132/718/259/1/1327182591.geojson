@@ -1,0 +1,78 @@
+{
+  "id": 1327182591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.17971,27.43139,85.17971,27.43139",
+    "geom:latitude":27.43139,
+    "geom:longitude":85.17971,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310028",
+    "gn:asciiname":"Jitpur Bhanjyang",
+    "gn:country_code":"NP",
+    "gn:dem":1240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7968713,
+    "gn:latitude":27.43139,
+    "gn:longitude":85.17971,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jitpur Bhanjyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7968713
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"368b0f4bc154a9ae1833754e1c54b699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1327182591,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1327182591,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1327182591,
+    "wof:lastmodified":1537039920,
+    "wof:name":"Jitpur Bhanjyang",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.17971,
+    27.43139,
+    85.17971,
+    27.43139
+],
+  "geometry": {"coordinates":[85.17971,27.43139],"type":"Point"}
+}

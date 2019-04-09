@@ -1,0 +1,78 @@
+{
+  "id": 1344199255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.34833,28.19771,83.34833,28.19771",
+    "geom:latitude":28.19771,
+    "geom:longitude":83.34833,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450050.0",
+    "gn:asciiname":"Tallo Majuwa",
+    "gn:country_code":"NP",
+    "gn:dem":1009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7962875,
+    "gn:latitude":28.19771,
+    "gn:longitude":83.34833,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tallo Majuwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7962875
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e47674a80f8a30842e8666c742a88436",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1344199255,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1344199255,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1344199255,
+    "wof:lastmodified":1536675291,
+    "wof:name":"Tallo Majuwa",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.34833,
+    28.19771,
+    83.34833,
+    28.19771
+],
+  "geometry": {"coordinates":[83.34833,28.19771],"type":"Point"}
+}

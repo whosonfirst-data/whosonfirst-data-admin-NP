@@ -1,0 +1,78 @@
+{
+  "id": 1277124693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.77507,27.50206,87.77507,27.50206",
+    "geom:latitude":27.50206,
+    "geom:longitude":87.77507,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10016.0",
+    "gn:asciiname":"Batase",
+    "gn:country_code":"NP",
+    "gn:dem":1941,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005229,
+    "gn:latitude":27.50206,
+    "gn:longitude":87.77507,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Batase",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005229
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cdb5737fcfe7ee12c38fab366c6f54aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1277124693,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1277124693,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1277124693,
+    "wof:lastmodified":1536707531,
+    "wof:name":"Batase",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.77507,
+    27.50206,
+    87.77507,
+    27.50206
+],
+  "geometry": {"coordinates":[87.77507,27.50206],"type":"Point"}
+}

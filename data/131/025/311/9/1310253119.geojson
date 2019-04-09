@@ -1,0 +1,78 @@
+{
+  "id": 1310253119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.28758,27.06999,86.28758,27.06999",
+    "geom:latitude":27.06999,
+    "geom:longitude":86.28758,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200002",
+    "gn:asciiname":"Nibuwatar",
+    "gn:country_code":"NP",
+    "gn:dem":838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7992368,
+    "gn:latitude":27.06999,
+    "gn:longitude":86.28758,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nibuwatar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049679,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7992368
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d14b5c7cc30b8d452b6ab1b392ddc80c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1310253119,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1310253119,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1310253119,
+    "wof:lastmodified":1536784080,
+    "wof:name":"Nibuwatar",
+    "wof:parent_id":1092049679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.28758,
+    27.06999,
+    86.28758,
+    27.06999
+],
+  "geometry": {"coordinates":[86.28758000000001,27.06999],"type":"Point"}
+}

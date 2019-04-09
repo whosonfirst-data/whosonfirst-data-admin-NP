@@ -1,0 +1,78 @@
+{
+  "id": 1259821299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.54834,26.90253,87.54834,26.90253",
+    "geom:latitude":26.90253,
+    "geom:longitude":87.54834,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"2",
+    "gn:admin4_code":"20009",
+    "gn:asciiname":"Durdimba",
+    "gn:country_code":"NP",
+    "gn:dem":1550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7977305,
+    "gn:latitude":26.90253,
+    "gn:longitude":87.54834,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Durdimba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7977305
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8037e1ab62bad9ddc42bcee0f0f9549a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1259821299,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1259821299,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1259821299,
+    "wof:lastmodified":1536867569,
+    "wof:name":"Durdimba",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.54834,
+    26.90253,
+    87.54834,
+    26.90253
+],
+  "geometry": {"coordinates":[87.54834,26.90253],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310233127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.59699,28.60103,81.59699,28.60103",
+    "geom:latitude":28.60103,
+    "geom:longitude":81.59699,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590051.0",
+    "gn:asciiname":"Mulpani",
+    "gn:country_code":"NP",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8000550,
+    "gn:latitude":28.60103,
+    "gn:longitude":81.59699,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mulpani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8000550
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f43ce2593f7b9d601e63c643b9482573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1310233127,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1310233127,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1310233127,
+    "wof:lastmodified":1536811953,
+    "wof:name":"Mulpani",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.59699,
+    28.60103,
+    81.59699,
+    28.60103
+],
+  "geometry": {"coordinates":[81.59699000000001,28.60103],"type":"Point"}
+}

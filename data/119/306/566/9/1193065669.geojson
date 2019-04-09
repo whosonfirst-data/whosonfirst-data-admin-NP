@@ -1,0 +1,78 @@
+{
+  "id": 1193065669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.09096,26.67624,88.09096,26.67624",
+    "geom:latitude":26.67624,
+    "geom:longitude":88.09096,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40014.0",
+    "gn:asciiname":"Basbari",
+    "gn:country_code":"NP",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7954287,
+    "gn:latitude":26.67624,
+    "gn:longitude":88.09096,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Basbari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7954287
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"47b103551c6793ccd97c36dd7ac07f24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1193065669,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1193065669,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1193065669,
+    "wof:lastmodified":1536373201,
+    "wof:name":"Basbari",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.09096,
+    26.67624,
+    88.09096,
+    26.67624
+],
+  "geometry": {"coordinates":[88.09096,26.67624],"type":"Point"}
+}

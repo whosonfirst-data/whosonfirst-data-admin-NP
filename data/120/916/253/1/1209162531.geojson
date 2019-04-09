@@ -1,0 +1,64 @@
+{
+  "id": 1209162531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.99023,27.15517,86.99023,27.15517",
+    "geom:latitude":27.15517,
+    "geom:longitude":86.99023,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100036.0",
+    "gn:asciiname":"Jagirgaun",
+    "gn:country_code":"NP",
+    "gn:dem":1326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933413,
+    "gn:latitude":27.15517,
+    "gn:longitude":86.99023,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jagirgaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933413
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"48eeaa58483cf5db35fc5450f5354d85",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209162531
+        }
+    ],
+    "wof:id":1209162531,
+    "wof:lastmodified":1536295851,
+    "wof:name":"Jagirgaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.99023000000003,
+    27.15517,
+    86.99023000000003,
+    27.15517
+],
+  "geometry": {"coordinates":[86.99023000000003,27.15517],"type":"Point"}
+}

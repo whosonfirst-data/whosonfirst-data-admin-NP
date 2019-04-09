@@ -1,0 +1,78 @@
+{
+  "id": 1360027399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.8574,27.2947,87.8574,27.2947",
+    "geom:latitude":27.2947,
+    "geom:longitude":87.8574,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10039.0",
+    "gn:asciiname":"Hoksiri",
+    "gn:country_code":"NP",
+    "gn:dem":1499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005640,
+    "gn:latitude":27.2947,
+    "gn:longitude":87.8574,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Hoksiri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005640
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"04a0a32876fec3d00d3d57c7908c447b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1360027399,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1360027399,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1360027399,
+    "wof:lastmodified":1537027693,
+    "wof:name":"Hoksiri",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.8574,
+    27.2947,
+    87.8574,
+    27.2947
+],
+  "geometry": {"coordinates":[87.8574,27.2947],"type":"Point"}
+}

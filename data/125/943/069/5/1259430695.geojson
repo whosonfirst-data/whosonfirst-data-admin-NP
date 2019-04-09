@@ -1,0 +1,78 @@
+{
+  "id": 1259430695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.45961,27.65879,83.45961,27.65879",
+    "geom:latitude":27.65879,
+    "geom:longitude":83.45961,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"49",
+    "gn:admin4_code":"490062",
+    "gn:asciiname":"Dinganagar",
+    "gn:country_code":"NP",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7987690,
+    "gn:latitude":27.65879,
+    "gn:longitude":83.45961,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dinganagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048457,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7987690
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cf61ca6c2f628609df47b7b79f3cb80c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1259430695,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1259430695,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1259430695,
+    "wof:lastmodified":1536935449,
+    "wof:name":"Dinganagar",
+    "wof:parent_id":1092048457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.45961,
+    27.65879,
+    83.45961,
+    27.65879
+],
+  "geometry": {"coordinates":[83.45961,27.65879],"type":"Point"}
+}

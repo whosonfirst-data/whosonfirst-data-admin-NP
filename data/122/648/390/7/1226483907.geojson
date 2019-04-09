@@ -1,0 +1,78 @@
+{
+  "id": 1226483907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.14974,28.24168,83.14974,28.24168",
+    "geom:latitude":28.24168,
+    "geom:longitude":83.14974,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"46.0",
+    "gn:admin4_code":"460023.0",
+    "gn:asciiname":"Gophalegaira",
+    "gn:country_code":"NP",
+    "gn:dem":1950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7950032,
+    "gn:latitude":28.24168,
+    "gn:longitude":83.14974,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gophalegaira",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050755,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7950032
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"abffe3a8f74b7d8e69028f2f5c82cb55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1226483907,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050755,
+            "locality_id":1226483907,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1226483907,
+    "wof:lastmodified":1537083920,
+    "wof:name":"Gophalegaira",
+    "wof:parent_id":1092050755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.14974000000002,
+    28.24168,
+    83.14974000000002,
+    28.24168
+],
+  "geometry": {"coordinates":[83.14974000000002,28.24168],"type":"Point"}
+}

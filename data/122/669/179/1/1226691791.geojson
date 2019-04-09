@@ -1,0 +1,78 @@
+{
+  "id": 1226691791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.51243,27.98807,84.51243,27.98807",
+    "geom:latitude":27.98807,
+    "geom:longitude":84.51243,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360008.0",
+    "gn:asciiname":"Adhikaridada",
+    "gn:country_code":"NP",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7947952,
+    "gn:latitude":27.98807,
+    "gn:longitude":84.51243,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Adhikaridada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7947952
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ad8a6501f5ee801d91eec5525ea1f15c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1226691791,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1226691791,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1226691791,
+    "wof:lastmodified":1536793596,
+    "wof:name":"Adhikaridada",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.51243000000002,
+    27.98807,
+    84.51243000000002,
+    27.98807
+],
+  "geometry": {"coordinates":[84.51243000000002,27.98807],"type":"Point"}
+}

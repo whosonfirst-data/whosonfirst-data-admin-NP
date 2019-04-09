@@ -1,0 +1,78 @@
+{
+  "id": 1242901915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.79469,29.72965,80.79469,29.72965",
+    "geom:latitude":29.72965,
+    "geom:longitude":80.79469,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"75.0",
+    "gn:admin4_code":"750027.0",
+    "gn:asciiname":"Odkhet",
+    "gn:country_code":"NP",
+    "gn:dem":1691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7940714,
+    "gn:latitude":29.72965,
+    "gn:longitude":80.79469,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Odkhet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050347,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7940714
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b3f3ef0799b464ff11f54021c1f7fa7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050347,
+            "locality_id":1242901915,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050347,
+            "locality_id":1242901915,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1242901915,
+    "wof:lastmodified":1537090433,
+    "wof:name":"Odkhet",
+    "wof:parent_id":1092050347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.79469,
+    29.72965,
+    80.79469,
+    29.72965
+],
+  "geometry": {"coordinates":[80.79469,29.72965],"type":"Point"}
+}

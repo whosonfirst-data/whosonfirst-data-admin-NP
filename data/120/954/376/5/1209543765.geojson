@@ -1,0 +1,64 @@
+{
+  "id": 1209543765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.45181,29.4581,80.45181,29.4581",
+    "geom:latitude":29.4581,
+    "geom:longitude":80.45181,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740049",
+    "gn:asciiname":"Malena",
+    "gn:country_code":"NP",
+    "gn:dem":1445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7980467,
+    "gn:latitude":29.4581,
+    "gn:longitude":80.45181,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Malena",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7980467
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ba33dc7d04e003f8b8e094b0fd4a6014",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209543765
+        }
+    ],
+    "wof:id":1209543765,
+    "wof:lastmodified":1536283906,
+    "wof:name":"Malena",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.45181,
+    29.4581,
+    80.45181,
+    29.4581
+],
+  "geometry": {"coordinates":[80.45180999999999,29.4581],"type":"Point"}
+}

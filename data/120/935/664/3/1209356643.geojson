@@ -1,0 +1,64 @@
+{
+  "id": 1209356643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.24268,27.44411,87.24268,27.44411",
+    "geom:latitude":27.44411,
+    "geom:longitude":87.24268,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"9",
+    "gn:admin4_code":"90020",
+    "gn:asciiname":"Barkhegaun",
+    "gn:country_code":"NP",
+    "gn:dem":1461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7990313,
+    "gn:latitude":27.44411,
+    "gn:longitude":87.24268,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Barkhegaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7990313
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cf74b70cf2b570ca9766270f2ad6550e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209356643
+        }
+    ],
+    "wof:id":1209356643,
+    "wof:lastmodified":1536289566,
+    "wof:name":"Barkhegaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.24268000000002,
+    27.44411,
+    87.24268000000002,
+    27.44411
+],
+  "geometry": {"coordinates":[87.24268000000002,27.44411],"type":"Point"}
+}

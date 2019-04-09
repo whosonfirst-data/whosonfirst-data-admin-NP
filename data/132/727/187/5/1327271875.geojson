@@ -1,0 +1,78 @@
+{
+  "id": 1327271875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.12092,26.90402,85.12092,26.90402",
+    "geom:latitude":26.90402,
+    "geom:longitude":85.12092,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"330041.0",
+    "gn:asciiname":"Hariharpur",
+    "gn:country_code":"NP",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008822,
+    "gn:latitude":26.90402,
+    "gn:longitude":85.12092,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Hariharpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092048051,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008822
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"81cbae2700ee2a49d0c26b20883adf23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1327271875,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1327271875,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1327271875,
+    "wof:lastmodified":1536912980,
+    "wof:name":"Hariharpur",
+    "wof:parent_id":1092048051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.12092,
+    26.90402000000001,
+    85.12092,
+    26.90402000000001
+],
+  "geometry": {"coordinates":[85.12092,26.90402000000001],"type":"Point"}
+}

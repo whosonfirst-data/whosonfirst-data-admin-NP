@@ -1,0 +1,78 @@
+{
+  "id": 1276375515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.01615,27.14165,85.01615,27.14165",
+    "geom:latitude":27.14165,
+    "geom:longitude":85.01615,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"330034.0",
+    "gn:asciiname":"Sundarbasti",
+    "gn:country_code":"NP",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008759,
+    "gn:latitude":27.14165,
+    "gn:longitude":85.01615,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sundarbasti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092048051,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008759
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5ae9fc4fd194eeaa285a536e419203eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1276375515,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1276375515,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1276375515,
+    "wof:lastmodified":1536722322,
+    "wof:name":"Sundarbasti",
+    "wof:parent_id":1092048051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.01615,
+    27.14165,
+    85.01615,
+    27.14165
+],
+  "geometry": {"coordinates":[85.01615,27.14165],"type":"Point"}
+}

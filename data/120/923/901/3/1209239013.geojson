@@ -1,0 +1,64 @@
+{
+  "id": 1209239013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.72011,28.62176,80.72011,28.62176",
+    "geom:latitude":28.62176,
+    "geom:longitude":80.72011,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710033.0",
+    "gn:asciiname":"E--Gaun",
+    "gn:country_code":"NP",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7957365,
+    "gn:latitude":28.62176,
+    "gn:longitude":80.72011,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"E--Gaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7957365
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1e5d79088f338035a4869ddbfa5e2364",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209239013
+        }
+    ],
+    "wof:id":1209239013,
+    "wof:lastmodified":1536293383,
+    "wof:name":"E--Gaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.72010999999998,
+    28.62176,
+    80.72010999999998,
+    28.62176
+],
+  "geometry": {"coordinates":[80.72010999999998,28.62176],"type":"Point"}
+}

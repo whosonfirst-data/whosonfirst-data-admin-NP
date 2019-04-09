@@ -1,0 +1,79 @@
+{
+  "id": 1259801533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.73024,27.27786,85.73024,27.27786",
+    "geom:latitude":27.27786,
+    "geom:longitude":85.73024,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Karkidada",
+    "gn:country_code":"NP",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10323376,
+    "gn:latitude":27.27786,
+    "gn:longitude":85.73024,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"K\u0101rki\u0307\u0304\u1e0d\u0101\u1e0d\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0101rki\u0307\u0304\u1e0d\u0101\u1e0d\u0101",
+        "K\u0101rk\u012b\u1e0d\u0101\u1e0d\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049679,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10323376
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bbb1e59cb049d96a779dcf413e51caa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1259801533,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1259801533,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1259801533,
+    "wof:lastmodified":1537676092,
+    "wof:name":"Karkidada",
+    "wof:parent_id":1092049679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.73024000000002,
+    27.27786,
+    85.73024000000002,
+    27.27786
+],
+  "geometry": {"coordinates":[85.73024000000002,27.27786],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310343387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.45536,27.62316,85.45536,27.62316",
+    "geom:latitude":27.62316,
+    "geom:longitude":85.45536,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240072.0",
+    "gn:asciiname":"Naichal",
+    "gn:country_code":"NP",
+    "gn:dem":1813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7963718,
+    "gn:latitude":27.62316,
+    "gn:longitude":85.45536,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Naichal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7963718
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"23dc67a2045df4127bd3d04ba2a6db4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1310343387,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1310343387,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1310343387,
+    "wof:lastmodified":1536653227,
+    "wof:name":"Naichal",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.45536,
+    27.62316,
+    85.45536,
+    27.62316
+],
+  "geometry": {"coordinates":[85.45536,27.62316],"type":"Point"}
+}

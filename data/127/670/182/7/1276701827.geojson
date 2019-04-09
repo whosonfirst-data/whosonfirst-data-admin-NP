@@ -1,0 +1,78 @@
+{
+  "id": 1276701827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.5875,27.55591,83.5875,27.55591",
+    "geom:latitude":27.55591,
+    "geom:longitude":83.5875,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"49",
+    "gn:admin4_code":"490064",
+    "gn:asciiname":"Madpur",
+    "gn:country_code":"NP",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7987745,
+    "gn:latitude":27.55591,
+    "gn:longitude":83.5875,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Madpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048457,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7987745
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7f5020df82dcaaf6f132b80df37751d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1276701827,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1276701827,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1276701827,
+    "wof:lastmodified":1536782457,
+    "wof:name":"Madpur",
+    "wof:parent_id":1092048457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.5875,
+    27.55591,
+    83.5875,
+    27.55591
+],
+  "geometry": {"coordinates":[83.58750000000001,27.55591],"type":"Point"}
+}

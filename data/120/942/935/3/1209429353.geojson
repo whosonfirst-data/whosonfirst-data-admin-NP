@@ -1,0 +1,61 @@
+{
+  "id": 1209429353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.40467,27.43791,85.40467,27.43791",
+    "geom:latitude":27.43791,
+    "geom:longitude":85.40467,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Durlun",
+    "gn:country_code":"NP",
+    "gn:dem":927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10330476,
+    "gn:latitude":27.43791,
+    "gn:longitude":85.40467,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Durlu\u1e45",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10330476
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8821a153369906e85a7a1c41a9bb9a8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209429353
+        }
+    ],
+    "wof:id":1209429353,
+    "wof:lastmodified":1536287281,
+    "wof:name":"Durlun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.40467,
+    27.43791,
+    85.40467,
+    27.43791
+],
+  "geometry": {"coordinates":[85.40467,27.43791],"type":"Point"}
+}

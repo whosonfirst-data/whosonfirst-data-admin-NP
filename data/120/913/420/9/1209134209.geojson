@@ -1,0 +1,64 @@
+{
+  "id": 1209134209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.33597,29.51076,80.33597,29.51076",
+    "geom:latitude":29.51076,
+    "geom:longitude":80.33597,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740020",
+    "gn:asciiname":"Tarakot",
+    "gn:country_code":"NP",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7972599,
+    "gn:latitude":29.51076,
+    "gn:longitude":80.33597,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tarakot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7972599
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e381cf2fe79e27c584c038121df5923b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209134209
+        }
+    ],
+    "wof:id":1209134209,
+    "wof:lastmodified":1536296714,
+    "wof:name":"Tarakot",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.33596999999997,
+    29.51076,
+    80.33596999999997,
+    29.51076
+],
+  "geometry": {"coordinates":[80.33596999999997,29.51076],"type":"Point"}
+}

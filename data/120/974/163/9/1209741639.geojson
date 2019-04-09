@@ -1,0 +1,78 @@
+{
+  "id": 1209741639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.33912,29.31127,80.33912,29.31127",
+    "geom:latitude":29.31127,
+    "geom:longitude":80.33912,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"73.0",
+    "gn:admin4_code":"730019.0",
+    "gn:asciiname":"Baskate",
+    "gn:country_code":"NP",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7936279,
+    "gn:latitude":29.31127,
+    "gn:longitude":80.33912,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Baskate",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675567,
+        1092048697,
+        1108807135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7936279
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"855893fb5123f88768b21a6835516870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048697,
+            "locality_id":1209741639,
+            "region_id":85675567
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048697,
+            "locality_id":1209741639,
+            "region_id":1108807135
+        }
+    ],
+    "wof:id":1209741639,
+    "wof:lastmodified":1536367657,
+    "wof:name":"Baskate",
+    "wof:parent_id":1092048697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.33912,
+    29.31127,
+    80.33912,
+    29.31127
+],
+  "geometry": {"coordinates":[80.33911999999999,29.31127],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343288035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.72282,29.10047,81.72282,29.10047",
+    "geom:latitude":29.10047,
+    "geom:longitude":81.72282,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"64.0",
+    "gn:admin4_code":"640006.0",
+    "gn:asciiname":"Gunagaun",
+    "gn:country_code":"NP",
+    "gn:dem":1494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7958076,
+    "gn:latitude":29.10047,
+    "gn:longitude":81.72282,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gunagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092048809,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7958076
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"aa895ef1a8d9ca30a1a1312087d334d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048809,
+            "locality_id":1343288035,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048809,
+            "locality_id":1343288035,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1343288035,
+    "wof:lastmodified":1536994415,
+    "wof:name":"Gunagaun",
+    "wof:parent_id":1092048809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.72282,
+    29.10047,
+    81.72282,
+    29.10047
+],
+  "geometry": {"coordinates":[81.72282,29.10047],"type":"Point"}
+}

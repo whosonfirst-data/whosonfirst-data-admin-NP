@@ -1,0 +1,78 @@
+{
+  "id": 1293015041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.02774,26.57252,88.02774,26.57252",
+    "geom:latitude":26.57252,
+    "geom:longitude":88.02774,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Hadiganj",
+    "gn:country_code":"NP",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11601324,
+    "gn:latitude":26.57252,
+    "gn:longitude":88.02774,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"H\u0101\u0303\u1e0diga\u00f1j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "H\u0101\u0303\u1e0diga\u00f1j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11601324
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ffafa9d32b710c7a96f080eace31317a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1293015041,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1293015041,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1293015041,
+    "wof:lastmodified":1537676118,
+    "wof:name":"Hadiganj",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.02774000000002,
+    26.57252,
+    88.02774000000002,
+    26.57252
+],
+  "geometry": {"coordinates":[88.02774000000002,26.57252],"type":"Point"}
+}

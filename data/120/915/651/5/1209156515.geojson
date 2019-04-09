@@ -1,0 +1,64 @@
+{
+  "id": 1209156515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.9927,27.39503,84.9927,27.39503",
+    "geom:latitude":27.39503,
+    "geom:longitude":84.9927,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310011",
+    "gn:asciiname":"Kalopani",
+    "gn:country_code":"NP",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7968026,
+    "gn:latitude":27.39503,
+    "gn:longitude":84.9927,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kalopani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7968026
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"19b25d242fb66655f542babb3f572430",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209156515
+        }
+    ],
+    "wof:id":1209156515,
+    "wof:lastmodified":1536296040,
+    "wof:name":"Kalopani",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.9927,
+    27.39503,
+    84.9927,
+    27.39503
+],
+  "geometry": {"coordinates":[84.9927,27.39503],"type":"Point"}
+}

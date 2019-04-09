@@ -1,0 +1,75 @@
+{
+  "id": 1310219449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.89049,27.34628,86.89049,27.34628",
+    "geom:latitude":27.34628,
+    "geom:longitude":86.89049,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Singane",
+    "gn:country_code":"NP",
+    "gn:dem":1899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11209849,
+    "gn:latitude":27.34628,
+    "gn:longitude":86.89049,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Si\u1e45g\u0101ne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050841,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11209849
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"45d85c57672a543c062c7c3f32d2e63b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1310219449,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1310219449,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1310219449,
+    "wof:lastmodified":1536831067,
+    "wof:name":"Singane",
+    "wof:parent_id":1092050841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.89049,
+    27.34628,
+    86.89049,
+    27.34628
+],
+  "geometry": {"coordinates":[86.89049,27.34628],"type":"Point"}
+}

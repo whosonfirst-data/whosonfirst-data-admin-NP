@@ -1,0 +1,81 @@
+{
+  "id": 1310519395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.9046,28.74973,81.9046,28.74973",
+    "geom:latitude":28.74973,
+    "geom:longitude":81.9046,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Majeri",
+    "gn:country_code":"NP",
+    "gn:dem":1891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283090,
+    "gn:latitude":28.74973,
+    "gn:longitude":81.9046,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Majeri\u0307\u0304",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Majeri\u0307\u0304"
+    ],
+    "name:und_x_variant":[
+        "M\u0101jari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092048763,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283090
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c660f4ef0230a05ced4c9eb8b18962f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048763,
+            "locality_id":1310519395,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048763,
+            "locality_id":1310519395,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1310519395,
+    "wof:lastmodified":1537676048,
+    "wof:name":"Majeri",
+    "wof:parent_id":1092048763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.9046,
+    28.74973,
+    81.9046,
+    28.74973
+],
+  "geometry": {"coordinates":[81.9046,28.74973],"type":"Point"}
+}

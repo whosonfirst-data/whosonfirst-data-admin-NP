@@ -1,0 +1,64 @@
+{
+  "id": 1209138607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.03488,29.78862,82.03488,29.78862",
+    "geom:latitude":29.78862,
+    "geom:longitude":82.03488,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"66.0",
+    "gn:admin4_code":"660016.0",
+    "gn:asciiname":"Thugrina",
+    "gn:country_code":"NP",
+    "gn:dem":3230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7951082,
+    "gn:latitude":29.78862,
+    "gn:longitude":82.03488,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thugrina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7951082
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e6e4059a459e994146940e3a30a1d0e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209138607
+        }
+    ],
+    "wof:id":1209138607,
+    "wof:lastmodified":1536296577,
+    "wof:name":"Thugrina",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.03488,
+    29.78862,
+    82.03488,
+    29.78862
+],
+  "geometry": {"coordinates":[82.03488,29.78862],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293049021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.80868,27.30497,87.80868,27.30497",
+    "geom:latitude":27.30497,
+    "geom:longitude":87.80868,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10048.0",
+    "gn:asciiname":"Sangatha",
+    "gn:country_code":"NP",
+    "gn:dem":1878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005781,
+    "gn:latitude":27.30497,
+    "gn:longitude":87.80868,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sangatha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005781
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"45caa9ab78e4864910cefb2177317515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1293049021,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1293049021,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1293049021,
+    "wof:lastmodified":1536923054,
+    "wof:name":"Sangatha",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.80868000000002,
+    27.30497,
+    87.80868000000002,
+    27.30497
+],
+  "geometry": {"coordinates":[87.80868000000002,27.30497],"type":"Point"}
+}

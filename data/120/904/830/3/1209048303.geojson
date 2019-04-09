@@ -1,0 +1,64 @@
+{
+  "id": 1209048303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.2544,28.17638,83.2544,28.17638",
+    "geom:latitude":28.17638,
+    "geom:longitude":83.2544,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"46.0",
+    "gn:admin4_code":"460059.0",
+    "gn:asciiname":"Kukhara Poli",
+    "gn:country_code":"NP",
+    "gn:dem":1092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7950491,
+    "gn:latitude":28.17638,
+    "gn:longitude":83.2544,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kukhara Poli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7950491
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ba03c0e386d6a21609d1f06a38f54df8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209048303
+        }
+    ],
+    "wof:id":1209048303,
+    "wof:lastmodified":1536299326,
+    "wof:name":"Kukhara Poli",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.2544,
+    28.17638,
+    83.2544,
+    28.17638
+],
+  "geometry": {"coordinates":[83.2544,28.17638],"type":"Point"}
+}

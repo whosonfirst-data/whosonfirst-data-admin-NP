@@ -1,0 +1,78 @@
+{
+  "id": 1293515817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.16418,27.98966,82.16418,27.98966",
+    "geom:latitude":27.98966,
+    "geom:longitude":82.16418,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"570024.0",
+    "gn:asciiname":"Chapargauri",
+    "gn:country_code":"NP",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008159,
+    "gn:latitude":27.98966,
+    "gn:longitude":82.16418,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chapargauri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092050297,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008159
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e269b4ad345965145b578b5d13731a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1293515817,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1293515817,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1293515817,
+    "wof:lastmodified":1536746077,
+    "wof:name":"Chapargauri",
+    "wof:parent_id":1092050297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.16418,
+    27.98966,
+    82.16418,
+    27.98966
+],
+  "geometry": {"coordinates":[82.16418,27.98966],"type":"Point"}
+}

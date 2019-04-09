@@ -1,0 +1,64 @@
+{
+  "id": 1209453051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.81341,27.85866,85.81341,27.85866",
+    "geom:latitude":27.85866,
+    "geom:longitude":85.81341,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"23",
+    "gn:admin4_code":"230027",
+    "gn:asciiname":"Hagam",
+    "gn:country_code":"NP",
+    "gn:dem":2183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7994683,
+    "gn:latitude":27.85866,
+    "gn:longitude":85.81341,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Hagam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7994683
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7aa4bad23b904045175dafcbedc097bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209453051
+        }
+    ],
+    "wof:id":1209453051,
+    "wof:lastmodified":1536286620,
+    "wof:name":"Hagam",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.81341,
+    27.85866,
+    85.81341,
+    27.85866
+],
+  "geometry": {"coordinates":[85.81341,27.85866],"type":"Point"}
+}

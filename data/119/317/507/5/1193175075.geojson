@@ -1,0 +1,78 @@
+{
+  "id": 1193175075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.28525,26.79277,85.28525,26.79277",
+    "geom:latitude":26.79277,
+    "geom:longitude":85.28525,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"32",
+    "gn:admin4_code":"320033",
+    "gn:asciiname":"Sisawa",
+    "gn:country_code":"NP",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7982516,
+    "gn:latitude":26.79277,
+    "gn:longitude":85.28525,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sisawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049419,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7982516
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a6db29b5dc71fd79678d3ef1970f5083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1193175075,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1193175075,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1193175075,
+    "wof:lastmodified":1536376238,
+    "wof:name":"Sisawa",
+    "wof:parent_id":1092049419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.28525,
+    26.79277,
+    85.28525,
+    26.79277
+],
+  "geometry": {"coordinates":[85.28525,26.79277],"type":"Point"}
+}

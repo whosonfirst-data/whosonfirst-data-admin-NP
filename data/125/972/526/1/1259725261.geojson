@@ -1,0 +1,78 @@
+{
+  "id": 1259725261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.03437,28.01745,84.03437,28.01745",
+    "geom:latitude":28.01745,
+    "geom:longitude":84.03437,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380008.0",
+    "gn:asciiname":"Mirindi",
+    "gn:country_code":"NP",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003006,
+    "gn:latitude":28.01745,
+    "gn:longitude":84.03437,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mirindi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003006
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0fcf445c22d7e7da8a201d8e7bce3021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1259725261,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1259725261,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1259725261,
+    "wof:lastmodified":1537006172,
+    "wof:name":"Mirindi",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.03437,
+    28.01745,
+    84.03437,
+    28.01745
+],
+  "geometry": {"coordinates":[84.03437,28.01745],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343999723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.7249,27.87568,83.7249,27.87568",
+    "geom:latitude":27.87568,
+    "geom:longitude":83.7249,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"47",
+    "gn:admin4_code":"470022",
+    "gn:asciiname":"Pipardi",
+    "gn:country_code":"NP",
+    "gn:dem":745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7976186,
+    "gn:latitude":27.87568,
+    "gn:longitude":83.7249,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pipardi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050889,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7976186
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"07f8638758d6a61c26ca5bb3c484b5fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1343999723,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1343999723,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1343999723,
+    "wof:lastmodified":1536963122,
+    "wof:name":"Pipardi",
+    "wof:parent_id":1092050889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.7249,
+    27.87568,
+    83.7249,
+    27.87568
+],
+  "geometry": {"coordinates":[83.72490000000001,27.87568],"type":"Point"}
+}

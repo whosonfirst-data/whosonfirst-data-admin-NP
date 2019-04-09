@@ -1,0 +1,78 @@
+{
+  "id": 1209752989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.77393,27.84336,83.77393,27.84336",
+    "geom:latitude":27.84336,
+    "geom:longitude":83.77393,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"47",
+    "gn:admin4_code":"470009",
+    "gn:asciiname":"Birkot",
+    "gn:country_code":"NP",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7975941,
+    "gn:latitude":27.84336,
+    "gn:longitude":83.77393,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Birkot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050889,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7975941
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"097607154b2916455d3f9a8924e86386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1209752989,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1209752989,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1209752989,
+    "wof:lastmodified":1536391900,
+    "wof:name":"Birkot",
+    "wof:parent_id":1092050889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.77393000000002,
+    27.84336,
+    83.77393000000002,
+    27.84336
+],
+  "geometry": {"coordinates":[83.77393000000002,27.84336],"type":"Point"}
+}

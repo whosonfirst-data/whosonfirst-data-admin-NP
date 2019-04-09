@@ -1,0 +1,78 @@
+{
+  "id": 1276386451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.77617,27.28676,87.77617,27.28676",
+    "geom:latitude":27.28676,
+    "geom:longitude":87.77617,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10003.0",
+    "gn:asciiname":"Chaksibote",
+    "gn:country_code":"NP",
+    "gn:dem":1325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005005,
+    "gn:latitude":27.28676,
+    "gn:longitude":87.77617,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chaksibote",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005005
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"63419b80dbfa25ed5a1ec87b2597ceb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1276386451,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1276386451,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1276386451,
+    "wof:lastmodified":1536707732,
+    "wof:name":"Chaksibote",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.77617,
+    27.28676,
+    87.77617,
+    27.28676
+],
+  "geometry": {"coordinates":[87.77616999999999,27.28676],"type":"Point"}
+}

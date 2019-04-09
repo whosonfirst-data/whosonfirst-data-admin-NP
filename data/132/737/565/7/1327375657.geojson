@@ -1,0 +1,78 @@
+{
+  "id": 1327375657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.07001,27.88119,83.07001,27.88119",
+    "geom:latitude":27.88119,
+    "geom:longitude":83.07001,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"51.0",
+    "gn:admin4_code":"510019.0",
+    "gn:asciiname":"Kalimati",
+    "gn:country_code":"NP",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7941371,
+    "gn:latitude":27.88119,
+    "gn:longitude":83.07001,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kalimati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092049537,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7941371
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"22510ca133f42e6645244739256d5909",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049537,
+            "locality_id":1327375657,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049537,
+            "locality_id":1327375657,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1327375657,
+    "wof:lastmodified":1536763012,
+    "wof:name":"Kalimati",
+    "wof:parent_id":1092049537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.07001,
+    27.88119,
+    83.07001,
+    27.88119
+],
+  "geometry": {"coordinates":[83.07001,27.88119],"type":"Point"}
+}

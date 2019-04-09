@@ -1,0 +1,78 @@
+{
+  "id": 1277114641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.89018,27.04029,85.89018,27.04029",
+    "geom:latitude":27.04029,
+    "geom:longitude":85.89018,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"18",
+    "gn:admin4_code":"180045",
+    "gn:asciiname":"Bardanda",
+    "gn:country_code":"NP",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7967497,
+    "gn:latitude":27.04029,
+    "gn:longitude":85.89018,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bardanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092050709,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7967497
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"675442fac006faf0ca7a4d37ed106038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050709,
+            "locality_id":1277114641,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050709,
+            "locality_id":1277114641,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1277114641,
+    "wof:lastmodified":1536721950,
+    "wof:name":"Bardanda",
+    "wof:parent_id":1092050709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.89018,
+    27.04029,
+    85.89018,
+    27.04029
+],
+  "geometry": {"coordinates":[85.89018,27.04029],"type":"Point"}
+}

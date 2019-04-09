@@ -1,0 +1,64 @@
+{
+  "id": 1209138773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.55202,29.18943,81.55202,29.18943",
+    "geom:latitude":29.18943,
+    "geom:longitude":81.55202,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"64.0",
+    "gn:admin4_code":"640010.0",
+    "gn:asciiname":"Bhaisakhal",
+    "gn:country_code":"NP",
+    "gn:dem":1436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7958146,
+    "gn:latitude":29.18943,
+    "gn:longitude":81.55202,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhaisakhal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7958146
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"077869c8d034f241f2c3e1eb0204cbc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209138773
+        }
+    ],
+    "wof:id":1209138773,
+    "wof:lastmodified":1536296573,
+    "wof:name":"Bhaisakhal",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.55202,
+    29.18943,
+    81.55202,
+    29.18943
+],
+  "geometry": {"coordinates":[81.55202,29.18943],"type":"Point"}
+}

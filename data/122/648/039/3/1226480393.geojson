@@ -1,0 +1,78 @@
+{
+  "id": 1226480393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.78799,27.77931,85.78799,27.77931",
+    "geom:latitude":27.77931,
+    "geom:longitude":85.78799,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"23",
+    "gn:admin4_code":"230018",
+    "gn:asciiname":"Gahate",
+    "gn:country_code":"NP",
+    "gn:dem":1215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7994558,
+    "gn:latitude":27.77931,
+    "gn:longitude":85.78799,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gahate",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7994558
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"15a926e56287cc95eb421d95dc68703d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1226480393,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1226480393,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1226480393,
+    "wof:lastmodified":1537088938,
+    "wof:name":"Gahate",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.78799000000002,
+    27.77931,
+    85.78799000000002,
+    27.77931
+],
+  "geometry": {"coordinates":[85.78799000000002,27.77931],"type":"Point"}
+}

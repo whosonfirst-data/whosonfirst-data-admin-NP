@@ -1,0 +1,79 @@
+{
+  "id": 1210054353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.90516,27.772,85.90516,27.772",
+    "geom:latitude":27.772,
+    "geom:longitude":85.90516,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"23",
+    "gn:admin4_code":"230023",
+    "gn:asciiname":"Dhuskun",
+    "gn:country_code":"NP",
+    "gn:dem":1226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7994629,
+    "gn:latitude":27.772,
+    "gn:longitude":85.90516,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhuskun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7994629,
+        "wk:page":"Dhuskun"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b8c6d06a09fb681a3b01a3c695dc740f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1210054353,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1210054353,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1210054353,
+    "wof:lastmodified":1537570156,
+    "wof:name":"Dhuskun",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.90516,
+    27.772,
+    85.90516,
+    27.772
+],
+  "geometry": {"coordinates":[85.90516,27.772],"type":"Point"}
+}

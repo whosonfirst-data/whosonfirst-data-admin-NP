@@ -1,0 +1,78 @@
+{
+  "id": 1293338251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.75868,28.33311,83.75868,28.33311",
+    "geom:latitude":28.33311,
+    "geom:longitude":83.75868,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400007.0",
+    "gn:asciiname":"Sarkyu",
+    "gn:country_code":"NP",
+    "gn:dem":1821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7960418,
+    "gn:latitude":28.33311,
+    "gn:longitude":83.75868,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sarkyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092049331,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7960418
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5367b94b00655db0372773e9f39c6d37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1293338251,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1293338251,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293338251,
+    "wof:lastmodified":1537001503,
+    "wof:name":"Sarkyu",
+    "wof:parent_id":1092049331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.75868,
+    28.33311,
+    83.75868,
+    28.33311
+],
+  "geometry": {"coordinates":[83.75868,28.33311],"type":"Point"}
+}

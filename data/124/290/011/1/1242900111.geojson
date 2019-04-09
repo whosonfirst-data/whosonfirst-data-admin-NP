@@ -1,0 +1,78 @@
+{
+  "id": 1242900111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.81669,28.34973,81.81669,28.34973",
+    "geom:latitude":28.34973,
+    "geom:longitude":81.81669,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550017",
+    "gn:asciiname":"Barmase",
+    "gn:country_code":"NP",
+    "gn:dem":1138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7988428,
+    "gn:latitude":28.34973,
+    "gn:longitude":81.81669,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Barmase",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049579,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7988428
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"99be61a0125022c70dabb8e052574b2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1242900111,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1242900111,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1242900111,
+    "wof:lastmodified":1537093003,
+    "wof:name":"Barmase",
+    "wof:parent_id":1092049579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.81669000000002,
+    28.34973,
+    81.81669000000002,
+    28.34973
+],
+  "geometry": {"coordinates":[81.81669000000002,28.34973],"type":"Point"}
+}

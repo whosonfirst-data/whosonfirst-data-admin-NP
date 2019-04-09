@@ -1,0 +1,81 @@
+{
+  "id": 1293116575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.52156,26.95025,85.52156,26.95025",
+    "geom:latitude":26.95025,
+    "geom:longitude":85.52156,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pachagachhiya",
+    "gn:country_code":"NP",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282965,
+    "gn:latitude":26.95025,
+    "gn:longitude":85.52156,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Pachagachhiy\u0101\u0303",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Pachagachhiy\u0101\u0303"
+    ],
+    "name:und_x_variant":[
+        "Pachgachhiya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092049639,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282965
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3e642e9f06c1ff1a09a9e8e482d62e70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049639,
+            "locality_id":1293116575,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049639,
+            "locality_id":1293116575,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1293116575,
+    "wof:lastmodified":1537676046,
+    "wof:name":"Pachagachhiya",
+    "wof:parent_id":1092049639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.52156,
+    26.95025,
+    85.52156,
+    26.95025
+],
+  "geometry": {"coordinates":[85.52155999999999,26.95025],"type":"Point"}
+}

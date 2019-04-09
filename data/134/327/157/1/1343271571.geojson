@@ -1,0 +1,75 @@
+{
+  "id": 1343271571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.85559,27.34647,86.85559,27.34647",
+    "geom:latitude":27.34647,
+    "geom:longitude":86.85559,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gurundel",
+    "gn:country_code":"NP",
+    "gn:dem":1679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11209801,
+    "gn:latitude":27.34647,
+    "gn:longitude":86.85559,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Guru\u1e45del",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050841,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11209801
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f2d24667cd7c386213acf7c21a050f94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1343271571,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1343271571,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1343271571,
+    "wof:lastmodified":1537018032,
+    "wof:name":"Gurundel",
+    "wof:parent_id":1092050841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.85559,
+    27.34647,
+    86.85559,
+    27.34647
+],
+  "geometry": {"coordinates":[86.85559000000001,27.34647],"type":"Point"}
+}

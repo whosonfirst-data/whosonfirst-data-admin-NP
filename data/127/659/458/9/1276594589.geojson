@@ -1,0 +1,78 @@
+{
+  "id": 1276594589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.7824,27.94229,84.7824,27.94229",
+    "geom:latitude":27.94229,
+    "geom:longitude":84.7824,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300024.0",
+    "gn:asciiname":"Tripurasundari",
+    "gn:country_code":"NP",
+    "gn:dem":1088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7941829,
+    "gn:latitude":27.94229,
+    "gn:longitude":84.7824,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tripurasundari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7941829
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"17726a0dbd692668091cdffca389b8d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1276594589,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1276594589,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1276594589,
+    "wof:lastmodified":1536926806,
+    "wof:name":"Tripurasundari",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.7824,
+    27.94229,
+    84.7824,
+    27.94229
+],
+  "geometry": {"coordinates":[84.7824,27.94229],"type":"Point"}
+}

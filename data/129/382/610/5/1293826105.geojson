@@ -1,0 +1,79 @@
+{
+  "id": 1293826105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.5607,26.91069,85.5607,26.91069",
+    "geom:latitude":26.91069,
+    "geom:longitude":85.5607,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"19",
+    "gn:admin4_code":"190087",
+    "gn:asciiname":"Salempur",
+    "gn:country_code":"NP",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7992220,
+    "gn:latitude":26.91069,
+    "gn:longitude":85.5607,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Salempur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092049639,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7992220,
+        "wk:page":"Salempur%2C_Nepal"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ebb8744315acee86a73e86a7925efef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049639,
+            "locality_id":1293826105,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049639,
+            "locality_id":1293826105,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1293826105,
+    "wof:lastmodified":1537570155,
+    "wof:name":"Salempur",
+    "wof:parent_id":1092049639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.5607,
+    26.91069,
+    85.5607,
+    26.91069
+],
+  "geometry": {"coordinates":[85.5607,26.91069],"type":"Point"}
+}

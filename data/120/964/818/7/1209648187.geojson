@@ -1,0 +1,64 @@
+{
+  "id": 1209648187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.79604,28.791,81.79604,28.791",
+    "geom:latitude":28.791,
+    "geom:longitude":81.79604,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"60.0",
+    "gn:admin4_code":"600024.0",
+    "gn:asciiname":"Lamtada",
+    "gn:country_code":"NP",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7937205,
+    "gn:latitude":28.791,
+    "gn:longitude":81.79604,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lamtada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7937205
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"558b410f9aa72e1f18ff1284cfaa4a10",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209648187
+        }
+    ],
+    "wof:id":1209648187,
+    "wof:lastmodified":1536280667,
+    "wof:name":"Lamtada",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.79604,
+    28.791,
+    81.79604,
+    28.791
+],
+  "geometry": {"coordinates":[81.79604,28.791],"type":"Point"}
+}

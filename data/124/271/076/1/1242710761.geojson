@@ -1,0 +1,78 @@
+{
+  "id": 1242710761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.29391,29.75915,81.29391,29.75915",
+    "geom:latitude":29.75915,
+    "geom:longitude":81.29391,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680020",
+    "gn:asciiname":"Kotkeli",
+    "gn:country_code":"NP",
+    "gn:dem":2258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7992191,
+    "gn:latitude":29.75915,
+    "gn:longitude":81.29391,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kotkeli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048571,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7992191
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"065c414580c8aa2f79531e2215fecd03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1242710761,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1242710761,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1242710761,
+    "wof:lastmodified":1536870881,
+    "wof:name":"Kotkeli",
+    "wof:parent_id":1092048571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.29391,
+    29.75915,
+    81.29391,
+    29.75915
+],
+  "geometry": {"coordinates":[81.29391,29.75915],"type":"Point"}
+}

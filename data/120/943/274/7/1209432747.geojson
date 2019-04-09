@@ -1,0 +1,65 @@
+{
+  "id": 1209432747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.79276,27.66987,85.79276,27.66987",
+    "geom:latitude":27.66987,
+    "geom:longitude":85.79276,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Titre Bhandarigau",
+    "gn:country_code":"NP",
+    "gn:dem":1374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10322593,
+    "gn:latitude":27.66987,
+    "gn:longitude":85.79276,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Titre Bha\u1e47\u1e0d\u0101ri\u0307\u0304g\u0101\u0169",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Titre Bha\u1e47\u1e0d\u0101ri\u0307\u0304g\u0101\u0169",
+        "Titre Bha\u1e47\u1e0d\u0101r\u012bg\u0101un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10322593
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b03133b5c4ff9432e639217852c95435",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209432747
+        }
+    ],
+    "wof:id":1209432747,
+    "wof:lastmodified":1537676091,
+    "wof:name":"Titre Bhandarigau",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.79276,
+    27.66987,
+    85.79276,
+    27.66987
+],
+  "geometry": {"coordinates":[85.79276,27.66987],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310246673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.49868,27.33356,86.49868,27.33356",
+    "geom:latitude":27.33356,
+    "geom:longitude":86.49868,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"12",
+    "gn:admin4_code":"120005",
+    "gn:asciiname":"Sobru",
+    "gn:country_code":"NP",
+    "gn:dem":1538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7975052,
+    "gn:latitude":27.33356,
+    "gn:longitude":86.49868,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sobru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050225,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7975052
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f3c22e5bf7fef5b964c7179e6da4ecce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050225,
+            "locality_id":1310246673,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050225,
+            "locality_id":1310246673,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1310246673,
+    "wof:lastmodified":1536793067,
+    "wof:name":"Sobru",
+    "wof:parent_id":1092050225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.49868000000002,
+    27.33356,
+    86.49868000000002,
+    27.33356
+],
+  "geometry": {"coordinates":[86.49868000000002,27.33356],"type":"Point"}
+}

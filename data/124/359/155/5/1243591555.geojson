@@ -1,0 +1,78 @@
+{
+  "id": 1243591555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.52768,27.71527,83.52768,27.71527",
+    "geom:latitude":27.71527,
+    "geom:longitude":83.52768,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"49",
+    "gn:admin4_code":"490019",
+    "gn:asciiname":"Budhar Gaun",
+    "gn:country_code":"NP",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7987037,
+    "gn:latitude":27.71527,
+    "gn:longitude":83.52768,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Budhar Gaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048457,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7987037
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d1cf48a5919406648f945ad08908caf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1243591555,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1243591555,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1243591555,
+    "wof:lastmodified":1537089966,
+    "wof:name":"Budhar Gaun",
+    "wof:parent_id":1092048457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.52768,
+    27.71527,
+    83.52768,
+    27.71527
+],
+  "geometry": {"coordinates":[83.52768,27.71527],"type":"Point"}
+}

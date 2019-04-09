@@ -1,0 +1,64 @@
+{
+  "id": 1209541767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.85257,29.6273,80.85257,29.6273",
+    "geom:latitude":29.6273,
+    "geom:longitude":80.85257,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680038",
+    "gn:asciiname":"Paththarkot",
+    "gn:country_code":"NP",
+    "gn:dem":1843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7996548,
+    "gn:latitude":29.6273,
+    "gn:longitude":80.85257,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Paththarkot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7996548
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e081f6ca46343d4e571f016e1a719027",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209541767
+        }
+    ],
+    "wof:id":1209541767,
+    "wof:lastmodified":1536283967,
+    "wof:name":"Paththarkot",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.85257,
+    29.6273,
+    80.85257,
+    29.6273
+],
+  "geometry": {"coordinates":[80.85257,29.6273],"type":"Point"}
+}

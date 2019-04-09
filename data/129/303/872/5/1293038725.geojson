@@ -1,0 +1,66 @@
+{
+  "id": 1293038725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.45016,26.78482,85.45016,26.78482",
+    "geom:latitude":26.78482,
+    "geom:longitude":85.45016,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"19",
+    "gn:admin4_code":"190010",
+    "gn:asciiname":"Gulariyatol",
+    "gn:country_code":"NP",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7991574,
+    "gn:latitude":26.78482,
+    "gn:longitude":85.45016,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gulariyatol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7991574
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9a45658b6af8f69029f32e3ffc348034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1293038725,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293038725,
+    "wof:lastmodified":1536937809,
+    "wof:name":"Gulariyatol",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.45016,
+    26.78482,
+    85.45016,
+    26.78482
+],
+  "geometry": {"coordinates":[85.45016,26.78482],"type":"Point"}
+}

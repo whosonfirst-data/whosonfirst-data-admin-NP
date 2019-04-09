@@ -1,0 +1,64 @@
+{
+  "id": 1209657265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.55789,27.68386,85.55789,27.68386",
+    "geom:latitude":27.68386,
+    "geom:longitude":85.55789,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240022.0",
+    "gn:asciiname":"Kaphalbot",
+    "gn:country_code":"NP",
+    "gn:dem":1522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7962891,
+    "gn:latitude":27.68386,
+    "gn:longitude":85.55789,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kaphalbot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7962891
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b48769d5c3fc3a40eb2f5b245fb13235",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209657265
+        }
+    ],
+    "wof:id":1209657265,
+    "wof:lastmodified":1536280387,
+    "wof:name":"Kaphalbot",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.55789,
+    27.68386,
+    85.55789,
+    27.68386
+],
+  "geometry": {"coordinates":[85.55789,27.68386],"type":"Point"}
+}

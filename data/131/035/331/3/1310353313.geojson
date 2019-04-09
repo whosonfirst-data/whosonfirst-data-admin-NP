@@ -1,0 +1,78 @@
+{
+  "id": 1310353313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.45331,26.58072,87.45331,26.58072",
+    "geom:latitude":26.58072,
+    "geom:longitude":87.45331,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"5",
+    "gn:admin4_code":"50005",
+    "gn:asciiname":"Majhbahuni",
+    "gn:country_code":"NP",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7969718,
+    "gn:latitude":26.58072,
+    "gn:longitude":87.45331,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Majhbahuni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092048303,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7969718
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"edb69192df7e3d9516ec7d6857fbfb3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1310353313,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1310353313,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1310353313,
+    "wof:lastmodified":1536638014,
+    "wof:name":"Majhbahuni",
+    "wof:parent_id":1092048303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.45331,
+    26.58072,
+    87.45331,
+    26.58072
+],
+  "geometry": {"coordinates":[87.45331,26.58072],"type":"Point"}
+}

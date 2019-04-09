@@ -1,0 +1,78 @@
+{
+  "id": 1193201693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.73663,28.08962,83.73663,28.08962",
+    "geom:latitude":28.08962,
+    "geom:longitude":83.73663,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390002.0",
+    "gn:asciiname":"Ghaderi",
+    "gn:country_code":"NP",
+    "gn:dem":1474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8000577,
+    "gn:latitude":28.08962,
+    "gn:longitude":83.73663,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ghaderi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8000577
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"847394d722ccb1830cee68236e31fe52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1193201693,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1193201693,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1193201693,
+    "wof:lastmodified":1536372110,
+    "wof:name":"Ghaderi",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.73663,
+    28.08962,
+    83.73663,
+    28.08962
+],
+  "geometry": {"coordinates":[83.73663000000001,28.08962],"type":"Point"}
+}

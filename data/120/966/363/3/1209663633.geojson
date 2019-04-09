@@ -1,0 +1,64 @@
+{
+  "id": 1209663633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.21801,27.75543,85.21801,27.75543",
+    "geom:latitude":27.75543,
+    "geom:longitude":85.21801,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300008.0",
+    "gn:asciiname":"Bhanjyang Pokhari",
+    "gn:country_code":"NP",
+    "gn:dem":1323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7941250,
+    "gn:latitude":27.75543,
+    "gn:longitude":85.21801,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhanjyang Pokhari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7941250
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0429c6b3b398481419bf5fe27fb70cfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209663633
+        }
+    ],
+    "wof:id":1209663633,
+    "wof:lastmodified":1536280173,
+    "wof:name":"Bhanjyang Pokhari",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.21800999999998,
+    27.75543,
+    85.21800999999998,
+    27.75543
+],
+  "geometry": {"coordinates":[85.21800999999998,27.75543],"type":"Point"}
+}

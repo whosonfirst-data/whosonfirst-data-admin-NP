@@ -1,0 +1,64 @@
+{
+  "id": 1209239137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.64041,28.9018,81.64041,28.9018",
+    "geom:latitude":28.9018,
+    "geom:longitude":81.64041,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"60.0",
+    "gn:admin4_code":"600004.0",
+    "gn:asciiname":"Ghhadane",
+    "gn:country_code":"NP",
+    "gn:dem":1108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7936573,
+    "gn:latitude":28.9018,
+    "gn:longitude":81.64041,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ghhadane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7936573
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"21618c971181013db8cb59ba2bf4b9a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209239137
+        }
+    ],
+    "wof:id":1209239137,
+    "wof:lastmodified":1536293380,
+    "wof:name":"Ghhadane",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.64041,
+    28.9018,
+    81.64041,
+    28.9018
+],
+  "geometry": {"coordinates":[81.64041,28.9018],"type":"Point"}
+}

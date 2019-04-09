@@ -1,0 +1,78 @@
+{
+  "id": 1226791439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.80688,27.62767,84.80688,27.62767",
+    "geom:latitude":27.62767,
+    "geom:longitude":84.80688,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310024",
+    "gn:asciiname":"Mahakal",
+    "gn:country_code":"NP",
+    "gn:dem":1627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7968605,
+    "gn:latitude":27.62767,
+    "gn:longitude":84.80688,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mahakal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7968605
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"de26227fe9b3dc70a246db35f82fd9ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1226791439,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1226791439,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1226791439,
+    "wof:lastmodified":1536649538,
+    "wof:name":"Mahakal",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.80688,
+    27.62767,
+    84.80688,
+    27.62767
+],
+  "geometry": {"coordinates":[84.80688000000001,27.62767],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1327162439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.11937,28.47257,81.11937,28.47257",
+    "geom:latitude":28.47257,
+    "geom:longitude":81.11937,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"58.0",
+    "gn:admin4_code":"580006.0",
+    "gn:asciiname":"Daulatpur",
+    "gn:country_code":"NP",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009433,
+    "gn:latitude":28.47257,
+    "gn:longitude":81.11937,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Daulatpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048097,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009433
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ec930ebc32c9fb15043047baec658114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1327162439,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1327162439,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1327162439,
+    "wof:lastmodified":1537067767,
+    "wof:name":"Daulatpur",
+    "wof:parent_id":1092048097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.11936999999998,
+    28.47257,
+    81.11936999999998,
+    28.47257
+],
+  "geometry": {"coordinates":[81.11936999999998,28.47257],"type":"Point"}
+}

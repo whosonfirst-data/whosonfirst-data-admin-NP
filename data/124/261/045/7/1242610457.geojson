@@ -1,0 +1,78 @@
+{
+  "id": 1242610457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.72932,29.58874,81.72932,29.58874",
+    "geom:latitude":29.58874,
+    "geom:longitude":81.72932,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"67.0",
+    "gn:admin4_code":"670025.0",
+    "gn:asciiname":"Ghoda Dauna",
+    "gn:country_code":"NP",
+    "gn:dem":1968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005006,
+    "gn:latitude":29.58874,
+    "gn:longitude":81.72932,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ghoda Dauna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050627,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005006
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d9a9c03737b0b3c10201deb927e1fc5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050627,
+            "locality_id":1242610457,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050627,
+            "locality_id":1242610457,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1242610457,
+    "wof:lastmodified":1537015647,
+    "wof:name":"Ghoda Dauna",
+    "wof:parent_id":1092050627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.72932,
+    29.58874,
+    81.72932,
+    29.58874
+],
+  "geometry": {"coordinates":[81.72932,29.58874],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1293116579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.42139,28.85643,80.42139,28.85643",
+    "geom:latitude":28.85643,
+    "geom:longitude":80.42139,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Banda",
+    "gn:country_code":"NP",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283682,
+    "gn:latitude":28.85643,
+    "gn:longitude":80.42139,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Banda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "B\u0101\u1e47i\u0307\u0304"
+    ],
+    "name:und_x_variant":[
+        "B\u0101ndi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048227,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283682
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"102e58f586ad3284b50fd560b890ce78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1293116579,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1293116579,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1293116579,
+    "wof:lastmodified":1537676063,
+    "wof:name":"Banda",
+    "wof:parent_id":1092048227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.42139,
+    28.85643,
+    80.42139,
+    28.85643
+],
+  "geometry": {"coordinates":[80.42139,28.85643],"type":"Point"}
+}

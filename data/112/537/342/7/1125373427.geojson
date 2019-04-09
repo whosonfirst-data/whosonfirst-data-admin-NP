@@ -1,0 +1,102 @@
+{
+  "id": 1125373427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.18333,29.27528,82.18333,29.27528",
+    "geom:latitude":29.27528,
+    "geom:longitude":82.18333,
+    "gn:gn_country":"NP",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":93261,
+    "iso:country":"NP",
+    "lbl:latitude":29.27528,
+    "lbl:longitude":82.18333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NP",
+    "qs_pg:gn_country":"NP",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1283287,
+    "qs_pg:gn_pop":93261,
+    "qs_pg:name":"Jumla",
+    "qs_pg:name_adm0":"Nepal",
+    "qs_pg:name_adm1":"Madhya Pashchimanchal",
+    "qs_pg:photos":3,
+    "qs_pg:photos_1k":1,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":3,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":989447,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424911,
+    "qs_pg:woe_id":23706793,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"quattroshapes_pg",
+    "woe:adm0_id":23424911,
+    "woe:name_adm0":"Nepal",
+    "woe:name_adm1":"Madhya Pashchimanchal",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092050797,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283287,
+        "gp:id":23706793,
+        "qs:id":989447,
+        "qs_pg:id":989447
+    },
+    "wof:country":"NP",
+    "wof:created":1497047566,
+    "wof:geomhash":"3e4dc6ff55e074389a6cf7c3a528eccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "localadmin_id":1125373427,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "localadmin_id":1125373427,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1125373427,
+    "wof:lastmodified":1534379389,
+    "wof:name":"Jumla",
+    "wof:parent_id":1092050797,
+    "wof:placetype":"localadmin",
+    "wof:population":93261,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421184083
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.18333,
+    29.27528,
+    82.18333,
+    29.27528
+],
+  "geometry": {"coordinates":[82.18333,29.27528],"type":"Point"}
+}

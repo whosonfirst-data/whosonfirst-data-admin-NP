@@ -1,0 +1,78 @@
+{
+  "id": 1276165295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.34118,28.19413,84.34118,28.19413",
+    "geom:latitude":28.19413,
+    "geom:longitude":84.34118,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370047.0",
+    "gn:asciiname":"Tajekuna",
+    "gn:country_code":"NP",
+    "gn:dem":1321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7966917,
+    "gn:latitude":28.19413,
+    "gn:longitude":84.34118,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tajekuna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050009,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7966917
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c1fafc63e3e255fc1219f1bf30c76bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1276165295,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1276165295,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1276165295,
+    "wof:lastmodified":1537003162,
+    "wof:name":"Tajekuna",
+    "wof:parent_id":1092050009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.34118000000002,
+    28.19413,
+    84.34118000000002,
+    28.19413
+],
+  "geometry": {"coordinates":[84.34118000000002,28.19413],"type":"Point"}
+}

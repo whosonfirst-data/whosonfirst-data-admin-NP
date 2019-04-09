@@ -1,0 +1,64 @@
+{
+  "id": 1209342707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.98529,29.45148,80.98529,29.45148",
+    "geom:latitude":29.45148,
+    "geom:longitude":80.98529,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680035",
+    "gn:asciiname":"Dikla",
+    "gn:country_code":"NP",
+    "gn:dem":1547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7995578,
+    "gn:latitude":29.45148,
+    "gn:longitude":80.98529,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dikla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7995578
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cb8998223608e595eb21941b7e90599c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209342707
+        }
+    ],
+    "wof:id":1209342707,
+    "wof:lastmodified":1536290012,
+    "wof:name":"Dikla",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.98529,
+    29.45148,
+    80.98529,
+    29.45148
+],
+  "geometry": {"coordinates":[80.98529000000001,29.45148],"type":"Point"}
+}

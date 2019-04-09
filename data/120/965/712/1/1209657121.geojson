@@ -1,0 +1,64 @@
+{
+  "id": 1209657121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.78255,27.00741,87.78255,27.00741",
+    "geom:latitude":27.00741,
+    "geom:longitude":87.78255,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30033.0",
+    "gn:asciiname":"Chuwandanda",
+    "gn:country_code":"NP",
+    "gn:dem":1932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7952370,
+    "gn:latitude":27.00741,
+    "gn:longitude":87.78255,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chuwandanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7952370
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e0370248eac24f05d0df2fe83c5ec091",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209657121
+        }
+    ],
+    "wof:id":1209657121,
+    "wof:lastmodified":1536280390,
+    "wof:name":"Chuwandanda",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.78255,
+    27.00741,
+    87.78255,
+    27.00741
+],
+  "geometry": {"coordinates":[87.78255,27.00741],"type":"Point"}
+}

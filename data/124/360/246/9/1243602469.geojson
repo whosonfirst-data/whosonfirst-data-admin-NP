@@ -1,0 +1,78 @@
+{
+  "id": 1243602469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.89857,27.63596,85.89857,27.63596",
+    "geom:latitude":27.63596,
+    "geom:longitude":85.89857,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"23",
+    "gn:admin4_code":"230075",
+    "gn:asciiname":"Khordhong",
+    "gn:country_code":"NP",
+    "gn:dem":1520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7995539,
+    "gn:latitude":27.63596,
+    "gn:longitude":85.89857,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khordhong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7995539
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8b77735d38948017194901d23e29b0e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1243602469,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1243602469,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1243602469,
+    "wof:lastmodified":1537074656,
+    "wof:name":"Khordhong",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.89856999999998,
+    27.63596,
+    85.89856999999998,
+    27.63596
+],
+  "geometry": {"coordinates":[85.89856999999998,27.63596],"type":"Point"}
+}

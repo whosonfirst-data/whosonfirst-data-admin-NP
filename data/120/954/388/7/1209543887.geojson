@@ -1,0 +1,64 @@
+{
+  "id": 1209543887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.95847,28.48067,80.95847,28.48067",
+    "geom:latitude":28.48067,
+    "geom:longitude":80.95847,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710022.0",
+    "gn:asciiname":"Lalbojhi",
+    "gn:country_code":"NP",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956871,
+    "gn:latitude":28.48067,
+    "gn:longitude":80.95847,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lalbojhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956871
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d90e31902931a7b9dcf379dad9645ff9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209543887
+        }
+    ],
+    "wof:id":1209543887,
+    "wof:lastmodified":1536283903,
+    "wof:name":"Lalbojhi",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.95846999999998,
+    28.48067,
+    80.95846999999998,
+    28.48067
+],
+  "geometry": {"coordinates":[80.95846999999998,28.48067],"type":"Point"}
+}

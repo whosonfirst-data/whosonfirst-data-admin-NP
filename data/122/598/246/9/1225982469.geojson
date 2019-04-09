@@ -1,0 +1,78 @@
+{
+  "id": 1225982469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.84942,26.61402,85.84942,26.61402",
+    "geom:latitude":26.61402,
+    "geom:longitude":85.84942,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"18",
+    "gn:admin4_code":"180048",
+    "gn:asciiname":"Matihani",
+    "gn:country_code":"NP",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7967525,
+    "gn:latitude":26.61402,
+    "gn:longitude":85.84942,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Matihani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092050709,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7967525
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"551f3dc3ff38046ea7d2fbed4aa3a119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050709,
+            "locality_id":1225982469,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050709,
+            "locality_id":1225982469,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1225982469,
+    "wof:lastmodified":1536815507,
+    "wof:name":"Matihani",
+    "wof:parent_id":1092050709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.84942,
+    26.61402,
+    85.84942,
+    26.61402
+],
+  "geometry": {"coordinates":[85.84941999999999,26.61402],"type":"Point"}
+}

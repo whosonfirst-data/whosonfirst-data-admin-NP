@@ -1,0 +1,78 @@
+{
+  "id": 1343492313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.92606,28.57443,80.92606,28.57443",
+    "geom:latitude":28.57443,
+    "geom:longitude":80.92606,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710019.0",
+    "gn:asciiname":"Ambari",
+    "gn:country_code":"NP",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956738,
+    "gn:latitude":28.57443,
+    "gn:longitude":80.92606,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ambari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956738
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"477ebf9f4c7a006f213d2d8623950287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1343492313,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1343492313,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1343492313,
+    "wof:lastmodified":1536700518,
+    "wof:name":"Ambari",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.92605999999998,
+    28.57443,
+    80.92605999999998,
+    28.57443
+],
+  "geometry": {"coordinates":[80.92605999999998,28.57443],"type":"Point"}
+}

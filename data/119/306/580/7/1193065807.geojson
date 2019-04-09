@@ -1,0 +1,78 @@
+{
+  "id": 1193065807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.16206,27.69279,86.16206,27.69279",
+    "geom:latitude":27.69279,
+    "geom:longitude":86.16206,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"22.0",
+    "gn:admin4_code":"220025.0",
+    "gn:asciiname":"Jugu",
+    "gn:country_code":"NP",
+    "gn:dem":1762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7944730,
+    "gn:latitude":27.69279,
+    "gn:longitude":86.16206,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jugu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675579,
+        1092050535,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7944730
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bcecbc7e8db4384715cf49c2ac52e2d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1193065807,
+            "region_id":85675579
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1193065807,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1193065807,
+    "wof:lastmodified":1536373068,
+    "wof:name":"Jugu",
+    "wof:parent_id":1092050535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.16206,
+    27.69279,
+    86.16206,
+    27.69279
+],
+  "geometry": {"coordinates":[86.16206,27.69279],"type":"Point"}
+}

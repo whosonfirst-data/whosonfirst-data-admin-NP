@@ -1,0 +1,78 @@
+{
+  "id": 1243113879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.5289,28.28596,83.5289,28.28596",
+    "geom:latitude":28.28596,
+    "geom:longitude":83.5289,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450036.0",
+    "gn:asciiname":"Bhim Pokhara",
+    "gn:country_code":"NP",
+    "gn:dem":1685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7959287,
+    "gn:latitude":28.28596,
+    "gn:longitude":83.5289,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhim Pokhara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7959287
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a44a45b0f743159a5cfd85bd934489ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1243113879,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1243113879,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1243113879,
+    "wof:lastmodified":1536788438,
+    "wof:name":"Bhim Pokhara",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.5289,
+    28.28596,
+    83.5289,
+    28.28596
+],
+  "geometry": {"coordinates":[83.52889999999999,28.28596],"type":"Point"}
+}

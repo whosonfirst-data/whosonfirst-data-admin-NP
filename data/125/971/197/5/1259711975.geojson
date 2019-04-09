@@ -1,0 +1,78 @@
+{
+  "id": 1259711975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.28243,28.44412,82.28243,28.44412",
+    "geom:latitude":28.44412,
+    "geom:longitude":82.28243,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550046",
+    "gn:asciiname":"Dhyapgaun",
+    "gn:country_code":"NP",
+    "gn:dem":1332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7989725,
+    "gn:latitude":28.44412,
+    "gn:longitude":82.28243,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhyapgaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049579,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7989725
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4d3119c6bf8e6431dd4bf40d51e9fff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1259711975,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1259711975,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1259711975,
+    "wof:lastmodified":1537025038,
+    "wof:name":"Dhyapgaun",
+    "wof:parent_id":1092049579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.28243,
+    28.44412,
+    82.28243,
+    28.44412
+],
+  "geometry": {"coordinates":[82.28243000000001,28.44412],"type":"Point"}
+}

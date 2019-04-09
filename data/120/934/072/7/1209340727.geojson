@@ -1,0 +1,64 @@
+{
+  "id": 1209340727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.93999,28.49816,81.93999,28.49816",
+    "geom:latitude":28.49816,
+    "geom:longitude":81.93999,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590012.0",
+    "gn:asciiname":"Saklena",
+    "gn:country_code":"NP",
+    "gn:dem":1382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7998861,
+    "gn:latitude":28.49816,
+    "gn:longitude":81.93999,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Saklena",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7998861
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bc3a06737e409fbaf93550fcc2e4fe78",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209340727
+        }
+    ],
+    "wof:id":1209340727,
+    "wof:lastmodified":1536290073,
+    "wof:name":"Saklena",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.93999000000002,
+    28.49816,
+    81.93999000000002,
+    28.49816
+],
+  "geometry": {"coordinates":[81.93999000000002,28.49816],"type":"Point"}
+}

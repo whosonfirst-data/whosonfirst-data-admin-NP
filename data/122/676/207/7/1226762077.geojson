@@ -1,0 +1,80 @@
+{
+  "id": 1226762077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.06918,28.4868,83.06918,28.4868",
+    "geom:latitude":28.4868,
+    "geom:longitude":83.06918,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dhorpatan",
+    "gn:country_code":"NP",
+    "gn:dem":2880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283451,
+    "gn:latitude":28.4868,
+    "gn:longitude":83.06918,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dhorp\u0101tan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dorpattan",
+        "Dhorp\u0101tan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283451,
+        "wk:page":"Dhorpatan"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b6e049f9ea28b26ad0e393ce8c0d8aaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1226762077,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1226762077,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1226762077,
+    "wof:lastmodified":1537676057,
+    "wof:name":"Dhorpatan",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.06918,
+    28.4868,
+    83.06918,
+    28.4868
+],
+  "geometry": {"coordinates":[83.06918,28.4868],"type":"Point"}
+}

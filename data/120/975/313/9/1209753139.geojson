@@ -1,0 +1,78 @@
+{
+  "id": 1209753139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.91635,26.76979,87.91635,26.76979",
+    "geom:latitude":26.76979,
+    "geom:longitude":87.91635,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30007.0",
+    "gn:asciiname":"Katteltar",
+    "gn:country_code":"NP",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7951614,
+    "gn:latitude":26.76979,
+    "gn:longitude":87.91635,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Katteltar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7951614
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5adadb97fd38f3ec8e56d9194e678318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1209753139,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1209753139,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1209753139,
+    "wof:lastmodified":1536391843,
+    "wof:name":"Katteltar",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.91635,
+    26.76979,
+    87.91635,
+    26.76979
+],
+  "geometry": {"coordinates":[87.91634999999999,26.76979],"type":"Point"}
+}

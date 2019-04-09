@@ -1,0 +1,78 @@
+{
+  "id": 1243305661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.3387,27.04242,87.3387,27.04242",
+    "geom:latitude":27.04242,
+    "geom:longitude":87.3387,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"7.0",
+    "gn:admin4_code":"70006.0",
+    "gn:asciiname":"Lamatol",
+    "gn:country_code":"NP",
+    "gn:dem":1894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7942727,
+    "gn:latitude":27.04242,
+    "gn:longitude":87.3387,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lamatol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049207,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7942727
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"56388d98d2e99de3abbb9c1bee2dedc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049207,
+            "locality_id":1243305661,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049207,
+            "locality_id":1243305661,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1243305661,
+    "wof:lastmodified":1537007789,
+    "wof:name":"Lamatol",
+    "wof:parent_id":1092049207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.3387,
+    27.04242,
+    87.3387,
+    27.04242
+],
+  "geometry": {"coordinates":[87.3387,27.04242],"type":"Point"}
+}

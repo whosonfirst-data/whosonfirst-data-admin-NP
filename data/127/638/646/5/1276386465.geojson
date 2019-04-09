@@ -1,0 +1,78 @@
+{
+  "id": 1276386465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.675,27.33876,87.675,27.33876",
+    "geom:latitude":27.33876,
+    "geom:longitude":87.675,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10006.0",
+    "gn:asciiname":"Banande",
+    "gn:country_code":"NP",
+    "gn:dem":1596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005049,
+    "gn:latitude":27.33876,
+    "gn:longitude":87.675,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Banande",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005049
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4251bbc6d444f9ae8477fe0c5a4af3f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1276386465,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1276386465,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1276386465,
+    "wof:lastmodified":1536707717,
+    "wof:name":"Banande",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.675,
+    27.33876,
+    87.675,
+    27.33876
+],
+  "geometry": {"coordinates":[87.675,27.33876],"type":"Point"}
+}

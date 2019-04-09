@@ -1,0 +1,78 @@
+{
+  "id": 1242921469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.60693,27.47838,87.60693,27.47838",
+    "geom:latitude":27.47838,
+    "geom:longitude":87.60693,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10023.0",
+    "gn:asciiname":"Chambrung",
+    "gn:country_code":"NP",
+    "gn:dem":1396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005355,
+    "gn:latitude":27.47838,
+    "gn:longitude":87.60693,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chambrung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005355
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3e79f4e067ab094e7bc19adbb497cd5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1242921469,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1242921469,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1242921469,
+    "wof:lastmodified":1537062700,
+    "wof:name":"Chambrung",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.60693,
+    27.47838,
+    87.60693,
+    27.47838
+],
+  "geometry": {"coordinates":[87.60693000000001,27.47838],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209356675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.34143,27.09617,86.34143,27.09617",
+    "geom:latitude":27.09617,
+    "geom:longitude":86.34143,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200023",
+    "gn:asciiname":"Hattikharka",
+    "gn:country_code":"NP",
+    "gn:dem":1598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7992987,
+    "gn:latitude":27.09617,
+    "gn:longitude":86.34143,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Hattikharka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7992987
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3760509bdb8d81e87af85429faed396d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209356675
+        }
+    ],
+    "wof:id":1209356675,
+    "wof:lastmodified":1536289565,
+    "wof:name":"Hattikharka",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.34143,
+    27.09617,
+    86.34143,
+    27.09617
+],
+  "geometry": {"coordinates":[86.34143,27.09617],"type":"Point"}
+}

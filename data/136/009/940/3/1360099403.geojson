@@ -1,0 +1,75 @@
+{
+  "id": 1360099403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.84896,29.50714,80.84896,29.50714",
+    "geom:latitude":29.50714,
+    "geom:longitude":80.84896,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Saukatia",
+    "gn:country_code":"NP",
+    "gn:dem":1571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282804,
+    "gn:latitude":29.50714,
+    "gn:longitude":80.84896,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Saukatia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048571,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282804
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"455a3d0a1875939df7d78519457435b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1360099403,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1360099403,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1360099403,
+    "wof:lastmodified":1536925614,
+    "wof:name":"Saukatia",
+    "wof:parent_id":1092048571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.84895999999998,
+    29.50714,
+    80.84895999999998,
+    29.50714
+],
+  "geometry": {"coordinates":[80.84895999999998,29.50714],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1327182479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.31999,27.45728,84.31999,27.45728",
+    "geom:latitude":27.45728,
+    "geom:longitude":84.31999,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"35.0",
+    "gn:admin4_code":"350003.0",
+    "gn:asciiname":"Basantapur",
+    "gn:country_code":"NP",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7934072,
+    "gn:latitude":27.45728,
+    "gn:longitude":84.31999,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Basantapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092050101,
+        85675585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7934072
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2d563fc26e0102b68683ce21dd4c96eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":1327182479,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":1327182479,
+            "region_id":85675585
+        }
+    ],
+    "wof:id":1327182479,
+    "wof:lastmodified":1537040067,
+    "wof:name":"Basantapur",
+    "wof:parent_id":1092050101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.31999,
+    27.45728,
+    84.31999,
+    27.45728
+],
+  "geometry": {"coordinates":[84.31999,27.45728],"type":"Point"}
+}

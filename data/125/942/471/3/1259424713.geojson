@@ -1,0 +1,78 @@
+{
+  "id": 1259424713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.14654,27.24399,85.14654,27.24399",
+    "geom:latitude":27.24399,
+    "geom:longitude":85.14654,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"330088.0",
+    "gn:asciiname":"Chisapanitol",
+    "gn:country_code":"NP",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009171,
+    "gn:latitude":27.24399,
+    "gn:longitude":85.14654,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chisapanitol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092048051,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009171
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"91a57c238818befccfc000b4a12ccd2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1259424713,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1259424713,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1259424713,
+    "wof:lastmodified":1536943735,
+    "wof:name":"Chisapanitol",
+    "wof:parent_id":1092048051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.14654,
+    27.24399,
+    85.14654,
+    27.24399
+],
+  "geometry": {"coordinates":[85.14654,27.24399],"type":"Point"}
+}

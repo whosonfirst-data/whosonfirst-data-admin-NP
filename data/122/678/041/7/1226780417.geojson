@@ -1,0 +1,78 @@
+{
+  "id": 1226780417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.67677,28.26244,81.67677,28.26244",
+    "geom:latitude":28.26244,
+    "geom:longitude":81.67677,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"570011.0",
+    "gn:asciiname":"Rarabasti",
+    "gn:country_code":"NP",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007435,
+    "gn:latitude":28.26244,
+    "gn:longitude":81.67677,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Rarabasti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092050297,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007435
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f1f1d02eb81e7526eb0535c15c55ab17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1226780417,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1226780417,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1226780417,
+    "wof:lastmodified":1536665670,
+    "wof:name":"Rarabasti",
+    "wof:parent_id":1092050297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.67676999999998,
+    28.26244,
+    81.67676999999998,
+    28.26244
+],
+  "geometry": {"coordinates":[81.67676999999998,28.26244],"type":"Point"}
+}

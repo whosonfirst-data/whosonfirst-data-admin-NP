@@ -1,0 +1,67 @@
+{
+  "id": 1209633135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.76265,27.06214,85.76265,27.06214",
+    "geom:latitude":27.06214,
+    "geom:longitude":85.76265,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nayatol",
+    "gn:country_code":"NP",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10328248,
+    "gn:latitude":27.06214,
+    "gn:longitude":85.76265,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Nay\u0101\u0303\u1e6dol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Nay\u0101n\u1e6dol"
+    ],
+    "name:und_x_variant":[
+        "Nay\u0101\u0303\u1e6dol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10328248
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b9ec7614e3f705c0cb4f56538ee40dc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209633135
+        }
+    ],
+    "wof:id":1209633135,
+    "wof:lastmodified":1537676095,
+    "wof:name":"Nayatol",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.76265,
+    27.06214000000001,
+    85.76265,
+    27.06214000000001
+],
+  "geometry": {"coordinates":[85.76264999999999,27.06214000000001],"type":"Point"}
+}

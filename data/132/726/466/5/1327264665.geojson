@@ -1,0 +1,78 @@
+{
+  "id": 1327264665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.75892,28.88807,81.75892,28.88807",
+    "geom:latitude":28.88807,
+    "geom:longitude":81.75892,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"60.0",
+    "gn:admin4_code":"600035.0",
+    "gn:asciiname":"Dhaudeni",
+    "gn:country_code":"NP",
+    "gn:dem":1373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7937649,
+    "gn:latitude":28.88807,
+    "gn:longitude":81.75892,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhaudeni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092050583,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7937649
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"23fd802651e4b9c9d6338fafd793c8dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1327264665,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1327264665,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1327264665,
+    "wof:lastmodified":1536923801,
+    "wof:name":"Dhaudeni",
+    "wof:parent_id":1092050583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.75891999999997,
+    28.88807000000001,
+    81.75891999999997,
+    28.88807000000001
+],
+  "geometry": {"coordinates":[81.75891999999997,28.88807000000001],"type":"Point"}
+}

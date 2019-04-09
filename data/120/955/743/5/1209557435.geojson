@@ -1,0 +1,64 @@
+{
+  "id": 1209557435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.42218,27.73834,85.42218,27.73834",
+    "geom:latitude":27.73834,
+    "geom:longitude":85.42218,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"27.0",
+    "gn:admin4_code":"270006.0",
+    "gn:asciiname":"Mannatar",
+    "gn:country_code":"NP",
+    "gn:dem":1379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7961879,
+    "gn:latitude":27.73834,
+    "gn:longitude":85.42218,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mannatar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7961879
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bb7a0930ebcedd62c0bfa0c33e8735a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209557435
+        }
+    ],
+    "wof:id":1209557435,
+    "wof:lastmodified":1536283503,
+    "wof:name":"Mannatar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.42218000000003,
+    27.73834,
+    85.42218000000003,
+    27.73834
+],
+  "geometry": {"coordinates":[85.42218000000003,27.73834],"type":"Point"}
+}

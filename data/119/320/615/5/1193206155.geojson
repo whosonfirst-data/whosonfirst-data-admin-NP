@@ -1,0 +1,78 @@
+{
+  "id": 1193206155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.02917,27.92325,85.02917,27.92325",
+    "geom:latitude":27.92325,
+    "geom:longitude":85.02917,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"28",
+    "gn:admin4_code":"280016",
+    "gn:asciiname":"Syaldanda",
+    "gn:country_code":"NP",
+    "gn:dem":1741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7973894,
+    "gn:latitude":27.92325,
+    "gn:longitude":85.02917,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Syaldanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7973894
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"200f908f318509b2eb770e3e6c5c3dd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1193206155,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1193206155,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1193206155,
+    "wof:lastmodified":1536367438,
+    "wof:name":"Syaldanda",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.02917,
+    27.92325,
+    85.02917,
+    27.92325
+],
+  "geometry": {"coordinates":[85.02916999999999,27.92325],"type":"Point"}
+}

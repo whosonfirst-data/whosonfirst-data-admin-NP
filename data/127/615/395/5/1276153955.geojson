@@ -1,0 +1,78 @@
+{
+  "id": 1276153955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.85884,29.06842,80.85884,29.06842",
+    "geom:latitude":29.06842,
+    "geom:longitude":80.85884,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"70.0",
+    "gn:admin4_code":"700036.0",
+    "gn:asciiname":"Duwalekh",
+    "gn:country_code":"NP",
+    "gn:dem":1386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7947260,
+    "gn:latitude":29.06842,
+    "gn:longitude":80.85884,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Duwalekh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048653,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7947260
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3d899b37af18ff6a03f902e81220852a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1276153955,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1276153955,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1276153955,
+    "wof:lastmodified":1537018330,
+    "wof:name":"Duwalekh",
+    "wof:parent_id":1092048653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.85884,
+    29.06842,
+    80.85884,
+    29.06842
+],
+  "geometry": {"coordinates":[80.85884,29.06842],"type":"Point"}
+}

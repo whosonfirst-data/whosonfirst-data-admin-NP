@@ -1,0 +1,78 @@
+{
+  "id": 1309753945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.97715,29.21977,83.97715,29.21977",
+    "geom:latitude":29.21977,
+    "geom:longitude":83.97715,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"42",
+    "gn:admin4_code":"420002",
+    "gn:asciiname":"Arka",
+    "gn:country_code":"NP",
+    "gn:dem":3838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7971764,
+    "gn:latitude":29.21977,
+    "gn:longitude":83.97715,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Arka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675553,
+        1092048365,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7971764
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"434ff00f65da4d06f78ae7c77a217f58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048365,
+            "locality_id":1309753945,
+            "region_id":85675553
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048365,
+            "locality_id":1309753945,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1309753945,
+    "wof:lastmodified":1537005118,
+    "wof:name":"Arka",
+    "wof:parent_id":1092048365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.97715,
+    29.21977,
+    83.97715,
+    29.21977
+],
+  "geometry": {"coordinates":[83.97714999999999,29.21977],"type":"Point"}
+}

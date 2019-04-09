@@ -1,0 +1,64 @@
+{
+  "id": 1209641637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.66299,28.62094,82.66299,28.62094",
+    "geom:latitude":28.62094,
+    "geom:longitude":82.66299,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"54",
+    "gn:admin4_code":"540017",
+    "gn:asciiname":"Narbantila",
+    "gn:country_code":"NP",
+    "gn:dem":2095,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7985573,
+    "gn:latitude":28.62094,
+    "gn:longitude":82.66299,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Narbantila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7985573
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4b4eb5b3ffccaaef18890f9d558ed459",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209641637
+        }
+    ],
+    "wof:id":1209641637,
+    "wof:lastmodified":1536280867,
+    "wof:name":"Narbantila",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.66299000000002,
+    28.62094,
+    82.66299000000002,
+    28.62094
+],
+  "geometry": {"coordinates":[82.66299000000002,28.62094],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209557095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.84646,27.97526,83.84646,27.97526",
+    "geom:latitude":27.97526,
+    "geom:longitude":83.84646,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390034.0",
+    "gn:asciiname":"Mathillo Chyare",
+    "gn:country_code":"NP",
+    "gn:dem":1181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001456,
+    "gn:latitude":27.97526,
+    "gn:longitude":83.84646,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mathillo Chyare",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001456
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9bcbbf170b54f19a5a2def93b6d8f197",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209557095
+        }
+    ],
+    "wof:id":1209557095,
+    "wof:lastmodified":1536283510,
+    "wof:name":"Mathillo Chyare",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.84646,
+    27.97526,
+    83.84646,
+    27.97526
+],
+  "geometry": {"coordinates":[83.84645999999999,27.97526],"type":"Point"}
+}

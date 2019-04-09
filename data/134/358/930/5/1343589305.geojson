@@ -1,0 +1,78 @@
+{
+  "id": 1343589305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.41129,29.07132,81.41129,29.07132",
+    "geom:latitude":29.07132,
+    "geom:longitude":81.41129,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"69",
+    "gn:admin4_code":"690038",
+    "gn:asciiname":"Kuchi Dobato",
+    "gn:country_code":"NP",
+    "gn:dem":1439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7995777,
+    "gn:latitude":29.07132,
+    "gn:longitude":81.41129,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kuchi Dobato",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048527,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7995777
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"189faafd2a0eeb0376ba0b2dee8f6af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1343589305,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1343589305,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1343589305,
+    "wof:lastmodified":1537055500,
+    "wof:name":"Kuchi Dobato",
+    "wof:parent_id":1092048527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.41129000000002,
+    29.07132,
+    81.41129000000002,
+    29.07132
+],
+  "geometry": {"coordinates":[81.41129000000002,29.07132],"type":"Point"}
+}

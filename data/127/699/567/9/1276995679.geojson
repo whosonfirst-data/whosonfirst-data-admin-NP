@@ -1,0 +1,75 @@
+{
+  "id": 1276995679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.15899,28.02729,85.15899,28.02729",
+    "geom:latitude":28.02729,
+    "geom:longitude":85.15899,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Layun",
+    "gn:country_code":"NP",
+    "gn:dem":1582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10318113,
+    "gn:latitude":28.02729,
+    "gn:longitude":85.15899,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Layu\u1e45",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048409,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10318113
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"31de4ea03d50ba2faed97123904c03a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048409,
+            "locality_id":1276995679,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048409,
+            "locality_id":1276995679,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1276995679,
+    "wof:lastmodified":1536885258,
+    "wof:name":"Layun",
+    "wof:parent_id":1092048409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.15899,
+    28.02729,
+    85.15899,
+    28.02729
+],
+  "geometry": {"coordinates":[85.15899,28.02729],"type":"Point"}
+}

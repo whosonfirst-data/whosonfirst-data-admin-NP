@@ -1,0 +1,78 @@
+{
+  "id": 1276487105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.82492,27.17309,87.82492,27.17309",
+    "geom:latitude":27.17309,
+    "geom:longitude":87.82492,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"2",
+    "gn:admin4_code":"20040",
+    "gn:asciiname":"Kharlumba",
+    "gn:country_code":"NP",
+    "gn:dem":1590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7978153,
+    "gn:latitude":27.17309,
+    "gn:longitude":87.82492,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kharlumba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7978153
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5352e5dae5567427b6e30fc2cd5763f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1276487105,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1276487105,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1276487105,
+    "wof:lastmodified":1537066974,
+    "wof:name":"Kharlumba",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.82491999999998,
+    27.17309,
+    87.82491999999998,
+    27.17309
+],
+  "geometry": {"coordinates":[87.82491999999998,27.17309],"type":"Point"}
+}

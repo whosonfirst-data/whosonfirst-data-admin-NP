@@ -1,0 +1,94 @@
+{
+  "id": 421170929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.41667,27.33333,86.41667,27.33333",
+    "geom:latitude":27.33333,
+    "geom:longitude":86.41667,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Okhladhunga"
+    ],
+    "qs:gn_country":"NP",
+    "qs:gn_fcode":"ADM3",
+    "qs:gn_id":1282969,
+    "qs:gn_pop":159761,
+    "qs:name":"Okhaldhunga",
+    "qs:name_adm0":"Nepal",
+    "qs:name_adm1":"Purwanchal",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"9",
+    "qs:qs_id":1197766,
+    "qs:woe_adm0":23424911,
+    "qs:woe_id":23706757,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050225,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282969,
+        "gp:id":23706757,
+        "qs:id":1197766
+    },
+    "wof:country":"NP",
+    "wof:created":1459008874,
+    "wof:geomhash":"62fe5e7febfc60ff7e1f521988a3d9a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050225,
+            "localadmin_id":421170929,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050225,
+            "localadmin_id":421170929,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":421170929,
+    "wof:lastmodified":1534379389,
+    "wof:name":"Okhaldhunga",
+    "wof:parent_id":1092050225,
+    "wof:placetype":"localadmin",
+    "wof:population":159761,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[
+        1125313541
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.41667,
+    27.33333,
+    86.41667,
+    27.33333
+],
+  "geometry": {"coordinates":[86.41667,27.33333],"type":"Point"}
+}

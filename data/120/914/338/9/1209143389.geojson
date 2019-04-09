@@ -1,0 +1,64 @@
+{
+  "id": 1209143389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.19321,28.17085,83.19321,28.17085",
+    "geom:latitude":28.17085,
+    "geom:longitude":83.19321,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"46.0",
+    "gn:admin4_code":"460047.0",
+    "gn:asciiname":"Darindhunga",
+    "gn:country_code":"NP",
+    "gn:dem":1312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7950343,
+    "gn:latitude":28.17085,
+    "gn:longitude":83.19321,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Darindhunga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7950343
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"75c09689cf2b2237709ac7d9884bf239",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209143389
+        }
+    ],
+    "wof:id":1209143389,
+    "wof:lastmodified":1536296432,
+    "wof:name":"Darindhunga",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.19321,
+    28.17085,
+    83.19321,
+    28.17085
+],
+  "geometry": {"coordinates":[83.19320999999999,28.17085],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209443335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.94918,29.31882,80.94918,29.31882",
+    "geom:latitude":29.31882,
+    "geom:longitude":80.94918,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"70.0",
+    "gn:admin4_code":"700001.0",
+    "gn:asciiname":"Bhirmaud",
+    "gn:country_code":"NP",
+    "gn:dem":1494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7945796,
+    "gn:latitude":29.31882,
+    "gn:longitude":80.94918,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhirmaud",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7945796
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"33d78abab3cc5eed2633373ef38de01c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209443335
+        }
+    ],
+    "wof:id":1209443335,
+    "wof:lastmodified":1536286894,
+    "wof:name":"Bhirmaud",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.94918,
+    29.31882,
+    80.94918,
+    29.31882
+],
+  "geometry": {"coordinates":[80.94918,29.31882],"type":"Point"}
+}

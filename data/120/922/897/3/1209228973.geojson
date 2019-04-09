@@ -1,0 +1,67 @@
+{
+  "id": 1209228973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.46499,28.69629,82.46499,28.69629",
+    "geom:latitude":28.69629,
+    "geom:longitude":82.46499,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bargau",
+    "gn:country_code":"NP",
+    "gn:dem":1360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283660,
+    "gn:latitude":28.69629,
+    "gn:longitude":82.46499,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Barg\u0101\u0169",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Barg\u0101\u0169"
+    ],
+    "name:und_x_variant":[
+        "Bargaon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283660
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7df69c513fea4cd05b416d26cd39617d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209228973
+        }
+    ],
+    "wof:id":1209228973,
+    "wof:lastmodified":1537676063,
+    "wof:name":"Bargau",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.46499,
+    28.69629,
+    82.46499,
+    28.69629
+],
+  "geometry": {"coordinates":[82.46499,28.69629],"type":"Point"}
+}

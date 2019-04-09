@@ -1,0 +1,78 @@
+{
+  "id": 1327076301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.21962,27.82704,86.21962,27.82704",
+    "geom:latitude":27.82704,
+    "geom:longitude":86.21962,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"22.0",
+    "gn:admin4_code":"220033.0",
+    "gn:asciiname":"Purano Jagat",
+    "gn:country_code":"NP",
+    "gn:dem":1579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7944906,
+    "gn:latitude":27.82704,
+    "gn:longitude":86.21962,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Purano Jagat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675579,
+        1092050535,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7944906
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"843b9703c6d8a5e742bab4a1f796dc2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1327076301,
+            "region_id":85675579
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1327076301,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1327076301,
+    "wof:lastmodified":1536697438,
+    "wof:name":"Purano Jagat",
+    "wof:parent_id":1092050535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.21961999999998,
+    27.82704,
+    86.21961999999998,
+    27.82704
+],
+  "geometry": {"coordinates":[86.21961999999998,27.82704],"type":"Point"}
+}

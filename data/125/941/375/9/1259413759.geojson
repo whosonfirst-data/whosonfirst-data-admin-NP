@@ -1,0 +1,78 @@
+{
+  "id": 1259413759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.47164,28.26274,82.47164,28.26274",
+    "geom:latitude":28.26274,
+    "geom:longitude":82.47164,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530034",
+    "gn:asciiname":"Upallo Nuwagaun",
+    "gn:country_code":"NP",
+    "gn:dem":1425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7984151,
+    "gn:latitude":28.26274,
+    "gn:longitude":82.47164,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Upallo Nuwagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7984151
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6c6b04c1cb6dc5428f782c95a2c72e66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1259413759,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1259413759,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1259413759,
+    "wof:lastmodified":1536959017,
+    "wof:name":"Upallo Nuwagaun",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.47164000000002,
+    28.26274,
+    82.47164000000002,
+    28.26274
+],
+  "geometry": {"coordinates":[82.47164000000002,28.26274],"type":"Point"}
+}

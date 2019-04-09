@@ -1,0 +1,78 @@
+{
+  "id": 1293427265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.66728,28.14103,84.66728,28.14103",
+    "geom:latitude":28.14103,
+    "geom:longitude":84.66728,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360044.0",
+    "gn:asciiname":"Amdanda",
+    "gn:country_code":"NP",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7948983,
+    "gn:latitude":28.14103,
+    "gn:longitude":84.66728,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Amdanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7948983
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"26c506ea821c56cfd7bf24661a4bc6d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1293427265,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1293427265,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293427265,
+    "wof:lastmodified":1536872746,
+    "wof:name":"Amdanda",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.66728,
+    28.14103,
+    84.66728,
+    28.14103
+],
+  "geometry": {"coordinates":[84.66728000000001,28.14103],"type":"Point"}
+}

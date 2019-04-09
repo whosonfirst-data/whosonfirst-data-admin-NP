@@ -1,0 +1,78 @@
+{
+  "id": 1326658307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.35453,28.79533,82.35453,28.79533",
+    "geom:latitude":28.79533,
+    "geom:longitude":82.35453,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"61.0",
+    "gn:admin4_code":"610013.0",
+    "gn:asciiname":"Manmai",
+    "gn:country_code":"NP",
+    "gn:dem":1015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7953293,
+    "gn:latitude":28.79533,
+    "gn:longitude":82.35453,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Manmai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092048763,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7953293
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9d7a8c6112be7b8d192786bcb576096f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048763,
+            "locality_id":1326658307,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048763,
+            "locality_id":1326658307,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1326658307,
+    "wof:lastmodified":1536802370,
+    "wof:name":"Manmai",
+    "wof:parent_id":1092048763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.35453000000003,
+    28.79533,
+    82.35453000000003,
+    28.79533
+],
+  "geometry": {"coordinates":[82.35453000000003,28.79533],"type":"Point"}
+}

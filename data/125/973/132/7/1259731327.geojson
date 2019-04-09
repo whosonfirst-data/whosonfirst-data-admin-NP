@@ -1,0 +1,78 @@
+{
+  "id": 1259731327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.59005,28.13639,83.59005,28.13639",
+    "geom:latitude":28.13639,
+    "geom:longitude":83.59005,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450016.0",
+    "gn:asciiname":"Dhullu",
+    "gn:country_code":"NP",
+    "gn:dem":1291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7952805,
+    "gn:latitude":28.13639,
+    "gn:longitude":83.59005,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhullu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7952805
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"842e955ff1c8efaa4401edd98043b7f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1259731327,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1259731327,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1259731327,
+    "wof:lastmodified":1536997475,
+    "wof:name":"Dhullu",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.59005,
+    28.13639,
+    83.59005,
+    28.13639
+],
+  "geometry": {"coordinates":[83.59005000000001,28.13639],"type":"Point"}
+}

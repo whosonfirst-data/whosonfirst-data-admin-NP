@@ -1,0 +1,78 @@
+{
+  "id": 1310542703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.31111,27.92382,83.31111,27.92382",
+    "geom:latitude":27.92382,
+    "geom:longitude":83.31111,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"47",
+    "gn:admin4_code":"470008",
+    "gn:asciiname":"Chhechuwa",
+    "gn:country_code":"NP",
+    "gn:dem":770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7975917,
+    "gn:latitude":27.92382,
+    "gn:longitude":83.31111,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chhechuwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050889,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7975917
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c33f863b125ae9e61ba70e5ccae3fbeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1310542703,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1310542703,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1310542703,
+    "wof:lastmodified":1536861840,
+    "wof:name":"Chhechuwa",
+    "wof:parent_id":1092050889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.31111,
+    27.92382000000001,
+    83.31111,
+    27.92382000000001
+],
+  "geometry": {"coordinates":[83.31111,27.92382000000001],"type":"Point"}
+}

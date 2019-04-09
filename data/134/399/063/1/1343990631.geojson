@@ -1,0 +1,78 @@
+{
+  "id": 1343990631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.98037,29.37408,81.98037,29.37408",
+    "geom:latitude":29.37408,
+    "geom:longitude":81.98037,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"630007.0",
+    "gn:asciiname":"Bhakemul",
+    "gn:country_code":"NP",
+    "gn:dem":2472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7955667,
+    "gn:latitude":29.37408,
+    "gn:longitude":81.98037,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhakemul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092050797,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7955667
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d8389dcfeda44adc66b8624b549baee5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1343990631,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1343990631,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1343990631,
+    "wof:lastmodified":1536975922,
+    "wof:name":"Bhakemul",
+    "wof:parent_id":1092050797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.98037,
+    29.37408,
+    81.98037,
+    29.37408
+],
+  "geometry": {"coordinates":[81.98036999999999,29.37408],"type":"Point"}
+}

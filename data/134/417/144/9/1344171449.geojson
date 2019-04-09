@@ -1,0 +1,75 @@
+{
+  "id": 1344171449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.70176,28.14009,82.70176,28.14009",
+    "geom:latitude":28.14009,
+    "geom:longitude":82.70176,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bhingrigaon",
+    "gn:country_code":"NP",
+    "gn:dem":1090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283603,
+    "gn:latitude":28.14009,
+    "gn:longitude":82.70176,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Bhingrigaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049377,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283603
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2c7eb703a24d655a69f1416a186f5a23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1344171449,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1344171449,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1344171449,
+    "wof:lastmodified":1536715693,
+    "wof:name":"Bhingrigaon",
+    "wof:parent_id":1092049377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.70176,
+    28.14009,
+    82.70176,
+    28.14009
+],
+  "geometry": {"coordinates":[82.70175999999999,28.14009],"type":"Point"}
+}

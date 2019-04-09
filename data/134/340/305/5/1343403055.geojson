@@ -1,0 +1,78 @@
+{
+  "id": 1343403055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.02447,27.05941,87.02447,27.05941",
+    "geom:latitude":27.05941,
+    "geom:longitude":87.02447,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100003.0",
+    "gn:asciiname":"Monteng",
+    "gn:country_code":"NP",
+    "gn:dem":1536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8010364,
+    "gn:latitude":27.05941,
+    "gn:longitude":87.02447,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Monteng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8010364
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"dd6a9a83c087b702fa586d3f4ac54cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1343403055,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1343403055,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1343403055,
+    "wof:lastmodified":1536828122,
+    "wof:name":"Monteng",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.02447,
+    27.05941,
+    87.02447,
+    27.05941
+],
+  "geometry": {"coordinates":[87.02446999999999,27.05941],"type":"Point"}
+}

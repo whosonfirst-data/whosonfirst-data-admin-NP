@@ -1,0 +1,64 @@
+{
+  "id": 1209347393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.57586,29.54086,80.57586,29.54086",
+    "geom:latitude":29.54086,
+    "geom:longitude":80.57586,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740046",
+    "gn:asciiname":"Tarula",
+    "gn:country_code":"NP",
+    "gn:dem":1779,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7979075,
+    "gn:latitude":29.54086,
+    "gn:longitude":80.57586,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tarula",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7979075
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e269832706b6b64e970bb64cbac53009",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209347393
+        }
+    ],
+    "wof:id":1209347393,
+    "wof:lastmodified":1536289867,
+    "wof:name":"Tarula",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.57585999999998,
+    29.54086,
+    80.57585999999998,
+    29.54086
+],
+  "geometry": {"coordinates":[80.57585999999998,29.54086],"type":"Point"}
+}

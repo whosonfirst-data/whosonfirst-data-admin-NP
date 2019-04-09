@@ -1,0 +1,78 @@
+{
+  "id": 1193065619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.87384,28.10226,83.87384,28.10226",
+    "geom:latitude":28.10226,
+    "geom:longitude":83.87384,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390044.0",
+    "gn:asciiname":"Jail",
+    "gn:country_code":"NP",
+    "gn:dem":815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001926,
+    "gn:latitude":28.10226,
+    "gn:longitude":83.87384,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jail",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001926
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d039352a4eafdbff367e1836f22ce037",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1193065619,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1193065619,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1193065619,
+    "wof:lastmodified":1536373250,
+    "wof:name":"Jail",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.87384,
+    28.10226,
+    83.87384,
+    28.10226
+],
+  "geometry": {"coordinates":[83.87384,28.10226],"type":"Point"}
+}

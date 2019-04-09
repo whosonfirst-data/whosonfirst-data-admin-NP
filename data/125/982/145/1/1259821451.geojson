@@ -1,0 +1,78 @@
+{
+  "id": 1259821451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.9436,27.9666,84.9436,27.9666",
+    "geom:latitude":27.9666,
+    "geom:longitude":84.9436,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300021.0",
+    "gn:asciiname":"Banchaur",
+    "gn:country_code":"NP",
+    "gn:dem":1176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7941739,
+    "gn:latitude":27.9666,
+    "gn:longitude":84.9436,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Banchaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7941739
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6ce1f6b9f93b7cd3461865a88b906957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1259821451,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1259821451,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1259821451,
+    "wof:lastmodified":1536867357,
+    "wof:name":"Banchaur",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.9436,
+    27.9666,
+    84.9436,
+    27.9666
+],
+  "geometry": {"coordinates":[84.9436,27.9666],"type":"Point"}
+}

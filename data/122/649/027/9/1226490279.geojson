@@ -1,0 +1,78 @@
+{
+  "id": 1226490279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.33497,27.90515,84.33497,27.90515",
+    "geom:latitude":27.90515,
+    "geom:longitude":84.33497,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380026.0",
+    "gn:asciiname":"Thinkot",
+    "gn:country_code":"NP",
+    "gn:dem":997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003817,
+    "gn:latitude":27.90515,
+    "gn:longitude":84.33497,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thinkot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003817
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0424a2b22984e2786a7ef3ca7cd24d28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1226490279,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1226490279,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1226490279,
+    "wof:lastmodified":1537074938,
+    "wof:name":"Thinkot",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.33497,
+    27.90515,
+    84.33497,
+    27.90515
+],
+  "geometry": {"coordinates":[84.33497,27.90515],"type":"Point"}
+}

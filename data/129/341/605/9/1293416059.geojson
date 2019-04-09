@@ -1,0 +1,78 @@
+{
+  "id": 1293416059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.66443,28.5005,82.66443,28.5005",
+    "geom:latitude":28.5005,
+    "geom:longitude":82.66443,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"54",
+    "gn:admin4_code":"540024",
+    "gn:asciiname":"Angaribang Dhuri",
+    "gn:country_code":"NP",
+    "gn:dem":2684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7985814,
+    "gn:latitude":28.5005,
+    "gn:longitude":82.66443,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Angaribang Dhuri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049495,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7985814
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f0a50ba8c76aed1ff256a8434d8fd302",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1293416059,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1293416059,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1293416059,
+    "wof:lastmodified":1536889746,
+    "wof:name":"Angaribang Dhuri",
+    "wof:parent_id":1092049495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.66443000000002,
+    28.5005,
+    82.66443000000002,
+    28.5005
+],
+  "geometry": {"coordinates":[82.66443000000002,28.5005],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226692115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.49705,27.57636,85.49705,27.57636",
+    "geom:latitude":27.57636,
+    "geom:longitude":85.49705,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240065.0",
+    "gn:asciiname":"Kotegaun",
+    "gn:country_code":"NP",
+    "gn:dem":1556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7963606,
+    "gn:latitude":27.57636,
+    "gn:longitude":85.49705,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kotegaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7963606
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"eb0bffc84b6f5b5a20487fe2426c57ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1226692115,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1226692115,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1226692115,
+    "wof:lastmodified":1536793182,
+    "wof:name":"Kotegaun",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.49705,
+    27.57636,
+    85.49705,
+    27.57636
+],
+  "geometry": {"coordinates":[85.49705,27.57636],"type":"Point"}
+}

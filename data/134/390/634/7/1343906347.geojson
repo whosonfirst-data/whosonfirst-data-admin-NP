@@ -1,0 +1,78 @@
+{
+  "id": 1343906347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.99702,27.00976,84.99702,27.00976",
+    "geom:latitude":27.00976,
+    "geom:longitude":84.99702,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"330052.0",
+    "gn:asciiname":"Bishwambharpur",
+    "gn:country_code":"NP",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008901,
+    "gn:latitude":27.00976,
+    "gn:longitude":84.99702,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bishwambharpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092048051,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008901
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0c743459b36d9386634bc39c165f9146",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1343906347,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1343906347,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1343906347,
+    "wof:lastmodified":1537095005,
+    "wof:name":"Bishwambharpur",
+    "wof:parent_id":1092048051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.99701999999998,
+    27.00976,
+    84.99701999999998,
+    27.00976
+],
+  "geometry": {"coordinates":[84.99701999999998,27.00976],"type":"Point"}
+}

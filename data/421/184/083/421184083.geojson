@@ -1,0 +1,91 @@
+{
+  "id": 421184083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.18333,29.27528,82.18333,29.27528",
+    "geom:latitude":29.27528,
+    "geom:longitude":82.18333,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"NP",
+    "qs:gn_fcode":"ADM3",
+    "qs:gn_id":1283287,
+    "qs:gn_pop":93261,
+    "qs:name":"Jumla",
+    "qs:name_adm0":"Nepal",
+    "qs:name_adm1":"Madhya Pashchimanchal",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"8",
+    "qs:qs_id":989447,
+    "qs:woe_adm0":23424911,
+    "qs:woe_id":23706793,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092050797,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283287,
+        "gp:id":23706793,
+        "qs:id":989447
+    },
+    "wof:country":"NP",
+    "wof:created":1459009399,
+    "wof:geomhash":"3e4dc6ff55e074389a6cf7c3a528eccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "localadmin_id":421184083,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "localadmin_id":421184083,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":421184083,
+    "wof:lastmodified":1534379389,
+    "wof:name":"Jumla",
+    "wof:parent_id":1092050797,
+    "wof:placetype":"localadmin",
+    "wof:population":93261,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[
+        1125373427
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.18333,
+    29.27528,
+    82.18333,
+    29.27528
+],
+  "geometry": {"coordinates":[82.18333,29.27528],"type":"Point"}
+}

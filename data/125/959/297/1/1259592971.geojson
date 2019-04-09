@@ -1,0 +1,78 @@
+{
+  "id": 1259592971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.82421,28.72014,80.82421,28.72014",
+    "geom:latitude":28.72014,
+    "geom:longitude":80.82421,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bhitania",
+    "gn:country_code":"NP",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283602,
+    "gn:latitude":28.72014,
+    "gn:longitude":80.82421,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Bhitania",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Bet\u0101ni\u0307\u0304"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283602
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3b04b953f53b60ae3dae1fd8ad0784a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1259592971,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1259592971,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1259592971,
+    "wof:lastmodified":1537676061,
+    "wof:name":"Bhitania",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.82421,
+    28.72014,
+    80.82421,
+    28.72014
+],
+  "geometry": {"coordinates":[80.82420999999999,28.72014],"type":"Point"}
+}

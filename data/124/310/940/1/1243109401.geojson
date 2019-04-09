@@ -1,0 +1,78 @@
+{
+  "id": 1243109401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.65764,27.55683,85.65764,27.55683",
+    "geom:latitude":27.55683,
+    "geom:longitude":85.65764,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240059.0",
+    "gn:asciiname":"Paudelchaur",
+    "gn:country_code":"NP",
+    "gn:dem":1214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7963464,
+    "gn:latitude":27.55683,
+    "gn:longitude":85.65764,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Paudelchaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7963464
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a4eae634db6ef3a5cce3dfe9a329dcc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1243109401,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1243109401,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1243109401,
+    "wof:lastmodified":1536794633,
+    "wof:name":"Paudelchaur",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.65764,
+    27.55683,
+    85.65764,
+    27.55683
+],
+  "geometry": {"coordinates":[85.65764,27.55683],"type":"Point"}
+}

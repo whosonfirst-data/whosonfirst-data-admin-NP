@@ -1,0 +1,64 @@
+{
+  "id": 1209241101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.8246,28.93585,81.8246,28.93585",
+    "geom:latitude":28.93585,
+    "geom:longitude":81.8246,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"60.0",
+    "gn:admin4_code":"600039.0",
+    "gn:asciiname":"Acharyagau",
+    "gn:country_code":"NP",
+    "gn:dem":1691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7937718,
+    "gn:latitude":28.93585,
+    "gn:longitude":81.8246,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Acharyagau",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7937718
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"50e155fe6b0c0e042c6a65264b74db21",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209241101
+        }
+    ],
+    "wof:id":1209241101,
+    "wof:lastmodified":1536293317,
+    "wof:name":"Acharyagau",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.8246,
+    28.93585,
+    81.8246,
+    28.93585
+],
+  "geometry": {"coordinates":[81.8246,28.93585],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1243396103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.56476,28.16422,81.56476,28.16422",
+    "geom:latitude":28.16422,
+    "geom:longitude":81.56476,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"570040.0",
+    "gn:asciiname":"Chakala",
+    "gn:country_code":"NP",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008498,
+    "gn:latitude":28.16422,
+    "gn:longitude":81.56476,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chakala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092050297,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008498
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7d0de3f5497aaa5ab9acac9d0aae4f50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1243396103,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1243396103,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1243396103,
+    "wof:lastmodified":1536877400,
+    "wof:name":"Chakala",
+    "wof:parent_id":1092050297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.56475999999998,
+    28.16422,
+    81.56475999999998,
+    28.16422
+],
+  "geometry": {"coordinates":[81.56475999999998,28.16422],"type":"Point"}
+}

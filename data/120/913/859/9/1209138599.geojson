@@ -1,0 +1,64 @@
+{
+  "id": 1209138599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.71798,28.23737,82.71798,28.23737",
+    "geom:latitude":28.23737,
+    "geom:longitude":82.71798,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530033",
+    "gn:asciiname":"Pallo Chhirni",
+    "gn:country_code":"NP",
+    "gn:dem":768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7984133,
+    "gn:latitude":28.23737,
+    "gn:longitude":82.71798,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pallo Chhirni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7984133
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"936b5b2977dd86e8f50fa850539ee69a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209138599
+        }
+    ],
+    "wof:id":1209138599,
+    "wof:lastmodified":1536296577,
+    "wof:name":"Pallo Chhirni",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.71798000000003,
+    28.23737,
+    82.71798000000003,
+    28.23737
+],
+  "geometry": {"coordinates":[82.71798000000003,28.23737],"type":"Point"}
+}

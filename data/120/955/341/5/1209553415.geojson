@@ -1,0 +1,64 @@
+{
+  "id": 1209553415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.12001,27.378,85.12001,27.378",
+    "geom:latitude":27.378,
+    "geom:longitude":85.12001,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310019",
+    "gn:asciiname":"Thulo Gangato",
+    "gn:country_code":"NP",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7968368,
+    "gn:latitude":27.378,
+    "gn:longitude":85.12001,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thulo Gangato",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7968368
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bfc70b9d0fa179a96715dafbf2a03347",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209553415
+        }
+    ],
+    "wof:id":1209553415,
+    "wof:lastmodified":1536283625,
+    "wof:name":"Thulo Gangato",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.12001,
+    27.378,
+    85.12001,
+    27.378
+],
+  "geometry": {"coordinates":[85.12000999999999,27.378],"type":"Point"}
+}

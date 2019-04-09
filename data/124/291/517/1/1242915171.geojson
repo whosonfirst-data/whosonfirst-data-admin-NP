@@ -1,0 +1,78 @@
+{
+  "id": 1242915171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.1269,27.84959,84.1269,27.84959",
+    "geom:latitude":27.84959,
+    "geom:longitude":84.1269,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380037.0",
+    "gn:asciiname":"Ghumarighat",
+    "gn:country_code":"NP",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8004352,
+    "gn:latitude":27.84959,
+    "gn:longitude":84.1269,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ghumarighat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050413,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8004352
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8fbfa2c304a9f149ab06c93020685529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050413,
+            "locality_id":1242915171,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050413,
+            "locality_id":1242915171,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1242915171,
+    "wof:lastmodified":1537071411,
+    "wof:name":"Ghumarighat",
+    "wof:parent_id":1092050413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.1269,
+    27.84959000000001,
+    84.1269,
+    27.84959000000001
+],
+  "geometry": {"coordinates":[84.12690000000001,27.84959000000001],"type":"Point"}
+}

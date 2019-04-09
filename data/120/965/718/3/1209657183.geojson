@@ -1,0 +1,64 @@
+{
+  "id": 1209657183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.58961,27.07462,86.58961,27.07462",
+    "geom:latitude":27.07462,
+    "geom:longitude":86.58961,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140040.0",
+    "gn:asciiname":"Mandata",
+    "gn:country_code":"NP",
+    "gn:dem":1525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007735,
+    "gn:latitude":27.07462,
+    "gn:longitude":86.58961,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mandata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007735
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"39331beacc354ac1ba50f9fd02ec56d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209657183
+        }
+    ],
+    "wof:id":1209657183,
+    "wof:lastmodified":1536280389,
+    "wof:name":"Mandata",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.58961,
+    27.07462,
+    86.58961,
+    27.07462
+],
+  "geometry": {"coordinates":[86.58960999999999,27.07462],"type":"Point"}
+}

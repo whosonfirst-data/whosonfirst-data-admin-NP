@@ -1,0 +1,78 @@
+{
+  "id": 1344006015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.43531,28.21433,84.43531,28.21433",
+    "geom:latitude":28.21433,
+    "geom:longitude":84.43531,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370031.0",
+    "gn:asciiname":"Dhaireni",
+    "gn:country_code":"NP",
+    "gn:dem":1235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7966558,
+    "gn:latitude":28.21433,
+    "gn:longitude":84.43531,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhaireni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050009,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7966558
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5d61f91d94e88a721c9e2594dc2bc071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1344006015,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1344006015,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1344006015,
+    "wof:lastmodified":1536954353,
+    "wof:name":"Dhaireni",
+    "wof:parent_id":1092050009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.43531,
+    28.21433,
+    84.43531,
+    28.21433
+],
+  "geometry": {"coordinates":[84.43531,28.21433],"type":"Point"}
+}

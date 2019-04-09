@@ -1,0 +1,78 @@
+{
+  "id": 1293432005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.12448,28.01615,85.12448,28.01615",
+    "geom:latitude":28.01615,
+    "geom:longitude":85.12448,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"28",
+    "gn:admin4_code":"280007.0",
+    "gn:asciiname":"Khartagaun",
+    "gn:country_code":"NP",
+    "gn:dem":1694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7973698,
+    "gn:latitude":28.01615,
+    "gn:longitude":85.12448,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khartagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7973698
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"090dfa7245ac47bbce1c3c2a1a986fa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1293432005,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1293432005,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1293432005,
+    "wof:lastmodified":1536865785,
+    "wof:name":"Khartagaun",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.12448,
+    28.01615,
+    85.12448,
+    28.01615
+],
+  "geometry": {"coordinates":[85.12448000000001,28.01615],"type":"Point"}
+}

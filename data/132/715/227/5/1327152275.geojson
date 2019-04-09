@@ -1,0 +1,75 @@
+{
+  "id": 1327152275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.30578,27.81739,83.30578,27.81739",
+    "geom:latitude":27.81739,
+    "geom:longitude":83.30578,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Baldenggarhi",
+    "gn:country_code":"NP",
+    "gn:dem":1442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283689,
+    "gn:latitude":27.81739,
+    "gn:longitude":83.30578,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Baldenggarhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050889,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283689
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"81ac46774e73f71a7b35b51603b26f3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1327152275,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1327152275,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1327152275,
+    "wof:lastmodified":1537082098,
+    "wof:name":"Baldenggarhi",
+    "wof:parent_id":1092050889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.30578,
+    27.81739,
+    83.30578,
+    27.81739
+],
+  "geometry": {"coordinates":[83.30578,27.81739],"type":"Point"}
+}

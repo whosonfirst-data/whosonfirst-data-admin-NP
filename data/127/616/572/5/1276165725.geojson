@@ -1,0 +1,78 @@
+{
+  "id": 1276165725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.84544,27.57009,84.84544,27.57009",
+    "geom:latitude":27.57009,
+    "geom:longitude":84.84544,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310037.0",
+    "gn:asciiname":"Hattihal",
+    "gn:country_code":"NP",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7969071,
+    "gn:latitude":27.57009,
+    "gn:longitude":84.84544,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Hattihal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7969071
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e465aaba4c95aee9af29101ec08b89f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1276165725,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1276165725,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1276165725,
+    "wof:lastmodified":1537002619,
+    "wof:name":"Hattihal",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.84544,
+    27.57009,
+    84.84544,
+    27.57009
+],
+  "geometry": {"coordinates":[84.84544,27.57009],"type":"Point"}
+}

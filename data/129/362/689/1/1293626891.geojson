@@ -1,0 +1,78 @@
+{
+  "id": 1293626891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.51178,27.36639,87.51178,27.36639",
+    "geom:latitude":27.36639,
+    "geom:longitude":87.51178,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10029.0",
+    "gn:asciiname":"Odak",
+    "gn:country_code":"NP",
+    "gn:dem":1591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005457,
+    "gn:latitude":27.36639,
+    "gn:longitude":87.51178,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Odak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005457
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"344ee46b035b84d41b8828d4d755d137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1293626891,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1293626891,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1293626891,
+    "wof:lastmodified":1537080043,
+    "wof:name":"Odak",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.51178,
+    27.36639000000001,
+    87.51178,
+    27.36639000000001
+],
+  "geometry": {"coordinates":[87.51178,27.36639000000001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293801881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.49224,27.55752,85.49224,27.55752",
+    "geom:latitude":27.55752,
+    "geom:longitude":85.49224,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chhapgau",
+    "gn:country_code":"NP",
+    "gn:dem":1799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10678022,
+    "gn:latitude":27.55752,
+    "gn:longitude":85.49224,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Chh\u0101pg\u0101\u0169",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10678022
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"88984a8d5cc3f64f68ab2ed0851b7cdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1293801881,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1293801881,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1293801881,
+    "wof:lastmodified":1536829945,
+    "wof:name":"Chhapgau",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.49224,
+    27.55752,
+    85.49224,
+    27.55752
+],
+  "geometry": {"coordinates":[85.49224,27.55752],"type":"Point"}
+}

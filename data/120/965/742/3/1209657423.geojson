@@ -1,0 +1,64 @@
+{
+  "id": 1209657423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.55055,27.64616,84.55055,27.64616",
+    "geom:latitude":27.64616,
+    "geom:longitude":84.55055,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"35.0",
+    "gn:admin4_code":"350032.0",
+    "gn:asciiname":"Jaubaritol",
+    "gn:country_code":"NP",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7934986,
+    "gn:latitude":27.64616,
+    "gn:longitude":84.55055,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jaubaritol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7934986
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"40a035b470a4bb67dc43df711af95a30",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209657423
+        }
+    ],
+    "wof:id":1209657423,
+    "wof:lastmodified":1536280382,
+    "wof:name":"Jaubaritol",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.55055,
+    27.64616,
+    84.55055,
+    27.64616
+],
+  "geometry": {"coordinates":[84.55055,27.64616],"type":"Point"}
+}

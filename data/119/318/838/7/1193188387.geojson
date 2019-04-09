@@ -1,0 +1,78 @@
+{
+  "id": 1193188387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.83938,26.88235,87.83938,26.88235",
+    "geom:latitude":26.88235,
+    "geom:longitude":87.83938,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30018.0",
+    "gn:asciiname":"Madibung",
+    "gn:country_code":"NP",
+    "gn:dem":1472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7951957,
+    "gn:latitude":26.88235,
+    "gn:longitude":87.83938,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Madibung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7951957
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a87475825bda14eca1d8643ba7890c92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1193188387,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1193188387,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1193188387,
+    "wof:lastmodified":1536364312,
+    "wof:name":"Madibung",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.83938,
+    26.88235,
+    87.83938,
+    26.88235
+],
+  "geometry": {"coordinates":[87.83938000000001,26.88235],"type":"Point"}
+}

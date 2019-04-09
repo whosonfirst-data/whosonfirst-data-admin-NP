@@ -1,0 +1,78 @@
+{
+  "id": 1276165419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.68516,27.245,86.68516,27.245",
+    "geom:latitude":27.245,
+    "geom:longitude":86.68516,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"13",
+    "gn:admin4_code":"130045.0",
+    "gn:asciiname":"Chyuribas",
+    "gn:country_code":"NP",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7964774,
+    "gn:latitude":27.245,
+    "gn:longitude":86.68516,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chyuribas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050841,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7964774
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4e268750ddf7e732e95903d2b668e0eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1276165419,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1276165419,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1276165419,
+    "wof:lastmodified":1537003009,
+    "wof:name":"Chyuribas",
+    "wof:parent_id":1092050841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.68516,
+    27.245,
+    86.68516,
+    27.245
+],
+  "geometry": {"coordinates":[86.68516,27.245],"type":"Point"}
+}

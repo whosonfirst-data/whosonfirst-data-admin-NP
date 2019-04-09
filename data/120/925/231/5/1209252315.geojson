@@ -1,0 +1,64 @@
+{
+  "id": 1209252315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.36265,28.34625,83.36265,28.34625",
+    "geom:latitude":28.34625,
+    "geom:longitude":83.36265,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450015.0",
+    "gn:asciiname":"Argal",
+    "gn:country_code":"NP",
+    "gn:dem":2184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7952561,
+    "gn:latitude":28.34625,
+    "gn:longitude":83.36265,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Argal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7952561
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b0d4690e8b58abd4c55e1a3a31c5d6cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209252315
+        }
+    ],
+    "wof:id":1209252315,
+    "wof:lastmodified":1536292965,
+    "wof:name":"Argal",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.36265,
+    28.34625,
+    83.36265,
+    28.34625
+],
+  "geometry": {"coordinates":[83.36265,28.34625],"type":"Point"}
+}

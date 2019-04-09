@@ -1,0 +1,78 @@
+{
+  "id": 1242619169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.50889,28.16674,84.50889,28.16674",
+    "geom:latitude":28.16674,
+    "geom:longitude":84.50889,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370026",
+    "gn:asciiname":"Umliswanra",
+    "gn:country_code":"NP",
+    "gn:dem":1533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7966408,
+    "gn:latitude":28.16674,
+    "gn:longitude":84.50889,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Umliswanra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050009,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7966408
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9221ad2a590edad7731edfde9f4310b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1242619169,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1242619169,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1242619169,
+    "wof:lastmodified":1537003073,
+    "wof:name":"Umliswanra",
+    "wof:parent_id":1092050009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.50889000000002,
+    28.16674,
+    84.50889000000002,
+    28.16674
+],
+  "geometry": {"coordinates":[84.50889000000002,28.16674],"type":"Point"}
+}

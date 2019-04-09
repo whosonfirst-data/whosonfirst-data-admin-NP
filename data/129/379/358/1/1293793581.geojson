@@ -1,0 +1,79 @@
+{
+  "id": 1293793581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.60329,27.51243,85.60329,27.51243",
+    "geom:latitude":27.51243,
+    "geom:longitude":85.60329,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Phalamsagu",
+    "gn:country_code":"NP",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10321975,
+    "gn:latitude":27.51243,
+    "gn:longitude":85.60329,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Phal\u0101ms\u0101\u0303gu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phal\u0101ms\u0101\u0303gu",
+        "Phal\u0101ms\u0101ngu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10321975
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8c7ba52acfc2bf4e67141452b790e010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1293793581,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1293793581,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1293793581,
+    "wof:lastmodified":1537676087,
+    "wof:name":"Phalamsagu",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.60329,
+    27.51243,
+    85.60329,
+    27.51243
+],
+  "geometry": {"coordinates":[85.60329,27.51243],"type":"Point"}
+}

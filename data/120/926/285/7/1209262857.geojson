@@ -1,0 +1,64 @@
+{
+  "id": 1209262857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.16803,27.02621,86.16803,27.02621",
+    "geom:latitude":27.02621,
+    "geom:longitude":86.16803,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200046",
+    "gn:asciiname":"Bhittatol",
+    "gn:country_code":"NP",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7994005,
+    "gn:latitude":27.02621,
+    "gn:longitude":86.16803,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhittatol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7994005
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"60c087742e6b66aafa140287b5b9bbec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209262857
+        }
+    ],
+    "wof:id":1209262857,
+    "wof:lastmodified":1536292635,
+    "wof:name":"Bhittatol",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.16803,
+    27.02621,
+    86.16803,
+    27.02621
+],
+  "geometry": {"coordinates":[86.16803,27.02621],"type":"Point"}
+}

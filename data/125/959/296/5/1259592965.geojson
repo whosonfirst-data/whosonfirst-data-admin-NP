@@ -1,0 +1,78 @@
+{
+  "id": 1259592965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.81602,26.63294,87.81602,26.63294",
+    "geom:latitude":26.63294,
+    "geom:longitude":87.81602,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lajhoda",
+    "gn:country_code":"NP",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11603091,
+    "gn:latitude":26.63294,
+    "gn:longitude":87.81602,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"L\u0101jho\u1e0d\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "L\u0101jho\u1e0d\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11603091
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1b9a849d5be09339e361c608d17e305d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1259592965,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1259592965,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1259592965,
+    "wof:lastmodified":1537676121,
+    "wof:name":"Lajhoda",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.81602,
+    26.63294,
+    87.81602,
+    26.63294
+],
+  "geometry": {"coordinates":[87.81601999999999,26.63294],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276793151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.93313,28.84992,81.93313,28.84992",
+    "geom:latitude":28.84992,
+    "geom:longitude":81.93313,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"61.0",
+    "gn:admin4_code":"610004.0",
+    "gn:asciiname":"Lanta",
+    "gn:country_code":"NP",
+    "gn:dem":1983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7952847,
+    "gn:latitude":28.84992,
+    "gn:longitude":81.93313,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lanta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092048763,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7952847
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"40e5cae2c4a2c710e82ae66afb594c5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048763,
+            "locality_id":1276793151,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048763,
+            "locality_id":1276793151,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1276793151,
+    "wof:lastmodified":1536659997,
+    "wof:name":"Lanta",
+    "wof:parent_id":1092048763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.93313,
+    28.84992,
+    81.93313,
+    28.84992
+],
+  "geometry": {"coordinates":[81.93313000000001,28.84992],"type":"Point"}
+}

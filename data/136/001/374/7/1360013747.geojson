@@ -1,0 +1,78 @@
+{
+  "id": 1360013747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.08434,28.62122,81.08434,28.62122",
+    "geom:latitude":28.62122,
+    "geom:longitude":81.08434,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710034.0",
+    "gn:asciiname":"Mainadanda",
+    "gn:country_code":"NP",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7957386,
+    "gn:latitude":28.62122,
+    "gn:longitude":81.08434,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mainadanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7957386
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"27396468e77bbfaf3e4358bbbbac8fa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1360013747,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1360013747,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1360013747,
+    "wof:lastmodified":1537046739,
+    "wof:name":"Mainadanda",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.08434,
+    28.62122,
+    81.08434,
+    28.62122
+],
+  "geometry": {"coordinates":[81.08434,28.62122],"type":"Point"}
+}

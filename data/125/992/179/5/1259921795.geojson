@@ -1,0 +1,78 @@
+{
+  "id": 1259921795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.57999,27.11473,86.57999,27.11473",
+    "geom:latitude":27.11473,
+    "geom:longitude":86.57999,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140040.0",
+    "gn:asciiname":"Rigeli",
+    "gn:country_code":"NP",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007719,
+    "gn:latitude":27.11473,
+    "gn:longitude":86.57999,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Rigeli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050179,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007719
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f3d9ecc46e0ae09309063b1d29bee844",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1259921795,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1259921795,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1259921795,
+    "wof:lastmodified":1536724377,
+    "wof:name":"Rigeli",
+    "wof:parent_id":1092050179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.57999000000002,
+    27.11473,
+    86.57999000000002,
+    27.11473
+],
+  "geometry": {"coordinates":[86.57999000000002,27.11473],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1225792923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.7427,27.48412,83.7427,27.48412",
+    "geom:latitude":27.48412,
+    "geom:longitude":83.7427,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"48",
+    "gn:admin4_code":"480028",
+    "gn:asciiname":"Majhauni",
+    "gn:country_code":"NP",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7973019,
+    "gn:latitude":27.48412,
+    "gn:longitude":83.7427,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Majhauni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050413,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7973019
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ae200292b25335357a31dcb6ddd08835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050413,
+            "locality_id":1225792923,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050413,
+            "locality_id":1225792923,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1225792923,
+    "wof:lastmodified":1537086723,
+    "wof:name":"Majhauni",
+    "wof:parent_id":1092050413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.7427,
+    27.48412,
+    83.7427,
+    27.48412
+],
+  "geometry": {"coordinates":[83.7427,27.48412],"type":"Point"}
+}

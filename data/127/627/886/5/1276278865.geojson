@@ -1,0 +1,78 @@
+{
+  "id": 1276278865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.06318,26.70704,86.06318,26.70704",
+    "geom:latitude":26.70704,
+    "geom:longitude":86.06318,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"17.0",
+    "gn:admin4_code":"170003.0",
+    "gn:asciiname":"Baphai",
+    "gn:country_code":"NP",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7943519,
+    "gn:latitude":26.70704,
+    "gn:longitude":86.06318,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Baphai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092048127,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7943519
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c9f2c48ae3a487c8e59aa3341ab7f4fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048127,
+            "locality_id":1276278865,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048127,
+            "locality_id":1276278865,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1276278865,
+    "wof:lastmodified":1536850636,
+    "wof:name":"Baphai",
+    "wof:parent_id":1092048127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.06318,
+    26.70704000000001,
+    86.06318,
+    26.70704000000001
+],
+  "geometry": {"coordinates":[86.06318,26.70704000000001],"type":"Point"}
+}

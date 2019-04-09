@@ -1,0 +1,78 @@
+{
+  "id": 1226270765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.45354,28.21185,82.45354,28.21185",
+    "geom:latitude":28.21185,
+    "geom:longitude":82.45354,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530022",
+    "gn:asciiname":"Bandre",
+    "gn:country_code":"NP",
+    "gn:dem":1372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7983692,
+    "gn:latitude":28.21185,
+    "gn:longitude":82.45354,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bandre",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7983692
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"400e2d5def22ca58cdf47406ffa8cd8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1226270765,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1226270765,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1226270765,
+    "wof:lastmodified":1536897572,
+    "wof:name":"Bandre",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.45354,
+    28.21185,
+    82.45354,
+    28.21185
+],
+  "geometry": {"coordinates":[82.45354,28.21185],"type":"Point"}
+}

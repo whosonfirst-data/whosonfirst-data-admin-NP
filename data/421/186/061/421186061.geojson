@@ -1,0 +1,84 @@
+{
+  "id": 421186061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.04332,27.56962,85.04332,27.56962",
+    "geom:latitude":27.56962,
+    "geom:longitude":85.04332,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"NP",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1283069,
+    "qs:gn_pop":0,
+    "qs:name":"Manhari",
+    "qs:name_adm0":"Nepal",
+    "qs:name_adm1":"Madhyamanchal",
+    "qs:photos":63,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":63,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":908701,
+    "qs:woe_adm0":23424911,
+    "qs:woe_id":2268706,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283069,
+        "gp:id":2268706,
+        "qs:id":908701
+    },
+    "wof:country":"NP",
+    "wof:created":1459009463,
+    "wof:geomhash":"dfd99965c637df6ffa0d1698f90813b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":421186061,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":421186061,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":421186061,
+    "wof:lastmodified":1500058091,
+    "wof:name":"Manhari",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.04332,
+    27.56962,
+    85.04332,
+    27.56962
+],
+  "geometry": {"coordinates":[85.04331999999999,27.56962],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1327282213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.01713,27.45272,86.01713,27.45272",
+    "geom:latitude":27.45272,
+    "geom:longitude":86.01713,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"21",
+    "gn:admin4_code":"210043",
+    "gn:asciiname":"Pindalubari",
+    "gn:country_code":"NP",
+    "gn:dem":1359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7981835,
+    "gn:latitude":27.45272,
+    "gn:longitude":86.01713,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pindalubari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049711,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7981835
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"825064b88d510948669e6fcc6e30d710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1327282213,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1327282213,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1327282213,
+    "wof:lastmodified":1536897715,
+    "wof:name":"Pindalubari",
+    "wof:parent_id":1092049711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.01713000000002,
+    27.45272000000001,
+    86.01713000000002,
+    27.45272000000001
+],
+  "geometry": {"coordinates":[86.01713000000002,27.45272000000001],"type":"Point"}
+}

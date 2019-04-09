@@ -1,0 +1,78 @@
+{
+  "id": 1343599253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.64291,26.99244,87.64291,26.99244",
+    "geom:latitude":26.99244,
+    "geom:longitude":87.64291,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"2",
+    "gn:admin4_code":"20034",
+    "gn:asciiname":"Ewa",
+    "gn:country_code":"NP",
+    "gn:dem":1286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7977965,
+    "gn:latitude":26.99244,
+    "gn:longitude":87.64291,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7977965
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"039583cf8f97bef3aef3fdea68b90132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1343599253,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1343599253,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1343599253,
+    "wof:lastmodified":1537041549,
+    "wof:name":"Ewa",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.64291,
+    26.99244,
+    87.64291,
+    26.99244
+],
+  "geometry": {"coordinates":[87.64291,26.99244],"type":"Point"}
+}

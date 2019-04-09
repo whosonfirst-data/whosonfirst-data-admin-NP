@@ -1,0 +1,78 @@
+{
+  "id": 1310231243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.02833,28.43273,82.02833,28.43273",
+    "geom:latitude":28.43273,
+    "geom:longitude":82.02833,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550028",
+    "gn:asciiname":"Imile",
+    "gn:country_code":"NP",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7989065,
+    "gn:latitude":28.43273,
+    "gn:longitude":82.02833,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Imile",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049579,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7989065
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2dfd3658ec9a5a18f6e4eae24af1d285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1310231243,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1310231243,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1310231243,
+    "wof:lastmodified":1536814519,
+    "wof:name":"Imile",
+    "wof:parent_id":1092049579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.02833000000003,
+    28.43273,
+    82.02833000000003,
+    28.43273
+],
+  "geometry": {"coordinates":[82.02833000000003,28.43273],"type":"Point"}
+}

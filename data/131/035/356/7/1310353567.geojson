@@ -1,0 +1,78 @@
+{
+  "id": 1310353567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.79418,27.37764,85.79418,27.37764",
+    "geom:latitude":27.37764,
+    "geom:longitude":85.79418,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200050",
+    "gn:asciiname":"Jyamirdanda",
+    "gn:country_code":"NP",
+    "gn:dem":1785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7994142,
+    "gn:latitude":27.37764,
+    "gn:longitude":85.79418,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jyamirdanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049679,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7994142
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"754536eef6ae6033588205c66d13bd06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1310353567,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1310353567,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1310353567,
+    "wof:lastmodified":1536637661,
+    "wof:name":"Jyamirdanda",
+    "wof:parent_id":1092049679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.79418000000003,
+    27.37764,
+    85.79418000000003,
+    27.37764
+],
+  "geometry": {"coordinates":[85.79418000000003,27.37764],"type":"Point"}
+}

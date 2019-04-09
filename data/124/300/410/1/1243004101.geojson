@@ -1,0 +1,78 @@
+{
+  "id": 1243004101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.73795,28.17657,82.73795,28.17657",
+    "geom:latitude":28.17657,
+    "geom:longitude":82.73795,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"52",
+    "gn:admin4_code":"520006",
+    "gn:asciiname":"Tapakot",
+    "gn:country_code":"NP",
+    "gn:dem":1444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7979832,
+    "gn:latitude":28.17657,
+    "gn:longitude":82.73795,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tapakot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049377,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7979832
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"80e54db3e8bc9f950348dcdd748308c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1243004101,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1243004101,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1243004101,
+    "wof:lastmodified":1536946733,
+    "wof:name":"Tapakot",
+    "wof:parent_id":1092049377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.73795,
+    28.17657,
+    82.73795,
+    28.17657
+],
+  "geometry": {"coordinates":[82.73795,28.17657],"type":"Point"}
+}

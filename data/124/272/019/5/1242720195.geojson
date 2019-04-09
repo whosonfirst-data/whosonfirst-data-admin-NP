@@ -1,0 +1,78 @@
+{
+  "id": 1242720195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.29161,26.83552,85.29161,26.83552",
+    "geom:latitude":26.83552,
+    "geom:longitude":85.29161,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"32",
+    "gn:admin4_code":"320092",
+    "gn:asciiname":"Nayatola",
+    "gn:country_code":"NP",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7982813,
+    "gn:latitude":26.83552,
+    "gn:longitude":85.29161,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nayatola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049419,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7982813
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ffd405515e3db68d83b9cccfb0734b45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1242720195,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1242720195,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1242720195,
+    "wof:lastmodified":1536857198,
+    "wof:name":"Nayatola",
+    "wof:parent_id":1092049419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.29160999999998,
+    26.83552,
+    85.29160999999998,
+    26.83552
+],
+  "geometry": {"coordinates":[85.29160999999998,26.83552],"type":"Point"}
+}

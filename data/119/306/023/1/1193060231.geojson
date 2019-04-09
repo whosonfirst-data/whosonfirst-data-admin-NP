@@ -1,0 +1,78 @@
+{
+  "id": 1193060231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.16358,27.4664,87.16358,27.4664",
+    "geom:latitude":27.4664,
+    "geom:longitude":87.16358,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"9",
+    "gn:admin4_code":"90009",
+    "gn:asciiname":"Bardeu",
+    "gn:country_code":"NP",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7990008,
+    "gn:latitude":27.4664,
+    "gn:longitude":87.16358,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bardeu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049597,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7990008
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4726ff207c7f9657057448d2002687dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1193060231,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1193060231,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1193060231,
+    "wof:lastmodified":1536378567,
+    "wof:name":"Bardeu",
+    "wof:parent_id":1092049597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.16358000000002,
+    27.4664,
+    87.16358000000002,
+    27.4664
+],
+  "geometry": {"coordinates":[87.16358000000002,27.4664],"type":"Point"}
+}

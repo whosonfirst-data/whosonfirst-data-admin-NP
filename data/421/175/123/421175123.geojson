@@ -1,0 +1,89 @@
+{
+  "id": 421175123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.29553,27.71983,85.29553,27.71983",
+    "geom:latitude":27.71983,
+    "geom:longitude":85.29553,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:rus_x_preferred":[
+        "\u0421\u0432\u0430\u044f\u043c\u0431\u0445\u0443"
+    ],
+    "qs:gn_country":"NP",
+    "qs:gn_fcode":"PPLL",
+    "qs:gn_id":7962180,
+    "qs:gn_pop":0,
+    "qs:name":"Swayambhu",
+    "qs:name_adm0":"Nepal",
+    "qs:name_adm1":"Madhyamanchal",
+    "qs:photos":4997,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4997,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":352825,
+    "qs:woe_adm0":23424911,
+    "qs:woe_id":22662750,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":96,
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092048931,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7962180,
+        "gp:id":22662750,
+        "qs:id":352825,
+        "wd:id":"Q4410016"
+    },
+    "wof:country":"NP",
+    "wof:created":1459009056,
+    "wof:geomhash":"a9dad3cf6b55259ce6f4300936878809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":421175123,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":421175123,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":421175123,
+    "wof:lastmodified":1527716345,
+    "wof:name":"Swayambhu",
+    "wof:parent_id":1092048931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.29553,
+    27.71983,
+    85.29553,
+    27.71983
+],
+  "geometry": {"coordinates":[85.29553,27.71983],"type":"Point"}
+}

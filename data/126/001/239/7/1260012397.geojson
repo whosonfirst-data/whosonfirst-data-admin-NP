@@ -1,0 +1,78 @@
+{
+  "id": 1260012397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.83112,29.04121,80.83112,29.04121",
+    "geom:latitude":29.04121,
+    "geom:longitude":80.83112,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"70.0",
+    "gn:admin4_code":"700003.0",
+    "gn:asciiname":"Bhatdan",
+    "gn:country_code":"NP",
+    "gn:dem":1298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7945921,
+    "gn:latitude":29.04121,
+    "gn:longitude":80.83112,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhatdan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048653,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7945921
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1656e25d08d4d48546c928f0e06ae879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1260012397,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1260012397,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1260012397,
+    "wof:lastmodified":1537087152,
+    "wof:name":"Bhatdan",
+    "wof:parent_id":1092048653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.83112,
+    29.04121,
+    80.83112,
+    29.04121
+],
+  "geometry": {"coordinates":[80.83112,29.04121],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1259631523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.67399,27.79245,85.67399,27.79245",
+    "geom:latitude":27.79245,
+    "geom:longitude":85.67399,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"23",
+    "gn:admin4_code":"230040",
+    "gn:asciiname":"Pokhare",
+    "gn:country_code":"NP",
+    "gn:dem":969,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7994961,
+    "gn:latitude":27.79245,
+    "gn:longitude":85.67399,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pokhare",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7994961
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f413a40832f8a85f464e4c272f62cd44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1259631523,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1259631523,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1259631523,
+    "wof:lastmodified":1536644994,
+    "wof:name":"Pokhare",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.67399,
+    27.79245,
+    85.67399,
+    27.79245
+],
+  "geometry": {"coordinates":[85.67399,27.79245],"type":"Point"}
+}

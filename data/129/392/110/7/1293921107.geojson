@@ -1,0 +1,78 @@
+{
+  "id": 1293921107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.71231,28.18845,83.71231,28.18845",
+    "geom:latitude":28.18845,
+    "geom:longitude":83.71231,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"44",
+    "gn:admin4_code":"440047",
+    "gn:asciiname":"karkithar",
+    "gn:country_code":"NP",
+    "gn:dem":981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7978994,
+    "gn:latitude":28.18845,
+    "gn:longitude":83.71231,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"karkithar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049297,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7978994
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"932f194a44e485cab2a8866a812668be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049297,
+            "locality_id":1293921107,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049297,
+            "locality_id":1293921107,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1293921107,
+    "wof:lastmodified":1536659097,
+    "wof:name":"karkithar",
+    "wof:parent_id":1092049297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.71231,
+    28.18845,
+    83.71231,
+    28.18845
+],
+  "geometry": {"coordinates":[83.71231,28.18845],"type":"Point"}
+}

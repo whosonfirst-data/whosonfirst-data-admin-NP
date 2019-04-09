@@ -1,0 +1,79 @@
+{
+  "id": 1242614973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.19281,27.98734,84.19281,27.98734",
+    "geom:latitude":27.98734,
+    "geom:longitude":84.19281,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380024.0",
+    "gn:asciiname":"Jamune Bhanjyang",
+    "gn:country_code":"NP",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003708,
+    "gn:latitude":27.98734,
+    "gn:longitude":84.19281,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jamune Bhanjyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003708,
+        "wk:page":"Jamune_Bhanjyang"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"873265511a0db0f469d78e76d52af768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1242614973,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1242614973,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1242614973,
+    "wof:lastmodified":1537570157,
+    "wof:name":"Jamune Bhanjyang",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.19281,
+    27.98734,
+    84.19281,
+    27.98734
+],
+  "geometry": {"coordinates":[84.19280999999999,27.98734],"type":"Point"}
+}

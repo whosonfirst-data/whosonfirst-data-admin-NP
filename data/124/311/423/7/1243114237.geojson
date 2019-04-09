@@ -1,0 +1,78 @@
+{
+  "id": 1243114237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.58608,27.49662,85.58608,27.49662",
+    "geom:latitude":27.49662,
+    "geom:longitude":85.58608,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240042.0",
+    "gn:asciiname":"Puranagaun",
+    "gn:country_code":"NP",
+    "gn:dem":1603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7963212,
+    "gn:latitude":27.49662,
+    "gn:longitude":85.58608,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Puranagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7963212
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a6bba166cef495ffb01f205add61a9fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1243114237,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1243114237,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1243114237,
+    "wof:lastmodified":1536787982,
+    "wof:name":"Puranagaun",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.58608000000002,
+    27.49662,
+    85.58608000000002,
+    27.49662
+],
+  "geometry": {"coordinates":[85.58608000000002,27.49662],"type":"Point"}
+}

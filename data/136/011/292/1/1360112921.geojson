@@ -1,0 +1,78 @@
+{
+  "id": 1360112921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.94335,28.37699,82.94335,28.37699",
+    "geom:latitude":28.37699,
+    "geom:longitude":82.94335,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530010",
+    "gn:asciiname":"Charipani Kharka",
+    "gn:country_code":"NP",
+    "gn:dem":2935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7983276,
+    "gn:latitude":28.37699,
+    "gn:longitude":82.94335,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Charipani Kharka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7983276
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ae1e8f4d7f9dba4a2d1f6ed4767b9d90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1360112921,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1360112921,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1360112921,
+    "wof:lastmodified":1536905762,
+    "wof:name":"Charipani Kharka",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.94335,
+    28.37699000000001,
+    82.94335,
+    28.37699000000001
+],
+  "geometry": {"coordinates":[82.94335,28.37699000000001],"type":"Point"}
+}

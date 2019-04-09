@@ -1,0 +1,64 @@
+{
+  "id": 1209543875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.7734,29.17555,81.7734,29.17555",
+    "geom:latitude":29.17555,
+    "geom:longitude":81.7734,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"64.0",
+    "gn:admin4_code":"640002.0",
+    "gn:asciiname":"Jhaje",
+    "gn:country_code":"NP",
+    "gn:dem":3047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7957966,
+    "gn:latitude":29.17555,
+    "gn:longitude":81.7734,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jhaje",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7957966
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"aaf864f7c3b0dfd27d96e954cd2dfb4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209543875
+        }
+    ],
+    "wof:id":1209543875,
+    "wof:lastmodified":1536283904,
+    "wof:name":"Jhaje",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.7734,
+    29.17555,
+    81.7734,
+    29.17555
+],
+  "geometry": {"coordinates":[81.7734,29.17555],"type":"Point"}
+}

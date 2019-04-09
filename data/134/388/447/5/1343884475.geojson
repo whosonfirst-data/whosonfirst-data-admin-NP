@@ -1,0 +1,78 @@
+{
+  "id": 1343884475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.55532,29.12946,82.55532,29.12946",
+    "geom:latitude":29.12946,
+    "geom:longitude":82.55532,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"62.0",
+    "gn:admin4_code":"620017.0",
+    "gn:asciiname":"Sim",
+    "gn:country_code":"NP",
+    "gn:dem":2960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7945627,
+    "gn:latitude":29.12946,
+    "gn:longitude":82.55532,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050349,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7945627
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ee86659e7133588a870d7518e92d8bd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1343884475,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1343884475,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1343884475,
+    "wof:lastmodified":1536630445,
+    "wof:name":"Sim",
+    "wof:parent_id":1092050349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.55532,
+    29.12946,
+    82.55532,
+    29.12946
+],
+  "geometry": {"coordinates":[82.55531999999999,29.12946],"type":"Point"}
+}

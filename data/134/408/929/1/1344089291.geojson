@@ -1,0 +1,78 @@
+{
+  "id": 1344089291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.31825,29.14028,80.31825,29.14028",
+    "geom:latitude":29.14028,
+    "geom:longitude":80.31825,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"73.0",
+    "gn:admin4_code":"730013.0",
+    "gn:asciiname":"Patrani",
+    "gn:country_code":"NP",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7936115,
+    "gn:latitude":29.14028,
+    "gn:longitude":80.31825,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Patrani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675567,
+        1092048697,
+        1108807135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7936115
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"083db2f8bd840a5f6de514adc6c2a5d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048697,
+            "locality_id":1344089291,
+            "region_id":85675567
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048697,
+            "locality_id":1344089291,
+            "region_id":1108807135
+        }
+    ],
+    "wof:id":1344089291,
+    "wof:lastmodified":1536833062,
+    "wof:name":"Patrani",
+    "wof:parent_id":1092048697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.31825,
+    29.14028,
+    80.31825,
+    29.14028
+],
+  "geometry": {"coordinates":[80.31825000000001,29.14028],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1243495837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.91432,28.25036,83.91432,28.25036",
+    "geom:latitude":28.25036,
+    "geom:longitude":83.91432,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400018.0",
+    "gn:asciiname":"Ukhari",
+    "gn:country_code":"NP",
+    "gn:dem":936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7960750,
+    "gn:latitude":28.25036,
+    "gn:longitude":83.91432,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ukhari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092049331,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7960750
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bbc6edcb7c8845fa972cfe0e9ce82829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1243495837,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1243495837,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1243495837,
+    "wof:lastmodified":1536734500,
+    "wof:name":"Ukhari",
+    "wof:parent_id":1092049331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.91431999999998,
+    28.25036,
+    83.91431999999998,
+    28.25036
+],
+  "geometry": {"coordinates":[83.91431999999998,28.25036],"type":"Point"}
+}

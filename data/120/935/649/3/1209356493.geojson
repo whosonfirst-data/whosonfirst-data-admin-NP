@@ -1,0 +1,64 @@
+{
+  "id": 1209356493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.13864,27.30911,87.13864,27.30911",
+    "geom:latitude":27.30911,
+    "geom:longitude":87.13864,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100050.0",
+    "gn:asciiname":"Bhanjyang",
+    "gn:country_code":"NP",
+    "gn:dem":1244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933767,
+    "gn:latitude":27.30911,
+    "gn:longitude":87.13864,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhanjyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933767
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ce44d0e5295244ef8c42a036d4fd1a62",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209356493
+        }
+    ],
+    "wof:id":1209356493,
+    "wof:lastmodified":1536289569,
+    "wof:name":"Bhanjyang",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.13864000000002,
+    27.30911,
+    87.13864000000002,
+    27.30911
+],
+  "geometry": {"coordinates":[87.13864000000002,27.30911],"type":"Point"}
+}

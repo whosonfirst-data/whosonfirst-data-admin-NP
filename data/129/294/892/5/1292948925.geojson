@@ -1,0 +1,78 @@
+{
+  "id": 1292948925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.99586,28.03285,83.99586,28.03285",
+    "geom:latitude":28.03285,
+    "geom:longitude":83.99586,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390017.0",
+    "gn:asciiname":"Alaiche",
+    "gn:country_code":"NP",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8000966,
+    "gn:latitude":28.03285,
+    "gn:longitude":83.99586,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Alaiche",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8000966
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7f0d3eb770e29d24145e7fec908009c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1292948925,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1292948925,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1292948925,
+    "wof:lastmodified":1537063585,
+    "wof:name":"Alaiche",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.99586,
+    28.03285,
+    83.99586,
+    28.03285
+],
+  "geometry": {"coordinates":[83.99585999999999,28.03285],"type":"Point"}
+}

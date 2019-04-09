@@ -1,0 +1,78 @@
+{
+  "id": 1193179099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.87732,27.07892,86.87732,27.07892",
+    "geom:latitude":27.07892,
+    "geom:longitude":86.87732,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"13",
+    "gn:admin4_code":"130074",
+    "gn:asciiname":"Bagpachyang",
+    "gn:country_code":"NP",
+    "gn:dem":1820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7965318,
+    "gn:latitude":27.07892,
+    "gn:longitude":86.87732,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bagpachyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050841,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7965318
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cc584b565273e76cd54f05986e8e7340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1193179099,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1193179099,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1193179099,
+    "wof:lastmodified":1536372157,
+    "wof:name":"Bagpachyang",
+    "wof:parent_id":1092050841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.87732,
+    27.07892,
+    86.87732,
+    27.07892
+],
+  "geometry": {"coordinates":[86.87732,27.07892],"type":"Point"}
+}

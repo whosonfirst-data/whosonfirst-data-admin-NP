@@ -1,0 +1,78 @@
+{
+  "id": 1225786771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.3203,27.83067,84.3203,27.83067",
+    "geom:latitude":27.83067,
+    "geom:longitude":84.3203,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380003.0",
+    "gn:asciiname":"Jaram",
+    "gn:country_code":"NP",
+    "gn:dem":749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002732,
+    "gn:latitude":27.83067,
+    "gn:longitude":84.3203,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jaram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002732
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a6d851c82602e21c8ae1f66c3cc7a9fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1225786771,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1225786771,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1225786771,
+    "wof:lastmodified":1537095492,
+    "wof:name":"Jaram",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.3203,
+    27.83067,
+    84.3203,
+    27.83067
+],
+  "geometry": {"coordinates":[84.3203,27.83067],"type":"Point"}
+}

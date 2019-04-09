@@ -1,0 +1,78 @@
+{
+  "id": 1327375835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.03599,26.74823,88.03599,26.74823",
+    "geom:latitude":26.74823,
+    "geom:longitude":88.03599,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40008.0",
+    "gn:asciiname":"Hokse",
+    "gn:country_code":"NP",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7954048,
+    "gn:latitude":26.74823,
+    "gn:longitude":88.03599,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Hokse",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7954048
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7fe6983db5abefe6ffdb6c59f46efecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1327375835,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1327375835,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1327375835,
+    "wof:lastmodified":1536762775,
+    "wof:name":"Hokse",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.03599,
+    26.74823,
+    88.03599,
+    26.74823
+],
+  "geometry": {"coordinates":[88.03599,26.74823],"type":"Point"}
+}

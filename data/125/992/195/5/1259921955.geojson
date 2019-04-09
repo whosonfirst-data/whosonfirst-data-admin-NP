@@ -1,0 +1,78 @@
+{
+  "id": 1259921955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.61114,27.09159,85.61114,27.09159",
+    "geom:latitude":27.09159,
+    "geom:longitude":85.61114,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"19",
+    "gn:admin4_code":"190090",
+    "gn:asciiname":"Manetol",
+    "gn:country_code":"NP",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7992231,
+    "gn:latitude":27.09159,
+    "gn:longitude":85.61114,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Manetol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092049639,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7992231
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ec1e2abc4426a53b8f0d0cdfdd152df5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049639,
+            "locality_id":1259921955,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049639,
+            "locality_id":1259921955,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1259921955,
+    "wof:lastmodified":1536724168,
+    "wof:name":"Manetol",
+    "wof:parent_id":1092049639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.61114,
+    27.09159,
+    85.61114,
+    27.09159
+],
+  "geometry": {"coordinates":[85.61114000000001,27.09159],"type":"Point"}
+}

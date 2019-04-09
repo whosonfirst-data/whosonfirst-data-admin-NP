@@ -1,0 +1,78 @@
+{
+  "id": 1243496143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.13597,27.20274,87.13597,27.20274",
+    "geom:latitude":27.20274,
+    "geom:longitude":87.13597,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100048.0",
+    "gn:asciiname":"Thotne",
+    "gn:country_code":"NP",
+    "gn:dem":1695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933720,
+    "gn:latitude":27.20274,
+    "gn:longitude":87.13597,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thotne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933720
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"18d42f9e521f0568188ca362510da9c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1243496143,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1243496143,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1243496143,
+    "wof:lastmodified":1536734122,
+    "wof:name":"Thotne",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.13597,
+    27.20274,
+    87.13597,
+    27.20274
+],
+  "geometry": {"coordinates":[87.13597,27.20274],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310529743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.38623,29.08704,81.38623,29.08704",
+    "geom:latitude":29.08704,
+    "geom:longitude":81.38623,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"69.0",
+    "gn:admin4_code":"690041.0",
+    "gn:asciiname":"Bhukresain",
+    "gn:country_code":"NP",
+    "gn:dem":1198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002956,
+    "gn:latitude":29.08704,
+    "gn:longitude":81.38623,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhukresain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048527,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002956
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d3b4ccce0aba487b52427c4600a5d289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1310529743,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1310529743,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1310529743,
+    "wof:lastmodified":1536881329,
+    "wof:name":"Bhukresain",
+    "wof:parent_id":1092048527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.38623,
+    29.08704,
+    81.38623,
+    29.08704
+],
+  "geometry": {"coordinates":[81.38623,29.08704],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1360226607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.77853,27.06903,87.77853,27.06903",
+    "geom:latitude":27.06903,
+    "geom:longitude":87.77853,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"2",
+    "gn:admin4_code":"20011",
+    "gn:asciiname":"Sunargaun",
+    "gn:country_code":"NP",
+    "gn:dem":2428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7977363,
+    "gn:latitude":27.06903,
+    "gn:longitude":87.77853,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sunargaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7977363
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"79180768c98f278e8de21ef7967646b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1360226607,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1360226607,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1360226607,
+    "wof:lastmodified":1536741291,
+    "wof:name":"Sunargaun",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.77853,
+    27.06903,
+    87.77853,
+    27.06903
+],
+  "geometry": {"coordinates":[87.77853,27.06903],"type":"Point"}
+}

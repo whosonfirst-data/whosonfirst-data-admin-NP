@@ -1,0 +1,78 @@
+{
+  "id": 1193074629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.25364,26.57121,87.25364,26.57121",
+    "geom:latitude":26.57121,
+    "geom:longitude":87.25364,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"6.0",
+    "gn:admin4_code":"60048.0",
+    "gn:asciiname":"Dumraha",
+    "gn:country_code":"NP",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7998341,
+    "gn:latitude":26.57121,
+    "gn:longitude":87.25364,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dumraha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049923,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7998341
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"71c1554f47b4e98677187038bf67d4c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1193074629,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1193074629,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1193074629,
+    "wof:lastmodified":1536365140,
+    "wof:name":"Dumraha",
+    "wof:parent_id":1092049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.25364,
+    26.57121,
+    87.25364,
+    26.57121
+],
+  "geometry": {"coordinates":[87.25364,26.57121],"type":"Point"}
+}

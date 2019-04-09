@@ -1,0 +1,78 @@
+{
+  "id": 1259531817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.43134,27.72104,85.43134,27.72104",
+    "geom:latitude":27.72104,
+    "geom:longitude":85.43134,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1.0",
+    "gn:admin3_code":"26.0",
+    "gn:admin4_code":"260004.0",
+    "gn:asciiname":"Kapahiti",
+    "gn:country_code":"NP",
+    "gn:dem":1401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8010133,
+    "gn:latitude":27.72104,
+    "gn:longitude":85.43134,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kapahiti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048853,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8010133
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"001f5f13dd2147dd76804588423dcfad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048853,
+            "locality_id":1259531817,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048853,
+            "locality_id":1259531817,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1259531817,
+    "wof:lastmodified":1536789822,
+    "wof:name":"Kapahiti",
+    "wof:parent_id":1092048853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.43134,
+    27.72104,
+    85.43134,
+    27.72104
+],
+  "geometry": {"coordinates":[85.43134000000001,27.72104],"type":"Point"}
+}

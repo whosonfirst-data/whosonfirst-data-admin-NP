@@ -1,0 +1,78 @@
+{
+  "id": 1293437679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.44114,27.8664,83.44114,27.8664",
+    "geom:latitude":27.8664,
+    "geom:longitude":83.44114,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"47",
+    "gn:admin4_code":"470043.0",
+    "gn:asciiname":"Durlam Guthi",
+    "gn:country_code":"NP",
+    "gn:dem":1204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7976629,
+    "gn:latitude":27.8664,
+    "gn:longitude":83.44114,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Durlam Guthi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050889,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7976629
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6a5ca7976ba8944f94f462654cbf22b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1293437679,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1293437679,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1293437679,
+    "wof:lastmodified":1536857653,
+    "wof:name":"Durlam Guthi",
+    "wof:parent_id":1092050889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.44114,
+    27.8664,
+    83.44114,
+    27.8664
+],
+  "geometry": {"coordinates":[83.44114,27.8664],"type":"Point"}
+}

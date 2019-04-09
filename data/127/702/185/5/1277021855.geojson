@@ -1,0 +1,78 @@
+{
+  "id": 1277021855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.91968,27.36602,87.91968,27.36602",
+    "geom:latitude":27.36602,
+    "geom:longitude":87.91968,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10042.0",
+    "gn:asciiname":"Talkharka",
+    "gn:country_code":"NP",
+    "gn:dem":1783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005678,
+    "gn:latitude":27.36602,
+    "gn:longitude":87.91968,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Talkharka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005678
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"03e91522d568e910f3745d5d76b42159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1277021855,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1277021855,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1277021855,
+    "wof:lastmodified":1536849652,
+    "wof:name":"Talkharka",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.91968,
+    27.36602,
+    87.91968,
+    27.36602
+],
+  "geometry": {"coordinates":[87.91968,27.36602],"type":"Point"}
+}

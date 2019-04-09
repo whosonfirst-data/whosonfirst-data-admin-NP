@@ -1,0 +1,64 @@
+{
+  "id": 1209252593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.71063,26.9113,87.71063,26.9113",
+    "geom:latitude":26.9113,
+    "geom:longitude":87.71063,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30012.0",
+    "gn:asciiname":"Maithan",
+    "gn:country_code":"NP",
+    "gn:dem":1654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7951786,
+    "gn:latitude":26.9113,
+    "gn:longitude":87.71063,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Maithan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7951786
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fbb3aeeb26b6e7a1e7ecc6cfcd6a4519",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209252593
+        }
+    ],
+    "wof:id":1209252593,
+    "wof:lastmodified":1536292959,
+    "wof:name":"Maithan",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.71063000000002,
+    26.9113,
+    87.71063000000002,
+    26.9113
+],
+  "geometry": {"coordinates":[87.71063000000002,26.9113],"type":"Point"}
+}

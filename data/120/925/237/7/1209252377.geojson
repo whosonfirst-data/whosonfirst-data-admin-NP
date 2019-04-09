@@ -1,0 +1,64 @@
+{
+  "id": 1209252377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.11243,28.20243,84.11243,28.20243",
+    "geom:latitude":28.20243,
+    "geom:longitude":84.11243,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400026.0",
+    "gn:asciiname":"Thumadanda",
+    "gn:country_code":"NP",
+    "gn:dem":1023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7961161,
+    "gn:latitude":28.20243,
+    "gn:longitude":84.11243,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thumadanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7961161
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"54afb0c10c9bebacf1c96da74f767de9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209252377
+        }
+    ],
+    "wof:id":1209252377,
+    "wof:lastmodified":1536292964,
+    "wof:name":"Thumadanda",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.11243,
+    28.20243,
+    84.11243,
+    28.20243
+],
+  "geometry": {"coordinates":[84.11243,28.20243],"type":"Point"}
+}

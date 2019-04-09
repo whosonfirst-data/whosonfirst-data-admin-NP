@@ -1,0 +1,78 @@
+{
+  "id": 1326656329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.47161,29.54034,80.47161,29.54034",
+    "geom:latitude":29.54034,
+    "geom:longitude":80.47161,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740011",
+    "gn:asciiname":"Bhandarigaun",
+    "gn:country_code":"NP",
+    "gn:dem":1711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7969708,
+    "gn:latitude":29.54034,
+    "gn:longitude":80.47161,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhandarigaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050255,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7969708
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b55a22b3b8f6f664b6fccdb072bb32ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1326656329,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1326656329,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1326656329,
+    "wof:lastmodified":1536805065,
+    "wof:name":"Bhandarigaun",
+    "wof:parent_id":1092050255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.47161,
+    29.54034,
+    80.47161,
+    29.54034
+],
+  "geometry": {"coordinates":[80.47161,29.54034],"type":"Point"}
+}

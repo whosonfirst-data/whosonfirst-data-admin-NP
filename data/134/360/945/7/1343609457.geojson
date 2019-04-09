@@ -1,0 +1,78 @@
+{
+  "id": 1343609457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.74262,27.52803,83.74262,27.52803",
+    "geom:latitude":27.52803,
+    "geom:longitude":83.74262,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"48",
+    "gn:admin4_code":"480039",
+    "gn:asciiname":"Jamuhanwan",
+    "gn:country_code":"NP",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7973127,
+    "gn:latitude":27.52803,
+    "gn:longitude":83.74262,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jamuhanwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050413,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7973127
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"69bc384c8d1b0d951bee8f739b50f2f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050413,
+            "locality_id":1343609457,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050413,
+            "locality_id":1343609457,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1343609457,
+    "wof:lastmodified":1537027457,
+    "wof:name":"Jamuhanwan",
+    "wof:parent_id":1092050413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.74262,
+    27.52803,
+    83.74262,
+    27.52803
+],
+  "geometry": {"coordinates":[83.74262,27.52803],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209362843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.0419,27.21743,87.0419,27.21743",
+    "geom:latitude":27.21743,
+    "geom:longitude":87.0419,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100011.0",
+    "gn:asciiname":"Pokhari",
+    "gn:country_code":"NP",
+    "gn:dem":1694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7932815,
+    "gn:latitude":27.21743,
+    "gn:longitude":87.0419,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pokhari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7932815
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"38f28b823137c24e531a5b0f0f72a8eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209362843
+        }
+    ],
+    "wof:id":1209362843,
+    "wof:lastmodified":1536289368,
+    "wof:name":"Pokhari",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.0419,
+    27.21743,
+    87.0419,
+    27.21743
+],
+  "geometry": {"coordinates":[87.0419,27.21743],"type":"Point"}
+}

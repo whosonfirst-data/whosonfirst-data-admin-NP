@@ -1,0 +1,78 @@
+{
+  "id": 1327382081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.45273,27.03723,87.45273,27.03723",
+    "geom:latitude":27.03723,
+    "geom:longitude":87.45273,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"8.0",
+    "gn:admin4_code":"80009.0",
+    "gn:asciiname":"Phayak",
+    "gn:country_code":"NP",
+    "gn:dem":1693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005978,
+    "gn:latitude":27.03723,
+    "gn:longitude":87.45273,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Phayak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050137,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005978
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"026f51ea486bf04e716e8186e0ba645c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050137,
+            "locality_id":1327382081,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050137,
+            "locality_id":1327382081,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1327382081,
+    "wof:lastmodified":1536753507,
+    "wof:name":"Phayak",
+    "wof:parent_id":1092050137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.45273,
+    27.03723,
+    87.45273,
+    27.03723
+],
+  "geometry": {"coordinates":[87.45273,27.03723],"type":"Point"}
+}

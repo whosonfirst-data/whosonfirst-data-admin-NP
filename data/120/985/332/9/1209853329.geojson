@@ -1,0 +1,78 @@
+{
+  "id": 1209853329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.94633,26.88046,87.94633,26.88046",
+    "geom:latitude":26.88046,
+    "geom:longitude":87.94633,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30013.0",
+    "gn:asciiname":"Silpur",
+    "gn:country_code":"NP",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7951811,
+    "gn:latitude":26.88046,
+    "gn:longitude":87.94633,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Silpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7951811
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0cc532a91f7abe0081c62543454d5ab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1209853329,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1209853329,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1209853329,
+    "wof:lastmodified":1536387416,
+    "wof:name":"Silpur",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.94633,
+    26.88046,
+    87.94633,
+    26.88046
+],
+  "geometry": {"coordinates":[87.94633,26.88046],"type":"Point"}
+}

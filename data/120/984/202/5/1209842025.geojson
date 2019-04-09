@@ -1,0 +1,78 @@
+{
+  "id": 1209842025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.24299,28.95371,80.24299,28.95371",
+    "geom:latitude":28.95371,
+    "geom:longitude":80.24299,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"72.0",
+    "gn:admin4_code":"720019.0",
+    "gn:asciiname":"Sisaiya Chok",
+    "gn:country_code":"NP",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7959135,
+    "gn:latitude":28.95371,
+    "gn:longitude":80.24299,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sisaiya Chok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048227,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7959135
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ea7127d388f90ba2a0d08e7e14f17202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1209842025,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1209842025,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1209842025,
+    "wof:lastmodified":1536392324,
+    "wof:name":"Sisaiya Chok",
+    "wof:parent_id":1092048227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.24299,
+    28.95371,
+    80.24299,
+    28.95371
+],
+  "geometry": {"coordinates":[80.24299000000001,28.95371],"type":"Point"}
+}

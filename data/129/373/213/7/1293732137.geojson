@@ -1,0 +1,78 @@
+{
+  "id": 1293732137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.61988,27.32272,87.61988,27.32272",
+    "geom:latitude":27.32272,
+    "geom:longitude":87.61988,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10010.0",
+    "gn:asciiname":"Chungwa",
+    "gn:country_code":"NP",
+    "gn:dem":1433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005136,
+    "gn:latitude":27.32272,
+    "gn:longitude":87.61988,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chungwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005136
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a7f5cac2e4b2365e2bd2706090470e9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1293732137,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1293732137,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1293732137,
+    "wof:lastmodified":1536932332,
+    "wof:name":"Chungwa",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.61988000000002,
+    27.32272,
+    87.61988000000002,
+    27.32272
+],
+  "geometry": {"coordinates":[87.61988000000002,27.32272],"type":"Point"}
+}

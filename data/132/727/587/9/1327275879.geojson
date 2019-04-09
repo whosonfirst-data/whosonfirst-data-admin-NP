@@ -1,0 +1,78 @@
+{
+  "id": 1327275879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.37555,26.73765,86.37555,26.73765",
+    "geom:latitude":26.73765,
+    "geom:longitude":86.37555,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"16",
+    "gn:admin4_code":"160035",
+    "gn:asciiname":"Tettisbigha",
+    "gn:country_code":"NP",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7995930,
+    "gn:latitude":26.73765,
+    "gn:longitude":86.37555,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tettisbigha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092050497,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7995930
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bff8335533c9b605219eed9f916d207d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050497,
+            "locality_id":1327275879,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050497,
+            "locality_id":1327275879,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1327275879,
+    "wof:lastmodified":1536907117,
+    "wof:name":"Tettisbigha",
+    "wof:parent_id":1092050497,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.37555,
+    26.73765,
+    86.37555,
+    26.73765
+],
+  "geometry": {"coordinates":[86.37555,26.73765],"type":"Point"}
+}

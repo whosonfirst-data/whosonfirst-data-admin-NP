@@ -1,0 +1,75 @@
+{
+  "id": 1309730029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.14947,27.92534,85.14947,27.92534",
+    "geom:latitude":27.92534,
+    "geom:longitude":85.14947,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ramghat",
+    "gn:country_code":"NP",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10317695,
+    "gn:latitude":27.92534,
+    "gn:longitude":85.14947,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"R\u0101mgh\u0101\u1e6d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10317695
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"860a5317c17985e640f2414add68adcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1309730029,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1309730029,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1309730029,
+    "wof:lastmodified":1537038658,
+    "wof:name":"Ramghat",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.14947,
+    27.92534,
+    85.14947,
+    27.92534
+],
+  "geometry": {"coordinates":[85.14946999999999,27.92534],"type":"Point"}
+}

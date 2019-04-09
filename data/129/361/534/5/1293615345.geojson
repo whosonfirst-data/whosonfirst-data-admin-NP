@@ -1,0 +1,78 @@
+{
+  "id": 1293615345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.06429,29.30699,81.06429,29.30699",
+    "geom:latitude":29.30699,
+    "geom:longitude":81.06429,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"70.0",
+    "gn:admin4_code":"700017.0",
+    "gn:asciiname":"Dhamithanta",
+    "gn:country_code":"NP",
+    "gn:dem":1688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7946597,
+    "gn:latitude":29.30699,
+    "gn:longitude":81.06429,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhamithanta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048653,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7946597
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9490fe680a7c4adbe15a1051a4d999ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1293615345,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1293615345,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1293615345,
+    "wof:lastmodified":1537096757,
+    "wof:name":"Dhamithanta",
+    "wof:parent_id":1092048653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.06429,
+    29.30699000000001,
+    81.06429,
+    29.30699000000001
+],
+  "geometry": {"coordinates":[81.06429,29.30699000000001],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1259731425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.31693,28.00326,84.31693,28.00326",
+    "geom:latitude":28.00326,
+    "geom:longitude":84.31693,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380023.0",
+    "gn:asciiname":"Bhakarithumka",
+    "gn:country_code":"NP",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003571,
+    "gn:latitude":28.00326,
+    "gn:longitude":84.31693,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhakarithumka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003571
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cb3c21c2f4691e9adfd07430f6e64925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1259731425,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1259731425,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1259731425,
+    "wof:lastmodified":1536997343,
+    "wof:name":"Bhakarithumka",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.31693,
+    28.00326,
+    84.31693,
+    28.00326
+],
+  "geometry": {"coordinates":[84.31693,28.00326],"type":"Point"}
+}

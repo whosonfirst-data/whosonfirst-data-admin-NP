@@ -1,0 +1,66 @@
+{
+  "id": 1259908037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.45345,29.79711,80.45345,29.79711",
+    "geom:latitude":29.79711,
+    "geom:longitude":80.45345,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"75.0",
+    "gn:admin4_code":"750009.0",
+    "gn:asciiname":"Dhaukot",
+    "gn:country_code":"NP",
+    "gn:dem":800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7940311,
+    "gn:latitude":29.79711,
+    "gn:longitude":80.45345,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhaukot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7940311
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"025c1c6283be4e46e0f8bd15ad02040d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1259908037,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259908037,
+    "wof:lastmodified":1536743617,
+    "wof:name":"Dhaukot",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.45345,
+    29.79711,
+    80.45345,
+    29.79711
+],
+  "geometry": {"coordinates":[80.45345,29.79711],"type":"Point"}
+}

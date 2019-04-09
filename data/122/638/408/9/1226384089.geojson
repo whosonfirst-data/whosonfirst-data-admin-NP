@@ -1,0 +1,78 @@
+{
+  "id": 1226384089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.08393,28.66065,84.08393,28.66065",
+    "geom:latitude":28.66065,
+    "geom:longitude":84.08393,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"41",
+    "gn:admin4_code":"410001",
+    "gn:asciiname":"Julu",
+    "gn:country_code":"NP",
+    "gn:dem":3602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7969428,
+    "gn:latitude":28.66065,
+    "gn:longitude":84.08393,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Julu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092049041,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7969428
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"369b0fd937f47b9ace4d4b0ed9a4d05c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049041,
+            "locality_id":1226384089,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049041,
+            "locality_id":1226384089,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1226384089,
+    "wof:lastmodified":1536734454,
+    "wof:name":"Julu",
+    "wof:parent_id":1092049041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.08393000000002,
+    28.66065,
+    84.08393000000002,
+    28.66065
+],
+  "geometry": {"coordinates":[84.08393000000002,28.66065],"type":"Point"}
+}

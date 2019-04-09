@@ -1,0 +1,78 @@
+{
+  "id": 1343603451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.1778,26.70073,86.1778,26.70073",
+    "geom:latitude":26.70073,
+    "geom:longitude":86.1778,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"17.0",
+    "gn:admin4_code":"170089.0",
+    "gn:asciiname":"Madan Pokharitol",
+    "gn:country_code":"NP",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7944080,
+    "gn:latitude":26.70073,
+    "gn:longitude":86.1778,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Madan Pokharitol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092048127,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7944080
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"71068e61431c65c97545bb5e28d6808a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048127,
+            "locality_id":1343603451,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048127,
+            "locality_id":1343603451,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1343603451,
+    "wof:lastmodified":1537035762,
+    "wof:name":"Madan Pokharitol",
+    "wof:parent_id":1092048127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.1778,
+    26.70073,
+    86.1778,
+    26.70073
+],
+  "geometry": {"coordinates":[86.1778,26.70073],"type":"Point"}
+}

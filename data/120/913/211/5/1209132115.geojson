@@ -1,0 +1,64 @@
+{
+  "id": 1209132115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.6295,29.48864,81.6295,29.48864",
+    "geom:latitude":29.48864,
+    "geom:longitude":81.6295,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"67.0",
+    "gn:admin4_code":"670024.0",
+    "gn:asciiname":"Sasta",
+    "gn:country_code":"NP",
+    "gn:dem":1674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8004663,
+    "gn:latitude":29.48864,
+    "gn:longitude":81.6295,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sasta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8004663
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"27bba17b48cf258f077dfbfe79e3d68e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209132115
+        }
+    ],
+    "wof:id":1209132115,
+    "wof:lastmodified":1536296775,
+    "wof:name":"Sasta",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.6295,
+    29.488640000000004,
+    81.6295,
+    29.488640000000004
+],
+  "geometry": {"coordinates":[81.62949999999999,29.48864],"type":"Point"}
+}

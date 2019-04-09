@@ -1,0 +1,102 @@
+{
+  "id": 1126102625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.31667,27.71667,85.31667,27.71667",
+    "geom:latitude":27.71667,
+    "geom:longitude":85.31667,
+    "gn:gn_country":"NP",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"NP",
+    "lbl:latitude":27.71667,
+    "lbl:longitude":85.31667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NP",
+    "qs_pg:gn_country":"NP",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":1282682,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Thapathali",
+    "qs_pg:name_adm0":"Nepal",
+    "qs_pg:name_adm1":"Madhyamanchal",
+    "qs_pg:photos":31212,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":138,
+    "qs_pg:photos_9r":22,
+    "qs_pg:photos_all":31212,
+    "qs_pg:photos_sr":29,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":241184,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424911,
+    "qs_pg:woe_id":2268934,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424911,
+    "woe:name_adm0":"Nepal",
+    "woe:name_adm1":"Madhyamanchal",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        1108807143,
+        102191569,
+        85632465,
+        1092048931,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282682,
+        "gp:id":2268934,
+        "qs_pg:id":241184
+    },
+    "wof:country":"NP",
+    "wof:created":1497316345,
+    "wof:geomhash":"b508f4c6a51516e4ffd638fa027b417e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":-1,
+            "neighbourhood_id":1126102625,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":-1,
+            "neighbourhood_id":1126102625,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1126102625,
+    "wof:lastmodified":1534379389,
+    "wof:name":"Thapathali",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[
+        85903771
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.31667,
+    27.71667,
+    85.31667,
+    27.71667
+],
+  "geometry": {"coordinates":[85.31667,27.71667],"type":"Point"}
+}

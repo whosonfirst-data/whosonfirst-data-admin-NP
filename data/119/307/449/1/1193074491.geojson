@@ -1,0 +1,78 @@
+{
+  "id": 1193074491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.05903,27.51855,83.05903,27.51855",
+    "geom:latitude":27.51855,
+    "geom:longitude":83.05903,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"50.0",
+    "gn:admin4_code":"500040.0",
+    "gn:asciiname":"Lamtiya",
+    "gn:country_code":"NP",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7959677,
+    "gn:latitude":27.51855,
+    "gn:longitude":83.05903,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lamtiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048259,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7959677
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bebba62e32c613a59c90ae62bbae4486",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1193074491,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1193074491,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1193074491,
+    "wof:lastmodified":1536365221,
+    "wof:name":"Lamtiya",
+    "wof:parent_id":1092048259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.05903,
+    27.51855,
+    83.05903,
+    27.51855
+],
+  "geometry": {"coordinates":[83.05903000000001,27.51855],"type":"Point"}
+}

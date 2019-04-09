@@ -1,0 +1,78 @@
+{
+  "id": 1310246539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.86515,27.57012,82.86515,27.57012",
+    "geom:latitude":27.57012,
+    "geom:longitude":82.86515,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"50.0",
+    "gn:admin4_code":"500003.0",
+    "gn:asciiname":"Lauharaula",
+    "gn:country_code":"NP",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7959202,
+    "gn:latitude":27.57012,
+    "gn:longitude":82.86515,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lauharaula",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048259,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7959202
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a27c512bd1b448a724d39f2bfea3e325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1310246539,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1310246539,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1310246539,
+    "wof:lastmodified":1536793245,
+    "wof:name":"Lauharaula",
+    "wof:parent_id":1092048259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.86515,
+    27.57012000000001,
+    82.86515,
+    27.57012000000001
+],
+  "geometry": {"coordinates":[82.86515,27.57012000000001],"type":"Point"}
+}

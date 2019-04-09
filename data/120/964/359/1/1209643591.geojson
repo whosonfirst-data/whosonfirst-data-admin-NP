@@ -1,0 +1,64 @@
+{
+  "id": 1209643591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.91598,28.12007,82.91598,28.12007",
+    "geom:latitude":28.12007,
+    "geom:longitude":82.91598,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"52",
+    "gn:admin4_code":"520031",
+    "gn:asciiname":"Paharpakha",
+    "gn:country_code":"NP",
+    "gn:dem":1128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7980485,
+    "gn:latitude":28.12007,
+    "gn:longitude":82.91598,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Paharpakha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7980485
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"80a2e78ccd24090faadb65c4be78859b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209643591
+        }
+    ],
+    "wof:id":1209643591,
+    "wof:lastmodified":1536280807,
+    "wof:name":"Paharpakha",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.91598,
+    28.12007,
+    82.91598,
+    28.12007
+],
+  "geometry": {"coordinates":[82.91598,28.12007],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 421177857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.56437,27.85628,84.56437,27.85628",
+    "geom:latitude":27.85628,
+    "geom:longitude":84.56437,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"NP",
+    "qs:gn_fcode":"PPLL",
+    "qs:gn_id":7934400,
+    "qs:gn_pop":0,
+    "qs:name":"Mugling",
+    "qs:name_adm0":"Nepal",
+    "qs:name_adm1":"Madhyamanchal",
+    "qs:photos":70,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":70,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1354496,
+    "qs:woe_adm0":23424911,
+    "qs:woe_id":2269077,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092050101,
+        85675585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7934400,
+        "gp:id":2269077,
+        "qs:id":1354496
+    },
+    "wof:country":"NP",
+    "wof:created":1459009162,
+    "wof:geomhash":"3086693187af978ccf915a75792a6243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":421177857,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":421177857,
+            "region_id":85675585
+        }
+    ],
+    "wof:id":421177857,
+    "wof:lastmodified":1500058089,
+    "wof:name":"Mugling",
+    "wof:parent_id":1092050101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.56437,
+    27.85628,
+    84.56437,
+    27.85628
+],
+  "geometry": {"coordinates":[84.56437,27.85628],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293318883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.97332,29.78982,81.97332,29.78982",
+    "geom:latitude":29.78982,
+    "geom:longitude":81.97332,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"66.0",
+    "gn:admin4_code":"660006.0",
+    "gn:asciiname":"Kuti",
+    "gn:country_code":"NP",
+    "gn:dem":2663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7950840,
+    "gn:latitude":29.78982,
+    "gn:longitude":81.97332,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kuti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050353,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7950840
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"da2f2ac61329492d572f4d8bda05f4ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1293318883,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1293318883,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1293318883,
+    "wof:lastmodified":1537028980,
+    "wof:name":"Kuti",
+    "wof:parent_id":1092050353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.97332,
+    29.78982,
+    81.97332,
+    29.78982
+],
+  "geometry": {"coordinates":[81.97332,29.78982],"type":"Point"}
+}

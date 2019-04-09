@@ -1,0 +1,156 @@
+{
+  "id": 421194145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.08333,27.08333,85.08333,27.08333",
+    "geom:latitude":27.08333,
+    "geom:longitude":85.08333,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u09b0\u09be \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09ac\u09be\u09b0\u09be"
+    ],
+    "name:dan_x_preferred":[
+        "Bara District"
+    ],
+    "name:deu_x_preferred":[
+        "Bara"
+    ],
+    "name:fin_x_preferred":[
+        "Baran piirikunta"
+    ],
+    "name:fra_x_preferred":[
+        "District de Bara"
+    ],
+    "name:hif_x_preferred":[
+        "Bara jila"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u093e\u0930\u093e \u091c\u093f\u0932\u093e"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di Bara"
+    ],
+    "name:mai_x_preferred":[
+        "\u092c\u093e\u0930\u093e \u091c\u093f\u0932\u093e"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u093e\u0930\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u092c\u093e\u0930\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Bara"
+    ],
+    "name:nor_x_preferred":[
+        "Bara"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0628\u0627\u0691\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Bara"
+    ],
+    "name:por_x_preferred":[
+        "Bara"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0430"
+    ],
+    "name:san_x_preferred":[
+        "\u092c\u093e\u0930\u093e\u092e\u0923\u094d\u0921\u0932\u092e\u094d"
+    ],
+    "name:unk_x_variant":[
+        "B\u0101r\u0101"
+    ],
+    "name:urd_x_preferred":[
+        "\u0636\u0644\u0639 \u0628\u0627\u0631\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Bara"
+    ],
+    "qs:gn_country":"NP",
+    "qs:gn_fcode":"ADM3",
+    "qs:gn_id":1283670,
+    "qs:gn_pop":613427,
+    "qs:name":"Bara",
+    "qs:name_adm0":"Nepal",
+    "qs:name_adm1":"Madhyamanchal",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":33,
+    "qs:photos_sr":0,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"11",
+    "qs:qs_id":956325,
+    "qs:woe_adm0":23424911,
+    "qs:woe_id":23706737,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":319,
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092048051,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283670,
+        "gp:id":23706737,
+        "qs:id":956325,
+        "wd:id":"Q28608",
+        "wk:page":"Bara District"
+    },
+    "wof:country":"NP",
+    "wof:created":1459009795,
+    "wof:geomhash":"ef378174e1923382f568b3053ecbca52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "localadmin_id":421194145,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "localadmin_id":421194145,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":421194145,
+    "wof:lastmodified":1527716132,
+    "wof:name":"Bara",
+    "wof:parent_id":1092048051,
+    "wof:placetype":"localadmin",
+    "wof:population":613427,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.08333,
+    27.08333,
+    85.08333,
+    27.08333
+],
+  "geometry": {"coordinates":[85.08333,27.08333],"type":"Point"}
+}

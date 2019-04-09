@@ -1,0 +1,78 @@
+{
+  "id": 1259906165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.23065,28.92116,81.23065,28.92116",
+    "geom:latitude":28.92116,
+    "geom:longitude":81.23065,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"69",
+    "gn:admin4_code":"690026",
+    "gn:asciiname":"Lamdanda",
+    "gn:country_code":"NP",
+    "gn:dem":1175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7972896,
+    "gn:latitude":28.92116,
+    "gn:longitude":81.23065,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lamdanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048527,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7972896
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4610138788319374f294fd3d846b7710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1259906165,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1259906165,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1259906165,
+    "wof:lastmodified":1536746276,
+    "wof:name":"Lamdanda",
+    "wof:parent_id":1092048527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.23065,
+    28.92116,
+    81.23065,
+    28.92116
+],
+  "geometry": {"coordinates":[81.23065,28.92116],"type":"Point"}
+}

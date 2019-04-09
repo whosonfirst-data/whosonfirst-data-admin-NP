@@ -1,0 +1,78 @@
+{
+  "id": 1310047717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.26053,27.93535,85.26053,27.93535",
+    "geom:latitude":27.93535,
+    "geom:longitude":85.26053,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"28",
+    "gn:admin4_code":"280028",
+    "gn:asciiname":"Jureli",
+    "gn:country_code":"NP",
+    "gn:dem":734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7974241,
+    "gn:latitude":27.93535,
+    "gn:longitude":85.26053,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jureli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7974241
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b31982db05f39690d9601695bc36d0b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1310047717,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1310047717,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1310047717,
+    "wof:lastmodified":1537076713,
+    "wof:name":"Jureli",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.26053,
+    27.93535,
+    85.26053,
+    27.93535
+],
+  "geometry": {"coordinates":[85.26053,27.93535],"type":"Point"}
+}

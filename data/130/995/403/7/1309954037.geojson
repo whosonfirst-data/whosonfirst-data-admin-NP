@@ -1,0 +1,78 @@
+{
+  "id": 1309954037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.34913,27.90446,85.34913,27.90446",
+    "geom:latitude":27.90446,
+    "geom:longitude":85.34913,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"28",
+    "gn:admin4_code":"280060",
+    "gn:asciiname":"Kulkule",
+    "gn:country_code":"NP",
+    "gn:dem":1521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7974902,
+    "gn:latitude":27.90446,
+    "gn:longitude":85.34913,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kulkule",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7974902
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"57014ef05677e2b3b7fbb4e880cebebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1309954037,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1309954037,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1309954037,
+    "wof:lastmodified":1536717948,
+    "wof:name":"Kulkule",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.34913,
+    27.90446,
+    85.34913,
+    27.90446
+],
+  "geometry": {"coordinates":[85.34913,27.90446],"type":"Point"}
+}

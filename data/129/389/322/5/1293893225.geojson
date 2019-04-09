@@ -1,0 +1,75 @@
+{
+  "id": 1293893225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.86719,27.36274,86.86719,27.36274",
+    "geom:latitude":27.36274,
+    "geom:longitude":86.86719,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sundel",
+    "gn:country_code":"NP",
+    "gn:dem":1475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11209838,
+    "gn:latitude":27.36274,
+    "gn:longitude":86.86719,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Su\u1e45del",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050841,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11209838
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8741d96b0b6a573a4c79a8ec062764ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1293893225,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1293893225,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1293893225,
+    "wof:lastmodified":1536699524,
+    "wof:name":"Sundel",
+    "wof:parent_id":1092050841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.86719000000002,
+    27.36274,
+    86.86719000000002,
+    27.36274
+],
+  "geometry": {"coordinates":[86.86719000000002,27.36274],"type":"Point"}
+}

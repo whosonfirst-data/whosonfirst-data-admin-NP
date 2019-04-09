@@ -1,0 +1,78 @@
+{
+  "id": 1360122567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.44948,28.00191,85.44948,28.00191",
+    "geom:latitude":28.00191,
+    "geom:longitude":85.44948,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"28",
+    "gn:admin4_code":"280023",
+    "gn:asciiname":"Ghyangdanda",
+    "gn:country_code":"NP",
+    "gn:dem":1941,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7974098,
+    "gn:latitude":28.00191,
+    "gn:longitude":85.44948,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ghyangdanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7974098
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cea1f982c5b1a3cccaf8cbce88c6d87c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1360122567,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1360122567,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1360122567,
+    "wof:lastmodified":1536891206,
+    "wof:name":"Ghyangdanda",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.44948000000002,
+    28.00191,
+    85.44948000000002,
+    28.00191
+],
+  "geometry": {"coordinates":[85.44948000000002,28.00191],"type":"Point"}
+}

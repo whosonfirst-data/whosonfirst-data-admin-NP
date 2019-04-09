@@ -1,0 +1,78 @@
+{
+  "id": 1326478255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.05138,28.38234,83.05138,28.38234",
+    "geom:latitude":28.38234,
+    "geom:longitude":83.05138,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45",
+    "gn:admin4_code":"450057",
+    "gn:asciiname":"Badachaur",
+    "gn:country_code":"NP",
+    "gn:dem":1643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7965444,
+    "gn:latitude":28.38234,
+    "gn:longitude":83.05138,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Badachaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7965444
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ac76d626e9753e3cf2e6100acd87bfd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1326478255,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1326478255,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1326478255,
+    "wof:lastmodified":1537059264,
+    "wof:name":"Badachaur",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.05138000000002,
+    28.38234000000001,
+    83.05138000000002,
+    28.38234000000001
+],
+  "geometry": {"coordinates":[83.05138000000002,28.38234000000001],"type":"Point"}
+}

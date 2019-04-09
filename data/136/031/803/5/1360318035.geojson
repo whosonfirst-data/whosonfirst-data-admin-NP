@@ -1,0 +1,78 @@
+{
+  "id": 1360318035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.51244,28.15806,82.51244,28.15806",
+    "geom:latitude":28.15806,
+    "geom:longitude":82.51244,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530006",
+    "gn:asciiname":"Bisramthali",
+    "gn:country_code":"NP",
+    "gn:dem":1812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7983036,
+    "gn:latitude":28.15806,
+    "gn:longitude":82.51244,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bisramthali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7983036
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"737e11088abf7add0b437b5032504aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1360318035,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1360318035,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1360318035,
+    "wof:lastmodified":1536606686,
+    "wof:name":"Bisramthali",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.51244,
+    28.15806,
+    82.51244,
+    28.15806
+],
+  "geometry": {"coordinates":[82.51244,28.15806],"type":"Point"}
+}

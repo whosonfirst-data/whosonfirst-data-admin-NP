@@ -1,0 +1,78 @@
+{
+  "id": 1343906197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.59572,27.67633,85.59572,27.67633",
+    "geom:latitude":27.67633,
+    "geom:longitude":85.59572,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240001.0",
+    "gn:asciiname":"Jyamirkot",
+    "gn:country_code":"NP",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7962540,
+    "gn:latitude":27.67633,
+    "gn:longitude":85.59572,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jyamirkot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7962540
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"de1d7f58660a451d62638c55d3a2d3c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1343906197,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1343906197,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1343906197,
+    "wof:lastmodified":1537095182,
+    "wof:name":"Jyamirkot",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.59572,
+    27.67633,
+    85.59572,
+    27.67633
+],
+  "geometry": {"coordinates":[85.59572,27.67633],"type":"Point"}
+}

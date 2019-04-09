@@ -1,0 +1,81 @@
+{
+  "id": 1226060639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.15176,26.96076,85.15176,26.96076",
+    "geom:latitude":26.96076,
+    "geom:longitude":85.15176,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Batara",
+    "gn:country_code":"NP",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283650,
+    "gn:latitude":26.96076,
+    "gn:longitude":85.15176,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Batar\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Batar\u0101"
+    ],
+    "name:und_x_variant":[
+        "Batra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092048051,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283650
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d1eba5528207c1970da0151e87aec9b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1226060639,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1226060639,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1226060639,
+    "wof:lastmodified":1537676062,
+    "wof:name":"Batara",
+    "wof:parent_id":1092048051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.15176,
+    26.96076,
+    85.15176,
+    26.96076
+],
+  "geometry": {"coordinates":[85.15176,26.96076],"type":"Point"}
+}

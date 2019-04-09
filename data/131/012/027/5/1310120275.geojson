@@ -1,0 +1,75 @@
+{
+  "id": 1310120275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.54342,27.97806,85.54342,27.97806",
+    "geom:latitude":27.97806,
+    "geom:longitude":85.54342,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Pangan",
+    "gn:country_code":"NP",
+    "gn:dem":1904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10319493,
+    "gn:latitude":27.97806,
+    "gn:longitude":85.54342,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"P\u0101\u1e45g\u0101\u1e45",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10319493
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d0bf537f4e25fd7af0d6d71d310972f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1310120275,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1310120275,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1310120275,
+    "wof:lastmodified":1536974606,
+    "wof:name":"Pangan",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.54342,
+    27.97806,
+    85.54342,
+    27.97806
+],
+  "geometry": {"coordinates":[85.54342,27.97806],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1259621173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.19055,28.20128,84.19055,28.20128",
+    "geom:latitude":28.20128,
+    "geom:longitude":84.19055,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400014.0",
+    "gn:asciiname":"Timurchaur",
+    "gn:country_code":"NP",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7960604,
+    "gn:latitude":28.20128,
+    "gn:longitude":84.19055,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Timurchaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092049331,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7960604
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"217e74b4c7fe855e5638181709273547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1259621173,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1259621173,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1259621173,
+    "wof:lastmodified":1536660364,
+    "wof:name":"Timurchaur",
+    "wof:parent_id":1092049331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.19055,
+    28.20128,
+    84.19055,
+    28.20128
+],
+  "geometry": {"coordinates":[84.19055,28.20128],"type":"Point"}
+}

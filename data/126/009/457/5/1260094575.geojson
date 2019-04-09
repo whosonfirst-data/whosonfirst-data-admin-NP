@@ -1,0 +1,78 @@
+{
+  "id": 1260094575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.818,26.86905,87.818,26.86905",
+    "geom:latitude":26.86905,
+    "geom:longitude":87.818,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Parigau",
+    "gn:country_code":"NP",
+    "gn:dem":1172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11606469,
+    "gn:latitude":26.86905,
+    "gn:longitude":87.818,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"P\u0101ri\u0307\u0304g\u0101\u0169",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "P\u0101ri\u0307\u0304g\u0101\u0169"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11606469
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"64efeca6cdd56b0674c8f7e74e860ad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1260094575,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1260094575,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1260094575,
+    "wof:lastmodified":1537676126,
+    "wof:name":"Parigau",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.818,
+    26.86905,
+    87.818,
+    26.86905
+],
+  "geometry": {"coordinates":[87.818,26.86905],"type":"Point"}
+}

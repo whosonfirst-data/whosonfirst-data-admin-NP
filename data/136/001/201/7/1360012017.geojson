@@ -1,0 +1,78 @@
+{
+  "id": 1360012017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.22939,28.64163,81.22939,28.64163",
+    "geom:latitude":28.64163,
+    "geom:longitude":81.22939,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710001.0",
+    "gn:asciiname":"Dhakane",
+    "gn:country_code":"NP",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956218,
+    "gn:latitude":28.64163,
+    "gn:longitude":81.22939,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhakane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956218
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"33420212e833b1c38c5ad34e4b68b273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1360012017,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1360012017,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1360012017,
+    "wof:lastmodified":1537049118,
+    "wof:name":"Dhakane",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.22939000000002,
+    28.64163,
+    81.22939000000002,
+    28.64163
+],
+  "geometry": {"coordinates":[81.22939000000002,28.64163],"type":"Point"}
+}

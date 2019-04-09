@@ -1,0 +1,64 @@
+{
+  "id": 1209252603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.45834,27.20408,86.45834,27.20408",
+    "geom:latitude":27.20408,
+    "geom:longitude":86.45834,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"12",
+    "gn:admin4_code":"120029",
+    "gn:asciiname":"Bhorle",
+    "gn:country_code":"NP",
+    "gn:dem":1231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7975408,
+    "gn:latitude":27.20408,
+    "gn:longitude":86.45834,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhorle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7975408
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b16d7549460bb0a63f5874f0b232f34d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209252603
+        }
+    ],
+    "wof:id":1209252603,
+    "wof:lastmodified":1536292959,
+    "wof:name":"Bhorle",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.45834,
+    27.20408,
+    86.45834,
+    27.20408
+],
+  "geometry": {"coordinates":[86.45834000000001,27.20408],"type":"Point"}
+}

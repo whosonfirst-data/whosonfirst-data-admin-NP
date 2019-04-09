@@ -1,0 +1,78 @@
+{
+  "id": 1226090053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.13859,27.29408,87.13859,27.29408",
+    "geom:latitude":27.29408,
+    "geom:longitude":87.13859,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100019.0",
+    "gn:asciiname":"Sera",
+    "gn:country_code":"NP",
+    "gn:dem":938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7932988,
+    "gn:latitude":27.29408,
+    "gn:longitude":87.13859,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sera",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7932988
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"89e7fe7d2d559af8ff1166fdae7a5287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1226090053,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1226090053,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1226090053,
+    "wof:lastmodified":1536661311,
+    "wof:name":"Sera",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.13859000000002,
+    27.29408,
+    87.13859000000002,
+    27.29408
+],
+  "geometry": {"coordinates":[87.13859000000002,27.29408],"type":"Point"}
+}

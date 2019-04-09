@@ -1,0 +1,78 @@
+{
+  "id": 1242997403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.41156,29.02233,81.41156,29.02233",
+    "geom:latitude":29.02233,
+    "geom:longitude":81.41156,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"69.0",
+    "gn:admin4_code":"690007.0",
+    "gn:asciiname":"Gadikholagaun",
+    "gn:country_code":"NP",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933917,
+    "gn:latitude":29.02233,
+    "gn:longitude":81.41156,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gadikholagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048527,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933917
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c3da0764f7534163ed90a45e6f7168b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1242997403,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1242997403,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1242997403,
+    "wof:lastmodified":1536956106,
+    "wof:name":"Gadikholagaun",
+    "wof:parent_id":1092048527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.41156,
+    29.02233,
+    81.41156,
+    29.02233
+],
+  "geometry": {"coordinates":[81.41155999999999,29.02233],"type":"Point"}
+}

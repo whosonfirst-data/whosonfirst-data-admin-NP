@@ -1,0 +1,64 @@
+{
+  "id": 1209044149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.25231,28.02601,83.25231,28.02601",
+    "geom:latitude":28.02601,
+    "geom:longitude":83.25231,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"46.0",
+    "gn:admin4_code":"460072.0",
+    "gn:asciiname":"Thalemaledanda",
+    "gn:country_code":"NP",
+    "gn:dem":1526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7950659,
+    "gn:latitude":28.02601,
+    "gn:longitude":83.25231,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thalemaledanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7950659
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"662a630c580620b80e42fe14682eea3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209044149
+        }
+    ],
+    "wof:id":1209044149,
+    "wof:lastmodified":1536299450,
+    "wof:name":"Thalemaledanda",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.25231,
+    28.02601,
+    83.25231,
+    28.02601
+],
+  "geometry": {"coordinates":[83.25230999999999,28.02601],"type":"Point"}
+}

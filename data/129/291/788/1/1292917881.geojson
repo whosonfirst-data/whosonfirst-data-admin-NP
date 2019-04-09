@@ -1,0 +1,80 @@
+{
+  "id": 1292917881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.42716,27.88143,86.42716,27.88143",
+    "geom:latitude":27.88143,
+    "geom:longitude":86.42716,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Nagau",
+    "gn:country_code":"NP",
+    "gn:dem":4197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283005,
+    "gn:latitude":27.88143,
+    "gn:longitude":86.42716,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"N\u0101g\u0101\u0169",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u0101g\u0101\u0169",
+        "N\u0101ngaon",
+        "N\u0101g\u0101un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675579,
+        1092050535,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283005
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7b1be1693a4d020f96dc8dcf5f17d448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1292917881,
+            "region_id":85675579
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1292917881,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1292917881,
+    "wof:lastmodified":1537676047,
+    "wof:name":"Nagau",
+    "wof:parent_id":1092050535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.42716,
+    27.88143,
+    86.42716,
+    27.88143
+],
+  "geometry": {"coordinates":[86.42716,27.88143],"type":"Point"}
+}

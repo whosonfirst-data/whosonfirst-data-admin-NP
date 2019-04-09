@@ -1,0 +1,79 @@
+{
+  "id": 1260089909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.64514,27.30881,85.64514,27.30881",
+    "geom:latitude":27.30881,
+    "geom:longitude":85.64514,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sirthaki",
+    "gn:country_code":"NP",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10322587,
+    "gn:latitude":27.30881,
+    "gn:longitude":85.64514,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Sirthaki\u0307\u0304",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sirthaki\u0307\u0304",
+        "Sirthak\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049679,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10322587
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"70a44e2ec678b151b1b4031adb3c75de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1260089909,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1260089909,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1260089909,
+    "wof:lastmodified":1537676091,
+    "wof:name":"Sirthaki",
+    "wof:parent_id":1092049679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.64514,
+    27.30881,
+    85.64514,
+    27.30881
+],
+  "geometry": {"coordinates":[85.64514,27.30881],"type":"Point"}
+}

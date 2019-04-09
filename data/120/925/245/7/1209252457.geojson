@@ -1,0 +1,64 @@
+{
+  "id": 1209252457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.18325,26.50897,87.18325,26.50897",
+    "geom:latitude":26.50897,
+    "geom:longitude":87.18325,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"6.0",
+    "gn:admin4_code":"60016.0",
+    "gn:asciiname":"Kolharwa",
+    "gn:country_code":"NP",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7997652,
+    "gn:latitude":26.50897,
+    "gn:longitude":87.18325,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kolharwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7997652
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bc1e7bfebfd0f66470e1e70ec5b5cf79",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209252457
+        }
+    ],
+    "wof:id":1209252457,
+    "wof:lastmodified":1536292962,
+    "wof:name":"Kolharwa",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.18325,
+    26.50897,
+    87.18325,
+    26.50897
+],
+  "geometry": {"coordinates":[87.18325,26.50897],"type":"Point"}
+}

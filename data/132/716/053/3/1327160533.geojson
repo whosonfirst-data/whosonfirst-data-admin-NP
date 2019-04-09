@@ -1,0 +1,78 @@
+{
+  "id": 1327160533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.06283,29.12542,81.06283,29.12542",
+    "geom:latitude":29.12542,
+    "geom:longitude":81.06283,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"70.0",
+    "gn:admin4_code":"700016.0",
+    "gn:asciiname":"Balekhad",
+    "gn:country_code":"NP",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7946549,
+    "gn:latitude":29.12542,
+    "gn:longitude":81.06283,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Balekhad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048653,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7946549
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e8d141e63c764234b2d18025d55a4027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1327160533,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1327160533,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1327160533,
+    "wof:lastmodified":1537070439,
+    "wof:name":"Balekhad",
+    "wof:parent_id":1092048653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.06283,
+    29.12542,
+    81.06283,
+    29.12542
+],
+  "geometry": {"coordinates":[81.06283000000001,29.12542],"type":"Point"}
+}

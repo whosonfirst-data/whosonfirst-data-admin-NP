@@ -1,0 +1,78 @@
+{
+  "id": 1193215787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.56096,28.12778,83.56096,28.12778",
+    "geom:latitude":28.12778,
+    "geom:longitude":83.56096,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450047.0",
+    "gn:asciiname":"Kewai",
+    "gn:country_code":"NP",
+    "gn:dem":1588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7962136,
+    "gn:latitude":28.12778,
+    "gn:longitude":83.56096,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kewai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7962136
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"62de6a051ef810df027c32adb365a63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1193215787,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1193215787,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1193215787,
+    "wof:lastmodified":1536380687,
+    "wof:name":"Kewai",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.56096,
+    28.12778,
+    83.56096,
+    28.12778
+],
+  "geometry": {"coordinates":[83.56095999999999,28.12778],"type":"Point"}
+}

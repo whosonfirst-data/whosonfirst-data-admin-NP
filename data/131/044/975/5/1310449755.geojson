@@ -1,0 +1,78 @@
+{
+  "id": 1310449755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.64081,27.11535,86.64081,27.11535",
+    "geom:latitude":27.11535,
+    "geom:longitude":86.64081,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140037.0",
+    "gn:asciiname":"Tekanpur",
+    "gn:country_code":"NP",
+    "gn:dem":1044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007641,
+    "gn:latitude":27.11535,
+    "gn:longitude":86.64081,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tekanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050179,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007641
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b16700f2f7ece14f2e8a32b71cfcbf3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1310449755,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1310449755,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1310449755,
+    "wof:lastmodified":1536996633,
+    "wof:name":"Tekanpur",
+    "wof:parent_id":1092050179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.64081,
+    27.11535,
+    86.64081,
+    27.11535
+],
+  "geometry": {"coordinates":[86.64081,27.11535],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276375117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.68412,28.02605,84.68412,28.02605",
+    "geom:latitude":28.02605,
+    "geom:longitude":84.68412,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360063.0",
+    "gn:asciiname":"Taple Bajar",
+    "gn:country_code":"NP",
+    "gn:dem":1209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7949594,
+    "gn:latitude":28.02605,
+    "gn:longitude":84.68412,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Taple Bajar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7949594
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a5131c58b0878be2a8290edf9a6124ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1276375117,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1276375117,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1276375117,
+    "wof:lastmodified":1536722803,
+    "wof:name":"Taple Bajar",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.68412,
+    28.02605,
+    84.68412,
+    28.02605
+],
+  "geometry": {"coordinates":[84.68411999999999,28.02605],"type":"Point"}
+}

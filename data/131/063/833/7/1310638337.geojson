@@ -1,0 +1,78 @@
+{
+  "id": 1310638337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.81564,27.59277,82.81564,27.59277",
+    "geom:latitude":27.59277,
+    "geom:longitude":82.81564,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"50.0",
+    "gn:admin4_code":"500060.0",
+    "gn:asciiname":"Kathihar",
+    "gn:country_code":"NP",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7959975,
+    "gn:latitude":27.59277,
+    "gn:longitude":82.81564,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kathihar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048259,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7959975
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"21216492d3295b8ebfa6da6b14794e8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1310638337,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1310638337,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1310638337,
+    "wof:lastmodified":1536725581,
+    "wof:name":"Kathihar",
+    "wof:parent_id":1092048259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.81564,
+    27.59277,
+    82.81564,
+    27.59277
+],
+  "geometry": {"coordinates":[82.81564,27.59277],"type":"Point"}
+}

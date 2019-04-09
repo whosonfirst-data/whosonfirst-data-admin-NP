@@ -1,0 +1,78 @@
+{
+  "id": 1344000091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.05585,26.77266,86.05585,26.77266",
+    "geom:latitude":26.77266,
+    "geom:longitude":86.05585,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"17.0",
+    "gn:admin4_code":"170075.0",
+    "gn:asciiname":"Prasahi",
+    "gn:country_code":"NP",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7943970,
+    "gn:latitude":26.77266,
+    "gn:longitude":86.05585,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Prasahi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092048127,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7943970
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c9c0903304efd5b6713094048928f1b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048127,
+            "locality_id":1344000091,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048127,
+            "locality_id":1344000091,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1344000091,
+    "wof:lastmodified":1536962640,
+    "wof:name":"Prasahi",
+    "wof:parent_id":1092048127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.05585,
+    26.77266,
+    86.05585,
+    26.77266
+],
+  "geometry": {"coordinates":[86.05585000000001,26.77266],"type":"Point"}
+}

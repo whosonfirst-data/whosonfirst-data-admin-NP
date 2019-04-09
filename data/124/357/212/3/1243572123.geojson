@@ -1,0 +1,81 @@
+{
+  "id": 1243572123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.07552,28.931,81.07552,28.931",
+    "geom:latitude":28.931,
+    "geom:longitude":81.07552,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dhanras",
+    "gn:country_code":"NP",
+    "gn:dem":1326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283446,
+    "gn:latitude":28.931,
+    "gn:longitude":81.07552,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Dhanr\u0101s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Dhanr\u0101s"
+    ],
+    "name:und_x_variant":[
+        "Dhundr\u0101s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283446
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7f9d88195654724dea1cce900d7cafcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1243572123,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1243572123,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1243572123,
+    "wof:lastmodified":1537676057,
+    "wof:name":"Dhanras",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.07552,
+    28.931,
+    81.07552,
+    28.931
+],
+  "geometry": {"coordinates":[81.07552,28.931],"type":"Point"}
+}

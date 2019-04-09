@@ -1,0 +1,64 @@
+{
+  "id": 1209657361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.36378,27.09038,85.36378,27.09038",
+    "geom:latitude":27.09038,
+    "geom:longitude":85.36378,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"32",
+    "gn:admin4_code":"320090",
+    "gn:asciiname":"Mardhar",
+    "gn:country_code":"NP",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7982804,
+    "gn:latitude":27.09038,
+    "gn:longitude":85.36378,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mardhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7982804
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5ece7450e6b513c2aa70a58ec11db837",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209657361
+        }
+    ],
+    "wof:id":1209657361,
+    "wof:lastmodified":1536280384,
+    "wof:name":"Mardhar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.36378,
+    27.09038,
+    85.36378,
+    27.09038
+],
+  "geometry": {"coordinates":[85.36378000000001,27.09038],"type":"Point"}
+}

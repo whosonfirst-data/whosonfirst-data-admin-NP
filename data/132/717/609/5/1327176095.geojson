@@ -1,0 +1,78 @@
+{
+  "id": 1327176095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.00202,27.07894,88.00202,27.07894",
+    "geom:latitude":27.07894,
+    "geom:longitude":88.00202,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30024.0",
+    "gn:asciiname":"Sirangji",
+    "gn:country_code":"NP",
+    "gn:dem":2395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7952132,
+    "gn:latitude":27.07894,
+    "gn:longitude":88.00202,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sirangji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7952132
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7a23a8eb96216aa82d0b3462f957491d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1327176095,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1327176095,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1327176095,
+    "wof:lastmodified":1537048846,
+    "wof:name":"Sirangji",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.00202,
+    27.07894000000001,
+    88.00202,
+    27.07894000000001
+],
+  "geometry": {"coordinates":[88.00202,27.07894000000001],"type":"Point"}
+}

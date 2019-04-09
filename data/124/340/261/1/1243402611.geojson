@@ -1,0 +1,80 @@
+{
+  "id": 1243402611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.32028,27.12404,86.32028,27.12404",
+    "geom:latitude":27.12404,
+    "geom:longitude":86.32028,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5.0",
+    "gn:asciiname":"Nayagaudada",
+    "gn:country_code":"NP",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10352772,
+    "gn:latitude":27.12404,
+    "gn:longitude":86.32028,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Nay\u0101\u0303g\u0101\u0169\u1e0d\u0101\u0303\u1e0d\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nay\u0101\u0303g\u0101\u0169\u1e0d\u0101\u0303\u1e0d\u0101",
+        "Nay\u0101g\u0101un\u1e0d\u0101n\u1e0d\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049679,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10352772
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d5976211f4dde055cf1fcb970b2cc836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1243402611,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1243402611,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1243402611,
+    "wof:lastmodified":1537676110,
+    "wof:name":"Nayagaudada",
+    "wof:parent_id":1092049679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.32028000000003,
+    27.12404,
+    86.32028000000003,
+    27.12404
+],
+  "geometry": {"coordinates":[86.32028000000003,27.12404],"type":"Point"}
+}

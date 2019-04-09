@@ -1,0 +1,78 @@
+{
+  "id": 1310038499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.98851,29.4977,80.98851,29.4977",
+    "geom:latitude":29.4977,
+    "geom:longitude":80.98851,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680002",
+    "gn:asciiname":"Rakail",
+    "gn:country_code":"NP",
+    "gn:dem":1662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7986869,
+    "gn:latitude":29.4977,
+    "gn:longitude":80.98851,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Rakail",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048571,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7986869
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ae5e67d3f98a92b7fb9a349809b6c2d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1310038499,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1310038499,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1310038499,
+    "wof:lastmodified":1537089926,
+    "wof:name":"Rakail",
+    "wof:parent_id":1092048571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.98850999999998,
+    29.4977,
+    80.98850999999998,
+    29.4977
+],
+  "geometry": {"coordinates":[80.98850999999998,29.4977],"type":"Point"}
+}

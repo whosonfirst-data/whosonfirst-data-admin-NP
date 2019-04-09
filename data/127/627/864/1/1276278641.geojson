@@ -1,0 +1,78 @@
+{
+  "id": 1276278641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.99119,27.12922,86.99119,27.12922",
+    "geom:latitude":27.12922,
+    "geom:longitude":86.99119,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100018.0",
+    "gn:asciiname":"Bhirale",
+    "gn:country_code":"NP",
+    "gn:dem":1440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7932958,
+    "gn:latitude":27.12922,
+    "gn:longitude":86.99119,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhirale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7932958
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7d79ad02562101acbb808ef60b11ffa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1276278641,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1276278641,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1276278641,
+    "wof:lastmodified":1536850921,
+    "wof:name":"Bhirale",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.99119,
+    27.12922,
+    86.99119,
+    27.12922
+],
+  "geometry": {"coordinates":[86.99119,27.12922],"type":"Point"}
+}

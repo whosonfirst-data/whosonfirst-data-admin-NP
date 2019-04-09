@@ -1,0 +1,75 @@
+{
+  "id": 1310423521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.33333,27.8,84.33333,27.8",
+    "geom:latitude":27.8,
+    "geom:longitude":84.33333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Shringa",
+    "gn:country_code":"NP",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282791,
+    "gn:latitude":27.8,
+    "gn:longitude":84.33333,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Shringa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282791
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1ee26cc3af97e5d7f4e1a76bab169c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1310423521,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1310423521,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1310423521,
+    "wof:lastmodified":1537033788,
+    "wof:name":"Shringa",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.33333,
+    27.8,
+    84.33333,
+    27.8
+],
+  "geometry": {"coordinates":[84.33333,27.8],"type":"Point"}
+}

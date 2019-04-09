@@ -1,0 +1,64 @@
+{
+  "id": 1209648139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.11227,29.50202,81.11227,29.50202",
+    "geom:latitude":29.50202,
+    "geom:longitude":81.11227,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680030",
+    "gn:asciiname":"Aphala Bagar",
+    "gn:country_code":"NP",
+    "gn:dem":1070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7994804,
+    "gn:latitude":29.50202,
+    "gn:longitude":81.11227,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Aphala Bagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7994804
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8c6ebf81e0b5e9e59db4a8df6f548c37",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209648139
+        }
+    ],
+    "wof:id":1209648139,
+    "wof:lastmodified":1536280668,
+    "wof:name":"Aphala Bagar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.11227,
+    29.50202,
+    81.11227,
+    29.50202
+],
+  "geometry": {"coordinates":[81.11227,29.50202],"type":"Point"}
+}

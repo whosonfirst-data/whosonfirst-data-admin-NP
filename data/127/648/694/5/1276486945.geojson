@@ -1,0 +1,78 @@
+{
+  "id": 1276486945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.27378,28.67575,83.27378,28.67575",
+    "geom:latitude":28.67575,
+    "geom:longitude":83.27378,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"43",
+    "gn:admin4_code":"430024",
+    "gn:asciiname":"Gurja",
+    "gn:country_code":"NP",
+    "gn:dem":6942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7972290,
+    "gn:latitude":28.67575,
+    "gn:longitude":83.27378,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gurja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675553,
+        1092049089,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7972290
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"99b527db9ff389388d206bd5d16793ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049089,
+            "locality_id":1276486945,
+            "region_id":85675553
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049089,
+            "locality_id":1276486945,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1276486945,
+    "wof:lastmodified":1537067177,
+    "wof:name":"Gurja",
+    "wof:parent_id":1092049089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.27378,
+    28.67575,
+    83.27378,
+    28.67575
+],
+  "geometry": {"coordinates":[83.27378,28.67575],"type":"Point"}
+}

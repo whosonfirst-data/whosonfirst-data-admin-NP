@@ -1,0 +1,78 @@
+{
+  "id": 1243104819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.92887,28.14093,83.92887,28.14093",
+    "geom:latitude":28.14093,
+    "geom:longitude":83.92887,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390040.0",
+    "gn:asciiname":"Kamaltari",
+    "gn:country_code":"NP",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001679,
+    "gn:latitude":28.14093,
+    "gn:longitude":83.92887,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kamaltari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001679
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e1d328c3d2a5328190d87ceaf182fabf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1243104819,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1243104819,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1243104819,
+    "wof:lastmodified":1536800862,
+    "wof:name":"Kamaltari",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.92886999999997,
+    28.14093,
+    83.92886999999997,
+    28.14093
+],
+  "geometry": {"coordinates":[83.92886999999997,28.14093],"type":"Point"}
+}

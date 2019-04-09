@@ -1,0 +1,78 @@
+{
+  "id": 1193061187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.01147,28.03867,84.01147,28.03867",
+    "geom:latitude":28.03867,
+    "geom:longitude":84.01147,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380019.0",
+    "gn:asciiname":"Juwalthar",
+    "gn:country_code":"NP",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003403,
+    "gn:latitude":28.03867,
+    "gn:longitude":84.01147,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Juwalthar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003403
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cd0a84a224bc9b9a8db3542d6626308d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1193061187,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1193061187,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1193061187,
+    "wof:lastmodified":1536377645,
+    "wof:name":"Juwalthar",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.01146999999997,
+    28.03867,
+    84.01146999999997,
+    28.03867
+],
+  "geometry": {"coordinates":[84.01146999999997,28.03867],"type":"Point"}
+}

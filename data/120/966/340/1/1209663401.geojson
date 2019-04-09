@@ -1,0 +1,64 @@
+{
+  "id": 1209663401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.55906,27.00025,87.55906,27.00025",
+    "geom:latitude":27.00025,
+    "geom:longitude":87.55906,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"2",
+    "gn:admin4_code":"20019",
+    "gn:asciiname":"Newargaun",
+    "gn:country_code":"NP",
+    "gn:dem":940,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7977544,
+    "gn:latitude":27.00025,
+    "gn:longitude":87.55906,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Newargaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7977544
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"caacda7b7fc3e76413fd63d104cc5fb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209663401
+        }
+    ],
+    "wof:id":1209663401,
+    "wof:lastmodified":1536280178,
+    "wof:name":"Newargaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.55906,
+    27.00025,
+    87.55906,
+    27.00025
+],
+  "geometry": {"coordinates":[87.55906,27.00025],"type":"Point"}
+}

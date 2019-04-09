@@ -1,0 +1,64 @@
+{
+  "id": 1209462809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.26315,27.48958,83.26315,27.48958",
+    "geom:latitude":27.48958,
+    "geom:longitude":83.26315,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"49",
+    "gn:admin4_code":"490069.0",
+    "gn:asciiname":"Tenuhawa",
+    "gn:country_code":"NP",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7987833,
+    "gn:latitude":27.48958,
+    "gn:longitude":83.26315,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tenuhawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7987833
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"37d71dec13ec53e40676f19d0d83f870",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209462809
+        }
+    ],
+    "wof:id":1209462809,
+    "wof:lastmodified":1536286325,
+    "wof:name":"Tenuhawa",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.26315,
+    27.48958,
+    83.26315,
+    27.48958
+],
+  "geometry": {"coordinates":[83.26315,27.48958],"type":"Point"}
+}

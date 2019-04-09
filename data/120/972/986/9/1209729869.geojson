@@ -1,0 +1,75 @@
+{
+  "id": 1209729869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.57662,27.43565,86.57662,27.43565",
+    "geom:latitude":27.43565,
+    "geom:longitude":86.57662,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tinnasa",
+    "gn:country_code":"NP",
+    "gn:dem":2157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11205803,
+    "gn:latitude":27.43565,
+    "gn:longitude":86.57662,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ti\u1e45n\u0101s\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049841,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11205803
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fdb1515482e7f3496e491922c4522573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1209729869,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1209729869,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1209729869,
+    "wof:lastmodified":1536379808,
+    "wof:name":"Tinnasa",
+    "wof:parent_id":1092049841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.57661999999998,
+    27.43565,
+    86.57661999999998,
+    27.43565
+],
+  "geometry": {"coordinates":[86.57661999999998,27.43565],"type":"Point"}
+}

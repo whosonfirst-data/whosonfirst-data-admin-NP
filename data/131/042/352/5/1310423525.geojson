@@ -1,0 +1,78 @@
+{
+  "id": 1310423525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.6715,26.97457,86.6715,26.97457",
+    "geom:latitude":26.97457,
+    "geom:longitude":86.6715,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Malbase",
+    "gn:country_code":"NP",
+    "gn:dem":1404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11608308,
+    "gn:latitude":26.97457,
+    "gn:longitude":86.6715,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"M\u0101lb\u0101\u0303se",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "M\u0101lb\u0101\u0303se"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050179,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11608308
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5d402654f88217f4b9a50b22851fc205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1310423525,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1310423525,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1310423525,
+    "wof:lastmodified":1537676136,
+    "wof:name":"Malbase",
+    "wof:parent_id":1092050179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.6715,
+    26.97457,
+    86.6715,
+    26.97457
+],
+  "geometry": {"coordinates":[86.67149999999999,26.97457],"type":"Point"}
+}

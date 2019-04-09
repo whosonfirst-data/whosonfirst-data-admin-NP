@@ -1,0 +1,78 @@
+{
+  "id": 1360099385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.25838,28.88044,81.25838,28.88044",
+    "geom:latitude":28.88044,
+    "geom:longitude":81.25838,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Rekcha",
+    "gn:country_code":"NP",
+    "gn:dem":1240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282853,
+    "gn:latitude":28.88044,
+    "gn:longitude":81.25838,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Rekch\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Rekch\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282853
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1191358727be63c763f822e5852d016c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1360099385,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1360099385,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1360099385,
+    "wof:lastmodified":1537676042,
+    "wof:name":"Rekcha",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.25838,
+    28.88044,
+    81.25838,
+    28.88044
+],
+  "geometry": {"coordinates":[81.25838,28.88044],"type":"Point"}
+}

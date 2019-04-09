@@ -1,0 +1,78 @@
+{
+  "id": 1293318829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.25954,28.49145,82.25954,28.49145",
+    "geom:latitude":28.49145,
+    "geom:longitude":82.25954,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550046",
+    "gn:asciiname":"Putaleebas",
+    "gn:country_code":"NP",
+    "gn:dem":1569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7989752,
+    "gn:latitude":28.49145,
+    "gn:longitude":82.25954,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Putaleebas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049579,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7989752
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e9254b9c134ccf30cddb0cf7fbddb2ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1293318829,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1293318829,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1293318829,
+    "wof:lastmodified":1537029046,
+    "wof:name":"Putaleebas",
+    "wof:parent_id":1092049579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.25954,
+    28.49145,
+    82.25954,
+    28.49145
+],
+  "geometry": {"coordinates":[82.25954,28.49145],"type":"Point"}
+}

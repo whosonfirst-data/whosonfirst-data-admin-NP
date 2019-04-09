@@ -1,0 +1,78 @@
+{
+  "id": 1360132959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.01243,27.81257,85.01243,27.81257",
+    "geom:latitude":27.81257,
+    "geom:longitude":85.01243,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300020.0",
+    "gn:asciiname":"Kallerighat",
+    "gn:country_code":"NP",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7941710,
+    "gn:latitude":27.81257,
+    "gn:longitude":85.01243,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kallerighat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7941710
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"29f81c98a3f6a207f789e799dcbe5843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1360132959,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1360132959,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1360132959,
+    "wof:lastmodified":1536875824,
+    "wof:name":"Kallerighat",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.01243000000002,
+    27.81257,
+    85.01243000000002,
+    27.81257
+],
+  "geometry": {"coordinates":[85.01243000000002,27.81257],"type":"Point"}
+}

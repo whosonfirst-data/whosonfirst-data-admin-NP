@@ -1,0 +1,78 @@
+{
+  "id": 1293626935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.38038,27.3217,85.38038,27.3217",
+    "geom:latitude":27.3217,
+    "geom:longitude":85.38038,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310016",
+    "gn:asciiname":"Mansai",
+    "gn:country_code":"NP",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7968201,
+    "gn:latitude":27.3217,
+    "gn:longitude":85.38038,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mansai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7968201
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f758f0a4ab8ead6c16d13a7ba05fd7ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1293626935,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1293626935,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1293626935,
+    "wof:lastmodified":1537079984,
+    "wof:name":"Mansai",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.38038,
+    27.3217,
+    85.38038,
+    27.3217
+],
+  "geometry": {"coordinates":[85.38038,27.3217],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1276891895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.49594,28.74832,81.49594,28.74832",
+    "geom:latitude":28.74832,
+    "geom:longitude":81.49594,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lakharpata",
+    "gn:country_code":"NP",
+    "gn:dem":1129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283158,
+    "gn:latitude":28.74832,
+    "gn:longitude":81.49594,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Lakharp\u0101\u1e6d\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Lakharp\u0101\u1e6d\u0101"
+    ],
+    "name:und_x_variant":[
+        "Lakarp\u0101ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283158
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"abef6b7ee22c8fcaf2058ec76c939dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1276891895,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1276891895,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1276891895,
+    "wof:lastmodified":1537676050,
+    "wof:name":"Lakharpata",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.49594,
+    28.74832,
+    81.49594,
+    28.74832
+],
+  "geometry": {"coordinates":[81.49594,28.74832],"type":"Point"}
+}

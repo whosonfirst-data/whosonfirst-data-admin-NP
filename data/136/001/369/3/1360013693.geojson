@@ -1,0 +1,79 @@
+{
+  "id": 1360013693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.49766,28.22961,81.49766,28.22961",
+    "geom:latitude":28.22961,
+    "geom:longitude":81.49766,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"58.0",
+    "gn:admin4_code":"580020.0",
+    "gn:asciiname":"Motipur",
+    "gn:country_code":"NP",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009828,
+    "gn:latitude":28.22961,
+    "gn:longitude":81.49766,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Motipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048097,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009828,
+        "wk:page":"Motipur%2C_Nepal"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8a89cbbe89eef9ee9e2f02262b5b856e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1360013693,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1360013693,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1360013693,
+    "wof:lastmodified":1537570158,
+    "wof:name":"Motipur",
+    "wof:parent_id":1092048097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.49766,
+    28.22961,
+    81.49766,
+    28.22961
+],
+  "geometry": {"coordinates":[81.49766,28.22961],"type":"Point"}
+}

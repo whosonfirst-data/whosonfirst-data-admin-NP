@@ -1,0 +1,152 @@
+{
+  "id": 421168237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.95634,29.18321,83.95634,29.18321",
+    "geom:latitude":29.18321,
+    "geom:longitude":83.95634,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u041b\u043e\u043c\u0430\u043d\u0442\u0445\u0430\u043d\u0433"
+    ],
+    "name:chi_x_preferred":[
+        "\u73de\u57ce"
+    ],
+    "name:deu_x_preferred":[
+        "Mustang"
+    ],
+    "name:eng_x_preferred":[
+        "Mustang"
+    ],
+    "name:fra_x_preferred":[
+        "Mustang"
+    ],
+    "name:fre_x_preferred":[
+        "Lo Mantang"
+    ],
+    "name:ger_x_preferred":[
+        "Lo Manthang"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e1\u05d8\u05e0\u05d2"
+    ],
+    "name:ita_x_preferred":[
+        "Mustang"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30b9\u30bf\u30f3\u738b\u56fd"
+    ],
+    "name:lit_x_preferred":[
+        "Lo Manthangas"
+    ],
+    "name:may_x_preferred":[
+        "Lo Manthang"
+    ],
+    "name:nep_x_preferred":[
+        "\u0932\u094b\u092e\u093e\u0928\u094d\u0925\u093e\u0919"
+    ],
+    "name:new_x_preferred":[
+        "\u0932\u094b\u092e\u093e\u0928\u094d\u0925\u093e\u0919"
+    ],
+    "name:pol_x_preferred":[
+        "Lomanthang"
+    ],
+    "name:por_x_preferred":[
+        "Lomanthang"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0441\u0442\u0430\u043d\u0433"
+    ],
+    "name:spa_x_preferred":[
+        "Mustang"
+    ],
+    "name:swe_x_preferred":[
+        "Mustang"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u043e \u041c\u0430\u043d\u0442\u0430\u043d\u0433"
+    ],
+    "name:unk_x_variant":[
+        "Loh Mantung"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u65af\u5766"
+    ],
+    "qs:gn_country":"NP",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1283022,
+    "qs:gn_pop":0,
+    "qs:name":"Must\u00e5ng",
+    "qs:name_adm0":"Nepal",
+    "qs:name_adm1":"Pashchimanchal",
+    "qs:photos":266,
+    "qs:photos_1k":54,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":266,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1045965,
+    "qs:woe_adm0":23424911,
+    "qs:woe_id":2269024,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675553,
+        1092048365,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283022,
+        "gp:id":2269024,
+        "qs:id":1045965,
+        "wd:id":"Q2603964",
+        "wk:page":"Lo Manthang"
+    },
+    "wof:country":"NP",
+    "wof:created":1459008759,
+    "wof:geomhash":"1006716ef26e543fbd835741850fff41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048365,
+            "locality_id":421168237,
+            "region_id":85675553
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048365,
+            "locality_id":421168237,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":421168237,
+    "wof:lastmodified":1514493683,
+    "wof:name":"Must\u00e5ng",
+    "wof:parent_id":1092048365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.95634,
+    29.18321,
+    83.95634,
+    29.18321
+],
+  "geometry": {"coordinates":[83.95634,29.18321],"type":"Point"}
+}

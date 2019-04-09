@@ -1,0 +1,78 @@
+{
+  "id": 1260336193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.72518,26.62351,87.72518,26.62351",
+    "geom:latitude":26.62351,
+    "geom:longitude":87.72518,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40050.0",
+    "gn:asciiname":"Jogichaun",
+    "gn:country_code":"NP",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7955475,
+    "gn:latitude":26.62351,
+    "gn:longitude":87.72518,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jogichaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7955475
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6a7935ec47b2b73ca49a7ad61abe4456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1260336193,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1260336193,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1260336193,
+    "wof:lastmodified":1536640556,
+    "wof:name":"Jogichaun",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.72518000000002,
+    26.62351,
+    87.72518000000002,
+    26.62351
+],
+  "geometry": {"coordinates":[87.72518000000002,26.62351],"type":"Point"}
+}

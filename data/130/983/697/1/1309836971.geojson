@@ -1,0 +1,78 @@
+{
+  "id": 1309836971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.89949,28.33936,82.89949,28.33936",
+    "geom:latitude":28.33936,
+    "geom:longitude":82.89949,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530010",
+    "gn:asciiname":"Sirja",
+    "gn:country_code":"NP",
+    "gn:dem":1960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7983193,
+    "gn:latitude":28.33936,
+    "gn:longitude":82.89949,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sirja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7983193
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b6be9f2b089374c8c9b4ca97b7213621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1309836971,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1309836971,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1309836971,
+    "wof:lastmodified":1536885760,
+    "wof:name":"Sirja",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.89949,
+    28.33936,
+    82.89949,
+    28.33936
+],
+  "geometry": {"coordinates":[82.89949,28.33936],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1209942935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.80608,28.90802,81.80608,28.90802",
+    "geom:latitude":28.90802,
+    "geom:longitude":81.80608,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"60.0",
+    "gn:admin4_code":"600055.0",
+    "gn:asciiname":"Naumule",
+    "gn:country_code":"NP",
+    "gn:dem":1090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7938083,
+    "gn:latitude":28.90802,
+    "gn:longitude":81.80608,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Naumule",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092050583,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7938083,
+        "wk:page":"Naumule"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fe9eb76d9af20f269220eb6f6f127ab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1209942935,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1209942935,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1209942935,
+    "wof:lastmodified":1537570148,
+    "wof:name":"Naumule",
+    "wof:parent_id":1092050583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.80608000000002,
+    28.90802,
+    81.80608000000002,
+    28.90802
+],
+  "geometry": {"coordinates":[81.80608000000002,28.90802],"type":"Point"}
+}

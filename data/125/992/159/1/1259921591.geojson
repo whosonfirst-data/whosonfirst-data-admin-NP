@@ -1,0 +1,78 @@
+{
+  "id": 1259921591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.28233,28.17486,84.28233,28.17486",
+    "geom:latitude":28.17486,
+    "geom:longitude":84.28233,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370005",
+    "gn:asciiname":"Bangrebesi",
+    "gn:country_code":"NP",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7965943,
+    "gn:latitude":28.17486,
+    "gn:longitude":84.28233,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bangrebesi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050009,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7965943
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8e24ca186483e5b3befaf2be5f5f4edc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1259921591,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1259921591,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1259921591,
+    "wof:lastmodified":1536724649,
+    "wof:name":"Bangrebesi",
+    "wof:parent_id":1092050009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.28233,
+    28.17486,
+    84.28233,
+    28.17486
+],
+  "geometry": {"coordinates":[84.28233,28.17486],"type":"Point"}
+}

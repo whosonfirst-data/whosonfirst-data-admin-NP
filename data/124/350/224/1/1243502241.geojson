@@ -1,0 +1,78 @@
+{
+  "id": 1243502241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.17672,28.28929,84.17672,28.28929",
+    "geom:latitude":28.28929,
+    "geom:longitude":84.17672,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400028.0",
+    "gn:asciiname":"Laksmana",
+    "gn:country_code":"NP",
+    "gn:dem":1472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7961208,
+    "gn:latitude":28.28929,
+    "gn:longitude":84.17672,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Laksmana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092049331,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7961208
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7a5260f466403cfc68fac4ad752e5eec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1243502241,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1243502241,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1243502241,
+    "wof:lastmodified":1536725544,
+    "wof:name":"Laksmana",
+    "wof:parent_id":1092049331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.17671999999997,
+    28.28929,
+    84.17671999999997,
+    28.28929
+],
+  "geometry": {"coordinates":[84.17671999999997,28.28929],"type":"Point"}
+}

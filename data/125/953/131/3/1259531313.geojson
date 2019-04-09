@@ -1,0 +1,78 @@
+{
+  "id": 1259531313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.85431,27.87965,83.85431,27.87965",
+    "geom:latitude":27.87965,
+    "geom:longitude":83.85431,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390047.0",
+    "gn:asciiname":"Khoriyaghat",
+    "gn:country_code":"NP",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002020,
+    "gn:latitude":27.87965,
+    "gn:longitude":83.85431,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khoriyaghat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002020
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"92e43ad8f008bb34ff1075456c776c7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1259531313,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1259531313,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1259531313,
+    "wof:lastmodified":1536790487,
+    "wof:name":"Khoriyaghat",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.85431,
+    27.87965,
+    83.85431,
+    27.87965
+],
+  "geometry": {"coordinates":[83.85431,27.87965],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226475299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.01819,28.50113,81.01819,28.50113",
+    "geom:latitude":28.50113,
+    "geom:longitude":81.01819,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710041.0",
+    "gn:asciiname":"Nawalpur",
+    "gn:country_code":"NP",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7957835,
+    "gn:latitude":28.50113,
+    "gn:longitude":81.01819,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nawalpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7957835
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ce0eaca61db4db33f74e622752329013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1226475299,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1226475299,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1226475299,
+    "wof:lastmodified":1537096322,
+    "wof:name":"Nawalpur",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.01819,
+    28.50113,
+    81.01819,
+    28.50113
+],
+  "geometry": {"coordinates":[81.01819,28.50113],"type":"Point"}
+}

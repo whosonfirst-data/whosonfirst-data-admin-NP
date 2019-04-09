@@ -1,0 +1,78 @@
+{
+  "id": 1225786943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.72438,26.51627,87.72438,26.51627",
+    "geom:latitude":26.51627,
+    "geom:longitude":87.72438,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40025.0",
+    "gn:asciiname":"Gwaladubba",
+    "gn:country_code":"NP",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7954630,
+    "gn:latitude":26.51627,
+    "gn:longitude":87.72438,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gwaladubba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7954630
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6eb1e3ec028598de913eddd0f480cc9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1225786943,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1225786943,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1225786943,
+    "wof:lastmodified":1537095265,
+    "wof:name":"Gwaladubba",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.72438000000002,
+    26.51627,
+    87.72438000000002,
+    26.51627
+],
+  "geometry": {"coordinates":[87.72438000000002,26.51627],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343290057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.4057,29.44976,80.4057,29.44976",
+    "geom:latitude":29.44976,
+    "geom:longitude":80.4057,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740035",
+    "gn:asciiname":"Lakhulla",
+    "gn:country_code":"NP",
+    "gn:dem":1623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7976309,
+    "gn:latitude":29.44976,
+    "gn:longitude":80.4057,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lakhulla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050255,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7976309
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b89276f6c635f813f9ee9664b6522311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1343290057,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1343290057,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1343290057,
+    "wof:lastmodified":1536991488,
+    "wof:name":"Lakhulla",
+    "wof:parent_id":1092050255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.4057,
+    29.44976,
+    80.4057,
+    29.44976
+],
+  "geometry": {"coordinates":[80.4057,29.44976],"type":"Point"}
+}

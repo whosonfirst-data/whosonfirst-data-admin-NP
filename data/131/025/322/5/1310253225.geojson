@@ -1,0 +1,78 @@
+{
+  "id": 1310253225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.26436,28.08669,85.26436,28.08669",
+    "geom:latitude":28.08669,
+    "geom:longitude":85.26436,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"29",
+    "gn:admin4_code":"290005",
+    "gn:asciiname":"Bokejhunda",
+    "gn:country_code":"NP",
+    "gn:dem":1881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7982143,
+    "gn:latitude":28.08669,
+    "gn:longitude":85.26436,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bokejhunda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048409,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7982143
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f2722a8b574edf15b9a896d60d99f718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048409,
+            "locality_id":1310253225,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048409,
+            "locality_id":1310253225,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1310253225,
+    "wof:lastmodified":1536783939,
+    "wof:name":"Bokejhunda",
+    "wof:parent_id":1092048409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.26436,
+    28.08669,
+    85.26436,
+    28.08669
+],
+  "geometry": {"coordinates":[85.26436,28.08669],"type":"Point"}
+}

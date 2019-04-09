@@ -1,0 +1,78 @@
+{
+  "id": 1343995811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.12588,26.87048,87.12588,26.87048",
+    "geom:latitude":26.87048,
+    "geom:longitude":87.12588,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140024.0",
+    "gn:asciiname":"Ahala",
+    "gn:country_code":"NP",
+    "gn:dem":922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007134,
+    "gn:latitude":26.87048,
+    "gn:longitude":87.12588,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ahala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050179,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007134
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cee4bea169234292312078c652ddc19a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1343995811,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1343995811,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1343995811,
+    "wof:lastmodified":1536968592,
+    "wof:name":"Ahala",
+    "wof:parent_id":1092050179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.12588000000002,
+    26.87048,
+    87.12588000000002,
+    26.87048
+],
+  "geometry": {"coordinates":[87.12588000000002,26.87048],"type":"Point"}
+}

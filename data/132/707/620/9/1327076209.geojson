@@ -1,0 +1,78 @@
+{
+  "id": 1327076209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.58417,27.56925,85.58417,27.56925",
+    "geom:latitude":27.56925,
+    "geom:longitude":85.58417,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240084.0",
+    "gn:asciiname":"Dhodari",
+    "gn:country_code":"NP",
+    "gn:dem":1647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7963896,
+    "gn:latitude":27.56925,
+    "gn:longitude":85.58417,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhodari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7963896
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8f9509e4a24381227bfe95eef43aeb61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1327076209,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1327076209,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1327076209,
+    "wof:lastmodified":1536697564,
+    "wof:name":"Dhodari",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.58417,
+    27.56925,
+    85.58417,
+    27.56925
+],
+  "geometry": {"coordinates":[85.58417,27.56925],"type":"Point"}
+}

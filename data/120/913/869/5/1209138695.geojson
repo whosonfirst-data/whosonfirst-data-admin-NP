@@ -1,0 +1,64 @@
+{
+  "id": 1209138695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.47277,29.21321,80.47277,29.21321",
+    "geom:latitude":29.21321,
+    "geom:longitude":80.47277,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"73.0",
+    "gn:admin4_code":"730012.0",
+    "gn:asciiname":"Dimada",
+    "gn:country_code":"NP",
+    "gn:dem":1641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7935916,
+    "gn:latitude":29.21321,
+    "gn:longitude":80.47277,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dimada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7935916
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"86101632df6720ff33ce2ab2a1e58ad9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209138695
+        }
+    ],
+    "wof:id":1209138695,
+    "wof:lastmodified":1536296575,
+    "wof:name":"Dimada",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.47277,
+    29.21321,
+    80.47277,
+    29.21321
+],
+  "geometry": {"coordinates":[80.47277,29.21321],"type":"Point"}
+}

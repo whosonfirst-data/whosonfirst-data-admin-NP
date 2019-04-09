@@ -1,0 +1,78 @@
+{
+  "id": 1293617357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.77197,28.38511,82.77197,28.38511",
+    "geom:latitude":28.38511,
+    "geom:longitude":82.77197,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530017",
+    "gn:asciiname":"Tabang",
+    "gn:country_code":"NP",
+    "gn:dem":2148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7983542,
+    "gn:latitude":28.38511,
+    "gn:longitude":82.77197,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tabang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7983542
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1bd6ef7206a5a6eed070a284a124a25b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1293617357,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1293617357,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1293617357,
+    "wof:lastmodified":1537093911,
+    "wof:name":"Tabang",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.77197,
+    28.38511,
+    82.77197,
+    28.38511
+],
+  "geometry": {"coordinates":[82.77197,28.38511],"type":"Point"}
+}

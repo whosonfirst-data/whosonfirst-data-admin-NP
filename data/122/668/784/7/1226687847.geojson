@@ -1,0 +1,78 @@
+{
+  "id": 1226687847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.81451,27.19549,86.81451,27.19549",
+    "geom:latitude":27.19549,
+    "geom:longitude":86.81451,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"13",
+    "gn:admin4_code":"130044",
+    "gn:asciiname":"Majhgaun Mohariya",
+    "gn:country_code":"NP",
+    "gn:dem":1345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7964732,
+    "gn:latitude":27.19549,
+    "gn:longitude":86.81451,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Majhgaun Mohariya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050841,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7964732
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"02c2142b517cccc62e391c8f4161ecff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1226687847,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1226687847,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1226687847,
+    "wof:lastmodified":1536798977,
+    "wof:name":"Majhgaun Mohariya",
+    "wof:parent_id":1092050841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.81451,
+    27.19549,
+    86.81451,
+    27.19549
+],
+  "geometry": {"coordinates":[86.81451,27.19549],"type":"Point"}
+}

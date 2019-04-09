@@ -1,0 +1,78 @@
+{
+  "id": 1310246457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.29328,27.96586,83.29328,27.96586",
+    "geom:latitude":27.96586,
+    "geom:longitude":83.29328,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"51.0",
+    "gn:admin4_code":"510010.0",
+    "gn:asciiname":"Raju pokhara",
+    "gn:country_code":"NP",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7939693,
+    "gn:latitude":27.96586,
+    "gn:longitude":83.29328,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Raju pokhara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092049537,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7939693
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2cb965d17b7de7f1873358ef886af5ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049537,
+            "locality_id":1310246457,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049537,
+            "locality_id":1310246457,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1310246457,
+    "wof:lastmodified":1536793352,
+    "wof:name":"Raju pokhara",
+    "wof:parent_id":1092049537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.29328000000002,
+    27.96586,
+    83.29328000000002,
+    27.96586
+],
+  "geometry": {"coordinates":[83.29328000000002,27.96586],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 421190805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-02-02",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.91534,29.30915,80.91534,29.30915",
+    "geom:latitude":29.30915,
+    "geom:longitude":80.91534,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":7.7,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Sudur Pashchimanchal"
+    ],
+    "name:eng_x_variant":[
+        "Far Western"
+    ],
+    "name:kor_x_preferred":[
+        "\uadf9\uc11c\ubd80 \uac1c\ubc1c \uc9c0\uad6c"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u0941\u0926\u0941\u0930 \u092a\u0936\u094d\u091a\u093f\u092e\u093e\u091e\u094d\u091a\u0932 \u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+    ],
+    "qs:gn_country":"NP",
+    "qs:gn_fcode":"ADM1",
+    "qs:gn_id":7289705,
+    "qs:gn_pop":2191000,
+    "qs:name":"Sudur Pashchimanchal",
+    "qs:name_adm0":"Nepal",
+    "qs:name_adm1":"Sudur Pashchimanchal",
+    "qs:photos":41,
+    "qs:photos_1k":8,
+    "qs:photos_9k":11,
+    "qs:photos_9r":10,
+    "qs:photos_all":2484,
+    "qs:photos_sr":2,
+    "qs:placetype":"State",
+    "qs:pop_sr":"12",
+    "qs:qs_id":888183,
+    "qs:woe_adm0":23424911,
+    "qs:woe_id":20070030,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7289705,
+        "gp:id":20070030,
+        "qs:id":888183,
+        "wd:id":"Q28235",
+        "wk:page":"Far-Western Development Region, Nepal"
+    },
+    "wof:country":"NP",
+    "wof:created":1459009669,
+    "wof:geomhash":"5e4929bf7a8abb453c70f39002db6fbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "region_id":421190805
+        }
+    ],
+    "wof:id":421190805,
+    "wof:lang_x_official":[
+        "nep"
+    ],
+    "wof:lang_x_spoken":[
+        "nep"
+    ],
+    "wof:lastmodified":1529541197,
+    "wof:name":"Sudur Pashchimanchal",
+    "wof:parent_id":85632465,
+    "wof:placetype":"region",
+    "wof:population":2191000,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.91534,
+    29.30915,
+    80.91534,
+    29.30915
+],
+  "geometry": {"coordinates":[80.91534,29.30915],"type":"Point"}
+}

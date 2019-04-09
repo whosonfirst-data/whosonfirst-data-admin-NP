@@ -1,0 +1,78 @@
+{
+  "id": 1243402185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.35943,28.24583,84.35943,28.24583",
+    "geom:latitude":28.24583,
+    "geom:longitude":84.35943,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370004",
+    "gn:asciiname":"Upallo Makaidanda",
+    "gn:country_code":"NP",
+    "gn:dem":1184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7965910,
+    "gn:latitude":28.24583,
+    "gn:longitude":84.35943,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Upallo Makaidanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050009,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7965910
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7b56ec85c9cfdeec7ed71bf52263d1fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1243402185,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1243402185,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1243402185,
+    "wof:lastmodified":1536868172,
+    "wof:name":"Upallo Makaidanda",
+    "wof:parent_id":1092050009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.35943,
+    28.24583,
+    84.35943,
+    28.24583
+],
+  "geometry": {"coordinates":[84.35943,28.24583],"type":"Point"}
+}

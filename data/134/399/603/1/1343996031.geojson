@@ -1,0 +1,78 @@
+{
+  "id": 1343996031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.04511,27.11811,85.04511,27.11811",
+    "geom:latitude":27.11811,
+    "geom:longitude":85.04511,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"330064.0",
+    "gn:asciiname":"Badaharwa",
+    "gn:country_code":"NP",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008976,
+    "gn:latitude":27.11811,
+    "gn:longitude":85.04511,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Badaharwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092048051,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008976
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4c4545e7c04e2772a7b999afc7f41135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1343996031,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1343996031,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1343996031,
+    "wof:lastmodified":1536968308,
+    "wof:name":"Badaharwa",
+    "wof:parent_id":1092048051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.04511,
+    27.11811,
+    85.04511,
+    27.11811
+],
+  "geometry": {"coordinates":[85.04510999999999,27.11811],"type":"Point"}
+}

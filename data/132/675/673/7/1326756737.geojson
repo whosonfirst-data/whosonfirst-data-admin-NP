@@ -1,0 +1,78 @@
+{
+  "id": 1326756737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.31981,28.88543,80.31981,28.88543",
+    "geom:latitude":28.88543,
+    "geom:longitude":80.31981,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"72.0",
+    "gn:admin4_code":"720013.0",
+    "gn:asciiname":"Baisakha",
+    "gn:country_code":"NP",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7958981,
+    "gn:latitude":28.88543,
+    "gn:longitude":80.31981,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Baisakha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048227,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7958981
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"58e88455e0f41f6adba0c2d66b75a3aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1326756737,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1326756737,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1326756737,
+    "wof:lastmodified":1536660521,
+    "wof:name":"Baisakha",
+    "wof:parent_id":1092048227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.31981,
+    28.88543,
+    80.31981,
+    28.88543
+],
+  "geometry": {"coordinates":[80.31981,28.88543],"type":"Point"}
+}

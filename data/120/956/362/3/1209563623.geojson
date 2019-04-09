@@ -1,0 +1,64 @@
+{
+  "id": 1209563623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.66016,26.97217,85.66016,26.97217",
+    "geom:latitude":26.97217,
+    "geom:longitude":85.66016,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"19",
+    "gn:admin4_code":"190018",
+    "gn:asciiname":"Miyankhor (Birendra Bajar)",
+    "gn:country_code":"NP",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7991628,
+    "gn:latitude":26.97217,
+    "gn:longitude":85.66016,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Miyankhor (Birendra Bajar)",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7991628
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9e89491e5064cc75cb30c11b828fc4e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209563623
+        }
+    ],
+    "wof:id":1209563623,
+    "wof:lastmodified":1536283315,
+    "wof:name":"Miyankhor (Birendra Bajar)",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.66016,
+    26.97217,
+    85.66016,
+    26.97217
+],
+  "geometry": {"coordinates":[85.66016,26.97217],"type":"Point"}
+}

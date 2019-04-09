@@ -1,0 +1,78 @@
+{
+  "id": 1260127969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.57132,26.99466,87.57132,26.99466",
+    "geom:latitude":26.99466,
+    "geom:longitude":87.57132,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"2",
+    "gn:admin4_code":"20019.0",
+    "gn:asciiname":"Thapagaun",
+    "gn:country_code":"NP",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7977546,
+    "gn:latitude":26.99466,
+    "gn:longitude":87.57132,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thapagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7977546
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"59f9718877a938f455197e36a90f82bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1260127969,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1260127969,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1260127969,
+    "wof:lastmodified":1536924840,
+    "wof:name":"Thapagaun",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.57132,
+    26.99466,
+    87.57132,
+    26.99466
+],
+  "geometry": {"coordinates":[87.57132,26.99466],"type":"Point"}
+}

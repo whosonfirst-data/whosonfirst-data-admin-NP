@@ -1,0 +1,64 @@
+{
+  "id": 1209252287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.28815,28.05598,83.28815,28.05598",
+    "geom:latitude":28.05598,
+    "geom:longitude":83.28815,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"46.0",
+    "gn:admin4_code":"460035.0",
+    "gn:asciiname":"Khami Pokhara",
+    "gn:country_code":"NP",
+    "gn:dem":1674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7950199,
+    "gn:latitude":28.05598,
+    "gn:longitude":83.28815,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khami Pokhara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7950199
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d3c2e92d4533b458984b1104fb956d41",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209252287
+        }
+    ],
+    "wof:id":1209252287,
+    "wof:lastmodified":1536292966,
+    "wof:name":"Khami Pokhara",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.28815,
+    28.05598,
+    83.28815,
+    28.05598
+],
+  "geometry": {"coordinates":[83.28815,28.05598],"type":"Point"}
+}

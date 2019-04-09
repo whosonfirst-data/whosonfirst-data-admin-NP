@@ -1,0 +1,78 @@
+{
+  "id": 1243212127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.81024,27.52336,85.81024,27.52336",
+    "geom:latitude":27.52336,
+    "geom:longitude":85.81024,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240051.0",
+    "gn:asciiname":"Binthali",
+    "gn:country_code":"NP",
+    "gn:dem":942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7963329,
+    "gn:latitude":27.52336,
+    "gn:longitude":85.81024,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Binthali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7963329
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4eb7d7458a40e57a1fce06ce099a8ea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1243212127,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1243212127,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1243212127,
+    "wof:lastmodified":1536645924,
+    "wof:name":"Binthali",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.81024000000002,
+    27.52336,
+    85.81024000000002,
+    27.52336
+],
+  "geometry": {"coordinates":[85.81024000000002,27.52336],"type":"Point"}
+}

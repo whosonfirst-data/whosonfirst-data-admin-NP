@@ -1,0 +1,78 @@
+{
+  "id": 1242910933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.08354,28.066,84.08354,28.066",
+    "geom:latitude":28.066,
+    "geom:longitude":84.08354,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380020.0",
+    "gn:asciiname":"Tar",
+    "gn:country_code":"NP",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003461,
+    "gn:latitude":28.066,
+    "gn:longitude":84.08354,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003461
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0d4b773b205d270593c02041517554bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1242910933,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1242910933,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1242910933,
+    "wof:lastmodified":1537077363,
+    "wof:name":"Tar",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.08354,
+    28.066,
+    84.08354,
+    28.066
+],
+  "geometry": {"coordinates":[84.08354,28.066],"type":"Point"}
+}

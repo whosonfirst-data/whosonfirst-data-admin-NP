@@ -1,0 +1,65 @@
+{
+  "id": 1209146779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.67964,27.08558,86.67964,27.08558",
+    "geom:latitude":27.08558,
+    "geom:longitude":86.67964,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140002.0",
+    "gn:asciiname":"Balamta",
+    "gn:country_code":"NP",
+    "gn:dem":1076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8006470,
+    "gn:latitude":27.08558,
+    "gn:longitude":86.67964,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Balamta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8006470,
+        "wk:page":"Balamta"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7d8de345757122dd02190991968cc6ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209146779
+        }
+    ],
+    "wof:id":1209146779,
+    "wof:lastmodified":1537570157,
+    "wof:name":"Balamta",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.67964,
+    27.08558,
+    86.67964,
+    27.08558
+],
+  "geometry": {"coordinates":[86.67964000000001,27.08558],"type":"Point"}
+}

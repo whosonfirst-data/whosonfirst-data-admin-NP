@@ -1,0 +1,75 @@
+{
+  "id": 1360198915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.05407,28.06101,84.05407,28.06101",
+    "geom:latitude":28.06101,
+    "geom:longitude":84.05407,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bathala",
+    "gn:country_code":"NP",
+    "gn:dem":780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283651,
+    "gn:latitude":28.06101,
+    "gn:longitude":84.05407,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Bath\u0101la",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283651
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0d94943621635d2d33e7ba604dc46eee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1360198915,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1360198915,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1360198915,
+    "wof:lastmodified":1536781865,
+    "wof:name":"Bathala",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.05407,
+    28.06101,
+    84.05407,
+    28.06101
+],
+  "geometry": {"coordinates":[84.05407,28.06101],"type":"Point"}
+}

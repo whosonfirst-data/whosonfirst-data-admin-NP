@@ -1,0 +1,78 @@
+{
+  "id": 1327464771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.95188,29.6424,80.95188,29.6424",
+    "geom:latitude":29.6424,
+    "geom:longitude":80.95188,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680008",
+    "gn:asciiname":"Salyad",
+    "gn:country_code":"NP",
+    "gn:dem":2242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7988923,
+    "gn:latitude":29.6424,
+    "gn:longitude":80.95188,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Salyad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048571,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7988923
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"dad29b120ef14b3149bf34b087337598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1327464771,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1327464771,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1327464771,
+    "wof:lastmodified":1536632668,
+    "wof:name":"Salyad",
+    "wof:parent_id":1092048571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.95188,
+    29.6424,
+    80.95188,
+    29.6424
+],
+  "geometry": {"coordinates":[80.95188,29.6424],"type":"Point"}
+}

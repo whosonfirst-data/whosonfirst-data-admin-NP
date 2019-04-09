@@ -1,0 +1,61 @@
+{
+  "id": 1209224335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.62134,27.59556,85.62134,27.59556",
+    "geom:latitude":27.59556,
+    "geom:longitude":85.62134,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bella",
+    "gn:country_code":"NP",
+    "gn:dem":1224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10321844,
+    "gn:latitude":27.59556,
+    "gn:longitude":85.62134,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Bell\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10321844
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d533fbc64a9f63ae57160dc468ada418",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209224335
+        }
+    ],
+    "wof:id":1209224335,
+    "wof:lastmodified":1536293850,
+    "wof:name":"Bella",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.62134,
+    27.59556,
+    85.62134,
+    27.59556
+],
+  "geometry": {"coordinates":[85.62134,27.59556],"type":"Point"}
+}

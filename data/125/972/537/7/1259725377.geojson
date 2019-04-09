@@ -1,0 +1,78 @@
+{
+  "id": 1259725377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.82595,27.08954,87.82595,27.08954",
+    "geom:latitude":27.08954,
+    "geom:longitude":87.82595,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"2",
+    "gn:admin4_code":"20033",
+    "gn:asciiname":"Ghalegaun",
+    "gn:country_code":"NP",
+    "gn:dem":1951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7977941,
+    "gn:latitude":27.08954,
+    "gn:longitude":87.82595,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ghalegaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7977941
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2dc6a57a8f20f535223a6866c1898a1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1259725377,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1259725377,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1259725377,
+    "wof:lastmodified":1537006013,
+    "wof:name":"Ghalegaun",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.82595,
+    27.08954,
+    87.82595,
+    27.08954
+],
+  "geometry": {"coordinates":[87.82595000000001,27.08954],"type":"Point"}
+}

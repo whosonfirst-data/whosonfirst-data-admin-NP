@@ -1,0 +1,78 @@
+{
+  "id": 1242921391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.6377,27.88579,86.6377,27.88579",
+    "geom:latitude":27.88579,
+    "geom:longitude":86.6377,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"11",
+    "gn:admin4_code":"110024.0",
+    "gn:asciiname":"Makyo",
+    "gn:country_code":"NP",
+    "gn:dem":4129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7997071,
+    "gn:latitude":27.88579,
+    "gn:longitude":86.6377,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Makyo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049841,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7997071
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"05ae5d9d4d419b34511d7377fb4f49b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1242921391,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1242921391,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1242921391,
+    "wof:lastmodified":1537062799,
+    "wof:name":"Makyo",
+    "wof:parent_id":1092049841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.6377,
+    27.88579,
+    86.6377,
+    27.88579
+],
+  "geometry": {"coordinates":[86.6377,27.88579],"type":"Point"}
+}

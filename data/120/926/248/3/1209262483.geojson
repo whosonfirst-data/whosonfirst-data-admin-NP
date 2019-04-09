@@ -1,0 +1,64 @@
+{
+  "id": 1209262483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.31008,28.20152,83.31008,28.20152",
+    "geom:latitude":28.20152,
+    "geom:longitude":83.31008,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450050.0",
+    "gn:asciiname":"Labdi",
+    "gn:country_code":"NP",
+    "gn:dem":1132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7962973,
+    "gn:latitude":28.20152,
+    "gn:longitude":83.31008,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Labdi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7962973
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d6b9c1740ca584cfa97c4b21c3318028",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209262483
+        }
+    ],
+    "wof:id":1209262483,
+    "wof:lastmodified":1536292642,
+    "wof:name":"Labdi",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.31008,
+    28.20152,
+    83.31008,
+    28.20152
+],
+  "geometry": {"coordinates":[83.31008,28.20152],"type":"Point"}
+}

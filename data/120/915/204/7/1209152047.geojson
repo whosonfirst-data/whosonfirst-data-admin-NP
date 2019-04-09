@@ -1,0 +1,64 @@
+{
+  "id": 1209152047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.70556,27.90447,84.70556,27.90447",
+    "geom:latitude":27.90447,
+    "geom:longitude":84.70556,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360022.0",
+    "gn:asciiname":"Kamigaun",
+    "gn:country_code":"NP",
+    "gn:dem":973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7948420,
+    "gn:latitude":27.90447,
+    "gn:longitude":84.70556,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kamigaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7948420
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"751db19aa603256fd6d3619b8dc43e14",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209152047
+        }
+    ],
+    "wof:id":1209152047,
+    "wof:lastmodified":1536296169,
+    "wof:name":"Kamigaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.70555999999998,
+    27.90447,
+    84.70555999999998,
+    27.90447
+],
+  "geometry": {"coordinates":[84.70555999999998,27.90447],"type":"Point"}
+}

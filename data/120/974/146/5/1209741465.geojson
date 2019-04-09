@@ -1,0 +1,78 @@
+{
+  "id": 1209741465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.65715,28.55326,82.65715,28.55326",
+    "geom:latitude":28.55326,
+    "geom:longitude":82.65715,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"54",
+    "gn:admin4_code":"540024",
+    "gn:asciiname":"Khoriya",
+    "gn:country_code":"NP",
+    "gn:dem":1542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7985837,
+    "gn:latitude":28.55326,
+    "gn:longitude":82.65715,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khoriya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049495,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7985837
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"86c6063777d5bc991e27b4ed22c6c807",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1209741465,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1209741465,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1209741465,
+    "wof:lastmodified":1536367844,
+    "wof:name":"Khoriya",
+    "wof:parent_id":1092049495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.65715,
+    28.55326,
+    82.65715,
+    28.55326
+],
+  "geometry": {"coordinates":[82.65715,28.55326],"type":"Point"}
+}

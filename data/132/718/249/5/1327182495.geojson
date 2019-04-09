@@ -1,0 +1,88 @@
+{
+  "id": 1327182495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.68276,27.13703,84.68276,27.13703",
+    "geom:latitude":27.13703,
+    "geom:longitude":84.68276,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"34",
+    "gn:admin4_code":"340037",
+    "gn:asciiname":"Dasauta",
+    "gn:country_code":"NP",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7979382,
+    "gn:latitude":27.13703,
+    "gn:longitude":84.68276,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dasauta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092050453,
+        1108807141,
+        85632469,
+        85672225,
+        890508821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7979382
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7921eaa54e903e5ec7d103d0f67386ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050453,
+            "locality_id":1327182495,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050453,
+            "locality_id":1327182495,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890508821,
+            "locality_id":1327182495,
+            "region_id":85672225
+        }
+    ],
+    "wof:id":1327182495,
+    "wof:lastmodified":1537040046,
+    "wof:name":"Dasauta",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.68276,
+    27.13703,
+    84.68276,
+    27.13703
+],
+  "geometry": {"coordinates":[84.68276,27.13703],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1260021749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.10371,27.75825,85.10371,27.75825",
+    "geom:latitude":27.75825,
+    "geom:longitude":85.10371,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300022.0",
+    "gn:asciiname":"Barahithan",
+    "gn:country_code":"NP",
+    "gn:dem":1182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7941775,
+    "gn:latitude":27.75825,
+    "gn:longitude":85.10371,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Barahithan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7941775
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2319a8f009ebe1e61602b009e6d892dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1260021749,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1260021749,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1260021749,
+    "wof:lastmodified":1537073874,
+    "wof:name":"Barahithan",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.10370999999998,
+    27.75825,
+    85.10370999999998,
+    27.75825
+],
+  "geometry": {"coordinates":[85.10370999999998,27.75825],"type":"Point"}
+}

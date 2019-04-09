@@ -1,0 +1,78 @@
+{
+  "id": 1343498835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.67758,28.03469,83.67758,28.03469",
+    "geom:latitude":28.03469,
+    "geom:longitude":83.67758,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"44",
+    "gn:admin4_code":"440054",
+    "gn:asciiname":"Adhikaridanda",
+    "gn:country_code":"NP",
+    "gn:dem":779,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7979141,
+    "gn:latitude":28.03469,
+    "gn:longitude":83.67758,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Adhikaridanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049297,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7979141
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cdb9b71483ea58d14c2d8819c90b6519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049297,
+            "locality_id":1343498835,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049297,
+            "locality_id":1343498835,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1343498835,
+    "wof:lastmodified":1536690841,
+    "wof:name":"Adhikaridanda",
+    "wof:parent_id":1092049297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.67758,
+    28.03469,
+    83.67758,
+    28.03469
+],
+  "geometry": {"coordinates":[83.67758000000001,28.03469],"type":"Point"}
+}

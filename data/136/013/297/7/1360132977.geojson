@@ -1,0 +1,78 @@
+{
+  "id": 1360132977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.90731,27.44349,85.90731,27.44349",
+    "geom:latitude":27.44349,
+    "geom:longitude":85.90731,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"21",
+    "gn:admin4_code":"210032",
+    "gn:asciiname":"Nigalpani",
+    "gn:country_code":"NP",
+    "gn:dem":1089,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7981590,
+    "gn:latitude":27.44349,
+    "gn:longitude":85.90731,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nigalpani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049711,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7981590
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f0359c42aa5cc5e290bc468c88adde6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1360132977,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1360132977,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1360132977,
+    "wof:lastmodified":1536875802,
+    "wof:name":"Nigalpani",
+    "wof:parent_id":1092049711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.90731,
+    27.44349,
+    85.90731,
+    27.44349
+],
+  "geometry": {"coordinates":[85.90731,27.44349],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276470831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.61419,28.70366,81.61419,28.70366",
+    "geom:latitude":28.70366,
+    "geom:longitude":81.61419,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"60.0",
+    "gn:admin4_code":"600051.0",
+    "gn:asciiname":"Gaibanna",
+    "gn:country_code":"NP",
+    "gn:dem":1724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7937997,
+    "gn:latitude":28.70366,
+    "gn:longitude":81.61419,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gaibanna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092050583,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7937997
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b0e09b2f12d3bcdbcb988512f9c35a8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1276470831,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1276470831,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1276470831,
+    "wof:lastmodified":1537088606,
+    "wof:name":"Gaibanna",
+    "wof:parent_id":1092050583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.61419000000002,
+    28.70366,
+    81.61419000000002,
+    28.70366
+],
+  "geometry": {"coordinates":[81.61419000000002,28.70366],"type":"Point"}
+}

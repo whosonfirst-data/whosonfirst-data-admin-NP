@@ -1,0 +1,64 @@
+{
+  "id": 1209657269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.78138,27.61057,85.78138,27.61057",
+    "geom:latitude":27.61057,
+    "geom:longitude":85.78138,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240015.0",
+    "gn:asciiname":"Dudugaun",
+    "gn:country_code":"NP",
+    "gn:dem":1796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7962775,
+    "gn:latitude":27.61057,
+    "gn:longitude":85.78138,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dudugaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7962775
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1a11bffb3c0dc7b55b2d6e89195f4fa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209657269
+        }
+    ],
+    "wof:id":1209657269,
+    "wof:lastmodified":1536280386,
+    "wof:name":"Dudugaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.78138,
+    27.610570000000006,
+    85.78138,
+    27.610570000000006
+],
+  "geometry": {"coordinates":[85.78138,27.61057000000001],"type":"Point"}
+}

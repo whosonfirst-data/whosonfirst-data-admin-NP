@@ -1,0 +1,78 @@
+{
+  "id": 1343492267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.93292,29.30263,80.93292,29.30263",
+    "geom:latitude":29.30263,
+    "geom:longitude":80.93292,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"70.0",
+    "gn:admin4_code":"700001.0",
+    "gn:asciiname":"Rauwa",
+    "gn:country_code":"NP",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7945818,
+    "gn:latitude":29.30263,
+    "gn:longitude":80.93292,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Rauwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048653,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7945818
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cb027b65bfc796667fcb74228c881b84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1343492267,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1343492267,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1343492267,
+    "wof:lastmodified":1536700581,
+    "wof:name":"Rauwa",
+    "wof:parent_id":1092048653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.93292,
+    29.30263,
+    80.93292,
+    29.30263
+],
+  "geometry": {"coordinates":[80.93292,29.30263],"type":"Point"}
+}

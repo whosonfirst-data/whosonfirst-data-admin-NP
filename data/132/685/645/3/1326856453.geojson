@@ -1,0 +1,78 @@
+{
+  "id": 1326856453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.90476,28.98795,80.90476,28.98795",
+    "geom:latitude":28.98795,
+    "geom:longitude":80.90476,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"70.0",
+    "gn:admin4_code":"700011.0",
+    "gn:asciiname":"Gauwadigado",
+    "gn:country_code":"NP",
+    "gn:dem":975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7946267,
+    "gn:latitude":28.98795,
+    "gn:longitude":80.90476,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gauwadigado",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048653,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7946267
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"98b2e58695619e2640a1b116e8a43401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1326856453,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1326856453,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1326856453,
+    "wof:lastmodified":1537013214,
+    "wof:name":"Gauwadigado",
+    "wof:parent_id":1092048653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.90476,
+    28.98795,
+    80.90476,
+    28.98795
+],
+  "geometry": {"coordinates":[80.90476,28.98795],"type":"Point"}
+}

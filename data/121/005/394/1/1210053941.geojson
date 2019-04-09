@@ -1,0 +1,78 @@
+{
+  "id": 1210053941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.02201,27.85867,84.02201,27.85867",
+    "geom:latitude":27.85867,
+    "geom:longitude":84.02201,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"47",
+    "gn:admin4_code":"470065",
+    "gn:asciiname":"Bhola",
+    "gn:country_code":"NP",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7977052,
+    "gn:latitude":27.85867,
+    "gn:longitude":84.02201,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7977052
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"dab45048f299cfc389f1f0da8d3394d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1210053941,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1210053941,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1210053941,
+    "wof:lastmodified":1536370521,
+    "wof:name":"Bhola",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.02201,
+    27.85867,
+    84.02201,
+    27.85867
+],
+  "geometry": {"coordinates":[84.02200999999999,27.85867],"type":"Point"}
+}

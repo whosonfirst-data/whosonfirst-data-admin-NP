@@ -1,0 +1,64 @@
+{
+  "id": 1209162641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.88672,26.5977,86.88672,26.5977",
+    "geom:latitude":26.5977,
+    "geom:longitude":86.88672,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"15",
+    "gn:admin4_code":"150076",
+    "gn:asciiname":"Dhanpuri Giritol",
+    "gn:country_code":"NP",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7991179,
+    "gn:latitude":26.5977,
+    "gn:longitude":86.88672,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhanpuri Giritol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7991179
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bd592cc48639218a47ab84c2a709a0e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209162641
+        }
+    ],
+    "wof:id":1209162641,
+    "wof:lastmodified":1536295848,
+    "wof:name":"Dhanpuri Giritol",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.88672,
+    26.5977,
+    86.88672,
+    26.5977
+],
+  "geometry": {"coordinates":[86.88672,26.5977],"type":"Point"}
+}

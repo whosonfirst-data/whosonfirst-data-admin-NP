@@ -1,0 +1,78 @@
+{
+  "id": 1344006437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.18008,27.57729,86.18008,27.57729",
+    "geom:latitude":27.57729,
+    "geom:longitude":86.18008,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"22.0",
+    "gn:admin4_code":"220052.0",
+    "gn:asciiname":"Dandakharka",
+    "gn:country_code":"NP",
+    "gn:dem":2190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7945323,
+    "gn:latitude":27.57729,
+    "gn:longitude":86.18008,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dandakharka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675579,
+        1092050535,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7945323
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"dc99313e1255a4163951cc77215d9778",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1344006437,
+            "region_id":85675579
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1344006437,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1344006437,
+    "wof:lastmodified":1536953819,
+    "wof:name":"Dandakharka",
+    "wof:parent_id":1092050535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.18008,
+    27.57729,
+    86.18008,
+    27.57729
+],
+  "geometry": {"coordinates":[86.18008,27.57729],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1309847701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.15166,28.16697,84.15166,28.16697",
+    "geom:latitude":28.16697,
+    "geom:longitude":84.15166,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400036.0",
+    "gn:asciiname":"MathilloBharpola",
+    "gn:country_code":"NP",
+    "gn:dem":781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7961606,
+    "gn:latitude":28.16697,
+    "gn:longitude":84.15166,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"MathilloBharpola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092049331,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7961606
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a99ec7da3e0e3a9d3da8eeae3bdb70c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1309847701,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1309847701,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1309847701,
+    "wof:lastmodified":1536869602,
+    "wof:name":"MathilloBharpola",
+    "wof:parent_id":1092049331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.15165999999998,
+    28.16697000000001,
+    84.15165999999998,
+    28.16697000000001
+],
+  "geometry": {"coordinates":[84.15165999999998,28.16697000000001],"type":"Point"}
+}

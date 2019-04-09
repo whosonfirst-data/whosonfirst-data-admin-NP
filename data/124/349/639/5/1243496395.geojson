@@ -1,0 +1,78 @@
+{
+  "id": 1243496395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.30206,27.21477,85.30206,27.21477",
+    "geom:latitude":27.21477,
+    "geom:longitude":85.30206,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"32",
+    "gn:admin4_code":"320019",
+    "gn:asciiname":"Dangdunge",
+    "gn:country_code":"NP",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7982432,
+    "gn:latitude":27.21477,
+    "gn:longitude":85.30206,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dangdunge",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049419,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7982432
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5771e304ddd32e73608d8ee066362104",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1243496395,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049419,
+            "locality_id":1243496395,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1243496395,
+    "wof:lastmodified":1536733801,
+    "wof:name":"Dangdunge",
+    "wof:parent_id":1092049419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.30206,
+    27.21477,
+    85.30206,
+    27.21477
+],
+  "geometry": {"coordinates":[85.30206,27.21477],"type":"Point"}
+}

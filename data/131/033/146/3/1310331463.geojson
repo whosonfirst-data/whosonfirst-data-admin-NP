@@ -1,0 +1,78 @@
+{
+  "id": 1310331463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.29296,29.12477,81.29296,29.12477",
+    "geom:latitude":29.12477,
+    "geom:longitude":81.29296,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"69.0",
+    "gn:admin4_code":"690054.0",
+    "gn:asciiname":"Dudullakopani",
+    "gn:country_code":"NP",
+    "gn:dem":1801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8010326,
+    "gn:latitude":29.12477,
+    "gn:longitude":81.29296,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dudullakopani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048527,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8010326
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"efe1783af1c979deafd53e07b548d57a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1310331463,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "locality_id":1310331463,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1310331463,
+    "wof:lastmodified":1536670636,
+    "wof:name":"Dudullakopani",
+    "wof:parent_id":1092048527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.29296,
+    29.12477,
+    81.29296,
+    29.12477
+],
+  "geometry": {"coordinates":[81.29295999999999,29.12477],"type":"Point"}
+}

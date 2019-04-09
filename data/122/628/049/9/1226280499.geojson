@@ -1,0 +1,78 @@
+{
+  "id": 1226280499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.37219,27.77455,87.37219,27.77455",
+    "geom:latitude":27.77455,
+    "geom:longitude":87.37219,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"9",
+    "gn:admin4_code":"90010",
+    "gn:asciiname":"Pharangma",
+    "gn:country_code":"NP",
+    "gn:dem":2212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7990031,
+    "gn:latitude":27.77455,
+    "gn:longitude":87.37219,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pharangma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049597,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7990031
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0f039b126f4a9a9c419b6fe1bf0d07a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1226280499,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1226280499,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1226280499,
+    "wof:lastmodified":1536882876,
+    "wof:name":"Pharangma",
+    "wof:parent_id":1092049597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.37219,
+    27.77455,
+    87.37219,
+    27.77455
+],
+  "geometry": {"coordinates":[87.37219,27.77455],"type":"Point"}
+}

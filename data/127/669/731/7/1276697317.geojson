@@ -1,0 +1,78 @@
+{
+  "id": 1276697317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.92932,27.94185,83.92932,27.94185",
+    "geom:latitude":27.94185,
+    "geom:longitude":83.92932,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390031.0",
+    "gn:asciiname":"Deurali",
+    "gn:country_code":"NP",
+    "gn:dem":874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001406,
+    "gn:latitude":27.94185,
+    "gn:longitude":83.92932,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Deurali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001406
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7236866d45a4227175a8bb3bad0a2d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1276697317,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1276697317,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1276697317,
+    "wof:lastmodified":1536788334,
+    "wof:name":"Deurali",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.92931999999998,
+    27.94185,
+    83.92931999999998,
+    27.94185
+],
+  "geometry": {"coordinates":[83.92931999999998,27.94185],"type":"Point"}
+}

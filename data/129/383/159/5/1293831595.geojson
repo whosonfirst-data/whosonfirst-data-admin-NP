@@ -1,0 +1,78 @@
+{
+  "id": 1293831595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.57358,28.14175,84.57358,28.14175",
+    "geom:latitude":28.14175,
+    "geom:longitude":84.57358,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370037",
+    "gn:asciiname":"Ramche",
+    "gn:country_code":"NP",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7966703,
+    "gn:latitude":28.14175,
+    "gn:longitude":84.57358,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ramche",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050009,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7966703
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"986068ce4f3196235dfb776d64b25e00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1293831595,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1293831595,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293831595,
+    "wof:lastmodified":1536788613,
+    "wof:name":"Ramche",
+    "wof:parent_id":1092050009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.57358,
+    28.14175,
+    84.57358,
+    28.14175
+],
+  "geometry": {"coordinates":[84.57358000000001,28.14175],"type":"Point"}
+}

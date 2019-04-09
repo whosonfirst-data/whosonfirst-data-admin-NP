@@ -1,0 +1,75 @@
+{
+  "id": 1276891877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.96197,29.37253,81.96197,29.37253",
+    "geom:latitude":29.37253,
+    "geom:longitude":81.96197,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Bistbara",
+    "gn:country_code":"NP",
+    "gn:dem":2714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283575,
+    "gn:latitude":29.37253,
+    "gn:longitude":81.96197,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Bistb\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092050797,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283575
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"020fd60b4bdf168a28e3d2d075af7770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1276891877,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1276891877,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1276891877,
+    "wof:lastmodified":1537024008,
+    "wof:name":"Bistbara",
+    "wof:parent_id":1092050797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.96197,
+    29.37253,
+    81.96197,
+    29.37253
+],
+  "geometry": {"coordinates":[81.96196999999999,29.37253],"type":"Point"}
+}

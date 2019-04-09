@@ -1,0 +1,83 @@
+{
+  "id": 1242625683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.71307,27.63655,85.71307,27.63655",
+    "geom:latitude":27.63655,
+    "geom:longitude":85.71307,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Sunkoshi",
+    "gn:country_code":"NP",
+    "gn:dem":738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10322087,
+    "gn:latitude":27.63655,
+    "gn:longitude":85.71307,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Sunkoshi\u0307\u0304",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Sunkoshi\u0307\u0304"
+    ],
+    "name:nep_x_variant":[
+        "Sunkosh\u012b",
+        "Pur\u0101no Baj\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10322087
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"977ab0a90f86ab3a85685b6d42d5986c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1242625683,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1242625683,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1242625683,
+    "wof:lastmodified":1537676088,
+    "wof:name":"Sunkoshi",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.71307,
+    27.63655,
+    85.71307,
+    27.63655
+],
+  "geometry": {"coordinates":[85.71307,27.63655],"type":"Point"}
+}

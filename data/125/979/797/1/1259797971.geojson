@@ -1,0 +1,79 @@
+{
+  "id": 1259797971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.96817,29.46933,80.96817,29.46933",
+    "geom:latitude":29.46933,
+    "geom:longitude":80.96817,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Thalara",
+    "gn:country_code":"NP",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282691,
+    "gn:latitude":29.46933,
+    "gn:longitude":80.96817,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Thal\u0101ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thal\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048571,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282691,
+        "wk:page":"Thalara"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0fcb57c130adef8c34d160a20fb5c0df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1259797971,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1259797971,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1259797971,
+    "wof:lastmodified":1537676038,
+    "wof:name":"Thalara",
+    "wof:parent_id":1092048571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.96817,
+    29.46933,
+    80.96817,
+    29.46933
+],
+  "geometry": {"coordinates":[80.96817,29.46933],"type":"Point"}
+}

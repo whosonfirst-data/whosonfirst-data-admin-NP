@@ -1,0 +1,78 @@
+{
+  "id": 1276590245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.97131,27.04431,84.97131,27.04431",
+    "geom:latitude":27.04431,
+    "geom:longitude":84.97131,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"330082.0",
+    "gn:asciiname":"Belahiya",
+    "gn:country_code":"NP",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009092,
+    "gn:latitude":27.04431,
+    "gn:longitude":84.97131,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Belahiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092048051,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009092
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"feda64a0aca038e669367b6686b94ba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1276590245,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1276590245,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1276590245,
+    "wof:lastmodified":1536932554,
+    "wof:name":"Belahiya",
+    "wof:parent_id":1092048051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.97131,
+    27.04431,
+    84.97131,
+    27.04431
+],
+  "geometry": {"coordinates":[84.97131,27.04431],"type":"Point"}
+}

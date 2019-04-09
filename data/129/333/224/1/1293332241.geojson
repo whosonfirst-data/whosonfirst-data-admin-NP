@@ -1,0 +1,78 @@
+{
+  "id": 1293332241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.71456,27.96314,84.71456,27.96314",
+    "geom:latitude":27.96314,
+    "geom:longitude":84.71456,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360012.0",
+    "gn:asciiname":"Mailun",
+    "gn:country_code":"NP",
+    "gn:dem":816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7948091,
+    "gn:latitude":27.96314,
+    "gn:longitude":84.71456,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mailun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7948091
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c6a1b8e1b61113ab3ffba95fc29b49fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1293332241,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1293332241,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293332241,
+    "wof:lastmodified":1537010124,
+    "wof:name":"Mailun",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.71455999999998,
+    27.96314000000001,
+    84.71455999999998,
+    27.96314000000001
+],
+  "geometry": {"coordinates":[84.71455999999998,27.96314000000001],"type":"Point"}
+}

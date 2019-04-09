@@ -1,0 +1,78 @@
+{
+  "id": 1293320955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.19728,28.39366,82.19728,28.39366",
+    "geom:latitude":28.39366,
+    "geom:longitude":82.19728,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550009",
+    "gn:asciiname":"Maltachhap",
+    "gn:country_code":"NP",
+    "gn:dem":1234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7988135,
+    "gn:latitude":28.39366,
+    "gn:longitude":82.19728,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Maltachhap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049579,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7988135
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"08154a25b4a5b2bd72b468bdf924c622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1293320955,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1293320955,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1293320955,
+    "wof:lastmodified":1537026062,
+    "wof:name":"Maltachhap",
+    "wof:parent_id":1092049579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.19728,
+    28.39366,
+    82.19728,
+    28.39366
+],
+  "geometry": {"coordinates":[82.19728000000001,28.39366],"type":"Point"}
+}

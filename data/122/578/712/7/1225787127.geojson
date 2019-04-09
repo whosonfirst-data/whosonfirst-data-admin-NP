@@ -1,0 +1,78 @@
+{
+  "id": 1225787127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.16334,27.58858,86.16334,27.58858",
+    "geom:latitude":27.58858,
+    "geom:longitude":86.16334,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"22.0",
+    "gn:admin4_code":"220052.0",
+    "gn:asciiname":"Mahure Bhanjyang",
+    "gn:country_code":"NP",
+    "gn:dem":2194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7945326,
+    "gn:latitude":27.58858,
+    "gn:longitude":86.16334,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mahure Bhanjyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675579,
+        1092050535,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7945326
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bbb1cc45c4d7bd74e7851b24f10b9f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1225787127,
+            "region_id":85675579
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1225787127,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1225787127,
+    "wof:lastmodified":1537095034,
+    "wof:name":"Mahure Bhanjyang",
+    "wof:parent_id":1092050535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.16334,
+    27.58858,
+    86.16334,
+    27.58858
+],
+  "geometry": {"coordinates":[86.16334000000001,27.58858],"type":"Point"}
+}

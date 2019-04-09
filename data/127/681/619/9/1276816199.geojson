@@ -1,0 +1,78 @@
+{
+  "id": 1276816199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.91908,28.20103,83.91908,28.20103",
+    "geom:latitude":28.20103,
+    "geom:longitude":83.91908,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400033.0",
+    "gn:asciiname":"Baspani",
+    "gn:country_code":"NP",
+    "gn:dem":1222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7961548,
+    "gn:latitude":28.20103,
+    "gn:longitude":83.91908,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Baspani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092049331,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7961548
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1e08f728400e8f9a80c0a9bf7f783830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1276816199,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049331,
+            "locality_id":1276816199,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1276816199,
+    "wof:lastmodified":1536627157,
+    "wof:name":"Baspani",
+    "wof:parent_id":1092049331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.91908000000002,
+    28.20103,
+    83.91908000000002,
+    28.20103
+],
+  "geometry": {"coordinates":[83.91908000000002,28.20103],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310219443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.08054,26.87963,88.08054,26.87963",
+    "geom:latitude":26.87963,
+    "geom:longitude":88.08054,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Paltage",
+    "gn:country_code":"NP",
+    "gn:dem":1564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11602102,
+    "gn:latitude":26.87963,
+    "gn:longitude":88.08054,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"P\u0101l\u1e6d\u0101\u0303ge",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "P\u0101l\u1e6d\u0101\u0303ge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11602102
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6d67837c39b8d847a18e5a45f62835a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1310219443,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1310219443,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1310219443,
+    "wof:lastmodified":1537676119,
+    "wof:name":"Paltage",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.08054,
+    26.87963,
+    88.08054,
+    26.87963
+],
+  "geometry": {"coordinates":[88.08054,26.87963],"type":"Point"}
+}

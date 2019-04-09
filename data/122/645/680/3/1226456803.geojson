@@ -1,0 +1,75 @@
+{
+  "id": 1226456803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.00194,28.12871,85.00194,28.12871",
+    "geom:latitude":28.12871,
+    "geom:longitude":85.00194,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Karan",
+    "gn:country_code":"NP",
+    "gn:dem":1576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10317848,
+    "gn:latitude":28.12871,
+    "gn:longitude":85.00194,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Kara\u1e45",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10317848
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"efa3a71f1f6b7568c2d08ccabbca95ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1226456803,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1226456803,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1226456803,
+    "wof:lastmodified":1536627725,
+    "wof:name":"Karan",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.00194,
+    28.12871,
+    85.00194,
+    28.12871
+],
+  "geometry": {"coordinates":[85.00194,28.12871],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209456679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.74307,28.19918,83.74307,28.19918",
+    "geom:latitude":28.19918,
+    "geom:longitude":83.74307,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"44",
+    "gn:admin4_code":"440029",
+    "gn:asciiname":"Chalisedanda",
+    "gn:country_code":"NP",
+    "gn:dem":1568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7978636,
+    "gn:latitude":28.19918,
+    "gn:longitude":83.74307,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chalisedanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7978636
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9254c1210fbbad6a35e21495b30464f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209456679
+        }
+    ],
+    "wof:id":1209456679,
+    "wof:lastmodified":1536286510,
+    "wof:name":"Chalisedanda",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.74306999999997,
+    28.19918,
+    83.74306999999997,
+    28.19918
+],
+  "geometry": {"coordinates":[83.74306999999997,28.19918],"type":"Point"}
+}

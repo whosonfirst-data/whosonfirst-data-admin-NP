@@ -1,0 +1,75 @@
+{
+  "id": 1293901493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.91667,27.1,87.91667,27.1",
+    "geom:latitude":27.1,
+    "geom:longitude":87.91667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chhintapu",
+    "gn:country_code":"NP",
+    "gn:dem":3162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283527,
+    "gn:latitude":27.1,
+    "gn:longitude":87.91667,
+    "gn:modification_date":"1993-12-28",
+    "gn:name":"Chhint\u0101p\u016b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283527
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"667a90cecf5eb4a016fce818c6594281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1293901493,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1293901493,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1293901493,
+    "wof:lastmodified":1536687439,
+    "wof:name":"Chhintapu",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.91667,
+    27.1,
+    87.91667,
+    27.1
+],
+  "geometry": {"coordinates":[87.91667,27.1],"type":"Point"}
+}

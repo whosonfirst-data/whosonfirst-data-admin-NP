@@ -1,0 +1,75 @@
+{
+  "id": 1327044469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.69519,27.38989,86.69519,27.38989",
+    "geom:latitude":27.38989,
+    "geom:longitude":86.69519,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Hankhai",
+    "gn:country_code":"NP",
+    "gn:dem":1212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11205838,
+    "gn:latitude":27.38989,
+    "gn:longitude":86.69519,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Ha\u1e45kh\u0101i",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050841,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11205838
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b2d01f25699fec39ae134eccbe64b707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1327044469,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1327044469,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1327044469,
+    "wof:lastmodified":1536742724,
+    "wof:name":"Hankhai",
+    "wof:parent_id":1092050841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.69519,
+    27.38989,
+    86.69519,
+    27.38989
+],
+  "geometry": {"coordinates":[86.69519,27.38989],"type":"Point"}
+}

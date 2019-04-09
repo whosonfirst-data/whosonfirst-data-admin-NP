@@ -1,0 +1,79 @@
+{
+  "id": 1310322989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.66134,28.10572,81.66134,28.10572",
+    "geom:latitude":28.10572,
+    "geom:longitude":81.66134,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Manikapur",
+    "gn:country_code":"NP",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283066,
+    "gn:latitude":28.10572,
+    "gn:longitude":81.66134,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Manik\u0101pur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manik\u0101pur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092050297,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283066,
+        "wk:page":"Manikapur"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"64b60574a0bfaa93717c59ef5c74f822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1310322989,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1310322989,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1310322989,
+    "wof:lastmodified":1537676048,
+    "wof:name":"Manikapur",
+    "wof:parent_id":1092050297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.66134,
+    28.10572,
+    81.66134,
+    28.10572
+],
+  "geometry": {"coordinates":[81.66134,28.10572],"type":"Point"}
+}

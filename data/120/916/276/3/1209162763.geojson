@@ -1,0 +1,64 @@
+{
+  "id": 1209162763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.72556,27.51929,85.72556,27.51929",
+    "geom:latitude":27.51929,
+    "geom:longitude":85.72556,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240069.0",
+    "gn:asciiname":"Chyarpa",
+    "gn:country_code":"NP",
+    "gn:dem":1501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7963666,
+    "gn:latitude":27.51929,
+    "gn:longitude":85.72556,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chyarpa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7963666
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8115a496aca26779e7839f0d3f7c67eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209162763
+        }
+    ],
+    "wof:id":1209162763,
+    "wof:lastmodified":1536295846,
+    "wof:name":"Chyarpa",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.72556,
+    27.51929,
+    85.72556,
+    27.51929
+],
+  "geometry": {"coordinates":[85.72556,27.51929],"type":"Point"}
+}

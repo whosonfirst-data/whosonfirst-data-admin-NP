@@ -1,0 +1,64 @@
+{
+  "id": 1209054633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.31957,26.76608,87.31957,26.76608",
+    "geom:latitude":26.76608,
+    "geom:longitude":87.31957,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"6.0",
+    "gn:admin4_code":"60039.0",
+    "gn:asciiname":"Panmari Limbuchauri",
+    "gn:country_code":"NP",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7998174,
+    "gn:latitude":26.76608,
+    "gn:longitude":87.31957,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Panmari Limbuchauri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7998174
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"53ef5f5df2ba6fc127adb74d16fed48b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209054633
+        }
+    ],
+    "wof:id":1209054633,
+    "wof:lastmodified":1536299145,
+    "wof:name":"Panmari Limbuchauri",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.31957,
+    26.76608,
+    87.31957,
+    26.76608
+],
+  "geometry": {"coordinates":[87.31957,26.76608],"type":"Point"}
+}

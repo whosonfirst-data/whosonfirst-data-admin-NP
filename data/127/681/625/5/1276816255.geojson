@@ -1,0 +1,78 @@
+{
+  "id": 1276816255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.48954,26.74603,87.48954,26.74603",
+    "geom:latitude":26.74603,
+    "geom:longitude":87.48954,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"5",
+    "gn:admin4_code":"50012",
+    "gn:asciiname":"Rajarani",
+    "gn:country_code":"NP",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7969940,
+    "gn:latitude":26.74603,
+    "gn:longitude":87.48954,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Rajarani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092048303,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7969940
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"100374ec33c8c6985d4f2be5ab4ece99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1276816255,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048303,
+            "locality_id":1276816255,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1276816255,
+    "wof:lastmodified":1536627080,
+    "wof:name":"Rajarani",
+    "wof:parent_id":1092048303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.48954,
+    26.74603,
+    87.48954,
+    26.74603
+],
+  "geometry": {"coordinates":[87.48954000000001,26.74603],"type":"Point"}
+}

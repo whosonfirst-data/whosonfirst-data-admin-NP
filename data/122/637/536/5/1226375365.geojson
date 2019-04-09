@@ -1,0 +1,78 @@
+{
+  "id": 1226375365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.39345,28.46783,82.39345,28.46783",
+    "geom:latitude":28.46783,
+    "geom:longitude":82.39345,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550002",
+    "gn:asciiname":"Simtekharka",
+    "gn:country_code":"NP",
+    "gn:dem":1840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7987931,
+    "gn:latitude":28.46783,
+    "gn:longitude":82.39345,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Simtekharka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049579,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7987931
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bc1c33f7f04875bc00a17eee0e6339ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1226375365,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1226375365,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1226375365,
+    "wof:lastmodified":1536746685,
+    "wof:name":"Simtekharka",
+    "wof:parent_id":1092049579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.39345,
+    28.46783,
+    82.39345,
+    28.46783
+],
+  "geometry": {"coordinates":[82.39345,28.46783],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276999475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.24539,27.06492,86.24539,27.06492",
+    "geom:latitude":27.06492,
+    "geom:longitude":86.24539,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chhatiwan",
+    "gn:country_code":"NP",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10329516,
+    "gn:latitude":27.06492,
+    "gn:longitude":86.24539,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Chhatiwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049679,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10329516
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bff59a41c466361c4d438906c9d6b8b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1276999475,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1276999475,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1276999475,
+    "wof:lastmodified":1536880066,
+    "wof:name":"Chhatiwan",
+    "wof:parent_id":1092049679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.24539,
+    27.06492,
+    86.24539,
+    27.06492
+],
+  "geometry": {"coordinates":[86.24539,27.06492],"type":"Point"}
+}

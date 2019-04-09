@@ -1,0 +1,78 @@
+{
+  "id": 1193069965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.38219,27.96999,85.38219,27.96999",
+    "geom:latitude":27.96999,
+    "geom:longitude":85.38219,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"28",
+    "gn:admin4_code":"280051.0",
+    "gn:asciiname":"Silame",
+    "gn:country_code":"NP",
+    "gn:dem":1603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7974715,
+    "gn:latitude":27.96999,
+    "gn:longitude":85.38219,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Silame",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7974715
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"31d5b91ea16de60113f2db7e15f09c89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1193069965,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1193069965,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1193069965,
+    "wof:lastmodified":1536368739,
+    "wof:name":"Silame",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.38219000000002,
+    27.96999000000001,
+    85.38219000000002,
+    27.96999000000001
+],
+  "geometry": {"coordinates":[85.38219000000002,27.96999000000001],"type":"Point"}
+}

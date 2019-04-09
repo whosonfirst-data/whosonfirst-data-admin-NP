@@ -1,0 +1,79 @@
+{
+  "id": 1260012443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.16176,29.45215,81.16176,29.45215",
+    "geom:latitude":29.45215,
+    "geom:longitude":81.16176,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680029",
+    "gn:asciiname":"Majhigaun",
+    "gn:country_code":"NP",
+    "gn:dem":1441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7994395,
+    "gn:latitude":29.45215,
+    "gn:longitude":81.16176,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Majhigaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048571,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7994395,
+        "wk:page":"Majhigaun"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c3b8515d446f97832eaf65ae51faee84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1260012443,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1260012443,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1260012443,
+    "wof:lastmodified":1537570156,
+    "wof:name":"Majhigaun",
+    "wof:parent_id":1092048571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.16176,
+    29.45215,
+    81.16176,
+    29.45215
+],
+  "geometry": {"coordinates":[81.16176,29.45215],"type":"Point"}
+}

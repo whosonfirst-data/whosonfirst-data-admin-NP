@@ -1,0 +1,78 @@
+{
+  "id": 1276257359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.40848,30.11899,81.40848,30.11899",
+    "geom:latitude":30.11899,
+    "geom:longitude":81.40848,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"66.0",
+    "gn:admin4_code":"660018.0",
+    "gn:asciiname":"Jhimjhimpani",
+    "gn:country_code":"NP",
+    "gn:dem":3971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7951124,
+    "gn:latitude":30.11899,
+    "gn:longitude":81.40848,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jhimjhimpani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050353,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7951124
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f6367de0c4a50fb345d3e4df77e58fba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1276257359,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1276257359,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1276257359,
+    "wof:lastmodified":1536879730,
+    "wof:name":"Jhimjhimpani",
+    "wof:parent_id":1092050353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.40848000000003,
+    30.11899,
+    81.40848000000003,
+    30.11899
+],
+  "geometry": {"coordinates":[81.40848000000003,30.11899],"type":"Point"}
+}

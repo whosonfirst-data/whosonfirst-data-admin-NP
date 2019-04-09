@@ -1,0 +1,64 @@
+{
+  "id": 1209663491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.41068,27.05288,87.41068,27.05288",
+    "geom:latitude":27.05288,
+    "geom:longitude":87.41068,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"7.0",
+    "gn:admin4_code":"70031.0",
+    "gn:asciiname":"Chhapang",
+    "gn:country_code":"NP",
+    "gn:dem":1524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7943397,
+    "gn:latitude":27.05288,
+    "gn:longitude":87.41068,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chhapang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7943397
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a9fe956963d5285e0926342f7a26a5e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209663491
+        }
+    ],
+    "wof:id":1209663491,
+    "wof:lastmodified":1536280176,
+    "wof:name":"Chhapang",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.41068,
+    27.05288,
+    87.41068,
+    27.05288
+],
+  "geometry": {"coordinates":[87.41068,27.05288],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209262531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.36965,26.44448,87.36965,26.44448",
+    "geom:latitude":26.44448,
+    "geom:longitude":87.36965,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"5",
+    "gn:admin4_code":"50033",
+    "gn:asciiname":"Kamalpur",
+    "gn:country_code":"NP",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7970515,
+    "gn:latitude":26.44448,
+    "gn:longitude":87.36965,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kamalpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7970515
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"dca2beee4e5842c7b8aedf04dc90a3d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209262531
+        }
+    ],
+    "wof:id":1209262531,
+    "wof:lastmodified":1536292641,
+    "wof:name":"Kamalpur",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.36965,
+    26.44448,
+    87.36965,
+    26.44448
+],
+  "geometry": {"coordinates":[87.36964999999999,26.44448],"type":"Point"}
+}

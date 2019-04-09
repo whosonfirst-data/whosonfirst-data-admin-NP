@@ -1,0 +1,78 @@
+{
+  "id": 1193214057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.93062,28.13026,83.93062,28.13026",
+    "geom:latitude":28.13026,
+    "geom:longitude":83.93062,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390040.0",
+    "gn:asciiname":"Ratanpur",
+    "gn:country_code":"NP",
+    "gn:dem":943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001691,
+    "gn:latitude":28.13026,
+    "gn:longitude":83.93062,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ratanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001691
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0b1ea90ccec1323f851a4e8602b03c26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1193214057,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1193214057,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1193214057,
+    "wof:lastmodified":1536382335,
+    "wof:name":"Ratanpur",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.93061999999998,
+    28.13026,
+    83.93061999999998,
+    28.13026
+],
+  "geometry": {"coordinates":[83.93061999999998,28.13026],"type":"Point"}
+}

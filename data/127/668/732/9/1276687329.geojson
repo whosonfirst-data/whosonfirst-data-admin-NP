@@ -1,0 +1,78 @@
+{
+  "id": 1276687329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.76015,28.47773,81.76015,28.47773",
+    "geom:latitude":28.47773,
+    "geom:longitude":81.76015,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590043.0",
+    "gn:asciiname":"Baragaun",
+    "gn:country_code":"NP",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8000177,
+    "gn:latitude":28.47773,
+    "gn:longitude":81.76015,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Baragaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8000177
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"798f81113e2e5f57745e4dff7f09df98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1276687329,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1276687329,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1276687329,
+    "wof:lastmodified":1536801521,
+    "wof:name":"Baragaun",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.76015,
+    28.47773,
+    81.76015,
+    28.47773
+],
+  "geometry": {"coordinates":[81.76015,28.47773],"type":"Point"}
+}

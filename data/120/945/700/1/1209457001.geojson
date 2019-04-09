@@ -1,0 +1,64 @@
+{
+  "id": 1209457001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.15094,27.67829,86.15094,27.67829",
+    "geom:latitude":27.67829,
+    "geom:longitude":86.15094,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"22.0",
+    "gn:admin4_code":"220025.0",
+    "gn:asciiname":"Urleni",
+    "gn:country_code":"NP",
+    "gn:dem":1566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7944738,
+    "gn:latitude":27.67829,
+    "gn:longitude":86.15094,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Urleni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7944738
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"38ee4e9410d46503b5b95354aecfae63",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209457001
+        }
+    ],
+    "wof:id":1209457001,
+    "wof:lastmodified":1536286502,
+    "wof:name":"Urleni",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.15094,
+    27.678290000000004,
+    86.15094,
+    27.678290000000004
+],
+  "geometry": {"coordinates":[86.15094000000001,27.67829],"type":"Point"}
+}

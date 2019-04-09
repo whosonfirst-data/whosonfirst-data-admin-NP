@@ -1,0 +1,78 @@
+{
+  "id": 1293108397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.96333,27.10803,85.96333,27.10803",
+    "geom:latitude":27.10803,
+    "geom:longitude":85.96333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Katle",
+    "gn:country_code":"NP",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283238,
+    "gn:latitude":27.10803,
+    "gn:longitude":85.96333,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Katle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Katle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049679,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283238
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"34128cd3bb1c98d3af867c06f9c7d275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1293108397,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1293108397,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1293108397,
+    "wof:lastmodified":1537676052,
+    "wof:name":"Katle",
+    "wof:parent_id":1092049679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.96333,
+    27.10803,
+    85.96333,
+    27.10803
+],
+  "geometry": {"coordinates":[85.96333,27.10803],"type":"Point"}
+}

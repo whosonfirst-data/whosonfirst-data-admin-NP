@@ -1,0 +1,78 @@
+{
+  "id": 1277125071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.9905,26.79249,85.9905,26.79249",
+    "geom:latitude":26.79249,
+    "geom:longitude":85.9905,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"17.0",
+    "gn:admin4_code":"170094.0",
+    "gn:asciiname":"Tarapatti",
+    "gn:country_code":"NP",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7944116,
+    "gn:latitude":26.79249,
+    "gn:longitude":85.9905,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tarapatti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092048127,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7944116
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"449905c6a5a7b3ee61cb31315630c221",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048127,
+            "locality_id":1277125071,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048127,
+            "locality_id":1277125071,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1277125071,
+    "wof:lastmodified":1536707026,
+    "wof:name":"Tarapatti",
+    "wof:parent_id":1092048127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.9905,
+    26.79249,
+    85.9905,
+    26.79249
+],
+  "geometry": {"coordinates":[85.9905,26.79249],"type":"Point"}
+}

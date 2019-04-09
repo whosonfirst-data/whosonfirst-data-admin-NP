@@ -1,0 +1,78 @@
+{
+  "id": 1293720371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.01497,29.11702,81.01497,29.11702",
+    "geom:latitude":29.11702,
+    "geom:longitude":81.01497,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"70.0",
+    "gn:admin4_code":"700045.0",
+    "gn:asciiname":"Chamesera",
+    "gn:country_code":"NP",
+    "gn:dem":1266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7947600,
+    "gn:latitude":29.11702,
+    "gn:longitude":81.01497,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chamesera",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048653,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7947600
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"08eab3de84965f0cf896bcf04a457cb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1293720371,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1293720371,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1293720371,
+    "wof:lastmodified":1536949063,
+    "wof:name":"Chamesera",
+    "wof:parent_id":1092048653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.01496999999998,
+    29.11702,
+    81.01496999999998,
+    29.11702
+],
+  "geometry": {"coordinates":[81.01496999999998,29.11702],"type":"Point"}
+}

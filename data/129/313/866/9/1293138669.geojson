@@ -1,0 +1,78 @@
+{
+  "id": 1293138669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.82957,27.44561,85.82957,27.44561",
+    "geom:latitude":27.44561,
+    "geom:longitude":85.82957,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200029",
+    "gn:asciiname":"Gajulidaha",
+    "gn:country_code":"NP",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7993413,
+    "gn:latitude":27.44561,
+    "gn:longitude":85.82957,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gajulidaha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049711,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7993413
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9fc390e5f4f6d413a2468a6faa818436",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1293138669,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1293138669,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1293138669,
+    "wof:lastmodified":1536793231,
+    "wof:name":"Gajulidaha",
+    "wof:parent_id":1092049711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.82956999999998,
+    27.44561,
+    85.82956999999998,
+    27.44561
+],
+  "geometry": {"coordinates":[85.82956999999998,27.44561],"type":"Point"}
+}

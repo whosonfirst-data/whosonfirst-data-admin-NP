@@ -1,0 +1,78 @@
+{
+  "id": 1276805215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.18989,28.27841,83.18989,28.27841",
+    "geom:latitude":28.27841,
+    "geom:longitude":83.18989,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450004.0",
+    "gn:asciiname":"Dangkharka",
+    "gn:country_code":"NP",
+    "gn:dem":1498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7947206,
+    "gn:latitude":28.27841,
+    "gn:longitude":83.18989,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dangkharka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7947206
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3a8420f26ed03627ab95740a86508e3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1276805215,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1276805215,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1276805215,
+    "wof:lastmodified":1536642742,
+    "wof:name":"Dangkharka",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.18989,
+    28.27841,
+    83.18989,
+    28.27841
+],
+  "geometry": {"coordinates":[83.18989000000001,28.27841],"type":"Point"}
+}

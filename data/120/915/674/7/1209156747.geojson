@@ -1,0 +1,64 @@
+{
+  "id": 1209156747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.68126,27.72859,85.68126,27.72859",
+    "geom:latitude":27.72859,
+    "geom:longitude":85.68126,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"23",
+    "gn:admin4_code":"230077",
+    "gn:asciiname":"Bhimtar",
+    "gn:country_code":"NP",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7995552,
+    "gn:latitude":27.72859,
+    "gn:longitude":85.68126,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhimtar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7995552
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5c4f9477b38150f56c77ac0c8cc2c906",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209156747
+        }
+    ],
+    "wof:id":1209156747,
+    "wof:lastmodified":1536296035,
+    "wof:name":"Bhimtar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.68126,
+    27.728590000000004,
+    85.68126,
+    27.728590000000004
+],
+  "geometry": {"coordinates":[85.68125999999999,27.72859],"type":"Point"}
+}

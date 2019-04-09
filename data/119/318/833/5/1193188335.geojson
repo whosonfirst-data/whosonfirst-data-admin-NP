@@ -1,0 +1,78 @@
+{
+  "id": 1193188335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.84159,26.54967,87.84159,26.54967",
+    "geom:latitude":26.54967,
+    "geom:longitude":87.84159,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40038.0",
+    "gn:asciiname":"Kichakdagi",
+    "gn:country_code":"NP",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7955090,
+    "gn:latitude":26.54967,
+    "gn:longitude":87.84159,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kichakdagi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7955090
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a712c0d925f0d3ee4e99be6aa61129a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1193188335,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1193188335,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1193188335,
+    "wof:lastmodified":1536364341,
+    "wof:name":"Kichakdagi",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.84159,
+    26.54967000000001,
+    87.84159,
+    26.54967000000001
+],
+  "geometry": {"coordinates":[87.84159,26.54967000000001],"type":"Point"}
+}

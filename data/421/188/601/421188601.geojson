@@ -1,0 +1,157 @@
+{
+  "id": 421188601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.91667,28.91667,83.91667,28.91667",
+    "geom:latitude":28.91667,
+    "geom:longitude":83.91667,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09ae\u09c1\u09b8\u09cd\u09a4\u09be\u0999 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09ae\u09c1\u09b8\u09cd\u09a4\u09be\u0999"
+    ],
+    "name:dan_x_preferred":[
+        "Mustang District"
+    ],
+    "name:deu_x_preferred":[
+        "Mustang"
+    ],
+    "name:fin_x_preferred":[
+        "Mustangin piirikunta"
+    ],
+    "name:fra_x_preferred":[
+        "District de Mustang"
+    ],
+    "name:hif_x_preferred":[
+        "Mustang"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0941\u0938\u094d\u0924\u093e\u0902\u0917 \u091c\u093f\u0932\u093e"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto del Mustang"
+    ],
+    "name:nep_x_preferred":[
+        "\u092e\u0941\u0938\u094d\u0924\u093e\u0919 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u092e\u0941\u0938\u094d\u0924\u093e\u0919 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Mustang"
+    ],
+    "name:nor_x_preferred":[
+        "Mustang"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0645\u0633\u062a\u0627\u0646\u06af"
+    ],
+    "name:pol_x_preferred":[
+        "Mustang"
+    ],
+    "name:por_x_preferred":[
+        "Mustang"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0441\u0442\u0430\u043d\u0433"
+    ],
+    "name:san_x_preferred":[
+        "\u092e\u0941\u0938\u094d\u0924\u093e\u0919\u092e\u0923\u094d\u0921\u0932\u092e\u094d"
+    ],
+    "name:unk_x_variant":[
+        "Mastang"
+    ],
+    "name:vie_x_preferred":[
+        "Mustang"
+    ],
+    "name:zho_x_preferred":[
+        "\u6728\u65af\u5858"
+    ],
+    "qs:gn_country":"NP",
+    "qs:gn_fcode":"ADM3",
+    "qs:gn_id":1283023,
+    "qs:gn_pop":15321,
+    "qs:name":"Mustang",
+    "qs:name_adm0":"Nepal",
+    "qs:name_adm1":"Pashchimanchal",
+    "qs:photos":3,
+    "qs:photos_1k":1,
+    "qs:photos_9k":16,
+    "qs:photos_9r":12,
+    "qs:photos_all":3517,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"6",
+    "qs:qs_id":1103572,
+    "qs:woe_adm0":23424911,
+    "qs:woe_id":23706775,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"quattroshapes",
+    "wd:wordcount":364,
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675553,
+        1092048365,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283023,
+        "gp:id":23706775,
+        "qs:id":1103572,
+        "qs_pg:id":1103572,
+        "wd:id":"Q2239575",
+        "wk:page":"Mustang District"
+    },
+    "wof:country":"NP",
+    "wof:created":1459009570,
+    "wof:geomhash":"e94728f6ccd4b3d52e53de32b340519b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048365,
+            "localadmin_id":421188601,
+            "region_id":85675553
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048365,
+            "localadmin_id":421188601,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":421188601,
+    "wof:lastmodified":1527716294,
+    "wof:name":"Mustang",
+    "wof:parent_id":1092048365,
+    "wof:placetype":"localadmin",
+    "wof:population":15321,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.91667,
+    28.91667,
+    83.91667,
+    28.91667
+],
+  "geometry": {"coordinates":[83.91667,28.91667],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1243396187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.15701,28.58587,82.15701,28.58587",
+    "geom:latitude":28.58587,
+    "geom:longitude":82.15701,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550044",
+    "gn:asciiname":"Swikot",
+    "gn:country_code":"NP",
+    "gn:dem":1107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7989672,
+    "gn:latitude":28.58587,
+    "gn:longitude":82.15701,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Swikot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049579,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7989672
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1cd5a01473a253e3d71b50e23211ebc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1243396187,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049579,
+            "locality_id":1243396187,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1243396187,
+    "wof:lastmodified":1536877284,
+    "wof:name":"Swikot",
+    "wof:parent_id":1092049579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.15701,
+    28.58587,
+    82.15701,
+    28.58587
+],
+  "geometry": {"coordinates":[82.15701,28.58587],"type":"Point"}
+}

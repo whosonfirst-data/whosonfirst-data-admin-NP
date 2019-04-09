@@ -1,0 +1,78 @@
+{
+  "id": 1243487075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.51519,28.27859,81.51519,28.27859",
+    "geom:latitude":28.27859,
+    "geom:longitude":81.51519,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"58.0",
+    "gn:admin4_code":"580007.0",
+    "gn:asciiname":"Dangpur",
+    "gn:country_code":"NP",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009459,
+    "gn:latitude":28.27859,
+    "gn:longitude":81.51519,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dangpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048097,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009459
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"649e3ed2f7fc31da50228f0a42878688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1243487075,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1243487075,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1243487075,
+    "wof:lastmodified":1536746735,
+    "wof:name":"Dangpur",
+    "wof:parent_id":1092048097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.51519,
+    28.27859,
+    81.51519,
+    28.27859
+],
+  "geometry": {"coordinates":[81.51519,28.27859],"type":"Point"}
+}

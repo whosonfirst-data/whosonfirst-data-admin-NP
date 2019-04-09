@@ -1,0 +1,64 @@
+{
+  "id": 1209048335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.15743,28.01373,84.15743,28.01373",
+    "geom:latitude":28.01373,
+    "geom:longitude":84.15743,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380033.0",
+    "gn:asciiname":"Raniswanra",
+    "gn:country_code":"NP",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8004234,
+    "gn:latitude":28.01373,
+    "gn:longitude":84.15743,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Raniswanra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8004234
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"dadb2f225fe4005b7d68ebc9fd2d1242",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209048335
+        }
+    ],
+    "wof:id":1209048335,
+    "wof:lastmodified":1536299325,
+    "wof:name":"Raniswanra",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.15743,
+    28.01373,
+    84.15743,
+    28.01373
+],
+  "geometry": {"coordinates":[84.15743000000001,28.01373],"type":"Point"}
+}

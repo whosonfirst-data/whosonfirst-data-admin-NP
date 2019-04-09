@@ -1,0 +1,78 @@
+{
+  "id": 1243591823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.81129,26.9903,86.81129,26.9903",
+    "geom:latitude":26.9903,
+    "geom:longitude":86.81129,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"13.0",
+    "gn:admin4_code":"130009.0",
+    "gn:asciiname":"Baraha",
+    "gn:country_code":"NP",
+    "gn:dem":948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7964100,
+    "gn:latitude":26.9903,
+    "gn:longitude":86.81129,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Baraha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050841,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7964100
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bba72def1e3e6d4309e7d9ea8d800a09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1243591823,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1243591823,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1243591823,
+    "wof:lastmodified":1537089607,
+    "wof:name":"Baraha",
+    "wof:parent_id":1092050841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.81129,
+    26.9903,
+    86.81129,
+    26.9903
+],
+  "geometry": {"coordinates":[86.81129,26.9903],"type":"Point"}
+}

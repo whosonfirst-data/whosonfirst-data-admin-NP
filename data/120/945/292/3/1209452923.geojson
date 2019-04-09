@@ -1,0 +1,64 @@
+{
+  "id": 1209452923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.9017,27.53338,84.9017,27.53338",
+    "geom:latitude":27.53338,
+    "geom:longitude":84.9017,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310038",
+    "gn:asciiname":"Bairtar",
+    "gn:country_code":"NP",
+    "gn:dem":966,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7969094,
+    "gn:latitude":27.53338,
+    "gn:longitude":84.9017,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bairtar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7969094
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"843187b420bfde2651334fe082871092",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209452923
+        }
+    ],
+    "wof:id":1209452923,
+    "wof:lastmodified":1536286622,
+    "wof:name":"Bairtar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.9017,
+    27.53338,
+    84.9017,
+    27.53338
+],
+  "geometry": {"coordinates":[84.90170000000001,27.53338],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1242888379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.11476,26.52742,87.11476,26.52742",
+    "geom:latitude":26.52742,
+    "geom:longitude":87.11476,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ranbagar Bhutaha",
+    "gn:country_code":"NP",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11605848,
+    "gn:latitude":26.52742,
+    "gn:longitude":87.11476,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"R\u0101nbagar Bhu\u1e6d\u0101h\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "R\u0101nbagar Bhu\u1e6d\u0101h\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049923,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11605848
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4e6180de6fa4a90936cb66d5573e843b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1242888379,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1242888379,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1242888379,
+    "wof:lastmodified":1537676121,
+    "wof:name":"Ranbagar Bhutaha",
+    "wof:parent_id":1092049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.11476,
+    26.52742000000001,
+    87.11476,
+    26.52742000000001
+],
+  "geometry": {"coordinates":[87.11476,26.52742000000001],"type":"Point"}
+}

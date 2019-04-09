@@ -1,0 +1,82 @@
+{
+  "id": 1260098129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.36244,27.77698,85.36244,27.77698",
+    "geom:latitude":27.77698,
+    "geom:longitude":85.36244,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Budhanilkantha",
+    "gn:country_code":"NP",
+    "gn:dem":1440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283569,
+    "gn:latitude":27.77698,
+    "gn:longitude":85.36244,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Bu\u1e0dh\u0101nilkan\u1e6dha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Budanilkantha",
+        "Budha-Nilkantha",
+        "Burh\u0101nilkantha",
+        "Bu\u1e0dh\u0101nilkan\u1e6dha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092048931,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283569,
+        "wk:page":"Budanilkantha"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c7a1b35e18048cca2ce44753d3ccb8f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":1260098129,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":1260098129,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1260098129,
+    "wof:lastmodified":1537676060,
+    "wof:name":"Budhanilkantha",
+    "wof:parent_id":1092048931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.36244,
+    27.77698,
+    85.36244,
+    27.77698
+],
+  "geometry": {"coordinates":[85.36244000000001,27.77698],"type":"Point"}
+}

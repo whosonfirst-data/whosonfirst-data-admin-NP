@@ -1,0 +1,78 @@
+{
+  "id": 1360210795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.86702,29.43947,80.86702,29.43947",
+    "geom:latitude":29.43947,
+    "geom:longitude":80.86702,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740054",
+    "gn:asciiname":"Parmero",
+    "gn:country_code":"NP",
+    "gn:dem":874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7982818,
+    "gn:latitude":29.43947,
+    "gn:longitude":80.86702,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Parmero",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050255,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7982818
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"92a8b1f99e4119bfb406f9d53ff47c23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1360210795,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1360210795,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1360210795,
+    "wof:lastmodified":1536764788,
+    "wof:name":"Parmero",
+    "wof:parent_id":1092050255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.86702,
+    29.43947,
+    80.86702,
+    29.43947
+],
+  "geometry": {"coordinates":[80.86702,29.43947],"type":"Point"}
+}

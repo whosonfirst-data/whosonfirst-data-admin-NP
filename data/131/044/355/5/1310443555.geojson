@@ -1,0 +1,78 @@
+{
+  "id": 1310443555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.87947,27.30294,87.87947,27.30294",
+    "geom:latitude":27.30294,
+    "geom:longitude":87.87947,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10002.0",
+    "gn:asciiname":"Larapa",
+    "gn:country_code":"NP",
+    "gn:dem":1732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8004989,
+    "gn:latitude":27.30294,
+    "gn:longitude":87.87947,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Larapa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8004989
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"399209f7f64c292f8bb6e8028a0387c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1310443555,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1310443555,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1310443555,
+    "wof:lastmodified":1537005526,
+    "wof:name":"Larapa",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.87947,
+    27.30294,
+    87.87947,
+    27.30294
+],
+  "geometry": {"coordinates":[87.87947,27.30294],"type":"Point"}
+}

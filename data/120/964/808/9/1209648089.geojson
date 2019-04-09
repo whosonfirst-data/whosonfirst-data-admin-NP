@@ -1,0 +1,64 @@
+{
+  "id": 1209648089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.45464,29.05671,80.45464,29.05671",
+    "geom:latitude":29.05671,
+    "geom:longitude":80.45464,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"73.0",
+    "gn:admin4_code":"730013.0",
+    "gn:asciiname":"Amilkhocha",
+    "gn:country_code":"NP",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7936016,
+    "gn:latitude":29.05671,
+    "gn:longitude":80.45464,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Amilkhocha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7936016
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fe143794f41b2a8b058be7a2c40e37e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209648089
+        }
+    ],
+    "wof:id":1209648089,
+    "wof:lastmodified":1536280669,
+    "wof:name":"Amilkhocha",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.45464,
+    29.05671,
+    80.45464,
+    29.05671
+],
+  "geometry": {"coordinates":[80.45464,29.05671],"type":"Point"}
+}

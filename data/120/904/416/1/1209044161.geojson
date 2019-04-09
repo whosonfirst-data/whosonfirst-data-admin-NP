@@ -1,0 +1,64 @@
+{
+  "id": 1209044161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.30975,27.39013,83.30975,27.39013",
+    "geom:latitude":27.39013,
+    "geom:longitude":83.30975,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"49",
+    "gn:admin4_code":"490004",
+    "gn:asciiname":"Porakahawa",
+    "gn:country_code":"NP",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7986791,
+    "gn:latitude":27.39013,
+    "gn:longitude":83.30975,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Porakahawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7986791
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b6bc994c435b5953a759c20859cdf8f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209044161
+        }
+    ],
+    "wof:id":1209044161,
+    "wof:lastmodified":1536299450,
+    "wof:name":"Porakahawa",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.30975,
+    27.39013,
+    83.30975,
+    27.39013
+],
+  "geometry": {"coordinates":[83.30974999999999,27.39013],"type":"Point"}
+}

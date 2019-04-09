@@ -1,0 +1,78 @@
+{
+  "id": 1226384583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.18529,27.67555,86.18529,27.67555",
+    "geom:latitude":27.67555,
+    "geom:longitude":86.18529,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"22.0",
+    "gn:admin4_code":"220025.0",
+    "gn:asciiname":"Panikharka",
+    "gn:country_code":"NP",
+    "gn:dem":2160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7944729,
+    "gn:latitude":27.67555,
+    "gn:longitude":86.18529,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Panikharka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675579,
+        1092050535,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7944729
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1be2f07d4388f8af1ccaf02b574880c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1226384583,
+            "region_id":85675579
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1226384583,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1226384583,
+    "wof:lastmodified":1536733848,
+    "wof:name":"Panikharka",
+    "wof:parent_id":1092050535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.18529000000002,
+    27.67555,
+    86.18529000000002,
+    27.67555
+],
+  "geometry": {"coordinates":[86.18529000000002,27.67555],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209342683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.15998,28.72449,82.15998,28.72449",
+    "geom:latitude":28.72449,
+    "geom:longitude":82.15998,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"61.0",
+    "gn:admin4_code":"610021.0",
+    "gn:asciiname":"Dhanari",
+    "gn:country_code":"NP",
+    "gn:dem":1893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7953618,
+    "gn:latitude":28.72449,
+    "gn:longitude":82.15998,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhanari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7953618
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"385929b8b549208012ae4a5c47afeb7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209342683
+        }
+    ],
+    "wof:id":1209342683,
+    "wof:lastmodified":1536290012,
+    "wof:name":"Dhanari",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.15998,
+    28.724490000000007,
+    82.15998,
+    28.724490000000007
+],
+  "geometry": {"coordinates":[82.15998,28.72449000000001],"type":"Point"}
+}

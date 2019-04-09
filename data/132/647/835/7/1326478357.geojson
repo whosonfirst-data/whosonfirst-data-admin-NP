@@ -1,0 +1,78 @@
+{
+  "id": 1326478357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.78601,28.85159,83.78601,28.85159",
+    "geom:latitude":28.85159,
+    "geom:longitude":83.78601,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"42",
+    "gn:admin4_code":"420008",
+    "gn:asciiname":"Treegaun",
+    "gn:country_code":"NP",
+    "gn:dem":2841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7971837,
+    "gn:latitude":28.85159,
+    "gn:longitude":83.78601,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Treegaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675553,
+        1092048365,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7971837
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"94eff79e04e8530505d3738dd6869255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048365,
+            "locality_id":1326478357,
+            "region_id":85675553
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048365,
+            "locality_id":1326478357,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1326478357,
+    "wof:lastmodified":1537059132,
+    "wof:name":"Treegaun",
+    "wof:parent_id":1092048365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.78601,
+    28.85159,
+    83.78601,
+    28.85159
+],
+  "geometry": {"coordinates":[83.78601,28.85159],"type":"Point"}
+}

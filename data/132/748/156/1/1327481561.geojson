@@ -1,0 +1,78 @@
+{
+  "id": 1327481561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.87607,27.82557,83.87607,27.82557",
+    "geom:latitude":27.82557,
+    "geom:longitude":83.87607,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"47",
+    "gn:admin4_code":"470059",
+    "gn:asciiname":"Namsurgha",
+    "gn:country_code":"NP",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7976892,
+    "gn:latitude":27.82557,
+    "gn:longitude":83.87607,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Namsurgha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050889,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7976892
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"436e9b4406c4dec4178439fa3cd0c991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1327481561,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1327481561,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1327481561,
+    "wof:lastmodified":1536606933,
+    "wof:name":"Namsurgha",
+    "wof:parent_id":1092050889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.87607,
+    27.82557000000001,
+    83.87607,
+    27.82557000000001
+],
+  "geometry": {"coordinates":[83.87607,27.82557000000001],"type":"Point"}
+}

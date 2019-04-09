@@ -1,0 +1,78 @@
+{
+  "id": 1226791479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.21765,27.21402,86.21765,27.21402",
+    "geom:latitude":27.21402,
+    "geom:longitude":86.21765,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200049",
+    "gn:asciiname":"Darbe",
+    "gn:country_code":"NP",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7994101,
+    "gn:latitude":27.21402,
+    "gn:longitude":86.21765,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Darbe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049679,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7994101
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"20d5e7367cb84fb2d6d81b38d3b55401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1226791479,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1226791479,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1226791479,
+    "wof:lastmodified":1536649480,
+    "wof:name":"Darbe",
+    "wof:parent_id":1092049679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.21765,
+    27.21402,
+    86.21765,
+    27.21402
+],
+  "geometry": {"coordinates":[86.21765000000001,27.21402],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1327260291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.00207,28.203,83.00207,28.203",
+    "geom:latitude":28.203,
+    "geom:longitude":83.00207,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"52",
+    "gn:admin4_code":"520025",
+    "gn:asciiname":"Lohata",
+    "gn:country_code":"NP",
+    "gn:dem":1398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7980350,
+    "gn:latitude":28.203,
+    "gn:longitude":83.00207,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lohata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049377,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7980350
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"86905afe44a82306d73f6235dd6b8610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1327260291,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049377,
+            "locality_id":1327260291,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1327260291,
+    "wof:lastmodified":1536930201,
+    "wof:name":"Lohata",
+    "wof:parent_id":1092049377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.00206999999997,
+    28.20300000000001,
+    83.00206999999997,
+    28.20300000000001
+],
+  "geometry": {"coordinates":[83.00206999999997,28.20300000000001],"type":"Point"}
+}

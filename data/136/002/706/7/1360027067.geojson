@@ -1,0 +1,78 @@
+{
+  "id": 1360027067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.36603,28.11943,84.36603,28.11943",
+    "geom:latitude":28.11943,
+    "geom:longitude":84.36603,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380040.0",
+    "gn:asciiname":"Mayakhu",
+    "gn:country_code":"NP",
+    "gn:dem":769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8004490,
+    "gn:latitude":28.11943,
+    "gn:longitude":84.36603,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mayakhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8004490
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"09c1d34a2f22545c44fd440b4ef08b3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1360027067,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1360027067,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1360027067,
+    "wof:lastmodified":1537028127,
+    "wof:name":"Mayakhu",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.36603000000002,
+    28.11943,
+    84.36603000000002,
+    28.11943
+],
+  "geometry": {"coordinates":[84.36603000000002,28.11943],"type":"Point"}
+}

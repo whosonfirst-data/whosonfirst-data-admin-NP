@@ -1,0 +1,78 @@
+{
+  "id": 1243591819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.298,26.94535,87.298,26.94535",
+    "geom:latitude":26.94535,
+    "geom:longitude":87.298,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"7.0",
+    "gn:admin4_code":"70005.0",
+    "gn:asciiname":"Amreni",
+    "gn:country_code":"NP",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7942711,
+    "gn:latitude":26.94535,
+    "gn:longitude":87.298,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Amreni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049207,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7942711
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3f6e9e4d28313489d052e5229223e3a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049207,
+            "locality_id":1243591819,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049207,
+            "locality_id":1243591819,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1243591819,
+    "wof:lastmodified":1537089609,
+    "wof:name":"Amreni",
+    "wof:parent_id":1092049207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.29799999999999,
+    26.94535,
+    87.29799999999999,
+    26.94535
+],
+  "geometry": {"coordinates":[87.29799999999999,26.94535],"type":"Point"}
+}

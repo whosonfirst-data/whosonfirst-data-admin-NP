@@ -1,0 +1,85 @@
+{
+  "id": 1327281871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.93259,27.89966,83.93259,27.89966",
+    "geom:latitude":27.89966,
+    "geom:longitude":83.93259,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390048.0",
+    "gn:asciiname":"Mohami",
+    "gn:country_code":"NP",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283041,
+    "gn:latitude":27.89966,
+    "gn:longitude":83.93259,
+    "gn:modification_date":"2017-05-25",
+    "gn:name":"Mohami",
+    "gn:population":339,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "p"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283041,
+        "wk:page":"Mohami"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1f32d7a54f531f40fd82a909899f391a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1327281871,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1327281871,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1327281871,
+    "wof:lastmodified":1537676047,
+    "wof:name":"Mohami",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:population":339,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.93259,
+    27.89966,
+    83.93259,
+    27.89966
+],
+  "geometry": {"coordinates":[83.93259,27.89966],"type":"Point"}
+}

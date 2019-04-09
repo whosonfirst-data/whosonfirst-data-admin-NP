@@ -1,0 +1,78 @@
+{
+  "id": 1293131787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.0283,28.6659,81.0283,28.6659",
+    "geom:latitude":28.6659,
+    "geom:longitude":81.0283,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710011.0",
+    "gn:asciiname":"Chhappabag",
+    "gn:country_code":"NP",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956502,
+    "gn:latitude":28.6659,
+    "gn:longitude":81.0283,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chhappabag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956502
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fbb76243e81d60533438d501023211e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1293131787,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1293131787,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1293131787,
+    "wof:lastmodified":1536802917,
+    "wof:name":"Chhappabag",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.0283,
+    28.6659,
+    81.0283,
+    28.6659
+],
+  "geometry": {"coordinates":[81.0283,28.6659],"type":"Point"}
+}

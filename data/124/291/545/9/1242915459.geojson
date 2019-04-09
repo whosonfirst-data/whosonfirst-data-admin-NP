@@ -1,0 +1,78 @@
+{
+  "id": 1242915459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.49137,27.7004,85.49137,27.7004",
+    "geom:latitude":27.7004,
+    "geom:longitude":85.49137,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1.0",
+    "gn:admin3_code":"26.0",
+    "gn:admin4_code":"260001.0",
+    "gn:asciiname":"Padali",
+    "gn:country_code":"NP",
+    "gn:dem":1773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8010109,
+    "gn:latitude":27.7004,
+    "gn:longitude":85.49137,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Padali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048853,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8010109
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4577edf047a93a04961224fef6276173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048853,
+            "locality_id":1242915459,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048853,
+            "locality_id":1242915459,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1242915459,
+    "wof:lastmodified":1537071043,
+    "wof:name":"Padali",
+    "wof:parent_id":1092048853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.49136999999997,
+    27.7004,
+    85.49136999999997,
+    27.7004
+],
+  "geometry": {"coordinates":[85.49136999999997,27.7004],"type":"Point"}
+}

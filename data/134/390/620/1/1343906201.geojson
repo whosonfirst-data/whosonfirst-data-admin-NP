@@ -1,0 +1,78 @@
+{
+  "id": 1343906201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.52986,27.39739,85.52986,27.39739",
+    "geom:latitude":27.39739,
+    "geom:longitude":85.52986,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240075.0",
+    "gn:asciiname":"Basghari",
+    "gn:country_code":"NP",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7963774,
+    "gn:latitude":27.39739,
+    "gn:longitude":85.52986,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Basghari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7963774
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fb6c693663bb558d73e9bf8c4ef53d34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1343906201,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1343906201,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1343906201,
+    "wof:lastmodified":1537095179,
+    "wof:name":"Basghari",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.52986,
+    27.39739,
+    85.52986,
+    27.39739
+],
+  "geometry": {"coordinates":[85.52986,27.39739],"type":"Point"}
+}

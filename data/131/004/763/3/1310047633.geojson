@@ -1,0 +1,78 @@
+{
+  "id": 1310047633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.14558,27.45088,87.14558,27.45088",
+    "geom:latitude":27.45088,
+    "geom:longitude":87.14558,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"9",
+    "gn:admin4_code":"90030",
+    "gn:asciiname":"Sangkhuwatar",
+    "gn:country_code":"NP",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7990548,
+    "gn:latitude":27.45088,
+    "gn:longitude":87.14558,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sangkhuwatar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049597,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7990548
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f21a963b6f21ce392e0a536d92ab8267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1310047633,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1310047633,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1310047633,
+    "wof:lastmodified":1537076825,
+    "wof:name":"Sangkhuwatar",
+    "wof:parent_id":1092049597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.14558000000002,
+    27.45088,
+    87.14558000000002,
+    27.45088
+],
+  "geometry": {"coordinates":[87.14558000000002,27.45088],"type":"Point"}
+}

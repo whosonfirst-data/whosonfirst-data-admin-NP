@@ -1,0 +1,78 @@
+{
+  "id": 1193061313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.184,28.37771,83.184,28.37771",
+    "geom:latitude":28.37771,
+    "geom:longitude":83.184,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45",
+    "gn:admin4_code":"450056",
+    "gn:asciiname":"Silgum",
+    "gn:country_code":"NP",
+    "gn:dem":1946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7964880,
+    "gn:latitude":28.37771,
+    "gn:longitude":83.184,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Silgum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7964880
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8c8a9555db31b3430af32add8cb4b0b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1193061313,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1193061313,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1193061313,
+    "wof:lastmodified":1536377532,
+    "wof:name":"Silgum",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.184,
+    28.37771,
+    83.184,
+    28.37771
+],
+  "geometry": {"coordinates":[83.184,28.37771],"type":"Point"}
+}

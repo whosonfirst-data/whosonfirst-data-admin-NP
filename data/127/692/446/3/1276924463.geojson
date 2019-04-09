@@ -1,0 +1,78 @@
+{
+  "id": 1276924463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.85201,27.74897,85.85201,27.74897",
+    "geom:latitude":27.74897,
+    "geom:longitude":85.85201,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"23",
+    "gn:admin4_code":"230051",
+    "gn:asciiname":"Tallo Chhap",
+    "gn:country_code":"NP",
+    "gn:dem":902,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7995193,
+    "gn:latitude":27.74897,
+    "gn:longitude":85.85201,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tallo Chhap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7995193
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d34ea86a320546983d57cf027f080210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1276924463,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1276924463,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1276924463,
+    "wof:lastmodified":1536980904,
+    "wof:name":"Tallo Chhap",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.85200999999998,
+    27.74897,
+    85.85200999999998,
+    27.74897
+],
+  "geometry": {"coordinates":[85.85200999999998,27.74897],"type":"Point"}
+}

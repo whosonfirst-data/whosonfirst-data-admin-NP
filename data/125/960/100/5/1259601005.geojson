@@ -1,0 +1,75 @@
+{
+  "id": 1259601005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.15048,28.85654,80.15048,28.85654",
+    "geom:latitude":28.85654,
+    "geom:longitude":80.15048,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Balma",
+    "gn:country_code":"NP",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283686,
+    "gn:latitude":28.85654,
+    "gn:longitude":80.15048,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"B\u0101lma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048227,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283686
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5b4a944a46299a34b3c50ab16e7e28f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1259601005,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1259601005,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1259601005,
+    "wof:lastmodified":1536689659,
+    "wof:name":"Balma",
+    "wof:parent_id":1092048227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.15048,
+    28.85654000000001,
+    80.15048,
+    28.85654000000001
+],
+  "geometry": {"coordinates":[80.15048,28.85654000000001],"type":"Point"}
+}

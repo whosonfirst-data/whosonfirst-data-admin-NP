@@ -1,0 +1,78 @@
+{
+  "id": 1326658287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.786,28.49685,81.786,28.49685",
+    "geom:latitude":28.49685,
+    "geom:longitude":81.786,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590013.0",
+    "gn:asciiname":"Tare pahara",
+    "gn:country_code":"NP",
+    "gn:dem":1003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7998879,
+    "gn:latitude":28.49685,
+    "gn:longitude":81.786,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tare pahara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7998879
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8c3aa0985e8d0073cc0aceea6750983a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1326658287,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1326658287,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1326658287,
+    "wof:lastmodified":1536802394,
+    "wof:name":"Tare pahara",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.786,
+    28.49685,
+    81.786,
+    28.49685
+],
+  "geometry": {"coordinates":[81.786,28.49685],"type":"Point"}
+}

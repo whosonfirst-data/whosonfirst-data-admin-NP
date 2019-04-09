@@ -1,0 +1,78 @@
+{
+  "id": 1276165325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.01631,27.42426,87.01631,27.42426",
+    "geom:latitude":27.42426,
+    "geom:longitude":87.01631,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100034.0",
+    "gn:asciiname":"Singane",
+    "gn:country_code":"NP",
+    "gn:dem":2264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933391,
+    "gn:latitude":27.42426,
+    "gn:longitude":87.01631,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Singane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933391
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"dafa82dbefce71e3eac42fc13f7ea31b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1276165325,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1276165325,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1276165325,
+    "wof:lastmodified":1537003124,
+    "wof:name":"Singane",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.01631,
+    27.42426,
+    87.01631,
+    27.42426
+],
+  "geometry": {"coordinates":[87.01631,27.42426],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209342817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.33323,28.81611,81.33323,28.81611",
+    "geom:latitude":28.81611,
+    "geom:longitude":81.33323,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590021.0",
+    "gn:asciiname":"Bhamle",
+    "gn:country_code":"NP",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7999179,
+    "gn:latitude":28.81611,
+    "gn:longitude":81.33323,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhamle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7999179
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e07622adee4095f98a95e7c9816f9c36",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209342817
+        }
+    ],
+    "wof:id":1209342817,
+    "wof:lastmodified":1536290009,
+    "wof:name":"Bhamle",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.33323,
+    28.81611,
+    81.33323,
+    28.81611
+],
+  "geometry": {"coordinates":[81.33323,28.81611],"type":"Point"}
+}

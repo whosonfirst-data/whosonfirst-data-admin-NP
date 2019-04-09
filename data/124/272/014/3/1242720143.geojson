@@ -1,0 +1,78 @@
+{
+  "id": 1242720143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.83721,27.71511,85.83721,27.71511",
+    "geom:latitude":27.71511,
+    "geom:longitude":85.83721,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"23",
+    "gn:admin4_code":"230065",
+    "gn:asciiname":"Thuldhunga",
+    "gn:country_code":"NP",
+    "gn:dem":1202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7995399,
+    "gn:latitude":27.71511,
+    "gn:longitude":85.83721,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thuldhunga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7995399
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d2a862d646ffd1911b4e09b233eb87ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1242720143,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1242720143,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1242720143,
+    "wof:lastmodified":1536857264,
+    "wof:name":"Thuldhunga",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.83721,
+    27.71511,
+    85.83721,
+    27.71511
+],
+  "geometry": {"coordinates":[85.83721,27.71511],"type":"Point"}
+}

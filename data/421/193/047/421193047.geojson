@@ -1,0 +1,147 @@
+{
+  "id": 421193047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.55,27.15,87.55,27.15",
+    "geom:latitude":27.15,
+    "geom:longitude":87.55,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09a4\u09c7\u09b0\u09a5\u09c1\u09ae \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09a4\u09c7\u09b0\u09a5\u09c1\u09ae"
+    ],
+    "name:dan_x_preferred":[
+        "Terhathum District"
+    ],
+    "name:deu_x_preferred":[
+        "Terhathum"
+    ],
+    "name:fra_x_preferred":[
+        "District de Terhathum"
+    ],
+    "name:hif_x_preferred":[
+        "Terahathum"
+    ],
+    "name:hin_x_preferred":[
+        "\u0924\u0947\u0939\u094d\u0930\u0925\u0941\u092e \u091c\u093f\u0932\u093e"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di Terhathum"
+    ],
+    "name:mai_x_preferred":[
+        "\u0924\u0947\u0939\u094d\u0930\u0925\u0941\u092e \u091c\u093f\u0932\u093e"
+    ],
+    "name:nep_x_preferred":[
+        "\u0924\u0947\u0939\u094d\u0930\u0925\u0941\u092e \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u0924\u0947\u0939\u094d\u0930\u0925\u0941\u092e \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Terhathum"
+    ],
+    "name:nor_x_preferred":[
+        "Terhathum"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0679\u06cc\u0631\u0627\u0679\u06be\u0645"
+    ],
+    "name:pol_x_preferred":[
+        "Terhathum"
+    ],
+    "name:por_x_preferred":[
+        "Terhathum"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u0440\u0445\u0430\u0442\u0445\u0443\u043c"
+    ],
+    "name:san_x_preferred":[
+        "\u0924\u0947\u0939\u094d\u0930\u0925\u0941\u092e\u092e\u0923\u094d\u0921\u0932\u092e\u094d"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito de Terhathum"
+    ],
+    "name:vie_x_preferred":[
+        "Terhathum"
+    ],
+    "qs:gn_country":"NP",
+    "qs:gn_fcode":"ADM3",
+    "qs:gn_id":7732361,
+    "qs:gn_pop":0,
+    "qs:name":"Terhathum",
+    "qs:name_adm0":"Nepal",
+    "qs:name_adm1":"Purwanchal",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"0",
+    "qs:qs_id":401429,
+    "qs:woe_adm0":23424911,
+    "qs:woe_id":23706751,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":307,
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050137,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7732361,
+        "gp:id":23706751,
+        "qs:id":401429,
+        "wd:id":"Q28585",
+        "wk:page":"Terhathum District"
+    },
+    "wof:country":"NP",
+    "wof:created":1459009758,
+    "wof:geomhash":"1e4a979a2f895862969708f1f33c6552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050137,
+            "localadmin_id":421193047,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050137,
+            "localadmin_id":421193047,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":421193047,
+    "wof:lastmodified":1527716142,
+    "wof:name":"Terhathum",
+    "wof:parent_id":1092050137,
+    "wof:placetype":"localadmin",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.55,
+    27.15,
+    87.55,
+    27.15
+],
+  "geometry": {"coordinates":[87.55,27.15],"type":"Point"}
+}

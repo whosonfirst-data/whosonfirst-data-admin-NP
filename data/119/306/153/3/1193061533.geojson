@@ -1,0 +1,78 @@
+{
+  "id": 1193061533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.84519,27.36195,87.84519,27.36195",
+    "geom:latitude":27.36195,
+    "geom:longitude":87.84519,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10044.0",
+    "gn:asciiname":"Yarung",
+    "gn:country_code":"NP",
+    "gn:dem":1485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005721,
+    "gn:latitude":27.36195,
+    "gn:longitude":87.84519,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Yarung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005721
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0a4e8397815c3c3636f44e6101bf9440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1193061533,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1193061533,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1193061533,
+    "wof:lastmodified":1536377337,
+    "wof:name":"Yarung",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.84519,
+    27.36195,
+    87.84519,
+    27.36195
+],
+  "geometry": {"coordinates":[87.84519,27.36195],"type":"Point"}
+}

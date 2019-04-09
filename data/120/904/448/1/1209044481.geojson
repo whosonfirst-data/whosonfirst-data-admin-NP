@@ -1,0 +1,64 @@
+{
+  "id": 1209044481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.57845,26.78317,87.57845,26.78317",
+    "geom:latitude":26.78317,
+    "geom:longitude":87.57845,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"5",
+    "gn:admin4_code":"50060",
+    "gn:asciiname":"Chhatrapur",
+    "gn:country_code":"NP",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7971174,
+    "gn:latitude":26.78317,
+    "gn:longitude":87.57845,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chhatrapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7971174
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"829e41c71ff7159b0e11d1ad2459be4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209044481
+        }
+    ],
+    "wof:id":1209044481,
+    "wof:lastmodified":1536299442,
+    "wof:name":"Chhatrapur",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.57845,
+    26.78317,
+    87.57845,
+    26.78317
+],
+  "geometry": {"coordinates":[87.57845,26.78317],"type":"Point"}
+}

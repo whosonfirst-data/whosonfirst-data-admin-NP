@@ -1,0 +1,64 @@
+{
+  "id": 1209340855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.69701,29.62808,81.69701,29.62808",
+    "geom:latitude":29.62808,
+    "geom:longitude":81.69701,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"67.0",
+    "gn:admin4_code":"670005.0",
+    "gn:asciiname":"Rumdi",
+    "gn:country_code":"NP",
+    "gn:dem":2379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8000148,
+    "gn:latitude":29.62808,
+    "gn:longitude":81.69701,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Rumdi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8000148
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d086dfa4e06f0ca348c64d6343766324",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209340855
+        }
+    ],
+    "wof:id":1209340855,
+    "wof:lastmodified":1536290070,
+    "wof:name":"Rumdi",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.69700999999998,
+    29.62808,
+    81.69700999999998,
+    29.62808
+],
+  "geometry": {"coordinates":[81.69700999999998,29.62808],"type":"Point"}
+}

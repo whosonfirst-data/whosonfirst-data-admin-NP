@@ -1,0 +1,78 @@
+{
+  "id": 1326871987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.62999,26.99437,86.62999,26.99437",
+    "geom:latitude":26.99437,
+    "geom:longitude":86.62999,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140008.0",
+    "gn:asciiname":"Kharikholagaun",
+    "gn:country_code":"NP",
+    "gn:dem":1296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8006646,
+    "gn:latitude":26.99437,
+    "gn:longitude":86.62999,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kharikholagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050179,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8006646
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c438f577fd8fc7aba856fa0b516d36d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1326871987,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1326871987,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1326871987,
+    "wof:lastmodified":1536990737,
+    "wof:name":"Kharikholagaun",
+    "wof:parent_id":1092050179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.62999,
+    26.99437,
+    86.62999,
+    26.99437
+],
+  "geometry": {"coordinates":[86.62999000000001,26.99437],"type":"Point"}
+}

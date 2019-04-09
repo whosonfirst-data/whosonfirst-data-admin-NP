@@ -1,0 +1,78 @@
+{
+  "id": 1327271515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.33639,28.4473,83.33639,28.4473",
+    "geom:latitude":28.4473,
+    "geom:longitude":83.33639,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"43",
+    "gn:admin4_code":"430012",
+    "gn:asciiname":"Hanskholagaun",
+    "gn:country_code":"NP",
+    "gn:dem":2166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7972130,
+    "gn:latitude":28.4473,
+    "gn:longitude":83.33639,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Hanskholagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675553,
+        1092049089,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7972130
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bb5f085da95e61eedc35f4d4b34bc885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049089,
+            "locality_id":1327271515,
+            "region_id":85675553
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049089,
+            "locality_id":1327271515,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1327271515,
+    "wof:lastmodified":1536913471,
+    "wof:name":"Hanskholagaun",
+    "wof:parent_id":1092049089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.33639000000002,
+    28.4473,
+    83.33639000000002,
+    28.4473
+],
+  "geometry": {"coordinates":[83.33639000000002,28.4473],"type":"Point"}
+}

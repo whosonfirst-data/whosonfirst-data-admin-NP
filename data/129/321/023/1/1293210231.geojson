@@ -1,0 +1,78 @@
+{
+  "id": 1293210231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.77378,26.78776,87.77378,26.78776",
+    "geom:latitude":26.78776,
+    "geom:longitude":87.77378,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dadui",
+    "gn:country_code":"NP",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11606443,
+    "gn:latitude":26.78776,
+    "gn:longitude":87.77378,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"\u1e0ca\u1e0dui\u0307\u0304",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "\u1e0ca\u1e0dui\u0307\u0304"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11606443
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7c8f033540b8fe02f369d71f7c50a9f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1293210231,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1293210231,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1293210231,
+    "wof:lastmodified":1537676125,
+    "wof:name":"Dadui",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.77378,
+    26.78776,
+    87.77378,
+    26.78776
+],
+  "geometry": {"coordinates":[87.77378,26.78776],"type":"Point"}
+}

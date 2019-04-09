@@ -1,0 +1,78 @@
+{
+  "id": 1293621799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.97555,28.5033,81.97555,28.5033",
+    "geom:latitude":28.5033,
+    "geom:longitude":81.97555,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590026.0",
+    "gn:asciiname":"Tamakada",
+    "gn:country_code":"NP",
+    "gn:dem":1237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7999377,
+    "gn:latitude":28.5033,
+    "gn:longitude":81.97555,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tamakada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7999377
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d5e717539bf88eec1618e869d5ae09c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1293621799,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1293621799,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1293621799,
+    "wof:lastmodified":1537087448,
+    "wof:name":"Tamakada",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.97555,
+    28.5033,
+    81.97555,
+    28.5033
+],
+  "geometry": {"coordinates":[81.97555,28.5033],"type":"Point"}
+}

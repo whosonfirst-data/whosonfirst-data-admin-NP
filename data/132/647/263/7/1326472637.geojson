@@ -1,0 +1,78 @@
+{
+  "id": 1326472637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.57543,27.79401,85.57543,27.79401",
+    "geom:latitude":27.79401,
+    "geom:longitude":85.57543,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"23",
+    "gn:admin4_code":"230003",
+    "gn:asciiname":"Bahunepati",
+    "gn:country_code":"NP",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7994301,
+    "gn:latitude":27.79401,
+    "gn:longitude":85.57543,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bahunepati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7994301
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3852636ccd72fc3bcd2ac785a4a8da47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1326472637,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1326472637,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1326472637,
+    "wof:lastmodified":1537067000,
+    "wof:name":"Bahunepati",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.57543000000003,
+    27.79401,
+    85.57543000000003,
+    27.79401
+],
+  "geometry": {"coordinates":[85.57543000000003,27.79401],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1243496109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.97953,26.54684,86.97953,26.54684",
+    "geom:latitude":26.54684,
+    "geom:longitude":86.97953,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"6.0",
+    "gn:admin4_code":"60025.0",
+    "gn:asciiname":"Sitaramchok",
+    "gn:country_code":"NP",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7997857,
+    "gn:latitude":26.54684,
+    "gn:longitude":86.97953,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sitaramchok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049923,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7997857
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b8fe8e487d6b5508c1c57b97dcaa986e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1243496109,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1243496109,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1243496109,
+    "wof:lastmodified":1536734158,
+    "wof:name":"Sitaramchok",
+    "wof:parent_id":1092049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.97953000000003,
+    26.54684,
+    86.97953000000003,
+    26.54684
+],
+  "geometry": {"coordinates":[86.97953000000003,26.54684],"type":"Point"}
+}

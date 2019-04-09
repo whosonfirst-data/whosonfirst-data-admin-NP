@@ -1,0 +1,64 @@
+{
+  "id": 1209152371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.25054,26.61941,87.25054,26.61941",
+    "geom:latitude":26.61941,
+    "geom:longitude":87.25054,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"6.0",
+    "gn:admin4_code":"60032.0",
+    "gn:asciiname":"Mdheli Panchyattol",
+    "gn:country_code":"NP",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7998010,
+    "gn:latitude":26.61941,
+    "gn:longitude":87.25054,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mdheli Panchyattol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7998010
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"13ad209d344d7d50ac23b2ab9df42ff5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209152371
+        }
+    ],
+    "wof:id":1209152371,
+    "wof:lastmodified":1536296163,
+    "wof:name":"Mdheli Panchyattol",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.25054,
+    26.61941,
+    87.25054,
+    26.61941
+],
+  "geometry": {"coordinates":[87.25054,26.61941],"type":"Point"}
+}

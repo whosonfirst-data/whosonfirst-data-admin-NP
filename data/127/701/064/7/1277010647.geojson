@@ -1,0 +1,78 @@
+{
+  "id": 1277010647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.32842,28.73894,80.32842,28.73894",
+    "geom:latitude":28.73894,
+    "geom:longitude":80.32842,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"72.0",
+    "gn:admin4_code":"720015.0",
+    "gn:asciiname":"Chakiyakunda",
+    "gn:country_code":"NP",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7959026,
+    "gn:latitude":28.73894,
+    "gn:longitude":80.32842,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chakiyakunda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048227,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7959026
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2c85994f798f4c35a4499b54698a3029",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1277010647,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1277010647,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1277010647,
+    "wof:lastmodified":1536864606,
+    "wof:name":"Chakiyakunda",
+    "wof:parent_id":1092048227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.32842,
+    28.73894,
+    80.32842,
+    28.73894
+],
+  "geometry": {"coordinates":[80.32841999999999,28.73894],"type":"Point"}
+}

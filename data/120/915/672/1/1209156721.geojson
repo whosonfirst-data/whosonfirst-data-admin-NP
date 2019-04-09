@@ -1,0 +1,64 @@
+{
+  "id": 1209156721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.76279,27.74196,85.76279,27.74196",
+    "geom:latitude":27.74196,
+    "geom:longitude":85.76279,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"23",
+    "gn:admin4_code":"230035",
+    "gn:asciiname":"Mulkharka",
+    "gn:country_code":"NP",
+    "gn:dem":1385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7994884,
+    "gn:latitude":27.74196,
+    "gn:longitude":85.76279,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mulkharka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7994884
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d92a9acfebb343d55ab64f10e28e7475",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209156721
+        }
+    ],
+    "wof:id":1209156721,
+    "wof:lastmodified":1536296035,
+    "wof:name":"Mulkharka",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.76279,
+    27.74196,
+    85.76279,
+    27.74196
+],
+  "geometry": {"coordinates":[85.76279,27.74196],"type":"Point"}
+}

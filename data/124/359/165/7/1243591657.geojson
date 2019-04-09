@@ -1,0 +1,78 @@
+{
+  "id": 1243591657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.40062,28.38705,83.40062,28.38705",
+    "geom:latitude":28.38705,
+    "geom:longitude":83.40062,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"43",
+    "gn:admin4_code":"430001",
+    "gn:asciiname":"Tikabang",
+    "gn:country_code":"NP",
+    "gn:dem":1953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7971936,
+    "gn:latitude":28.38705,
+    "gn:longitude":83.40062,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tikabang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675553,
+        1092049089,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7971936
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1a4d55d2dd5fbf1a603beda6bd08a320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049089,
+            "locality_id":1243591657,
+            "region_id":85675553
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049089,
+            "locality_id":1243591657,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1243591657,
+    "wof:lastmodified":1537089828,
+    "wof:name":"Tikabang",
+    "wof:parent_id":1092049089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.40061999999998,
+    28.38705,
+    83.40061999999998,
+    28.38705
+],
+  "geometry": {"coordinates":[83.40061999999998,28.38705],"type":"Point"}
+}

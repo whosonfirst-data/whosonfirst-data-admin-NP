@@ -1,0 +1,64 @@
+{
+  "id": 1209162499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.07933,26.72615,88.07933,26.72615",
+    "geom:latitude":26.72615,
+    "geom:longitude":88.07933,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40045.0",
+    "gn:asciiname":"Ganeshbasti",
+    "gn:country_code":"NP",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7955292,
+    "gn:latitude":26.72615,
+    "gn:longitude":88.07933,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ganeshbasti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7955292
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1a6a58bc289ff1cbe7b2b3bf39f37c7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209162499
+        }
+    ],
+    "wof:id":1209162499,
+    "wof:lastmodified":1536295851,
+    "wof:name":"Ganeshbasti",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.07933,
+    26.72615,
+    88.07933,
+    26.72615
+],
+  "geometry": {"coordinates":[88.07933,26.72615],"type":"Point"}
+}

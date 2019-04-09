@@ -1,0 +1,64 @@
+{
+  "id": 1209030909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.81841,30.04056,81.81841,30.04056",
+    "geom:latitude":30.04056,
+    "geom:longitude":81.81841,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"66.0",
+    "gn:admin4_code":"660007.0",
+    "gn:asciiname":"Aul Tangin",
+    "gn:country_code":"NP",
+    "gn:dem":3232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7950879,
+    "gn:latitude":30.04056,
+    "gn:longitude":81.81841,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Aul Tangin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7950879
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"67f995ad255cce5d967acc5717b3a884",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209030909
+        }
+    ],
+    "wof:id":1209030909,
+    "wof:lastmodified":1536299852,
+    "wof:name":"Aul Tangin",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.81841,
+    30.04056,
+    81.81841,
+    30.04056
+],
+  "geometry": {"coordinates":[81.81841,30.04056],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209037769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.2026,29.44968,81.2026,29.44968",
+    "geom:latitude":29.44968,
+    "geom:longitude":81.2026,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680036",
+    "gn:asciiname":"Dandamandu",
+    "gn:country_code":"NP",
+    "gn:dem":2220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7995910,
+    "gn:latitude":29.44968,
+    "gn:longitude":81.2026,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dandamandu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7995910
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f1bb77392e1e9d36ee701c9daec8d012",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209037769
+        }
+    ],
+    "wof:id":1209037769,
+    "wof:lastmodified":1536299645,
+    "wof:name":"Dandamandu",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.2026,
+    29.44968,
+    81.2026,
+    29.44968
+],
+  "geometry": {"coordinates":[81.2026,29.44968],"type":"Point"}
+}

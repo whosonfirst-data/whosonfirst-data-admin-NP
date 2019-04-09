@@ -1,0 +1,78 @@
+{
+  "id": 1276452847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.78081,27.78748,84.78081,27.78748",
+    "geom:latitude":27.78748,
+    "geom:longitude":84.78081,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Battar",
+    "gn:country_code":"NP",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11599713,
+    "gn:latitude":27.78748,
+    "gn:longitude":84.78081,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Ba\u1e6d\u1e6d\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Ba\u1e6d\u1e6d\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11599713
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3781ed0b72f0d7181c477cfcf6e19548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1276452847,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1276452847,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1276452847,
+    "wof:lastmodified":1537676112,
+    "wof:name":"Battar",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.78081,
+    27.78748,
+    84.78081,
+    27.78748
+],
+  "geometry": {"coordinates":[84.78081,27.78748],"type":"Point"}
+}

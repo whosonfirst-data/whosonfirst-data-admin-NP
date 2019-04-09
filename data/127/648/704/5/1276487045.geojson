@@ -1,0 +1,78 @@
+{
+  "id": 1276487045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.89569,28.02288,83.89569,28.02288",
+    "geom:latitude":28.02288,
+    "geom:longitude":83.89569,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390010.0",
+    "gn:asciiname":"Biruwa",
+    "gn:country_code":"NP",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8000767,
+    "gn:latitude":28.02288,
+    "gn:longitude":83.89569,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Biruwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8000767
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5a68a23f507389ea7697588599765965",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1276487045,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1276487045,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1276487045,
+    "wof:lastmodified":1537067053,
+    "wof:name":"Biruwa",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.89569,
+    28.02288,
+    83.89569,
+    28.02288
+],
+  "geometry": {"coordinates":[83.89569,28.02288],"type":"Point"}
+}

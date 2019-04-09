@@ -1,0 +1,78 @@
+{
+  "id": 1259625063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.02197,28.03123,84.02197,28.03123",
+    "geom:latitude":28.03123,
+    "geom:longitude":84.02197,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380019.0",
+    "gn:asciiname":"Purani Dihi",
+    "gn:country_code":"NP",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003409,
+    "gn:latitude":28.03123,
+    "gn:longitude":84.02197,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Purani Dihi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003409
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"05714bae511b8e0308b098ca6350dbb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1259625063,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1259625063,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1259625063,
+    "wof:lastmodified":1536654807,
+    "wof:name":"Purani Dihi",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.02197,
+    28.03123,
+    84.02197,
+    28.03123
+],
+  "geometry": {"coordinates":[84.02197,28.03123],"type":"Point"}
+}

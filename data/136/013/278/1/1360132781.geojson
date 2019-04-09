@@ -1,0 +1,78 @@
+{
+  "id": 1360132781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.7519,27.50112,87.7519,27.50112",
+    "geom:latitude":27.50112,
+    "geom:longitude":87.7519,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10008.0",
+    "gn:asciiname":"Kelok",
+    "gn:country_code":"NP",
+    "gn:dem":1649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005081,
+    "gn:latitude":27.50112,
+    "gn:longitude":87.7519,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kelok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005081
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6b4a57a74f91381abce76f5862231d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1360132781,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1360132781,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1360132781,
+    "wof:lastmodified":1536876072,
+    "wof:name":"Kelok",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.7519,
+    27.50112,
+    87.7519,
+    27.50112
+],
+  "geometry": {"coordinates":[87.75190000000001,27.50112],"type":"Point"}
+}

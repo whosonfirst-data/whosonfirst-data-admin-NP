@@ -1,0 +1,78 @@
+{
+  "id": 1209863981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.75469,27.35199,87.75469,27.35199",
+    "geom:latitude":27.35199,
+    "geom:longitude":87.75469,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10049.0",
+    "gn:asciiname":"Dudile",
+    "gn:country_code":"NP",
+    "gn:dem":1602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005799,
+    "gn:latitude":27.35199,
+    "gn:longitude":87.75469,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dudile",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005799
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"35c1f4c73976ffc4f53bd3e4d3bf1564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1209863981,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1209863981,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1209863981,
+    "wof:lastmodified":1536380722,
+    "wof:name":"Dudile",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.75469,
+    27.35199,
+    87.75469,
+    27.35199
+],
+  "geometry": {"coordinates":[87.75469,27.35199],"type":"Point"}
+}

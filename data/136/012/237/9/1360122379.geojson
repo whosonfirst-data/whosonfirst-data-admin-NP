@@ -1,0 +1,78 @@
+{
+  "id": 1360122379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.97029,27.41122,86.97029,27.41122",
+    "geom:latitude":27.41122,
+    "geom:longitude":86.97029,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100022.0",
+    "gn:asciiname":"Phedi",
+    "gn:country_code":"NP",
+    "gn:dem":2045,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933076,
+    "gn:latitude":27.41122,
+    "gn:longitude":86.97029,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Phedi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933076
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"695bfcb8b4155e73cd641bd13ef24bef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1360122379,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1360122379,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1360122379,
+    "wof:lastmodified":1536891446,
+    "wof:name":"Phedi",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.97029,
+    27.41122,
+    86.97029,
+    27.41122
+],
+  "geometry": {"coordinates":[86.97029000000001,27.41122],"type":"Point"}
+}

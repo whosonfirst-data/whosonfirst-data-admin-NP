@@ -1,0 +1,78 @@
+{
+  "id": 1309947855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.61449,27.43364,87.61449,27.43364",
+    "geom:latitude":27.43364,
+    "geom:longitude":87.61449,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10047.0",
+    "gn:asciiname":"Odakhop",
+    "gn:country_code":"NP",
+    "gn:dem":943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005769,
+    "gn:latitude":27.43364,
+    "gn:longitude":87.61449,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Odakhop",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005769
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f7daebc95c6fe7721dab5fcffc03abdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1309947855,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1309947855,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1309947855,
+    "wof:lastmodified":1536726824,
+    "wof:name":"Odakhop",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.61449,
+    27.43364,
+    87.61449,
+    27.43364
+],
+  "geometry": {"coordinates":[87.61449,27.43364],"type":"Point"}
+}

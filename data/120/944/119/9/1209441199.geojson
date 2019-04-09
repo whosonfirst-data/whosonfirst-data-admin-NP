@@ -1,0 +1,64 @@
+{
+  "id": 1209441199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.79922,29.11009,80.79922,29.11009",
+    "geom:latitude":29.11009,
+    "geom:longitude":80.79922,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"70.0",
+    "gn:admin4_code":"700015.0",
+    "gn:asciiname":"Deuthala",
+    "gn:country_code":"NP",
+    "gn:dem":1562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7946514,
+    "gn:latitude":29.11009,
+    "gn:longitude":80.79922,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Deuthala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7946514
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"fcf56ddca92da83af6b8fa0ed1c90c65",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209441199
+        }
+    ],
+    "wof:id":1209441199,
+    "wof:lastmodified":1536286955,
+    "wof:name":"Deuthala",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.79921999999998,
+    29.110090000000003,
+    80.79921999999998,
+    29.110090000000003
+],
+  "geometry": {"coordinates":[80.79921999999998,29.11009],"type":"Point"}
+}

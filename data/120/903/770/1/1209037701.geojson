@@ -1,0 +1,64 @@
+{
+  "id": 1209037701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.61934,28.2797,82.61934,28.2797",
+    "geom:latitude":28.2797,
+    "geom:longitude":82.61934,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530031",
+    "gn:asciiname":"Sano Libang",
+    "gn:country_code":"NP",
+    "gn:dem":1461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7984036,
+    "gn:latitude":28.2797,
+    "gn:longitude":82.61934,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sano Libang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7984036
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"87e494fa5317c15e954f014819ba544e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209037701
+        }
+    ],
+    "wof:id":1209037701,
+    "wof:lastmodified":1536299647,
+    "wof:name":"Sano Libang",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.61934000000002,
+    28.2797,
+    82.61934000000002,
+    28.2797
+],
+  "geometry": {"coordinates":[82.61934000000002,28.2797],"type":"Point"}
+}

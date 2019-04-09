@@ -1,0 +1,78 @@
+{
+  "id": 1327481679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.80187,28.06814,83.80187,28.06814",
+    "geom:latitude":28.06814,
+    "geom:longitude":83.80187,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390028.0",
+    "gn:asciiname":"Thadakhet",
+    "gn:country_code":"NP",
+    "gn:dem":855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001282,
+    "gn:latitude":28.06814,
+    "gn:longitude":83.80187,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thadakhet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001282
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f3bea88bbc7a30fe2dd767e4806a9103",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1327481679,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1327481679,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1327481679,
+    "wof:lastmodified":1536606752,
+    "wof:name":"Thadakhet",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.80187,
+    28.06814,
+    83.80187,
+    28.06814
+],
+  "geometry": {"coordinates":[83.80186999999999,28.06814],"type":"Point"}
+}

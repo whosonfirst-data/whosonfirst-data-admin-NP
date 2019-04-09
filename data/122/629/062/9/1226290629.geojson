@@ -1,0 +1,78 @@
+{
+  "id": 1226290629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.94522,27.49398,82.94522,27.49398",
+    "geom:latitude":27.49398,
+    "geom:longitude":82.94522,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"50.0",
+    "gn:admin4_code":"500032.0",
+    "gn:asciiname":"Bhujahani",
+    "gn:country_code":"NP",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7959582,
+    "gn:latitude":27.49398,
+    "gn:longitude":82.94522,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhujahani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048259,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7959582
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0c930db8ec68b688901b89e5150054d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1226290629,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1226290629,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1226290629,
+    "wof:lastmodified":1536867836,
+    "wof:name":"Bhujahani",
+    "wof:parent_id":1092048259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.94521999999998,
+    27.49398,
+    82.94521999999998,
+    27.49398
+],
+  "geometry": {"coordinates":[82.94521999999998,27.49398],"type":"Point"}
+}

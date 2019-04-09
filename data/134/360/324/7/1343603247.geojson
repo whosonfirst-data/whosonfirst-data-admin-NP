@@ -1,0 +1,78 @@
+{
+  "id": 1343603247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.79801,27.13504,87.79801,27.13504",
+    "geom:latitude":27.13504,
+    "geom:longitude":87.79801,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"2",
+    "gn:admin4_code":"20029",
+    "gn:asciiname":"Khopikharka",
+    "gn:country_code":"NP",
+    "gn:dem":1029,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7977785,
+    "gn:latitude":27.13504,
+    "gn:longitude":87.79801,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khopikharka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7977785
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cdeaa822fe6fc15919287aaaaa4f1fa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1343603247,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1343603247,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1343603247,
+    "wof:lastmodified":1537036029,
+    "wof:name":"Khopikharka",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.79800999999998,
+    27.13504,
+    87.79800999999998,
+    27.13504
+],
+  "geometry": {"coordinates":[87.79800999999998,27.13504],"type":"Point"}
+}

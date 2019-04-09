@@ -1,0 +1,78 @@
+{
+  "id": 1226270883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.43115,28.34935,81.43115,28.34935",
+    "geom:latitude":28.34935,
+    "geom:longitude":81.43115,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"58.0",
+    "gn:admin4_code":"580015.0",
+    "gn:asciiname":"Auri",
+    "gn:country_code":"NP",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009689,
+    "gn:latitude":28.34935,
+    "gn:longitude":81.43115,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Auri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048097,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009689
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a43569041169d464a314dad085f65a19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1226270883,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1226270883,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1226270883,
+    "wof:lastmodified":1536897406,
+    "wof:name":"Auri",
+    "wof:parent_id":1092048097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.43115,
+    28.34935,
+    81.43115,
+    28.34935
+],
+  "geometry": {"coordinates":[81.43115,28.34935],"type":"Point"}
+}

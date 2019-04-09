@@ -1,0 +1,78 @@
+{
+  "id": 1193065723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.91832,27.16251,87.91832,27.16251",
+    "geom:latitude":27.16251,
+    "geom:longitude":87.91832,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"2",
+    "gn:admin4_code":"20030",
+    "gn:asciiname":"Khedok",
+    "gn:country_code":"NP",
+    "gn:dem":1847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7977831,
+    "gn:latitude":27.16251,
+    "gn:longitude":87.91832,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khedok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7977831
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4a9063a7a657f5c544021a2386979c15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1193065723,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1193065723,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1193065723,
+    "wof:lastmodified":1536373149,
+    "wof:name":"Khedok",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.91832,
+    27.16251,
+    87.91832,
+    27.16251
+],
+  "geometry": {"coordinates":[87.91831999999999,27.16251],"type":"Point"}
+}

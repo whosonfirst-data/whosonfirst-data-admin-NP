@@ -1,0 +1,64 @@
+{
+  "id": 1209663455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.77468,26.49424,87.77468,26.49424",
+    "geom:latitude":26.49424,
+    "geom:longitude":87.77468,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40004.0",
+    "gn:asciiname":"Anjani Kamat",
+    "gn:country_code":"NP",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7953991,
+    "gn:latitude":26.49424,
+    "gn:longitude":87.77468,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Anjani Kamat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7953991
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f486f16ff78934ec7d55d6f34fa8b5aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209663455
+        }
+    ],
+    "wof:id":1209663455,
+    "wof:lastmodified":1536280177,
+    "wof:name":"Anjani Kamat",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.77468,
+    26.49424,
+    87.77468,
+    26.49424
+],
+  "geometry": {"coordinates":[87.77468,26.49424],"type":"Point"}
+}

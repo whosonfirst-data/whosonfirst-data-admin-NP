@@ -1,0 +1,78 @@
+{
+  "id": 1360117617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.82954,29.47484,80.82954,29.47484",
+    "geom:latitude":29.47484,
+    "geom:longitude":80.82954,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740054",
+    "gn:asciiname":"Pune Dungari",
+    "gn:country_code":"NP",
+    "gn:dem":1567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7983073,
+    "gn:latitude":29.47484,
+    "gn:longitude":80.82954,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pune Dungari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050255,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7983073
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7b6fd907b833e3bf78522897add9d5a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1360117617,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1360117617,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1360117617,
+    "wof:lastmodified":1536898739,
+    "wof:name":"Pune Dungari",
+    "wof:parent_id":1092050255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.82954000000002,
+    29.47484,
+    80.82954000000002,
+    29.47484
+],
+  "geometry": {"coordinates":[80.82954000000002,29.47484],"type":"Point"}
+}

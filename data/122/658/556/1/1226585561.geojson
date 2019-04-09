@@ -1,0 +1,78 @@
+{
+  "id": 1226585561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.53878,27.53174,83.53878,27.53174",
+    "geom:latitude":27.53174,
+    "geom:longitude":83.53878,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"49",
+    "gn:admin4_code":"490053",
+    "gn:asciiname":"Tareni",
+    "gn:country_code":"NP",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7987543,
+    "gn:latitude":27.53174,
+    "gn:longitude":83.53878,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tareni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048457,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7987543
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"051a0b73cc7a5421dc2e5ce00625f113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1226585561,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1226585561,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1226585561,
+    "wof:lastmodified":1536943419,
+    "wof:name":"Tareni",
+    "wof:parent_id":1092048457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.53878,
+    27.53174000000001,
+    83.53878,
+    27.53174000000001
+],
+  "geometry": {"coordinates":[83.53878,27.53174000000001],"type":"Point"}
+}

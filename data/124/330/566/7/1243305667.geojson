@@ -1,0 +1,78 @@
+{
+  "id": 1243305667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.26629,26.81403,87.26629,26.81403",
+    "geom:latitude":26.81403,
+    "geom:longitude":87.26629,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"6.0",
+    "gn:admin4_code":"60018.0",
+    "gn:asciiname":"Bagantol",
+    "gn:country_code":"NP",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7997729,
+    "gn:latitude":26.81403,
+    "gn:longitude":87.26629,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bagantol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049923,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7997729
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"843b5f3b624c8a6db87c3406812c427a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1243305667,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1243305667,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1243305667,
+    "wof:lastmodified":1537007779,
+    "wof:name":"Bagantol",
+    "wof:parent_id":1092049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.26629,
+    26.81403,
+    87.26629,
+    26.81403
+],
+  "geometry": {"coordinates":[87.26629,26.81403],"type":"Point"}
+}

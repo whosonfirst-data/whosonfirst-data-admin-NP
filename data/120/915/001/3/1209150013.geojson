@@ -1,0 +1,64 @@
+{
+  "id": 1209150013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.1108,28.29874,83.1108,28.29874",
+    "geom:latitude":28.29874,
+    "geom:longitude":83.1108,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450009.0",
+    "gn:asciiname":"Kundula",
+    "gn:country_code":"NP",
+    "gn:dem":1984,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7949587,
+    "gn:latitude":28.29874,
+    "gn:longitude":83.1108,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kundula",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7949587
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2f6d5f079d8bb85bd6b93014b4567478",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209150013
+        }
+    ],
+    "wof:id":1209150013,
+    "wof:lastmodified":1536296231,
+    "wof:name":"Kundula",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.1108,
+    28.29874,
+    83.1108,
+    28.29874
+],
+  "geometry": {"coordinates":[83.1108,28.29874],"type":"Point"}
+}

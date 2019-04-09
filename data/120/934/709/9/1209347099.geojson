@@ -1,0 +1,64 @@
+{
+  "id": 1209347099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.40815,29.09482,83.40815,29.09482",
+    "geom:latitude":29.09482,
+    "geom:longitude":83.40815,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"62.0",
+    "gn:admin4_code":"620002.0",
+    "gn:asciiname":"Sarchen Gumba",
+    "gn:country_code":"NP",
+    "gn:dem":4436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7945353,
+    "gn:latitude":29.09482,
+    "gn:longitude":83.40815,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sarchen Gumba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7945353
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8017c264240b8642c651bd21850bf73c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209347099
+        }
+    ],
+    "wof:id":1209347099,
+    "wof:lastmodified":1536289874,
+    "wof:name":"Sarchen Gumba",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.40815,
+    29.09482,
+    83.40815,
+    29.09482
+],
+  "geometry": {"coordinates":[83.40815000000001,29.09482],"type":"Point"}
+}

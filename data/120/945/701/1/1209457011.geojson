@@ -1,0 +1,64 @@
+{
+  "id": 1209457011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.21537,27.34022,85.21537,27.34022",
+    "geom:latitude":27.34022,
+    "geom:longitude":85.21537,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310040",
+    "gn:asciiname":"Tama Kholagaun",
+    "gn:country_code":"NP",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7969216,
+    "gn:latitude":27.34022,
+    "gn:longitude":85.21537,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tama Kholagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7969216
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d118f16f4ccc7b84e324ec305bd0d146",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209457011
+        }
+    ],
+    "wof:id":1209457011,
+    "wof:lastmodified":1536286502,
+    "wof:name":"Tama Kholagaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.21537,
+    27.34022,
+    85.21537,
+    27.34022
+],
+  "geometry": {"coordinates":[85.21536999999999,27.34022],"type":"Point"}
+}

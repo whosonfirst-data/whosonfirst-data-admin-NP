@@ -1,0 +1,78 @@
+{
+  "id": 1326656407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.68041,28.7086,81.68041,28.7086",
+    "geom:latitude":28.7086,
+    "geom:longitude":81.68041,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"60.0",
+    "gn:admin4_code":"600018.0",
+    "gn:asciiname":"Atitada",
+    "gn:country_code":"NP",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7936981,
+    "gn:latitude":28.7086,
+    "gn:longitude":81.68041,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Atitada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092050583,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7936981
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"dc2eead5752d8ac455cab1418ed9d47f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1326656407,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1326656407,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1326656407,
+    "wof:lastmodified":1536804965,
+    "wof:name":"Atitada",
+    "wof:parent_id":1092050583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.68041,
+    28.7086,
+    81.68041,
+    28.7086
+],
+  "geometry": {"coordinates":[81.68040999999999,28.7086],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1209743661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.15743,29.39402,82.15743,29.39402",
+    "geom:latitude":29.39402,
+    "geom:longitude":82.15743,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"630003.0",
+    "gn:asciiname":"Himdhuski",
+    "gn:country_code":"NP",
+    "gn:dem":3085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7955587,
+    "gn:latitude":29.39402,
+    "gn:longitude":82.15743,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Himdhuski",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092050797,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7955587
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"81ba0152f684b5b7a759a9ad50dcc4c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1209743661,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1209743661,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1209743661,
+    "wof:lastmodified":1536395983,
+    "wof:name":"Himdhuski",
+    "wof:parent_id":1092050797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.15743,
+    29.39402,
+    82.15743,
+    29.39402
+],
+  "geometry": {"coordinates":[82.15743000000001,29.39402],"type":"Point"}
+}

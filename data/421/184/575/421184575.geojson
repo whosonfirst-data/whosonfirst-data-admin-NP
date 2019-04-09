@@ -1,0 +1,191 @@
+{
+  "id": 421184575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.33333,29.08333,81.33333,29.08333",
+    "geom:latitude":29.08333,
+    "geom:longitude":81.33333,
+    "gn:gn_country":"NP",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":239534,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0622\u0634\u0627\u0645"
+    ],
+    "name:ben_x_preferred":[
+        "\u0985\u099b\u09be\u09ae \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bpy_x_preferred":[
+        "\u0985\u099b\u09be\u09ae"
+    ],
+    "name:dan_x_preferred":[
+        "Achham District"
+    ],
+    "name:deu_x_preferred":[
+        "Achham"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0627\u0686\u0647\u0627\u0645"
+    ],
+    "name:fin_x_preferred":[
+        "Achhamin piirikunta"
+    ],
+    "name:fra_x_preferred":[
+        "District d'Achham"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a85\u0a9b\u0abe\u0aae \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hif_x_preferred":[
+        "Achham Jila"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u091b\u093e\u092e \u091c\u093f\u0932\u093e"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di Achham"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30c1\u30e3\u30fc\u30e0\u90e1"
+    ],
+    "name:mai_x_preferred":[
+        "\u0905\u091b\u093e\u092e \u091c\u093f\u0932\u093e"
+    ],
+    "name:nep_x_preferred":[
+        "\u0905\u091b\u093e\u092e \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u0905\u091b\u093e\u092e \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Achham"
+    ],
+    "name:nor_x_preferred":[
+        "Achham"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0627\u0686\u0686\u06be\u0645"
+    ],
+    "name:pol_x_preferred":[
+        "Achham"
+    ],
+    "name:por_x_preferred":[
+        "Achham"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0447\u0445\u0430\u043c"
+    ],
+    "name:san_x_preferred":[
+        "\u0905\u091b\u093e\u092e\u092e\u0923\u094d\u0921\u0932\u092e\u094d"
+    ],
+    "name:unk_x_variant":[
+        "Achh\u0101m"
+    ],
+    "name:vie_x_preferred":[
+        "Achham"
+    ],
+    "qs:gn_country":"NP",
+    "qs:gn_fcode":"ADM3",
+    "qs:gn_id":1283743,
+    "qs:gn_pop":239534,
+    "qs:name":"Achham",
+    "qs:name_adm0":"Nepal",
+    "qs:name_adm1":"Sudur Pashchimanchal",
+    "qs:photos":8,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":8,
+    "qs:photos_sr":1,
+    "qs:placetype":"LocalAdmin",
+    "qs:pop_sr":"10",
+    "qs:qs_id":1002109,
+    "qs:woe_adm0":23424911,
+    "qs:woe_id":23706783,
+    "qs_pg:aaroncc":"NP",
+    "qs_pg:gn_country":"NP",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1283743,
+    "qs_pg:gn_pop":239534,
+    "qs_pg:name":"Achham",
+    "qs_pg:name_adm0":"Nepal",
+    "qs_pg:name_adm1":"Sudur Pashchimanchal",
+    "qs_pg:photos":8,
+    "qs_pg:photos_1k":2,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":8,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":1002109,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424911,
+    "qs_pg:woe_id":23706783,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":362,
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048527,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283743,
+        "gp:id":23706783,
+        "qs:id":1002109,
+        "qs_pg:id":1002109,
+        "wd:id":"Q28426",
+        "wk:page":"Achham District"
+    },
+    "wof:country":"NP",
+    "wof:created":1459009415,
+    "wof:geomhash":"eb320ea3c57d28369367b7f4e4345c2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "localadmin_id":421184575,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048527,
+            "localadmin_id":421184575,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":421184575,
+    "wof:lastmodified":1534379388,
+    "wof:name":"Achham",
+    "wof:parent_id":1092048527,
+    "wof:placetype":"localadmin",
+    "wof:population":239534,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1125377765
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.33333,
+    29.08333,
+    81.33333,
+    29.08333
+],
+  "geometry": {"coordinates":[81.33333,29.08333],"type":"Point"}
+}

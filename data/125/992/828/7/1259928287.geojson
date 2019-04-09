@@ -1,0 +1,78 @@
+{
+  "id": 1259928287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.31882,27.54763,86.31882,27.54763",
+    "geom:latitude":27.54763,
+    "geom:longitude":86.31882,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"21",
+    "gn:admin4_code":"210030",
+    "gn:asciiname":"Salme",
+    "gn:country_code":"NP",
+    "gn:dem":2182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7981564,
+    "gn:latitude":27.54763,
+    "gn:longitude":86.31882,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Salme",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049711,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7981564
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e0603fd750c09d959954adc253c478da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1259928287,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049711,
+            "locality_id":1259928287,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1259928287,
+    "wof:lastmodified":1536715091,
+    "wof:name":"Salme",
+    "wof:parent_id":1092049711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.31882,
+    27.54763,
+    86.31882,
+    27.54763
+],
+  "geometry": {"coordinates":[86.31882,27.54763],"type":"Point"}
+}

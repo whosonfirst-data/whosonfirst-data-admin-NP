@@ -1,0 +1,78 @@
+{
+  "id": 1310115533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.74925,26.89909,86.74925,26.89909",
+    "geom:latitude":26.89909,
+    "geom:longitude":86.74925,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Khabu",
+    "gn:country_code":"NP",
+    "gn:dem":880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11608334,
+    "gn:latitude":26.89909,
+    "gn:longitude":86.74925,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Kh\u0101\u0303bu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Kh\u0101\u0303bu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050179,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11608334
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2ffcccd3b0d84b3c93217f555808e40e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1310115533,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1310115533,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1310115533,
+    "wof:lastmodified":1537676136,
+    "wof:name":"Khabu",
+    "wof:parent_id":1092050179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.74925,
+    26.89909,
+    86.74925,
+    26.89909
+],
+  "geometry": {"coordinates":[86.74925,26.89909],"type":"Point"}
+}

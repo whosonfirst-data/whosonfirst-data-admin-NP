@@ -1,0 +1,64 @@
+{
+  "id": 1209342631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.88751,28.39668,82.88751,28.39668",
+    "geom:latitude":28.39668,
+    "geom:longitude":82.88751,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530010",
+    "gn:asciiname":"Mangrabang",
+    "gn:country_code":"NP",
+    "gn:dem":2196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7983258,
+    "gn:latitude":28.39668,
+    "gn:longitude":82.88751,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mangrabang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7983258
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a294cfd330cfc66a766ae98fbbc53703",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209342631
+        }
+    ],
+    "wof:id":1209342631,
+    "wof:lastmodified":1536290013,
+    "wof:name":"Mangrabang",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.88750999999998,
+    28.39668,
+    82.88750999999998,
+    28.39668
+],
+  "geometry": {"coordinates":[82.88750999999998,28.39668],"type":"Point"}
+}

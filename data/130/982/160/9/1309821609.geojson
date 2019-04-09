@@ -1,0 +1,75 @@
+{
+  "id": 1309821609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.5992,27.3573,86.5992,27.3573",
+    "geom:latitude":27.3573,
+    "geom:longitude":86.5992,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Khalin",
+    "gn:country_code":"NP",
+    "gn:dem":1583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11205798,
+    "gn:latitude":27.3573,
+    "gn:longitude":86.5992,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Kh\u0101li\u1e45",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049841,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11205798
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9e76af416d7b630ee226696a33f21988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1309821609,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1309821609,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1309821609,
+    "wof:lastmodified":1536908588,
+    "wof:name":"Khalin",
+    "wof:parent_id":1092049841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.5992,
+    27.3573,
+    86.5992,
+    27.3573
+],
+  "geometry": {"coordinates":[86.5992,27.3573],"type":"Point"}
+}

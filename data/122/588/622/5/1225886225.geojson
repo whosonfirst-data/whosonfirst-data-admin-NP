@@ -1,0 +1,78 @@
+{
+  "id": 1225886225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.58458,27.9808,84.58458,27.9808",
+    "geom:latitude":27.9808,
+    "geom:longitude":84.58458,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360050.0",
+    "gn:asciiname":"Majhigaira",
+    "gn:country_code":"NP",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7949239,
+    "gn:latitude":27.9808,
+    "gn:longitude":84.58458,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Majhigaira",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7949239
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"25d62277d578291199cb1bd73d79959c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1225886225,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1225886225,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1225886225,
+    "wof:lastmodified":1536955346,
+    "wof:name":"Majhigaira",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.58458,
+    27.9808,
+    84.58458,
+    27.9808
+],
+  "geometry": {"coordinates":[84.58458,27.9808],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1344071339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.4047,27.94776,85.4047,27.94776",
+    "geom:latitude":27.94776,
+    "geom:longitude":85.4047,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Karejung",
+    "gn:country_code":"NP",
+    "gn:dem":1713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10316819,
+    "gn:latitude":27.94776,
+    "gn:longitude":85.4047,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Karejung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Karejung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10316819
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e0aed62914c7fd7a23ff4b46ab6cdbcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1344071339,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1344071339,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1344071339,
+    "wof:lastmodified":1537676079,
+    "wof:name":"Karejung",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.4047,
+    27.94776,
+    85.4047,
+    27.94776
+],
+  "geometry": {"coordinates":[85.40470000000001,27.94776],"type":"Point"}
+}

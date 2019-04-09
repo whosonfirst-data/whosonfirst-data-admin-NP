@@ -1,0 +1,64 @@
+{
+  "id": 1209457119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.71344,27.59264,85.71344,27.59264",
+    "geom:latitude":27.59264,
+    "geom:longitude":85.71344,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240047.0",
+    "gn:asciiname":"Kalinjor",
+    "gn:country_code":"NP",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7963260,
+    "gn:latitude":27.59264,
+    "gn:longitude":85.71344,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kalinjor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7963260
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0869f936bb1a2f8b82e5b006f91a067b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209457119
+        }
+    ],
+    "wof:id":1209457119,
+    "wof:lastmodified":1536286500,
+    "wof:name":"Kalinjor",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.71344,
+    27.592640000000006,
+    85.71344,
+    27.592640000000006
+],
+  "geometry": {"coordinates":[85.71344000000001,27.59264000000001],"type":"Point"}
+}

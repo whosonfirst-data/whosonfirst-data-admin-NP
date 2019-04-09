@@ -1,0 +1,64 @@
+{
+  "id": 1209641667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.50893,28.13165,82.50893,28.13165",
+    "geom:latitude":28.13165,
+    "geom:longitude":82.50893,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"560030.0",
+    "gn:asciiname":"Ruima",
+    "gn:country_code":"NP",
+    "gn:dem":1185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7939553,
+    "gn:latitude":28.13165,
+    "gn:longitude":82.50893,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ruima",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7939553
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"249d6be04589031c139451fbbc7ce706",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209641667
+        }
+    ],
+    "wof:id":1209641667,
+    "wof:lastmodified":1536280867,
+    "wof:name":"Ruima",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.50893,
+    28.13165,
+    82.50893,
+    28.13165
+],
+  "geometry": {"coordinates":[82.50893000000001,28.13165],"type":"Point"}
+}

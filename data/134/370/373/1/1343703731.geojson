@@ -1,0 +1,78 @@
+{
+  "id": 1343703731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.23332,27.67766,85.23332,27.67766",
+    "geom:latitude":27.67766,
+    "geom:longitude":85.23332,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"27.0",
+    "gn:admin4_code":"270039.0",
+    "gn:asciiname":"Tahakhel",
+    "gn:country_code":"NP",
+    "gn:dem":1504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7962364,
+    "gn:latitude":27.67766,
+    "gn:longitude":85.23332,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tahakhel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092048931,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7962364
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a672ede4b60b7e7155fa0383dd46988a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":1343703731,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":1343703731,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1343703731,
+    "wof:lastmodified":1536892409,
+    "wof:name":"Tahakhel",
+    "wof:parent_id":1092048931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.23331999999998,
+    27.67766,
+    85.23331999999998,
+    27.67766
+],
+  "geometry": {"coordinates":[85.23331999999998,27.67766],"type":"Point"}
+}

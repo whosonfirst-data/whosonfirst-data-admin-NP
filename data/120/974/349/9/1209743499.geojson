@@ -1,0 +1,78 @@
+{
+  "id": 1209743499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.67325,28.08282,81.67325,28.08282",
+    "geom:latitude":28.08282,
+    "geom:longitude":81.67325,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"570004.0",
+    "gn:asciiname":"Kanthipur",
+    "gn:country_code":"NP",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8006218,
+    "gn:latitude":28.08282,
+    "gn:longitude":81.67325,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kanthipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092050297,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8006218
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a689040d70b1a3fa4b6273cb62844ec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1209743499,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050297,
+            "locality_id":1209743499,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1209743499,
+    "wof:lastmodified":1536396044,
+    "wof:name":"Kanthipur",
+    "wof:parent_id":1092050297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.67325,
+    28.08282,
+    81.67325,
+    28.08282
+],
+  "geometry": {"coordinates":[81.67325,28.08282],"type":"Point"}
+}

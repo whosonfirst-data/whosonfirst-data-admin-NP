@@ -1,0 +1,64 @@
+{
+  "id": 1209462763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.00819,28.37815,83.00819,28.37815",
+    "geom:latitude":28.37815,
+    "geom:longitude":83.00819,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450014.0",
+    "gn:asciiname":"Puchharagaun",
+    "gn:country_code":"NP",
+    "gn:dem":2234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7952041,
+    "gn:latitude":28.37815,
+    "gn:longitude":83.00819,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Puchharagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7952041
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"04cdec3bcb1c26c85b4ffa01be6f7e2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209462763
+        }
+    ],
+    "wof:id":1209462763,
+    "wof:lastmodified":1536286327,
+    "wof:name":"Puchharagaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.00819,
+    28.37815,
+    83.00819,
+    28.37815
+],
+  "geometry": {"coordinates":[83.00819,28.37815],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209548557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.69464,27.95305,82.69464,27.95305",
+    "geom:latitude":27.95305,
+    "geom:longitude":82.69464,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"560014.0",
+    "gn:asciiname":"Gothibang",
+    "gn:country_code":"NP",
+    "gn:dem":928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7938777,
+    "gn:latitude":27.95305,
+    "gn:longitude":82.69464,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gothibang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7938777
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1e8af19fa85d22145fcca5a4b990c10c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209548557
+        }
+    ],
+    "wof:id":1209548557,
+    "wof:lastmodified":1536283767,
+    "wof:name":"Gothibang",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.69464,
+    27.95305,
+    82.69464,
+    27.95305
+],
+  "geometry": {"coordinates":[82.69464000000001,27.95305],"type":"Point"}
+}

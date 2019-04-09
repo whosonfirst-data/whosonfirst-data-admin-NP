@@ -1,0 +1,78 @@
+{
+  "id": 1226683937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.20075,27.66682,83.20075,27.66682",
+    "geom:latitude":27.66682,
+    "geom:longitude":83.20075,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"50.0",
+    "gn:admin4_code":"500006.0",
+    "gn:asciiname":"Lakhanpada",
+    "gn:country_code":"NP",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7959240,
+    "gn:latitude":27.66682,
+    "gn:longitude":83.20075,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lakhanpada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048259,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7959240
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b3e6fbf7044aa864d15b5b549aa37585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1226683937,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1226683937,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1226683937,
+    "wof:lastmodified":1536804284,
+    "wof:name":"Lakhanpada",
+    "wof:parent_id":1092048259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.20075,
+    27.66682,
+    83.20075,
+    27.66682
+],
+  "geometry": {"coordinates":[83.20075,27.66682],"type":"Point"}
+}

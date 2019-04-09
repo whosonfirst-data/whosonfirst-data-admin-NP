@@ -1,0 +1,78 @@
+{
+  "id": 1327056323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.78828,28.64952,82.78828,28.64952",
+    "geom:latitude":28.64952,
+    "geom:longitude":82.78828,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"54",
+    "gn:admin4_code":"540015",
+    "gn:asciiname":"Gurigha",
+    "gn:country_code":"NP",
+    "gn:dem":1980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7985504,
+    "gn:latitude":28.64952,
+    "gn:longitude":82.78828,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gurigha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049495,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7985504
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f69281da6434f1b98e7c61edccc9a070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1327056323,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1327056323,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1327056323,
+    "wof:lastmodified":1536726376,
+    "wof:name":"Gurigha",
+    "wof:parent_id":1092049495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.78828,
+    28.64952000000001,
+    82.78828,
+    28.64952000000001
+],
+  "geometry": {"coordinates":[82.78828,28.64952000000001],"type":"Point"}
+}

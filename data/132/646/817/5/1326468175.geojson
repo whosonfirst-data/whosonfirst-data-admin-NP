@@ -1,0 +1,78 @@
+{
+  "id": 1326468175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.22365,26.70804,87.22365,26.70804",
+    "geom:latitude":26.70804,
+    "geom:longitude":87.22365,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"6",
+    "gn:admin4_code":"60006",
+    "gn:asciiname":"Khawastol",
+    "gn:country_code":"NP",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7997423,
+    "gn:latitude":26.70804,
+    "gn:longitude":87.22365,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khawastol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049923,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7997423
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"41d2011ac4fe6a9d9f9e02b5045eedb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1326468175,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1326468175,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1326468175,
+    "wof:lastmodified":1537073098,
+    "wof:name":"Khawastol",
+    "wof:parent_id":1092049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.22365,
+    26.70804,
+    87.22365,
+    26.70804
+],
+  "geometry": {"coordinates":[87.22365000000001,26.70804],"type":"Point"}
+}

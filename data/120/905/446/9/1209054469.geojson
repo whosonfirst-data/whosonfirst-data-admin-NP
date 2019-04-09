@@ -1,0 +1,64 @@
+{
+  "id": 1209054469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.96534,28.10907,83.96534,28.10907",
+    "geom:latitude":28.10907,
+    "geom:longitude":83.96534,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390055.0",
+    "gn:asciiname":"Bardanda",
+    "gn:country_code":"NP",
+    "gn:dem":1231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002286,
+    "gn:latitude":28.10907,
+    "gn:longitude":83.96534,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bardanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002286
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"827d675c702605bfe966c9c4091e546d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209054469
+        }
+    ],
+    "wof:id":1209054469,
+    "wof:lastmodified":1536299148,
+    "wof:name":"Bardanda",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.96534,
+    28.109070000000006,
+    83.96534,
+    28.109070000000006
+],
+  "geometry": {"coordinates":[83.96534,28.10907000000001],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209656969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.45966,27.77146,84.45966,27.77146",
+    "geom:latitude":27.77146,
+    "geom:longitude":84.45966,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380017.0",
+    "gn:asciiname":"Gohitar",
+    "gn:country_code":"NP",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003302,
+    "gn:latitude":27.77146,
+    "gn:longitude":84.45966,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gohitar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003302
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"97bca3947266414234e8d344d2206aa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209656969
+        }
+    ],
+    "wof:id":1209656969,
+    "wof:lastmodified":1536280394,
+    "wof:name":"Gohitar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.45966,
+    27.77146,
+    84.45966,
+    27.77146
+],
+  "geometry": {"coordinates":[84.45966,27.77146],"type":"Point"}
+}

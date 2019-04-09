@@ -1,0 +1,78 @@
+{
+  "id": 1310147805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.7708,26.94738,86.7708,26.94738",
+    "geom:latitude":26.94738,
+    "geom:longitude":86.7708,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"13",
+    "gn:admin4_code":"130072",
+    "gn:asciiname":"Khandapur",
+    "gn:country_code":"NP",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7965292,
+    "gn:latitude":26.94738,
+    "gn:longitude":86.7708,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khandapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675589,
+        1092050841,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7965292
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b02cf31bb0d1b38fb376ec9326b49df8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1310147805,
+            "region_id":85675589
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050841,
+            "locality_id":1310147805,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1310147805,
+    "wof:lastmodified":1536936333,
+    "wof:name":"Khandapur",
+    "wof:parent_id":1092050841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.7708,
+    26.94738,
+    86.7708,
+    26.94738
+],
+  "geometry": {"coordinates":[86.77079999999999,26.94738],"type":"Point"}
+}

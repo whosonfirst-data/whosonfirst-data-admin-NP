@@ -1,0 +1,78 @@
+{
+  "id": 1327160567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.51329,28.58729,82.51329,28.58729",
+    "geom:latitude":28.58729,
+    "geom:longitude":82.51329,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"54",
+    "gn:admin4_code":"540037",
+    "gn:asciiname":"Hol Takura",
+    "gn:country_code":"NP",
+    "gn:dem":1837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7986376,
+    "gn:latitude":28.58729,
+    "gn:longitude":82.51329,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Hol Takura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049495,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7986376
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c1b346da4656dc308657c712662c9aab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1327160567,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1327160567,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1327160567,
+    "wof:lastmodified":1537070391,
+    "wof:name":"Hol Takura",
+    "wof:parent_id":1092049495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.51329,
+    28.58729000000001,
+    82.51329,
+    28.58729000000001
+],
+  "geometry": {"coordinates":[82.51329,28.58729000000001],"type":"Point"}
+}

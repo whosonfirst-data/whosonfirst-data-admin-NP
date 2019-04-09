@@ -1,0 +1,78 @@
+{
+  "id": 1193055655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.2178,28.2622,84.2178,28.2622",
+    "geom:latitude":28.2622,
+    "geom:longitude":84.2178,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370010",
+    "gn:asciiname":"Taramro",
+    "gn:country_code":"NP",
+    "gn:dem":961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7966061,
+    "gn:latitude":28.2622,
+    "gn:longitude":84.2178,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Taramro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050009,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7966061
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"781f92b4e54c1d29eb8831b79f68319e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1193055655,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1193055655,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1193055655,
+    "wof:lastmodified":1536383120,
+    "wof:name":"Taramro",
+    "wof:parent_id":1092050009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.2178,
+    28.2622,
+    84.2178,
+    28.2622
+],
+  "geometry": {"coordinates":[84.2178,28.2622],"type":"Point"}
+}

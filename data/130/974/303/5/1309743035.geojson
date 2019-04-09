@@ -1,0 +1,78 @@
+{
+  "id": 1309743035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.6712,29.0721,80.6712,29.0721",
+    "geom:latitude":29.0721,
+    "geom:longitude":80.6712,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"70.0",
+    "gn:admin4_code":"700034.0",
+    "gn:asciiname":"Pipalkanya",
+    "gn:country_code":"NP",
+    "gn:dem":1262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7947146,
+    "gn:latitude":29.0721,
+    "gn:longitude":80.6712,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pipalkanya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048653,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7947146
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"eedad2cdcedf4d2b5c97a64e0202406c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1309743035,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048653,
+            "locality_id":1309743035,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1309743035,
+    "wof:lastmodified":1537020778,
+    "wof:name":"Pipalkanya",
+    "wof:parent_id":1092048653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.6712,
+    29.0721,
+    80.6712,
+    29.0721
+],
+  "geometry": {"coordinates":[80.6712,29.0721],"type":"Point"}
+}

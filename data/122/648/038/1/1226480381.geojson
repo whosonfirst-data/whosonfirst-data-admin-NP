@@ -1,0 +1,78 @@
+{
+  "id": 1226480381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.29272,27.56768,85.29272,27.56768",
+    "geom:latitude":27.56768,
+    "geom:longitude":85.29272,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"25",
+    "gn:admin4_code":"250013",
+    "gn:asciiname":"Simkhet",
+    "gn:country_code":"NP",
+    "gn:dem":1557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7965500,
+    "gn:latitude":27.56768,
+    "gn:longitude":85.29272,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Simkhet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048971,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7965500
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b9538ce561dafe1ef693057465e95c75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048971,
+            "locality_id":1226480381,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048971,
+            "locality_id":1226480381,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1226480381,
+    "wof:lastmodified":1537088951,
+    "wof:name":"Simkhet",
+    "wof:parent_id":1092048971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.29271999999997,
+    27.56768,
+    85.29271999999997,
+    27.56768
+],
+  "geometry": {"coordinates":[85.29271999999997,27.56768],"type":"Point"}
+}

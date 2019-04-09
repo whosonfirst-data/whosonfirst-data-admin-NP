@@ -1,0 +1,78 @@
+{
+  "id": 1226180299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.82044,27.91991,84.82044,27.91991",
+    "geom:latitude":27.91991,
+    "geom:longitude":84.82044,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300010.0",
+    "gn:asciiname":"Danda Purshu",
+    "gn:country_code":"NP",
+    "gn:dem":1080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7941311,
+    "gn:latitude":27.91991,
+    "gn:longitude":84.82044,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Danda Purshu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7941311
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5fdba7597ecdee59fb38da936c23ef59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1226180299,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1226180299,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1226180299,
+    "wof:lastmodified":1537026618,
+    "wof:name":"Danda Purshu",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.82044,
+    27.91991,
+    84.82044,
+    27.91991
+],
+  "geometry": {"coordinates":[84.82044,27.91991],"type":"Point"}
+}

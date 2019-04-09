@@ -1,0 +1,78 @@
+{
+  "id": 1242915387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.39835,27.74212,87.39835,27.74212",
+    "geom:latitude":27.74212,
+    "geom:longitude":87.39835,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"9",
+    "gn:admin4_code":"90007.0",
+    "gn:asciiname":"Rukma",
+    "gn:country_code":"NP",
+    "gn:dem":1743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7989944,
+    "gn:latitude":27.74212,
+    "gn:longitude":87.39835,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Rukma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049597,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7989944
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ba859a5c9ef95cb9e0f4e1c1769c9fe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1242915387,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049597,
+            "locality_id":1242915387,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1242915387,
+    "wof:lastmodified":1537071137,
+    "wof:name":"Rukma",
+    "wof:parent_id":1092049597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.39835,
+    27.74212,
+    87.39835,
+    27.74212
+],
+  "geometry": {"coordinates":[87.39834999999999,27.74212],"type":"Point"}
+}

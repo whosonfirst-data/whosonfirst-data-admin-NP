@@ -1,0 +1,78 @@
+{
+  "id": 1326956627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.48776,28.00028,82.48776,28.00028",
+    "geom:latitude":28.00028,
+    "geom:longitude":82.48776,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"560039.0",
+    "gn:asciiname":"Okhara",
+    "gn:country_code":"NP",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7939979,
+    "gn:latitude":28.00028,
+    "gn:longitude":82.48776,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Okhara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048605,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7939979
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"aa2c633c7630c1fa9dbf73113ee8800a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1326956627,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1326956627,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1326956627,
+    "wof:lastmodified":1536868646,
+    "wof:name":"Okhara",
+    "wof:parent_id":1092048605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.48776,
+    28.00028,
+    82.48776,
+    28.00028
+],
+  "geometry": {"coordinates":[82.48775999999999,28.00028],"type":"Point"}
+}

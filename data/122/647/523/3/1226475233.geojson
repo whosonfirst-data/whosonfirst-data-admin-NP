@@ -1,0 +1,78 @@
+{
+  "id": 1226475233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.2743,28.13752,82.2743,28.13752",
+    "geom:latitude":28.13752,
+    "geom:longitude":82.2743,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"560040.0",
+    "gn:asciiname":"Sunbarsa",
+    "gn:country_code":"NP",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7940088,
+    "gn:latitude":28.13752,
+    "gn:longitude":82.2743,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sunbarsa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048605,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7940088
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"56d0f6ac1f28f44208b6eeddd1f9dc18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1226475233,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1226475233,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1226475233,
+    "wof:lastmodified":1537096404,
+    "wof:name":"Sunbarsa",
+    "wof:parent_id":1092048605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.2743,
+    28.13752,
+    82.2743,
+    28.13752
+],
+  "geometry": {"coordinates":[82.2743,28.13752],"type":"Point"}
+}

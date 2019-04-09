@@ -1,0 +1,64 @@
+{
+  "id": 1209447863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.01526,28.16679,83.01526,28.16679",
+    "geom:latitude":28.16679,
+    "geom:longitude":83.01526,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"52",
+    "gn:admin4_code":"520002",
+    "gn:asciiname":"Mathillo Sihanla",
+    "gn:country_code":"NP",
+    "gn:dem":1629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7979663,
+    "gn:latitude":28.16679,
+    "gn:longitude":83.01526,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mathillo Sihanla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7979663
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bc642478f7fe92b17699977d75c40f1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209447863
+        }
+    ],
+    "wof:id":1209447863,
+    "wof:lastmodified":1536286761,
+    "wof:name":"Mathillo Sihanla",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.01526,
+    28.16679,
+    83.01526,
+    28.16679
+],
+  "geometry": {"coordinates":[83.01526,28.16679],"type":"Point"}
+}

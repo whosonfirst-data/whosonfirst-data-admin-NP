@@ -1,0 +1,78 @@
+{
+  "id": 1243278347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.14577,28.19844,82.14577,28.19844",
+    "geom:latitude":28.19844,
+    "geom:longitude":82.14577,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kanchanpur",
+    "gn:country_code":"NP",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283260,
+    "gn:latitude":28.19844,
+    "gn:longitude":82.14577,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Ka\u00f1chanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Ka\u00f1chanpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048605,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283260
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e47af9ce5e69c31ca5c7f833e880346d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1243278347,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1243278347,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1243278347,
+    "wof:lastmodified":1537676052,
+    "wof:name":"Kanchanpur",
+    "wof:parent_id":1092048605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.14577,
+    28.19844,
+    82.14577,
+    28.19844
+],
+  "geometry": {"coordinates":[82.14577,28.19844],"type":"Point"}
+}

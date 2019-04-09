@@ -1,0 +1,78 @@
+{
+  "id": 1293531239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.76717,27.86878,83.76717,27.86878",
+    "geom:latitude":27.86878,
+    "geom:longitude":83.76717,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"47",
+    "gn:admin4_code":"470025",
+    "gn:asciiname":"Tokse",
+    "gn:country_code":"NP",
+    "gn:dem":998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7976260,
+    "gn:latitude":27.86878,
+    "gn:longitude":83.76717,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tokse",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050889,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7976260
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"50dda9305663f209d22e92f39edbfaeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1293531239,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050889,
+            "locality_id":1293531239,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1293531239,
+    "wof:lastmodified":1536724363,
+    "wof:name":"Tokse",
+    "wof:parent_id":1092050889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.76717,
+    27.86878,
+    83.76717,
+    27.86878
+],
+  "geometry": {"coordinates":[83.76716999999999,27.86878],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209031075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.77961,28.27818,82.77961,28.27818",
+    "geom:latitude":28.27818,
+    "geom:longitude":82.77961,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530049",
+    "gn:asciiname":"Kalapohar",
+    "gn:country_code":"NP",
+    "gn:dem":1563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7984861,
+    "gn:latitude":28.27818,
+    "gn:longitude":82.77961,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kalapohar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7984861
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6088f84e98bec3d1e11425d388ceb784",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209031075
+        }
+    ],
+    "wof:id":1209031075,
+    "wof:lastmodified":1536299848,
+    "wof:name":"Kalapohar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.77960999999998,
+    28.27818,
+    82.77960999999998,
+    28.27818
+],
+  "geometry": {"coordinates":[82.77960999999998,28.27818],"type":"Point"}
+}

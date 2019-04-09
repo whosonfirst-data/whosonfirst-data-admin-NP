@@ -1,0 +1,76 @@
+{
+  "id": 1344094609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.57897,27.73407,85.57897,27.73407",
+    "geom:latitude":27.73407,
+    "geom:longitude":85.57897,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Deupur",
+    "gn:country_code":"NP",
+    "gn:dem":1242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8469146,
+    "gn:latitude":27.73407,
+    "gn:longitude":85.57897,
+    "gn:modification_date":"2013-03-03",
+    "gn:name":"Deupur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8469146
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0690ab9688a7b124599b1979bf4505f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1344094609,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1344094609,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1344094609,
+    "wof:lastmodified":1536825335,
+    "wof:name":"Deupur",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.57897,
+    27.73407000000001,
+    85.57897,
+    27.73407000000001
+],
+  "geometry": {"coordinates":[85.57897,27.73407000000001],"type":"Point"}
+}

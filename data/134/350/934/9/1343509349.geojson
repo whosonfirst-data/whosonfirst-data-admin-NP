@@ -1,0 +1,78 @@
+{
+  "id": 1343509349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.83995,27.12986,87.83995,27.12986",
+    "geom:latitude":27.12986,
+    "geom:longitude":87.83995,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"2",
+    "gn:admin4_code":"20022",
+    "gn:asciiname":"Panchami Dobhan",
+    "gn:country_code":"NP",
+    "gn:dem":1265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7977621,
+    "gn:latitude":27.12986,
+    "gn:longitude":87.83995,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Panchami Dobhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7977621
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d028148bab63ba78d1b75d9d9e8d6017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1343509349,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1343509349,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1343509349,
+    "wof:lastmodified":1536675738,
+    "wof:name":"Panchami Dobhan",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.83995,
+    27.12986,
+    87.83995,
+    27.12986
+],
+  "geometry": {"coordinates":[87.83995,27.12986],"type":"Point"}
+}

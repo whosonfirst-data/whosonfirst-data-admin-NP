@@ -1,0 +1,64 @@
+{
+  "id": 1209541775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.20587,28.50296,81.20587,28.50296",
+    "geom:latitude":28.50296,
+    "geom:longitude":81.20587,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"58.0",
+    "gn:admin4_code":"580010.0",
+    "gn:asciiname":"Sukhar",
+    "gn:country_code":"NP",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009533,
+    "gn:latitude":28.50296,
+    "gn:longitude":81.20587,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sukhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009533
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"78c8c54997361db18aaeeea5a8cc74fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209541775
+        }
+    ],
+    "wof:id":1209541775,
+    "wof:lastmodified":1536283966,
+    "wof:name":"Sukhar",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.20586999999998,
+    28.50296,
+    81.20586999999998,
+    28.50296
+],
+  "geometry": {"coordinates":[81.20586999999998,28.50296],"type":"Point"}
+}

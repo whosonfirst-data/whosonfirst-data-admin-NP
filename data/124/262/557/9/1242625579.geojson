@@ -1,0 +1,78 @@
+{
+  "id": 1242625579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.98334,27.07939,86.98334,27.07939",
+    "geom:latitude":27.07939,
+    "geom:longitude":86.98334,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100021.0",
+    "gn:asciiname":"Nepalgaun",
+    "gn:country_code":"NP",
+    "gn:dem":1268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933052,
+    "gn:latitude":27.07939,
+    "gn:longitude":86.98334,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Nepalgaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933052
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"16ac37adde75ed9843345c07137c1ce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1242625579,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1242625579,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1242625579,
+    "wof:lastmodified":1536993924,
+    "wof:name":"Nepalgaun",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.98334,
+    27.07939,
+    86.98334,
+    27.07939
+],
+  "geometry": {"coordinates":[86.98334,27.07939],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209356663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.38776,27.61767,85.38776,27.61767",
+    "geom:latitude":27.61767,
+    "geom:longitude":85.38776,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"25",
+    "gn:admin4_code":"250005",
+    "gn:asciiname":"Dhobikholagaun",
+    "gn:country_code":"NP",
+    "gn:dem":1670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7965417,
+    "gn:latitude":27.61767,
+    "gn:longitude":85.38776,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dhobikholagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7965417
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"69acb62a1530d9cb046f57437e9cf751",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209356663
+        }
+    ],
+    "wof:id":1209356663,
+    "wof:lastmodified":1536289565,
+    "wof:name":"Dhobikholagaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.38776,
+    27.61767,
+    85.38776,
+    27.61767
+],
+  "geometry": {"coordinates":[85.38776,27.61767],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276590401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.88648,27.89246,84.88648,27.89246",
+    "geom:latitude":27.89246,
+    "geom:longitude":84.88648,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"30.0",
+    "gn:admin4_code":"300046.0",
+    "gn:asciiname":"Chilaunebot",
+    "gn:country_code":"NP",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7942486,
+    "gn:latitude":27.89246,
+    "gn:longitude":84.88648,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chilaunebot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7942486
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3f0e5b8e4450dfc9e4f10e3d4cd701c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1276590401,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1276590401,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1276590401,
+    "wof:lastmodified":1536932362,
+    "wof:name":"Chilaunebot",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.88648,
+    27.89246,
+    84.88648,
+    27.89246
+],
+  "geometry": {"coordinates":[84.88648000000001,27.89246],"type":"Point"}
+}

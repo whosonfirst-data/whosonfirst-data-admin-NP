@@ -1,0 +1,78 @@
+{
+  "id": 1310648853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.91289,26.83263,85.91289,26.83263",
+    "geom:latitude":26.83263,
+    "geom:longitude":85.91289,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"18",
+    "gn:admin4_code":"180031",
+    "gn:asciiname":"Musaharitol Sakhuwa",
+    "gn:country_code":"NP",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7967364,
+    "gn:latitude":26.83263,
+    "gn:longitude":85.91289,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Musaharitol Sakhuwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807141,
+        1092050709,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7967364
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e98f82a0fbfa211ac86b826bd367a2a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050709,
+            "locality_id":1310648853,
+            "region_id":1108807141
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050709,
+            "locality_id":1310648853,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1310648853,
+    "wof:lastmodified":1536710510,
+    "wof:name":"Musaharitol Sakhuwa",
+    "wof:parent_id":1092050709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.91289,
+    26.83263,
+    85.91289,
+    26.83263
+],
+  "geometry": {"coordinates":[85.91289,26.83263],"type":"Point"}
+}

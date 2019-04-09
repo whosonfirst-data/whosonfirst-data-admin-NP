@@ -1,0 +1,64 @@
+{
+  "id": 1209138613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.40528,28.54063,82.40528,28.54063",
+    "geom:latitude":28.54063,
+    "geom:longitude":82.40528,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"54",
+    "gn:admin4_code":"540019",
+    "gn:asciiname":"Mathillo Hampal",
+    "gn:country_code":"NP",
+    "gn:dem":1951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7985681,
+    "gn:latitude":28.54063,
+    "gn:longitude":82.40528,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mathillo Hampal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7985681
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b506999cc8f61177e35210ff3eca2659",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209138613
+        }
+    ],
+    "wof:id":1209138613,
+    "wof:lastmodified":1536296577,
+    "wof:name":"Mathillo Hampal",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.40528,
+    28.54063,
+    82.40528,
+    28.54063
+],
+  "geometry": {"coordinates":[82.40528,28.54063],"type":"Point"}
+}

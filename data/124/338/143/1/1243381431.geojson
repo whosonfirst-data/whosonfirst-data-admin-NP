@@ -1,0 +1,75 @@
+{
+  "id": 1243381431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.88836,28.44569,84.88836,28.44569",
+    "geom:latitude":28.44569,
+    "geom:longitude":84.88836,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ngyak",
+    "gn:country_code":"NP",
+    "gn:dem":2471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282980,
+    "gn:latitude":28.44569,
+    "gn:longitude":84.88836,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Ngy\u0101k",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282980
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"232d31d7eb61ed22076f622b66f9cef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1243381431,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1243381431,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1243381431,
+    "wof:lastmodified":1536899337,
+    "wof:name":"Ngyak",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.88835999999998,
+    28.44569000000001,
+    84.88835999999998,
+    28.44569000000001
+],
+  "geometry": {"coordinates":[84.88835999999998,28.44569000000001],"type":"Point"}
+}

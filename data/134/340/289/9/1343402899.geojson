@@ -1,0 +1,78 @@
+{
+  "id": 1343402899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.81016,27.63276,82.81016,27.63276",
+    "geom:latitude":27.63276,
+    "geom:longitude":82.81016,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"50.0",
+    "gn:admin4_code":"500060.0",
+    "gn:asciiname":"Emaliyadih",
+    "gn:country_code":"NP",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7959991,
+    "gn:latitude":27.63276,
+    "gn:longitude":82.81016,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Emaliyadih",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048259,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7959991
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"af5e3b62dc8925fb1640872d5ff0e703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1343402899,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1343402899,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1343402899,
+    "wof:lastmodified":1536828321,
+    "wof:name":"Emaliyadih",
+    "wof:parent_id":1092048259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.81016,
+    27.63276,
+    82.81016,
+    27.63276
+],
+  "geometry": {"coordinates":[82.81016,27.63276],"type":"Point"}
+}

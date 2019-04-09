@@ -1,0 +1,64 @@
+{
+  "id": 1209441257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.83029,29.35267,81.83029,29.35267",
+    "geom:latitude":29.35267,
+    "geom:longitude":81.83029,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"64.0",
+    "gn:admin4_code":"640008.0",
+    "gn:asciiname":"Kam",
+    "gn:country_code":"NP",
+    "gn:dem":2323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7958125,
+    "gn:latitude":29.35267,
+    "gn:longitude":81.83029,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7958125
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3ba7885dcd65b747cfc2c4a729cb1c85",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209441257
+        }
+    ],
+    "wof:id":1209441257,
+    "wof:lastmodified":1536286954,
+    "wof:name":"Kam",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.83029,
+    29.35267,
+    81.83029,
+    29.35267
+],
+  "geometry": {"coordinates":[81.83029000000001,29.35267],"type":"Point"}
+}

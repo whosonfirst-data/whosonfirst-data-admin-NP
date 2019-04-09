@@ -1,0 +1,64 @@
+{
+  "id": 1209452455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.84906,28.14281,83.84906,28.14281",
+    "geom:latitude":28.14281,
+    "geom:longitude":83.84906,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390051.0",
+    "gn:asciiname":"Simkhet",
+    "gn:country_code":"NP",
+    "gn:dem":927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002154,
+    "gn:latitude":28.14281,
+    "gn:longitude":83.84906,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Simkhet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002154
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"88500b992e41a2c1aa3f63006ba68924",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209452455
+        }
+    ],
+    "wof:id":1209452455,
+    "wof:lastmodified":1536286631,
+    "wof:name":"Simkhet",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.84906,
+    28.14281,
+    83.84906,
+    28.14281
+],
+  "geometry": {"coordinates":[83.84905999999999,28.14281],"type":"Point"}
+}

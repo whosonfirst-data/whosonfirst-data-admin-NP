@@ -1,0 +1,79 @@
+{
+  "id": 1243472329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.30632,28.01783,85.30632,28.01783",
+    "geom:latitude":28.01783,
+    "geom:longitude":85.30632,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yarsa",
+    "gn:country_code":"NP",
+    "gn:dem":1978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282604,
+    "gn:latitude":28.01783,
+    "gn:longitude":85.30632,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Y\u0101rs\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u0101rs\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048409,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282604,
+        "wk:page":"Yarsa"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5531e133e8ddd88af432d99b448c7dbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048409,
+            "locality_id":1243472329,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048409,
+            "locality_id":1243472329,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1243472329,
+    "wof:lastmodified":1537676036,
+    "wof:name":"Yarsa",
+    "wof:parent_id":1092048409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.30632,
+    28.01783,
+    85.30632,
+    28.01783
+],
+  "geometry": {"coordinates":[85.30632,28.01783],"type":"Point"}
+}

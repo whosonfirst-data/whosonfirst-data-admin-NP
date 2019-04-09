@@ -1,0 +1,78 @@
+{
+  "id": 1242891863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.36602,26.95705,87.36602,26.95705",
+    "geom:latitude":26.95705,
+    "geom:longitude":87.36602,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Santan",
+    "gn:country_code":"NP",
+    "gn:dem":868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11587949,
+    "gn:latitude":26.95705,
+    "gn:longitude":87.36602,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"S\u0101nt\u0101\u1e45",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "S\u0101nt\u0101\u1e45"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049207,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11587949
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"aa58cd2dd31f7fbaa173e4e58299554c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049207,
+            "locality_id":1242891863,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049207,
+            "locality_id":1242891863,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1242891863,
+    "wof:lastmodified":1537676111,
+    "wof:name":"Santan",
+    "wof:parent_id":1092049207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.36601999999998,
+    26.95705,
+    87.36601999999998,
+    26.95705
+],
+  "geometry": {"coordinates":[87.36601999999998,26.95705],"type":"Point"}
+}

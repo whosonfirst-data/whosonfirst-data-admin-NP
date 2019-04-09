@@ -1,0 +1,78 @@
+{
+  "id": 1226775801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.01251,29.66609,81.01251,29.66609",
+    "geom:latitude":29.66609,
+    "geom:longitude":81.01251,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680008",
+    "gn:asciiname":"Turi",
+    "gn:country_code":"NP",
+    "gn:dem":2839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7988956,
+    "gn:latitude":29.66609,
+    "gn:longitude":81.01251,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Turi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048571,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7988956
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"506b124f9deaab0db8e808f032735af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1226775801,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048571,
+            "locality_id":1226775801,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1226775801,
+    "wof:lastmodified":1536672346,
+    "wof:name":"Turi",
+    "wof:parent_id":1092048571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.01250999999998,
+    29.66609,
+    81.01250999999998,
+    29.66609
+],
+  "geometry": {"coordinates":[81.01250999999998,29.66609],"type":"Point"}
+}

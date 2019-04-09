@@ -1,0 +1,84 @@
+{
+  "id": 1226052329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.9707,27.33787,85.9707,27.33787",
+    "geom:latitude":27.33787,
+    "geom:longitude":85.9707,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ghatbesi",
+    "gn:country_code":"NP",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10325793,
+    "gn:latitude":27.33787,
+    "gn:longitude":85.9707,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Gh\u0101\u1e6dbesi\u0307\u0304",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Gh\u0101\u1e6dbesi\u0307\u0304"
+    ],
+    "name:nep_x_variant":[
+        "Gh\u0101\u1e6dbes\u012b"
+    ],
+    "name:und_x_variant":[
+        "Nigul\u012bph\u0101n\u1e6d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049679,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10325793
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"16ef21c8baeaab744ea51bf2b58a7788",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1226052329,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1226052329,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1226052329,
+    "wof:lastmodified":1537676095,
+    "wof:name":"Ghatbesi",
+    "wof:parent_id":1092049679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.9707,
+    27.33787,
+    85.9707,
+    27.33787
+],
+  "geometry": {"coordinates":[85.97069999999999,27.33787],"type":"Point"}
+}

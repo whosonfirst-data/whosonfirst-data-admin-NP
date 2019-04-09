@@ -1,0 +1,75 @@
+{
+  "id": 1242591997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.35483,28.87696,83.35483,28.87696",
+    "geom:latitude":28.87696,
+    "geom:longitude":83.35483,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tarenggaon",
+    "gn:country_code":"NP",
+    "gn:dem":3733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282707,
+    "gn:latitude":28.87696,
+    "gn:longitude":83.35483,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Tarenggaon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050349,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282707
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4e181f52e3cd3fbbb15bbb2e5549bed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1242591997,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050349,
+            "locality_id":1242591997,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1242591997,
+    "wof:lastmodified":1537041083,
+    "wof:name":"Tarenggaon",
+    "wof:parent_id":1092050349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.35483,
+    28.87696,
+    83.35483,
+    28.87696
+],
+  "geometry": {"coordinates":[83.35483000000001,28.87696],"type":"Point"}
+}

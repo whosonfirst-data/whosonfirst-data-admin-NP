@@ -1,0 +1,64 @@
+{
+  "id": 1209657115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.60245,27.10044,86.60245,27.10044",
+    "geom:latitude":27.10044,
+    "geom:longitude":86.60245,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140003.0",
+    "gn:asciiname":"Rotbas",
+    "gn:country_code":"NP",
+    "gn:dem":1121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8006497,
+    "gn:latitude":27.10044,
+    "gn:longitude":86.60245,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Rotbas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8006497
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"17bfbc8f9dbe8784365a7ecfd96ad65b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209657115
+        }
+    ],
+    "wof:id":1209657115,
+    "wof:lastmodified":1536280390,
+    "wof:name":"Rotbas",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.60245,
+    27.100440000000006,
+    86.60245,
+    27.100440000000006
+],
+  "geometry": {"coordinates":[86.60245,27.10044000000001],"type":"Point"}
+}

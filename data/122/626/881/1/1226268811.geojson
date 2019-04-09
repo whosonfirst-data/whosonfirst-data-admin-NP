@@ -1,0 +1,78 @@
+{
+  "id": 1226268811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.59657,29.65568,80.59657,29.65568",
+    "geom:latitude":29.65568,
+    "geom:longitude":80.59657,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740016",
+    "gn:asciiname":"Khetagaun",
+    "gn:country_code":"NP",
+    "gn:dem":1401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7971566,
+    "gn:latitude":29.65568,
+    "gn:longitude":80.59657,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khetagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050255,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7971566
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0d0d96adc1fd4a561df4900168c1038b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1226268811,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050255,
+            "locality_id":1226268811,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1226268811,
+    "wof:lastmodified":1536900523,
+    "wof:name":"Khetagaun",
+    "wof:parent_id":1092050255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.59657,
+    29.65568,
+    80.59657,
+    29.65568
+],
+  "geometry": {"coordinates":[80.59657,29.65568],"type":"Point"}
+}

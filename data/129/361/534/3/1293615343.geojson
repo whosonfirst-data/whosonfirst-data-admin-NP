@@ -1,0 +1,78 @@
+{
+  "id": 1293615343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.25203,29.25388,82.25203,29.25388",
+    "geom:latitude":29.25388,
+    "geom:longitude":82.25203,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"63.0",
+    "gn:admin4_code":"630009.0",
+    "gn:asciiname":"Kumdi",
+    "gn:country_code":"NP",
+    "gn:dem":2473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7955753,
+    "gn:latitude":29.25388,
+    "gn:longitude":82.25203,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kumdi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092050797,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7955753
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ef719b589f8c07e2e7a5b30eb1bf4ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1293615343,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050797,
+            "locality_id":1293615343,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1293615343,
+    "wof:lastmodified":1537096760,
+    "wof:name":"Kumdi",
+    "wof:parent_id":1092050797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.25203,
+    29.25388,
+    82.25203,
+    29.25388
+],
+  "geometry": {"coordinates":[82.25203,29.25388],"type":"Point"}
+}

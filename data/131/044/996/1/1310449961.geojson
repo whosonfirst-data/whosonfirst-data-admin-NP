@@ -1,0 +1,78 @@
+{
+  "id": 1310449961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.3124,27.58636,85.3124,27.58636",
+    "geom:latitude":27.58636,
+    "geom:longitude":85.3124,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"25",
+    "gn:admin4_code":"250010",
+    "gn:asciiname":"Itaiti",
+    "gn:country_code":"NP",
+    "gn:dem":1480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7965476,
+    "gn:latitude":27.58636,
+    "gn:longitude":85.3124,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Itaiti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048971,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7965476
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c8460ba5e121220c1b5bdf6b488bec3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048971,
+            "locality_id":1310449961,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048971,
+            "locality_id":1310449961,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1310449961,
+    "wof:lastmodified":1536996366,
+    "wof:name":"Itaiti",
+    "wof:parent_id":1092048971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.3124,
+    27.58636,
+    85.3124,
+    27.58636
+],
+  "geometry": {"coordinates":[85.3124,27.58636],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259600999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.29668,28.90033,82.29668,28.90033",
+    "geom:latitude":28.90033,
+    "geom:longitude":82.29668,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Shibkhola",
+    "gn:country_code":"NP",
+    "gn:dem":2275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282793,
+    "gn:latitude":28.90033,
+    "gn:longitude":82.29668,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Shibkhola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092048763,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282793
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bbb7728ee657950f4e86c640ba018e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048763,
+            "locality_id":1259600999,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048763,
+            "locality_id":1259600999,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1259600999,
+    "wof:lastmodified":1536689664,
+    "wof:name":"Shibkhola",
+    "wof:parent_id":1092048763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.29668000000002,
+    28.90033,
+    82.29668000000002,
+    28.90033
+],
+  "geometry": {"coordinates":[82.29668000000002,28.90033],"type":"Point"}
+}

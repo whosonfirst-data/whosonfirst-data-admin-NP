@@ -1,0 +1,64 @@
+{
+  "id": 1209138791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.75913,29.15455,81.75913,29.15455",
+    "geom:latitude":29.15455,
+    "geom:longitude":81.75913,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"64.0",
+    "gn:admin4_code":"640002.0",
+    "gn:asciiname":"Sundugra",
+    "gn:country_code":"NP",
+    "gn:dem":2286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7957977,
+    "gn:latitude":29.15455,
+    "gn:longitude":81.75913,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sundugra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7957977
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2150b4f6f3a4dbbbe6b491d21c486070",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209138791
+        }
+    ],
+    "wof:id":1209138791,
+    "wof:lastmodified":1536296573,
+    "wof:name":"Sundugra",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.75913,
+    29.15455,
+    81.75913,
+    29.15455
+],
+  "geometry": {"coordinates":[81.75913,29.15455],"type":"Point"}
+}

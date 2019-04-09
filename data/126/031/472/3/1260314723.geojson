@@ -1,0 +1,78 @@
+{
+  "id": 1260314723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.74475,29.42182,81.74475,29.42182",
+    "geom:latitude":29.42182,
+    "geom:longitude":81.74475,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"67.0",
+    "gn:admin4_code":"670026.0",
+    "gn:asciiname":"Rudi",
+    "gn:country_code":"NP",
+    "gn:dem":2644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005139,
+    "gn:latitude":29.42182,
+    "gn:longitude":81.74475,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Rudi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050627,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005139
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7c4c581029b42b9374c5a86a01f22a11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050627,
+            "locality_id":1260314723,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050627,
+            "locality_id":1260314723,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1260314723,
+    "wof:lastmodified":1536670145,
+    "wof:name":"Rudi",
+    "wof:parent_id":1092050627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.74475,
+    29.42182,
+    81.74475,
+    29.42182
+],
+  "geometry": {"coordinates":[81.74475,29.42182],"type":"Point"}
+}

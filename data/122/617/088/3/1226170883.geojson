@@ -1,0 +1,78 @@
+{
+  "id": 1226170883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.45927,28.04989,82.45927,28.04989",
+    "geom:latitude":28.04989,
+    "geom:longitude":82.45927,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"560039.0",
+    "gn:asciiname":"Purano Bahundanda",
+    "gn:country_code":"NP",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7939941,
+    "gn:latitude":28.04989,
+    "gn:longitude":82.45927,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Purano Bahundanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048605,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7939941
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9c22865745ad6e79c7c016c21a8277f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1226170883,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048605,
+            "locality_id":1226170883,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1226170883,
+    "wof:lastmodified":1537039838,
+    "wof:name":"Purano Bahundanda",
+    "wof:parent_id":1092048605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.45926999999998,
+    28.04989,
+    82.45926999999998,
+    28.04989
+],
+  "geometry": {"coordinates":[82.45926999999998,28.04989],"type":"Point"}
+}

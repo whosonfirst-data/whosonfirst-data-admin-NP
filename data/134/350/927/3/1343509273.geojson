@@ -1,0 +1,78 @@
+{
+  "id": 1343509273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.5049,27.42241,87.5049,27.42241",
+    "geom:latitude":27.42241,
+    "geom:longitude":87.5049,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10029.0",
+    "gn:asciiname":"Samtong",
+    "gn:country_code":"NP",
+    "gn:dem":2007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005465,
+    "gn:latitude":27.42241,
+    "gn:longitude":87.5049,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Samtong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005465
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"439e387e96e668e5c2f12e65d572acb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1343509273,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1343509273,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1343509273,
+    "wof:lastmodified":1536675839,
+    "wof:name":"Samtong",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.5049,
+    27.42241,
+    87.5049,
+    27.42241
+],
+  "geometry": {"coordinates":[87.50490000000001,27.42241],"type":"Point"}
+}

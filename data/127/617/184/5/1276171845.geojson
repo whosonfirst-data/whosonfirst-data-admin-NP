@@ -1,0 +1,78 @@
+{
+  "id": 1276171845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.53558,27.96048,83.53558,27.96048",
+    "geom:latitude":27.96048,
+    "geom:longitude":83.53558,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390001.0",
+    "gn:asciiname":"Puchhar",
+    "gn:country_code":"NP",
+    "gn:dem":744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8000562,
+    "gn:latitude":27.96048,
+    "gn:longitude":83.53558,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Puchhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8000562
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"385d65dbc818c51bb0ac62184e86c5b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1276171845,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1276171845,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1276171845,
+    "wof:lastmodified":1536994442,
+    "wof:name":"Puchhar",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.53558000000002,
+    27.96048,
+    83.53558000000002,
+    27.96048
+],
+  "geometry": {"coordinates":[83.53558000000002,27.96048],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209825091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.87186,28.67333,82.87186,28.67333",
+    "geom:latitude":28.67333,
+    "geom:longitude":82.87186,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Maikot",
+    "gn:country_code":"NP",
+    "gn:dem":1927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283092,
+    "gn:latitude":28.67333,
+    "gn:longitude":82.87186,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Maikot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049495,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283092
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0d6f1caa4e7f57bbeea8c46b1159a1de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1209825091,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1209825091,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1209825091,
+    "wof:lastmodified":1536374550,
+    "wof:name":"Maikot",
+    "wof:parent_id":1092049495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.87186,
+    28.67333,
+    82.87186,
+    28.67333
+],
+  "geometry": {"coordinates":[82.87186,28.67333],"type":"Point"}
+}

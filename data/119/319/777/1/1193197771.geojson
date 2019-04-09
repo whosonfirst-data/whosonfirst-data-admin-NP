@@ -1,0 +1,78 @@
+{
+  "id": 1193197771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.95458,27.08772,84.95458,27.08772",
+    "geom:latitude":27.08772,
+    "geom:longitude":84.95458,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"330028.0",
+    "gn:asciiname":"Behara",
+    "gn:country_code":"NP",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008732,
+    "gn:latitude":27.08772,
+    "gn:longitude":84.95458,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Behara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092048051,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008732
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b82fecb153a5c96a5660aaf075462c37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1193197771,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1193197771,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1193197771,
+    "wof:lastmodified":1536376070,
+    "wof:name":"Behara",
+    "wof:parent_id":1092048051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.95458,
+    27.08772,
+    84.95458,
+    27.08772
+],
+  "geometry": {"coordinates":[84.95458000000001,27.08772],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1242720213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.49227,27.19537,85.49227,27.19537",
+    "geom:latitude":27.19537,
+    "geom:longitude":85.49227,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200039",
+    "gn:asciiname":"Jhuwari",
+    "gn:country_code":"NP",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7993786,
+    "gn:latitude":27.19537,
+    "gn:longitude":85.49227,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jhuwari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7993786
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ce63f7845e9e1f581714dfce6e89b6d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1242720213,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1242720213,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1242720213,
+    "wof:lastmodified":1536857174,
+    "wof:name":"Jhuwari",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.49226999999998,
+    27.19537,
+    85.49226999999998,
+    27.19537
+],
+  "geometry": {"coordinates":[85.49226999999998,27.19537],"type":"Point"}
+}

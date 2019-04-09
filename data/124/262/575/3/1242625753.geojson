@@ -1,0 +1,78 @@
+{
+  "id": 1242625753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.27058,27.58983,84.27058,27.58983",
+    "geom:latitude":27.58983,
+    "geom:longitude":84.27058,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"35.0",
+    "gn:admin4_code":"350027.0",
+    "gn:asciiname":"Shosi",
+    "gn:country_code":"NP",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7934898,
+    "gn:latitude":27.58983,
+    "gn:longitude":84.27058,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Shosi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092050101,
+        85675585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7934898
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"02d9d89b2a68fd5b73786a36436a95bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":1242625753,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":1242625753,
+            "region_id":85675585
+        }
+    ],
+    "wof:id":1242625753,
+    "wof:lastmodified":1536993702,
+    "wof:name":"Shosi",
+    "wof:parent_id":1092050101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.27058000000002,
+    27.58983,
+    84.27058000000002,
+    27.58983
+],
+  "geometry": {"coordinates":[84.27058000000002,27.58983],"type":"Point"}
+}

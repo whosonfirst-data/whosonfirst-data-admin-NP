@@ -1,0 +1,78 @@
+{
+  "id": 1243591663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.4764,27.95714,84.4764,27.95714",
+    "geom:latitude":27.95714,
+    "geom:longitude":84.4764,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360020.0",
+    "gn:asciiname":"Lamatar",
+    "gn:country_code":"NP",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7948341,
+    "gn:latitude":27.95714,
+    "gn:longitude":84.4764,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lamatar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7948341
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f60d63245f3cb7db9733552ec636299d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1243591663,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1243591663,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1243591663,
+    "wof:lastmodified":1537089820,
+    "wof:name":"Lamatar",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.4764,
+    27.95714000000001,
+    84.4764,
+    27.95714000000001
+],
+  "geometry": {"coordinates":[84.4764,27.95714000000001],"type":"Point"}
+}

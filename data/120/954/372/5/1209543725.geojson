@@ -1,0 +1,64 @@
+{
+  "id": 1209543725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.00122,28.34741,82.00122,28.34741",
+    "geom:latitude":28.34741,
+    "geom:longitude":82.00122,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550035",
+    "gn:asciiname":"Lamidanda",
+    "gn:country_code":"NP",
+    "gn:dem":1746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7989403,
+    "gn:latitude":28.34741,
+    "gn:longitude":82.00122,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lamidanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7989403
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"06aa6327f53782fea77c462211541877",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209543725
+        }
+    ],
+    "wof:id":1209543725,
+    "wof:lastmodified":1536283908,
+    "wof:name":"Lamidanda",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.00121999999998,
+    28.34741,
+    82.00121999999998,
+    28.34741
+],
+  "geometry": {"coordinates":[82.00121999999998,28.34741],"type":"Point"}
+}

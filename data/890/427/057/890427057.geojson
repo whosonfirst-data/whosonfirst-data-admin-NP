@@ -1,0 +1,74 @@
+{
+  "id": 890427057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.81512,27.8659,84.81512,27.8659",
+    "geom:latitude":27.8659,
+    "geom:longitude":84.81512,
+    "gn:country":"NP",
+    "gn:fcode":"PPL",
+    "gn:pop":90,
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Pokhari Gau",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8063838,
+        "gp:id":2269045,
+        "qs:id":752744
+    },
+    "wof:country":"NP",
+    "wof:created":1469051671,
+    "wof:geomhash":"4cde6e391ed949ee3f2a830ccf65d94e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":890427057,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":890427057,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":890427057,
+    "wof:lastmodified":1505343497,
+    "wof:name":"Pokhari Gau",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:population":90,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.81512,
+    27.8659,
+    84.81512,
+    27.8659
+],
+  "geometry": {"coordinates":[84.81511999999999,27.8659],"type":"Point"}
+}

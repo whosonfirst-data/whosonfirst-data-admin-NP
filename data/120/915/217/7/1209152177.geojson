@@ -1,0 +1,64 @@
+{
+  "id": 1209152177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.55634,28.31339,83.55634,28.31339",
+    "geom:latitude":28.31339,
+    "geom:longitude":83.55634,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450021.0",
+    "gn:asciiname":"Malikachaur",
+    "gn:country_code":"NP",
+    "gn:dem":1558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7954819,
+    "gn:latitude":28.31339,
+    "gn:longitude":83.55634,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Malikachaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7954819
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1271bb4cd2e4bf17ad71c4916be94ee5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209152177
+        }
+    ],
+    "wof:id":1209152177,
+    "wof:lastmodified":1536296167,
+    "wof:name":"Malikachaur",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.55634,
+    28.31339,
+    83.55634,
+    28.31339
+],
+  "geometry": {"coordinates":[83.55634000000001,28.31339],"type":"Point"}
+}

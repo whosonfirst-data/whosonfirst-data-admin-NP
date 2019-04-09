@@ -1,0 +1,78 @@
+{
+  "id": 1293332087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.35404,28.19538,83.35404,28.19538",
+    "geom:latitude":28.19538,
+    "geom:longitude":83.35404,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"46.0",
+    "gn:admin4_code":"460009.0",
+    "gn:asciiname":"Dandalka Phant",
+    "gn:country_code":"NP",
+    "gn:dem":987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7949807,
+    "gn:latitude":28.19538,
+    "gn:longitude":83.35404,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dandalka Phant",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7949807
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3b02a8d13c388dd4b6029200a0ed09a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1293332087,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1293332087,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1293332087,
+    "wof:lastmodified":1537010328,
+    "wof:name":"Dandalka Phant",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.35404,
+    28.19538,
+    83.35404,
+    28.19538
+],
+  "geometry": {"coordinates":[83.35404,28.19538],"type":"Point"}
+}

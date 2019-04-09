@@ -1,0 +1,78 @@
+{
+  "id": 1225882145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.00362,28.02088,84.00362,28.02088",
+    "geom:latitude":28.02088,
+    "geom:longitude":84.00362,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390017.0",
+    "gn:asciiname":"Palpali Chhap",
+    "gn:country_code":"NP",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001003,
+    "gn:latitude":28.02088,
+    "gn:longitude":84.00362,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Palpali Chhap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001003
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b8cc096b46e24fc0e84a3f86bc5d87aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1225882145,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1225882145,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1225882145,
+    "wof:lastmodified":1536960992,
+    "wof:name":"Palpali Chhap",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.00362,
+    28.02088,
+    84.00362,
+    28.02088
+],
+  "geometry": {"coordinates":[84.00362,28.02088],"type":"Point"}
+}

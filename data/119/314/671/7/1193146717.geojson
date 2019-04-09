@@ -1,0 +1,76 @@
+{
+  "id": 1193146717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.85811,27.90721,86.85811,27.90721",
+    "geom:latitude":27.90721,
+    "geom:longitude":86.85811,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Chukhung",
+    "gn:country_code":"NP",
+    "gn:dem":4842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283510,
+    "gn:latitude":27.90721,
+    "gn:longitude":86.85811,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chukhung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049841,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283510,
+        "wk:page":"Chukhung"
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ef60c3c71805001287bb75f2979b9131",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1193146717,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049841,
+            "locality_id":1193146717,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1193146717,
+    "wof:lastmodified":1537570144,
+    "wof:name":"Chukhung",
+    "wof:parent_id":1092049841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.85811,
+    27.90721,
+    86.85811,
+    27.90721
+],
+  "geometry": {"coordinates":[86.85811,27.90721],"type":"Point"}
+}

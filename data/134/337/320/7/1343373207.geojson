@@ -1,0 +1,78 @@
+{
+  "id": 1343373207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.70269,26.59399,87.70269,26.59399",
+    "geom:latitude":26.59399,
+    "geom:longitude":87.70269,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kodudanga",
+    "gn:country_code":"NP",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283187,
+    "gn:latitude":26.59399,
+    "gn:longitude":87.70269,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Kodudanga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Kaddu\u1e0d\u0101\u0303gi\u0307\u0304"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283187
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8270758772b600ede4780892bc9371c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1343373207,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1343373207,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1343373207,
+    "wof:lastmodified":1537676050,
+    "wof:name":"Kodudanga",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.70269,
+    26.59399,
+    87.70269,
+    26.59399
+],
+  "geometry": {"coordinates":[87.70269,26.59399],"type":"Point"}
+}

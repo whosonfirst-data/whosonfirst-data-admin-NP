@@ -1,0 +1,64 @@
+{
+  "id": 1209557189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.13438,27.68066,84.13438,27.68066",
+    "geom:latitude":27.68066,
+    "geom:longitude":84.13438,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"48",
+    "gn:admin4_code":"480065",
+    "gn:asciiname":"Kailapani",
+    "gn:country_code":"NP",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7973460,
+    "gn:latitude":27.68066,
+    "gn:longitude":84.13438,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kailapani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7973460
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"eb56c1af88d70fa0c2eb799be89f3153",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209557189
+        }
+    ],
+    "wof:id":1209557189,
+    "wof:lastmodified":1536283508,
+    "wof:name":"Kailapani",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.13438000000002,
+    27.68066,
+    84.13438000000002,
+    27.68066
+],
+  "geometry": {"coordinates":[84.13438000000002,27.68066],"type":"Point"}
+}

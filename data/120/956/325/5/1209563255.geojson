@@ -1,0 +1,64 @@
+{
+  "id": 1209563255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.06279,26.89856,88.06279,26.89856",
+    "geom:latitude":26.89856,
+    "geom:longitude":88.06279,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30034.0",
+    "gn:asciiname":"Daktarkholagaun",
+    "gn:country_code":"NP",
+    "gn:dem":1525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7952412,
+    "gn:latitude":26.89856,
+    "gn:longitude":88.06279,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Daktarkholagaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7952412
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"bec05db59d8cdabb8c6a43446249690d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209563255
+        }
+    ],
+    "wof:id":1209563255,
+    "wof:lastmodified":1536283322,
+    "wof:name":"Daktarkholagaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.06279,
+    26.89856,
+    88.06279,
+    26.89856
+],
+  "geometry": {"coordinates":[88.06279000000001,26.89856],"type":"Point"}
+}

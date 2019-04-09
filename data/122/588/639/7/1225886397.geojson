@@ -1,0 +1,78 @@
+{
+  "id": 1225886397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.59567,28.04497,83.59567,28.04497",
+    "geom:latitude":28.04497,
+    "geom:longitude":83.59567,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"44",
+    "gn:admin4_code":"440003",
+    "gn:asciiname":"Dandabari",
+    "gn:country_code":"NP",
+    "gn:dem":967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7978243,
+    "gn:latitude":28.04497,
+    "gn:longitude":83.59567,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Dandabari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049297,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7978243
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"564c153a80b12e35eb0a2b0e5e1da228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049297,
+            "locality_id":1225886397,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049297,
+            "locality_id":1225886397,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1225886397,
+    "wof:lastmodified":1536955125,
+    "wof:name":"Dandabari",
+    "wof:parent_id":1092049297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.59567,
+    28.04497000000001,
+    83.59567,
+    28.04497000000001
+],
+  "geometry": {"coordinates":[83.59567,28.04497000000001],"type":"Point"}
+}

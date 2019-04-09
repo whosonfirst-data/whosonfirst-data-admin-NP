@@ -1,0 +1,78 @@
+{
+  "id": 1226384123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.08638,27.99433,84.08638,27.99433",
+    "geom:latitude":27.99433,
+    "geom:longitude":84.08638,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380009.0",
+    "gn:asciiname":"Ratodhunga",
+    "gn:country_code":"NP",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8003041,
+    "gn:latitude":27.99433,
+    "gn:longitude":84.08638,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ratodhunga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8003041
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2c894547c45f1b628f81c75574a9e07a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1226384123,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1226384123,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1226384123,
+    "wof:lastmodified":1536734412,
+    "wof:name":"Ratodhunga",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.08638,
+    27.99433,
+    84.08638,
+    27.99433
+],
+  "geometry": {"coordinates":[84.08638000000001,27.99433],"type":"Point"}
+}

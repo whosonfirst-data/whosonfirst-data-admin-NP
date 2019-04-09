@@ -1,0 +1,64 @@
+{
+  "id": 1209663357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.40925,28.34292,83.40925,28.34292",
+    "geom:latitude":28.34292,
+    "geom:longitude":83.40925,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"45.0",
+    "gn:admin4_code":"450015.0",
+    "gn:asciiname":"Hile",
+    "gn:country_code":"NP",
+    "gn:dem":2181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7952206,
+    "gn:latitude":28.34292,
+    "gn:longitude":83.40925,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Hile",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7952206
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"98182f444d1a07bdc3c831603f428459",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209663357
+        }
+    ],
+    "wof:id":1209663357,
+    "wof:lastmodified":1536280179,
+    "wof:name":"Hile",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.40925,
+    28.34292,
+    83.40925,
+    28.34292
+],
+  "geometry": {"coordinates":[83.40925,28.34292],"type":"Point"}
+}

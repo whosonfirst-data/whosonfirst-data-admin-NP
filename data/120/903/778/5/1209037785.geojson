@@ -1,0 +1,64 @@
+{
+  "id": 1209037785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.20329,28.62629,82.20329,28.62629",
+    "geom:latitude":28.62629,
+    "geom:longitude":82.20329,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"54",
+    "gn:admin4_code":"540006",
+    "gn:asciiname":"Lamichhanegaun",
+    "gn:country_code":"NP",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7985139,
+    "gn:latitude":28.62629,
+    "gn:longitude":82.20329,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lamichhanegaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7985139
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0b6e5ad9716f6b30b7617882abb90602",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209037785
+        }
+    ],
+    "wof:id":1209037785,
+    "wof:lastmodified":1536299644,
+    "wof:name":"Lamichhanegaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.20329,
+    28.62629,
+    82.20329,
+    28.62629
+],
+  "geometry": {"coordinates":[82.20329,28.62629],"type":"Point"}
+}

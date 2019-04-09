@@ -1,0 +1,78 @@
+{
+  "id": 1193061621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.52663,27.56278,85.52663,27.56278",
+    "geom:latitude":27.56278,
+    "geom:longitude":85.52663,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240065.0",
+    "gn:asciiname":"Kapurpanidol",
+    "gn:country_code":"NP",
+    "gn:dem":1535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7963566,
+    "gn:latitude":27.56278,
+    "gn:longitude":85.52663,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kapurpanidol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7963566
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b34710f81f839eaa73d90dbb316f7a9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1193061621,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1193061621,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1193061621,
+    "wof:lastmodified":1536377260,
+    "wof:name":"Kapurpanidol",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.52663000000003,
+    27.56278,
+    85.52663000000003,
+    27.56278
+],
+  "geometry": {"coordinates":[85.52663000000003,27.56278],"type":"Point"}
+}

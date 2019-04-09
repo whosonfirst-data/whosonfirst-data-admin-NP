@@ -1,0 +1,78 @@
+{
+  "id": 1226280307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.237,28.08725,84.237,28.08725",
+    "geom:latitude":28.08725,
+    "geom:longitude":84.237,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"37",
+    "gn:admin4_code":"370049",
+    "gn:asciiname":"Bothugaun",
+    "gn:country_code":"NP",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7966961,
+    "gn:latitude":28.08725,
+    "gn:longitude":84.237,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bothugaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050009,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7966961
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0605f06cbded1f30a470bd2da21434b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1226280307,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050009,
+            "locality_id":1226280307,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1226280307,
+    "wof:lastmodified":1536883137,
+    "wof:name":"Bothugaun",
+    "wof:parent_id":1092050009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.23700000000002,
+    28.08725,
+    84.23700000000002,
+    28.08725
+],
+  "geometry": {"coordinates":[84.23700000000002,28.08725],"type":"Point"}
+}

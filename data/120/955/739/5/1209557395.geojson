@@ -1,0 +1,64 @@
+{
+  "id": 1209557395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.09562,27.88899,85.09562,27.88899",
+    "geom:latitude":27.88899,
+    "geom:longitude":85.09562,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"28",
+    "gn:admin4_code":"280031",
+    "gn:asciiname":"Patal",
+    "gn:country_code":"NP",
+    "gn:dem":871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7974318,
+    "gn:latitude":27.88899,
+    "gn:longitude":85.09562,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Patal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7974318
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5ecc064f4dca27cd7f5cacd80d822e5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209557395
+        }
+    ],
+    "wof:id":1209557395,
+    "wof:lastmodified":1536283504,
+    "wof:name":"Patal",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.09562,
+    27.888990000000003,
+    85.09562,
+    27.888990000000003
+],
+  "geometry": {"coordinates":[85.09562,27.88899],"type":"Point"}
+}

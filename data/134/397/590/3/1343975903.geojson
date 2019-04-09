@@ -1,0 +1,75 @@
+{
+  "id": 1343975903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.46452,27.62232,85.46452,27.62232",
+    "geom:latitude":27.62232,
+    "geom:longitude":85.46452,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Babedada",
+    "gn:country_code":"NP",
+    "gn:dem":1742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10668842,
+    "gn:latitude":27.62232,
+    "gn:longitude":85.46452,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"B\u0101be\u1e0d\u0101\u0303\u1e0d\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10668842
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"35fcfbded9d27df71a693ae0535c3641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1343975903,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1343975903,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1343975903,
+    "wof:lastmodified":1536996985,
+    "wof:name":"Babedada",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.46452,
+    27.62232,
+    85.46452,
+    27.62232
+],
+  "geometry": {"coordinates":[85.46451999999999,27.62232],"type":"Point"}
+}

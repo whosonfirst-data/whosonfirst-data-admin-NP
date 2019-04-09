@@ -1,0 +1,78 @@
+{
+  "id": 1226384615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.91113,27.41381,84.91113,27.41381",
+    "geom:latitude":27.41381,
+    "geom:longitude":84.91113,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310018",
+    "gn:asciiname":"Mulkhola Dobhan",
+    "gn:country_code":"NP",
+    "gn:dem":525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7968321,
+    "gn:latitude":27.41381,
+    "gn:longitude":84.91113,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mulkhola Dobhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7968321
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"5ed0e430173509afd952f19def32afb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1226384615,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1226384615,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1226384615,
+    "wof:lastmodified":1536733809,
+    "wof:name":"Mulkhola Dobhan",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.91113,
+    27.41381,
+    84.91113,
+    27.41381
+],
+  "geometry": {"coordinates":[84.91113,27.41381],"type":"Point"}
+}

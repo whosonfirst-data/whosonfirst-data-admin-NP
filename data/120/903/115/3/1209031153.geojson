@@ -1,0 +1,64 @@
+{
+  "id": 1209031153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.93759,28.06093,82.93759,28.06093",
+    "geom:latitude":28.06093,
+    "geom:longitude":82.93759,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"52",
+    "gn:admin4_code":"520015",
+    "gn:asciiname":"Tallo Takura",
+    "gn:country_code":"NP",
+    "gn:dem":1038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7980075,
+    "gn:latitude":28.06093,
+    "gn:longitude":82.93759,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tallo Takura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7980075
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4ec992d2c84d6d580043eeb791b4fd3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209031153
+        }
+    ],
+    "wof:id":1209031153,
+    "wof:lastmodified":1536299846,
+    "wof:name":"Tallo Takura",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.93759,
+    28.06093,
+    82.93759,
+    28.06093
+],
+  "geometry": {"coordinates":[82.93759,28.06093],"type":"Point"}
+}

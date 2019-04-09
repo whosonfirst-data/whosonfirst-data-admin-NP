@@ -1,0 +1,64 @@
+{
+  "id": 1209138699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.54903,29.57487,80.54903,29.57487",
+    "geom:latitude":29.57487,
+    "geom:longitude":80.54903,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"74",
+    "gn:admin4_code":"740013",
+    "gn:asciiname":"Mallo Saina",
+    "gn:country_code":"NP",
+    "gn:dem":1544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7970073,
+    "gn:latitude":29.57487,
+    "gn:longitude":80.54903,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mallo Saina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7970073
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a8c229909591e86e6e166c027f5cbd75",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209138699
+        }
+    ],
+    "wof:id":1209138699,
+    "wof:lastmodified":1536296575,
+    "wof:name":"Mallo Saina",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.54903,
+    29.57487,
+    80.54903,
+    29.57487
+],
+  "geometry": {"coordinates":[80.54903,29.57487],"type":"Point"}
+}

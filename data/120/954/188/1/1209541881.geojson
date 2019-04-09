@@ -1,0 +1,64 @@
+{
+  "id": 1209541881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.63943,28.90436,80.63943,28.90436",
+    "geom:latitude":28.90436,
+    "geom:longitude":80.63943,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710015.0",
+    "gn:asciiname":"Hilekhali",
+    "gn:country_code":"NP",
+    "gn:dem":1375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7956619,
+    "gn:latitude":28.90436,
+    "gn:longitude":80.63943,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Hilekhali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7956619
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d6b0b367a858ba7bb23ef7b8ab322d9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209541881
+        }
+    ],
+    "wof:id":1209541881,
+    "wof:lastmodified":1536283964,
+    "wof:name":"Hilekhali",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.63943,
+    28.90436,
+    80.63943,
+    28.90436
+],
+  "geometry": {"coordinates":[80.63943,28.90436],"type":"Point"}
+}

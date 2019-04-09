@@ -1,0 +1,76 @@
+{
+  "id": 1343906277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.53389,27.96417,85.53389,27.96417",
+    "geom:latitude":27.96417,
+    "geom:longitude":85.53389,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1.0",
+    "gn:asciiname":"Ambathan",
+    "gn:country_code":"NP",
+    "gn:dem":1419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8740346,
+    "gn:latitude":27.96417,
+    "gn:longitude":85.53389,
+    "gn:modification_date":"2014-03-26",
+    "gn:name":"Ambathan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092049755,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8740346
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d86e1c0c8f9ef40de03ee910f37d0155",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1343906277,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049755,
+            "locality_id":1343906277,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1343906277,
+    "wof:lastmodified":1537095083,
+    "wof:name":"Ambathan",
+    "wof:parent_id":1092049755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.53389,
+    27.96417000000001,
+    85.53389,
+    27.96417000000001
+],
+  "geometry": {"coordinates":[85.53389,27.96417000000001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259693599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.52483,28.13854,83.52483,28.13854",
+    "geom:latitude":28.13854,
+    "geom:longitude":83.52483,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Banskot",
+    "gn:country_code":"NP",
+    "gn:dem":1603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283672,
+    "gn:latitude":28.13854,
+    "gn:longitude":83.52483,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"B\u0101nskot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049257,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283672
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"057076591a94a914e1eb47f20fb52a04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1259693599,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049257,
+            "locality_id":1259693599,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1259693599,
+    "wof:lastmodified":1537050251,
+    "wof:name":"Banskot",
+    "wof:parent_id":1092049257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.52483000000002,
+    28.13854000000001,
+    83.52483000000002,
+    28.13854000000001
+],
+  "geometry": {"coordinates":[83.52483000000002,28.13854000000001],"type":"Point"}
+}

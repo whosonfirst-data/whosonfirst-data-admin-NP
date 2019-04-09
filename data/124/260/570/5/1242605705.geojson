@@ -1,0 +1,78 @@
+{
+  "id": 1242605705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.28887,29.42566,81.28887,29.42566",
+    "geom:latitude":29.42566,
+    "geom:longitude":81.28887,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"67.0",
+    "gn:admin4_code":"670010.0",
+    "gn:asciiname":"Corubesna",
+    "gn:country_code":"NP",
+    "gn:dem":2155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8001476,
+    "gn:latitude":29.42566,
+    "gn:longitude":81.28887,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Corubesna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050627,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8001476
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f3d5e046a64b0fe7210d703eb38ee2de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050627,
+            "locality_id":1242605705,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050627,
+            "locality_id":1242605705,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1242605705,
+    "wof:lastmodified":1537022250,
+    "wof:name":"Corubesna",
+    "wof:parent_id":1092050627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.28886999999997,
+    29.42566,
+    81.28886999999997,
+    29.42566
+],
+  "geometry": {"coordinates":[81.28886999999997,29.42566],"type":"Point"}
+}

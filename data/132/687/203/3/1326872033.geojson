@@ -1,0 +1,78 @@
+{
+  "id": 1326872033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.00304,26.85799,88.00304,26.85799",
+    "geom:latitude":26.85799,
+    "geom:longitude":88.00304,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"3.0",
+    "gn:admin4_code":"30022.0",
+    "gn:asciiname":"Khundruke",
+    "gn:country_code":"NP",
+    "gn:dem":1314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7952058,
+    "gn:latitude":26.85799,
+    "gn:longitude":88.00304,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Khundruke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092048173,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7952058
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"258074d6efdbd0bbd4c3e704e077543c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1326872033,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048173,
+            "locality_id":1326872033,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1326872033,
+    "wof:lastmodified":1536990673,
+    "wof:name":"Khundruke",
+    "wof:parent_id":1092048173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.00304,
+    26.85799,
+    88.00304,
+    26.85799
+],
+  "geometry": {"coordinates":[88.00304,26.85799],"type":"Point"}
+}

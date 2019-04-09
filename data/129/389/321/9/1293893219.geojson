@@ -1,0 +1,79 @@
+{
+  "id": 1293893219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.45326,27.76638,85.45326,27.76638",
+    "geom:latitude":27.76638,
+    "geom:longitude":85.45326,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Kuikelgau",
+    "gn:country_code":"NP",
+    "gn:dem":1872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10317221,
+    "gn:latitude":27.76638,
+    "gn:longitude":85.45326,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Kui\u0307\u0304kelg\u0101\u0169",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kui\u0307\u0304kelg\u0101\u0169",
+        "Ku\u012bkelg\u0101un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092048931,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10317221
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d21f6ca0f36a5e2c054b5e8e2b86de77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":1293893219,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048931,
+            "locality_id":1293893219,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1293893219,
+    "wof:lastmodified":1537676080,
+    "wof:name":"Kuikelgau",
+    "wof:parent_id":1092048931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.45326,
+    27.76638,
+    85.45326,
+    27.76638
+],
+  "geometry": {"coordinates":[85.45326,27.76638],"type":"Point"}
+}

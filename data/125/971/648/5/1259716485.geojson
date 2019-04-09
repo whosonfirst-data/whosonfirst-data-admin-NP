@@ -1,0 +1,76 @@
+{
+  "id": 1259716485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.33333,28.83333,80.33333,28.83333",
+    "geom:latitude":28.83333,
+    "geom:longitude":80.33333,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9.0",
+    "gn:asciiname":"Mahendaranagar",
+    "gn:country_code":"NP",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8436632,
+    "gn:latitude":28.83333,
+    "gn:longitude":80.33333,
+    "gn:modification_date":"2013-01-04",
+    "gn:name":"Mahendaranagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048227,
+        85675567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8436632
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b835e07e47b0d55b1eabd157fff9b320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1259716485,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048227,
+            "locality_id":1259716485,
+            "region_id":85675567
+        }
+    ],
+    "wof:id":1259716485,
+    "wof:lastmodified":1537018776,
+    "wof:name":"Mahendaranagar",
+    "wof:parent_id":1092048227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.33333,
+    28.83333,
+    80.33333,
+    28.83333
+],
+  "geometry": {"coordinates":[80.33333,28.83333],"type":"Point"}
+}

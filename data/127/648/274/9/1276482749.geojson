@@ -1,0 +1,78 @@
+{
+  "id": 1276482749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.81912,27.12151,87.81912,27.12151",
+    "geom:latitude":27.12151,
+    "geom:longitude":87.81912,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"2",
+    "gn:admin4_code":"20033",
+    "gn:asciiname":"Maklumba",
+    "gn:country_code":"NP",
+    "gn:dem":1421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7977921,
+    "gn:latitude":27.12151,
+    "gn:longitude":87.81912,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Maklumba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7977921
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"700644dda30eba7e4763ca71d2bc711e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1276482749,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1276482749,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1276482749,
+    "wof:lastmodified":1537072570,
+    "wof:name":"Maklumba",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.81912,
+    27.12151,
+    87.81912,
+    27.12151
+],
+  "geometry": {"coordinates":[87.81912,27.12151],"type":"Point"}
+}

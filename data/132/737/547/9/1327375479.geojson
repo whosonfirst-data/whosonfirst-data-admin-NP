@@ -1,0 +1,78 @@
+{
+  "id": 1327375479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.83493,27.62767,82.83493,27.62767",
+    "geom:latitude":27.62767,
+    "geom:longitude":82.83493,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"50.0",
+    "gn:admin4_code":"500016.0",
+    "gn:asciiname":"Bishunpur",
+    "gn:country_code":"NP",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7959366,
+    "gn:latitude":27.62767,
+    "gn:longitude":82.83493,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bishunpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048259,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7959366
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"123d776abdc5cf34953466b467b11ed3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1327375479,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1327375479,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1327375479,
+    "wof:lastmodified":1536763258,
+    "wof:name":"Bishunpur",
+    "wof:parent_id":1092048259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.83493,
+    27.62767,
+    82.83493,
+    27.62767
+],
+  "geometry": {"coordinates":[82.83493,27.62767],"type":"Point"}
+}

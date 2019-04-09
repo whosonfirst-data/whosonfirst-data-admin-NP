@@ -1,0 +1,78 @@
+{
+  "id": 1293715513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.66022,29.44117,81.66022,29.44117",
+    "geom:latitude":29.44117,
+    "geom:longitude":81.66022,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14.0",
+    "gn:admin3_code":"67.0",
+    "gn:admin4_code":"670013.0",
+    "gn:asciiname":"Thini",
+    "gn:country_code":"NP",
+    "gn:dem":2334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002083,
+    "gn:latitude":29.44117,
+    "gn:longitude":81.66022,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thini",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092050627,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002083
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"38070acafeff62036a85ca7e04f69690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050627,
+            "locality_id":1293715513,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050627,
+            "locality_id":1293715513,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1293715513,
+    "wof:lastmodified":1536955897,
+    "wof:name":"Thini",
+    "wof:parent_id":1092050627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.66022,
+    29.44117,
+    81.66022,
+    29.44117
+],
+  "geometry": {"coordinates":[81.66022,29.44117],"type":"Point"}
+}

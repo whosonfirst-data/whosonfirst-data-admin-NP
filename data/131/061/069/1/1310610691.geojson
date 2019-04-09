@@ -1,0 +1,79 @@
+{
+  "id": 1310610691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.12434,27.02355,85.12434,27.02355",
+    "geom:latitude":27.02355,
+    "geom:longitude":85.12434,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Sundarpur",
+    "gn:country_code":"NP",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1282746,
+    "gn:latitude":27.02355,
+    "gn:longitude":85.12434,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sundarpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sunarpur",
+        "Sundarpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092048051,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282746
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6b249aa32b6dcd3205d4a71db3fba1ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1310610691,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1310610691,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1310610691,
+    "wof:lastmodified":1537676039,
+    "wof:name":"Sundarpur",
+    "wof:parent_id":1092048051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.12434,
+    27.02355,
+    85.12434,
+    27.02355
+],
+  "geometry": {"coordinates":[85.12434,27.02355],"type":"Point"}
+}

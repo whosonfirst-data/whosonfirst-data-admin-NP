@@ -1,0 +1,78 @@
+{
+  "id": 1226698291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.17733,27.65698,86.17733,27.65698",
+    "geom:latitude":27.65698,
+    "geom:longitude":86.17733,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"22.0",
+    "gn:admin4_code":"220026.0",
+    "gn:asciiname":"Thuloban",
+    "gn:country_code":"NP",
+    "gn:dem":2778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7944767,
+    "gn:latitude":27.65698,
+    "gn:longitude":86.17733,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Thuloban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675579,
+        1092050535,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7944767
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c69d81304b20f4ee5060a9d1915f4c82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1226698291,
+            "region_id":85675579
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050535,
+            "locality_id":1226698291,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1226698291,
+    "wof:lastmodified":1536784551,
+    "wof:name":"Thuloban",
+    "wof:parent_id":1092050535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.17733,
+    27.65698,
+    86.17733,
+    27.65698
+],
+  "geometry": {"coordinates":[86.17733,27.65698],"type":"Point"}
+}

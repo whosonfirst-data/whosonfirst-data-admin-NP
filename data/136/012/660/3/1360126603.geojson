@@ -1,0 +1,78 @@
+{
+  "id": 1360126603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.25306,26.72186,87.25306,26.72186",
+    "geom:latitude":26.72186,
+    "geom:longitude":87.25306,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"6.0",
+    "gn:admin4_code":"60018.0",
+    "gn:asciiname":"Titriyatol",
+    "gn:country_code":"NP",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7997753,
+    "gn:latitude":26.72186,
+    "gn:longitude":87.25306,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Titriyatol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049923,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7997753
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e2f8d0b80dc85bf3bd1c0afd1d5da851",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1360126603,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1360126603,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1360126603,
+    "wof:lastmodified":1536885270,
+    "wof:name":"Titriyatol",
+    "wof:parent_id":1092049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.25305999999998,
+    26.72186,
+    87.25305999999998,
+    26.72186
+],
+  "geometry": {"coordinates":[87.25305999999998,26.72186],"type":"Point"}
+}

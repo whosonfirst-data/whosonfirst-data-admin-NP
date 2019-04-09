@@ -1,0 +1,64 @@
+{
+  "id": 1209548317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.6557,29.11871,81.6557,29.11871",
+    "geom:latitude":29.11871,
+    "geom:longitude":81.6557,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"64.0",
+    "gn:admin4_code":"640004.0",
+    "gn:asciiname":"Lasi",
+    "gn:country_code":"NP",
+    "gn:dem":1112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7958016,
+    "gn:latitude":29.11871,
+    "gn:longitude":81.6557,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lasi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7958016
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"79b0a33c9c3585a9c5f5093255107fa9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209548317
+        }
+    ],
+    "wof:id":1209548317,
+    "wof:lastmodified":1536283773,
+    "wof:name":"Lasi",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.6557,
+    29.11871,
+    81.6557,
+    29.11871
+],
+  "geometry": {"coordinates":[81.6557,29.11871],"type":"Point"}
+}

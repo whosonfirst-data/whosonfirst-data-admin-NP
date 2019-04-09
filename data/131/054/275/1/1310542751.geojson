@@ -1,0 +1,78 @@
+{
+  "id": 1310542751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.07578,27.85386,84.07578,27.85386",
+    "geom:latitude":27.85386,
+    "geom:longitude":84.07578,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"48",
+    "gn:admin4_code":"480013",
+    "gn:asciiname":"Korke",
+    "gn:country_code":"NP",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7972817,
+    "gn:latitude":27.85386,
+    "gn:longitude":84.07578,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Korke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092050413,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7972817
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"571ce8ed1299a111c19e031fa10122eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050413,
+            "locality_id":1310542751,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050413,
+            "locality_id":1310542751,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1310542751,
+    "wof:lastmodified":1536861774,
+    "wof:name":"Korke",
+    "wof:parent_id":1092050413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.07578000000002,
+    27.85386,
+    84.07578000000002,
+    27.85386
+],
+  "geometry": {"coordinates":[84.07578000000002,27.85386],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343503289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.95466,27.62093,84.95466,27.62093",
+    "geom:latitude":27.62093,
+    "geom:longitude":84.95466,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310017",
+    "gn:asciiname":"Gogangari",
+    "gn:country_code":"NP",
+    "gn:dem":1491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7968253,
+    "gn:latitude":27.62093,
+    "gn:longitude":84.95466,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gogangari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7968253
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1cf8d5ed37db6873c8cd3019e4fd1219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1343503289,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1343503289,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1343503289,
+    "wof:lastmodified":1536684407,
+    "wof:name":"Gogangari",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.95466,
+    27.62093,
+    84.95466,
+    27.62093
+],
+  "geometry": {"coordinates":[84.95466,27.62093],"type":"Point"}
+}

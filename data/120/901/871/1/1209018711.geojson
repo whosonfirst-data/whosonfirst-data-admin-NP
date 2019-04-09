@@ -1,0 +1,64 @@
+{
+  "id": 1209018711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.65558,26.95318,87.65558,26.95318",
+    "geom:latitude":26.95318,
+    "geom:longitude":87.65558,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tindada",
+    "gn:country_code":"NP",
+    "gn:dem":1815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11606500,
+    "gn:latitude":26.95318,
+    "gn:longitude":87.65558,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Tin\u1e0d\u0101\u0303\u1e0d\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Tin\u1e0d\u0101\u0303\u1e0d\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11606500
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"6369c53070b4d4f7382b913c13a83aa7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209018711
+        }
+    ],
+    "wof:id":1209018711,
+    "wof:lastmodified":1537676126,
+    "wof:name":"Tindada",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.65558,
+    26.95318,
+    87.65558,
+    26.95318
+],
+  "geometry": {"coordinates":[87.65558,26.95318],"type":"Point"}
+}

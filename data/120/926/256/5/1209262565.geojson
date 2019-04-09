@@ -1,0 +1,64 @@
+{
+  "id": 1209262565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.4385,27.11853,87.4385,27.11853",
+    "geom:latitude":27.11853,
+    "geom:longitude":87.4385,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"8.0",
+    "gn:admin4_code":"80003.0",
+    "gn:asciiname":"Salleri",
+    "gn:country_code":"NP",
+    "gn:dem":1348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005874,
+    "gn:latitude":27.11853,
+    "gn:longitude":87.4385,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Salleri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005874
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"099f7877bed8f5ffba709167b8ffa683",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209262565
+        }
+    ],
+    "wof:id":1209262565,
+    "wof:lastmodified":1536292641,
+    "wof:name":"Salleri",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.4385,
+    27.11853,
+    87.4385,
+    27.11853
+],
+  "geometry": {"coordinates":[87.4385,27.11853],"type":"Point"}
+}

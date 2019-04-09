@@ -1,0 +1,78 @@
+{
+  "id": 1242610455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.65015,28.73705,81.65015,28.73705",
+    "geom:latitude":28.73705,
+    "geom:longitude":81.65015,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2",
+    "gn:admin3_code":"60.0",
+    "gn:admin4_code":"600007.0",
+    "gn:asciiname":"Tal Pokmari",
+    "gn:country_code":"NP",
+    "gn:dem":1497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7936647,
+    "gn:latitude":28.73705,
+    "gn:longitude":81.65015,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tal Pokmari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092050583,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7936647
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d7f79a7b4f5b6e47b118c577d034ad9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1242610455,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050583,
+            "locality_id":1242610455,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1242610455,
+    "wof:lastmodified":1537015651,
+    "wof:name":"Tal Pokmari",
+    "wof:parent_id":1092050583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.65015,
+    28.73705,
+    81.65015,
+    28.73705
+],
+  "geometry": {"coordinates":[81.65015,28.73705],"type":"Point"}
+}

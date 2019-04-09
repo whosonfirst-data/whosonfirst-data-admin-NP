@@ -1,0 +1,78 @@
+{
+  "id": 1327182413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.12749,27.36458,87.12749,27.36458",
+    "geom:latitude":27.36458,
+    "geom:longitude":87.12749,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100041.0",
+    "gn:asciiname":"Sangrang",
+    "gn:country_code":"NP",
+    "gn:dem":1155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933557,
+    "gn:latitude":27.36458,
+    "gn:longitude":87.12749,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sangrang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933557
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"50713a223948b2af3327d3dd8685b462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1327182413,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1327182413,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1327182413,
+    "wof:lastmodified":1537040155,
+    "wof:name":"Sangrang",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.12749000000002,
+    27.36458,
+    87.12749000000002,
+    27.36458
+],
+  "geometry": {"coordinates":[87.12749000000002,27.36458],"type":"Point"}
+}

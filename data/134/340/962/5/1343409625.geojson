@@ -1,0 +1,78 @@
+{
+  "id": 1343409625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.78128,27.71463,84.78128,27.71463",
+    "geom:latitude":27.71463,
+    "geom:longitude":84.78128,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"35.0",
+    "gn:admin4_code":"350024.0",
+    "gn:asciiname":"Hogtesh",
+    "gn:country_code":"NP",
+    "gn:dem":1227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7934795,
+    "gn:latitude":27.71463,
+    "gn:longitude":84.78128,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Hogtesh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092050101,
+        85675585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7934795
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"072b9f5ce5466b822232a1ee6e80485d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":1343409625,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":1343409625,
+            "region_id":85675585
+        }
+    ],
+    "wof:id":1343409625,
+    "wof:lastmodified":1536818838,
+    "wof:name":"Hogtesh",
+    "wof:parent_id":1092050101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.78128000000002,
+    27.71463,
+    84.78128000000002,
+    27.71463
+],
+  "geometry": {"coordinates":[84.78128000000002,27.71463],"type":"Point"}
+}

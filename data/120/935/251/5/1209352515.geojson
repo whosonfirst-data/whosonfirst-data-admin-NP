@@ -1,0 +1,64 @@
+{
+  "id": 1209352515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.546,27.64319,85.546,27.64319",
+    "geom:latitude":27.64319,
+    "geom:longitude":85.546,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240071.0",
+    "gn:asciiname":"Rabi Bhanjyang",
+    "gn:country_code":"NP",
+    "gn:dem":1488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7963695,
+    "gn:latitude":27.64319,
+    "gn:longitude":85.546,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Rabi Bhanjyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7963695
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"303bcb21ff05c83530fa1ccf5742f4c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209352515
+        }
+    ],
+    "wof:id":1209352515,
+    "wof:lastmodified":1536289698,
+    "wof:name":"Rabi Bhanjyang",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.546,
+    27.64319,
+    85.546,
+    27.64319
+],
+  "geometry": {"coordinates":[85.54600000000001,27.64319],"type":"Point"}
+}

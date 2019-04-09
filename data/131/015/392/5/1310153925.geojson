@@ -1,0 +1,78 @@
+{
+  "id": 1310153925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.88728,27.21937,87.88728,27.21937",
+    "geom:latitude":27.21937,
+    "geom:longitude":87.88728,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"2",
+    "gn:admin4_code":"20010",
+    "gn:asciiname":"Tusare",
+    "gn:country_code":"NP",
+    "gn:dem":2170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7977328,
+    "gn:latitude":27.21937,
+    "gn:longitude":87.88728,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tusare",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049165,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7977328
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f2f60fdcd85cee17f2aa6e34340ac2fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1310153925,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049165,
+            "locality_id":1310153925,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1310153925,
+    "wof:lastmodified":1536927505,
+    "wof:name":"Tusare",
+    "wof:parent_id":1092049165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.88728,
+    27.21937,
+    87.88728,
+    27.21937
+],
+  "geometry": {"coordinates":[87.88728,27.21937],"type":"Point"}
+}

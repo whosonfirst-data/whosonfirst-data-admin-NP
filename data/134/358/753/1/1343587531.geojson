@@ -1,0 +1,78 @@
+{
+  "id": 1343587531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.40609,30.40964,81.40609,30.40964",
+    "geom:latitude":30.40964,
+    "geom:longitude":81.40609,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"66.0",
+    "gn:admin4_code":"660013.0",
+    "gn:asciiname":"Ngangkasya",
+    "gn:country_code":"NP",
+    "gn:dem":5648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7951014,
+    "gn:latitude":30.40964,
+    "gn:longitude":81.40609,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ngangkasya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675557,
+        1092050353,
+        1108807133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7951014
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"1d3d901f4f930a0a10a5741bb01c28a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1343587531,
+            "region_id":85675557
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050353,
+            "locality_id":1343587531,
+            "region_id":1108807133
+        }
+    ],
+    "wof:id":1343587531,
+    "wof:lastmodified":1537057955,
+    "wof:name":"Ngangkasya",
+    "wof:parent_id":1092050353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.40609,
+    30.40964,
+    81.40609,
+    30.40964
+],
+  "geometry": {"coordinates":[81.40609000000001,30.40964],"type":"Point"}
+}

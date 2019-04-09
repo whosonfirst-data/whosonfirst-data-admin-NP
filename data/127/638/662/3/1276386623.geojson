@@ -1,0 +1,78 @@
+{
+  "id": 1276386623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.09876,26.87497,85.09876,26.87497",
+    "geom:latitude":26.87497,
+    "geom:longitude":85.09876,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"33.0",
+    "gn:admin4_code":"330025.0",
+    "gn:asciiname":"Lachhumanawa",
+    "gn:country_code":"NP",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8008718,
+    "gn:latitude":26.87497,
+    "gn:longitude":85.09876,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lachhumanawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092048051,
+        1108807141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8008718
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e77a11bcd4feb7a24c111a3a3b42f93d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1276386623,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048051,
+            "locality_id":1276386623,
+            "region_id":1108807141
+        }
+    ],
+    "wof:id":1276386623,
+    "wof:lastmodified":1536707521,
+    "wof:name":"Lachhumanawa",
+    "wof:parent_id":1092048051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.09876,
+    26.87497,
+    85.09876,
+    26.87497
+],
+  "geometry": {"coordinates":[85.09876,26.87497],"type":"Point"}
+}

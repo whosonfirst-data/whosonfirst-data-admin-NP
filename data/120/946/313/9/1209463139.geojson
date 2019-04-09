@@ -1,0 +1,64 @@
+{
+  "id": 1209463139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.13774,26.72847,87.13774,26.72847",
+    "geom:latitude":26.72847,
+    "geom:longitude":87.13774,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"6.0",
+    "gn:admin4_code":"60036.0",
+    "gn:asciiname":"Kalapani",
+    "gn:country_code":"NP",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7998100,
+    "gn:latitude":26.72847,
+    "gn:longitude":87.13774,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kalapani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7998100
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"4c318811fd4bf70c6e4c99e8e1cacbed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209463139
+        }
+    ],
+    "wof:id":1209463139,
+    "wof:lastmodified":1536286318,
+    "wof:name":"Kalapani",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.13774000000002,
+    26.72847,
+    87.13774000000002,
+    26.72847
+],
+  "geometry": {"coordinates":[87.13774000000002,26.72847],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1193219705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.12833,27.88167,84.12833,27.88167",
+    "geom:latitude":27.88167,
+    "geom:longitude":84.12833,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380042.0",
+    "gn:asciiname":"Pipalswanra",
+    "gn:country_code":"NP",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8004560,
+    "gn:latitude":27.88167,
+    "gn:longitude":84.12833,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pipalswanra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8004560
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b7c2594848ef7b7b60f22b3313e26afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1193219705,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1193219705,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1193219705,
+    "wof:lastmodified":1536376778,
+    "wof:name":"Pipalswanra",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.12833,
+    27.88167,
+    84.12833,
+    27.88167
+],
+  "geometry": {"coordinates":[84.12833000000001,27.88167],"type":"Point"}
+}

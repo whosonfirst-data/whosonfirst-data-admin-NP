@@ -1,0 +1,64 @@
+{
+  "id": 1209548441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.3508,28.24792,82.3508,28.24792",
+    "geom:latitude":28.24792,
+    "geom:longitude":82.3508,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550014",
+    "gn:asciiname":"Mulpani",
+    "gn:country_code":"NP",
+    "gn:dem":1499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7988343,
+    "gn:latitude":28.24792,
+    "gn:longitude":82.3508,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mulpani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7988343
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d963cb3d00bdff178fd75c69668414af",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209548441
+        }
+    ],
+    "wof:id":1209548441,
+    "wof:lastmodified":1536283770,
+    "wof:name":"Mulpani",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.3508,
+    28.24792,
+    82.3508,
+    28.24792
+],
+  "geometry": {"coordinates":[82.35080000000001,28.24792],"type":"Point"}
+}

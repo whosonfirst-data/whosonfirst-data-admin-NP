@@ -1,0 +1,70 @@
+{
+  "id": 1344185409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.37275,29.74741,80.37275,29.74741",
+    "geom:latitude":29.74741,
+    "geom:longitude":80.37275,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"75.0",
+    "gn:admin4_code":"750041.0",
+    "gn:asciiname":"Talli Chauki",
+    "gn:country_code":"NP",
+    "gn:dem":764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7941070,
+    "gn:latitude":29.74741,
+    "gn:longitude":80.37275,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Talli Chauki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632469,
+        85672209,
+        890503669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7941070
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"667a68a19b5a525a32c6a29dc7957c67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890503669,
+            "locality_id":1344185409,
+            "region_id":85672209
+        }
+    ],
+    "wof:id":1344185409,
+    "wof:lastmodified":1536695611,
+    "wof:name":"Talli Chauki",
+    "wof:parent_id":890503669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.37275,
+    29.74741,
+    80.37275,
+    29.74741
+],
+  "geometry": {"coordinates":[80.37275,29.74741],"type":"Point"}
+}

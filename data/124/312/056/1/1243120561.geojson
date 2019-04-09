@@ -1,0 +1,78 @@
+{
+  "id": 1243120561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.1409,27.29272,85.1409,27.29272",
+    "geom:latitude":27.29272,
+    "geom:longitude":85.1409,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"31",
+    "gn:admin4_code":"310040",
+    "gn:asciiname":"Morangdhap",
+    "gn:country_code":"NP",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7969252,
+    "gn:latitude":27.29272,
+    "gn:longitude":85.1409,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Morangdhap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675585,
+        1092049017,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7969252
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"deaa06dfb82b2ec6be08a77e402cc6a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1243120561,
+            "region_id":85675585
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049017,
+            "locality_id":1243120561,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1243120561,
+    "wof:lastmodified":1536779007,
+    "wof:name":"Morangdhap",
+    "wof:parent_id":1092049017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.1409,
+    27.29272000000001,
+    85.1409,
+    27.29272000000001
+],
+  "geometry": {"coordinates":[85.1409,27.29272000000001],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343492187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.8103,29.52631,81.8103,29.52631",
+    "geom:latitude":29.52631,
+    "geom:longitude":81.8103,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"65",
+    "gn:admin4_code":"650005",
+    "gn:asciiname":"Tham Lek",
+    "gn:country_code":"NP",
+    "gn:dem":1584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7971440,
+    "gn:latitude":29.52631,
+    "gn:longitude":81.8103,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tham Lek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092048339,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7971440
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"edad0122e73b69531c06d62c72ec4af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048339,
+            "locality_id":1343492187,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048339,
+            "locality_id":1343492187,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1343492187,
+    "wof:lastmodified":1536700693,
+    "wof:name":"Tham Lek",
+    "wof:parent_id":1092048339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.8103,
+    29.52631,
+    81.8103,
+    29.52631
+],
+  "geometry": {"coordinates":[81.8103,29.52631],"type":"Point"}
+}

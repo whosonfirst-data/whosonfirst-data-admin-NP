@@ -1,0 +1,64 @@
+{
+  "id": 1209162417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.42397,27.48392,83.42397,27.48392",
+    "geom:latitude":27.48392,
+    "geom:longitude":83.42397,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"49",
+    "gn:admin4_code":"490063",
+    "gn:asciiname":"Badki Piparahiya",
+    "gn:country_code":"NP",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7987715,
+    "gn:latitude":27.48392,
+    "gn:longitude":83.42397,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Badki Piparahiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7987715
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9c104de9056fca15b038c86959c65e62",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209162417
+        }
+    ],
+    "wof:id":1209162417,
+    "wof:lastmodified":1536295853,
+    "wof:name":"Badki Piparahiya",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.42397,
+    27.48392,
+    83.42397,
+    27.48392
+],
+  "geometry": {"coordinates":[83.42397,27.48392],"type":"Point"}
+}

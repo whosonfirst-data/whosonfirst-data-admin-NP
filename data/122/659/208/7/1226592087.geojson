@@ -1,0 +1,78 @@
+{
+  "id": 1226592087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.42355,27.13266,86.42355,27.13266",
+    "geom:latitude":27.13266,
+    "geom:longitude":86.42355,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140021.0",
+    "gn:asciiname":"Bhirpani",
+    "gn:country_code":"NP",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007090,
+    "gn:latitude":27.13266,
+    "gn:longitude":86.42355,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhirpani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050179,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007090
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"799626aaaef6d742b28ccfe3379b5b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1226592087,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1226592087,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1226592087,
+    "wof:lastmodified":1536934720,
+    "wof:name":"Bhirpani",
+    "wof:parent_id":1092050179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.42355,
+    27.13266,
+    86.42355,
+    27.13266
+],
+  "geometry": {"coordinates":[86.42355000000001,27.13266],"type":"Point"}
+}

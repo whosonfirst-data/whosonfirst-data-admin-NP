@@ -1,0 +1,78 @@
+{
+  "id": 1327082555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.6996,27.64893,84.6996,27.64893",
+    "geom:latitude":27.64893,
+    "geom:longitude":84.6996,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"35.0",
+    "gn:admin4_code":"350022.0",
+    "gn:asciiname":"Chaithali",
+    "gn:country_code":"NP",
+    "gn:dem":866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7934696,
+    "gn:latitude":27.64893,
+    "gn:longitude":84.6996,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chaithali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092050101,
+        85675585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7934696
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cdb0154ecf9ff3ec9d3a6cf2228ba795",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":1327082555,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":1327082555,
+            "region_id":85675585
+        }
+    ],
+    "wof:id":1327082555,
+    "wof:lastmodified":1536688359,
+    "wof:name":"Chaithali",
+    "wof:parent_id":1092050101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.6996,
+    27.64893,
+    84.6996,
+    27.64893
+],
+  "geometry": {"coordinates":[84.6996,27.64893],"type":"Point"}
+}

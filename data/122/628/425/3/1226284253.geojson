@@ -1,0 +1,78 @@
+{
+  "id": 1226284253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.84068,28.03142,83.84068,28.03142",
+    "geom:latitude":28.03142,
+    "geom:longitude":83.84068,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"39.0",
+    "gn:admin4_code":"390007.0",
+    "gn:asciiname":"Deaurali",
+    "gn:country_code":"NP",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8000724,
+    "gn:latitude":28.03142,
+    "gn:longitude":83.84068,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Deaurali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050939,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8000724
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"20223996be8567a74394bd276a4ec450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1226284253,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050939,
+            "locality_id":1226284253,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1226284253,
+    "wof:lastmodified":1536877299,
+    "wof:name":"Deaurali",
+    "wof:parent_id":1092050939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.84068,
+    28.03142,
+    83.84068,
+    28.03142
+],
+  "geometry": {"coordinates":[83.84068000000001,28.03142],"type":"Point"}
+}

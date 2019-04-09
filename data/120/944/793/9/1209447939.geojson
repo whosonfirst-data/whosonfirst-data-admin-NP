@@ -1,0 +1,64 @@
+{
+  "id": 1209447939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.55634,28.24693,82.55634,28.24693",
+    "geom:latitude":28.24693,
+    "geom:longitude":82.55634,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530041",
+    "gn:asciiname":"Arkale",
+    "gn:country_code":"NP",
+    "gn:dem":1786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7984491,
+    "gn:latitude":28.24693,
+    "gn:longitude":82.55634,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Arkale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7984491
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"2353c1c16b99f21a8764534b7ef45c1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209447939
+        }
+    ],
+    "wof:id":1209447939,
+    "wof:lastmodified":1536286760,
+    "wof:name":"Arkale",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.55634,
+    28.24693,
+    82.55634,
+    28.24693
+],
+  "geometry": {"coordinates":[82.55634000000001,28.24693],"type":"Point"}
+}

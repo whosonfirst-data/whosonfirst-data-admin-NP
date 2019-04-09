@@ -1,0 +1,78 @@
+{
+  "id": 1209748229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.33662,28.36151,81.33662,28.36151",
+    "geom:latitude":28.36151,
+    "geom:longitude":81.33662,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"58.0",
+    "gn:admin4_code":"580003.0",
+    "gn:asciiname":"Narayanpur",
+    "gn:country_code":"NP",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8009310,
+    "gn:latitude":28.36151,
+    "gn:longitude":81.33662,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Narayanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092048097,
+        85675549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8009310
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"e49351c3bd53753e0c80b3a18d0736a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1209748229,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048097,
+            "locality_id":1209748229,
+            "region_id":85675549
+        }
+    ],
+    "wof:id":1209748229,
+    "wof:lastmodified":1536393985,
+    "wof:name":"Narayanpur",
+    "wof:parent_id":1092048097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.33662,
+    28.36151,
+    81.33662,
+    28.36151
+],
+  "geometry": {"coordinates":[81.33662,28.36151],"type":"Point"}
+}

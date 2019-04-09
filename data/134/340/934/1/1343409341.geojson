@@ -1,0 +1,78 @@
+{
+  "id": 1343409341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.61157,28.03558,83.61157,28.03558",
+    "geom:latitude":28.03558,
+    "geom:longitude":83.61157,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"44",
+    "gn:admin4_code":"440044",
+    "gn:asciiname":"Gahate",
+    "gn:country_code":"NP",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7978935,
+    "gn:latitude":28.03558,
+    "gn:longitude":83.61157,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gahate",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807129,
+        1092049297,
+        85675553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7978935
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0822b5349a532eec3156f919a83005a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049297,
+            "locality_id":1343409341,
+            "region_id":1108807129
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049297,
+            "locality_id":1343409341,
+            "region_id":85675553
+        }
+    ],
+    "wof:id":1343409341,
+    "wof:lastmodified":1536819211,
+    "wof:name":"Gahate",
+    "wof:parent_id":1092049297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.61157,
+    28.03558,
+    83.61157,
+    28.03558
+],
+  "geometry": {"coordinates":[83.61157,28.03558],"type":"Point"}
+}

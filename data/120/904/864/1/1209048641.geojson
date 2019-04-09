@@ -1,0 +1,64 @@
+{
+  "id": 1209048641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.12492,26.77636,86.12492,26.77636",
+    "geom:latitude":26.77636,
+    "geom:longitude":86.12492,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"17.0",
+    "gn:admin4_code":"170007.0",
+    "gn:asciiname":"Laksmipur Birta",
+    "gn:country_code":"NP",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7943539,
+    "gn:latitude":26.77636,
+    "gn:longitude":86.12492,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Laksmipur Birta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7943539
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"30fda183c330dfba15070d23cb4edf53",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209048641
+        }
+    ],
+    "wof:id":1209048641,
+    "wof:lastmodified":1536299319,
+    "wof:name":"Laksmipur Birta",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.12491999999997,
+    26.77636,
+    86.12491999999997,
+    26.77636
+],
+  "geometry": {"coordinates":[86.12491999999997,26.77636],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226384315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.90961,26.5266,87.90961,26.5266",
+    "geom:latitude":26.5266,
+    "geom:longitude":87.90961,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40009.0",
+    "gn:asciiname":"Mainaligaun",
+    "gn:country_code":"NP",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7954065,
+    "gn:latitude":26.5266,
+    "gn:longitude":87.90961,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mainaligaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7954065
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f9023894f8212dd6b4067819b5da278e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1226384315,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1226384315,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1226384315,
+    "wof:lastmodified":1536734180,
+    "wof:name":"Mainaligaun",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.90961,
+    26.5266,
+    87.90961,
+    26.5266
+],
+  "geometry": {"coordinates":[87.90961,26.5266],"type":"Point"}
+}

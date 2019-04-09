@@ -1,0 +1,78 @@
+{
+  "id": 1209942883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.66334,28.37936,82.66334,28.37936",
+    "geom:latitude":28.37936,
+    "geom:longitude":82.66334,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"53",
+    "gn:admin4_code":"530005",
+    "gn:asciiname":"Jebjabang",
+    "gn:country_code":"NP",
+    "gn:dem":1691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7983032,
+    "gn:latitude":28.37936,
+    "gn:longitude":82.66334,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Jebjabang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675605,
+        1092049455,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7983032
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a2c75a47849a78fc38ebd07fa63ef792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1209942883,
+            "region_id":85675605
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049455,
+            "locality_id":1209942883,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1209942883,
+    "wof:lastmodified":1536387704,
+    "wof:name":"Jebjabang",
+    "wof:parent_id":1092049455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.66334,
+    28.37936,
+    82.66334,
+    28.37936
+],
+  "geometry": {"coordinates":[82.66334000000001,28.37936],"type":"Point"}
+}

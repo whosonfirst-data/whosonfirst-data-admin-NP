@@ -1,0 +1,78 @@
+{
+  "id": 1259711927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.20063,28.675,82.20063,28.675",
+    "geom:latitude":28.675,
+    "geom:longitude":82.20063,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"54",
+    "gn:admin4_code":"540006",
+    "gn:asciiname":"Amachaur",
+    "gn:country_code":"NP",
+    "gn:dem":841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7985170,
+    "gn:latitude":28.675,
+    "gn:longitude":82.20063,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Amachaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049495,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7985170
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9ae1968c8344b4c480d2c5df0bc522d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1259711927,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1259711927,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1259711927,
+    "wof:lastmodified":1537025100,
+    "wof:name":"Amachaur",
+    "wof:parent_id":1092049495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.20063,
+    28.675,
+    82.20063,
+    28.675
+],
+  "geometry": {"coordinates":[82.20063,28.675],"type":"Point"}
+}

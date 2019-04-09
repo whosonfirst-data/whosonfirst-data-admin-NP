@@ -1,0 +1,64 @@
+{
+  "id": 1209256719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.05978,26.8618,86.05978,26.8618",
+    "geom:latitude":26.8618,
+    "geom:longitude":86.05978,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"17.0",
+    "gn:admin4_code":"170102.0",
+    "gn:asciiname":"Bhagawanpur (Nayantol)",
+    "gn:country_code":"NP",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7944176,
+    "gn:latitude":26.8618,
+    "gn:longitude":86.05978,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhagawanpur (Nayantol)",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7944176
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7e7e1af07140d4e366999b07e6acb0de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209256719
+        }
+    ],
+    "wof:id":1209256719,
+    "wof:lastmodified":1536292828,
+    "wof:name":"Bhagawanpur (Nayantol)",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.05978,
+    26.8618,
+    86.05978,
+    26.8618
+],
+  "geometry": {"coordinates":[86.05978,26.8618],"type":"Point"}
+}

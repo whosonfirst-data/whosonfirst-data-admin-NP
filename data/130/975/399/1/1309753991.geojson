@@ -1,0 +1,78 @@
+{
+  "id": 1309753991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.41308,27.52862,83.41308,27.52862",
+    "geom:latitude":27.52862,
+    "geom:longitude":83.41308,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"49",
+    "gn:admin4_code":"490029",
+    "gn:asciiname":"Mahuwari",
+    "gn:country_code":"NP",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7987193,
+    "gn:latitude":27.52862,
+    "gn:longitude":83.41308,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mahuwari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048457,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7987193
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a9ed28a01069839b863762d0a6acb8d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1309753991,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048457,
+            "locality_id":1309753991,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1309753991,
+    "wof:lastmodified":1537005057,
+    "wof:name":"Mahuwari",
+    "wof:parent_id":1092048457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.41308000000002,
+    27.52862,
+    83.41308000000002,
+    27.52862
+],
+  "geometry": {"coordinates":[83.41308000000002,27.52862],"type":"Point"}
+}

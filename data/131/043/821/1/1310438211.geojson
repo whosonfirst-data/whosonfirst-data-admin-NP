@@ -1,0 +1,78 @@
+{
+  "id": 1310438211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.75599,28.48682,81.75599,28.48682",
+    "geom:latitude":28.48682,
+    "geom:longitude":81.75599,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590013.0",
+    "gn:asciiname":"Tallo Ghumti",
+    "gn:country_code":"NP",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7998893,
+    "gn:latitude":28.48682,
+    "gn:longitude":81.75599,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Tallo Ghumti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7998893
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7965c4004844dd08845e72a1d71c78fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1310438211,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1310438211,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1310438211,
+    "wof:lastmodified":1537013417,
+    "wof:name":"Tallo Ghumti",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.75599,
+    28.48682,
+    81.75599,
+    28.48682
+],
+  "geometry": {"coordinates":[81.75599,28.48682],"type":"Point"}
+}

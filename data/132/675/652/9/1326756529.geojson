@@ -1,0 +1,78 @@
+{
+  "id": 1326756529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.89262,29.17241,81.89262,29.17241",
+    "geom:latitude":29.17241,
+    "geom:longitude":81.89262,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"6",
+    "gn:admin3_code":"64.0",
+    "gn:admin4_code":"640024.0",
+    "gn:asciiname":"Sipali",
+    "gn:country_code":"NP",
+    "gn:dem":2380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7958393,
+    "gn:latitude":29.17241,
+    "gn:longitude":81.89262,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sipali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092048809,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7958393
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f9864afe004c855c0c5914cb3a00bda7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048809,
+            "locality_id":1326756529,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048809,
+            "locality_id":1326756529,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1326756529,
+    "wof:lastmodified":1536660799,
+    "wof:name":"Sipali",
+    "wof:parent_id":1092048809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.89262,
+    29.17241,
+    81.89262,
+    29.17241
+],
+  "geometry": {"coordinates":[81.89261999999999,29.17241],"type":"Point"}
+}

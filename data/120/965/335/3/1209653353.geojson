@@ -1,0 +1,64 @@
+{
+  "id": 1209653353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.206,27.86282,85.206,27.86282",
+    "geom:latitude":27.86282,
+    "geom:longitude":85.206,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"28",
+    "gn:admin4_code":"280038",
+    "gn:asciiname":"Syaun",
+    "gn:country_code":"NP",
+    "gn:dem":693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7974449,
+    "gn:latitude":27.86282,
+    "gn:longitude":85.206,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Syaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7974449
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7a602670079945b61b819934355c429f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209653353
+        }
+    ],
+    "wof:id":1209653353,
+    "wof:lastmodified":1536280516,
+    "wof:name":"Syaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.206,
+    27.862820000000006,
+    85.206,
+    27.862820000000006
+],
+  "geometry": {"coordinates":[85.206,27.86282000000001],"type":"Point"}
+}

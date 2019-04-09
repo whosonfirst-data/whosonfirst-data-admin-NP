@@ -1,0 +1,78 @@
+{
+  "id": 1360210853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"80.5186,28.81909,80.5186,28.81909",
+    "geom:latitude":28.81909,
+    "geom:longitude":80.5186,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"72.0",
+    "gn:admin4_code":"720009.0",
+    "gn:asciiname":"Chaukidanda",
+    "gn:country_code":"NP",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7958736,
+    "gn:latitude":28.81909,
+    "gn:longitude":80.5186,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Chaukidanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807135,
+        1092048743,
+        85675571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7958736
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"cb65112c29e2b80ea1dc9e9b89488ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1360210853,
+            "region_id":1108807135
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048743,
+            "locality_id":1360210853,
+            "region_id":85675571
+        }
+    ],
+    "wof:id":1360210853,
+    "wof:lastmodified":1536764704,
+    "wof:name":"Chaukidanda",
+    "wof:parent_id":1092048743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    80.5186,
+    28.81909000000001,
+    80.5186,
+    28.81909000000001
+],
+  "geometry": {"coordinates":[80.51860000000001,28.81909000000001],"type":"Point"}
+}

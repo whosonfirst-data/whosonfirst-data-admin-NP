@@ -1,0 +1,64 @@
+{
+  "id": 1209548491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.02067,29.60727,81.02067,29.60727",
+    "geom:latitude":29.60727,
+    "geom:longitude":81.02067,
+    "gn:admin1_code":"FR",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"68",
+    "gn:admin4_code":"680027",
+    "gn:asciiname":"Macha",
+    "gn:country_code":"NP",
+    "gn:dem":2849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7993940,
+    "gn:latitude":29.60727,
+    "gn:longitude":81.02067,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Macha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7993940
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"dfa21d41dd42ee43e1f0cf70707204c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209548491
+        }
+    ],
+    "wof:id":1209548491,
+    "wof:lastmodified":1536283769,
+    "wof:name":"Macha",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.02067,
+    29.60727,
+    81.02067,
+    29.60727
+],
+  "geometry": {"coordinates":[81.02067,29.60727],"type":"Point"}
+}

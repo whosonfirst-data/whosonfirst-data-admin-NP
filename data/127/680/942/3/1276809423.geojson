@@ -1,0 +1,78 @@
+{
+  "id": 1276809423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.90287,28.28352,84.90287,28.28352",
+    "geom:latitude":28.28352,
+    "geom:longitude":84.90287,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360034.0",
+    "gn:asciiname":"Labuchet",
+    "gn:country_code":"NP",
+    "gn:dem":1161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7948741,
+    "gn:latitude":28.28352,
+    "gn:longitude":84.90287,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Labuchet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050351,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7948741
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9d53828349b31f71b59e28c9b26e907d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1276809423,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050351,
+            "locality_id":1276809423,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1276809423,
+    "wof:lastmodified":1536636711,
+    "wof:name":"Labuchet",
+    "wof:parent_id":1092050351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.90287,
+    28.28352000000001,
+    84.90287,
+    28.28352000000001
+],
+  "geometry": {"coordinates":[84.90286999999999,28.28352000000001],"type":"Point"}
+}

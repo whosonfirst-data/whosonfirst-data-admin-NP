@@ -1,0 +1,81 @@
+{
+  "id": 1226762079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.98391,27.33226,85.98391,27.33226",
+    "geom:latitude":27.33226,
+    "geom:longitude":85.98391,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dadakateri",
+    "gn:country_code":"NP",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10325791,
+    "gn:latitude":27.33226,
+    "gn:longitude":85.98391,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"\u1e0c\u0101\u0303\u1e0d\u0101ka\u1e6deri\u0307\u0304",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "\u1e0c\u0101n\u1e0d\u0101ka\u1e6der\u012b"
+    ],
+    "name:und_x_variant":[
+        "\u1e0c\u0101\u0303\u1e0d\u0101ka\u1e6deri\u0307\u0304"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049679,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10325791
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"28c9d3da363d60c58e7f03af44f7025e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1226762079,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1226762079,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1226762079,
+    "wof:lastmodified":1537676095,
+    "wof:name":"Dadakateri",
+    "wof:parent_id":1092049679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.98391,
+    27.33226,
+    85.98391,
+    27.33226
+],
+  "geometry": {"coordinates":[85.98390999999999,27.33226],"type":"Point"}
+}

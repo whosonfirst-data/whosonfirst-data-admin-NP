@@ -1,0 +1,78 @@
+{
+  "id": 1243487153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.75922,28.72842,82.75922,28.72842",
+    "geom:latitude":28.72842,
+    "geom:longitude":82.75922,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"54",
+    "gn:admin4_code":"540015",
+    "gn:asciiname":"Lal paun",
+    "gn:country_code":"NP",
+    "gn:dem":3858,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7985512,
+    "gn:latitude":28.72842,
+    "gn:longitude":82.75922,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Lal paun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049495,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7985512
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"f0b1eb0090c0ab87de8e14afbf1a2d27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1243487153,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "locality_id":1243487153,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1243487153,
+    "wof:lastmodified":1536746619,
+    "wof:name":"Lal paun",
+    "wof:parent_id":1092049495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.75922,
+    28.72842,
+    82.75922,
+    28.72842
+],
+  "geometry": {"coordinates":[82.75922,28.72842],"type":"Point"}
+}

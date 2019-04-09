@@ -1,0 +1,78 @@
+{
+  "id": 1293138329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.42163,28.06846,84.42163,28.06846",
+    "geom:latitude":28.06846,
+    "geom:longitude":84.42163,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380006.0",
+    "gn:asciiname":"Kudule",
+    "gn:country_code":"NP",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002899,
+    "gn:latitude":28.06846,
+    "gn:longitude":84.42163,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kudule",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002899
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ad7973360da9245ac07afe5e6fab407a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1293138329,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1293138329,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1293138329,
+    "wof:lastmodified":1536793661,
+    "wof:name":"Kudule",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.42163000000002,
+    28.06846,
+    84.42163000000002,
+    28.06846
+],
+  "geometry": {"coordinates":[84.42163000000002,28.06846],"type":"Point"}
+}

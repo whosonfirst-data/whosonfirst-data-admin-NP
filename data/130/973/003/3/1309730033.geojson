@@ -1,0 +1,78 @@
+{
+  "id": 1309730033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.1093,26.62305,87.1093,26.62305",
+    "geom:latitude":26.62305,
+    "geom:longitude":87.1093,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mohototol",
+    "gn:country_code":"NP",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11605852,
+    "gn:latitude":26.62305,
+    "gn:longitude":87.1093,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Mohoto\u1e6dol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "Mohoto\u1e6dol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049923,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11605852
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"c0a92ff6c54dbc8e2db6e0ad3ad06869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1309730033,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1309730033,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1309730033,
+    "wof:lastmodified":1537676121,
+    "wof:name":"Mohototol",
+    "wof:parent_id":1092049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.1093,
+    26.62305,
+    87.1093,
+    26.62305
+],
+  "geometry": {"coordinates":[87.1093,26.62305],"type":"Point"}
+}

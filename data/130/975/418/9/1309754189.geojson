@@ -1,0 +1,78 @@
+{
+  "id": 1309754189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"88.06172,26.53215,88.06172,26.53215",
+    "geom:latitude":26.53215,
+    "geom:longitude":88.06172,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10",
+    "gn:admin3_code":"4.0",
+    "gn:admin4_code":"40036.0",
+    "gn:asciiname":"Rangedanda",
+    "gn:country_code":"NP",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7954992,
+    "gn:latitude":26.53215,
+    "gn:longitude":88.06172,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Rangedanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092050367,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7954992
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"71959a1fe75f0a7b423866c172ed7b54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1309754189,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050367,
+            "locality_id":1309754189,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1309754189,
+    "wof:lastmodified":1537004795,
+    "wof:name":"Rangedanda",
+    "wof:parent_id":1092050367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    88.06172,
+    26.53215,
+    88.06172,
+    26.53215
+],
+  "geometry": {"coordinates":[88.06171999999999,26.53215],"type":"Point"}
+}

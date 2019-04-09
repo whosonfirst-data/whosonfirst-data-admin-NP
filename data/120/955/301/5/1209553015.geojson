@@ -1,0 +1,64 @@
+{
+  "id": 1209553015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.97667,28.1953,83.97667,28.1953",
+    "geom:latitude":28.1953,
+    "geom:longitude":83.97667,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"40.0",
+    "gn:admin4_code":"400032.0",
+    "gn:asciiname":"Ghari Patan",
+    "gn:country_code":"NP",
+    "gn:dem":811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7961424,
+    "gn:latitude":28.1953,
+    "gn:longitude":83.97667,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ghari Patan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7961424
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"efb0eabf2016c98cd781c89624cb4509",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209553015
+        }
+    ],
+    "wof:id":1209553015,
+    "wof:lastmodified":1536283634,
+    "wof:name":"Ghari Patan",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.97667,
+    28.1953,
+    83.97667,
+    28.1953
+],
+  "geometry": {"coordinates":[83.97667,28.1953],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1259725443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.99627,26.56495,86.99627,26.56495",
+    "geom:latitude":26.56495,
+    "geom:longitude":86.99627,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7.0",
+    "gn:admin3_code":"6.0",
+    "gn:admin4_code":"60025.0",
+    "gn:asciiname":"Haripur",
+    "gn:country_code":"NP",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7997879,
+    "gn:latitude":26.56495,
+    "gn:longitude":86.99627,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Haripur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092049923,
+        85675593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7997879
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"0f3051da4f8c9b1b6f98014de7bde19b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1259725443,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049923,
+            "locality_id":1259725443,
+            "region_id":85675593
+        }
+    ],
+    "wof:id":1259725443,
+    "wof:lastmodified":1537005930,
+    "wof:name":"Haripur",
+    "wof:parent_id":1092049923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.99627,
+    26.56495,
+    86.99627,
+    26.56495
+],
+  "geometry": {"coordinates":[86.99627,26.56495],"type":"Point"}
+}

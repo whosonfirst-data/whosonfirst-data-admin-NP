@@ -1,0 +1,78 @@
+{
+  "id": 1193184163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.19666,27.16743,87.19666,27.16743",
+    "geom:latitude":27.16743,
+    "geom:longitude":87.19666,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"10.0",
+    "gn:admin4_code":"100062.0",
+    "gn:asciiname":"Barha Pokhari",
+    "gn:country_code":"NP",
+    "gn:dem":1611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7933993,
+    "gn:latitude":27.16743,
+    "gn:longitude":87.19666,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Barha Pokhari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675593,
+        1092049883,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7933993
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"8208a32a28e22b7f46e9c0bfcc050da9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1193184163,
+            "region_id":85675593
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049883,
+            "locality_id":1193184163,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1193184163,
+    "wof:lastmodified":1536367078,
+    "wof:name":"Barha Pokhari",
+    "wof:parent_id":1092049883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.19666,
+    27.16743,
+    87.19666,
+    27.16743
+],
+  "geometry": {"coordinates":[87.19665999999999,27.16743],"type":"Point"}
+}

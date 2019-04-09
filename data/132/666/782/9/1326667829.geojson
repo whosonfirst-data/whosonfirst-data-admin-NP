@@ -1,0 +1,78 @@
+{
+  "id": 1326667829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.4554,27.99198,85.4554,27.99198",
+    "geom:latitude":27.99198,
+    "geom:longitude":85.4554,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"28",
+    "gn:admin4_code":"280023",
+    "gn:asciiname":"Ghyabarchaur",
+    "gn:country_code":"NP",
+    "gn:dem":1977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7974067,
+    "gn:latitude":27.99198,
+    "gn:longitude":85.4554,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Ghyabarchaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049133,
+        85675575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7974067
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"950cf94a5bb11645600ee3ea7d42df18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1326667829,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049133,
+            "locality_id":1326667829,
+            "region_id":85675575
+        }
+    ],
+    "wof:id":1326667829,
+    "wof:lastmodified":1536788965,
+    "wof:name":"Ghyabarchaur",
+    "wof:parent_id":1092049133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.4554,
+    27.99198,
+    85.4554,
+    27.99198
+],
+  "geometry": {"coordinates":[85.4554,27.99198],"type":"Point"}
+}

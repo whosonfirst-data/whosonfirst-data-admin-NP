@@ -1,0 +1,79 @@
+{
+  "id": 1276133219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.70422,27.27731,85.70422,27.27731",
+    "geom:latitude":27.27731,
+    "geom:longitude":85.70422,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Deurati",
+    "gn:country_code":"NP",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10322986,
+    "gn:latitude":27.27731,
+    "gn:longitude":85.70422,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Deur\u0101ti\u0307\u0304",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deur\u0101ti\u0307\u0304",
+        "Deur\u0101t\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092049679,
+        85675579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10322986
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"b43fc6887249ceb3400eaf022aca94d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1276133219,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049679,
+            "locality_id":1276133219,
+            "region_id":85675579
+        }
+    ],
+    "wof:id":1276133219,
+    "wof:lastmodified":1537676092,
+    "wof:name":"Deurati",
+    "wof:parent_id":1092049679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.70421999999998,
+    27.27731,
+    85.70421999999998,
+    27.27731
+],
+  "geometry": {"coordinates":[85.70421999999998,27.27731],"type":"Point"}
+}

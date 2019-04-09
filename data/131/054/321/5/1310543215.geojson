@@ -1,0 +1,78 @@
+{
+  "id": 1310543215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.5481,27.67808,84.5481,27.67808",
+    "geom:latitude":27.67808,
+    "geom:longitude":84.5481,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"35.0",
+    "gn:admin4_code":"350017.0",
+    "gn:asciiname":"Bhateni",
+    "gn:country_code":"NP",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7934516,
+    "gn:latitude":27.67808,
+    "gn:longitude":84.5481,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bhateni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807143,
+        1092050101,
+        85675585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7934516
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"3cf345dfa3f1fddcdcea45673789e3a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":1310543215,
+            "region_id":1108807143
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050101,
+            "locality_id":1310543215,
+            "region_id":85675585
+        }
+    ],
+    "wof:id":1310543215,
+    "wof:lastmodified":1536861145,
+    "wof:name":"Bhateni",
+    "wof:parent_id":1092050101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.5481,
+    27.67808,
+    84.5481,
+    27.67808
+],
+  "geometry": {"coordinates":[84.54810000000001,27.67808],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209143339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.97858,27.98584,82.97858,27.98584",
+    "geom:latitude":27.98584,
+    "geom:longitude":82.97858,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"51.0",
+    "gn:admin4_code":"510004.0",
+    "gn:asciiname":"Sotighat",
+    "gn:country_code":"NP",
+    "gn:dem":659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7938763,
+    "gn:latitude":27.98584,
+    "gn:longitude":82.97858,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Sotighat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7938763
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"86bf57e6774d49dc5c8441eef1043dd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209143339
+        }
+    ],
+    "wof:id":1209143339,
+    "wof:lastmodified":1536296433,
+    "wof:name":"Sotighat",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.97858000000002,
+    27.985840000000003,
+    82.97858000000002,
+    27.985840000000003
+],
+  "geometry": {"coordinates":[82.97858000000002,27.98584],"type":"Point"}
+}

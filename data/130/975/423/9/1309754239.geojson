@@ -1,0 +1,78 @@
+{
+  "id": 1309754239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"87.72029,27.40001,87.72029,27.40001",
+    "geom:latitude":27.40001,
+    "geom:longitude":87.72029,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"10.0",
+    "gn:admin3_code":"1.0",
+    "gn:admin4_code":"10033.0",
+    "gn:asciiname":"Othe",
+    "gn:country_code":"NP",
+    "gn:dem":1944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8005551,
+    "gn:latitude":27.40001,
+    "gn:longitude":87.72029,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Othe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675597,
+        1092049813,
+        1108807139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8005551
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"62d12f6400e527f096562607c946467e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1309754239,
+            "region_id":85675597
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049813,
+            "locality_id":1309754239,
+            "region_id":1108807139
+        }
+    ],
+    "wof:id":1309754239,
+    "wof:lastmodified":1537004728,
+    "wof:name":"Othe",
+    "wof:parent_id":1092049813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    87.72029,
+    27.40001,
+    87.72029,
+    27.40001
+],
+  "geometry": {"coordinates":[87.72029000000001,27.40001],"type":"Point"}
+}

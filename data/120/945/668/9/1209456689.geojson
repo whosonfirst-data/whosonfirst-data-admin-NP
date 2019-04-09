@@ -1,0 +1,64 @@
+{
+  "id": 1209456689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.68751,28.03918,83.68751,28.03918",
+    "geom:latitude":28.03918,
+    "geom:longitude":83.68751,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"44",
+    "gn:admin4_code":"440026",
+    "gn:asciiname":"Kholaparigaun",
+    "gn:country_code":"NP",
+    "gn:dem":1005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7978584,
+    "gn:latitude":28.03918,
+    "gn:longitude":83.68751,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kholaparigaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7978584
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"df5bcd389ce0ab91cc422e2c91ceffb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209456689
+        }
+    ],
+    "wof:id":1209456689,
+    "wof:lastmodified":1536286509,
+    "wof:name":"Kholaparigaun",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.68751,
+    28.03918,
+    83.68751,
+    28.03918
+],
+  "geometry": {"coordinates":[83.68751,28.03918],"type":"Point"}
+}

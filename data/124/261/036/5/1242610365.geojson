@@ -1,0 +1,78 @@
+{
+  "id": 1242610365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.93611,28.54414,81.93611,28.54414",
+    "geom:latitude":28.54414,
+    "geom:longitude":81.93611,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590027.0",
+    "gn:asciiname":"Mulkholi",
+    "gn:country_code":"NP",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7999439,
+    "gn:latitude":28.54414,
+    "gn:longitude":81.93611,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Mulkholi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7999439
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ee8b1b716e9e7a8d5ca25be5312df149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1242610365,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1242610365,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1242610365,
+    "wof:lastmodified":1537015775,
+    "wof:name":"Mulkholi",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.93611,
+    28.54414,
+    81.93611,
+    28.54414
+],
+  "geometry": {"coordinates":[81.93611,28.54414],"type":"Point"}
+}

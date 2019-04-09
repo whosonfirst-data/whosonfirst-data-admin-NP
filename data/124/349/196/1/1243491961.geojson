@@ -1,0 +1,78 @@
+{
+  "id": 1243491961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"83.67512,28.44473,83.67512,28.44473",
+    "geom:latitude":28.44473,
+    "geom:longitude":83.67512,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"3",
+    "gn:admin3_code":"43",
+    "gn:admin4_code":"430037",
+    "gn:asciiname":"Shikha",
+    "gn:country_code":"NP",
+    "gn:dem":1914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7972608,
+    "gn:latitude":28.44473,
+    "gn:longitude":83.67512,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Shikha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675553,
+        1092049089,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7972608
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"7fea9eec7df89e8f96f11a3bc84d75cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049089,
+            "locality_id":1243491961,
+            "region_id":85675553
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049089,
+            "locality_id":1243491961,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1243491961,
+    "wof:lastmodified":1536739716,
+    "wof:name":"Shikha",
+    "wof:parent_id":1092049089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    83.67511999999998,
+    28.44473,
+    83.67511999999998,
+    28.44473
+],
+  "geometry": {"coordinates":[83.67511999999998,28.44473],"type":"Point"}
+}

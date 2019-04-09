@@ -1,0 +1,79 @@
+{
+  "id": 1260192583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.53845,29.58538,82.53845,29.58538",
+    "geom:latitude":29.58538,
+    "geom:longitude":82.53845,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dalphu",
+    "gn:country_code":"NP",
+    "gn:dem":3713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1283492,
+    "gn:latitude":29.58538,
+    "gn:longitude":82.53845,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dalphu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daiphu",
+        "Dalphu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807133,
+        1092048339,
+        85675557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1283492
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"d003589d7a8e0c66a890982eb932f9e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048339,
+            "locality_id":1260192583,
+            "region_id":1108807133
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048339,
+            "locality_id":1260192583,
+            "region_id":85675557
+        }
+    ],
+    "wof:id":1260192583,
+    "wof:lastmodified":1537676058,
+    "wof:name":"Dalphu",
+    "wof:parent_id":1092048339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.53845,
+    29.58538,
+    82.53845,
+    29.58538
+],
+  "geometry": {"coordinates":[82.53845,29.58538],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226380339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.49429,27.08327,86.49429,27.08327",
+    "geom:latitude":27.08327,
+    "geom:longitude":86.49429,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"14.0",
+    "gn:admin4_code":"140026.0",
+    "gn:asciiname":"Pipal Bhanjyang",
+    "gn:country_code":"NP",
+    "gn:dem":902,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8007251,
+    "gn:latitude":27.08327,
+    "gn:longitude":86.49429,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Pipal Bhanjyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807139,
+        1092050179,
+        85675589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8007251
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a0736c418352bae863c28033e49ece25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1226380339,
+            "region_id":1108807139
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050179,
+            "locality_id":1226380339,
+            "region_id":85675589
+        }
+    ],
+    "wof:id":1226380339,
+    "wof:lastmodified":1536739494,
+    "wof:name":"Pipal Bhanjyang",
+    "wof:parent_id":1092050179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.49429,
+    27.08327,
+    86.49429,
+    27.08327
+],
+  "geometry": {"coordinates":[86.49429000000001,27.08327],"type":"Point"}
+}

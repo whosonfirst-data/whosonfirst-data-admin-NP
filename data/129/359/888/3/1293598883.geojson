@@ -1,0 +1,81 @@
+{
+  "id": 1293598883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.90704,28.08244,84.90704,28.08244",
+    "geom:latitude":28.08244,
+    "geom:longitude":84.90704,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Dhadkharka",
+    "gn:country_code":"NP",
+    "gn:dem":1513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10337440,
+    "gn:latitude":28.08244,
+    "gn:longitude":84.90704,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"\u1e0ch\u0101\u0303\u1e0dkharka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "\u1e0c\u0101\u0303\u1e0d\u0101kharka"
+    ],
+    "name:und_x_variant":[
+        "\u1e0ch\u0101\u0303\u1e0dkharka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092050661,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10337440
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"ef7ca19fde7fe7c0203345f85ec1ff6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1293598883,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050661,
+            "locality_id":1293598883,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1293598883,
+    "wof:lastmodified":1537676106,
+    "wof:name":"Dhadkharka",
+    "wof:parent_id":1092050661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.90704000000002,
+    28.08244,
+    84.90704000000002,
+    28.08244
+],
+  "geometry": {"coordinates":[84.90704000000002,28.08244],"type":"Point"}
+}

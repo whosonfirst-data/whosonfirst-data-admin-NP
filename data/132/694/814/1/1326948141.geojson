@@ -1,0 +1,75 @@
+{
+  "id": 1326948141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"85.60774,27.72937,85.60774,27.72937",
+    "geom:latitude":27.72937,
+    "geom:longitude":85.60774,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Lamsalthumka",
+    "gn:country_code":"NP",
+    "gn:dem":1044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10321048,
+    "gn:latitude":27.72937,
+    "gn:longitude":85.60774,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Lams\u0101lthumk\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675575,
+        1092048887,
+        1108807143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10321048
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"9b6a2fdf957cd9f80b570679dd6b313b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1326948141,
+            "region_id":85675575
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048887,
+            "locality_id":1326948141,
+            "region_id":1108807143
+        }
+    ],
+    "wof:id":1326948141,
+    "wof:lastmodified":1536881200,
+    "wof:name":"Lamsalthumka",
+    "wof:parent_id":1092048887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    85.60774,
+    27.72937,
+    85.60774,
+    27.72937
+],
+  "geometry": {"coordinates":[85.60774000000001,27.72937],"type":"Point"}
+}

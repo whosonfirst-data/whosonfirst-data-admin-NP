@@ -1,0 +1,100 @@
+{
+  "id": 1125365245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.58333,28.75,82.58333,28.75",
+    "geom:latitude":28.75,
+    "geom:longitude":82.58333,
+    "gn:gn_country":"NP",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":199558,
+    "iso:country":"NP",
+    "lbl:latitude":28.75,
+    "lbl:longitude":82.58333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"NP",
+    "qs_pg:gn_country":"NP",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":1282843,
+    "qs_pg:gn_pop":199558,
+    "qs_pg:name":"Rukum",
+    "qs_pg:name_adm0":"Nepal",
+    "qs_pg:name_adm1":"Madhya Pashchimanchal",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":8,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":9,
+    "qs_pg:qs_id":956324,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
+    "qs_pg:woe_adm0":23424911,
+    "qs_pg:woe_id":23706727,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"quattroshapes_pg",
+    "woe:adm0_id":23424911,
+    "woe:name_adm0":"Nepal",
+    "woe:name_adm1":"Madhya Pashchimanchal",
+    "woe:placetype":"LocalAdmin",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        1108807131,
+        1092049495,
+        85675605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1282843,
+        "gp:id":23706727,
+        "qs:id":956324,
+        "qs_pg:id":956324
+    },
+    "wof:country":"NP",
+    "wof:created":1497047041,
+    "wof:geomhash":"caf07096df3c3c77dc853923193b9ca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "localadmin_id":1125365245,
+            "region_id":1108807131
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049495,
+            "localadmin_id":1125365245,
+            "region_id":85675605
+        }
+    ],
+    "wof:id":1125365245,
+    "wof:lastmodified":1534379388,
+    "wof:name":"Rukum",
+    "wof:parent_id":1092049495,
+    "wof:placetype":"localadmin",
+    "wof:population":199558,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421182841
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.58333,
+    28.75,
+    82.58333,
+    28.75
+],
+  "geometry": {"coordinates":[82.58333,28.75],"type":"Point"}
+}

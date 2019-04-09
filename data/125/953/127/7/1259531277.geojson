@@ -1,0 +1,78 @@
+{
+  "id": 1259531277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"84.48404,27.90138,84.48404,27.90138",
+    "geom:latitude":27.90138,
+    "geom:longitude":84.48404,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380001.0",
+    "gn:asciiname":"Kholakhanigaun",
+    "gn:country_code":"NP",
+    "gn:dem":977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8002632,
+    "gn:latitude":27.90138,
+    "gn:longitude":84.48404,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Kholakhanigaun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675547,
+        1092050053,
+        1108807129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8002632
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"02c9b983d02511d143fc1e5c02ac264e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1259531277,
+            "region_id":85675547
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092050053,
+            "locality_id":1259531277,
+            "region_id":1108807129
+        }
+    ],
+    "wof:id":1259531277,
+    "wof:lastmodified":1536790535,
+    "wof:name":"Kholakhanigaun",
+    "wof:parent_id":1092050053,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    84.48404000000002,
+    27.90138,
+    84.48404000000002,
+    27.90138
+],
+  "geometry": {"coordinates":[84.48404000000002,27.90138],"type":"Point"}
+}

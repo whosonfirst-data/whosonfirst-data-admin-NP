@@ -1,0 +1,64 @@
+{
+  "id": 1209452725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"86.74338,27.23752,86.74338,27.23752",
+    "geom:latitude":27.23752,
+    "geom:longitude":86.74338,
+    "gn:admin1_code":"ER",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"13",
+    "gn:admin4_code":"130055",
+    "gn:asciiname":"Habu",
+    "gn:country_code":"NP",
+    "gn:dem":1343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7964944,
+    "gn:latitude":27.23752,
+    "gn:longitude":86.74338,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Habu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7964944
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"343cb5e1bbd801d2939b0dc74be697b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632465,
+            "locality_id":1209452725
+        }
+    ],
+    "wof:id":1209452725,
+    "wof:lastmodified":1536286625,
+    "wof:name":"Habu",
+    "wof:parent_id":85632465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    86.74338,
+    27.23752,
+    86.74338,
+    27.23752
+],
+  "geometry": {"coordinates":[86.74338,27.23752],"type":"Point"}
+}

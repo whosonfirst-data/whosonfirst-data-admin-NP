@@ -1,0 +1,78 @@
+{
+  "id": 1293320891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"81.67595,28.43417,81.67595,28.43417",
+    "geom:latitude":28.43417,
+    "geom:longitude":81.67595,
+    "gn:admin1_code":"MR",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590032.0",
+    "gn:asciiname":"Gaujegaira",
+    "gn:country_code":"NP",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7999723,
+    "gn:latitude":28.43417,
+    "gn:longitude":81.67595,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Gaujegaira",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675549,
+        1092049963,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7999723
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"401bca5074e5444aeee861fed0eb275d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1293320891,
+            "region_id":85675549
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092049963,
+            "locality_id":1293320891,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1293320891,
+    "wof:lastmodified":1537026145,
+    "wof:name":"Gaujegaira",
+    "wof:parent_id":1092049963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    81.67595,
+    28.43417,
+    81.67595,
+    28.43417
+],
+  "geometry": {"coordinates":[81.67595,28.43417],"type":"Point"}
+}

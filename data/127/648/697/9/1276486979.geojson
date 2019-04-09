@@ -1,0 +1,78 @@
+{
+  "id": 1276486979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"82.99564,27.62049,82.99564,27.62049",
+    "geom:latitude":27.62049,
+    "geom:longitude":82.99564,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"50.0",
+    "gn:admin4_code":"500063.0",
+    "gn:asciiname":"Makurbat",
+    "gn:country_code":"NP",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7960008,
+    "gn:latitude":27.62049,
+    "gn:longitude":82.99564,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Makurbat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
+    "iso:country":"NP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632465,
+        85675561,
+        1092048259,
+        1108807131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7960008
+    },
+    "wof:country":"NP",
+    "wof:geomhash":"a6a45990a6ad6560be6524c50f3f9b98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1276486979,
+            "region_id":85675561
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632465,
+            "county_id":1092048259,
+            "locality_id":1276486979,
+            "region_id":1108807131
+        }
+    ],
+    "wof:id":1276486979,
+    "wof:lastmodified":1537067137,
+    "wof:name":"Makurbat",
+    "wof:parent_id":1092048259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-np",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    82.99564000000002,
+    27.62049,
+    82.99564000000002,
+    27.62049
+],
+  "geometry": {"coordinates":[82.99564000000002,27.62049],"type":"Point"}
+}
