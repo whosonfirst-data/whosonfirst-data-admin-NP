@@ -10,6 +10,15 @@
     "geom:latitude":26.991205,
     "geom:longitude":87.330599,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Dhankuta District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Dhankuta"
+    ],
     "lbl:latitude":26.985971,
     "lbl:longitude":87.316308,
     "meso:admin_1":"KOSHI",
@@ -51,6 +60,9 @@
         "Dhankutan piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Dhankuta"
+    ],
+    "name:fre_x_variant":[
         "district de Dhankuta"
     ],
     "name:ger_x_preferred":[
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":1092049207,
-    "wof:lastmodified":1536615136,
+    "wof:lastmodified":1555047490,
     "wof:name":"Dhankuta",
     "wof:parent_id":-1,
     "wof:placetype":"county",

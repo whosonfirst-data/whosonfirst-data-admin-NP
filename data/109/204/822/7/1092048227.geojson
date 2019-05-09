@@ -10,6 +10,15 @@
     "geom:latitude":28.85956,
     "geom:longitude":80.319615,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Kanchanpur District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Kanchanpur"
+    ],
     "lbl:latitude":28.890198,
     "lbl:longitude":80.323401,
     "meso:admin_1":"MAHAKALI",
@@ -48,6 +57,9 @@
         "Kanchanpurin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Kanchanpur"
+    ],
+    "name:fre_x_variant":[
         "district de Kanchanpur"
     ],
     "name:ger_x_preferred":[
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":1092048227,
-    "wof:lastmodified":1536615134,
+    "wof:lastmodified":1555047489,
     "wof:name":"Kanchanpur",
     "wof:parent_id":-1,
     "wof:placetype":"county",

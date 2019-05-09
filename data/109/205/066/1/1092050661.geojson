@@ -10,6 +10,15 @@
     "geom:latitude":27.955049,
     "geom:longitude":84.959887,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Dhading District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Dhading"
+    ],
     "lbl:latitude":27.911034,
     "lbl:longitude":84.874532,
     "meso:admin_1":"BAGMATI",
@@ -54,6 +63,9 @@
         "Dhadingin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Dhading"
+    ],
+    "name:fre_x_variant":[
         "district de Dhading"
     ],
     "name:ger_x_preferred":[
@@ -156,7 +168,7 @@
         }
     ],
     "wof:id":1092050661,
-    "wof:lastmodified":1536615138,
+    "wof:lastmodified":1555047493,
     "wof:name":"Dhading",
     "wof:parent_id":-1,
     "wof:placetype":"county",

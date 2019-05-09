@@ -10,6 +10,15 @@
     "geom:latitude":29.195102,
     "geom:longitude":81.752266,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Kalikot District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Kalikot"
+    ],
     "lbl:latitude":29.190263,
     "lbl:longitude":81.725414,
     "meso:admin_1":"KARNALI",
@@ -48,6 +57,9 @@
         "Kalikotin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Kalikot"
+    ],
+    "name:fre_x_variant":[
         "district de Kalikot"
     ],
     "name:ger_x_preferred":[
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":1092048809,
-    "wof:lastmodified":1536615135,
+    "wof:lastmodified":1555047490,
     "wof:name":"Kalikot",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -10,6 +10,15 @@
     "geom:latitude":26.650863,
     "geom:longitude":87.171979,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Sunsari District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Sunsari"
+    ],
     "lbl:latitude":26.648164,
     "lbl:longitude":87.168701,
     "meso:admin_1":"KOSHI",
@@ -51,6 +60,9 @@
         "Sunsari District"
     ],
     "name:fre_x_preferred":[
+        "Sunsari"
+    ],
+    "name:fre_x_variant":[
         "district de Sunsari"
     ],
     "name:ger_x_preferred":[
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":1092049923,
-    "wof:lastmodified":1536615137,
+    "wof:lastmodified":1555047491,
     "wof:name":"Sunsari",
     "wof:parent_id":-1,
     "wof:placetype":"county",

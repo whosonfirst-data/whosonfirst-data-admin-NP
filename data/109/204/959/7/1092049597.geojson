@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.317281,
-    "geom:area_square_m":3477329788.234468,
+    "geom:area_square_m":3477329788.235755,
     "geom:bbox":"86.9424230848,27.1384211906,87.6758554975,27.957924",
     "geom:latitude":27.582445,
     "geom:longitude":87.278194,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Sankhuwasabha District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Sankhuwasabha"
+    ],
     "lbl:latitude":27.615868,
     "lbl:longitude":87.272683,
     "meso:admin_1":"KOSHI",
@@ -51,6 +60,9 @@
         "Sankhuwasabhan piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Sankhuwasabha"
+    ],
+    "name:fre_x_variant":[
         "district de Sankhuwasabha"
     ],
     "name:ger_x_preferred":[
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":1092049597,
-    "wof:lastmodified":1553816444,
+    "wof:lastmodified":1555047491,
     "wof:name":"Sankhuwasabha",
     "wof:parent_id":-1,
     "wof:placetype":"county",

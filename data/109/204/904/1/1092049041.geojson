@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.214094,
-    "geom:area_square_m":2322671183.943995,
+    "geom:area_square_m":2322671183.944153,
     "geom:bbox":"83.789859049,28.4464401716,84.5694555405,28.8994962851",
     "geom:latitude":28.673126,
     "geom:longitude":84.224548,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Manang District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Manang"
+    ],
     "lbl:latitude":28.687692,
     "lbl:longitude":84.256124,
     "meso:admin_1":"GANDAKI",
@@ -51,6 +60,9 @@
         "Manangin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Manang"
+    ],
+    "name:fre_x_variant":[
         "district de Manang"
     ],
     "name:ger_x_preferred":[
@@ -153,7 +165,7 @@
         }
     ],
     "wof:id":1092049041,
-    "wof:lastmodified":1553816444,
+    "wof:lastmodified":1555047490,
     "wof:name":"Manang",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -10,6 +10,15 @@
     "geom:latitude":27.915273,
     "geom:longitude":85.739427,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Sindhupalchok District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Sindhulpalchok"
+    ],
     "lbl:latitude":27.920884,
     "lbl:longitude":85.733491,
     "meso:admin_1":"BAGMATI",
@@ -54,6 +63,9 @@
         "Sindhupalchokin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Sindhulpalchok"
+    ],
+    "name:fre_x_variant":[
         "district de Sindhulpalchok"
     ],
     "name:ger_x_preferred":[
@@ -156,7 +168,7 @@
         }
     ],
     "wof:id":1092049755,
-    "wof:lastmodified":1536615136,
+    "wof:lastmodified":1555047491,
     "wof:name":"Sindhupalchok",
     "wof:parent_id":-1,
     "wof:placetype":"county",

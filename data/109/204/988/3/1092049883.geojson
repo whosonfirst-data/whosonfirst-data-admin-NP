@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.138844,
-    "geom:area_square_m":1527213975.439829,
+    "geom:area_square_m":1527213975.439722,
     "geom:bbox":"86.8972256669,26.8886147967,87.2747193345,27.4615620684",
     "geom:latitude":27.182208,
     "geom:longitude":87.067702,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Bhojpur District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Bhojpur"
+    ],
     "lbl:latitude":27.17276,
     "lbl:longitude":87.071292,
     "meso:admin_1":"KOSHI",
@@ -54,6 +63,9 @@
         "Bhojpurin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Bhojpur"
+    ],
+    "name:fre_x_variant":[
         "district de Bhojpur"
     ],
     "name:ger_x_preferred":[
@@ -198,7 +210,7 @@
         }
     ],
     "wof:id":1092049883,
-    "wof:lastmodified":1553816444,
+    "wof:lastmodified":1555047491,
     "wof:name":"Bhojpur",
     "wof:parent_id":-1,
     "wof:placetype":"county",

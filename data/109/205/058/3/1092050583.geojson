@@ -10,6 +10,15 @@
     "geom:latitude":28.881584,
     "geom:longitude":81.678427,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Dailekh District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Dailekh"
+    ],
     "lbl:latitude":28.886123,
     "lbl:longitude":81.678465,
     "meso:admin_1":"BHERI",
@@ -51,6 +60,9 @@
         "Dailekhin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Dailekh"
+    ],
+    "name:fre_x_variant":[
         "district de Dailekh"
     ],
     "name:ger_x_preferred":[
@@ -153,7 +165,7 @@
         }
     ],
     "wof:id":1092050583,
-    "wof:lastmodified":1536615138,
+    "wof:lastmodified":1555047493,
     "wof:name":"Dailekh",
     "wof:parent_id":-1,
     "wof:placetype":"county",

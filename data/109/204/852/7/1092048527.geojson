@@ -10,6 +10,15 @@
     "geom:latitude":29.113197,
     "geom:longitude":81.296749,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Achham District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Achham"
+    ],
     "lbl:latitude":29.130388,
     "lbl:longitude":81.292587,
     "meso:admin_1":"SETI",
@@ -51,6 +60,9 @@
         "Achhamin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Achham"
+    ],
+    "name:fre_x_variant":[
         "district d'Achham"
     ],
     "name:ger_x_preferred":[
@@ -156,7 +168,7 @@
         }
     ],
     "wof:id":1092048527,
-    "wof:lastmodified":1536615135,
+    "wof:lastmodified":1555047489,
     "wof:name":"Achham",
     "wof:parent_id":-1,
     "wof:placetype":"county",

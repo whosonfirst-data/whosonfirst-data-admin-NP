@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.144998,
-    "geom:area_square_m":1595117956.376967,
+    "geom:area_square_m":1595117956.377048,
     "geom:bbox":"86.4319741496,26.8702502495,86.9791784521,27.4370119335",
     "geom:latitude":27.167994,
     "geom:longitude":86.786859,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Khotang District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Khotang"
+    ],
     "lbl:latitude":27.195322,
     "lbl:longitude":86.782669,
     "meso:admin_1":"SAGARMATHA",
@@ -51,6 +60,9 @@
         "Khotangin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Khotang"
+    ],
+    "name:fre_x_variant":[
         "district de Khotang"
     ],
     "name:ger_x_preferred":[
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":1092050841,
-    "wof:lastmodified":1553816445,
+    "wof:lastmodified":1555047493,
     "wof:name":"Khotang",
     "wof:parent_id":-1,
     "wof:placetype":"county",

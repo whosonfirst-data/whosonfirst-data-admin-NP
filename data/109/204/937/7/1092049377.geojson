@@ -10,6 +10,15 @@
     "geom:latitude":28.115371,
     "geom:longitude":82.86479,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Pyuthan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Pyuthan"
+    ],
     "lbl:latitude":28.066893,
     "lbl:longitude":82.843788,
     "meso:admin_1":"RAPTI",
@@ -48,6 +57,9 @@
         "Pyuthanin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Pyuthan"
+    ],
+    "name:fre_x_variant":[
         "district de Pyuthan"
     ],
     "name:ger_x_preferred":[
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":1092049377,
-    "wof:lastmodified":1536615136,
+    "wof:lastmodified":1555047491,
     "wof:name":"Pyuthan",
     "wof:parent_id":-1,
     "wof:placetype":"county",

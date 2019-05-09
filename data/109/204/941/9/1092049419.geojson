@@ -10,6 +10,15 @@
     "geom:latitude":27.000608,
     "geom:longitude":85.302506,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Rautahat District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Rautahat"
+    ],
     "lbl:latitude":26.966011,
     "lbl:longitude":85.286496,
     "meso:admin_1":"NARAYANI",
@@ -48,6 +57,9 @@
         "Rautahatin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Rautahat"
+    ],
+    "name:fre_x_variant":[
         "district de Rautahat"
     ],
     "name:ger_x_preferred":[
@@ -147,7 +159,7 @@
         }
     ],
     "wof:id":1092049419,
-    "wof:lastmodified":1536615136,
+    "wof:lastmodified":1555047491,
     "wof:name":"Rautahat",
     "wof:parent_id":-1,
     "wof:placetype":"county",

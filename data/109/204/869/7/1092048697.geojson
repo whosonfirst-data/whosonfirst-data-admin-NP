@@ -10,6 +10,15 @@
     "geom:latitude":29.222764,
     "geom:longitude":80.486185,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Dadeldhura District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Dadeldhura"
+    ],
     "lbl:latitude":29.247816,
     "lbl:longitude":80.486179,
     "meso:admin_1":"MAHAKALI",
@@ -51,6 +60,9 @@
         "Dadeldhuran piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Dadeldhura"
+    ],
+    "name:fre_x_variant":[
         "district de Dadeldhura"
     ],
     "name:ger_x_preferred":[
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":1092048697,
-    "wof:lastmodified":1536615135,
+    "wof:lastmodified":1555047489,
     "wof:name":"Dadeldhura",
     "wof:parent_id":-1,
     "wof:placetype":"county",

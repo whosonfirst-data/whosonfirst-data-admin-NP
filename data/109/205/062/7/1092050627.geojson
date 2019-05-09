@@ -10,6 +10,15 @@
     "geom:latitude":29.561645,
     "geom:longitude":81.563074,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Bajura District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Bajura"
+    ],
     "lbl:latitude":29.526077,
     "lbl:longitude":81.563158,
     "meso:admin_1":"SETI",
@@ -57,6 +66,9 @@
         "Bajuran piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Bajura"
+    ],
+    "name:fre_x_variant":[
         "district de Bajura"
     ],
     "name:ger_x_preferred":[
@@ -156,7 +168,7 @@
         }
     ],
     "wof:id":1092050627,
-    "wof:lastmodified":1536615138,
+    "wof:lastmodified":1555047493,
     "wof:name":"Bajura",
     "wof:parent_id":-1,
     "wof:placetype":"county",

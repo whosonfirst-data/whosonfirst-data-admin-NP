@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.166581,
-    "geom:area_square_m":1841529954.828259,
+    "geom:area_square_m":1841529954.827834,
     "geom:bbox":"87.2401852329,26.347779,87.688049192,26.8729540392",
     "geom:latitude":26.615777,
     "geom:longitude":87.470032,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Morang District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Morang"
+    ],
     "lbl:latitude":26.62409,
     "lbl:longitude":87.470025,
     "meso:admin_1":"KOSHI",
@@ -54,6 +63,9 @@
         "Morangin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Morang"
+    ],
+    "name:fre_x_variant":[
         "district de Morang"
     ],
     "name:ger_x_preferred":[
@@ -171,7 +183,7 @@
         }
     ],
     "wof:id":1092048303,
-    "wof:lastmodified":1553816444,
+    "wof:lastmodified":1555047489,
     "wof:name":"Morang",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -10,6 +10,15 @@
     "geom:latitude":28.553813,
     "geom:longitude":83.459404,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Myagdi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Myagdi"
+    ],
     "lbl:latitude":28.554835,
     "lbl:longitude":83.421371,
     "meso:admin_1":"DHAWALAGIRI",
@@ -48,6 +57,9 @@
         "Myagdin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Myagdi"
+    ],
+    "name:fre_x_variant":[
         "district de Myagdi"
     ],
     "name:ger_x_preferred":[
@@ -147,7 +159,7 @@
         }
     ],
     "wof:id":1092049089,
-    "wof:lastmodified":1536615135,
+    "wof:lastmodified":1555047490,
     "wof:name":"Myagdi",
     "wof:parent_id":-1,
     "wof:placetype":"county",

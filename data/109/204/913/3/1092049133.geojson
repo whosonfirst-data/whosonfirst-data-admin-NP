@@ -10,6 +10,15 @@
     "geom:latitude":27.915269,
     "geom:longitude":85.235155,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Nuwakot District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Nuwakot"
+    ],
     "lbl:latitude":27.873396,
     "lbl:longitude":85.189071,
     "meso:admin_1":"BAGMATI",
@@ -54,6 +63,9 @@
         "Nuwakotin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Nuwakot"
+    ],
+    "name:fre_x_variant":[
         "district de Nuwakot"
     ],
     "name:ger_x_preferred":[
@@ -156,7 +168,7 @@
         }
     ],
     "wof:id":1092049133,
-    "wof:lastmodified":1536615135,
+    "wof:lastmodified":1555047490,
     "wof:name":"Nuwakot",
     "wof:parent_id":-1,
     "wof:placetype":"county",

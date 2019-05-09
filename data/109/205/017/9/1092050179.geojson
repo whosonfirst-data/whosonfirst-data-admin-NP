@@ -10,6 +10,15 @@
     "geom:latitude":26.902952,
     "geom:longitude":86.680243,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Udayapur District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Udayapur"
+    ],
     "lbl:latitude":26.963673,
     "lbl:longitude":86.603697,
     "meso:admin_1":"SAGARMATHA",
@@ -48,6 +57,9 @@
         "Udayapurin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Udayapur"
+    ],
+    "name:fre_x_variant":[
         "district d'Udayapur"
     ],
     "name:ger_x_preferred":[
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":1092050179,
-    "wof:lastmodified":1536615137,
+    "wof:lastmodified":1555047492,
     "wof:name":"Udayapur",
     "wof:parent_id":-1,
     "wof:placetype":"county",

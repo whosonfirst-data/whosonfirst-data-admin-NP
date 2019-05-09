@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.106274,
-    "geom:area_square_m":1173551379.928042,
+    "geom:area_square_m":1173551379.928227,
     "geom:bbox":"86.1298360055,26.5420728783,86.552324561,26.9321345163",
     "geom:latitude":26.741642,
     "geom:longitude":86.342773,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Siraha District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Siraha"
+    ],
     "lbl:latitude":26.746694,
     "lbl:longitude":86.325671,
     "meso:admin_1":"SAGARMATHA",
@@ -48,6 +57,9 @@
         "Sirahan piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Siraha"
+    ],
+    "name:fre_x_variant":[
         "district de Siraha"
     ],
     "name:ger_x_preferred":[
@@ -147,7 +159,7 @@
         }
     ],
     "wof:id":1092050497,
-    "wof:lastmodified":1553816445,
+    "wof:lastmodified":1555047493,
     "wof:name":"Siraha",
     "wof:parent_id":-1,
     "wof:placetype":"county",

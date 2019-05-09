@@ -10,6 +10,15 @@
     "geom:latitude":27.710575,
     "geom:longitude":86.720276,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Solukhumbu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Solukhumbu"
+    ],
     "lbl:latitude":27.681632,
     "lbl:longitude":86.758947,
     "meso:admin_1":"SAGARMATHA",
@@ -51,6 +60,9 @@
         "Solukhumbun piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Solukhumbu"
+    ],
+    "name:fre_x_variant":[
         "district de Solukhumbu"
     ],
     "name:ger_x_preferred":[
@@ -153,7 +165,7 @@
         }
     ],
     "wof:id":1092049841,
-    "wof:lastmodified":1536615136,
+    "wof:lastmodified":1555047491,
     "wof:name":"Solukhumbu",
     "wof:parent_id":-1,
     "wof:placetype":"county",

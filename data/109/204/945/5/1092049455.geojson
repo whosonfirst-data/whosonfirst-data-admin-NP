@@ -10,6 +10,15 @@
     "geom:latitude":28.34423,
     "geom:longitude":82.627994,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Rolpa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Rolpa"
+    ],
     "lbl:latitude":28.341329,
     "lbl:longitude":82.622194,
     "meso:admin_1":"RAPTI",
@@ -48,6 +57,9 @@
         "Rolpan piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Rolpa"
+    ],
+    "name:fre_x_variant":[
         "district de Rolpa"
     ],
     "name:ger_x_preferred":[
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":1092049455,
-    "wof:lastmodified":1536615136,
+    "wof:lastmodified":1555047491,
     "wof:name":"Rolpa",
     "wof:parent_id":-1,
     "wof:placetype":"county",

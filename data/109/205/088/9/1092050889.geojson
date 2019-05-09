@@ -10,6 +10,15 @@
     "geom:latitude":27.817164,
     "geom:longitude":83.623517,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Palpa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Palpa"
+    ],
     "lbl:latitude":27.805581,
     "lbl:longitude":83.623524,
     "meso:admin_1":"LUMBINI",
@@ -51,6 +60,9 @@
         "Palpan piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Palpa"
+    ],
+    "name:fre_x_variant":[
         "district de Palpa"
     ],
     "name:ger_x_preferred":[
@@ -147,7 +159,7 @@
         }
     ],
     "wof:id":1092050889,
-    "wof:lastmodified":1536615138,
+    "wof:lastmodified":1555047493,
     "wof:name":"Palpa",
     "wof:parent_id":-1,
     "wof:placetype":"county",

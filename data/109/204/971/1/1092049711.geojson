@@ -10,6 +10,15 @@
     "geom:latitude":27.513657,
     "geom:longitude":86.177165,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Ramechhap District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Ramechhap"
+    ],
     "lbl:latitude":27.375077,
     "lbl:longitude":86.118824,
     "meso:admin_1":"JANAKPUR",
@@ -48,6 +57,9 @@
         "Ramechhapin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Ramechhap"
+    ],
+    "name:fre_x_variant":[
         "district de Ramechhap"
     ],
     "name:ger_x_preferred":[
@@ -147,7 +159,7 @@
         }
     ],
     "wof:id":1092049711,
-    "wof:lastmodified":1536615136,
+    "wof:lastmodified":1555047491,
     "wof:name":"Ramechhap",
     "wof:parent_id":-1,
     "wof:placetype":"county",

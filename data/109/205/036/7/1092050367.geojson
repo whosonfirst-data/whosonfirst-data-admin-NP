@@ -10,6 +10,15 @@
     "geom:latitude":26.58302,
     "geom:longitude":87.912053,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Jhapa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Jhapa"
+    ],
     "lbl:latitude":26.568102,
     "lbl:longitude":87.972251,
     "meso:admin_1":"MECHI",
@@ -29,6 +38,9 @@
         "Jhapa"
     ],
     "name:eng_x_variant":[
+        "Jhapa"
+    ],
+    "name:fre_x_preferred":[
         "Jhapa"
     ],
     "src:geom":"meso",
@@ -73,7 +85,7 @@
         }
     ],
     "wof:id":1092050367,
-    "wof:lastmodified":1536615138,
+    "wof:lastmodified":1555047492,
     "wof:name":"Jhapa",
     "wof:parent_id":-1,
     "wof:placetype":"county",

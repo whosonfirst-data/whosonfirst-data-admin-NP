@@ -10,6 +10,15 @@
     "geom:latitude":27.9081,
     "geom:longitude":83.078885,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Arghakhanchi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Arghakhanchi"
+    ],
     "lbl:latitude":27.903458,
     "lbl:longitude":83.131403,
     "meso:admin_1":"LUMBINI",
@@ -48,6 +57,9 @@
         "Arghakhanchin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Arghakhanchi"
+    ],
+    "name:fre_x_variant":[
         "district d'Arghakhanchi"
     ],
     "name:ger_x_preferred":[
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":1092049537,
-    "wof:lastmodified":1536615136,
+    "wof:lastmodified":1555047491,
     "wof:name":"Arghakhanchi",
     "wof:parent_id":-1,
     "wof:placetype":"county",

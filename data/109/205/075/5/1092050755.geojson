@@ -10,6 +10,15 @@
     "geom:latitude":28.094046,
     "geom:longitude":83.306298,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Gulmi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Gulmi"
+    ],
     "lbl:latitude":28.081382,
     "lbl:longitude":83.325989,
     "meso:admin_1":"LUMBINI",
@@ -48,6 +57,9 @@
         "Gulmin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Gulmi"
+    ],
+    "name:fre_x_variant":[
         "district de Gulmi"
     ],
     "name:ger_x_preferred":[
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":1092050755,
-    "wof:lastmodified":1536615138,
+    "wof:lastmodified":1555047493,
     "wof:name":"Gulmi",
     "wof:parent_id":-1,
     "wof:placetype":"county",

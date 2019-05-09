@@ -10,6 +10,15 @@
     "geom:latitude":27.636383,
     "geom:longitude":83.953575,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Nawalparasi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Nawalparasi"
+    ],
     "lbl:latitude":27.55899,
     "lbl:longitude":83.775027,
     "meso:admin_1":"LUMBINI",
@@ -54,6 +63,9 @@
         "Nawalparasin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Nawalparasi"
+    ],
+    "name:fre_x_variant":[
         "district de Nawalparasi"
     ],
     "name:ger_x_preferred":[
@@ -156,7 +168,7 @@
         }
     ],
     "wof:id":1092050413,
-    "wof:lastmodified":1536615138,
+    "wof:lastmodified":1555047493,
     "wof:name":"Nawalparasi",
     "wof:parent_id":-1,
     "wof:placetype":"county",

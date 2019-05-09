@@ -10,6 +10,15 @@
     "geom:latitude":28.084063,
     "geom:longitude":81.822484,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Banke District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Banke"
+    ],
     "lbl:latitude":28.083567,
     "lbl:longitude":81.827732,
     "meso:admin_1":"BHERI",
@@ -51,6 +60,9 @@
         "Banken piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Banke"
+    ],
+    "name:fre_x_variant":[
         "district de Banke"
     ],
     "name:ger_x_preferred":[
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":1092050297,
-    "wof:lastmodified":1536615137,
+    "wof:lastmodified":1555047492,
     "wof:name":"Banke",
     "wof:parent_id":-1,
     "wof:placetype":"county",

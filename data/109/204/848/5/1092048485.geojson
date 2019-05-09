@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.116959,
-    "geom:area_square_m":1293177197.704224,
+    "geom:area_square_m":1293177197.704072,
     "geom:bbox":"86.4831141245,26.419723,87.0131872575,26.7905562055",
     "geom:latitude":26.597004,
     "geom:longitude":86.743893,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Saptari District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Saptari"
+    ],
     "lbl:latitude":26.565445,
     "lbl:longitude":86.722548,
     "meso:admin_1":"SAGARMATHA",
@@ -51,6 +60,9 @@
         "Saptarin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Saptari"
+    ],
+    "name:fre_x_variant":[
         "district de Saptari"
     ],
     "name:ger_x_preferred":[
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":1092048485,
-    "wof:lastmodified":1553816444,
+    "wof:lastmodified":1555047489,
     "wof:name":"Saptari",
     "wof:parent_id":-1,
     "wof:placetype":"county",

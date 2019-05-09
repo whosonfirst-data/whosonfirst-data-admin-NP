@@ -10,6 +10,15 @@
     "geom:latitude":29.271363,
     "geom:longitude":82.217241,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Jumla District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Jumla"
+    ],
     "lbl:latitude":29.245217,
     "lbl:longitude":82.135759,
     "meso:admin_1":"KARNALI",
@@ -51,6 +60,9 @@
         "Jumlan piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Jumla"
+    ],
+    "name:fre_x_variant":[
         "district de Jumla"
     ],
     "name:ger_x_preferred":[
@@ -153,7 +165,7 @@
         }
     ],
     "wof:id":1092050797,
-    "wof:lastmodified":1536615138,
+    "wof:lastmodified":1555047493,
     "wof:name":"Jumla",
     "wof:parent_id":-1,
     "wof:placetype":"county",

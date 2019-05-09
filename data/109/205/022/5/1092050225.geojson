@@ -10,6 +10,15 @@
     "geom:latitude":27.329833,
     "geom:longitude":86.418211,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Okhaldhunga District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Okhaldhunga"
+    ],
     "lbl:latitude":27.298791,
     "lbl:longitude":86.441781,
     "meso:admin_1":"SAGARMATHA",
@@ -48,6 +57,9 @@
         "Okhaldhungan piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Okhaldhunga"
+    ],
+    "name:fre_x_variant":[
         "district d'Okhaldhunga"
     ],
     "name:ger_x_preferred":[
@@ -147,7 +159,7 @@
         }
     ],
     "wof:id":1092050225,
-    "wof:lastmodified":1536615137,
+    "wof:lastmodified":1555047492,
     "wof:name":"Okhaldhunga",
     "wof:parent_id":-1,
     "wof:placetype":"county",

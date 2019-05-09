@@ -10,6 +10,15 @@
     "geom:latitude":28.212068,
     "geom:longitude":83.678554,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Parbat District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Parbat"
+    ],
     "lbl:latitude":28.285919,
     "lbl:longitude":83.698402,
     "meso:admin_1":"DHAWALAGIRI",
@@ -54,6 +63,9 @@
         "Parbatin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Parbat"
+    ],
+    "name:fre_x_variant":[
         "district de Parbat"
     ],
     "name:ger_x_preferred":[
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":1092049297,
-    "wof:lastmodified":1536615136,
+    "wof:lastmodified":1555047490,
     "wof:name":"Parbat",
     "wof:parent_id":-1,
     "wof:placetype":"county",

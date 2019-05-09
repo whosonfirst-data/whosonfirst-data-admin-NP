@@ -10,6 +10,15 @@
     "geom:latitude":27.96554,
     "geom:longitude":82.402286,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Dang Deokhuri District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Dang"
+    ],
     "lbl:latitude":27.943947,
     "lbl:longitude":82.395571,
     "meso:admin_1":"RAPTI",
@@ -48,6 +57,9 @@
         "Dang Deukhurin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Dang"
+    ],
+    "name:fre_x_variant":[
         "district de Dang"
     ],
     "name:ger_x_preferred":[
@@ -144,7 +156,7 @@
         }
     ],
     "wof:id":1092048605,
-    "wof:lastmodified":1536615135,
+    "wof:lastmodified":1555047489,
     "wof:name":"Dang Deokhuri",
     "wof:parent_id":-1,
     "wof:placetype":"county",

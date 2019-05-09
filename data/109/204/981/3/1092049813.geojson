@@ -10,6 +10,15 @@
     "geom:latitude":27.582112,
     "geom:longitude":87.821859,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Taplejung District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Taplejung"
+    ],
     "lbl:latitude":27.557564,
     "lbl:longitude":87.81463,
     "meso:admin_1":"MECHI",
@@ -54,6 +63,9 @@
         "Taplejungin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Taplejung"
+    ],
+    "name:fre_x_variant":[
         "district de Taplejung"
     ],
     "name:ger_x_preferred":[
@@ -156,7 +168,7 @@
         }
     ],
     "wof:id":1092049813,
-    "wof:lastmodified":1536615136,
+    "wof:lastmodified":1555047491,
     "wof:name":"Taplejung",
     "wof:parent_id":-1,
     "wof:placetype":"county",

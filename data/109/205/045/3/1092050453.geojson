@@ -10,6 +10,15 @@
     "geom:latitude":27.239728,
     "geom:longitude":84.779267,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Parsa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Parsa"
+    ],
     "lbl:latitude":27.251616,
     "lbl:longitude":84.823475,
     "meso:admin_1":"NARAYANI",
@@ -51,6 +60,9 @@
         "Parsan piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Parsa"
+    ],
+    "name:fre_x_variant":[
         "district de Parsa"
     ],
     "name:ger_x_preferred":[
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":1092050453,
-    "wof:lastmodified":1536615138,
+    "wof:lastmodified":1555047493,
     "wof:name":"Parsa",
     "wof:parent_id":-1,
     "wof:placetype":"county",

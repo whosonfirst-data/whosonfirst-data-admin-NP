@@ -10,6 +10,15 @@
     "geom:latitude":29.171155,
     "geom:longitude":83.052087,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Dolpa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Dolpa"
+    ],
     "lbl:latitude":29.177413,
     "lbl:longitude":83.061613,
     "meso:admin_1":"KARNALI",
@@ -54,6 +63,9 @@
         "Dolpan piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Dolpa"
+    ],
+    "name:fre_x_variant":[
         "district de Dolpa"
     ],
     "name:ger_x_preferred":[
@@ -156,7 +168,7 @@
         }
     ],
     "wof:id":1092050349,
-    "wof:lastmodified":1536615137,
+    "wof:lastmodified":1555047492,
     "wof:name":"Dolpa",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.329966,
-    "geom:area_square_m":3569156394.848811,
+    "geom:area_square_m":3569156394.8488,
     "geom:bbox":"83.4796574192,28.5651720806,84.251714,29.330612",
     "geom:latitude":28.981493,
     "geom:longitude":83.857697,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Mustang District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Mustang"
+    ],
     "lbl:latitude":29.013803,
     "lbl:longitude":83.851679,
     "meso:admin_1":"DHAWALAGIRI",
@@ -51,6 +60,9 @@
         "Mustangin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Mustang"
+    ],
+    "name:fre_x_variant":[
         "district de Mustang"
     ],
     "name:ger_x_preferred":[
@@ -153,7 +165,7 @@
         }
     ],
     "wof:id":1092048365,
-    "wof:lastmodified":1553816444,
+    "wof:lastmodified":1555047489,
     "wof:name":"Mustang",
     "wof:parent_id":-1,
     "wof:placetype":"county",

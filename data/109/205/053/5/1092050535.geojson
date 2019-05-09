@@ -10,6 +10,15 @@
     "geom:latitude":27.785735,
     "geom:longitude":86.198413,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Dolakha District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Dolkha"
+    ],
     "lbl:latitude":27.780293,
     "lbl:longitude":86.20353,
     "meso:admin_1":"JANAKPUR",
@@ -54,6 +63,9 @@
         "Dolakhan piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Dolkha"
+    ],
+    "name:fre_x_variant":[
         "district de Dolkha"
     ],
     "name:ger_x_preferred":[
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":1092050535,
-    "wof:lastmodified":1536615138,
+    "wof:lastmodified":1555047493,
     "wof:name":"Dolakha",
     "wof:parent_id":-1,
     "wof:placetype":"county",

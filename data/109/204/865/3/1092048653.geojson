@@ -10,6 +10,15 @@
     "geom:latitude":29.169279,
     "geom:longitude":80.893672,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Doti District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Doti"
+    ],
     "lbl:latitude":29.148643,
     "lbl:longitude":80.872021,
     "meso:admin_1":"SETI",
@@ -51,6 +60,9 @@
         "Dotin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Doti"
+    ],
+    "name:fre_x_variant":[
         "district de Doti"
     ],
     "name:ger_x_preferred":[
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":1092048653,
-    "wof:lastmodified":1536615135,
+    "wof:lastmodified":1555047489,
     "wof:name":"Doti",
     "wof:parent_id":-1,
     "wof:placetype":"county",

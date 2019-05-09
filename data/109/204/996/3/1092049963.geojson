@@ -10,6 +10,15 @@
     "geom:latitude":28.641502,
     "geom:longitude":81.585515,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Surkhet District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Surkhet"
+    ],
     "lbl:latitude":28.545517,
     "lbl:longitude":81.680421,
     "meso:admin_1":"BHERI",
@@ -48,6 +57,9 @@
         "Surkhetin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Surkhet"
+    ],
+    "name:fre_x_variant":[
         "district de Surkhet"
     ],
     "name:ger_x_preferred":[
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":1092049963,
-    "wof:lastmodified":1536615137,
+    "wof:lastmodified":1555047492,
     "wof:name":"Surkhet",
     "wof:parent_id":-1,
     "wof:placetype":"county",

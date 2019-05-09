@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.116631,
-    "geom:area_square_m":1283757806.355988,
+    "geom:area_square_m":1283757806.355895,
     "geom:bbox":"84.8764037138,26.846941,85.2652590954,27.3647907415",
     "geom:latitude":27.105985,
     "geom:longitude":85.069968,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Bara District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Bara"
+    ],
     "lbl:latitude":27.105331,
     "lbl:longitude":85.07291,
     "meso:admin_1":"NARAYANI",
@@ -51,6 +60,9 @@
         "Baran piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Bara"
+    ],
+    "name:fre_x_variant":[
         "district de Bara"
     ],
     "name:ger_x_preferred":[
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":1092048051,
-    "wof:lastmodified":1553816444,
+    "wof:lastmodified":1555047488,
     "wof:name":"Bara",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -10,6 +10,15 @@
     "geom:latitude":26.878205,
     "geom:longitude":85.819021,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Mahottari District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Mahottari"
+    ],
     "lbl:latitude":26.897928,
     "lbl:longitude":85.802921,
     "meso:admin_1":"JANAKPUR",
@@ -51,6 +60,9 @@
         "Mahottarin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Mahottari"
+    ],
+    "name:fre_x_variant":[
         "district de Mahottari"
     ],
     "name:ger_x_preferred":[
@@ -153,7 +165,7 @@
         }
     ],
     "wof:id":1092050709,
-    "wof:lastmodified":1536615138,
+    "wof:lastmodified":1555047493,
     "wof:name":"Mahottari",
     "wof:parent_id":-1,
     "wof:placetype":"county",

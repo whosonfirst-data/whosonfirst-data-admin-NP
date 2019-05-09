@@ -10,6 +10,15 @@
     "geom:latitude":28.289529,
     "geom:longitude":84.430095,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Lamjung District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Jhapa"
+    ],
     "lbl:latitude":28.293534,
     "lbl:longitude":84.46005,
     "meso:admin_1":"GANDAKI",
@@ -30,6 +39,9 @@
     ],
     "name:eng_x_variant":[
         "Lamjung"
+    ],
+    "name:fre_x_preferred":[
+        "Jhapa"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -73,7 +85,7 @@
         }
     ],
     "wof:id":1092050009,
-    "wof:lastmodified":1536615137,
+    "wof:lastmodified":1555047492,
     "wof:name":"Lamjung",
     "wof:parent_id":-1,
     "wof:placetype":"county",

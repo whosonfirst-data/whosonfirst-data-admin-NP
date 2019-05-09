@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.203621,
-    "geom:area_square_m":2231582470.097726,
+    "geom:area_square_m":2231582470.097742,
     "geom:bbox":"83.917820288,27.3573730583,84.7942670068,27.8798891014",
     "geom:latitude":27.585783,
     "geom:longitude":84.436581,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Chitwan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Chitwan"
+    ],
     "lbl:latitude":27.529221,
     "lbl:longitude":84.400356,
     "meso:admin_1":"NARAYANI",
@@ -45,6 +54,9 @@
         "Chitawanin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Chitwan"
+    ],
+    "name:fre_x_variant":[
         "district de Chitwan"
     ],
     "name:ger_x_preferred":[
@@ -144,7 +156,7 @@
         }
     ],
     "wof:id":1092050101,
-    "wof:lastmodified":1553816445,
+    "wof:lastmodified":1555047492,
     "wof:name":"Chitwan",
     "wof:parent_id":-1,
     "wof:placetype":"county",

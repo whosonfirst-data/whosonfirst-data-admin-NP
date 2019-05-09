@@ -10,6 +10,15 @@
     "geom:latitude":28.865244,
     "geom:longitude":82.167763,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Jajarkot District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Jajarkot"
+    ],
     "lbl:latitude":28.828207,
     "lbl:longitude":82.142146,
     "meso:admin_1":"BHERI",
@@ -48,6 +57,9 @@
         "Jajarkotin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Jajarkot"
+    ],
+    "name:fre_x_variant":[
         "district de Jajarkot"
     ],
     "name:ger_x_preferred":[
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":1092048763,
-    "wof:lastmodified":1536615135,
+    "wof:lastmodified":1555047490,
     "wof:name":"Jajarkot",
     "wof:parent_id":-1,
     "wof:placetype":"county",

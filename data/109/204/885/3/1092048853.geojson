@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011243,
-    "geom:area_square_m":123118827.173298,
+    "geom:area_square_m":123118827.173376,
     "geom:bbox":"85.3550763283,27.6182693046,85.5227180173,27.730480298",
     "geom:latitude":27.677756,
     "geom:longitude":85.440517,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Bhaktapur District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Bhaktapur"
+    ],
     "lbl:latitude":27.677495,
     "lbl:longitude":85.440507,
     "meso:admin_1":"BAGMATI",
@@ -57,6 +66,9 @@
         "Bhaktapurin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Bhaktapur"
+    ],
+    "name:fre_x_variant":[
         "district de Bhaktapur"
     ],
     "name:ger_x_preferred":[
@@ -162,7 +174,7 @@
         }
     ],
     "wof:id":1092048853,
-    "wof:lastmodified":1553816444,
+    "wof:lastmodified":1555047490,
     "wof:name":"Bhaktapur",
     "wof:parent_id":-1,
     "wof:placetype":"county",

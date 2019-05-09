@@ -10,6 +10,15 @@
     "geom:latitude":26.825653,
     "geom:longitude":86.033377,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Dhanusa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Dhanusha"
+    ],
     "lbl:latitude":26.822596,
     "lbl:longitude":86.033351,
     "meso:admin_1":"JANAKPUR",
@@ -51,6 +60,9 @@
         "Dhanusan piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Dhanusha"
+    ],
+    "name:fre_x_variant":[
         "district de Dhanusha"
     ],
     "name:ger_x_preferred":[
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":1092048127,
-    "wof:lastmodified":1536615134,
+    "wof:lastmodified":1555047488,
     "wof:name":"Dhanusa",
     "wof:parent_id":-1,
     "wof:placetype":"county",

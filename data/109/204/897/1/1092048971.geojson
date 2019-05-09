@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035943,
-    "geom:area_square_m":394085703.231067,
+    "geom:area_square_m":394085703.231002,
     "geom:bbox":"85.2341751747,27.4028973245,85.4420110665,27.6910386612",
     "geom:latitude":27.539199,
     "geom:longitude":85.342263,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Lalitpur District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Lalitpur"
+    ],
     "lbl:latitude":27.523896,
     "lbl:longitude":85.329897,
     "meso:admin_1":"BAGMATI",
@@ -51,6 +60,9 @@
         "Lalitpurin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Lalitpur"
+    ],
+    "name:fre_x_variant":[
         "district de Lalitpur"
     ],
     "name:ger_x_preferred":[
@@ -153,7 +165,7 @@
         }
     ],
     "wof:id":1092048971,
-    "wof:lastmodified":1553816444,
+    "wof:lastmodified":1555047490,
     "wof:name":"Lalitpur",
     "wof:parent_id":-1,
     "wof:placetype":"county",

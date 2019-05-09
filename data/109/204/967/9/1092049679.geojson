@@ -10,6 +10,15 @@
     "geom:latitude":27.201659,
     "geom:longitude":85.943585,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Sindhuli District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Sindhuli"
+    ],
     "lbl:latitude":27.236587,
     "lbl:longitude":85.950857,
     "meso:admin_1":"JANAKPUR",
@@ -54,6 +63,9 @@
         "Sindhulin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Sindhuli"
+    ],
+    "name:fre_x_variant":[
         "district de Sindhuli"
     ],
     "name:ger_x_preferred":[
@@ -156,7 +168,7 @@
         }
     ],
     "wof:id":1092049679,
-    "wof:lastmodified":1536615136,
+    "wof:lastmodified":1555047491,
     "wof:name":"Sindhuli",
     "wof:parent_id":-1,
     "wof:placetype":"county",

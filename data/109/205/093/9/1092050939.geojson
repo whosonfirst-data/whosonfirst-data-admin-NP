@@ -10,6 +10,15 @@
     "geom:latitude":28.020927,
     "geom:longitude":83.802289,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Syangja District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Syangja"
+    ],
     "lbl:latitude":28.01576,
     "lbl:longitude":83.826631,
     "meso:admin_1":"GANDAKI",
@@ -57,6 +66,9 @@
         "Syangjan piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Syangja"
+    ],
+    "name:fre_x_variant":[
         "district de Syangja"
     ],
     "name:ger_x_preferred":[
@@ -159,7 +171,7 @@
         }
     ],
     "wof:id":1092050939,
-    "wof:lastmodified":1536615138,
+    "wof:lastmodified":1555047493,
     "wof:name":"Syangja",
     "wof:parent_id":-1,
     "wof:placetype":"county",

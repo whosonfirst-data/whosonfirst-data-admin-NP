@@ -10,6 +10,15 @@
     "geom:latitude":27.154449,
     "geom:longitude":87.548951,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Terhathum District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Terhathum"
+    ],
     "lbl:latitude":27.19129,
     "lbl:longitude":87.561208,
     "meso:admin_1":"KOSHI",
@@ -51,6 +60,9 @@
         "Terhathum District"
     ],
     "name:fre_x_preferred":[
+        "Terhathum"
+    ],
+    "name:fre_x_variant":[
         "district de Terhathum"
     ],
     "name:ger_x_preferred":[
@@ -150,7 +162,7 @@
         }
     ],
     "wof:id":1092050137,
-    "wof:lastmodified":1536615137,
+    "wof:lastmodified":1555047492,
     "wof:name":"Terhathum",
     "wof:parent_id":-1,
     "wof:placetype":"county",

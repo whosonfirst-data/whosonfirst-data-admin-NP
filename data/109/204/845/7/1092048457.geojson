@@ -10,6 +10,15 @@
     "geom:latitude":27.577316,
     "geom:longitude":83.389182,
     "iso:country":"NP",
+    "label:eng_x_preferred_longname":[
+        "Rupandehi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Rupandehi"
+    ],
     "lbl:latitude":27.603667,
     "lbl:longitude":83.37185,
     "meso:admin_1":"LUMBINI",
@@ -54,6 +63,9 @@
         "Rupandehin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Rupandehi"
+    ],
+    "name:fre_x_variant":[
         "district de Rupandehi"
     ],
     "name:ger_x_preferred":[
@@ -159,7 +171,7 @@
         }
     ],
     "wof:id":1092048457,
-    "wof:lastmodified":1536615134,
+    "wof:lastmodified":1555047489,
     "wof:name":"Rupandehi",
     "wof:parent_id":-1,
     "wof:placetype":"county",
