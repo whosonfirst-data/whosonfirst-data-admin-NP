@@ -40,13 +40,10 @@
     "name:bpy_x_preferred":[
         "\u09b9\u09c1\u09ae\u09cd\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u80e1\u59c6\u62c9\u7e23"
-    ],
     "name:dan_x_preferred":[
         "Humla District"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Humla"
     ],
     "name:eng_x_preferred":[
@@ -59,14 +56,11 @@
     "name:fin_x_preferred":[
         "Humlan piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Humla"
     ],
     "name:fre_x_variant":[
         "district de Humla"
-    ],
-    "name:ger_x_preferred":[
-        "Humla"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ac1\u0aae\u0ab2\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -91,6 +85,9 @@
     ],
     "name:new_x_preferred":[
         "\u0939\u0941\u092e\u094d\u0932\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Humla"
     ],
     "name:nob_x_preferred":[
         "Humla distrikt"
@@ -124,6 +121,9 @@
     ],
     "name:vie_x_preferred":[
         "Huy\u1ec7n Humla"
+    ],
+    "name:zho_x_preferred":[
+        "\u80e1\u59c6\u62c9\u7e23"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -168,7 +168,7 @@
         }
     ],
     "wof:id":1092050353,
-    "wof:lastmodified":1555047492,
+    "wof:lastmodified":1561771972,
     "wof:name":"Humla",
     "wof:parent_id":-1,
     "wof:placetype":"county",

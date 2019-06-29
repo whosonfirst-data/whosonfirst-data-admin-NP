@@ -46,8 +46,8 @@
     "name:dan_x_preferred":[
         "Kavrepalanchok District"
     ],
-    "name:dut_x_preferred":[
-        "Kavrepalanchok"
+    "name:deu_x_preferred":[
+        "Kabhrepalanchok"
     ],
     "name:eng_x_preferred":[
         "Kavrepalanchok"
@@ -59,14 +59,11 @@
     "name:fin_x_preferred":[
         "Kavrepalanchokin piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kavrepalanchok"
     ],
     "name:fre_x_variant":[
         "district de Kavrepalanchok"
-    ],
-    "name:ger_x_preferred":[
-        "Kabhrepalanchok"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0ab0\u0acd\u0ab5\u0ac7\u0aaa\u0abe\u0ab2\u0aa8\u0a9a\u0acb\u0a95 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -91,6 +88,9 @@
     ],
     "name:new_x_preferred":[
         "\u0915\u093e\u092d\u094d\u0930\u0947\u092a\u0932\u093e\u091e\u094d\u091a\u094b\u0915 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Kavrepalanchok"
     ],
     "name:nob_x_preferred":[
         "Kavrepalanchok distrikt"
@@ -165,7 +165,7 @@
         }
     ],
     "wof:id":1092048887,
-    "wof:lastmodified":1555047490,
+    "wof:lastmodified":1561771966,
     "wof:name":"KavrePalanchok",
     "wof:parent_id":-1,
     "wof:placetype":"county",

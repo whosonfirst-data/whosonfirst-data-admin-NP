@@ -16,19 +16,13 @@
     "name:ben_x_preferred":[
         "\u09ad\u09a6\u09cd\u09b0\u09aa\u09c1\u09b0"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u5fb7\u62c9\u666e\u723e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bhadrapur"
     ],
     "name:eng_x_preferred":[
         "Bhadrapur"
     ],
-    "name:fre_x_preferred":[
-        "Bhadrapur"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bhadrapur"
     ],
     "name:hin_x_preferred":[
@@ -40,7 +34,7 @@
     "name:mai_x_preferred":[
         "\u092d\u0926\u094d\u0930\u092a\u0941\u0930 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bhadrapur"
     ],
     "name:nep_x_preferred":[
@@ -48,6 +42,9 @@
     ],
     "name:new_x_preferred":[
         "\u092d\u0926\u094d\u0930\u092a\u0941\u0930 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Bhadrapur"
     ],
     "name:pol_x_preferred":[
         "Bhadrapur"
@@ -57,6 +54,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u06c1\u0627\u062f\u0631\u0627\u067e\u0648\u0631\u060c \u0645\u06cc\u0686\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5fb7\u62c9\u666e\u723e"
     ],
     "qs:gn_country":"NP",
     "qs:gn_fcode":"PPL",
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":421174367,
-    "wof:lastmodified":1514493635,
+    "wof:lastmodified":1561771996,
     "wof:name":"Bhadrapur",
     "wof:parent_id":1092050367,
     "wof:placetype":"locality",

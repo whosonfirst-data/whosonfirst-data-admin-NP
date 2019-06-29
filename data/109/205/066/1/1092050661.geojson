@@ -49,7 +49,7 @@
     "name:dan_x_preferred":[
         "Dhading District"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dhading"
     ],
     "name:eng_x_preferred":[
@@ -62,14 +62,11 @@
     "name:fin_x_preferred":[
         "Dhadingin piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Dhading"
     ],
     "name:fre_x_variant":[
         "district de Dhading"
-    ],
-    "name:ger_x_preferred":[
-        "Dhading"
     ],
     "name:guj_x_preferred":[
         "\u0aa7\u0abe\u0aa6\u0abf\u0a82\u0a97 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -94,6 +91,9 @@
     ],
     "name:new_x_preferred":[
         "\u0927\u093e\u0926\u093f\u0919\u094d\u0917 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Dhading"
     ],
     "name:nob_x_preferred":[
         "Dhading distrikt"
@@ -168,7 +168,7 @@
         }
     ],
     "wof:id":1092050661,
-    "wof:lastmodified":1555047493,
+    "wof:lastmodified":1561771973,
     "wof:name":"Dhading",
     "wof:parent_id":-1,
     "wof:placetype":"county",

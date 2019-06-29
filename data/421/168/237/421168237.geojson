@@ -16,11 +16,11 @@
     "name:bul_x_preferred":[
         "\u041b\u043e\u043c\u0430\u043d\u0442\u0445\u0430\u043d\u0433"
     ],
-    "name:chi_x_preferred":[
-        "\u73de\u57ce"
-    ],
     "name:deu_x_preferred":[
         "Mustang"
+    ],
+    "name:deu_x_variant":[
+        "Lo Manthang"
     ],
     "name:eng_x_preferred":[
         "Mustang"
@@ -28,11 +28,8 @@
     "name:fra_x_preferred":[
         "Mustang"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Lo Mantang"
-    ],
-    "name:ger_x_preferred":[
-        "Lo Manthang"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d5\u05e1\u05d8\u05e0\u05d2"
@@ -46,7 +43,7 @@
     "name:lit_x_preferred":[
         "Lo Manthangas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Lo Manthang"
     ],
     "name:nep_x_preferred":[
@@ -78,6 +75,9 @@
     ],
     "name:zho_x_preferred":[
         "\u83ab\u65af\u5766"
+    ],
+    "name:zho_x_variant":[
+        "\u73de\u57ce"
     ],
     "qs:gn_country":"NP",
     "qs:gn_fcode":"PPL",
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":421168237,
-    "wof:lastmodified":1514493683,
+    "wof:lastmodified":1561771994,
     "wof:name":"Must\u00e5ng",
     "wof:parent_id":1092048365,
     "wof:placetype":"locality",

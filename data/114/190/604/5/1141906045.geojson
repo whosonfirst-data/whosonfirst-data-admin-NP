@@ -14,17 +14,17 @@
     "lbl:longitude":82.183303,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Salyan"
     ],
     "name:eng_x_preferred":[
         "Salyan"
     ],
-    "name:ger_x_preferred":[
-        "Salyan"
-    ],
     "name:jpn_x_preferred":[
         "\u30b5\u30ea\u30e3\u30fc\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Salyan"
     ],
     "name:por_x_preferred":[
         "Salyan"
@@ -156,7 +156,7 @@
         }
     ],
     "wof:id":1141906045,
-    "wof:lastmodified":1514493702,
+    "wof:lastmodified":1561772215,
     "wof:name":"Salyan",
     "wof:parent_id":1092049579,
     "wof:placetype":"locality",

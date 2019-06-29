@@ -52,7 +52,7 @@
     "name:dan_x_preferred":[
         "Bhaktapur District"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bhaktapur"
     ],
     "name:eng_x_preferred":[
@@ -65,14 +65,11 @@
     "name:fin_x_preferred":[
         "Bhaktapurin piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bhaktapur"
     ],
     "name:fre_x_variant":[
         "district de Bhaktapur"
-    ],
-    "name:ger_x_preferred":[
-        "Bhaktapur"
     ],
     "name:guj_x_preferred":[
         "\u0aad\u0a95\u0acd\u0aa4\u0aaa\u0ac1\u0ab0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -100,6 +97,9 @@
     ],
     "name:new_x_preferred":[
         "\u0916\u094d\u0935\u092a \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Bhaktapur"
     ],
     "name:nob_x_preferred":[
         "Bhaktapur distrikt"
@@ -174,7 +174,7 @@
         }
     ],
     "wof:id":1092048853,
-    "wof:lastmodified":1555047490,
+    "wof:lastmodified":1561771968,
     "wof:name":"Bhaktapur",
     "wof:parent_id":-1,
     "wof:placetype":"county",

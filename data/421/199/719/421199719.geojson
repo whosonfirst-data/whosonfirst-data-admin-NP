@@ -20,10 +20,7 @@
     "name:bho_x_preferred":[
         "\u092d\u0948\u0930\u0939\u0935\u093e"
     ],
-    "name:chi_x_preferred":[
-        "\u932b\u9640\u5854\u90a3\u8fe6"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Siddharthanagar"
     ],
     "name:eng_x_preferred":[
@@ -32,10 +29,7 @@
     "name:fin_x_preferred":[
         "Siddharthanagar"
     ],
-    "name:fre_x_preferred":[
-        "Siddharthanagar"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Siddharthanagar"
     ],
     "name:hin_x_preferred":[
@@ -56,6 +50,9 @@
     "name:new_x_preferred":[
         "\u0938\u093f\u0926\u094d\u0927\u093e\u0930\u094d\u0925\u0928\u0917\u0930"
     ],
+    "name:nld_x_preferred":[
+        "Siddharthanagar"
+    ],
     "name:nob_x_preferred":[
         "Siddharthanagar"
     ],
@@ -73,6 +70,9 @@
     ],
     "name:unk_x_variant":[
         "Bhairwa"
+    ],
+    "name:zho_x_preferred":[
+        "\u932b\u9640\u5854\u90a3\u8fe6"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Nepal",
@@ -221,7 +221,7 @@
         }
     ],
     "wof:id":421199719,
-    "wof:lastmodified":1553816386,
+    "wof:lastmodified":1561771998,
     "wof:name":"Bhair\u00e5haw\u00e5",
     "wof:parent_id":1092048457,
     "wof:placetype":"locality",

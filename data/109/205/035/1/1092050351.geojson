@@ -43,13 +43,10 @@
     "name:bpy_x_preferred":[
         "\u0997\u09cb\u09b0\u09cd\u0996\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u5ed3\u723e\u5580\u7e23"
-    ],
     "name:dan_x_preferred":[
         "Gorkha District"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gorkha"
     ],
     "name:eng_x_preferred":[
@@ -62,14 +59,11 @@
     "name:fin_x_preferred":[
         "Gorkhan piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gorkha"
     ],
     "name:fre_x_variant":[
         "district de Gorkha"
-    ],
-    "name:ger_x_preferred":[
-        "Gorkha"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0acb\u0ab0\u0a96\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -101,6 +95,9 @@
     "name:new_x_preferred":[
         "\u0917\u094b\u0930\u0916\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
     ],
+    "name:nld_x_preferred":[
+        "Gorkha"
+    ],
     "name:nob_x_preferred":[
         "Gorkha distrikt"
     ],
@@ -130,6 +127,9 @@
     ],
     "name:vie_x_preferred":[
         "Huy\u1ec7n Gorkha"
+    ],
+    "name:zho_x_preferred":[
+        "\u5ed3\u723e\u5580\u7e23"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -174,7 +174,7 @@
         }
     ],
     "wof:id":1092050351,
-    "wof:lastmodified":1555047492,
+    "wof:lastmodified":1561771972,
     "wof:name":"Gorkha",
     "wof:parent_id":-1,
     "wof:placetype":"county",

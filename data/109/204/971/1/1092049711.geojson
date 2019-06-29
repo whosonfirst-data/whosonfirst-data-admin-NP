@@ -43,7 +43,7 @@
     "name:dan_x_preferred":[
         "Ramechhap District"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ramechhap"
     ],
     "name:eng_x_preferred":[
@@ -56,14 +56,11 @@
     "name:fin_x_preferred":[
         "Ramechhapin piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ramechhap"
     ],
     "name:fre_x_variant":[
         "district de Ramechhap"
-    ],
-    "name:ger_x_preferred":[
-        "Ramechhap"
     ],
     "name:hif_x_preferred":[
         "Ramechhap"
@@ -85,6 +82,9 @@
     ],
     "name:new_x_preferred":[
         "\u0930\u093e\u092e\u0947\u091b\u093e\u092a \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Ramechhap"
     ],
     "name:nob_x_preferred":[
         "Ramechhap distrikt"
@@ -159,7 +159,7 @@
         }
     ],
     "wof:id":1092049711,
-    "wof:lastmodified":1555047491,
+    "wof:lastmodified":1561771967,
     "wof:name":"Ramechhap",
     "wof:parent_id":-1,
     "wof:placetype":"county",

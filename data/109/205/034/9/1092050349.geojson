@@ -43,14 +43,14 @@
     "name:bpy_x_preferred":[
         "\u09a1\u09cb\u09b2\u09cd\u09aa\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u5fb7\u5c14\u5e15"
-    ],
     "name:dan_x_preferred":[
         "Dolpa District"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dolpa"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03c5\u03bd\u03bf\u03b9\u03ba\u03af\u03b1 \u0394\u03cc\u03bb\u03c0\u03b1"
     ],
     "name:eng_x_preferred":[
         "Dolpa"
@@ -62,17 +62,11 @@
     "name:fin_x_preferred":[
         "Dolpan piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Dolpa"
     ],
     "name:fre_x_variant":[
         "district de Dolpa"
-    ],
-    "name:ger_x_preferred":[
-        "Dolpa"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03c5\u03bd\u03bf\u03b9\u03ba\u03af\u03b1 \u0394\u03cc\u03bb\u03c0\u03b1"
     ],
     "name:hif_x_preferred":[
         "Dolpa"
@@ -94,6 +88,9 @@
     ],
     "name:new_x_preferred":[
         "\u0921\u094b\u0932\u094d\u092a\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Dolpa"
     ],
     "name:nob_x_preferred":[
         "Dolpa distrikt"
@@ -124,6 +121,9 @@
     ],
     "name:vie_x_preferred":[
         "Dolpa"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u5c14\u5e15"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -168,7 +168,7 @@
         }
     ],
     "wof:id":1092050349,
-    "wof:lastmodified":1555047492,
+    "wof:lastmodified":1561771973,
     "wof:name":"Dolpa",
     "wof:parent_id":-1,
     "wof:placetype":"county",

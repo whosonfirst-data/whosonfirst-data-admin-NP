@@ -46,7 +46,7 @@
     "name:dan_x_preferred":[
         "Sarlahi District"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sarlahi"
     ],
     "name:eng_x_preferred":[
@@ -59,14 +59,11 @@
     "name:fin_x_preferred":[
         "Sarlahin piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sarlahi"
     ],
     "name:fre_x_variant":[
         "district de Sarlahi"
-    ],
-    "name:ger_x_preferred":[
-        "Sarlahi"
     ],
     "name:hif_x_preferred":[
         "Sarlahi"
@@ -88,6 +85,9 @@
     ],
     "name:new_x_preferred":[
         "\u0938\u0930\u094d\u0932\u093e\u0939\u0940"
+    ],
+    "name:nld_x_preferred":[
+        "Sarlahi"
     ],
     "name:nob_x_preferred":[
         "Sarlahi distrikt"
@@ -162,7 +162,7 @@
         }
     ],
     "wof:id":1092049639,
-    "wof:lastmodified":1555047491,
+    "wof:lastmodified":1561771965,
     "wof:name":"Sarlahi",
     "wof:parent_id":-1,
     "wof:placetype":"county",

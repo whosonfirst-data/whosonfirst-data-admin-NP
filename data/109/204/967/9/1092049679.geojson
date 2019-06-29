@@ -46,7 +46,7 @@
     "name:dan_x_preferred":[
         "Sindhuli District"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sindhuli"
     ],
     "name:eng_x_preferred":[
@@ -62,14 +62,11 @@
     "name:fin_x_preferred":[
         "Sindhulin piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sindhuli"
     ],
     "name:fre_x_variant":[
         "district de Sindhuli"
-    ],
-    "name:ger_x_preferred":[
-        "Sindhuli"
     ],
     "name:hif_x_preferred":[
         "Sindhuli"
@@ -94,6 +91,9 @@
     ],
     "name:new_x_preferred":[
         "\u0938\u093f\u0928\u094d\u0927\u0941\u0932\u0940"
+    ],
+    "name:nld_x_preferred":[
+        "Sindhuli"
     ],
     "name:nob_x_preferred":[
         "Sindhuli distrikt"
@@ -168,7 +168,7 @@
         }
     ],
     "wof:id":1092049679,
-    "wof:lastmodified":1555047491,
+    "wof:lastmodified":1561771968,
     "wof:name":"Sindhuli",
     "wof:parent_id":-1,
     "wof:placetype":"county",

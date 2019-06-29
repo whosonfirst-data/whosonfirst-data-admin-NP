@@ -40,13 +40,10 @@
     "name:bpy_x_preferred":[
         "\u09ae\u09c1\u09b8\u09cd\u09a4\u09be\u0999"
     ],
-    "name:chi_x_preferred":[
-        "\u6728\u65af\u5858"
-    ],
     "name:dan_x_preferred":[
         "Mustang District"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mustang"
     ],
     "name:eng_x_preferred":[
@@ -59,14 +56,11 @@
     "name:fin_x_preferred":[
         "Mustangin piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mustang"
     ],
     "name:fre_x_variant":[
         "district de Mustang"
-    ],
-    "name:ger_x_preferred":[
-        "Mustang"
     ],
     "name:hif_x_preferred":[
         "Mustang"
@@ -88,6 +82,9 @@
     ],
     "name:new_x_preferred":[
         "\u092e\u0941\u0938\u094d\u0924\u093e\u0919"
+    ],
+    "name:nld_x_preferred":[
+        "Mustang"
     ],
     "name:nob_x_preferred":[
         "Mustang distrikt"
@@ -121,6 +118,9 @@
     ],
     "name:vie_x_preferred":[
         "Mustang"
+    ],
+    "name:zho_x_preferred":[
+        "\u6728\u65af\u5858"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -165,7 +165,7 @@
         }
     ],
     "wof:id":1092048365,
-    "wof:lastmodified":1555047489,
+    "wof:lastmodified":1561771969,
     "wof:name":"Mustang",
     "wof:parent_id":-1,
     "wof:placetype":"county",

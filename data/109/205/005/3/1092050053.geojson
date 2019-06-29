@@ -49,7 +49,7 @@
     "name:dan_x_preferred":[
         "Tanahu District"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tanahu"
     ],
     "name:eng_x_preferred":[
@@ -62,14 +62,11 @@
     "name:fin_x_preferred":[
         "Tanahun piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tanahu"
     ],
     "name:fre_x_variant":[
         "district de Tanahu"
-    ],
-    "name:ger_x_preferred":[
-        "Tanahu"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0aa8\u0ab9\u0a8a \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -100,6 +97,9 @@
     ],
     "name:new_x_preferred":[
         "\u0924\u0928\u0939\u0941\u0901 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Tanahu"
     ],
     "name:nob_x_preferred":[
         "Tanahu distrikt"
@@ -174,7 +174,7 @@
         }
     ],
     "wof:id":1092050053,
-    "wof:lastmodified":1555047492,
+    "wof:lastmodified":1561771973,
     "wof:name":"Tanahu",
     "wof:parent_id":-1,
     "wof:placetype":"county",

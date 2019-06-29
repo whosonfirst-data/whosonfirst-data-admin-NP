@@ -21,16 +21,13 @@
     "name:bul_x_preferred":[
         "\u041b\u0443\u043a\u043b\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5362\u514b\u62c9"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Lukla"
     ],
     "name:dan_x_preferred":[
         "Lukla"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Lukla"
     ],
     "name:eng_x_preferred":[
@@ -43,12 +40,6 @@
         "Lukla"
     ],
     "name:fra_x_preferred":[
-        "Lukla"
-    ],
-    "name:fre_x_preferred":[
-        "Lukla"
-    ],
-    "name:ger_x_preferred":[
         "Lukla"
     ],
     "name:heb_x_preferred":[
@@ -74,6 +65,9 @@
     ],
     "name:nep_x_preferred":[
         "\u0932\u0941\u0915\u094d\u0932\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Lukla"
     ],
     "name:nob_x_preferred":[
         "Lukla"
@@ -131,7 +125,7 @@
         }
     ],
     "wof:id":890422357,
-    "wof:lastmodified":1527727162,
+    "wof:lastmodified":1561771999,
     "wof:name":"Lukla",
     "wof:parent_id":1092049841,
     "wof:placetype":"locality",

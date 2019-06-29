@@ -19,13 +19,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Chitre"
+    ],
     "name:eng_x_preferred":[
         "Chitre"
     ],
-    "name:ger_x_preferred":[
-        "Chitre"
-    ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Chitre"
     ],
     "name:nep_x_preferred":[
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":1125914963,
-    "wof:lastmodified":1514493640,
+    "wof:lastmodified":1561772001,
     "wof:name":"Chitre",
     "wof:parent_id":1092049089,
     "wof:placetype":"locality",
