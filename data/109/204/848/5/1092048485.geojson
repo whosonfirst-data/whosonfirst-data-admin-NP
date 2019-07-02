@@ -46,7 +46,7 @@
     "name:dan_x_preferred":[
         "Saptari District"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Saptari"
     ],
     "name:eng_x_preferred":[
@@ -59,14 +59,11 @@
     "name:fin_x_preferred":[
         "Saptarin piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Saptari"
     ],
     "name:fre_x_variant":[
         "district de Saptari"
-    ],
-    "name:ger_x_preferred":[
-        "Saptari"
     ],
     "name:hif_x_preferred":[
         "Saptari"
@@ -88,6 +85,9 @@
     ],
     "name:new_x_preferred":[
         "\u0938\u092a\u094d\u0924\u0930\u0940"
+    ],
+    "name:nld_x_preferred":[
+        "Saptari"
     ],
     "name:nob_x_preferred":[
         "Saptari distrikt"
@@ -162,7 +162,7 @@
         }
     ],
     "wof:id":1092048485,
-    "wof:lastmodified":1555047489,
+    "wof:lastmodified":1561771968,
     "wof:name":"Saptari",
     "wof:parent_id":-1,
     "wof:placetype":"county",

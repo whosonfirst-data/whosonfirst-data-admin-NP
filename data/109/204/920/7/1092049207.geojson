@@ -46,7 +46,7 @@
     "name:dan_x_preferred":[
         "Dhankuta District"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dhankuta"
     ],
     "name:eng_x_preferred":[
@@ -59,14 +59,11 @@
     "name:fin_x_preferred":[
         "Dhankutan piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Dhankuta"
     ],
     "name:fre_x_variant":[
         "district de Dhankuta"
-    ],
-    "name:ger_x_preferred":[
-        "Dhankuta"
     ],
     "name:hif_x_preferred":[
         "Dhankuta"
@@ -88,6 +85,9 @@
     ],
     "name:new_x_preferred":[
         "\u0927\u0928\u0915\u0941\u091f\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Dhankuta"
     ],
     "name:nob_x_preferred":[
         "Dhankuta distrikt"
@@ -162,7 +162,7 @@
         }
     ],
     "wof:id":1092049207,
-    "wof:lastmodified":1555047490,
+    "wof:lastmodified":1561771970,
     "wof:name":"Dhankuta",
     "wof:parent_id":-1,
     "wof:placetype":"county",

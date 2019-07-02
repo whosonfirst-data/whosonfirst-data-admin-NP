@@ -18,19 +18,13 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0644\u0627\u0646\u063a\u0627\u0648\u0627"
     ],
-    "name:chi_x_preferred":[
-        "\u9ed8\u502b\u74dc"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Malangwa"
     ],
     "name:eng_x_preferred":[
         "Malangawa"
     ],
-    "name:fre_x_preferred":[
-        "Malangwa"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Malangwa"
     ],
     "name:nep_x_preferred":[
@@ -38,6 +32,9 @@
     ],
     "name:new_x_preferred":[
         "\u092e\u0932\u0919\u0935\u093e \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Malangwa"
     ],
     "name:pol_x_preferred":[
         "Malangawa"
@@ -56,6 +53,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0644\u0646\u06af\u0648\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ed8\u502b\u74dc"
     ],
     "qs:name":"Malangwa",
     "qs:photos_9r":0,
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":890436993,
-    "wof:lastmodified":1527735403,
+    "wof:lastmodified":1561772000,
     "wof:name":"Malangwa",
     "wof:parent_id":1092049639,
     "wof:placetype":"locality",

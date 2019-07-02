@@ -22,14 +22,14 @@
     "name:ben_x_preferred":[
         "\u09a7\u09be\u09a8\u0997\u09be\u09a6\u09bf"
     ],
-    "name:chi_x_preferred":[
-        "\u4e39\u52a0\u5730"
-    ],
     "name:dan_x_preferred":[
         "Dhangadhi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dhangadhi"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03c7\u03b1\u03bd\u03b3\u03ba\u03ac\u03bd\u03c4\u03c7\u03b9"
     ],
     "name:eng_x_preferred":[
         "Dhangadhi"
@@ -37,14 +37,8 @@
     "name:fin_x_preferred":[
         "Dhangadhi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Dhangadhi"
-    ],
-    "name:ger_x_preferred":[
-        "Dhangadhi"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03c7\u03b1\u03bd\u03b3\u03ba\u03ac\u03bd\u03c4\u03c7\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aa7\u0a82\u0a97\u0aa7\u0abf"
@@ -79,7 +73,7 @@
     "name:mar_x_preferred":[
         "\u0927\u0928\u0917\u093e\u0927\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Dhangadhi"
     ],
     "name:nep_x_preferred":[
@@ -87,6 +81,9 @@
     ],
     "name:new_x_preferred":[
         "\u0927\u0928\u0917\u0922\u0940 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Dhangadhi"
     ],
     "name:nob_x_preferred":[
         "Dhangadhi"
@@ -132,6 +129,9 @@
     ],
     "name:vie_x_preferred":[
         "Dhangadhi"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e39\u52a0\u5730"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Nepal",
@@ -264,7 +264,7 @@
         }
     ],
     "wof:id":890431431,
-    "wof:lastmodified":1514493647,
+    "wof:lastmodified":1561772000,
     "wof:name":"Dhangarhi",
     "wof:parent_id":1092048743,
     "wof:placetype":"locality",

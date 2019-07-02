@@ -24,17 +24,17 @@
     "name:bho_x_preferred":[
         "\u0928\u0947\u092a\u093e\u0932\u0917\u091e\u094d\u091c"
     ],
-    "name:chi_x_preferred":[
-        "\u5c3c\u6cca\u723e\u6839\u5091"
-    ],
     "name:dan_x_preferred":[
         "Nepalgunj"
+    ],
+    "name:deu_x_preferred":[
+        "Nepalganj"
     ],
     "name:dty_x_preferred":[
         "\u0928\u0947\u092a\u093e\u0932\u0917\u091e\u094d\u091c \u0909\u092a\u092e\u0939\u093e\u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
-    "name:dut_x_preferred":[
-        "Nepalgunj"
+    "name:ell_x_preferred":[
+        "\u039d\u03b5\u03c0\u03ac\u03bb\u03b3\u03ba\u03bf\u03c5\u03bd\u03c4\u03b6"
     ],
     "name:eng_x_preferred":[
         "Nepalgunj"
@@ -42,17 +42,14 @@
     "name:epo_x_preferred":[
         "Nepalganj"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u067e\u0627\u0644\u200c\u06af\u0648\u0646\u062c"
+    ],
     "name:fin_x_preferred":[
         "Nepalgunj"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Nepalganj"
-    ],
-    "name:ger_x_preferred":[
-        "Nepalganj"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b5\u03c0\u03ac\u03bb\u03b3\u03ba\u03bf\u03c5\u03bd\u03c4\u03b6"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0ac7\u0aaa\u0abe\u0ab2\u0a97\u0a82\u0a9c"
@@ -90,7 +87,7 @@
     "name:mar_x_preferred":[
         "\u0928\u0947\u092a\u093e\u0933\u0917\u0902\u091c"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Nepalganj"
     ],
     "name:nep_x_preferred":[
@@ -99,11 +96,11 @@
     "name:new_x_preferred":[
         "\u0928\u0947\u092a\u093e\u0932\u0917\u091e\u094d\u091c \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
+    "name:nld_x_preferred":[
+        "Nepalgunj"
+    ],
     "name:nob_x_preferred":[
         "Nepalganj"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u067e\u0627\u0644\u200c\u06af\u0648\u0646\u062c"
     ],
     "name:pol_x_preferred":[
         "Nepalga\u0144d\u017a"
@@ -146,6 +143,9 @@
     ],
     "name:vie_x_preferred":[
         "Nepalgunj"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u6cca\u723e\u6839\u5091"
     ],
     "qs:name":"Nepalgunj",
     "qs:photos_9r":0,
@@ -192,7 +192,7 @@
         }
     ],
     "wof:id":890445603,
-    "wof:lastmodified":1527792869,
+    "wof:lastmodified":1561772000,
     "wof:name":"Nepalgunj",
     "wof:parent_id":1092050297,
     "wof:placetype":"locality",

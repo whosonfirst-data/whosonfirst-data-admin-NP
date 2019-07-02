@@ -13,22 +13,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u5df4\u5167\u5e15"
-    ],
     "name:deu_x_preferred":[
-        "Banepa"
-    ],
-    "name:dut_x_preferred":[
         "Banepa"
     ],
     "name:eng_x_preferred":[
         "Banepa"
     ],
-    "name:fre_x_preferred":[
-        "Banepa"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Banepa"
     ],
     "name:hin_x_preferred":[
@@ -36,9 +27,6 @@
     ],
     "name:mai_x_preferred":[
         "\u092c\u0928\u0947\u092a\u093e \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Banepa"
     ],
     "name:msa_x_preferred":[
         "Banepa"
@@ -48,6 +36,9 @@
     ],
     "name:new_x_preferred":[
         "\u092d\u094b\u0924 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Banepa"
     ],
     "name:pol_x_preferred":[
         "Banepa"
@@ -131,7 +122,7 @@
         }
     ],
     "wof:id":421166959,
-    "wof:lastmodified":1527716104,
+    "wof:lastmodified":1561771994,
     "wof:name":"Banepa",
     "wof:parent_id":1092048887,
     "wof:placetype":"locality",

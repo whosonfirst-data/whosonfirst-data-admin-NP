@@ -43,7 +43,7 @@
     "name:dan_x_preferred":[
         "Pyuthan District"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Pyuthan"
     ],
     "name:eng_x_preferred":[
@@ -56,14 +56,11 @@
     "name:fin_x_preferred":[
         "Pyuthanin piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pyuthan"
     ],
     "name:fre_x_variant":[
         "district de Pyuthan"
-    ],
-    "name:ger_x_preferred":[
-        "Pyuthan"
     ],
     "name:hif_x_preferred":[
         "Pyuthan"
@@ -85,6 +82,9 @@
     ],
     "name:new_x_preferred":[
         "\u092a\u094d\u092f\u0941\u0920\u093e\u0928"
+    ],
+    "name:nld_x_preferred":[
+        "Pyuthan"
     ],
     "name:nob_x_preferred":[
         "Pyuthan distrikt"
@@ -162,7 +162,7 @@
         }
     ],
     "wof:id":1092049377,
-    "wof:lastmodified":1555047491,
+    "wof:lastmodified":1561771965,
     "wof:name":"Pyuthan",
     "wof:parent_id":-1,
     "wof:placetype":"county",

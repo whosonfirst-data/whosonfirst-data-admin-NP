@@ -43,7 +43,7 @@
     "name:dan_x_preferred":[
         "Kalikot District"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kalikot"
     ],
     "name:eng_x_preferred":[
@@ -56,14 +56,11 @@
     "name:fin_x_preferred":[
         "Kalikotin piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kalikot"
     ],
     "name:fre_x_variant":[
         "district de Kalikot"
-    ],
-    "name:ger_x_preferred":[
-        "Kalikot"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0ab2\u0abf\u0a95\u0acb\u0a9f \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -88,6 +85,9 @@
     ],
     "name:new_x_preferred":[
         "\u0915\u093e\u0932\u093f\u0915\u094b\u091f \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Kalikot"
     ],
     "name:nob_x_preferred":[
         "Kalikot distrikt"
@@ -162,7 +162,7 @@
         }
     ],
     "wof:id":1092048809,
-    "wof:lastmodified":1555047490,
+    "wof:lastmodified":1561771965,
     "wof:name":"Kalikot",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -13,22 +13,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u9054\u723e\u6731\u62c9"
+    "name:deu_x_preferred":[
+        "Khalanga"
     ],
     "name:eng_x_preferred":[
         "Khalanga"
     ],
-    "name:fre_x_preferred":[
-        "Khalanga"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Khalanga"
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30e9\u30f3\u30ac"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Khalanga"
     ],
     "name:nep_x_preferred":[
@@ -45,6 +42,9 @@
     ],
     "name:unk_x_variant":[
         "Dh\u0101rchul\u0101"
+    ],
+    "name:zho_x_preferred":[
+        "\u9054\u723e\u6731\u62c9"
     ],
     "qs:gn_country":"NP",
     "qs:gn_fcode":"PPL",
@@ -93,7 +93,7 @@
         }
     ],
     "wof:id":421205195,
-    "wof:lastmodified":1553816391,
+    "wof:lastmodified":1561771995,
     "wof:name":"D\u00e5rchul\u00e5",
     "wof:parent_id":890503669,
     "wof:placetype":"locality",

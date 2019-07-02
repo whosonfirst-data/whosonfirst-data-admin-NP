@@ -40,7 +40,7 @@
     "name:dan_x_preferred":[
         "Chitwan District"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chitwan"
     ],
     "name:eng_x_preferred":[
@@ -53,14 +53,11 @@
     "name:fin_x_preferred":[
         "Chitawanin piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chitwan"
     ],
     "name:fre_x_variant":[
         "district de Chitwan"
-    ],
-    "name:ger_x_preferred":[
-        "Chitwan"
     ],
     "name:hif_x_preferred":[
         "Chitwan"
@@ -82,6 +79,9 @@
     ],
     "name:new_x_preferred":[
         "\u091a\u093f\u0924\u0935\u0928"
+    ],
+    "name:nld_x_preferred":[
+        "Chitwan"
     ],
     "name:nob_x_preferred":[
         "Chitwan distrikt"
@@ -156,7 +156,7 @@
         }
     ],
     "wof:id":1092050101,
-    "wof:lastmodified":1555047492,
+    "wof:lastmodified":1561771972,
     "wof:name":"Chitwan",
     "wof:parent_id":-1,
     "wof:placetype":"county",

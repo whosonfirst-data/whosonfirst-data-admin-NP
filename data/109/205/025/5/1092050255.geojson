@@ -46,7 +46,7 @@
     "name:dan_x_preferred":[
         "Baitadi District"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Baitadi"
     ],
     "name:eng_x_preferred":[
@@ -59,14 +59,11 @@
     "name:fin_x_preferred":[
         "Baitadin piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Baitadi"
     ],
     "name:fre_x_variant":[
         "district de Baitadi"
-    ],
-    "name:ger_x_preferred":[
-        "Baitadi"
     ],
     "name:hif_x_preferred":[
         "Baitadi"
@@ -88,6 +85,9 @@
     ],
     "name:new_x_preferred":[
         "\u092c\u0948\u0924\u0921\u0940"
+    ],
+    "name:nld_x_preferred":[
+        "Baitadi"
     ],
     "name:nob_x_preferred":[
         "Baitadi distrikt"
@@ -162,7 +162,7 @@
         }
     ],
     "wof:id":1092050255,
-    "wof:lastmodified":1555047492,
+    "wof:lastmodified":1561771971,
     "wof:name":"Baitadi",
     "wof:parent_id":-1,
     "wof:placetype":"county",

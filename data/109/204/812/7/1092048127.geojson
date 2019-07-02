@@ -46,8 +46,8 @@
     "name:dan_x_preferred":[
         "Dhanusa District"
     ],
-    "name:dut_x_preferred":[
-        "Dhanusa"
+    "name:deu_x_preferred":[
+        "Dhanusha"
     ],
     "name:eng_x_preferred":[
         "Dhanusa"
@@ -59,14 +59,11 @@
     "name:fin_x_preferred":[
         "Dhanusan piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Dhanusha"
     ],
     "name:fre_x_variant":[
         "district de Dhanusha"
-    ],
-    "name:ger_x_preferred":[
-        "Dhanusha"
     ],
     "name:hif_x_preferred":[
         "Dhanusha"
@@ -88,6 +85,9 @@
     ],
     "name:new_x_preferred":[
         "\u0927\u0928\u0941\u0937\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Dhanusa"
     ],
     "name:nob_x_preferred":[
         "Dhanusa distrikt"
@@ -162,7 +162,7 @@
         }
     ],
     "wof:id":1092048127,
-    "wof:lastmodified":1555047488,
+    "wof:lastmodified":1561771968,
     "wof:name":"Dhanusa",
     "wof:parent_id":-1,
     "wof:placetype":"county",
