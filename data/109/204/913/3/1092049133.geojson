@@ -40,11 +40,17 @@
     "name:ben_x_preferred":[
         "\u09a8\u09c1\u09af\u09bc\u09be\u0995\u09cb\u099f \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0928\u0941\u0935\u093e\u0915\u094b\u091f \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09a8\u09c1\u09f1\u09be\u0995\u09cb\u099f"
     ],
     "name:bul_x_preferred":[
         "\u041d\u0443\u0432\u0430\u043a\u043e\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Nuw\u0101kot"
     ],
     "name:dan_x_preferred":[
         "Nuwakot District"
@@ -52,11 +58,13 @@
     "name:deu_x_preferred":[
         "Nuwakot"
     ],
+    "name:dty_x_preferred":[
+        "\u0928\u0941\u0935\u093e\u0915\u094b\u091f \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Nuwakot"
     ],
     "name:eng_x_variant":[
-        "Nuwakot",
         "Nuwakot District"
     ],
     "name:fin_x_preferred":[
@@ -168,7 +176,7 @@
         }
     ],
     "wof:id":1092049133,
-    "wof:lastmodified":1561771967,
+    "wof:lastmodified":1563242359,
     "wof:name":"Nuwakot",
     "wof:parent_id":-1,
     "wof:placetype":"county",

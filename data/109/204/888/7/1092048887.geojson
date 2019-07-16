@@ -37,11 +37,17 @@
     "name:ben_x_preferred":[
         "\u0995\u09be\u09ad\u09cd\u09b0\u09c7\u09aa\u09b2\u09be\u099e\u09cd\u099a\u09cb\u0995 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0915\u093e\u092d\u094d\u0930\u0947\u092a\u0932\u093e\u0928\u094d\u091a\u094b\u0915 \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09ad\u09cd\u09b0\u09c7\u09aa\u09be\u09b2\u09cd\u099a\u09cb\u0995"
     ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u0432\u0440\u0435\u043f\u0430\u043b\u0430\u043d\u0447\u043e\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "K\u0101bhre Pal\u0101nchok"
     ],
     "name:dan_x_preferred":[
         "Kavrepalanchok District"
@@ -49,11 +55,13 @@
     "name:deu_x_preferred":[
         "Kabhrepalanchok"
     ],
+    "name:dty_x_preferred":[
+        "\u0915\u093e\u092d\u094d\u0930\u0947\u092a\u0932\u093e\u0928\u094d\u091a\u094b\u0915 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Kavrepalanchok"
     ],
     "name:eng_x_variant":[
-        "Kavrepalanchok",
         "Kavrepalanchok District"
     ],
     "name:fin_x_preferred":[
@@ -165,7 +173,7 @@
         }
     ],
     "wof:id":1092048887,
-    "wof:lastmodified":1561771966,
+    "wof:lastmodified":1563242351,
     "wof:name":"KavrePalanchok",
     "wof:parent_id":-1,
     "wof:placetype":"county",

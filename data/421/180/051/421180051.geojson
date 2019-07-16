@@ -16,13 +16,31 @@
     "name:bar_x_preferred":[
         "Bharatpur"
     ],
+    "name:ben_x_preferred":[
+        "\u09ad\u09b0\u09a4\u09aa\u09c1\u09b0"
+    ],
+    "name:bho_x_preferred":[
+        "\u092d\u0930\u0924\u092a\u0941\u0930"
+    ],
     "name:bih_x_preferred":[
         "\u092d\u0930\u0924\u092a\u0941\u0930"
+    ],
+    "name:ceb_x_preferred":[
+        "Bharatpur"
+    ],
+    "name:dan_x_preferred":[
+        "Bharatpur"
     ],
     "name:deu_x_preferred":[
         "Bharatpur"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03c7\u03b1\u03c1\u03b1\u03c4\u03c0\u03bf\u03cd\u03c1"
+    ],
     "name:eng_x_preferred":[
+        "Bharatpur"
+    ],
+    "name:epo_x_preferred":[
         "Bharatpur"
     ],
     "name:eus_x_preferred":[
@@ -34,11 +52,20 @@
     "name:fra_x_preferred":[
         "Bh\u00e2ratpur"
     ],
+    "name:guj_x_preferred":[
+        "\u0aad\u0ab0\u0aa4\u0aaa\u0ac1\u0ab0"
+    ],
     "name:hin_x_preferred":[
         "\u092d\u0930\u0924\u092a\u0941\u0930"
     ],
     "name:hin_x_variant":[
         "\u092d\u0930\u0924\u092a\u0941\u0930, \u0928\u0947\u092a\u093e\u0932"
+    ],
+    "name:hun_x_preferred":[
+        "Bharatpur"
+    ],
+    "name:ind_x_preferred":[
+        "Bharatpur"
     ],
     "name:ita_x_preferred":[
         "Bharatpur"
@@ -46,8 +73,29 @@
     "name:jpn_x_preferred":[
         "\u30d0\u30e9\u30c8\u30d7\u30eb"
     ],
+    "name:kan_x_preferred":[
+        "\u0cad\u0cb0\u0ca4\u0ccd\u0caa\u0cc1\u0cb0\u0ccd"
+    ],
     "name:kor_x_preferred":[
         "\ubc14\ub78f\ud478\ub974"
+    ],
+    "name:lav_x_preferred":[
+        "Baratpura"
+    ],
+    "name:lit_x_preferred":[
+        "Baratpuras"
+    ],
+    "name:mai_x_preferred":[
+        "\u092d\u0930\u0924\u092a\u0941\u0930 \u0909\u092a\u092e\u0939\u093e\u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2d\u0d30\u0d24\u0d4d\u0d2a\u0d42\u0d7c"
+    ],
+    "name:mar_x_preferred":[
+        "\u092d\u0930\u0924\u092a\u0942\u0930"
+    ],
+    "name:msa_x_preferred":[
+        "Bharatpur"
     ],
     "name:nep_x_preferred":[
         "\u092d\u0930\u0924\u092a\u0941\u0930 \u0909\u092a\u092e\u0939\u093e\u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
@@ -58,14 +106,50 @@
     "name:nld_x_preferred":[
         "Bharatpur"
     ],
+    "name:nob_x_preferred":[
+        "Bharatpur"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2d\u0a30\u0a24\u0a2a\u0a41\u0a30"
+    ],
     "name:pol_x_preferred":[
         "Bharatpur"
     ],
     "name:por_x_preferred":[
         "Bharatpur"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0445\u0430\u0440\u0430\u0442\u043f\u0443\u0440"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db7\u0dcf\u0dbb\u0dad\u0dca\u0db4\u0dd4\u0dbb\u0dca ,\u0db1\u0dda\u0db4\u0dcf\u0dbd\u0dba"
+    ],
+    "name:swe_x_preferred":[
+        "Bharatpur"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbe\u0bb0\u0bc6\u0b9f\u0bcd\u0baa\u0bc1\u0bb1\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2d\u0c30\u0c24\u0c4d\u0c2a\u0c42\u0c30\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e32\u0e23\u0e31\u0e15\u0e1b\u0e38\u0e23\u0e30"
+    ],
+    "name:tur_x_preferred":[
+        "Bharatpur"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0445\u0430\u0440\u0430\u0442\u043f\u0443\u0440"
+    ],
     "name:urd_x_preferred":[
         "\u0628\u06be\u0631\u062a\u067e\u0648\u0631\u060c \u0646\u06cc\u067e\u0627\u0644"
+    ],
+    "name:urd_x_variant":[
+        "\u0628\u06be\u0631\u062a\u067e\u0648\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Bharatpur"
     ],
     "name:zho_x_preferred":[
         "\u5a46\u7f85\u591a\u5e03\u723e"
@@ -126,7 +210,7 @@
         }
     ],
     "wof:id":421180051,
-    "wof:lastmodified":1527716241,
+    "wof:lastmodified":1563242702,
     "wof:name":"Bharatpur",
     "wof:parent_id":1092050101,
     "wof:placetype":"locality",

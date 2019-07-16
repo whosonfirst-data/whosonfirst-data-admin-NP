@@ -37,8 +37,14 @@
     "name:ben_x_preferred":[
         "\u09ae\u09a8\u09be\u0999 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u092e\u0928\u093e\u0902\u0917 \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09ae\u09a8\u09be\u0999"
+    ],
+    "name:ceb_x_preferred":[
+        "Manang"
     ],
     "name:dan_x_preferred":[
         "Manang District"
@@ -46,11 +52,13 @@
     "name:deu_x_preferred":[
         "Manang"
     ],
+    "name:dty_x_preferred":[
+        "\u092e\u0928\u093e\u0919 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Manang"
     ],
     "name:eng_x_variant":[
-        "Manang",
         "Manang District"
     ],
     "name:fin_x_preferred":[
@@ -116,6 +124,9 @@
     "name:urd_x_preferred":[
         "\u0645\u0627\u0646\u0627\u0646\u06af \u0636\u0644\u0639\u060c \u0646\u06cc\u067e\u0627\u0644"
     ],
+    "name:urd_x_variant":[
+        "\u0645\u0627\u0646\u0627\u0646\u06af \u0636\u0644\u0639"
+    ],
     "name:vie_x_preferred":[
         "Manang"
     ],
@@ -165,7 +176,7 @@
         }
     ],
     "wof:id":1092049041,
-    "wof:lastmodified":1561771968,
+    "wof:lastmodified":1563242360,
     "wof:name":"Manang",
     "wof:parent_id":-1,
     "wof:placetype":"county",

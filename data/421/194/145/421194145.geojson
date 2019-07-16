@@ -16,14 +16,26 @@
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09b0\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u092c\u093e\u0930\u093e \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b0\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "B\u0101r\u0101"
     ],
     "name:dan_x_preferred":[
         "Bara District"
     ],
     "name:deu_x_preferred":[
         "Bara"
+    ],
+    "name:dty_x_preferred":[
+        "\u092c\u093e\u0930\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:eng_x_preferred":[
+        "Bara District"
     ],
     "name:fin_x_preferred":[
         "Baran piirikunta"
@@ -34,11 +46,17 @@
     "name:hif_x_preferred":[
         "Bara jila"
     ],
+    "name:hif_x_variant":[
+        "Bara"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u093e\u0930\u093e \u091c\u093f\u0932\u093e"
     ],
     "name:ita_x_preferred":[
         "Distretto di Bara"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30e9\u90e1"
     ],
     "name:mai_x_preferred":[
         "\u092c\u093e\u0930\u093e \u091c\u093f\u0932\u093e"
@@ -51,6 +69,9 @@
     ],
     "name:nld_x_preferred":[
         "Bara"
+    ],
+    "name:nob_x_preferred":[
+        "Bara distrikt"
     ],
     "name:nor_x_preferred":[
         "Bara"
@@ -70,6 +91,12 @@
     "name:san_x_preferred":[
         "\u092c\u093e\u0930\u093e\u092e\u0923\u094d\u0921\u0932\u092e\u094d"
     ],
+    "name:spa_x_preferred":[
+        "Bara"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbe\u0bb0\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
     "name:unk_x_variant":[
         "B\u0101r\u0101"
     ],
@@ -78,6 +105,9 @@
     ],
     "name:vie_x_preferred":[
         "Bara"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u62c9"
     ],
     "qs:gn_country":"NP",
     "qs:gn_fcode":"ADM3",
@@ -135,7 +165,7 @@
         }
     ],
     "wof:id":421194145,
-    "wof:lastmodified":1527716132,
+    "wof:lastmodified":1563242691,
     "wof:name":"Bara",
     "wof:parent_id":1092048051,
     "wof:placetype":"localadmin",

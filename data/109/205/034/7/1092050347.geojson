@@ -40,6 +40,9 @@
     "name:ben_x_preferred":[
         "\u09a6\u09be\u09b0\u09cd\u099a\u09c1\u09b2\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0926\u093e\u0930\u094d\u091a\u0941\u0932\u093e \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09a6\u09be\u09b0\u09cd\u099a\u09c1\u09b2\u09be"
     ],
@@ -49,11 +52,13 @@
     "name:deu_x_preferred":[
         "Darchula"
     ],
+    "name:dty_x_preferred":[
+        "\u0926\u093e\u0930\u094d\u091a\u0941\u0932\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Darchula"
     ],
     "name:eng_x_variant":[
-        "Darchula",
         "Darchula District"
     ],
     "name:fin_x_preferred":[
@@ -165,7 +170,7 @@
         }
     ],
     "wof:id":1092050347,
-    "wof:lastmodified":1561771973,
+    "wof:lastmodified":1563242379,
     "wof:name":"Darchula",
     "wof:parent_id":-1,
     "wof:placetype":"county",

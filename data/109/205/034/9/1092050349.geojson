@@ -40,6 +40,9 @@
     "name:ben_x_preferred":[
         "\u09a1\u09cb\u09b2\u09cd\u09aa\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0921\u094b\u0932\u094d\u092a\u093e \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09a1\u09cb\u09b2\u09cd\u09aa\u09be"
     ],
@@ -49,6 +52,9 @@
     "name:deu_x_preferred":[
         "Dolpa"
     ],
+    "name:dty_x_preferred":[
+        "\u0921\u094b\u0932\u094d\u092a\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03c5\u03bd\u03bf\u03b9\u03ba\u03af\u03b1 \u0394\u03cc\u03bb\u03c0\u03b1"
     ],
@@ -56,7 +62,6 @@
         "Dolpa"
     ],
     "name:eng_x_variant":[
-        "Dolpa",
         "Dolpa District"
     ],
     "name:fin_x_preferred":[
@@ -67,6 +72,9 @@
     ],
     "name:fre_x_variant":[
         "district de Dolpa"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa6\u0acb\u0ab2\u0aaa\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
     "name:hif_x_preferred":[
         "Dolpa"
@@ -168,7 +176,7 @@
         }
     ],
     "wof:id":1092050349,
-    "wof:lastmodified":1561771973,
+    "wof:lastmodified":1563242379,
     "wof:name":"Dolpa",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -49,11 +49,13 @@
     "name:deu_x_preferred":[
         "Dhankuta"
     ],
+    "name:dty_x_preferred":[
+        "\u0927\u0928\u0915\u0941\u091f\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Dhankuta"
     ],
     "name:eng_x_variant":[
-        "Dhankuta",
         "Dhankuta District"
     ],
     "name:fin_x_preferred":[
@@ -79,6 +81,9 @@
     ],
     "name:mai_x_preferred":[
         "\u0927\u0928\u0915\u0941\u091f\u093e \u091c\u093f\u0932\u093e"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d27\u0d7b\u0d15\u0d41\u0d1f\u0d3e \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:nep_x_preferred":[
         "\u0927\u0928\u0915\u0941\u091f\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
@@ -162,7 +167,7 @@
         }
     ],
     "wof:id":1092049207,
-    "wof:lastmodified":1561771970,
+    "wof:lastmodified":1563242369,
     "wof:name":"Dhankuta",
     "wof:parent_id":-1,
     "wof:placetype":"county",

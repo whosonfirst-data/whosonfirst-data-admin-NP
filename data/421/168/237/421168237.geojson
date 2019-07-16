@@ -16,14 +16,23 @@
     "name:bul_x_preferred":[
         "\u041b\u043e\u043c\u0430\u043d\u0442\u0445\u0430\u043d\u0433"
     ],
+    "name:ceb_x_preferred":[
+        "Lomanthang"
+    ],
     "name:deu_x_preferred":[
         "Mustang"
     ],
     "name:deu_x_variant":[
         "Lo Manthang"
     ],
+    "name:dty_x_preferred":[
+        "\u0932\u094b\u092e\u093e\u0928\u094d\u0925\u093e\u0919"
+    ],
     "name:eng_x_preferred":[
         "Mustang"
+    ],
+    "name:eng_x_variant":[
+        "Lo Manthang"
     ],
     "name:fra_x_preferred":[
         "Mustang"
@@ -40,8 +49,14 @@
     "name:jpn_x_preferred":[
         "\u30e0\u30b9\u30bf\u30f3\u738b\u56fd"
     ],
+    "name:jpn_x_variant":[
+        "\u30ed\u30fc\u30de\u30f3\u30bf\u30f3"
+    ],
     "name:lit_x_preferred":[
         "Lo Manthangas"
+    ],
+    "name:mai_x_preferred":[
+        "\u0932\u094b\u092e\u093e\u0928\u094d\u0925\u093e\u0919"
     ],
     "name:msa_x_preferred":[
         "Lo Manthang"
@@ -61,11 +76,17 @@
     "name:rus_x_preferred":[
         "\u041c\u0443\u0441\u0442\u0430\u043d\u0433"
     ],
+    "name:rus_x_variant":[
+        "\u041b\u043e \u041c\u0430\u043d\u0442\u0430\u043d\u0433"
+    ],
     "name:spa_x_preferred":[
         "Mustang"
     ],
     "name:swe_x_preferred":[
         "Mustang"
+    ],
+    "name:swe_x_variant":[
+        "Lo Manthang"
     ],
     "name:tat_x_preferred":[
         "\u041b\u043e \u041c\u0430\u043d\u0442\u0430\u043d\u0433"
@@ -133,7 +154,7 @@
         }
     ],
     "wof:id":421168237,
-    "wof:lastmodified":1561771994,
+    "wof:lastmodified":1563242688,
     "wof:name":"Must\u00e5ng",
     "wof:parent_id":1092048365,
     "wof:placetype":"locality",

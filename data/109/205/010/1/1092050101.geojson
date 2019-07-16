@@ -37,11 +37,17 @@
     "name:ben_x_preferred":[
         "\u099a\u09bf\u09a4\u09ac\u09a8 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u091a\u093f\u0924\u0935\u0928 \u091c\u093f\u0932\u093e"
+    ],
     "name:dan_x_preferred":[
         "Chitwan District"
     ],
     "name:deu_x_preferred":[
         "Chitwan"
+    ],
+    "name:dty_x_preferred":[
+        "\u091a\u093f\u0924\u0935\u0928 \u091c\u093f\u0932\u094d\u0932\u093e"
     ],
     "name:eng_x_preferred":[
         "Chitwan"
@@ -58,6 +64,9 @@
     ],
     "name:fre_x_variant":[
         "district de Chitwan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d9\u05d8\u05d5\u05d5\u05d0\u05df"
     ],
     "name:hif_x_preferred":[
         "Chitwan"
@@ -156,7 +165,7 @@
         }
     ],
     "wof:id":1092050101,
-    "wof:lastmodified":1561771972,
+    "wof:lastmodified":1563242377,
     "wof:name":"Chitwan",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -13,6 +13,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0647\u0627\u0643\u062a\u0627\u0628\u0648\u0631"
+    ],
+    "name:aze_x_preferred":[
+        "Bhaktapur"
+    ],
+    "name:bho_x_preferred":[
+        "\u092d\u093e\u0926\u0917\u093e\u0909\u0901"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0445\u0430\u043a\u0442\u0430\u043f\u0443\u0440"
     ],
@@ -22,11 +31,17 @@
     "name:deu_x_preferred":[
         "Bhaktapur"
     ],
+    "name:eng_x_preferred":[
+        "Bhaktapur"
+    ],
     "name:epo_x_preferred":[
         "Bhaktapur"
     ],
     "name:eus_x_preferred":[
         "Bhaktapur"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0647\u06a9\u062a\u200c\u067e\u0648\u0631"
     ],
     "name:fin_x_preferred":[
         "Bhaktapur"
@@ -37,6 +52,9 @@
     "name:hbs_x_preferred":[
         "Bhaktapur"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d4\u05e7\u05d8\u05e4\u05d5\u05e8"
+    ],
     "name:hin_x_preferred":[
         "\u092d\u0915\u094d\u0924\u092a\u0941\u0930"
     ],
@@ -44,6 +62,9 @@
         "Bhaktapur"
     ],
     "name:hun_x_preferred":[
+        "Bhaktapur"
+    ],
+    "name:ind_x_preferred":[
         "Bhaktapur"
     ],
     "name:ita_x_preferred":[
@@ -61,16 +82,25 @@
     "name:ltz_x_preferred":[
         "Bhaktapur"
     ],
+    "name:mai_x_preferred":[
+        "\u092d\u0915\u094d\u0924\u092a\u0941\u0930"
+    ],
     "name:msa_x_preferred":[
         "Bhaktapur"
     ],
     "name:nep_x_preferred":[
         "\u092d\u0915\u094d\u0924\u092a\u0941\u0930 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
+    "name:nep_x_variant":[
+        "\u092d\u0915\u094d\u0924\u092a\u0941\u0930"
+    ],
     "name:new_x_preferred":[
         "\u0916\u094d\u0935\u092a \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
     "name:nld_x_preferred":[
+        "Bhaktapur"
+    ],
+    "name:nob_x_preferred":[
         "Bhaktapur"
     ],
     "name:nor_x_preferred":[
@@ -85,11 +115,17 @@
     "name:rus_x_preferred":[
         "\u0411\u0445\u0430\u043a\u0442\u0430\u043f\u0443\u0440"
     ],
+    "name:slv_x_preferred":[
+        "Bhaktapur"
+    ],
     "name:spa_x_preferred":[
         "Bhaktapur"
     ],
     "name:swe_x_preferred":[
         "Bhaktapur"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0b95\u0bcd\u0ba4\u0baa\u0bc2\u0bb0\u0bcd"
     ],
     "name:tha_x_preferred":[
         "\u0e20\u0e31\u0e01\u0e15\u0e1b\u0e38\u0e23\u0e30"
@@ -105,6 +141,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u06be\u06af\u062a\u0627\u067e\u0648\u0631"
+    ],
+    "name:urd_x_variant":[
+        "\u0628\u06be\u06a9\u062a\u067e\u0648\u0631"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u514b\u5854\u666e\u723e"
@@ -165,7 +204,7 @@
         }
     ],
     "wof:id":421194121,
-    "wof:lastmodified":1527716132,
+    "wof:lastmodified":1563242692,
     "wof:name":"Bhaktapur",
     "wof:parent_id":1092048853,
     "wof:placetype":"localadmin",

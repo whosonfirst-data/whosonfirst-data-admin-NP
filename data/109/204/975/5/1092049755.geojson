@@ -37,6 +37,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u09a8\u09cd\u09a7\u09c1\u09aa\u09be\u09b2\u099a\u09cb\u0995 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0938\u093f\u0928\u094d\u0927\u0941\u092a\u093e\u0932\u094d\u091a\u094b\u0915 \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09b8\u09bf\u09a8\u09cd\u09a7\u09c1\u09aa\u09be\u09b2\u09cd\u099a\u09cb\u0995"
     ],
@@ -49,11 +52,13 @@
     "name:deu_x_preferred":[
         "Sindhupalchok"
     ],
+    "name:dty_x_preferred":[
+        "\u0938\u093f\u0928\u094d\u0927\u0941\u092a\u093e\u0932\u094d\u091a\u094b\u0915 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Sindhupalchok"
     ],
     "name:eng_x_variant":[
-        "Sindhupalchok",
         "Sindhulpalchok District"
     ],
     "name:fin_x_preferred":[
@@ -168,7 +173,7 @@
         }
     ],
     "wof:id":1092049755,
-    "wof:lastmodified":1561771970,
+    "wof:lastmodified":1563242370,
     "wof:name":"Sindhupalchok",
     "wof:parent_id":-1,
     "wof:placetype":"county",

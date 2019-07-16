@@ -37,8 +37,14 @@
     "name:ben_x_preferred":[
         "\u09b9\u09c1\u09ae\u09cd\u09b2\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0939\u0941\u092e\u094d\u0932\u093e \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09b9\u09c1\u09ae\u09cd\u09b2\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Huml\u0101"
     ],
     "name:dan_x_preferred":[
         "Humla District"
@@ -46,11 +52,13 @@
     "name:deu_x_preferred":[
         "Humla"
     ],
+    "name:dty_x_preferred":[
+        "\u0939\u0941\u092e\u094d\u0932\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Humla"
     ],
     "name:eng_x_variant":[
-        "Humla",
         "Humla District"
     ],
     "name:fin_x_preferred":[
@@ -79,6 +87,9 @@
     ],
     "name:mai_x_preferred":[
         "\u0939\u0941\u092e\u094d\u0932\u093e \u091c\u093f\u0932\u093e"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d39\u0d02\u0d32 \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:nep_x_preferred":[
         "\u0939\u0941\u092e\u094d\u0932\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
@@ -168,7 +179,7 @@
         }
     ],
     "wof:id":1092050353,
-    "wof:lastmodified":1561771972,
+    "wof:lastmodified":1563242378,
     "wof:name":"Humla",
     "wof:parent_id":-1,
     "wof:placetype":"county",

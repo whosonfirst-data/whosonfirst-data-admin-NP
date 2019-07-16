@@ -21,14 +21,26 @@
     "name:ben_x_preferred":[
         "\u0995\u099e\u09cd\u099a\u09a8\u09aa\u09c1\u09b0 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0915\u0902\u091a\u0928\u092a\u0941\u0930 \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u0995\u09be\u099e\u09cd\u099a\u09a8\u09aa\u09c1\u09b0"
+    ],
+    "name:ceb_x_preferred":[
+        "Kanchanpur"
     ],
     "name:dan_x_preferred":[
         "Kanchanpur District"
     ],
     "name:deu_x_preferred":[
         "Kanchanpur"
+    ],
+    "name:dty_x_preferred":[
+        "\u0915\u091e\u094d\u091a\u0928\u092a\u0941\u0930 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:eng_x_preferred":[
+        "Kanchanpur District"
     ],
     "name:fin_x_preferred":[
         "Kanchanpurin piirikunta"
@@ -48,6 +60,9 @@
     "name:ita_x_preferred":[
         "Distretto di Kanchanpur"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30f3\u30c1\u30e3\u30f3\u30d7\u30eb\u90e1"
+    ],
     "name:mai_x_preferred":[
         "\u0915\u091e\u094d\u091a\u0928\u092a\u0941\u0930 \u091c\u093f\u0932\u093e"
     ],
@@ -57,8 +72,14 @@
     "name:new_x_preferred":[
         "\u0915\u091e\u094d\u091a\u0928\u092a\u0941\u0930 \u091c\u093f\u0932\u094d\u0932\u093e"
     ],
+    "name:new_x_variant":[
+        "\u0915\u091e\u094d\u091a\u0928\u092a\u0941\u0930"
+    ],
     "name:nld_x_preferred":[
         "Kanchanpur"
+    ],
+    "name:nob_x_preferred":[
+        "Kanchanpur distrikt"
     ],
     "name:nor_x_preferred":[
         "Kanchanpur"
@@ -77,6 +98,12 @@
     ],
     "name:san_x_preferred":[
         "\u0915\u091e\u094d\u091a\u0928\u092a\u0941\u0930\u092e\u0923\u094d\u0921\u0932\u092e\u094d"
+    ],
+    "name:spa_x_preferred":[
+        "Kanchanpur"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0b9e\u0bcd\u0b9a\u0ba9\u0bcd\u0baa\u0bc2\u0bb0\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:unk_x_variant":[
         "Kanchanpur District"
@@ -150,7 +177,7 @@
         }
     ],
     "wof:id":1125290651,
-    "wof:lastmodified":1534379388,
+    "wof:lastmodified":1563242754,
     "wof:name":"Kanchanpur",
     "wof:parent_id":1092048227,
     "wof:placetype":"localadmin",

@@ -16,8 +16,17 @@
     "name:ben_x_preferred":[
         "\u09a4\u09c7\u09b0\u09a5\u09c1\u09ae \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0924\u0947\u0939\u094d\u0930\u0925\u0941\u092e \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09a4\u09c7\u09b0\u09a5\u09c1\u09ae"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0435\u0440\u0445\u0430\u0442\u0445\u0443\u043c"
+    ],
+    "name:ceb_x_preferred":[
+        "Terhathum"
     ],
     "name:dan_x_preferred":[
         "Terhathum District"
@@ -25,8 +34,17 @@
     "name:deu_x_preferred":[
         "Terhathum"
     ],
+    "name:dty_x_preferred":[
+        "\u0924\u0947\u0939\u094d\u0930\u0925\u0941\u092e \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:eng_x_preferred":[
+        "Tehrathum District"
+    ],
     "name:fra_x_preferred":[
         "District de Terhathum"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d8\u05e8\u05d7\u05d8\u05d7\u05d5\u05dd"
     ],
     "name:hif_x_preferred":[
         "Terahathum"
@@ -36,6 +54,9 @@
     ],
     "name:ita_x_preferred":[
         "Distretto di Terhathum"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30e9\u30c8\u30a5\u30e0\u90e1"
     ],
     "name:mai_x_preferred":[
         "\u0924\u0947\u0939\u094d\u0930\u0925\u0941\u092e \u091c\u093f\u0932\u093e"
@@ -48,6 +69,9 @@
     ],
     "name:nld_x_preferred":[
         "Terhathum"
+    ],
+    "name:nob_x_preferred":[
+        "Terhathum distrikt"
     ],
     "name:nor_x_preferred":[
         "Terhathum"
@@ -70,8 +94,23 @@
     "name:spa_x_preferred":[
         "Distrito de Terhathum"
     ],
+    "name:spa_x_variant":[
+        "Terhathum"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bc7\u0bb9\u0bcd\u0bb0\u0ba4\u0bc1\u0bae\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u06cc\u0631\u06c1\u0627\u062a\u06be\u0648\u0645 \u0636\u0644\u0639"
+    ],
     "name:vie_x_preferred":[
         "Terhathum"
+    ],
+    "name:vie_x_variant":[
+        "Huy\u1ec7n Terhathum"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fea\u83ef\u6c39\u5340"
     ],
     "qs:gn_country":"NP",
     "qs:gn_fcode":"ADM3",
@@ -128,7 +167,7 @@
         }
     ],
     "wof:id":421193047,
-    "wof:lastmodified":1527716142,
+    "wof:lastmodified":1563242692,
     "wof:name":"Terhathum",
     "wof:parent_id":1092050137,
     "wof:placetype":"localadmin",

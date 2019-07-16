@@ -37,6 +37,9 @@
     "name:ben_x_preferred":[
         "\u0993\u0996\u09b2\u09a2\u09c1\u0999\u09cd\u0997\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0913\u0916\u0932\u0922\u0941\u0902\u0917\u093e \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u0993\u0996\u09b2\u09a2\u09c1\u0982\u0997\u09be"
     ],
@@ -46,11 +49,13 @@
     "name:deu_x_preferred":[
         "Okhaldhunga"
     ],
+    "name:dty_x_preferred":[
+        "\u0913\u0916\u0932\u0922\u0941\u0919\u094d\u0917\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Okhaldhunga"
     ],
     "name:eng_x_variant":[
-        "Okhaldhunga",
         "Okhaldhunga District"
     ],
     "name:fin_x_preferred":[
@@ -58,6 +63,9 @@
     ],
     "name:fra_x_preferred":[
         "Okhaldhunga"
+    ],
+    "name:fra_x_variant":[
+        "district d'Okhaldhunga"
     ],
     "name:fre_x_variant":[
         "district d'Okhaldhunga"
@@ -159,7 +167,7 @@
         }
     ],
     "wof:id":1092050225,
-    "wof:lastmodified":1561771971,
+    "wof:lastmodified":1563242373,
     "wof:name":"Okhaldhunga",
     "wof:parent_id":-1,
     "wof:placetype":"county",

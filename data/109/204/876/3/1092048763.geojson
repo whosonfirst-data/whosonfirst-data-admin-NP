@@ -37,6 +37,9 @@
     "name:ben_x_preferred":[
         "\u099c\u09be\u099c\u09b0\u0995\u09cb\u099f \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u091c\u093e\u091c\u0930\u0915\u094b\u091f \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u099c\u09be\u099c\u09b0\u0995\u09cb\u099f \u099c\u09bf\u09b2\u09be"
     ],
@@ -46,11 +49,13 @@
     "name:deu_x_preferred":[
         "Jajarkot"
     ],
+    "name:dty_x_preferred":[
+        "\u091c\u093e\u091c\u0930\u0915\u094b\u091f \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Jajarkot"
     ],
     "name:eng_x_variant":[
-        "Jajarkot",
         "Jajarkot District"
     ],
     "name:fin_x_preferred":[
@@ -162,7 +167,7 @@
         }
     ],
     "wof:id":1092048763,
-    "wof:lastmodified":1561771968,
+    "wof:lastmodified":1563242362,
     "wof:name":"Jajarkot",
     "wof:parent_id":-1,
     "wof:placetype":"county",

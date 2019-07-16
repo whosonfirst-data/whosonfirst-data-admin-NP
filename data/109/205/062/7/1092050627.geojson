@@ -43,6 +43,9 @@
     "name:bho_x_preferred":[
         "\u092c\u093e\u091c\u0941\u0930\u093e \u091c\u093f\u0932\u093e"
     ],
+    "name:ceb_x_preferred":[
+        "B\u0101jura"
+    ],
     "name:ces_x_preferred":[
         "Bajura"
     ],
@@ -52,11 +55,13 @@
     "name:deu_x_preferred":[
         "Bajura"
     ],
+    "name:dty_x_preferred":[
+        "\u092c\u093e\u091c\u0941\u0930\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Bajura"
     ],
     "name:eng_x_variant":[
-        "Bajura",
         "Bajura District"
     ],
     "name:fin_x_preferred":[
@@ -67,6 +72,9 @@
     ],
     "name:fre_x_variant":[
         "district de Bajura"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0abe\u0a9c\u0ac1\u0ab0\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
     "name:hif_x_preferred":[
         "Bajura"
@@ -168,7 +176,7 @@
         }
     ],
     "wof:id":1092050627,
-    "wof:lastmodified":1561771971,
+    "wof:lastmodified":1563242374,
     "wof:name":"Bajura",
     "wof:parent_id":-1,
     "wof:placetype":"county",

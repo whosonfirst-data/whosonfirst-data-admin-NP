@@ -13,8 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062f\u0645\u0643"
+    ],
+    "name:bho_x_preferred":[
+        "\u0926\u092e\u0915"
+    ],
     "name:deu_x_preferred":[
         "Damak"
+    ],
+    "name:dty_x_preferred":[
+        "\u0926\u092e\u0915 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
     "name:eng_x_preferred":[
         "Damak"
@@ -22,10 +31,16 @@
     "name:eus_x_preferred":[
         "Damak"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0645\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Damak"
     ],
     "name:fra_x_preferred":[
+        "Damak"
+    ],
+    "name:hif_x_preferred":[
         "Damak"
     ],
     "name:hin_x_preferred":[
@@ -121,7 +136,7 @@
         }
     ],
     "wof:id":421177859,
-    "wof:lastmodified":1561771998,
+    "wof:lastmodified":1563242730,
     "wof:name":"Damak",
     "wof:parent_id":1092050367,
     "wof:placetype":"locality",

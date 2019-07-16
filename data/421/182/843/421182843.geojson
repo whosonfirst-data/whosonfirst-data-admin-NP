@@ -19,14 +19,26 @@
     "name:ben_x_preferred":[
         "\u09b0\u09cc\u09a4\u09b9\u099f \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0930\u094c\u0924\u0939\u091f \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09b0\u09cc\u09a4\u09b9\u099f"
+    ],
+    "name:ceb_x_preferred":[
+        "Rautahat"
     ],
     "name:dan_x_preferred":[
         "Rautahat District"
     ],
     "name:deu_x_preferred":[
         "Rautahat"
+    ],
+    "name:dty_x_preferred":[
+        "\u0930\u094c\u0924\u0939\u091f \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:eng_x_preferred":[
+        "Rautahat District"
     ],
     "name:fin_x_preferred":[
         "Rautahatin piirikunta"
@@ -43,6 +55,9 @@
     "name:ita_x_preferred":[
         "Distretto di Rautahat"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30a6\u30bf\u30cf\u30c8\u90e1"
+    ],
     "name:mai_x_preferred":[
         "\u0930\u094c\u0924\u0939\u091f \u091c\u093f\u0932\u093e"
     ],
@@ -54,6 +69,9 @@
     ],
     "name:nld_x_preferred":[
         "Rautahat"
+    ],
+    "name:nob_x_preferred":[
+        "Rautahat distrikt"
     ],
     "name:nor_x_preferred":[
         "Rautahat"
@@ -73,11 +91,23 @@
     "name:san_x_preferred":[
         "\u0930\u094c\u0924\u0939\u091f\u092e\u0923\u094d\u0921\u0932\u092e\u094d"
     ],
+    "name:spa_x_preferred":[
+        "Rautahat"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb0\u0bb5\u0bc1\u0ba4\u0bb9\u0b9f\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
     "name:unk_x_variant":[
         "Rauthat"
     ],
+    "name:urd_x_preferred":[
+        "\u0631\u0627\u0648\u062a\u0627\u06c1\u0627\u062a \u0636\u0644\u0639"
+    ],
     "name:vie_x_preferred":[
         "Rautahat"
+    ],
+    "name:vie_x_variant":[
+        "Huy\u1ec7n Rautahat"
     ],
     "qs:gn_country":"NP",
     "qs:gn_fcode":"ADM3",
@@ -154,7 +184,7 @@
         }
     ],
     "wof:id":421182843,
-    "wof:lastmodified":1534379389,
+    "wof:lastmodified":1563242737,
     "wof:name":"Rautahat",
     "wof:parent_id":1092049419,
     "wof:placetype":"localadmin",

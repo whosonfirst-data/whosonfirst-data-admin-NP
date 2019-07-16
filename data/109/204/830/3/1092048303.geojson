@@ -43,17 +43,22 @@
     "name:bpy_x_preferred":[
         "\u09ae\u09cb\u09b0\u0999"
     ],
+    "name:ceb_x_preferred":[
+        "Morang"
+    ],
     "name:dan_x_preferred":[
         "Morang District"
     ],
     "name:deu_x_preferred":[
         "Morang"
     ],
+    "name:dty_x_preferred":[
+        "\u092e\u094b\u0930\u0919 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Morang"
     ],
     "name:eng_x_variant":[
-        "Morang",
         "Morang District"
     ],
     "name:fin_x_preferred":[
@@ -119,6 +124,9 @@
     "name:san_x_preferred":[
         "\u092e\u094b\u0930\u0919\u092e\u0923\u094d\u0921\u0932\u092e\u094d"
     ],
+    "name:sat_x_preferred":[
+        "\u1c62\u1c73\u1c68\u1c5a\u1c5d \u1c61\u1c64\u1c5e\u1c5f."
+    ],
     "name:spa_x_preferred":[
         "Morang"
     ],
@@ -183,7 +191,7 @@
         }
     ],
     "wof:id":1092048303,
-    "wof:lastmodified":1561771969,
+    "wof:lastmodified":1563242367,
     "wof:name":"Morang",
     "wof:parent_id":-1,
     "wof:placetype":"county",

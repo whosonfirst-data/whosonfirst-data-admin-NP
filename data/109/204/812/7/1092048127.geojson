@@ -40,6 +40,9 @@
     "name:ben_x_preferred":[
         "\u09a7\u09a8\u09c1\u09b7\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0927\u0928\u0941\u0937\u093e \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09a7\u09a8\u09c1\u09b7\u09be"
     ],
@@ -49,11 +52,13 @@
     "name:deu_x_preferred":[
         "Dhanusha"
     ],
+    "name:dty_x_preferred":[
+        "\u0927\u0928\u0941\u0937\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Dhanusa"
     ],
     "name:eng_x_variant":[
-        "Dhanusa",
         "Dhanusa District"
     ],
     "name:fin_x_preferred":[
@@ -162,7 +167,7 @@
         }
     ],
     "wof:id":1092048127,
-    "wof:lastmodified":1561771968,
+    "wof:lastmodified":1563242362,
     "wof:name":"Dhanusa",
     "wof:parent_id":-1,
     "wof:placetype":"county",

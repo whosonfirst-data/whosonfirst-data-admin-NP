@@ -16,14 +16,26 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cb\u09b2\u09c1\u0996\u09c1\u09ae\u09cd\u09ac\u09c1 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0938\u094b\u0932\u0941\u0916\u0941\u092e\u094d\u092c\u0941 \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09b8\u09cb\u09b2\u09c1\u0996\u09c1\u09ae\u09cd\u09ac\u09c1"
+    ],
+    "name:ceb_x_preferred":[
+        "Solukhumb\u016b"
     ],
     "name:dan_x_preferred":[
         "Solukhumbu District"
     ],
     "name:deu_x_preferred":[
         "Solukhumbu"
+    ],
+    "name:dty_x_preferred":[
+        "\u0938\u094b\u0932\u0941\u0916\u0941\u092e\u094d\u092c\u0941 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:eng_x_preferred":[
+        "Solukhumbu District"
     ],
     "name:fin_x_preferred":[
         "Solukhumbun piirikunta"
@@ -34,11 +46,20 @@
     "name:hif_x_preferred":[
         "Solukhumbu jila"
     ],
+    "name:hif_x_variant":[
+        "Solukhumbu"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u094b\u0932\u0941\u0916\u0941\u0902\u092c\u0941 \u091c\u093f\u0932\u093e"
     ],
     "name:ita_x_preferred":[
         "Distretto di Solukhumbu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30f3\u30af\u30eb\u30d6\u90e1"
+    ],
+    "name:mai_x_preferred":[
+        "\u0938\u094b\u0932\u0941\u0916\u0941\u092e\u094d\u092c\u0941 \u091c\u093f\u0932\u093e"
     ],
     "name:nep_x_preferred":[
         "\u0938\u094b\u0932\u0941\u0916\u0941\u092e\u094d\u092c\u0941 \u091c\u093f\u0932\u094d\u0932\u093e"
@@ -48,6 +69,9 @@
     ],
     "name:nld_x_preferred":[
         "Solukhumbu"
+    ],
+    "name:nob_x_preferred":[
+        "Solukhumbu distrikt"
     ],
     "name:nor_x_preferred":[
         "Solukhumbu"
@@ -70,11 +94,26 @@
     "name:spa_x_preferred":[
         "Distrito de Solukhumbu"
     ],
+    "name:spa_x_variant":[
+        "Solukhumbu"
+    ],
+    "name:srp_x_preferred":[
+        "\u0434\u0438\u0441\u0442\u0440\u0438\u043a\u0442 \u0421\u043e\u043b\u0443\u043a\u0443\u043c\u0431\u0443"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bcb\u0bb2\u0bc1\u0b95\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u043e\u043b\u0443\u043a\u04bb\u0443\u043c\u0431\u0443 \u0440\u0430\u0439\u043e\u043d\u044b"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043b\u0443\u043a\u0445\u0443\u043c\u0431\u0443"
     ],
     "name:unk_x_variant":[
         "Solokhumbu"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0648\u0644\u0648\u06a9\u06be\u0648\u0645\u0628\u0648 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Solukhumbu"
@@ -138,7 +177,7 @@
         }
     ],
     "wof:id":421170527,
-    "wof:lastmodified":1527716465,
+    "wof:lastmodified":1563242726,
     "wof:name":"Solukhumbu",
     "wof:parent_id":1092049841,
     "wof:placetype":"localadmin",

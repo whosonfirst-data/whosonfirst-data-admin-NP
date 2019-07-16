@@ -37,6 +37,9 @@
     "name:ben_x_preferred":[
         "\u09aa\u09cd\u09af\u09c1\u09a0\u09be\u09a8 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u092a\u094d\u092f\u0941\u0920\u093e\u0928 \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09aa\u09cd\u09af\u09c1\u09a0\u09be\u09a8"
     ],
@@ -46,11 +49,13 @@
     "name:deu_x_preferred":[
         "Pyuthan"
     ],
+    "name:dty_x_preferred":[
+        "\u092a\u094d\u092f\u0941\u0920\u093e\u0928 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Pyuthan"
     ],
     "name:eng_x_variant":[
-        "Pyuthan",
         "Pyuthan District"
     ],
     "name:fin_x_preferred":[
@@ -61,6 +66,9 @@
     ],
     "name:fre_x_variant":[
         "district de Pyuthan"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0acd\u0aaf\u0ac1\u0aa0\u0abe\u0aa8 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
     "name:hif_x_preferred":[
         "Pyuthan"
@@ -162,7 +170,7 @@
         }
     ],
     "wof:id":1092049377,
-    "wof:lastmodified":1561771965,
+    "wof:lastmodified":1563242349,
     "wof:name":"Pyuthan",
     "wof:parent_id":-1,
     "wof:placetype":"county",

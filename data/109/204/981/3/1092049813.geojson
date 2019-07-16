@@ -43,17 +43,22 @@
     "name:bpy_x_preferred":[
         "\u09a4\u09be\u09aa\u09cd\u09b2\u09c7\u099c\u09c1\u0999"
     ],
+    "name:ceb_x_preferred":[
+        "Taplejung"
+    ],
     "name:dan_x_preferred":[
         "Taplejung District"
     ],
     "name:deu_x_preferred":[
         "Taplejung"
     ],
+    "name:dty_x_preferred":[
+        "\u0924\u093e\u092a\u094d\u0932\u0947\u091c\u0941\u0919 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Taplejung"
     ],
     "name:eng_x_variant":[
-        "Taplejung",
         "Taplejung District"
     ],
     "name:fin_x_preferred":[
@@ -110,7 +115,13 @@
     "name:san_x_preferred":[
         "\u0924\u093e\u092a\u094d\u0932\u0947\u091c\u0941\u0919\u092e\u0923\u094d\u0921\u0932\u092e\u094d"
     ],
+    "name:sat_x_preferred":[
+        "\u1c5b\u1c5f\u1c6f\u1c5e\u1c6e\u1c61\u1c69\u1c5d \u1c61\u1c64\u1c5e\u1c5f."
+    ],
     "name:spa_x_preferred":[
+        "Taplejung"
+    ],
+    "name:swe_x_preferred":[
         "Taplejung"
     ],
     "name:tam_x_preferred":[
@@ -168,7 +179,7 @@
         }
     ],
     "wof:id":1092049813,
-    "wof:lastmodified":1561771970,
+    "wof:lastmodified":1563242370,
     "wof:name":"Taplejung",
     "wof:parent_id":-1,
     "wof:placetype":"county",

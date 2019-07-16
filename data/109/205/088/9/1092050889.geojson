@@ -37,6 +37,9 @@
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09b2\u09cd\u09aa\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u092a\u093e\u0932\u094d\u092a\u093e \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09aa\u09be\u09b2\u09cd\u09aa\u09be"
     ],
@@ -46,11 +49,13 @@
     "name:deu_x_preferred":[
         "Palpa"
     ],
+    "name:dty_x_preferred":[
+        "\u092a\u093e\u0932\u094d\u092a\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Palpa"
     ],
     "name:eng_x_variant":[
-        "Palpa",
         "Palpa District"
     ],
     "name:fin_x_preferred":[
@@ -159,7 +164,7 @@
         }
     ],
     "wof:id":1092050889,
-    "wof:lastmodified":1561771972,
+    "wof:lastmodified":1563242376,
     "wof:name":"Palpa",
     "wof:parent_id":-1,
     "wof:placetype":"county",

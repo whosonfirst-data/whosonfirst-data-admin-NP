@@ -37,8 +37,14 @@
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09b0\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u092c\u093e\u0930\u093e \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u09b0\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "B\u0101r\u0101"
     ],
     "name:dan_x_preferred":[
         "Bara District"
@@ -46,11 +52,13 @@
     "name:deu_x_preferred":[
         "Bara"
     ],
+    "name:dty_x_preferred":[
+        "\u092c\u093e\u0930\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Bara"
     ],
     "name:eng_x_variant":[
-        "Bara",
         "Bara District"
     ],
     "name:fin_x_preferred":[
@@ -162,7 +170,7 @@
         }
     ],
     "wof:id":1092048051,
-    "wof:lastmodified":1561771966,
+    "wof:lastmodified":1563242356,
     "wof:name":"Bara",
     "wof:parent_id":-1,
     "wof:placetype":"county",

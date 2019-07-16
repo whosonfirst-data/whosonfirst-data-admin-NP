@@ -37,8 +37,14 @@
     "name:ben_x_preferred":[
         "\u09ae\u09c1\u09b8\u09cd\u09a4\u09be\u0999 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u092e\u0941\u0938\u094d\u0924\u093e\u0902\u0917 \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09ae\u09c1\u09b8\u09cd\u09a4\u09be\u0999"
+    ],
+    "name:ceb_x_preferred":[
+        "Must\u0101ng"
     ],
     "name:dan_x_preferred":[
         "Mustang District"
@@ -46,11 +52,13 @@
     "name:deu_x_preferred":[
         "Mustang"
     ],
+    "name:dty_x_preferred":[
+        "\u092e\u0941\u0938\u094d\u0924\u093e\u0919 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Mustang"
     ],
     "name:eng_x_variant":[
-        "Mustang",
         "Mustang District"
     ],
     "name:fin_x_preferred":[
@@ -165,7 +173,7 @@
         }
     ],
     "wof:id":1092048365,
-    "wof:lastmodified":1561771969,
+    "wof:lastmodified":1563242365,
     "wof:name":"Mustang",
     "wof:parent_id":-1,
     "wof:placetype":"county",

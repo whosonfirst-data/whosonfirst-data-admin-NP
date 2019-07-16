@@ -16,14 +16,26 @@
     "name:ben_x_preferred":[
         "\u09ae\u09a8\u09be\u0999 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u092e\u0928\u093e\u0902\u0917 \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09ae\u09a8\u09be\u0999"
+    ],
+    "name:ceb_x_preferred":[
+        "Manang"
     ],
     "name:dan_x_preferred":[
         "Manang District"
     ],
     "name:deu_x_preferred":[
         "Manang"
+    ],
+    "name:dty_x_preferred":[
+        "\u092e\u0928\u093e\u0919 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:eng_x_preferred":[
+        "Manang District"
     ],
     "name:fin_x_preferred":[
         "Manangin piirikunta"
@@ -43,6 +55,12 @@
     "name:ita_x_preferred":[
         "Distretto di Manang"
     ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30ca\u30f3\u90e1"
+    ],
+    "name:mai_x_preferred":[
+        "\u092e\u0928\u093e\u0919 \u091c\u093f\u0932\u093e"
+    ],
     "name:nep_x_preferred":[
         "\u092e\u0928\u093e\u0919 \u091c\u093f\u0932\u094d\u0932\u093e"
     ],
@@ -51,6 +69,9 @@
     ],
     "name:nld_x_preferred":[
         "Manang"
+    ],
+    "name:nob_x_preferred":[
+        "Manang distrikt"
     ],
     "name:nor_x_preferred":[
         "Manang"
@@ -69,6 +90,15 @@
     ],
     "name:san_x_preferred":[
         "\u092e\u0928\u093e\u0919\u092e\u0923\u094d\u0921\u0932\u092e\u094d"
+    ],
+    "name:spa_x_preferred":[
+        "Manang"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0ba9\u0bbe\u0b99\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0646\u0627\u0646\u06af \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Manang"
@@ -132,7 +162,7 @@
         }
     ],
     "wof:id":421190177,
-    "wof:lastmodified":1527716397,
+    "wof:lastmodified":1563242718,
     "wof:name":"Manang",
     "wof:parent_id":1092049041,
     "wof:placetype":"localadmin",

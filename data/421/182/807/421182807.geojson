@@ -28,6 +28,9 @@
     "name:jpn_x_preferred":[
         "\u30b7\u30df\u30b3\u30c3\u30c8"
     ],
+    "name:lit_x_preferred":[
+        "Simikotas"
+    ],
     "name:mai_x_preferred":[
         "\u0938\u093f\u092e\u093f\u0915\u094b\u091f"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0438\u043c\u0438\u043a\u043e\u0442"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbf\u0bae\u0bbf\u0b95\u0bcb\u0b9f\u0bcd"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0456\u043c\u0456\u043a\u043e\u0442"
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":421182807,
-    "wof:lastmodified":1561771999,
+    "wof:lastmodified":1563242738,
     "wof:name":"Simikot",
     "wof:parent_id":1092050353,
     "wof:placetype":"locality",

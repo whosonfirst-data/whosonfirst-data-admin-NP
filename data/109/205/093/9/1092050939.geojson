@@ -40,6 +40,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u0999\u09cd\u099c\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0938\u094d\u092f\u093e\u0902\u0917\u091c\u093e \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u0999\u09cd\u099c\u09be"
     ],
@@ -52,11 +55,13 @@
     "name:deu_x_preferred":[
         "Syangja"
     ],
+    "name:dty_x_preferred":[
+        "\u0938\u094d\u092f\u093e\u0919\u094d\u091c\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Syangja"
     ],
     "name:eng_x_variant":[
-        "Syangja",
         "Syangja District"
     ],
     "name:fin_x_preferred":[
@@ -171,7 +176,7 @@
         }
     ],
     "wof:id":1092050939,
-    "wof:lastmodified":1561771973,
+    "wof:lastmodified":1563242380,
     "wof:name":"Syangja",
     "wof:parent_id":-1,
     "wof:placetype":"county",

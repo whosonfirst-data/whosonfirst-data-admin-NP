@@ -15,6 +15,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bho_x_preferred":[
+        "\u0916\u093e\u0901\u0926\u0935\u093e\u0930\u0940"
+    ],
+    "name:ceb_x_preferred":[
+        "Kh\u0101ndb\u0101ri"
+    ],
     "name:deu_x_preferred":[
         "Khandbari"
     ],
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":890431437,
-    "wof:lastmodified":1561772000,
+    "wof:lastmodified":1563242748,
     "wof:name":"Kh\u0101ndb\u0101ri",
     "wof:parent_id":1092049597,
     "wof:placetype":"locality",

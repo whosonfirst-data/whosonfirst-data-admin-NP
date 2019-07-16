@@ -37,6 +37,9 @@
     "name:ben_x_preferred":[
         "\u09b0\u09c1\u0995\u09c1\u09ae \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0930\u0941\u0915\u0941\u092e \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09b0\u09c1\u0995\u09c1\u09ae"
     ],
@@ -46,11 +49,13 @@
     "name:deu_x_preferred":[
         "Rukum"
     ],
+    "name:dty_x_preferred":[
+        "\u0930\u0941\u0915\u0941\u092e \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Rukum"
     ],
     "name:eng_x_variant":[
-        "Rukum",
         "Rukum District"
     ],
     "name:fin_x_preferred":[
@@ -162,7 +167,7 @@
         }
     ],
     "wof:id":1092049495,
-    "wof:lastmodified":1561771967,
+    "wof:lastmodified":1563242358,
     "wof:name":"Rukum",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -37,8 +37,14 @@
     "name:ben_x_preferred":[
         "\u0985\u09b0\u09cd\u0998\u09be\u0996\u09be\u0981\u099a\u09c0 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0905\u0930\u094d\u0918\u093e\u0916\u093e\u0901\u091a\u0940 \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u0985\u09b0\u09cd\u0997\u09be\u0996\u09be\u0981\u099a\u09c0"
+    ],
+    "name:ceb_x_preferred":[
+        "Argh\u0101kh\u0101nch\u012b"
     ],
     "name:dan_x_preferred":[
         "Arghakhanchi District"
@@ -46,11 +52,13 @@
     "name:deu_x_preferred":[
         "Arghakhanchi"
     ],
+    "name:dty_x_preferred":[
+        "\u0905\u0930\u094d\u0918\u093e\u0916\u093e\u0901\u091a\u0940 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Arghakhanchi"
     ],
     "name:eng_x_variant":[
-        "Arghakhanchi",
         "Arghakhanchi District"
     ],
     "name:fin_x_preferred":[
@@ -58,6 +66,9 @@
     ],
     "name:fra_x_preferred":[
         "Arghakhanchi"
+    ],
+    "name:fra_x_variant":[
+        "district d'Arghakhanchi"
     ],
     "name:fre_x_variant":[
         "district d'Arghakhanchi"
@@ -113,6 +124,9 @@
     "name:spa_x_preferred":[
         "Arghakhanchi"
     ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0bb0\u0bcd\u0b95\u0bbe\u0b95\u0bbe\u0b9e\u0bcd\u0b9a\u0bbf \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
     "name:urd_x_preferred":[
         "\u0627\u0631\u06af\u06be\u0627\u06a9\u06be\u0627\u0646\u0686\u06cc \u0636\u0644\u0639"
     ],
@@ -162,7 +176,7 @@
         }
     ],
     "wof:id":1092049537,
-    "wof:lastmodified":1561771964,
+    "wof:lastmodified":1563242347,
     "wof:name":"Arghakhanchi",
     "wof:parent_id":-1,
     "wof:placetype":"county",

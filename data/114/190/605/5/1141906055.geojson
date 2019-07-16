@@ -20,6 +20,9 @@
     "name:bho_x_preferred":[
         "\u0930\u093e\u092e\u0947\u091b\u093e\u092a \u0917\u093e\u0935\u093f\u0938"
     ],
+    "name:ceb_x_preferred":[
+        "R\u0101mechh\u0101p"
+    ],
     "name:deu_x_preferred":[
         "Ramechhap"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:fra_x_preferred":[
         "Ramechhap"
+    ],
+    "name:mai_x_preferred":[
+        "\u0930\u093e\u092e\u0947\u091b\u093e\u092a \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
     "name:nep_x_preferred":[
         "\u0930\u093e\u092e\u0947\u091b\u093e\u092a \u0917\u093e\u0935\u093f\u0938"
@@ -174,7 +180,7 @@
         }
     ],
     "wof:id":1141906055,
-    "wof:lastmodified":1561772215,
+    "wof:lastmodified":1563245945,
     "wof:name":"Ramechhap",
     "wof:parent_id":1092049711,
     "wof:placetype":"locality",

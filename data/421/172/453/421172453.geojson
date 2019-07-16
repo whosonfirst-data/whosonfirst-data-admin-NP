@@ -16,14 +16,26 @@
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09aa\u09cd\u09b2\u09c7\u099c\u09c1\u0999 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0924\u093e\u092a\u094d\u0932\u0947\u091c\u0941\u0919 \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09a4\u09be\u09aa\u09cd\u09b2\u09c7\u099c\u09c1\u0999"
+    ],
+    "name:ceb_x_preferred":[
+        "Taplejung"
     ],
     "name:dan_x_preferred":[
         "Taplejung District"
     ],
     "name:deu_x_preferred":[
         "Taplejung"
+    ],
+    "name:dty_x_preferred":[
+        "\u0924\u093e\u092a\u094d\u0932\u0947\u091c\u0941\u0919 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:eng_x_preferred":[
+        "Taplejung District"
     ],
     "name:fin_x_preferred":[
         "Taplejungin piirikunta"
@@ -40,6 +52,9 @@
     "name:ita_x_preferred":[
         "Distretto di Taplejung"
     ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30d7\u30ec\u30b8\u30e5\u30f3\u90e1"
+    ],
     "name:mai_x_preferred":[
         "\u0924\u093e\u092a\u094d\u0932\u0947\u091c\u0941\u0919 \u091c\u093f\u0932\u093e"
     ],
@@ -53,6 +68,9 @@
         "Taplejung"
     ],
     "name:nno_x_preferred":[
+        "Taplejung distrikt"
+    ],
+    "name:nob_x_preferred":[
         "Taplejung distrikt"
     ],
     "name:nor_x_preferred":[
@@ -73,11 +91,32 @@
     "name:san_x_preferred":[
         "\u0924\u093e\u092a\u094d\u0932\u0947\u091c\u0941\u0919\u092e\u0923\u094d\u0921\u0932\u092e\u094d"
     ],
+    "name:sat_x_preferred":[
+        "\u1c5b\u1c5f\u1c6f\u1c5e\u1c6e\u1c61\u1c69\u1c5d \u1c61\u1c64\u1c5e\u1c5f."
+    ],
+    "name:spa_x_preferred":[
+        "Taplejung"
+    ],
+    "name:swe_x_preferred":[
+        "Taplejung"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bbe\u0baa\u0bcd\u0bb2\u0bc7\u0b9c\u0bc1\u0b99\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
     "name:unk_x_variant":[
         "T\u0101plejun"
     ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u067e\u0644\u06cc\u062c\u0648\u0646\u06af \u0636\u0644\u0639"
+    ],
     "name:vie_x_preferred":[
         "Taplejung"
+    ],
+    "name:vie_x_variant":[
+        "Huy\u1ec7n Taplejung"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u666e\u52d2\u74ca\u7e23"
     ],
     "qs:gn_country":"NP",
     "qs:gn_fcode":"ADM3",
@@ -134,7 +173,7 @@
         }
     ],
     "wof:id":421172453,
-    "wof:lastmodified":1527716303,
+    "wof:lastmodified":1563242712,
     "wof:name":"Taplejung",
     "wof:parent_id":1092049813,
     "wof:placetype":"localadmin",

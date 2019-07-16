@@ -40,8 +40,14 @@
     "name:ben_x_preferred":[
         "\u0985\u099b\u09be\u09ae \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0905\u091b\u093e\u092e \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u0985\u099b\u09be\u09ae"
+    ],
+    "name:ceb_x_preferred":[
+        "Achh\u0101m"
     ],
     "name:dan_x_preferred":[
         "Achham District"
@@ -49,11 +55,13 @@
     "name:deu_x_preferred":[
         "Achham"
     ],
+    "name:dty_x_preferred":[
+        "\u0905\u091b\u093e\u092e \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Achham"
     ],
     "name:eng_x_variant":[
-        "Achham",
         "Achham District"
     ],
     "name:fas_x_preferred":[
@@ -64,6 +72,9 @@
     ],
     "name:fra_x_preferred":[
         "Achham"
+    ],
+    "name:fra_x_variant":[
+        "district d'Achham"
     ],
     "name:fre_x_variant":[
         "district d'Achham"
@@ -168,7 +179,7 @@
         }
     ],
     "wof:id":1092048527,
-    "wof:lastmodified":1561771969,
+    "wof:lastmodified":1563242367,
     "wof:name":"Achham",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -40,11 +40,17 @@
     "name:ben_x_preferred":[
         "\u09a4\u09a8\u09b9\u09c1\u0981 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0924\u0928\u0939\u0941\u0901 \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09a4\u09a8\u09b9\u09c1"
     ],
     "name:bul_x_preferred":[
         "\u0422\u0430\u043d\u0430\u0445\u0443\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Tanahun"
     ],
     "name:dan_x_preferred":[
         "Tanahu District"
@@ -52,11 +58,13 @@
     "name:deu_x_preferred":[
         "Tanahu"
     ],
+    "name:dty_x_preferred":[
+        "\u0924\u0928\u0939\u0941\u0901 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Tanahu"
     ],
     "name:eng_x_variant":[
-        "Tanahu",
         "Tanahu District"
     ],
     "name:fin_x_preferred":[
@@ -174,7 +182,7 @@
         }
     ],
     "wof:id":1092050053,
-    "wof:lastmodified":1561771973,
+    "wof:lastmodified":1563242380,
     "wof:name":"Tanahu",
     "wof:parent_id":-1,
     "wof:placetype":"county",

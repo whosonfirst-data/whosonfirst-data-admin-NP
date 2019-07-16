@@ -13,8 +13,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Lete"
+    ],
     "name:deu_x_preferred":[
         "Lete"
+    ],
+    "name:dty_x_preferred":[
+        "\u0932\u0947\u0924\u0947"
     ],
     "name:eng_x_preferred":[
         "Lete"
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":421187669,
-    "wof:lastmodified":1561771996,
+    "wof:lastmodified":1563242704,
     "wof:name":"Lete",
     "wof:parent_id":1092048365,
     "wof:placetype":"locality",

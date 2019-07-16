@@ -37,6 +37,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09cd\u09af\u09be\u0997\u09a6\u09c0 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u092e\u094d\u092f\u093e\u0917\u094d\u0926\u0940 \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09ae\u09cd\u09af\u09be\u0997\u09cd\u09a6\u09bf"
     ],
@@ -46,11 +49,13 @@
     "name:deu_x_preferred":[
         "Myagdi"
     ],
+    "name:dty_x_preferred":[
+        "\u092e\u094d\u092f\u093e\u0917\u094d\u0926\u0940 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Myagdi"
     ],
     "name:eng_x_variant":[
-        "Myagdi",
         "Myagdi District"
     ],
     "name:fin_x_preferred":[
@@ -159,7 +164,7 @@
         }
     ],
     "wof:id":1092049089,
-    "wof:lastmodified":1561771965,
+    "wof:lastmodified":1563242348,
     "wof:name":"Myagdi",
     "wof:parent_id":-1,
     "wof:placetype":"county",

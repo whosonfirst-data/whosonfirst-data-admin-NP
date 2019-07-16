@@ -15,6 +15,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bho_x_preferred":[
+        "\u0927\u0928\u0915\u0941\u091f\u093e"
+    ],
+    "name:ceb_x_preferred":[
+        "Dhankut\u0101"
+    ],
     "name:deu_x_preferred":[
         "Dhankuta"
     ],
@@ -32,6 +38,12 @@
     ],
     "name:ita_x_preferred":[
         "Dhanakuta"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c0\u30f3\u30af\u30bf"
+    ],
+    "name:mai_x_preferred":[
+        "\u0927\u0928\u0915\u0941\u091f\u093e \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
     "name:nep_x_preferred":[
         "\u0927\u0928\u0915\u0941\u091f\u093e \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
@@ -95,7 +107,7 @@
         }
     ],
     "wof:id":890431439,
-    "wof:lastmodified":1561772000,
+    "wof:lastmodified":1563242748,
     "wof:name":"Dhankut\u0101",
     "wof:parent_id":1092049207,
     "wof:placetype":"locality",

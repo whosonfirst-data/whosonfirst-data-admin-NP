@@ -40,6 +40,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09b0\u09cd\u09a6\u09bf\u09af\u09bc\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u092c\u0930\u094d\u0926\u093f\u092f\u093e \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09ac\u09b0\u09cd\u09a6\u09bf\u09af\u09bc\u09be"
     ],
@@ -49,11 +52,13 @@
     "name:deu_x_preferred":[
         "Bardiya"
     ],
+    "name:dty_x_preferred":[
+        "\u092c\u0930\u094d\u0926\u093f\u092f\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Bardiya"
     ],
     "name:eng_x_variant":[
-        "Bardiya",
         "Bardiya District"
     ],
     "name:fin_x_preferred":[
@@ -165,7 +170,7 @@
         }
     ],
     "wof:id":1092048097,
-    "wof:lastmodified":1561771969,
+    "wof:lastmodified":1563242366,
     "wof:name":"Bardiya",
     "wof:parent_id":-1,
     "wof:placetype":"county",

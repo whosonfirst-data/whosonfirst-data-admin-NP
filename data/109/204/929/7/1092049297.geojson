@@ -37,6 +37,9 @@
     "name:ben_x_preferred":[
         "\u09aa\u09b0\u09cd\u09ac\u09a4 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u092a\u0930\u094d\u0935\u0924 \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09aa\u09b0\u09cd\u09ac\u09a4"
     ],
@@ -46,17 +49,22 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u0440\u0431\u0430\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Parbat"
+    ],
     "name:dan_x_preferred":[
         "Parbat District"
     ],
     "name:deu_x_preferred":[
         "Parbat"
     ],
+    "name:dty_x_preferred":[
+        "\u092a\u0930\u094d\u0935\u0924 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Parbat"
     ],
     "name:eng_x_variant":[
-        "Parbat",
         "Parbat District"
     ],
     "name:fin_x_preferred":[
@@ -162,7 +170,7 @@
         }
     ],
     "wof:id":1092049297,
-    "wof:lastmodified":1561771970,
+    "wof:lastmodified":1563242368,
     "wof:name":"Parbat",
     "wof:parent_id":-1,
     "wof:placetype":"county",
