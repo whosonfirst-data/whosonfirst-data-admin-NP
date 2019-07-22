@@ -19,14 +19,29 @@
     "name:ben_x_preferred":[
         "\u0996\u09cb\u099f\u09be\u0999 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0916\u094b\u091f\u093e\u0901\u0917 \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u0996\u09cb\u099f\u09be\u0999"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0445\u043e\u0442\u0430\u043d\u0433"
+    ],
+    "name:ceb_x_preferred":[
+        "Khotang"
     ],
     "name:dan_x_preferred":[
         "Khotang District"
     ],
     "name:deu_x_preferred":[
         "Khotang"
+    ],
+    "name:dty_x_preferred":[
+        "\u0916\u094b\u091f\u093e\u0919 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:eng_x_preferred":[
+        "Khotang District"
     ],
     "name:fin_x_preferred":[
         "Khotangin piirikunta"
@@ -37,11 +52,23 @@
     "name:hif_x_preferred":[
         "Khotang Jila"
     ],
+    "name:hif_x_variant":[
+        "Khotang"
+    ],
     "name:hin_x_preferred":[
         "\u0916\u094b\u091f\u093e\u0902\u0917 \u091c\u093f\u0932\u093e"
     ],
     "name:ita_x_preferred":[
         "Distretto di Khotang"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30fc\u30bf\u30f3\u90e1"
+    ],
+    "name:mai_x_preferred":[
+        "\u0916\u094b\u091f\u093e\u0919 \u091c\u093f\u0932\u093e"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d16\u0d4b\u0d1f\u0d19\u0d4d\u0d15\u0d4d \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:nep_x_preferred":[
         "\u0916\u094b\u091f\u093e\u0919 \u091c\u093f\u0932\u094d\u0932\u093e"
@@ -51,6 +78,9 @@
     ],
     "name:nld_x_preferred":[
         "Khotang"
+    ],
+    "name:nob_x_preferred":[
+        "Khotang distrikt"
     ],
     "name:nor_x_preferred":[
         "Khotang"
@@ -72,6 +102,15 @@
     ],
     "name:spa_x_preferred":[
         "Distrito de Khotang"
+    ],
+    "name:spa_x_variant":[
+        "Khotang"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bcb\u0b9f\u0bbe\u0b99\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06be\u0648\u062a\u0627\u0646\u06af \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Khotang"
@@ -151,7 +190,7 @@
         }
     ],
     "wof:id":421199949,
-    "wof:lastmodified":1534379389,
+    "wof:lastmodified":1563242720,
     "wof:name":"Khotang",
     "wof:parent_id":1092050841,
     "wof:placetype":"localadmin",

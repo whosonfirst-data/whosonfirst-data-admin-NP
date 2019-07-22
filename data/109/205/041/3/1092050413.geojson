@@ -46,17 +46,22 @@
     "name:bpy_x_preferred":[
         "\u09a8\u09f1\u09b2\u09aa\u09b0\u09be\u09b8\u09c0"
     ],
+    "name:ceb_x_preferred":[
+        "Nawalpar\u0101s\u012b"
+    ],
     "name:dan_x_preferred":[
         "Nawalparasi District"
     ],
     "name:deu_x_preferred":[
         "Nawalparasi"
     ],
+    "name:dty_x_preferred":[
+        "\u0928\u0935\u0932\u092a\u0930\u093e\u0938\u0940 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Nawalparasi"
     ],
     "name:eng_x_variant":[
-        "Nawalparasi",
         "Nawalparasi District"
     ],
     "name:fin_x_preferred":[
@@ -168,7 +173,7 @@
         }
     ],
     "wof:id":1092050413,
-    "wof:lastmodified":1561771970,
+    "wof:lastmodified":1563242371,
     "wof:name":"Nawalparasi",
     "wof:parent_id":-1,
     "wof:placetype":"county",

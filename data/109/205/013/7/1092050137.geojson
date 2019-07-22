@@ -46,24 +46,33 @@
     "name:bul_x_preferred":[
         "\u0422\u0435\u0440\u0445\u0430\u0442\u0445\u0443\u043c"
     ],
+    "name:ceb_x_preferred":[
+        "Terhathum"
+    ],
     "name:dan_x_preferred":[
         "Terhathum District"
     ],
     "name:deu_x_preferred":[
         "Terhathum"
     ],
+    "name:dty_x_preferred":[
+        "\u0924\u0947\u0939\u094d\u0930\u0925\u0941\u092e \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Terhathum"
     ],
     "name:eng_x_variant":[
-        "Terhathum",
-        "Terhathum District"
+        "Terhathum District",
+        "Tehrathum District"
     ],
     "name:fra_x_preferred":[
         "Terhathum"
     ],
     "name:fre_x_variant":[
         "district de Terhathum"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d8\u05e8\u05d7\u05d8\u05d7\u05d5\u05dd"
     ],
     "name:hif_x_preferred":[
         "Terahathum"
@@ -119,6 +128,9 @@
     "name:vie_x_preferred":[
         "Huy\u1ec7n Terhathum"
     ],
+    "name:zho_x_preferred":[
+        "\u8fea\u83ef\u6c39\u5340"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -162,7 +174,7 @@
         }
     ],
     "wof:id":1092050137,
-    "wof:lastmodified":1561771971,
+    "wof:lastmodified":1563242372,
     "wof:name":"Terhathum",
     "wof:parent_id":-1,
     "wof:placetype":"county",

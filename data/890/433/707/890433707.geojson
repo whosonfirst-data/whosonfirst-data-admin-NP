@@ -27,6 +27,12 @@
     "name:hin_x_preferred":[
         "\u0935\u093e\u0932\u093f\u0919 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ef\u30fc\u30ea\u30f3"
+    ],
+    "name:mai_x_preferred":[
+        "\u0935\u093e\u0932\u093f\u0919 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
     "name:msa_x_preferred":[
         "Waling"
     ],
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":890433707,
-    "wof:lastmodified":1561772000,
+    "wof:lastmodified":1563242753,
     "wof:name":"W\u0101ling",
     "wof:parent_id":1092050939,
     "wof:placetype":"locality",

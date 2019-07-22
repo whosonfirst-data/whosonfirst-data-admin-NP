@@ -37,8 +37,14 @@
     "name:ben_x_preferred":[
         "\u09b0\u09b8\u09c1\u09af\u09bc\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0930\u0938\u0941\u0935\u093e \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09b0\u09b8\u09c1\u09f1\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Rasuw\u0101"
     ],
     "name:dan_x_preferred":[
         "Rasuwa District"
@@ -46,11 +52,13 @@
     "name:deu_x_preferred":[
         "Rasuwa"
     ],
+    "name:dty_x_preferred":[
+        "\u0930\u0938\u0941\u0935\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Rasuwa"
     ],
     "name:eng_x_variant":[
-        "Rasuwa",
         "Rasuwa District"
     ],
     "name:fin_x_preferred":[
@@ -162,7 +170,7 @@
         }
     ],
     "wof:id":1092048409,
-    "wof:lastmodified":1561771968,
+    "wof:lastmodified":1563242363,
     "wof:name":"Rasuwa",
     "wof:parent_id":-1,
     "wof:placetype":"county",

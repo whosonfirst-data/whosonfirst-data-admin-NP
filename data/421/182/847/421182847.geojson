@@ -19,14 +19,26 @@
     "name:ben_x_preferred":[
         "\u0989\u09a6\u09af\u09bc\u09aa\u09c1\u09b0 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0909\u0926\u092f\u092a\u0941\u0930 \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u0989\u09a6\u09af\u09bc\u09aa\u09c1\u09b0"
+    ],
+    "name:ceb_x_preferred":[
+        "Udayapur"
     ],
     "name:dan_x_preferred":[
         "Udayapur District"
     ],
     "name:deu_x_preferred":[
         "Udayapur"
+    ],
+    "name:dty_x_preferred":[
+        "\u0909\u0926\u092f\u092a\u0941\u0930 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:eng_x_preferred":[
+        "Udayapur District"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0647 \u06cc\u0648\u062f\u0627\u06cc\u0627\u067e\u0648\u0631"
@@ -37,6 +49,9 @@
     "name:fra_x_preferred":[
         "District d'Udayapur"
     ],
+    "name:fra_x_variant":[
+        "district d'Udayapur"
+    ],
     "name:hif_x_preferred":[
         "Udayapur"
     ],
@@ -45,6 +60,9 @@
     ],
     "name:ita_x_preferred":[
         "Distretto di Udayapur"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30c0\u30a4\u30d7\u30eb\u90e1"
     ],
     "name:mai_x_preferred":[
         "\u0909\u0926\u092f\u092a\u0941\u0930 \u091c\u093f\u0932\u093e"
@@ -57,6 +75,9 @@
     ],
     "name:nld_x_preferred":[
         "Udayapur"
+    ],
+    "name:nob_x_preferred":[
+        "Udayapur-distriktet"
     ],
     "name:nor_x_preferred":[
         "Udayapur"
@@ -79,6 +100,12 @@
     "name:spa_x_preferred":[
         "Distrito de Udayapur"
     ],
+    "name:spa_x_variant":[
+        "Udayapur"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b89\u0ba4\u0baf\u0baa\u0bc2\u0bb0\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
     "name:unk_x_variant":[
         "Garhi"
     ],
@@ -87,6 +114,12 @@
     ],
     "name:vie_x_preferred":[
         "Udayapur"
+    ],
+    "name:vie_x_variant":[
+        "Huy\u1ec7n Udayapur"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u5730\u5e03"
     ],
     "qs:gn_country":"NP",
     "qs:gn_fcode":"ADM3",
@@ -163,7 +196,7 @@
         }
     ],
     "wof:id":421182847,
-    "wof:lastmodified":1534379388,
+    "wof:lastmodified":1563242738,
     "wof:name":"Udayapur",
     "wof:parent_id":1092050179,
     "wof:placetype":"localadmin",

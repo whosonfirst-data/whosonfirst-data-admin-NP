@@ -37,6 +37,9 @@
     "name:ben_x_preferred":[
         "\u09b0\u09cb\u09b2\u09cd\u09aa\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0930\u094b\u0932\u094d\u092a\u093e \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09b0\u09cb\u09b2\u09cd\u09aa\u09be"
     ],
@@ -46,11 +49,13 @@
     "name:deu_x_preferred":[
         "Rolpa"
     ],
+    "name:dty_x_preferred":[
+        "\u0930\u094b\u0932\u094d\u092a\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Rolpa"
     ],
     "name:eng_x_variant":[
-        "Rolpa",
         "Rolpa District"
     ],
     "name:fin_x_preferred":[
@@ -162,7 +167,7 @@
         }
     ],
     "wof:id":1092049455,
-    "wof:lastmodified":1561771970,
+    "wof:lastmodified":1563242369,
     "wof:name":"Rolpa",
     "wof:parent_id":-1,
     "wof:placetype":"county",

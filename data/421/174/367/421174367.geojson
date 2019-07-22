@@ -16,13 +16,22 @@
     "name:ben_x_preferred":[
         "\u09ad\u09a6\u09cd\u09b0\u09aa\u09c1\u09b0"
     ],
+    "name:bho_x_preferred":[
+        "\u092d\u0926\u094d\u0930\u092a\u0941\u0930"
+    ],
     "name:deu_x_preferred":[
         "Bhadrapur"
+    ],
+    "name:dty_x_preferred":[
+        "\u092d\u0926\u094d\u0930\u092a\u0941\u0930 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
     "name:eng_x_preferred":[
         "Bhadrapur"
     ],
     "name:fra_x_preferred":[
+        "Bhadrapur"
+    ],
+    "name:hif_x_preferred":[
         "Bhadrapur"
     ],
     "name:hin_x_preferred":[
@@ -54,6 +63,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u06c1\u0627\u062f\u0631\u0627\u067e\u0648\u0631\u060c \u0645\u06cc\u0686\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u0628\u06c1\u0627\u062f\u0631\u0627\u067e\u0648\u0631"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u5fb7\u62c9\u666e\u723e"
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":421174367,
-    "wof:lastmodified":1561771996,
+    "wof:lastmodified":1563242699,
     "wof:name":"Bhadrapur",
     "wof:parent_id":1092050367,
     "wof:placetype":"locality",

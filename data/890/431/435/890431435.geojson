@@ -15,6 +15,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bho_x_preferred":[
+        "\u0932\u0939\u093e\u0928"
+    ],
+    "name:ceb_x_preferred":[
+        "Lah\u0101n"
+    ],
     "name:deu_x_preferred":[
         "Lahan"
     ],
@@ -27,11 +33,17 @@
     "name:fra_x_preferred":[
         "Lahan"
     ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e\u0939\u093e\u0928"
+    ],
     "name:jpn_x_preferred":[
         "\u30e9\u30cf\u30f3"
     ],
     "name:mai_x_preferred":[
         "\u0932\u0939\u093e\u0928 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d32\u0d39\u0d7b"
     ],
     "name:msa_x_preferred":[
         "Lahan"
@@ -50,6 +62,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u06c1\u0627\u0646\u060c \u0646\u06cc\u067e\u0627\u0644"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u0627\u06c1\u0627\u0646"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u6f22"
@@ -97,7 +112,7 @@
         }
     ],
     "wof:id":890431435,
-    "wof:lastmodified":1561772000,
+    "wof:lastmodified":1563242750,
     "wof:name":"Lah\u0101n",
     "wof:parent_id":1092050497,
     "wof:placetype":"locality",

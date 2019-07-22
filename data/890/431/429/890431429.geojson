@@ -24,17 +24,26 @@
     "name:bho_x_preferred":[
         "\u092e\u0939\u0947\u0928\u094d\u0926\u094d\u0930\u0928\u0917\u0930 \u092e\u0939\u093e\u0915\u093e\u0932\u0940"
     ],
+    "name:ceb_x_preferred":[
+        "Mahendranagar"
+    ],
     "name:dan_x_preferred":[
         "Mahendranagar"
     ],
     "name:deu_x_preferred":[
         "Bhim Datta"
     ],
+    "name:dty_x_preferred":[
+        "\u092d\u093f\u092e\u0926\u0924\u094d\u0924 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03c7\u03b9\u03bc\u03bd\u03c4\u03ac\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Mahendranagar"
+    ],
+    "name:eng_x_variant":[
+        "Bhimdatta"
     ],
     "name:eus_x_preferred":[
         "Mahendranagar"
@@ -71,6 +80,9 @@
     ],
     "name:lit_x_preferred":[
         "Mahendranagaras"
+    ],
+    "name:mai_x_preferred":[
+        "\u092e\u0939\u0947\u0928\u094d\u0926\u094d\u0930\u0928\u0917\u0930 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
     "name:mar_x_preferred":[
         "\u092e\u0939\u0947\u0902\u0926\u094d\u0930\u0928\u0917\u0930"
@@ -129,6 +141,9 @@
     "name:urd_x_preferred":[
         "\u0645\u06c1\u06cc\u0646\u062f\u0631\u0646\u06af\u0631\u060c \u0645\u06c1\u0627\u06a9\u0644\u06cc"
     ],
+    "name:urd_x_variant":[
+        "\u0645\u06c1\u06cc\u0646\u062f\u0631\u0646\u06af\u0631"
+    ],
     "name:vie_x_preferred":[
         "Mahendranagar"
     ],
@@ -176,7 +191,7 @@
         }
     ],
     "wof:id":890431429,
-    "wof:lastmodified":1561772000,
+    "wof:lastmodified":1563242749,
     "wof:name":"Mahendranagar",
     "wof:parent_id":1092048227,
     "wof:placetype":"locality",

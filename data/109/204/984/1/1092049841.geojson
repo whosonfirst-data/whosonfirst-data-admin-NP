@@ -37,8 +37,14 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cb\u09b2\u09c1\u0996\u09c1\u09ae\u09cd\u09ac\u09c1 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0938\u094b\u0932\u0941\u0916\u0941\u092e\u094d\u092c\u0941 \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09b8\u09cb\u09b2\u09c1\u0996\u09c1\u09ae\u09cd\u09ac\u09c1"
+    ],
+    "name:ceb_x_preferred":[
+        "Solukhumb\u016b"
     ],
     "name:dan_x_preferred":[
         "Solukhumbu District"
@@ -46,11 +52,13 @@
     "name:deu_x_preferred":[
         "Solukhumbu"
     ],
+    "name:dty_x_preferred":[
+        "\u0938\u094b\u0932\u0941\u0916\u0941\u092e\u094d\u092c\u0941 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Solukhumbu"
     ],
     "name:eng_x_variant":[
-        "Solukhumbu",
         "Solukhumbu District"
     ],
     "name:fin_x_preferred":[
@@ -107,8 +115,14 @@
     "name:spa_x_preferred":[
         "Solukhumbu"
     ],
+    "name:srp_x_preferred":[
+        "\u0434\u0438\u0441\u0442\u0440\u0438\u043a\u0442 \u0421\u043e\u043b\u0443\u043a\u0443\u043c\u0431\u0443"
+    ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bcb\u0bb2\u0bc1\u0b95\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0421\u043e\u043b\u0443\u043a\u04bb\u0443\u043c\u0431\u0443 \u0440\u0430\u0439\u043e\u043d\u044b"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043b\u0443\u043a\u0445\u0443\u043c\u0431\u0443"
@@ -165,7 +179,7 @@
         }
     ],
     "wof:id":1092049841,
-    "wof:lastmodified":1561771966,
+    "wof:lastmodified":1563242357,
     "wof:name":"Solukhumbu",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -43,17 +43,22 @@
     "name:bpy_x_preferred":[
         "\u09a6\u09c8\u09b2\u09c7\u0996"
     ],
+    "name:ceb_x_preferred":[
+        "Dailekh"
+    ],
     "name:dan_x_preferred":[
         "Dailekh District"
     ],
     "name:deu_x_preferred":[
         "Dailekh"
     ],
+    "name:dty_x_preferred":[
+        "\u0926\u0948\u0932\u0947\u0916 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Dailekh"
     ],
     "name:eng_x_variant":[
-        "Dailekh",
         "Dailekh District"
     ],
     "name:fin_x_preferred":[
@@ -165,7 +170,7 @@
         }
     ],
     "wof:id":1092050583,
-    "wof:lastmodified":1561771973,
+    "wof:lastmodified":1563242381,
     "wof:name":"Dailekh",
     "wof:parent_id":-1,
     "wof:placetype":"county",

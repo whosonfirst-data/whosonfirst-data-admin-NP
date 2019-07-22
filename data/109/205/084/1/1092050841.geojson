@@ -37,11 +37,17 @@
     "name:ben_x_preferred":[
         "\u0996\u09cb\u099f\u09be\u0999 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0916\u094b\u091f\u093e\u0901\u0917 \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u0996\u09cb\u099f\u09be\u0999"
     ],
     "name:bul_x_preferred":[
         "\u041a\u0445\u043e\u0442\u0430\u043d\u0433"
+    ],
+    "name:ceb_x_preferred":[
+        "Khotang"
     ],
     "name:dan_x_preferred":[
         "Khotang District"
@@ -49,11 +55,13 @@
     "name:deu_x_preferred":[
         "Khotang"
     ],
+    "name:dty_x_preferred":[
+        "\u0916\u094b\u091f\u093e\u0919 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Khotang"
     ],
     "name:eng_x_variant":[
-        "Khotang",
         "Khotang District"
     ],
     "name:fin_x_preferred":[
@@ -79,6 +87,9 @@
     ],
     "name:mai_x_preferred":[
         "\u0916\u094b\u091f\u093e\u0919 \u091c\u093f\u0932\u093e"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d16\u0d4b\u0d1f\u0d19\u0d4d\u0d15\u0d4d \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:nep_x_preferred":[
         "\u0916\u094b\u091f\u093e\u0919 \u091c\u093f\u0932\u094d\u0932\u093e"
@@ -162,7 +173,7 @@
         }
     ],
     "wof:id":1092050841,
-    "wof:lastmodified":1561771970,
+    "wof:lastmodified":1563242372,
     "wof:name":"Khotang",
     "wof:parent_id":-1,
     "wof:placetype":"county",

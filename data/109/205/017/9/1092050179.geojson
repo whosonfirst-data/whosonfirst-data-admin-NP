@@ -37,8 +37,14 @@
     "name:ben_x_preferred":[
         "\u0989\u09a6\u09af\u09bc\u09aa\u09c1\u09b0 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0909\u0926\u092f\u092a\u0941\u0930 \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u0989\u09a6\u09af\u09bc\u09aa\u09c1\u09b0"
+    ],
+    "name:ceb_x_preferred":[
+        "Udayapur"
     ],
     "name:dan_x_preferred":[
         "Udayapur District"
@@ -46,11 +52,13 @@
     "name:deu_x_preferred":[
         "Udayapur"
     ],
+    "name:dty_x_preferred":[
+        "\u0909\u0926\u092f\u092a\u0941\u0930 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Udayapur"
     ],
     "name:eng_x_variant":[
-        "Udayapur",
         "Udayapur District"
     ],
     "name:fas_x_preferred":[
@@ -61,6 +69,9 @@
     ],
     "name:fra_x_preferred":[
         "Udayapur"
+    ],
+    "name:fra_x_variant":[
+        "district d'Udayapur"
     ],
     "name:fre_x_variant":[
         "district d'Udayapur"
@@ -119,6 +130,9 @@
     "name:vie_x_preferred":[
         "Huy\u1ec7n Udayapur"
     ],
+    "name:zho_x_preferred":[
+        "\u70cf\u5730\u5e03"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -162,7 +176,7 @@
         }
     ],
     "wof:id":1092050179,
-    "wof:lastmodified":1561771972,
+    "wof:lastmodified":1563242377,
     "wof:name":"Udayapur",
     "wof:parent_id":-1,
     "wof:placetype":"county",

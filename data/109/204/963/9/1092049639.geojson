@@ -40,6 +40,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09b0\u09cd\u09b2\u09be\u09b9\u09c0 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0938\u0930\u094d\u0932\u093e\u0939\u0940 \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09b8\u09b0\u09cd\u09b2\u09be\u09b9\u09c0"
     ],
@@ -49,11 +52,13 @@
     "name:deu_x_preferred":[
         "Sarlahi"
     ],
+    "name:dty_x_preferred":[
+        "\u0938\u0930\u094d\u0932\u093e\u0939\u0940 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Sarlahi"
     ],
     "name:eng_x_variant":[
-        "Sarlahi",
         "Sarlahi District"
     ],
     "name:fin_x_preferred":[
@@ -162,7 +167,7 @@
         }
     ],
     "wof:id":1092049639,
-    "wof:lastmodified":1561771965,
+    "wof:lastmodified":1563242349,
     "wof:name":"Sarlahi",
     "wof:parent_id":-1,
     "wof:placetype":"county",

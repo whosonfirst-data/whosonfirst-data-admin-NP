@@ -40,6 +40,9 @@
     "name:ben_x_preferred":[
         "\u09a7\u09be\u09a6\u09bf\u0999 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0927\u093e\u0926\u093f\u0902\u0917 \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09a7\u09be\u09a6\u09bf\u0999"
     ],
@@ -52,11 +55,13 @@
     "name:deu_x_preferred":[
         "Dhading"
     ],
+    "name:dty_x_preferred":[
+        "\u0927\u093e\u0926\u093f\u0919 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Dhading"
     ],
     "name:eng_x_variant":[
-        "Dhading",
         "Dhading District"
     ],
     "name:fin_x_preferred":[
@@ -168,7 +173,7 @@
         }
     ],
     "wof:id":1092050661,
-    "wof:lastmodified":1561771973,
+    "wof:lastmodified":1563242378,
     "wof:name":"Dhading",
     "wof:parent_id":-1,
     "wof:placetype":"county",

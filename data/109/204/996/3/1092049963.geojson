@@ -40,17 +40,25 @@
     "name:ben_x_preferred":[
         "\u09b8\u09c1\u09b0\u09cd\u0996\u09c7\u09a4 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0938\u0941\u0930\u094d\u0916\u0947\u0924 \u091c\u093f\u0932\u093e"
+    ],
+    "name:ceb_x_preferred":[
+        "Surkhet"
+    ],
     "name:dan_x_preferred":[
         "Surkhet District"
     ],
     "name:deu_x_preferred":[
         "Surkhet"
     ],
+    "name:dty_x_preferred":[
+        "\u0938\u0941\u0930\u094d\u0916\u0947\u0924 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Surkhet"
     ],
     "name:eng_x_variant":[
-        "Surkhet",
         "Surkhet District"
     ],
     "name:fin_x_preferred":[
@@ -79,6 +87,9 @@
     ],
     "name:mai_x_preferred":[
         "\u0938\u0941\u0930\u094d\u0916\u0947\u0924 \u091c\u093f\u0932\u093e"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d41\u0d7c\u0d16\u0d47\u0d31\u0d4d\u0d31\u0d4d \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:nep_x_preferred":[
         "\u0938\u0941\u0930\u094d\u0916\u0947\u0924 \u091c\u093f\u0932\u094d\u0932\u093e"
@@ -162,7 +173,7 @@
         }
     ],
     "wof:id":1092049963,
-    "wof:lastmodified":1561771964,
+    "wof:lastmodified":1563242348,
     "wof:name":"Surkhet",
     "wof:parent_id":-1,
     "wof:placetype":"county",

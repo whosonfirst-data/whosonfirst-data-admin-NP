@@ -15,11 +15,17 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Chhipra"
+    ],
     "name:deu_x_preferred":[
         "Chhipra"
     ],
     "name:eng_x_preferred":[
         "Chhipra"
+    ],
+    "name:mai_x_preferred":[
+        "\u091b\u093f\u092a\u094d\u0930\u093e"
     ],
     "name:msa_x_preferred":[
         "Chhipra"
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":890455867,
-    "wof:lastmodified":1561772000,
+    "wof:lastmodified":1563242747,
     "wof:name":"Chhibro",
     "wof:parent_id":1092050353,
     "wof:placetype":"locality",

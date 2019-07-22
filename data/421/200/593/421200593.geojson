@@ -16,13 +16,25 @@
     "name:deu_x_preferred":[
         "Pyuthan"
     ],
+    "name:eng_x_preferred":[
+        "Pyuthan Khalanga"
+    ],
     "name:ita_x_preferred":[
         "Pyuthan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d4\u30e5\u30fc\u30bf\u30f3"
+    ],
+    "name:mai_x_preferred":[
+        "\u0916\u0932\u0902\u0917\u093e"
     ],
     "name:nep_x_preferred":[
         "\u092a\u094d\u092f\u0941\u0920\u093e\u0928 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
     "name:nld_x_preferred":[
+        "Pyuthan"
+    ],
+    "name:nob_x_preferred":[
         "Pyuthan"
     ],
     "name:nor_x_preferred":[
@@ -36,6 +48,9 @@
     ],
     "name:unk_x_variant":[
         "Py\u016bth\u0101n"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0648\u062a\u06be\u0627\u0646 \u0628\u0644\u062f\u06cc\u06c1"
     ],
     "qs:gn_country":"NP",
     "qs:gn_fcode":"ADM3",
@@ -93,7 +108,7 @@
         }
     ],
     "wof:id":421200593,
-    "wof:lastmodified":1527716420,
+    "wof:lastmodified":1563242722,
     "wof:name":"Pyuthan",
     "wof:parent_id":1092049377,
     "wof:placetype":"localadmin",

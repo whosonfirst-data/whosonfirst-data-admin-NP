@@ -40,6 +40,9 @@
     "name:ben_x_preferred":[
         "\u09a1\u09a1\u09c7\u09b2\u09a7\u09c1\u09b0\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0921\u0921\u0947\u0932\u0927\u0941\u0930\u093e \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09a1\u09a1\u09c7\u09b2\u09a7\u09c1\u09b0\u09be"
     ],
@@ -49,11 +52,13 @@
     "name:deu_x_preferred":[
         "Dadeldhura"
     ],
+    "name:dty_x_preferred":[
+        "\u0921\u0921\u0947\u0932\u0927\u0941\u0930\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Dadeldhura"
     ],
     "name:eng_x_variant":[
-        "Dadeldhura",
         "Dadeldhura District"
     ],
     "name:fin_x_preferred":[
@@ -64,6 +69,9 @@
     ],
     "name:fre_x_variant":[
         "district de Dadeldhura"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa6\u0aa6\u0ac7\u0ab2\u0aa7\u0ac1\u0ab0\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
     "name:hif_x_preferred":[
         "Dadheldhura jila"
@@ -162,7 +170,7 @@
         }
     ],
     "wof:id":1092048697,
-    "wof:lastmodified":1561771966,
+    "wof:lastmodified":1563242352,
     "wof:name":"Dadeldhura",
     "wof:parent_id":-1,
     "wof:placetype":"county",

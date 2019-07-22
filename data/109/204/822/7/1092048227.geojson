@@ -37,8 +37,14 @@
     "name:ben_x_preferred":[
         "\u0995\u099e\u09cd\u099a\u09a8\u09aa\u09c1\u09b0 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0915\u0902\u091a\u0928\u092a\u0941\u0930 \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u0995\u09be\u099e\u09cd\u099a\u09a8\u09aa\u09c1\u09b0"
+    ],
+    "name:ceb_x_preferred":[
+        "Kanchanpur"
     ],
     "name:dan_x_preferred":[
         "Kanchanpur District"
@@ -46,11 +52,13 @@
     "name:deu_x_preferred":[
         "Kanchanpur"
     ],
+    "name:dty_x_preferred":[
+        "\u0915\u091e\u094d\u091a\u0928\u092a\u0941\u0930 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Kanchanpur"
     ],
     "name:eng_x_variant":[
-        "Kanchanpur",
         "Kanchanpur District"
     ],
     "name:fin_x_preferred":[
@@ -162,7 +170,7 @@
         }
     ],
     "wof:id":1092048227,
-    "wof:lastmodified":1561771969,
+    "wof:lastmodified":1563242364,
     "wof:name":"Kanchanpur",
     "wof:parent_id":-1,
     "wof:placetype":"county",

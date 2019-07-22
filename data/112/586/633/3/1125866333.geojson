@@ -19,8 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bho_x_preferred":[
+        "\u0938\u093f\u0930\u093e\u0939\u093e"
+    ],
+    "name:ceb_x_preferred":[
+        "Sir\u0101h\u0101"
+    ],
     "name:deu_x_preferred":[
         "Siraha"
+    ],
+    "name:dty_x_preferred":[
+        "\u0938\u093f\u0930\u093e\u0939\u093e \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
     "name:eng_x_preferred":[
         "Siraha"
@@ -28,14 +37,23 @@
     "name:fra_x_preferred":[
         "Siraha"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e9\u30cf"
+    ],
     "name:mai_x_preferred":[
         "\u0938\u093f\u0930\u093e\u0939\u093e \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d3f\u0d30\u0d39"
     ],
     "name:msa_x_preferred":[
         "Siraha"
     ],
     "name:nep_x_preferred":[
         "Siraha"
+    ],
+    "name:nep_x_variant":[
+        "\u0938\u093f\u0930\u093e\u0939\u093e \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
     "name:new_x_preferred":[
         "\u0938\u093f\u0930\u093e\u0939\u093e \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
@@ -108,7 +126,7 @@
         }
     ],
     "wof:id":1125866333,
-    "wof:lastmodified":1561772001,
+    "wof:lastmodified":1563242754,
     "wof:name":"Sir\u0101h\u0101",
     "wof:parent_id":1092050497,
     "wof:placetype":"locality",

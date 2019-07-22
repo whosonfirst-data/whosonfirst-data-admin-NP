@@ -37,11 +37,17 @@
     "name:ben_x_preferred":[
         "\u0995\u09aa\u09bf\u09b2\u09ac\u09b8\u09cd\u09a4\u09c1 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0915\u092a\u093f\u0932\u0935\u0938\u094d\u0924\u0941 \u091c\u093f\u0932\u093e"
+    ],
     "name:dan_x_preferred":[
         "Kapilvastu District"
     ],
     "name:deu_x_preferred":[
         "Kapilbastu"
+    ],
+    "name:dty_x_preferred":[
+        "\u0915\u092a\u093f\u0932\u0935\u0938\u094d\u0924\u0941 \u091c\u093f\u0932\u094d\u0932\u093e"
     ],
     "name:eng_x_preferred":[
         "Kapilvastu"
@@ -162,7 +168,7 @@
         }
     ],
     "wof:id":1092048259,
-    "wof:lastmodified":1561771969,
+    "wof:lastmodified":1563242364,
     "wof:name":"Kapilvastu",
     "wof:parent_id":-1,
     "wof:placetype":"county",

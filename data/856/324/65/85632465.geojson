@@ -26,6 +26,9 @@
     "name:ace_x_preferred":[
         "N\u00e8pal"
     ],
+    "name:ace_x_variant":[
+        "Nepal"
+    ],
     "name:ady_x_preferred":[
         "\u041d\u0435\u043f\u0430\u043b"
     ],
@@ -88,6 +91,12 @@
     ],
     "name:ben_x_preferred":[
         "\u09a8\u09c7\u09aa\u09be\u09b2"
+    ],
+    "name:bgn_x_preferred":[
+        "\u0646\u06cc\u067e\u0627\u0644"
+    ],
+    "name:bho_x_preferred":[
+        "\u0928\u0947\u092a\u093e\u0932"
     ],
     "name:bih_x_preferred":[
         "\u0928\u0947\u092a\u093e\u0932"
@@ -164,6 +173,9 @@
     "name:dsb_x_preferred":[
         "Nepal"
     ],
+    "name:dty_x_preferred":[
+        "\u0928\u0947\u092a\u093e\u0932"
+    ],
     "name:dzo_x_preferred":[
         "\u0f56\u0f63\u0f0b\u0f61\u0f74\u0f63\u0f0b"
     ],
@@ -209,6 +221,9 @@
     "name:fas_x_preferred":[
         "\u0646\u067e\u0627\u0644"
     ],
+    "name:fij_x_preferred":[
+        "Nepal"
+    ],
     "name:fin_x_preferred":[
         "Nepal"
     ],
@@ -218,11 +233,17 @@
     "name:frp_x_preferred":[
         "N\u00e8pal"
     ],
+    "name:frr_x_preferred":[
+        "Nepaal"
+    ],
     "name:fry_x_preferred":[
         "Nepal"
     ],
     "name:ful_x_preferred":[
         "Nepaal"
+    ],
+    "name:ful_x_variant":[
+        "Nepal"
     ],
     "name:gag_x_preferred":[
         "Nepal"
@@ -253,6 +274,9 @@
         "\u0928\u0947\u092a\u093e\u0933"
     ],
     "name:grn_x_preferred":[
+        "Nepal"
+    ],
+    "name:gsw_x_preferred":[
         "Nepal"
     ],
     "name:guj_x_preferred":[
@@ -297,6 +321,9 @@
     "name:hye_x_preferred":[
         "\u0546\u0565\u057a\u0561\u056c"
     ],
+    "name:hyw_x_preferred":[
+        "\u0546\u0565\u0583\u0561\u056c"
+    ],
     "name:ido_x_preferred":[
         "Nepal"
     ],
@@ -323,6 +350,9 @@
     ],
     "name:jav_x_preferred":[
         "N\u00e9pal"
+    ],
+    "name:jav_x_variant":[
+        "Nepal"
     ],
     "name:jbo_x_preferred":[
         "nepal"
@@ -351,6 +381,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u041d\u0435\u043f\u0430\u043b"
+    ],
+    "name:kbp_x_preferred":[
+        "Nepaal\u0269"
     ],
     "name:khm_x_preferred":[
         "\u1793\u17c1\u1794\u17c9\u17b6\u179b\u17cb"
@@ -385,6 +418,9 @@
     "name:kur_x_variant":[
         "\u0646\u06cc\u067e\u0627\u0644"
     ],
+    "name:lad_x_preferred":[
+        "Nepal"
+    ],
     "name:lao_x_preferred":[
         "\u0ec0\u0e99\u0e9b\u0eb2\u0e99"
     ],
@@ -396,6 +432,9 @@
     ],
     "name:lez_x_preferred":[
         "\u041d\u0435\u043f\u0430\u043b"
+    ],
+    "name:lfn_x_preferred":[
+        "Nepal"
     ],
     "name:lij_x_preferred":[
         "Nepal"
@@ -418,6 +457,9 @@
     "name:lrc_x_preferred":[
         "\u0646\u0626\u067e\u0627\u0644"
     ],
+    "name:lrc_x_variant":[
+        "\u0646\u067e\u0627\u0644"
+    ],
     "name:ltz_x_preferred":[
         "Nepal"
     ],
@@ -430,6 +472,9 @@
     "name:lug_x_variant":[
         "Nepalo"
     ],
+    "name:lzh_x_preferred":[
+        "\u5c3c\u6cca\u723e"
+    ],
     "name:mai_x_preferred":[
         "\u0928\u0947\u092a\u093e\u0932"
     ],
@@ -438,6 +483,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0928\u0947\u092a\u093e\u0933"
+    ],
+    "name:mhr_x_preferred":[
+        "\u041d\u0435\u043f\u0430\u043b"
     ],
     "name:mkd_x_preferred":[
         "\u041d\u0435\u043f\u0430\u043b"
@@ -457,6 +505,9 @@
     "name:msa_x_preferred":[
         "Nepal"
     ],
+    "name:mwl_x_preferred":[
+        "Nepal"
+    ],
     "name:mya_x_preferred":[
         "\u1014\u102e\u1015\u1031\u102b\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
@@ -465,6 +516,12 @@
     ],
     "name:mzn_x_preferred":[
         "\u0646\u067e\u0627\u0644"
+    ],
+    "name:nah_x_preferred":[
+        "Nepal"
+    ],
+    "name:nan_x_preferred":[
+        "Nepal"
     ],
     "name:nau_x_preferred":[
         "Nepar"
@@ -510,6 +567,9 @@
     "name:oci_x_preferred":[
         "Nepal"
     ],
+    "name:olo_x_preferred":[
+        "Nepal"
+    ],
     "name:ori_x_preferred":[
         "\u0b28\u0b47\u0b2a\u0b3e\u0b33"
     ],
@@ -519,6 +579,9 @@
     "name:oss_x_preferred":[
         "\u041d\u0435\u043f\u0430\u043b"
     ],
+    "name:pag_x_preferred":[
+        "Nepal"
+    ],
     "name:pam_x_preferred":[
         "Nepal"
     ],
@@ -527,6 +590,9 @@
     ],
     "name:pap_x_preferred":[
         "Nepal"
+    ],
+    "name:pcd_x_preferred":[
+        "N\u00e9pal"
     ],
     "name:pih_x_preferred":[
         "Nepal"
@@ -564,8 +630,14 @@
     "name:ron_x_preferred":[
         "Nepal"
     ],
+    "name:rue_x_preferred":[
+        "\u041d\u0435\u043f\u0430\u043b"
+    ],
     "name:run_x_preferred":[
         "Nepali"
+    ],
+    "name:rup_x_preferred":[
+        "Nepal"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0435\u043f\u0430\u043b"
@@ -579,11 +651,17 @@
     "name:san_x_preferred":[
         "\u0928\u0947\u092a\u093e\u0932\u0926\u0947\u0936\u0903"
     ],
+    "name:sat_x_preferred":[
+        "\u1c71\u1c6e\u1c6f\u1c5f\u1c72"
+    ],
     "name:scn_x_preferred":[
         "Nepal"
     ],
     "name:sco_x_preferred":[
         "Nepal"
+    ],
+    "name:sgs_x_preferred":[
+        "Nepals"
     ],
     "name:sin_x_preferred":[
         "\u0db1\u0dda\u0db4\u0dcf\u0dbd\u0dba"
@@ -595,6 +673,9 @@
         "Nepal"
     ],
     "name:sme_x_preferred":[
+        "Nepal"
+    ],
+    "name:smo_x_preferred":[
         "Nepal"
     ],
     "name:sna_x_preferred":[
@@ -623,6 +704,9 @@
     ],
     "name:sun_x_preferred":[
         "N\u00e9pal"
+    ],
+    "name:sun_x_variant":[
+        "Nepal"
     ],
     "name:swa_x_preferred":[
         "Nepal"
@@ -665,6 +749,12 @@
     ],
     "name:ton_x_preferred":[
         "Nepali"
+    ],
+    "name:tpi_x_preferred":[
+        "Nepal"
+    ],
+    "name:tso_x_preferred":[
+        "Nepal"
     ],
     "name:tuk_x_preferred":[
         "Nepal"
@@ -715,6 +805,9 @@
     "name:vol_x_preferred":[
         "Nepal\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Nepal"
+    ],
     "name:war_x_preferred":[
         "Nepal"
     ],
@@ -739,6 +832,9 @@
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de Nepa"
     ],
+    "name:yue_x_preferred":[
+        "\u5c3c\u6cca\u723e"
+    ],
     "name:zea_x_preferred":[
         "Nepal"
     ],
@@ -759,6 +855,9 @@
     ],
     "name:zul_x_preferred":[
         "i-Nepal"
+    ],
+    "name:zul_x_variant":[
+        "Nepal"
     ],
     "ne:abbrev":"Nepal",
     "ne:abbrev_len":5,
@@ -907,7 +1006,7 @@
     "wof:lang_x_spoken":[
         "nep"
     ],
-    "wof:lastmodified":1561771621,
+    "wof:lastmodified":1563236156,
     "wof:name":"Nepal",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

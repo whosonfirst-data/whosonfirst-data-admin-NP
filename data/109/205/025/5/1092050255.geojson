@@ -40,6 +40,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09c8\u09a4\u09a1\u09c0 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u092c\u0948\u0924\u0921\u0940 \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09ac\u09c8\u09a4\u09a1\u09c0"
     ],
@@ -49,11 +52,13 @@
     "name:deu_x_preferred":[
         "Baitadi"
     ],
+    "name:dty_x_preferred":[
+        "\u092c\u0948\u0924\u0921\u0940 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Baitadi"
     ],
     "name:eng_x_variant":[
-        "Baitadi",
         "Baitadi District"
     ],
     "name:fin_x_preferred":[
@@ -64,6 +69,9 @@
     ],
     "name:fre_x_variant":[
         "district de Baitadi"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0ac8\u0a9f\u0abe\u0aa1\u0ac0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
     "name:hif_x_preferred":[
         "Baitadi"
@@ -162,7 +170,7 @@
         }
     ],
     "wof:id":1092050255,
-    "wof:lastmodified":1561771971,
+    "wof:lastmodified":1563242373,
     "wof:name":"Baitadi",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -24,6 +24,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09c1\u0997\u09c1 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u092e\u0941\u0917\u0941 \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09ae\u09c1\u0997\u09c2"
     ],
@@ -33,11 +36,20 @@
     "name:deu_x_preferred":[
         "Mugu"
     ],
+    "name:dty_x_preferred":[
+        "\u092e\u0941\u0917\u0941 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:eng_x_preferred":[
+        "Mugu District"
+    ],
     "name:fin_x_preferred":[
         "Mugun piirikunta"
     ],
     "name:fra_x_preferred":[
         "District de Mugu"
+    ],
+    "name:fra_x_variant":[
+        "Mugu"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac1\u0a97\u0ac1 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -51,6 +63,9 @@
     "name:ita_x_preferred":[
         "Distretto di Mugu"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30b0\u90e1"
+    ],
     "name:mai_x_preferred":[
         "\u092e\u0941\u0917\u0941 \u091c\u093f\u0932\u093e"
     ],
@@ -62,6 +77,9 @@
     ],
     "name:nld_x_preferred":[
         "Mugu"
+    ],
+    "name:nob_x_preferred":[
+        "Mugu distrikt"
     ],
     "name:nor_x_preferred":[
         "Mugu"
@@ -81,11 +99,23 @@
     "name:san_x_preferred":[
         "\u092e\u0941\u0917\u0941\u092e\u0923\u094d\u0921\u0932\u092e\u094d"
     ],
+    "name:spa_x_preferred":[
+        "Mugu"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bc1\u0b95\u0bc1 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
     "name:unk_x_variant":[
         "M\u016bgu"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u06af\u0648 \u0636\u0644\u0639"
+    ],
     "name:vie_x_preferred":[
         "Mugu"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u53e4"
     ],
     "qs_pg:aaroncc":"NP",
     "qs_pg:gn_country":"NP",
@@ -150,7 +180,7 @@
         }
     ],
     "wof:id":1125366211,
-    "wof:lastmodified":1534379388,
+    "wof:lastmodified":1563242757,
     "wof:name":"Mugu",
     "wof:parent_id":1092048339,
     "wof:placetype":"localadmin",

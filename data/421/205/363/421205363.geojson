@@ -16,8 +16,14 @@
     "name:ben_x_preferred":[
         "\u0997\u09c1\u09b2\u09cd\u09ae\u09c0 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0917\u0941\u0932\u094d\u092e\u0940 \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u0997\u09c1\u09b2\u09cd\u09ae\u09c0"
+    ],
+    "name:ceb_x_preferred":[
+        "Gulm\u012b"
     ],
     "name:dan_x_preferred":[
         "Gulmi District"
@@ -25,11 +31,20 @@
     "name:deu_x_preferred":[
         "Gulmi"
     ],
+    "name:dty_x_preferred":[
+        "\u0917\u0941\u0932\u094d\u092e\u0940 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
+    "name:eng_x_preferred":[
+        "Gulmi District"
+    ],
     "name:fin_x_preferred":[
         "Gulmin piirikunta"
     ],
     "name:fra_x_preferred":[
         "District de Gulmi"
+    ],
+    "name:fra_x_variant":[
+        "Gulmi"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0ac1\u0ab2\u0acd\u0aae\u0ac0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -46,6 +61,9 @@
     "name:jpn_x_preferred":[
         "\u30b0\u30eb\u30df\u90e1"
     ],
+    "name:mai_x_preferred":[
+        "\u0917\u0941\u0932\u094d\u092e\u0940 \u091c\u093f\u0932\u093e"
+    ],
     "name:nep_x_preferred":[
         "\u0917\u0941\u0932\u094d\u092e\u0940 \u091c\u093f\u0932\u094d\u0932\u093e"
     ],
@@ -54,6 +72,9 @@
     ],
     "name:nld_x_preferred":[
         "Gulmi"
+    ],
+    "name:nob_x_preferred":[
+        "Gulmi distrikt"
     ],
     "name:nor_x_preferred":[
         "Gulmi"
@@ -73,8 +94,17 @@
     "name:san_x_preferred":[
         "\u0917\u0941\u0932\u094d\u092e\u0940\u092e\u0923\u094d\u0921\u0932\u092e\u094d"
     ],
+    "name:spa_x_preferred":[
+        "Gulmi"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bc1\u0bb2\u0bcd\u0bae\u0bbf \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
     "name:unk_x_variant":[
         "Gulm\u012b"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0648\u0644\u0645\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Gulmi"
@@ -135,7 +165,7 @@
         }
     ],
     "wof:id":421205363,
-    "wof:lastmodified":1527716215,
+    "wof:lastmodified":1563242698,
     "wof:name":"Gulmi",
     "wof:parent_id":1092050755,
     "wof:placetype":"localadmin",

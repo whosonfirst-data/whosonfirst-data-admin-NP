@@ -37,6 +37,9 @@
     "name:ben_x_preferred":[
         "\u09b0\u09be\u09ae\u09c7\u099b\u09be\u09aa \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0930\u093e\u092e\u0947\u091b\u093e\u092a \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09b0\u09be\u09ae\u09c7\u099b\u09be\u09aa"
     ],
@@ -46,11 +49,13 @@
     "name:deu_x_preferred":[
         "Ramechhap"
     ],
+    "name:dty_x_preferred":[
+        "\u0930\u093e\u092e\u0947\u091b\u093e\u092a \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Ramechhap"
     ],
     "name:eng_x_variant":[
-        "Ramechhap",
         "Ramechhap District"
     ],
     "name:fin_x_preferred":[
@@ -159,7 +164,7 @@
         }
     ],
     "wof:id":1092049711,
-    "wof:lastmodified":1561771967,
+    "wof:lastmodified":1563242357,
     "wof:name":"Ramechhap",
     "wof:parent_id":-1,
     "wof:placetype":"county",

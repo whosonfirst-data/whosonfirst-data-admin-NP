@@ -19,8 +19,14 @@
     "name:bho_x_preferred":[
         "\u0930\u093e\u091c\u0935\u093f\u0930\u093e\u091c"
     ],
+    "name:ceb_x_preferred":[
+        "R\u0101jbir\u0101j"
+    ],
     "name:deu_x_preferred":[
         "Rajbiraj"
+    ],
+    "name:dty_x_preferred":[
+        "\u0930\u093e\u091c\u0935\u093f\u0930\u093e\u091c \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
     "name:eng_x_preferred":[
         "Rajbiraj"
@@ -42,6 +48,9 @@
     ],
     "name:mai_x_preferred":[
         "\u0930\u093e\u091c\u0935\u093f\u0930\u093e\u091c"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d30\u0d3e\u0d1c\u0d4d\u200c\u0d35\u0d3f\u0d30\u0d3e\u0d1c\u0d4d"
     ],
     "name:nep_x_preferred":[
         "\u0930\u093e\u091c\u0935\u093f\u0930\u093e\u091c \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
@@ -198,7 +207,7 @@
         }
     ],
     "wof:id":890435325,
-    "wof:lastmodified":1561772001,
+    "wof:lastmodified":1563242753,
     "wof:name":"R\u0101jbir\u0101j",
     "wof:parent_id":1092048485,
     "wof:placetype":"locality",

@@ -40,8 +40,14 @@
     "name:ben_x_preferred":[
         "\u09aa\u09b0\u09cd\u09b8\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u092a\u0930\u094d\u0938\u093e \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09aa\u09b0\u09cd\u09b8\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Parsa"
     ],
     "name:dan_x_preferred":[
         "Parsa District"
@@ -49,11 +55,13 @@
     "name:deu_x_preferred":[
         "Parsa"
     ],
+    "name:dty_x_preferred":[
+        "\u092a\u0930\u094d\u0938\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Parsa"
     ],
     "name:eng_x_variant":[
-        "Parsa",
         "Parsa District"
     ],
     "name:fin_x_preferred":[
@@ -162,7 +170,7 @@
         }
     ],
     "wof:id":1092050453,
-    "wof:lastmodified":1561771972,
+    "wof:lastmodified":1563242375,
     "wof:name":"Parsa",
     "wof:parent_id":-1,
     "wof:placetype":"county",

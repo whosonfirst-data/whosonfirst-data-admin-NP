@@ -37,6 +37,9 @@
     "name:cat_x_preferred":[
         "Pokhara"
     ],
+    "name:ceb_x_preferred":[
+        "Pokhara"
+    ],
     "name:ces_x_preferred":[
         "P\u00f3khara"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:dty_x_preferred":[
         "\u092a\u094b\u0916\u0930\u093e \u0909\u092a\u092e\u0939\u093e\u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:dty_x_variant":[
+        "\u092a\u094b\u0916\u0930\u093e"
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03bf\u03ba\u03ac\u03c1\u03b1"
@@ -81,6 +87,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05e7\u05d0\u05e8\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05e4\u05d5\u05e7\u05d4\u05e8\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u092a\u094b\u0916\u0930\u093e"
@@ -163,6 +172,9 @@
     "name:sin_x_preferred":[
         "\u0db4\u0ddc\u0d9a\u0dca\u0dc4\u0dcf\u0dbb\u0dcf"
     ],
+    "name:slv_x_preferred":[
+        "Pokhara"
+    ],
     "name:spa_x_preferred":[
         "Pokhara"
     ],
@@ -177,6 +189,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e1b\u0e02\u0e23\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e1b\u0e02\u0e23\u0e30"
     ],
     "name:tur_x_preferred":[
         "Pokhara"
@@ -334,7 +349,7 @@
         }
     ],
     "wof:id":890443741,
-    "wof:lastmodified":1561772000,
+    "wof:lastmodified":1563242751,
     "wof:name":"Pokhara",
     "wof:parent_id":1092049331,
     "wof:placetype":"locality",

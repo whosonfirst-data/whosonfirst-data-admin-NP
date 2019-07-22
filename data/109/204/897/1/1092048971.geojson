@@ -49,11 +49,13 @@
     "name:deu_x_preferred":[
         "Lalitpur"
     ],
+    "name:dty_x_preferred":[
+        "\u0932\u0932\u093f\u0924\u092a\u0942\u0930 \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Lalitpur"
     ],
     "name:eng_x_variant":[
-        "Lalitpur",
         "Lalitpur District"
     ],
     "name:fin_x_preferred":[
@@ -116,8 +118,14 @@
     "name:spa_x_preferred":[
         "Lalitpur"
     ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bb2\u0bbf\u0ba4\u0bcd\u0baa\u0bc2\u0bb0\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
     "name:urd_x_preferred":[
         "\u0644\u0644\u062a\u067e\u0648\u0631 \u0636\u0644\u0639\u060c \u0646\u06cc\u067e\u0627\u0644"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u0644\u062a\u067e\u0648\u0631 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Lalitpur"
@@ -165,7 +173,7 @@
         }
     ],
     "wof:id":1092048971,
-    "wof:lastmodified":1561771969,
+    "wof:lastmodified":1563242368,
     "wof:name":"Lalitpur",
     "wof:parent_id":-1,
     "wof:placetype":"county",

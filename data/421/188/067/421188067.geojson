@@ -16,11 +16,20 @@
     "name:ben_x_preferred":[
         "\u09ae\u09a8\u09cb\u0995\u09be\u09ae\u09a8\u09be \u09ae\u09a8\u09cd\u09a6\u09bf\u09b0"
     ],
+    "name:dty_x_preferred":[
+        "\u092e\u0928\u0915\u093e\u092e\u0928\u093e \u092e\u0928\u094d\u0926\u093f\u0930"
+    ],
+    "name:eng_x_preferred":[
+        "Manakamana"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0928\u094b\u0915\u093e\u092e\u0928\u093e \u092e\u0928\u094d\u0926\u093f\u0930"
     ],
     "name:kan_x_preferred":[
         "\u0cae\u0ca8\u0c95\u0cbe\u0cae\u0ca8\u0cbe\u0ca6\u0cc7\u0cb5\u0cbf"
+    ],
+    "name:mai_x_preferred":[
+        "\u092e\u0928\u0915\u093e\u092e\u0928\u093e \u092e\u0928\u094d\u0926\u093f\u0930"
     ],
     "name:nep_x_preferred":[
         "\u092e\u0928\u0915\u093e\u092e\u0928\u093e \u092e\u0928\u094d\u0926\u093f\u0930"
@@ -33,6 +42,9 @@
     ],
     "name:zho_x_preferred":[
         "\u739b\u7eb3\u5361\u739b\u7eb3\u5e99"
+    ],
+    "name:zho_x_variant":[
+        "\u739b\u7eb3\u5361\u739b\u7eb3"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -87,7 +99,7 @@
         }
     ],
     "wof:id":421188067,
-    "wof:lastmodified":1527716295,
+    "wof:lastmodified":1563242711,
     "wof:name":"Manakamana",
     "wof:parent_id":1092050351,
     "wof:placetype":"locality",

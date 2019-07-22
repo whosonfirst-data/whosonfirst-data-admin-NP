@@ -37,8 +37,14 @@
     "name:ben_x_preferred":[
         "\u09b0\u09cc\u09a4\u09b9\u099f \u099c\u09c7\u09b2\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0930\u094c\u0924\u0939\u091f \u091c\u093f\u0932\u093e"
+    ],
     "name:bpy_x_preferred":[
         "\u09b0\u09cc\u09a4\u09b9\u099f"
+    ],
+    "name:ceb_x_preferred":[
+        "Rautahat"
     ],
     "name:dan_x_preferred":[
         "Rautahat District"
@@ -46,11 +52,13 @@
     "name:deu_x_preferred":[
         "Rautahat"
     ],
+    "name:dty_x_preferred":[
+        "\u0930\u094c\u0924\u0939\u091f \u091c\u093f\u0932\u094d\u0932\u093e"
+    ],
     "name:eng_x_preferred":[
         "Rautahat"
     ],
     "name:eng_x_variant":[
-        "Rautahat",
         "Rautahat District"
     ],
     "name:fin_x_preferred":[
@@ -159,7 +167,7 @@
         }
     ],
     "wof:id":1092049419,
-    "wof:lastmodified":1561771967,
+    "wof:lastmodified":1563242357,
     "wof:name":"Rautahat",
     "wof:parent_id":-1,
     "wof:placetype":"county",

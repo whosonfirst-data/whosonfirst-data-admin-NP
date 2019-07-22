@@ -37,6 +37,9 @@
     "name:msa_x_preferred":[
         "Lele"
     ],
+    "name:msa_x_variant":[
+        "Dharan"
+    ],
     "name:nep_x_preferred":[
         "\u0932\u0947\u0932\u0947"
     ],
@@ -49,8 +52,20 @@
     "name:pol_x_preferred":[
         "Lele"
     ],
+    "name:por_x_preferred":[
+        "Lele"
+    ],
+    "name:sco_x_preferred":[
+        "Lele"
+    ],
+    "name:spa_x_preferred":[
+        "Lele"
+    ],
     "name:swe_x_preferred":[
         "L\u00e9l\u00e9"
+    ],
+    "name:swe_x_variant":[
+        "Lele"
     ],
     "qs:gn_country":"NP",
     "qs:gn_fcode":"PPLL",
@@ -106,7 +121,7 @@
         }
     ],
     "wof:id":421181243,
-    "wof:lastmodified":1561771997,
+    "wof:lastmodified":1563242713,
     "wof:name":"Lele",
     "wof:parent_id":1092048971,
     "wof:placetype":"locality",
