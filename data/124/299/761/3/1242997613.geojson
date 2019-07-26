@@ -28,6 +28,66 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u09b6\u0999\u09cd\u0996"
+    ],
+    "name:bih_x_preferred":[
+        "\u0936\u0902\u0916"
+    ],
+    "name:deu_x_preferred":[
+        "Shankha"
+    ],
+    "name:fra_x_preferred":[
+        "Shankh"
+    ],
+    "name:hin_x_preferred":[
+        "\u0936\u0902\u0916"
+    ],
+    "name:ind_x_preferred":[
+        "Sangkakala"
+    ],
+    "name:jav_x_preferred":[
+        "Sangkakala"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30a5\u30f3\u30ab\u30eb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb6\u0c82\u0c96"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d36\u0d02\u0d16\u0d4d"
+    ],
+    "name:mar_x_preferred":[
+        "\u0936\u0902\u0916"
+    ],
+    "name:msa_x_preferred":[
+        "Sangkakala"
+    ],
+    "name:nep_x_preferred":[
+        "\u0936\u0919\u094d\u0916"
+    ],
+    "name:new_x_preferred":[
+        "\u0936\u0919\u094d\u0916"
+    ],
+    "name:nld_x_preferred":[
+        "Dungkhar"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b36\u0b19\u0b4d\u0b16"
+    ],
+    "name:pol_x_preferred":[
+        "\u015aankha"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043d\u043a\u0445\u0430"
+    ],
+    "name:tat_x_preferred":[
+        "\u0428\u0430\u043d\u043a\u0445\u0430"
+    ],
+    "name:tyv_x_preferred":[
+        "\u0410\u043a \u0442\u0443\u04a3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +119,7 @@
         }
     ],
     "wof:id":1242997613,
-    "wof:lastmodified":1536955833,
+    "wof:lastmodified":1564117005,
     "wof:name":"Shankha",
     "wof:parent_id":1092049963,
     "wof:placetype":"locality",

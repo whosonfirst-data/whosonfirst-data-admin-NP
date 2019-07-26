@@ -28,6 +28,42 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bpy_x_preferred":[
+        "\u09b0\u09be\u09ae\u0995\u09cb\u09b2\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "R\u0101mkola"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u093e\u092e\u0915\u094b\u0932\u093e"
+    ],
+    "name:ita_x_preferred":[
+        "Ramkola"
+    ],
+    "name:msa_x_preferred":[
+        "Ramkola"
+    ],
+    "name:nld_x_preferred":[
+        "Ramkola"
+    ],
+    "name:pol_x_preferred":[
+        "Ramkola"
+    ],
+    "name:por_x_preferred":[
+        "Ramkola"
+    ],
+    "name:swe_x_preferred":[
+        "R\u0101mkola"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0627\u0645\u06a9\u0648\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Ramkola"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u59c6\u79d1\u62c9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +73,7 @@
         "gn:id":7934265
     },
     "wof:country":"NP",
-    "wof:geomhash":"b9775f8c25bb45847b8bebe568bac328",
+    "wof:geomhash":"286f7875a663673c11c01c0d2f9b2d6e",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +81,7 @@
         }
     ],
     "wof:id":1209663647,
-    "wof:lastmodified":1536280173,
+    "wof:lastmodified":1564112312,
     "wof:name":"Ramkola",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +92,9 @@
 },
   "bbox": [
     84.55943,
-    27.619740000000004,
+    27.61974,
     84.55943,
-    27.619740000000004
+    27.61974
 ],
   "geometry": {"coordinates":[84.55943000000001,27.61974],"type":"Point"}
 }

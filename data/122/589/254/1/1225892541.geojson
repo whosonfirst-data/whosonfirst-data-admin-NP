@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Auraha"
+    ],
+    "name:fra_x_preferred":[
+        "Auraha"
+    ],
+    "name:mai_x_preferred":[
+        "\u0914\u0930\u093e\u0939\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Auraha"
+    ],
+    "name:nep_x_preferred":[
+        "\u0914\u0930\u093e\u0939\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u0914\u0930\u093e\u0939\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Auraha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1225892541,
-    "wof:lastmodified":1536946671,
+    "wof:lastmodified":1564118638,
     "wof:name":"Auraha",
     "wof:parent_id":1092048485,
     "wof:placetype":"locality",

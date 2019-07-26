@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hoklabari"
+    ],
+    "name:mai_x_preferred":[
+        "\u0939\u094b\u0915\u094d\u0932\u093e\u0935\u093e\u0930\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Hoklabari"
+    ],
+    "name:new_x_preferred":[
+        "\u0939\u094b\u0915\u094d\u0932\u093e\u092c\u093e\u0930\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Hoklabari"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1310542897,
-    "wof:lastmodified":1536861577,
+    "wof:lastmodified":1564114604,
     "wof:name":"Hoklabari",
     "wof:parent_id":1092048303,
     "wof:placetype":"locality",

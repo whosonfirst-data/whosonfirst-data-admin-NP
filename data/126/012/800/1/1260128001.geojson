@@ -28,6 +28,36 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0938\u0947\u0930\u094d\u0928\u093e"
+    ],
+    "name:ceb_x_preferred":[
+        "Serna"
+    ],
+    "name:fra_x_preferred":[
+        "Serna"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0930\u094d\u0928\u093e"
+    ],
+    "name:mai_x_preferred":[
+        "\u0938\u0947\u0930\u094d\u0928\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Serna"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u0947\u0930\u094d\u0928\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u0947\u0930\u094d\u0928\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Serna"
+    ],
+    "name:spa_x_preferred":[
+        "Serna"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +89,7 @@
         }
     ],
     "wof:id":1260128001,
-    "wof:lastmodified":1536924797,
+    "wof:lastmodified":1564113855,
     "wof:name":"Serna",
     "wof:parent_id":1092050225,
     "wof:placetype":"locality",

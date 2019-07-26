@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Phedi"
+    ],
+    "name:mai_x_preferred":[
+        "\u092b\u0947\u0926\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Phedi"
+    ],
+    "name:new_x_preferred":[
+        "\u092b\u0947\u0926\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Phedi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +52,7 @@
         "gn:id":7979019
     },
     "wof:country":"NP",
-    "wof:geomhash":"9787ba9543b0e5655554714e74101718",
+    "wof:geomhash":"39fc68307d721fd6daee87f3625701f0",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +60,7 @@
         }
     ],
     "wof:id":1209456593,
-    "wof:lastmodified":1536286511,
+    "wof:lastmodified":1564112735,
     "wof:name":"Phedi",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +71,9 @@
 },
   "bbox": [
     83.6855,
-    28.166840000000004,
+    28.16684,
     83.6855,
-    28.166840000000004
+    28.16684
 ],
   "geometry": {"coordinates":[83.6855,28.16684],"type":"Point"}
 }

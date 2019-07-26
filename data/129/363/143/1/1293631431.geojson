@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mai_x_preferred":[
+        "\u0918\u0930\u094d\u0924\u093f\u0917\u093e\u0909\u0901"
+    ],
+    "name:nep_x_preferred":[
+        "\u0918\u0930\u094d\u0924\u093f\u0917\u093e\u0909\u0901"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1293631431,
-    "wof:lastmodified":1537073678,
+    "wof:lastmodified":1564109110,
     "wof:name":"Salghari",
     "wof:parent_id":1092050101,
     "wof:placetype":"locality",

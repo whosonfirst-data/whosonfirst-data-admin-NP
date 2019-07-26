@@ -25,9 +25,18 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Pangbo\u010de"
+    ],
+    "name:fra_x_preferred":[
+        "Pangbotchi"
+    ],
     "name:und_x_variant":[
         "Pangpoche",
         "Pangboche"
+    ],
+    "name:zho_x_preferred":[
+        "\u65c1\u6ce2\u5207"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1259400559,
-    "wof:lastmodified":1537676045,
+    "wof:lastmodified":1564117495,
     "wof:name":"Pangboche",
     "wof:parent_id":1092049841,
     "wof:placetype":"locality",

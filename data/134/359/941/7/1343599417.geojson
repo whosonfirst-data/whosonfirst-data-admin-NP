@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ikudol"
+    ],
+    "name:msa_x_preferred":[
+        "Ikudol"
+    ],
+    "name:nep_x_preferred":[
+        "\u0907\u0915\u0941\u0921\u094b\u0932"
+    ],
+    "name:new_x_preferred":[
+        "\u0907\u0915\u0941\u0921\u094b\u0932"
+    ],
+    "name:pol_x_preferred":[
+        "Ikudol"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1343599417,
-    "wof:lastmodified":1537041342,
+    "wof:lastmodified":1564108198,
     "wof:name":"Ikudol",
     "wof:parent_id":1092048853,
     "wof:placetype":"locality",

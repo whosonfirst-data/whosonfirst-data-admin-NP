@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Prastoka"
+    ],
+    "name:fra_x_preferred":[
+        "Prastoka"
+    ],
+    "name:mai_x_preferred":[
+        "\u092a\u094d\u0930\u0937\u094d\u091f\u094b\u0915\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Prastoka"
+    ],
+    "name:nep_x_preferred":[
+        "\u092a\u094d\u0930\u0937\u094d\u091f\u094b\u0915\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u092a\u094d\u0930\u0938\u094d\u0924\u094b\u0915\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Prastoka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1260118013,
-    "wof:lastmodified":1536939076,
+    "wof:lastmodified":1564114086,
     "wof:name":"Prastoka",
     "wof:parent_id":1092048051,
     "wof:placetype":"locality",

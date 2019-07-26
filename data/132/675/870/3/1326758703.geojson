@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hin_x_preferred":[
+        "\u0927\u0941\u0935\u093e\u0919"
+    ],
+    "name:mai_x_preferred":[
+        "\u0927\u0941\u0935\u093e\u0919"
+    ],
+    "name:msa_x_preferred":[
+        "Dhubang"
+    ],
+    "name:nep_x_preferred":[
+        "\u0927\u0941\u0935\u093e\u0919"
+    ],
+    "name:new_x_preferred":[
+        "\u0927\u0941\u0935\u093e\u0919"
+    ],
+    "name:pol_x_preferred":[
+        "Dhuwang"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +78,7 @@
         }
     ],
     "wof:id":1326758703,
-    "wof:lastmodified":1537570152,
+    "wof:lastmodified":1564106189,
     "wof:name":"Dhubang",
     "wof:parent_id":1092049377,
     "wof:placetype":"locality",

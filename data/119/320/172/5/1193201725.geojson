@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0921\u093e\u0901\u0917\u093f\u0939\u093e\u091f"
+    ],
+    "name:ceb_x_preferred":[
+        "Dangihat"
+    ],
+    "name:mai_x_preferred":[
+        "\u0921\u093e\u0901\u0917\u093f\u0939\u093e\u091f"
+    ],
+    "name:msa_x_preferred":[
+        "Dangihat"
+    ],
+    "name:nep_x_preferred":[
+        "\u0926\u093e\u0902\u0917\u0940\u0918\u093e\u091f"
+    ],
+    "name:new_x_preferred":[
+        "\u0926\u093e\u0902\u0917\u0940\u0918\u093e\u091f"
+    ],
+    "name:pol_x_preferred":[
+        "Dangihat"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1193201725,
-    "wof:lastmodified":1536372078,
+    "wof:lastmodified":1564113437,
     "wof:name":"Dangihat",
     "wof:parent_id":1092048303,
     "wof:placetype":"locality",

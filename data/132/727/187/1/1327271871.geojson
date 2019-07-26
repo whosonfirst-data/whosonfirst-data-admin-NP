@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chaughada"
+    ],
+    "name:fra_x_preferred":[
+        "Chaughada"
+    ],
+    "name:mai_x_preferred":[
+        "\u091a\u094b\u0915\u0926\u0947"
+    ],
+    "name:msa_x_preferred":[
+        "Chaughada"
+    ],
+    "name:nep_x_preferred":[
+        "\u091a\u094c\u0918\u0921\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u091a\u094c\u0918\u0921\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Chaughada"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1327271871,
-    "wof:lastmodified":1536912986,
+    "wof:lastmodified":1564107390,
     "wof:name":"Chaughada",
     "wof:parent_id":1092049133,
     "wof:placetype":"locality",

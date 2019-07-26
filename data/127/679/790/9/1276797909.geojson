@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Chuli"
+    ],
+    "name:glg_x_preferred":[
+        "Chuli"
+    ],
+    "name:ita_x_preferred":[
+        "Chuli"
+    ],
+    "name:pol_x_preferred":[
+        "Manuel V\u00e1zquez"
+    ],
+    "name:spa_x_preferred":[
+        "Chuli"
+    ],
+    "name:tgk_x_preferred":[
+        "\u041a\u0443\u043b\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1276797909,
-    "wof:lastmodified":1536653406,
+    "wof:lastmodified":1564111023,
     "wof:name":"Chuli",
     "wof:parent_id":1092049963,
     "wof:placetype":"locality",

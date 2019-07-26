@@ -28,6 +28,9 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d3\u05de\u05d0\u05e8\u05d9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1326856495,
-    "wof:lastmodified":1537013158,
+    "wof:lastmodified":1564106814,
     "wof:name":"Damari",
     "wof:parent_id":1092048743,
     "wof:placetype":"locality",

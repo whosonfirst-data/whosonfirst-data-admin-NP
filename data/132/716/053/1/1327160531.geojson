@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Satphari"
+    ],
+    "name:mai_x_preferred":[
+        "\u0938\u093e\u0924\u092b\u0930\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Satphari"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u093e\u0930\u092b\u0947\u0930\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Satphari"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1327160531,
-    "wof:lastmodified":1537070441,
+    "wof:lastmodified":1564107334,
     "wof:name":"Satphari",
     "wof:parent_id":1092048653,
     "wof:placetype":"locality",

@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pelakot"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0947\u0932\u093e\u0915\u094b\u091f"
+    ],
+    "name:mai_x_preferred":[
+        "\u092a\u0947\u0932\u093e\u0915\u094b\u091f"
+    ],
+    "name:msa_x_preferred":[
+        "Pelakot"
+    ],
+    "name:nep_x_preferred":[
+        "\u092a\u0947\u0932\u093e\u0915\u094b\u091f"
+    ],
+    "name:new_x_preferred":[
+        "\u092a\u0947\u0932\u093e\u0915\u094b\u0924"
+    ],
+    "name:pol_x_preferred":[
+        "Pelakot"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1193055617,
-    "wof:lastmodified":1536383158,
+    "wof:lastmodified":1564113309,
     "wof:name":"Pelakot",
     "wof:parent_id":1092050939,
     "wof:placetype":"locality",

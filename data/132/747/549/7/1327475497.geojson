@@ -28,6 +28,9 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "\u0939\u093f\u0932\u0947 \u092c\u091c\u093e\u0930"
+    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1327475497,
-    "wof:lastmodified":1536616185,
+    "wof:lastmodified":1564106617,
     "wof:name":"Hile",
     "wof:parent_id":1092049331,
     "wof:placetype":"locality",

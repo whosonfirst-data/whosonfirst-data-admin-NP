@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hin_x_preferred":[
+        "\u0915\u0947\u0935\u093e\u0930\u0947 \u092d\u091e\u094d\u091c\u094d\u092f\u093e\u0919"
+    ],
+    "name:mai_x_preferred":[
+        "\u0915\u0947\u0935\u093e\u0930\u0947 \u092d\u091e\u094d\u091c\u094d\u092f\u093e\u0919"
+    ],
+    "name:msa_x_preferred":[
+        "Keware Bhanjyang"
+    ],
+    "name:nep_x_preferred":[
+        "\u0915\u0947\u0935\u093e\u0930\u0947 \u092d\u091e\u094d\u091c\u094d\u092f\u093e\u0919"
+    ],
+    "name:new_x_preferred":[
+        "\u0915\u0947\u0935\u093e\u0930\u0947 \u092d\u091e\u094d\u091c\u094d\u092f\u093e\u0921"
+    ],
+    "name:pol_x_preferred":[
+        "Keware Bhanjyang"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +78,7 @@
         }
     ],
     "wof:id":1343905883,
-    "wof:lastmodified":1537570157,
+    "wof:lastmodified":1564107719,
     "wof:name":"Keware Bhanjyang",
     "wof:parent_id":1092050939,
     "wof:placetype":"locality",

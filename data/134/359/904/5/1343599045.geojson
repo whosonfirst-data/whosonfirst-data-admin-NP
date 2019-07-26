@@ -28,6 +28,39 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0410\u0433\u043d\u0438"
+    ],
+    "name:fin_x_preferred":[
+        "Agne"
+    ],
+    "name:fra_x_preferred":[
+        "Agni"
+    ],
+    "name:ita_x_preferred":[
+        "Agne"
+    ],
+    "name:nno_x_preferred":[
+        "Agne"
+    ],
+    "name:nor_x_preferred":[
+        "Agne"
+    ],
+    "name:por_x_preferred":[
+        "Agne"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0433\u043d\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Agne"
+    ],
+    "name:swe_x_preferred":[
+        "Agne Skjalfarbonde"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0433\u043d\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +92,7 @@
         }
     ],
     "wof:id":1343599045,
-    "wof:lastmodified":1537041801,
+    "wof:lastmodified":1564108206,
     "wof:name":"Agne",
     "wof:parent_id":1092050755,
     "wof:placetype":"locality",

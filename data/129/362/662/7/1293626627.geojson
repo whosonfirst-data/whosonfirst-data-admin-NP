@@ -28,6 +28,33 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u09ae\u09a8\u09cb\u0995\u09be\u09ae\u09a8\u09be \u09ae\u09a8\u09cd\u09a6\u09bf\u09b0"
+    ],
+    "name:dty_x_preferred":[
+        "\u092e\u0928\u0915\u093e\u092e\u0928\u093e \u092e\u0928\u094d\u0926\u093f\u0930"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0928\u094b\u0915\u093e\u092e\u0928\u093e \u092e\u0928\u094d\u0926\u093f\u0930"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0ca8\u0c95\u0cbe\u0cae\u0ca8\u0cbe\u0ca6\u0cc7\u0cb5\u0cbf"
+    ],
+    "name:mai_x_preferred":[
+        "\u092e\u0928\u0915\u093e\u092e\u0928\u093e \u092e\u0928\u094d\u0926\u093f\u0930"
+    ],
+    "name:nep_x_preferred":[
+        "\u092e\u0928\u0915\u093e\u092e\u0928\u093e \u092e\u0928\u094d\u0926\u093f\u0930"
+    ],
+    "name:new_x_preferred":[
+        "\u092e\u0928\u0915\u093e\u092e\u0928\u093e"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043d\u0430\u043a\u0430\u043c\u0430\u043d\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u739b\u7eb3\u5361\u739b\u7eb3\u5e99"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +86,7 @@
         }
     ],
     "wof:id":1293626627,
-    "wof:lastmodified":1537080394,
+    "wof:lastmodified":1564108968,
     "wof:name":"Manakamana",
     "wof:parent_id":1092050351,
     "wof:placetype":"locality",

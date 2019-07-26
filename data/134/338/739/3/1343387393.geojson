@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Pulu"
+    ],
+    "name:mai_x_preferred":[
+        "\u092a\u0941\u0932\u0942"
+    ],
+    "name:msa_x_preferred":[
+        "Pulu"
+    ],
+    "name:nep_x_preferred":[
+        "\u092a\u0941\u0932\u0942"
+    ],
+    "name:new_x_preferred":[
+        "\u092a\u0941\u0932\u0941"
+    ],
+    "name:pol_x_preferred":[
+        "Pulu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +78,7 @@
         }
     ],
     "wof:id":1343387393,
-    "wof:lastmodified":1537570151,
+    "wof:lastmodified":1564107466,
     "wof:name":"Pulu",
     "wof:parent_id":1092048339,
     "wof:placetype":"locality",

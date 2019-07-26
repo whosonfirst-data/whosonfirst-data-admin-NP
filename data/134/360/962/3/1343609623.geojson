@@ -31,6 +31,12 @@
     "name:eng_x_preferred":[
         "Lamidada"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30df\u30c0\u30f3\u30c0"
+    ],
+    "name:pol_x_preferred":[
+        "Lamidada"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1343609623,
-    "wof:lastmodified":1537676071,
+    "wof:lastmodified":1564108410,
     "wof:name":"Lamidada",
     "wof:parent_id":1092050841,
     "wof:placetype":"locality",

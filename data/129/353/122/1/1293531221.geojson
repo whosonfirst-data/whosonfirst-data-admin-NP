@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Okharbot"
+    ],
+    "name:fra_x_preferred":[
+        "Okharbot"
+    ],
+    "name:mai_x_preferred":[
+        "\u0913\u0916\u0930\u092c\u094b\u091f"
+    ],
+    "name:msa_x_preferred":[
+        "Okharbot"
+    ],
+    "name:nep_x_preferred":[
+        "\u0913\u0916\u0930\u092c\u094b\u091f"
+    ],
+    "name:new_x_preferred":[
+        "\u0913\u0916\u0930\u092c\u094b\u091f"
+    ],
+    "name:pol_x_preferred":[
+        "Okharbot"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1293531221,
-    "wof:lastmodified":1536724384,
+    "wof:lastmodified":1564109030,
     "wof:name":"Okharbot",
     "wof:parent_id":1092049331,
     "wof:placetype":"locality",

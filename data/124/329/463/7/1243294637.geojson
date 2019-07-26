@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nete"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u0435\u0442\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "Nete"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0442\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Nete"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1243294637,
-    "wof:lastmodified":1537023352,
+    "wof:lastmodified":1564117081,
     "wof:name":"Nete",
     "wof:parent_id":1092049495,
     "wof:placetype":"locality",

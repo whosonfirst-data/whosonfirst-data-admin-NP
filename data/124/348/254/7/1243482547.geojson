@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rugha"
+    ],
+    "name:fra_x_preferred":[
+        "Rugha"
+    ],
+    "name:mai_x_preferred":[
+        "\u0930\u0941\u0901\u0918\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Rugha"
+    ],
+    "name:nep_x_preferred":[
+        "\u0930\u0941\u0901\u0918\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u0930\u0941\u0918\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Rugha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1243482547,
-    "wof:lastmodified":1536753565,
+    "wof:lastmodified":1564116456,
     "wof:name":"Rugha",
     "wof:parent_id":1092049495,
     "wof:placetype":"locality",

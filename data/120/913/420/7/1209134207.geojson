@@ -28,6 +28,15 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Pakhapani"
+    ],
+    "name:nep_x_preferred":[
+        "\u092a\u093e\u0916\u093e\u092a\u093e\u0928\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Pakhapani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -45,7 +54,7 @@
         }
     ],
     "wof:id":1209134207,
-    "wof:lastmodified":1536296714,
+    "wof:lastmodified":1564112183,
     "wof:name":"Pakhapani",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sime"
+    ],
+    "name:fra_x_preferred":[
+        "Sime"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1260007879,
-    "wof:lastmodified":1537093693,
+    "wof:lastmodified":1564113952,
     "wof:name":"Sime",
     "wof:parent_id":1092049963,
     "wof:placetype":"locality",

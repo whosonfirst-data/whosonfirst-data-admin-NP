@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0917\u094b\u0932\u0922\u0941\u0902\u0917\u093e"
+    ],
+    "name:ceb_x_preferred":[
+        "Goldhunga"
+    ],
+    "name:msa_x_preferred":[
+        "Goldhunga"
+    ],
+    "name:nep_x_preferred":[
+        "\u0917\u094b\u0932\u0922\u0941\u0902\u0917\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u0917\u094b\u0932\u0922\u0941\u0902\u0917\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Goldhunga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1243305551,
-    "wof:lastmodified":1537007935,
+    "wof:lastmodified":1564116087,
     "wof:name":"Goldhunga",
     "wof:parent_id":1092049537,
     "wof:placetype":"locality",

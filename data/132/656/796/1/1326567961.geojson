@@ -28,6 +28,99 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0644\u0639"
+    ],
+    "name:ben_x_preferred":[
+        "\u099f\u09be\u0995"
+    ],
+    "name:cdo_x_preferred":[
+        "L\u00e1k-t\u00e0u"
+    ],
+    "name:ces_x_preferred":[
+        "Ple\u0161"
+    ],
+    "name:deu_x_preferred":[
+        "Glatze"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03b9\u03c7\u03cc\u03c0\u03c4\u03c9\u03c3\u03b7"
+    ],
+    "name:epo_x_preferred":[
+        "Kalveco"
+    ],
+    "name:fas_x_preferred":[
+        "\u0637\u0627\u0633\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Kalju"
+    ],
+    "name:gan_x_preferred":[
+        "\ud866\udf7d\u982d"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u0902\u091c\u093e\u092a\u0928"
+    ],
+    "name:ind_x_preferred":[
+        "Botak"
+    ],
+    "name:jav_x_preferred":[
+        "Botak"
+    ],
+    "name:jpn_x_preferred":[
+        "\u8131\u6bdb\u75c7"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c8\ubaa8\uc99d"
+    ],
+    "name:lbe_x_preferred":[
+        "\u0411\u0430\u043b\u043b\u0443 \u0431\u0430\u043a\u04c0"
+    ],
+    "name:lit_x_preferred":[
+        "Plikimas"
+    ],
+    "name:msa_x_preferred":[
+        "Botak"
+    ],
+    "name:nor_x_preferred":[
+        "Skallethet"
+    ],
+    "name:pol_x_preferred":[
+        "\u0141ysienie"
+    ],
+    "name:por_x_preferred":[
+        "Calv\u00edcie"
+    ],
+    "name:ron_x_preferred":[
+        "Calvi\u021bie"
+    ],
+    "name:scn_x_preferred":[
+        "Tigna"
+    ],
+    "name:slk_x_preferred":[
+        "Ple\u0161ina"
+    ],
+    "name:som_x_preferred":[
+        "Bidaar"
+    ],
+    "name:sqi_x_preferred":[
+        "Qeli"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0bb4\u0bc1\u0b95\u0bcd\u0b95\u0bc8"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c4b\u0c21\u0c3f"
+    ],
+    "name:tgl_x_preferred":[
+        "Pagkakalbo"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e28\u0e35\u0e23\u0e29\u0e30\u0e25\u0e49\u0e32\u0e19"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0431\u043b\u0438\u0441\u0456\u043d\u043d\u044f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +152,7 @@
         }
     ],
     "wof:id":1326567961,
-    "wof:lastmodified":1536933221,
+    "wof:lastmodified":1564106305,
     "wof:name":"Balding",
     "wof:parent_id":1092050535,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0631\u0627\u0628\u0627\u0646"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0627\u0631\u0627\u0628\u0627\u0646"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +43,7 @@
         "gn:id":7989242
     },
     "wof:country":"NP",
-    "wof:geomhash":"de27bcf235d308338f9fa176a2ebfd48",
+    "wof:geomhash":"a8bd404479846080a5b46d913961d9a1",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +51,7 @@
         }
     ],
     "wof:id":1209037621,
-    "wof:lastmodified":1536299649,
+    "wof:lastmodified":1564112399,
     "wof:name":"Daraban",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +62,9 @@
 },
   "bbox": [
     82.00825999999998,
-    28.438090000000006,
+    28.43809000000001,
     82.00825999999998,
-    28.438090000000006
+    28.43809000000001
 ],
   "geometry": {"coordinates":[82.00825999999998,28.43809000000001],"type":"Point"}
 }

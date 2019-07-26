@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dolphu"
+    ],
+    "name:mai_x_preferred":[
+        "\u0921\u094b\u0932\u094d\u092b\u0942"
+    ],
+    "name:msa_x_preferred":[
+        "Dolphu"
+    ],
+    "name:nep_x_preferred":[
+        "\u0921\u094b\u0932\u094d\u092b\u0942"
+    ],
+    "name:new_x_preferred":[
+        "\u0926\u094b\u0932\u094d\u092b\u0941"
+    ],
+    "name:pol_x_preferred":[
+        "Dolphu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1242921489,
-    "wof:lastmodified":1537062674,
+    "wof:lastmodified":1564116309,
     "wof:name":"Dolphu",
     "wof:parent_id":1092050225,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u092c\u0948\u0915\u0941\u0928\u094d\u0920\u0947"
+    ],
+    "name:ceb_x_preferred":[
+        "Baikunthe"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u0948\u0915\u0941\u0928\u094d\u0920\u0947"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1276482751,
-    "wof:lastmodified":1537072567,
+    "wof:lastmodified":1564111138,
     "wof:name":"Baikunthe",
     "wof:parent_id":1092049207,
     "wof:placetype":"locality",

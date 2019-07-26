@@ -25,7 +25,31 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0916\u094b\u091c\u092a\u0941\u0930"
+    ],
+    "name:ceb_x_preferred":[
+        "Khojpur"
+    ],
+    "name:fra_x_preferred":[
+        "Khojpur"
+    ],
+    "name:mai_x_preferred":[
+        "\u0916\u094b\u091c\u092a\u0941\u0930"
+    ],
+    "name:msa_x_preferred":[
+        "Khojpur"
+    ],
     "name:nep_x_preferred":[
+        "Khojpur"
+    ],
+    "name:nep_x_variant":[
+        "\u0916\u094b\u091c\u092a\u0941\u0930"
+    ],
+    "name:new_x_preferred":[
+        "\u0916\u094b\u091c\u092a\u0941\u0930"
+    ],
+    "name:pol_x_preferred":[
         "Khojpur"
     ],
     "name:und_x_variant":[
@@ -62,7 +86,7 @@
         }
     ],
     "wof:id":1276461739,
-    "wof:lastmodified":1537676051,
+    "wof:lastmodified":1564111012,
     "wof:name":"Khojpur",
     "wof:parent_id":1092048485,
     "wof:placetype":"locality",

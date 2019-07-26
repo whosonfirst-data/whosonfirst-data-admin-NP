@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sisne"
+    ],
+    "name:fra_x_preferred":[
+        "Sisne"
+    ],
+    "name:mai_x_preferred":[
+        "\u0938\u093f\u0938\u094d\u0928\u0947"
+    ],
+    "name:msa_x_preferred":[
+        "Sisne"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u093f\u0938\u094d\u0928\u0947"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u093f\u0938\u094d\u0928\u0947"
+    ],
+    "name:pol_x_preferred":[
+        "Sisne"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1226480055,
-    "wof:lastmodified":1537089381,
+    "wof:lastmodified":1564119097,
     "wof:name":"Sisne",
     "wof:parent_id":1092050367,
     "wof:placetype":"locality",

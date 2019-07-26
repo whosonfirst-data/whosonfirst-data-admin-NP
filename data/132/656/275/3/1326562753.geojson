@@ -28,6 +28,18 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Seri"
+    ],
+    "name:mai_x_preferred":[
+        "\u0938\u0947\u091f\u0940"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u0947\u091f\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Seri"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":1326562753,
-    "wof:lastmodified":1537570151,
+    "wof:lastmodified":1564106309,
     "wof:name":"Seri",
     "wof:parent_id":1092048339,
     "wof:placetype":"locality",

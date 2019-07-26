@@ -25,6 +25,33 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Gigan"
+    ],
+    "name:fra_x_preferred":[
+        "Gigan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d9\u05d9\u05d2\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Gigan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ac\u30a4\u30ac\u30f3"
+    ],
+    "name:nld_x_preferred":[
+        "Gigan"
+    ],
+    "name:pol_x_preferred":[
+        "Gigan"
+    ],
+    "name:spa_x_preferred":[
+        "Gigan"
+    ],
+    "name:swe_x_preferred":[
+        "Gigan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -56,7 +83,7 @@
         }
     ],
     "wof:id":1344066635,
-    "wof:lastmodified":1536865247,
+    "wof:lastmodified":1564107740,
     "wof:name":"Gigan",
     "wof:parent_id":1092048409,
     "wof:placetype":"locality",

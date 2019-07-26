@@ -25,9 +25,36 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dingboche"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0646\u06af\u0628\u0648\u0686"
+    ],
+    "name:fra_x_preferred":[
+        "Dingboche"
+    ],
+    "name:nld_x_preferred":[
+        "Dingboche"
+    ],
+    "name:pol_x_preferred":[
+        "Dingboche"
+    ],
+    "name:por_x_preferred":[
+        "Dingboche"
+    ],
+    "name:spa_x_preferred":[
+        "Dingboche"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bbf\u0b99\u0bcd\u0b95\u0bc1\u0baa\u0bc1\u0b9a\u0bcd\u0b9a\u0bc7"
+    ],
     "name:und_x_variant":[
         "Dingpoche",
         "Dingboche"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e01\u4f2f\u5d0e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +88,7 @@
         }
     ],
     "wof:id":1225862749,
-    "wof:lastmodified":1537676057,
+    "wof:lastmodified":1564118557,
     "wof:name":"Dingboche",
     "wof:parent_id":1092049841,
     "wof:placetype":"locality",

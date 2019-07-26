@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0925\u094b\u0915\u094d\u0932\u0941\u0919"
+    ],
+    "name:ceb_x_preferred":[
+        "Thoklung"
+    ],
+    "name:mai_x_preferred":[
+        "\u0925\u094b\u0915\u094d\u0932\u0941\u0919"
+    ],
+    "name:msa_x_preferred":[
+        "Thoklung"
+    ],
+    "name:nep_x_preferred":[
+        "\u0925\u094b\u0915\u094d\u0932\u0941\u0919"
+    ],
+    "name:new_x_preferred":[
+        "\u0925\u094b\u0915\u094d\u0932\u0941\u0919"
+    ],
+    "name:pol_x_preferred":[
+        "Thoklung"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1276482781,
-    "wof:lastmodified":1537072528,
+    "wof:lastmodified":1564111163,
     "wof:name":"Thoklung",
     "wof:parent_id":1092050137,
     "wof:placetype":"locality",

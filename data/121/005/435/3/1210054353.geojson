@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dhuskun"
+    ],
+    "name:msa_x_preferred":[
+        "Ghuskun"
+    ],
+    "name:nep_x_preferred":[
+        "\u0927\u0941\u0938\u094d\u0915\u0941\u0928"
+    ],
+    "name:new_x_preferred":[
+        "\u0918\u0941\u0938\u094d\u0915\u0941\u0928"
+    ],
+    "name:pol_x_preferred":[
+        "Ghuskun"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1210054353,
-    "wof:lastmodified":1537570156,
+    "wof:lastmodified":1564112997,
     "wof:name":"Dhuskun",
     "wof:parent_id":1092049755,
     "wof:placetype":"locality",

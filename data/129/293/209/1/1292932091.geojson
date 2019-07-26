@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0643\u064a\u0644"
+    ],
+    "name:cat_x_preferred":[
+        "Bakil"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1292932091,
-    "wof:lastmodified":1537087737,
+    "wof:lastmodified":1564109230,
     "wof:name":"Bakil",
     "wof:parent_id":1092048697,
     "wof:placetype":"locality",

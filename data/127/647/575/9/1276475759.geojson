@@ -28,6 +28,15 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Umri"
+    ],
+    "name:pol_x_preferred":[
+        "Umri"
+    ],
+    "name:swe_x_preferred":[
+        "Umri"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1276475759,
-    "wof:lastmodified":1537082089,
+    "wof:lastmodified":1564110966,
     "wof:name":"Umri",
     "wof:parent_id":1092048571,
     "wof:placetype":"locality",

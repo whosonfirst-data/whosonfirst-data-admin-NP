@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Dob"
+    ],
+    "name:ceb_x_preferred":[
+        "Dob"
+    ],
+    "name:hun_x_preferred":[
+        "Dob"
+    ],
+    "name:slv_x_preferred":[
+        "Dob"
+    ],
+    "name:swe_x_preferred":[
+        "Dob"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1293520439,
-    "wof:lastmodified":1536739474,
+    "wof:lastmodified":1564109076,
     "wof:name":"Dob",
     "wof:parent_id":1092050347,
     "wof:placetype":"locality",

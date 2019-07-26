@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Melchham"
+    ],
+    "name:mai_x_preferred":[
+        "\u092e\u0947\u0932\u094d\u091b\u093e\u092e"
+    ],
+    "name:msa_x_preferred":[
+        "Melchham"
+    ],
+    "name:nep_x_preferred":[
+        "\u092e\u0947\u0932\u094d\u091b\u093e\u092e"
+    ],
+    "name:new_x_preferred":[
+        "\u092e\u0947\u0932\u094d\u091b\u093e\u092e"
+    ],
+    "name:pol_x_preferred":[
+        "Melchham"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1226566927,
-    "wof:lastmodified":1536967808,
+    "wof:lastmodified":1564118331,
     "wof:name":"Melchham",
     "wof:parent_id":1092050353,
     "wof:placetype":"locality",

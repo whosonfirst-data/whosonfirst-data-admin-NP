@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jhirubas"
+    ],
+    "name:hin_x_preferred":[
+        "\u091d\u093f\u0930\u0941\u0935\u093e\u0938"
+    ],
+    "name:msa_x_preferred":[
+        "Jhirubas"
+    ],
+    "name:nep_x_preferred":[
+        "\u091d\u093f\u0930\u0941\u0935\u093e\u0938"
+    ],
+    "name:new_x_preferred":[
+        "\u091d\u093f\u0930\u0941\u092c\u093e\u0938"
+    ],
+    "name:pol_x_preferred":[
+        "Jhirubas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1260329161,
-    "wof:lastmodified":1536650451,
+    "wof:lastmodified":1564114209,
     "wof:name":"Jhirubas",
     "wof:parent_id":1092050939,
     "wof:placetype":"locality",

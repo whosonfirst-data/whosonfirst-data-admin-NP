@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tarigaun"
+    ],
+    "name:mai_x_preferred":[
+        "\u091f\u0930\u093f\u0917\u093e\u0901\u0909"
+    ],
+    "name:msa_x_preferred":[
+        "Tarigaun"
+    ],
+    "name:nep_x_preferred":[
+        "\u091f\u0930\u093f\u0917\u093e\u0901\u0909"
+    ],
+    "name:new_x_preferred":[
+        "\u091f\u093e\u0930\u0940\u0917\u093e\u0909\u0902"
+    ],
+    "name:pol_x_preferred":[
+        "Tarigaun"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1309754171,
-    "wof:lastmodified":1537004816,
+    "wof:lastmodified":1564115937,
     "wof:name":"Tarigaun",
     "wof:parent_id":1092048173,
     "wof:placetype":"locality",

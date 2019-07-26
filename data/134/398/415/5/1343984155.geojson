@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Koldada"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094b\u0932\u0921\u093e\u0901\u0921\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Koldada"
+    ],
+    "name:nep_x_preferred":[
+        "\u0915\u094b\u0932\u0921\u093e\u0901\u0921\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u0915\u094b\u0932\u094d\u0921\u093e\u0902\u0921\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Koldada"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1343984155,
-    "wof:lastmodified":1536985076,
+    "wof:lastmodified":1564107517,
     "wof:name":"Koldanda",
     "wof:parent_id":1092048527,
     "wof:placetype":"locality",

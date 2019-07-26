@@ -28,6 +28,132 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0646\u063a\u0631\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u0646\u0642\u0631\u06cc"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043d\u0433\u0440\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Angri"
+    ],
+    "name:ceb_x_preferred":[
+        "Angri"
+    ],
+    "name:deu_x_preferred":[
+        "Angri"
+    ],
+    "name:epo_x_preferred":[
+        "Angri"
+    ],
+    "name:eus_x_preferred":[
+        "Angri"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0646\u06af\u0631\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Angri"
+    ],
+    "name:hun_x_preferred":[
+        "Angri"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0576\u0563\u0580\u056b"
+    ],
+    "name:ina_x_preferred":[
+        "Angri"
+    ],
+    "name:ind_x_preferred":[
+        "Angri"
+    ],
+    "name:ita_x_preferred":[
+        "Angri"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30f3\u30b0\u30ea"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043d\u0433\u0440\u0438"
+    ],
+    "name:kor_x_preferred":[
+        "\uc548\uadf8\ub9ac"
+    ],
+    "name:lat_x_preferred":[
+        "Angrium"
+    ],
+    "name:lit_x_preferred":[
+        "Angris"
+    ],
+    "name:lmo_x_preferred":[
+        "Angri"
+    ],
+    "name:msa_x_preferred":[
+        "Angri"
+    ],
+    "name:nap_x_preferred":[
+        "Angri"
+    ],
+    "name:nld_x_preferred":[
+        "Angri"
+    ],
+    "name:nno_x_preferred":[
+        "Angri"
+    ],
+    "name:pms_x_preferred":[
+        "Angri"
+    ],
+    "name:pol_x_preferred":[
+        "Angri"
+    ],
+    "name:por_x_preferred":[
+        "Angri"
+    ],
+    "name:ron_x_preferred":[
+        "Angri"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0433\u0440\u0438"
+    ],
+    "name:scn_x_preferred":[
+        "Angri"
+    ],
+    "name:spa_x_preferred":[
+        "Angri"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043d\u0433\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Angri"
+    ],
+    "name:tgl_x_preferred":[
+        "Angri"
+    ],
+    "name:tur_x_preferred":[
+        "Angri"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043d\u0433\u0440\u0456"
+    ],
+    "name:vec_x_preferred":[
+        "Angri"
+    ],
+    "name:vie_x_preferred":[
+        "Angri"
+    ],
+    "name:vol_x_preferred":[
+        "Angri"
+    ],
+    "name:war_x_preferred":[
+        "Angri"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u683c\u91cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -45,7 +171,7 @@
         }
     ],
     "wof:id":1209557011,
-    "wof:lastmodified":1536283513,
+    "wof:lastmodified":1564111747,
     "wof:name":"Angri",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

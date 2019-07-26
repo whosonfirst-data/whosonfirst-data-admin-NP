@@ -25,8 +25,14 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Mantin"
+    ],
     "name:nep_x_preferred":[
         "M\u0101\u1e45tin"
+    ],
+    "name:zho_x_preferred":[
+        "\u6587\u4e01\u9547"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1209928649,
-    "wof:lastmodified":1537676110,
+    "wof:lastmodified":1564112332,
     "wof:name":"Mantin",
     "wof:parent_id":1092049207,
     "wof:placetype":"locality",

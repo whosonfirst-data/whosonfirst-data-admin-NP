@@ -28,6 +28,15 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mahamadpur"
+    ],
+    "name:new_x_preferred":[
+        "\u092e\u0939\u092e\u0926\u092a\u0941\u0930 \u0917\u093e\u0935\u093f\u0938"
+    ],
+    "name:pol_x_preferred":[
+        "Mahamadpur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1260222405,
-    "wof:lastmodified":1536795165,
+    "wof:lastmodified":1564113910,
     "wof:name":"Mahamadpur",
     "wof:parent_id":1092049419,
     "wof:placetype":"locality",

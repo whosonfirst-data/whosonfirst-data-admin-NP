@@ -28,6 +28,30 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u092e\u094c\u0935\u093e\u0939\u0940"
+    ],
+    "name:ceb_x_preferred":[
+        "Mauwahi"
+    ],
+    "name:dty_x_preferred":[
+        "\u092e\u094c\u0935\u093e\u0939\u0940"
+    ],
+    "name:mai_x_preferred":[
+        "\u092e\u094c\u0935\u093e\u0939\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Mauwahi"
+    ],
+    "name:nep_x_preferred":[
+        "\u092e\u094c\u0935\u093e\u0939\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u092e\u094c\u0935\u093e\u0939\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Mauwahi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1343509213,
-    "wof:lastmodified":1536675923,
+    "wof:lastmodified":1564108285,
     "wof:name":"Mauwahi",
     "wof:parent_id":1092050497,
     "wof:placetype":"locality",

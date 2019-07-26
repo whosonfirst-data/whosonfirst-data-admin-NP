@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u091a\u0941\u0919\u092e\u093e\u0919"
+    ],
+    "name:ceb_x_preferred":[
+        "Chungmang"
+    ],
+    "name:mai_x_preferred":[
+        "\u091a\u0941\u0919\u092e\u093e\u0919"
+    ],
+    "name:nep_x_preferred":[
+        "\u091a\u0941\u0919\u092e\u093e\u0919"
+    ],
+    "name:pol_x_preferred":[
+        "Chungmang"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1242625551,
-    "wof:lastmodified":1537570148,
+    "wof:lastmodified":1564116878,
     "wof:name":"Chungmang",
     "wof:parent_id":1092049207,
     "wof:placetype":"locality",

@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tilahar"
+    ],
+    "name:fra_x_preferred":[
+        "Tilahar"
+    ],
+    "name:mai_x_preferred":[
+        "\u0924\u093f\u0932\u093e\u0939\u093e\u0930"
+    ],
+    "name:msa_x_preferred":[
+        "Tilahar"
+    ],
+    "name:nep_x_preferred":[
+        "\u0924\u093f\u0932\u093e\u0939\u093e\u0930"
+    ],
+    "name:new_x_preferred":[
+        "\u0924\u093f\u0932\u0939\u0930"
+    ],
+    "name:pol_x_preferred":[
+        "Tilahar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1226490253,
-    "wof:lastmodified":1537074972,
+    "wof:lastmodified":1564118834,
     "wof:name":"Tilahar",
     "wof:parent_id":1092049297,
     "wof:placetype":"locality",

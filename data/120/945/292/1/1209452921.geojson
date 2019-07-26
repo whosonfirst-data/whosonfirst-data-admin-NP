@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kisanpur"
+    ],
+    "name:fra_x_preferred":[
+        "Kisanpur"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093f\u0938\u0928\u092a\u0941\u0930"
+    ],
+    "name:mai_x_preferred":[
+        "\u0915\u093f\u0938\u0928\u092a\u0941\u0930"
+    ],
+    "name:nep_x_preferred":[
+        "\u0915\u093f\u0938\u0928\u092a\u0941\u0930"
+    ],
+    "name:new_x_preferred":[
+        "\u0915\u093f\u0938\u093e\u0928\u092a\u0941\u0930"
+    ],
+    "name:pol_x_preferred":[
+        "Kisanpur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +58,7 @@
         "gn:id":7992002
     },
     "wof:country":"NP",
-    "wof:geomhash":"a206fe0a2d529967c13c95362e3f98c8",
+    "wof:geomhash":"c8d8079631065d26d110288a1246a5b0",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +66,7 @@
         }
     ],
     "wof:id":1209452921,
-    "wof:lastmodified":1536286622,
+    "wof:lastmodified":1564112725,
     "wof:name":"Kisanpur",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +77,9 @@
 },
   "bbox": [
     85.48602,
-    26.989490000000004,
+    26.98949,
     85.48602,
-    26.989490000000004
+    26.98949
 ],
   "geometry": {"coordinates":[85.48602,26.98949],"type":"Point"}
 }

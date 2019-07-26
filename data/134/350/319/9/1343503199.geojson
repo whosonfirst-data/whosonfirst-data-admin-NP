@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chyanam"
+    ],
+    "name:fra_x_preferred":[
+        "Chyanam"
+    ],
+    "name:msa_x_preferred":[
+        "Chyanam"
+    ],
+    "name:nep_x_preferred":[
+        "\u091a\u094d\u092f\u093e\u0928\u093e\u092e"
+    ],
+    "name:new_x_preferred":[
+        "\u091a\u094d\u092f\u093e\u0928\u093e\u092e"
+    ],
+    "name:pol_x_preferred":[
+        "Chyanam"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1343503199,
-    "wof:lastmodified":1536684526,
+    "wof:lastmodified":1564108286,
     "wof:name":"Chyanam",
     "wof:parent_id":1092050225,
     "wof:placetype":"locality",

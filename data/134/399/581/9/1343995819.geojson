@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0938\u0924\u093e\u0938\u0940\u0927\u093e\u092e"
+    ],
+    "name:ceb_x_preferred":[
+        "Satasidham"
+    ],
+    "name:fra_x_preferred":[
+        "Satasidham"
+    ],
+    "name:msa_x_preferred":[
+        "Satasidham"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u0924\u093e\u0938\u093f\u0927\u093e\u092e"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u0924\u093e\u0938\u093f\u0927\u093e\u092e"
+    ],
+    "name:pol_x_preferred":[
+        "Satasidham"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1343995819,
-    "wof:lastmodified":1536968581,
+    "wof:lastmodified":1564107655,
     "wof:name":"Satasidham",
     "wof:parent_id":1092050367,
     "wof:placetype":"locality",

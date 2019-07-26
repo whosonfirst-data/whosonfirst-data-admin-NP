@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Yangpang"
+    ],
+    "name:mai_x_preferred":[
+        "\u092f\u093e\u0919\u092a\u093e\u0919"
+    ],
+    "name:msa_x_preferred":[
+        "Yangpang"
+    ],
+    "name:new_x_preferred":[
+        "\u092f\u093e\u0919\u092a\u093e\u0919"
+    ],
+    "name:pol_x_preferred":[
+        "Yangpang"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0646\u06af\u067e\u0646\u06af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1277114431,
-    "wof:lastmodified":1536722236,
+    "wof:lastmodified":1564111504,
     "wof:name":"Yangpang",
     "wof:parent_id":1092049883,
     "wof:placetype":"locality",

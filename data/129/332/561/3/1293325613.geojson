@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Majh Khanda"
+    ],
+    "name:pol_x_preferred":[
+        "Majh Kanda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1293325613,
-    "wof:lastmodified":1537570157,
+    "wof:lastmodified":1564109812,
     "wof:name":"Majh Khanda",
     "wof:parent_id":1092049963,
     "wof:placetype":"locality",

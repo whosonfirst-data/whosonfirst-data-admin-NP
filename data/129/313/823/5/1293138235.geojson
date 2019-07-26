@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u092c\u0947\u0932\u0918\u093e\u0930\u0940"
+    ],
+    "name:ceb_x_preferred":[
+        "Belghari"
+    ],
+    "name:fra_x_preferred":[
+        "Belghari"
+    ],
+    "name:mai_x_preferred":[
+        "\u092c\u0947\u0932\u0918\u093e\u0930\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Belghari"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u0947\u0932\u0918\u093e\u0930\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Belghari"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1293138235,
-    "wof:lastmodified":1536793787,
+    "wof:lastmodified":1564109505,
     "wof:name":"Belghari",
     "wof:parent_id":1092050053,
     "wof:placetype":"locality",

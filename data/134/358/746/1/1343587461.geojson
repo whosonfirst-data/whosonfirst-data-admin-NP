@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chhapali"
+    ],
+    "name:mai_x_preferred":[
+        "\u091b\u093e\u092a\u093e\u0932\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Chhapali"
+    ],
+    "name:nep_x_preferred":[
+        "\u091b\u092a\u0932\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u091b\u092a\u0932\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Chhapali"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1343587461,
-    "wof:lastmodified":1537058051,
+    "wof:lastmodified":1564108381,
     "wof:name":"Chhapali",
     "wof:parent_id":1092048653,
     "wof:placetype":"locality",

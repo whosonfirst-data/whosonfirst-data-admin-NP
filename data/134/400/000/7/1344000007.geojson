@@ -28,6 +28,15 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sahare"
+    ],
+    "name:new_x_preferred":[
+        "\u0936\u0939\u0930\u0947"
+    ],
+    "name:pol_x_preferred":[
+        "Sahare"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1344000007,
-    "wof:lastmodified":1536962746,
+    "wof:lastmodified":1564107865,
     "wof:name":"Sahare",
     "wof:parent_id":1092050179,
     "wof:placetype":"locality",

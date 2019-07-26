@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0928\u0930\u094d\u0918\u094b"
+    ],
+    "name:fra_x_preferred":[
+        "Nardho"
+    ],
+    "name:mai_x_preferred":[
+        "\u0928\u0930\u094d\u0918\u094b"
+    ],
+    "name:msa_x_preferred":[
+        "Nargho"
+    ],
+    "name:nep_x_preferred":[
+        "\u0928\u0930\u094d\u0918\u094b"
+    ],
+    "name:pol_x_preferred":[
+        "Nardho"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +78,7 @@
         }
     ],
     "wof:id":1276161209,
-    "wof:lastmodified":1537570154,
+    "wof:lastmodified":1564110499,
     "wof:name":"Nargho",
     "wof:parent_id":1092048485,
     "wof:placetype":"locality",

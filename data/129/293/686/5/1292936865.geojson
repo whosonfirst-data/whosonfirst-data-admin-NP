@@ -28,6 +28,78 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:amh_x_preferred":[
+        "\u122b\u130d\u12cd"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f62\u0f7a\u0f60\u0f74\u0f0d"
+    ],
+    "name:cat_x_preferred":[
+        "Re\u00fa"
+    ],
+    "name:dan_x_preferred":[
+        "Re'u"
+    ],
+    "name:deu_x_preferred":[
+        "Regu"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b1\u03b3\u03b1\u03cd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0626\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "R\u00e9ou"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05e2\u05d5"
+    ],
+    "name:ind_x_preferred":[
+        "Rehu"
+    ],
+    "name:ita_x_preferred":[
+        "Reu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30a6"
+    ],
+    "name:msa_x_preferred":[
+        "Rehu"
+    ],
+    "name:nld_x_preferred":[
+        "Rehu"
+    ],
+    "name:nor_x_preferred":[
+        "Re'u"
+    ],
+    "name:pol_x_preferred":[
+        "Reu"
+    ],
+    "name:por_x_preferred":[
+        "Re\u00fa"
+    ],
+    "name:ron_x_preferred":[
+        "Reu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u0433\u0430\u0432"
+    ],
+    "name:spa_x_preferred":[
+        "Reu"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u0433\u0430\u0432"
+    ],
+    "name:swe_x_preferred":[
+        "Reu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0435\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0639\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +131,7 @@
         }
     ],
     "wof:id":1292936865,
-    "wof:lastmodified":1537080843,
+    "wof:lastmodified":1564109187,
     "wof:name":"Reu",
     "wof:parent_id":1092048605,
     "wof:placetype":"locality",

@@ -28,6 +28,30 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0932\u094c\u0915\u0939\u0940"
+    ],
+    "name:ceb_x_preferred":[
+        "Laukahi"
+    ],
+    "name:fra_x_preferred":[
+        "Laukahi"
+    ],
+    "name:mai_x_preferred":[
+        "\u0932\u094c\u0915\u0939\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Laukahi"
+    ],
+    "name:nep_x_preferred":[
+        "\u0932\u094c\u0915\u0939\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u0932\u094c\u0915\u093e\u0939\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Laukahi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +84,7 @@
         }
     ],
     "wof:id":1277124667,
-    "wof:lastmodified":1537570157,
+    "wof:lastmodified":1564110807,
     "wof:name":"Laukahi",
     "wof:parent_id":1092049923,
     "wof:placetype":"locality",

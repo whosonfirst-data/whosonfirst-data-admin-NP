@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chidipani"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u093f\u0926\u093f\u092a\u093e\u0928\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Chidipani"
+    ],
+    "name:nep_x_preferred":[
+        "\u091a\u093f\u0926\u093f\u092a\u093e\u0928\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u091a\u093f\u0921\u093f\u092a\u093e\u0928\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Chidipani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1310549311,
-    "wof:lastmodified":1536852740,
+    "wof:lastmodified":1564114596,
     "wof:name":"Chidipani",
     "wof:parent_id":1092050889,
     "wof:placetype":"locality",

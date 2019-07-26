@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dobhan"
+    ],
+    "name:hin_x_preferred":[
+        "\u0926\u094b\u092d\u093e\u0928"
+    ],
+    "name:msa_x_preferred":[
+        "Dobhan"
+    ],
+    "name:nep_x_preferred":[
+        "\u0926\u094b\u092d\u093e\u0928"
+    ],
+    "name:new_x_preferred":[
+        "\u0926\u094b\u092d\u093e\u0928"
+    ],
+    "name:pol_x_preferred":[
+        "Dobhan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1293537899,
-    "wof:lastmodified":1536714871,
+    "wof:lastmodified":1564109031,
     "wof:name":"Dobhan",
     "wof:parent_id":1092050535,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chhahara"
+    ],
+    "name:hin_x_preferred":[
+        "\u091b\u0939\u0930\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Chhahara"
+    ],
+    "name:nep_x_preferred":[
+        "\u091b\u0939\u0930\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u091b\u0939\u0930\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Chhahara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1226052311,
-    "wof:lastmodified":1536715924,
+    "wof:lastmodified":1564118260,
     "wof:name":"Chhahara",
     "wof:parent_id":1092049755,
     "wof:placetype":"locality",

@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Baur"
+    ],
+    "name:ces_x_preferred":[
+        "Baur"
+    ],
+    "name:deu_x_preferred":[
+        "Baur"
+    ],
+    "name:fra_x_preferred":[
+        "Baur"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0443\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Baur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1193084827,
-    "wof:lastmodified":1536376885,
+    "wof:lastmodified":1564113057,
     "wof:name":"Baur",
     "wof:parent_id":1092049297,
     "wof:placetype":"locality",

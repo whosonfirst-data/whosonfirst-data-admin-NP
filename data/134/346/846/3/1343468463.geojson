@@ -25,11 +25,26 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Fattepur"
+    ],
     "name:nep_x_preferred":[
         "Phattepur"
     ],
+    "name:nep_x_variant":[
+        "\u092b\u0924\u094d\u0924\u0947\u092a\u0941\u0930"
+    ],
+    "name:new_x_preferred":[
+        "\u092b\u0924\u094d\u0924\u0947\u092a\u0941\u0930"
+    ],
+    "name:pol_x_preferred":[
+        "Fattepur"
+    ],
     "name:und_x_variant":[
         "Fatehpur"
+    ],
+    "name:vie_x_preferred":[
+        "Fattepur"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +77,7 @@
         }
     ],
     "wof:id":1343468463,
-    "wof:lastmodified":1537676056,
+    "wof:lastmodified":1564107891,
     "wof:name":"Phattepur",
     "wof:parent_id":1092048485,
     "wof:placetype":"locality",

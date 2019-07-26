@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bhutahipaterwa"
+    ],
+    "name:mai_x_preferred":[
+        "\u092d\u0941\u0924\u0939\u0940 \u092a\u0930\u094d\u091f\u0947\u0935\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Bhutahi Paterwa"
+    ],
+    "name:nep_x_preferred":[
+        "\u092d\u0941\u0924\u0939\u0940 \u092a\u0930\u094d\u091f\u0947\u0935\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Bhutahipaterwa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1242615395,
-    "wof:lastmodified":1537008490,
+    "wof:lastmodified":1564116354,
     "wof:name":"Bhutahi Paterwa",
     "wof:parent_id":1092048127,
     "wof:placetype":"locality",

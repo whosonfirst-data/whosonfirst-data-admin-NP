@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dahakhani"
+    ],
+    "name:msa_x_preferred":[
+        "Dahakhani"
+    ],
+    "name:nep_x_preferred":[
+        "\u0926\u0939\u0916\u093e\u0928\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u0926\u0939\u0916\u093e\u0928\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Dahakhani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1343603505,
-    "wof:lastmodified":1537035698,
+    "wof:lastmodified":1564108436,
     "wof:name":"Dahakhani",
     "wof:parent_id":1092050101,
     "wof:placetype":"locality",

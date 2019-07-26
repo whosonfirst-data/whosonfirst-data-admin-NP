@@ -28,6 +28,18 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mai_x_preferred":[
+        "\u0915\u094b\u091f\u0921\u093e\u0901\u0921\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Kotdanda"
+    ],
+    "name:nep_x_preferred":[
+        "\u0915\u094b\u091f\u0921\u093e\u0901\u0921\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Kot Danda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1310053931,
-    "wof:lastmodified":1537068045,
+    "wof:lastmodified":1564115177,
     "wof:name":"Kotdanda",
     "wof:parent_id":1092049679,
     "wof:placetype":"locality",

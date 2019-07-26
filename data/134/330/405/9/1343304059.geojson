@@ -28,6 +28,30 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0928\u0935\u0930\u093e\u091c\u092a\u0941\u0930"
+    ],
+    "name:ceb_x_preferred":[
+        "Navarajpur"
+    ],
+    "name:dty_x_preferred":[
+        "\u0928\u0935\u0930\u093e\u091c\u092a\u0941\u0930"
+    ],
+    "name:mai_x_preferred":[
+        "\u0928\u0935\u0930\u093e\u091c\u092a\u0941\u0930"
+    ],
+    "name:msa_x_preferred":[
+        "Navarajpur"
+    ],
+    "name:nep_x_preferred":[
+        "\u0928\u0935\u0930\u093e\u091c\u092a\u0941\u0930"
+    ],
+    "name:new_x_preferred":[
+        "\u0928\u0935\u0930\u093e\u091c\u092a\u0941\u0930"
+    ],
+    "name:pol_x_preferred":[
+        "Navarajpur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1343304059,
-    "wof:lastmodified":1536971625,
+    "wof:lastmodified":1564107573,
     "wof:name":"Navarajpur",
     "wof:parent_id":1092050709,
     "wof:placetype":"locality",

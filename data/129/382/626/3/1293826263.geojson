@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bamda"
+    ],
+    "name:swe_x_preferred":[
+        "Bamda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1293826263,
-    "wof:lastmodified":1536796073,
+    "wof:lastmodified":1564109429,
     "wof:name":"Bamda",
     "wof:parent_id":1092049679,
     "wof:placetype":"locality",

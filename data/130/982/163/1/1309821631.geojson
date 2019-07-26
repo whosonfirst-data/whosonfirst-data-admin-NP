@@ -25,6 +25,9 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e09\u548c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1309821631,
-    "wof:lastmodified":1536908559,
+    "wof:lastmodified":1564115748,
     "wof:name":"Sanwa",
     "wof:parent_id":1092050535,
     "wof:placetype":"locality",

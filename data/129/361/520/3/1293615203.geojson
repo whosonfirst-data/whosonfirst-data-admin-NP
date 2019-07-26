@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Deval"
+    ],
+    "name:fra_x_preferred":[
+        "Deval"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1293615203,
-    "wof:lastmodified":1537096910,
+    "wof:lastmodified":1564109620,
     "wof:name":"Deval",
     "wof:parent_id":1092048697,
     "wof:placetype":"locality",

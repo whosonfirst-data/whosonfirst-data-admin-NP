@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sanagau"
+    ],
+    "name:mai_x_preferred":[
+        "\u0938\u093e\u0928\u093e \u0917\u093e\u0909\u0901"
+    ],
+    "name:msa_x_preferred":[
+        "Sanagau"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u093e\u0928\u093e\u0917\u093e\u0909\u0902"
+    ],
+    "name:pol_x_preferred":[
+        "Sanagau"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +52,7 @@
         "gn:id":7947490
     },
     "wof:country":"NP",
-    "wof:geomhash":"92b4404c1d670d313ded22635f65e06d",
+    "wof:geomhash":"4692160177f910650040d1d10807db55",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +60,7 @@
         }
     ],
     "wof:id":1209342613,
-    "wof:lastmodified":1536290014,
+    "wof:lastmodified":1564112602,
     "wof:name":"Sanagaun",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +71,9 @@
 },
   "bbox": [
     81.06183,
-    29.275170000000006,
+    29.27517000000001,
     81.06183,
-    29.275170000000006
+    29.27517000000001
 ],
   "geometry": {"coordinates":[81.06183,29.27517000000001],"type":"Point"}
 }

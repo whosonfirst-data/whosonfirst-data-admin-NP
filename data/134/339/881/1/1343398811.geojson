@@ -28,6 +28,15 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dty_x_preferred":[
+        "\u092c\u0938\u094d\u0924\u093f\u092a\u0941\u0930"
+    ],
+    "name:fra_x_preferred":[
+        "Bastipur"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u0938\u094d\u0924\u093f\u092a\u0941\u0930"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1343398811,
-    "wof:lastmodified":1536834087,
+    "wof:lastmodified":1564107594,
     "wof:name":"Bastipur",
     "wof:parent_id":1092050497,
     "wof:placetype":"locality",

@@ -28,6 +28,18 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kaland"
+    ],
+    "name:fin_x_preferred":[
+        "Kalanti"
+    ],
+    "name:nor_x_preferred":[
+        "Kalanti"
+    ],
+    "name:swe_x_preferred":[
+        "Kaland"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1343304051,
-    "wof:lastmodified":1536971638,
+    "wof:lastmodified":1564107573,
     "wof:name":"Kalanti",
     "wof:parent_id":1092048887,
     "wof:placetype":"locality",

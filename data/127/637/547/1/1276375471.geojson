@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0648\u0631\u0627\u0647\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Aurahi"
+    ],
+    "name:fra_x_preferred":[
+        "Aurahi"
+    ],
+    "name:mai_x_preferred":[
+        "\u0914\u0930\u0939\u0940"
+    ],
+    "name:nep_x_preferred":[
+        "\u0914\u0930\u0939\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Aurahi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +78,7 @@
         }
     ],
     "wof:id":1276375471,
-    "wof:lastmodified":1537570154,
+    "wof:lastmodified":1564111291,
     "wof:name":"Aurahi",
     "wof:parent_id":1092049639,
     "wof:placetype":"locality",

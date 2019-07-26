@@ -28,6 +28,15 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Bradi"
+    ],
+    "name:ita_x_preferred":[
+        "Bradi"
+    ],
+    "name:msa_x_preferred":[
+        "Bradi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1242716165,
-    "wof:lastmodified":1536862796,
+    "wof:lastmodified":1564116817,
     "wof:name":"Bradi",
     "wof:parent_id":1092049133,
     "wof:placetype":"locality",

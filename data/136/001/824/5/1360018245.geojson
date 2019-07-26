@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Whama"
+    ],
+    "name:mai_x_preferred":[
+        "\u0939\u094d\u0935\u093e\u092e\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Whama"
+    ],
+    "name:nep_x_preferred":[
+        "\u0939\u094d\u0935\u093e\u092e\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u0935\u094d\u0939\u093e\u092e\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Whama"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1360018245,
-    "wof:lastmodified":1537040398,
+    "wof:lastmodified":1564115431,
     "wof:name":"Hwama",
     "wof:parent_id":1092049455,
     "wof:placetype":"locality",

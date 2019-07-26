@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bagahi"
+    ],
+    "name:pol_x_preferred":[
+        "Bagahi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1226071501,
-    "wof:lastmodified":1536688268,
+    "wof:lastmodified":1564119233,
     "wof:name":"Bagahi",
     "wof:parent_id":1092048097,
     "wof:placetype":"locality",

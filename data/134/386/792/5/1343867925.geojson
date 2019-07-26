@@ -28,6 +28,15 @@
     "name:nep_x_preferred":[
         "Bishr\u0101mpur"
     ],
+    "name:nep_x_variant":[
+        "\u0935\u093f\u0936\u094d\u0930\u093e\u092e\u092a\u0941\u0930"
+    ],
+    "name:new_x_preferred":[
+        "\u0935\u093f\u0936\u094d\u0930\u093e\u092e\u092a\u0941\u0930"
+    ],
+    "name:pol_x_preferred":[
+        "Bishrampur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1343867925,
-    "wof:lastmodified":1537676104,
+    "wof:lastmodified":1564108835,
     "wof:name":"Bishrampur",
     "wof:parent_id":1092049419,
     "wof:placetype":"locality",

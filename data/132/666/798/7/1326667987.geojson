@@ -26,8 +26,23 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Barhabise"
+    ],
+    "name:fra_x_preferred":[
+        "Bahrabise"
+    ],
+    "name:msa_x_preferred":[
+        "Barhabise"
+    ],
     "name:nep_x_preferred":[
         "B\u0101hrabise"
+    ],
+    "name:nep_x_variant":[
+        "\u092c\u093e\u0939\u094d\u0930\u092c\u093f\u0938\u0947"
+    ],
+    "name:pol_x_preferred":[
+        "Barhabise"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1326667987,
-    "wof:lastmodified":1537676096,
+    "wof:lastmodified":1564106414,
     "wof:name":"Bahrabise",
     "wof:parent_id":1092049679,
     "wof:placetype":"locality",

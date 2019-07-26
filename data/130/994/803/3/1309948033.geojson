@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ghyangphedi"
+    ],
+    "name:fra_x_preferred":[
+        "Ghyangphedi"
+    ],
+    "name:mai_x_preferred":[
+        "\u0918\u094d\u092f\u093e\u0919\u094d\u0917\u092b\u0947\u0926\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Ghyangphedi"
+    ],
+    "name:nep_x_preferred":[
+        "\u0918\u094d\u092f\u093e\u0919\u094d\u0917\u092b\u0947\u0926\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u0918\u094d\u092f\u093e\u0919\u092b\u0947\u0926\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Ghyangphedi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1309948033,
-    "wof:lastmodified":1536726594,
+    "wof:lastmodified":1564115835,
     "wof:name":"Ghyangphedi",
     "wof:parent_id":1092049133,
     "wof:placetype":"locality",

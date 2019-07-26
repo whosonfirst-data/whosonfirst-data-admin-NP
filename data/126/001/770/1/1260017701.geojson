@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lado"
+    ],
+    "name:deu_x_preferred":[
+        "Lado"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0434\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Lado"
+    ],
+    "name:swe_x_preferred":[
+        "Lado"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1260017701,
-    "wof:lastmodified":1537079562,
+    "wof:lastmodified":1564114022,
     "wof:name":"Lado",
     "wof:parent_id":1092048127,
     "wof:placetype":"locality",

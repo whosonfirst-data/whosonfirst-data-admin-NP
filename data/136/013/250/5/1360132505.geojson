@@ -28,6 +28,9 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "RUP"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1360132505,
-    "wof:lastmodified":1536876452,
+    "wof:lastmodified":1564115270,
     "wof:name":"Rup",
     "wof:parent_id":1092049257,
     "wof:placetype":"locality",

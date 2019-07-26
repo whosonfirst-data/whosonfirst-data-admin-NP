@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u092e\u093f\u0930\u094d\u091a\u0948\u092f\u093e"
+    ],
+    "name:deu_x_preferred":[
+        "Mirchaiya"
+    ],
+    "name:dty_x_preferred":[
+        "\u092e\u093f\u0930\u094d\u091a\u0948\u092f\u093e \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:mai_x_preferred":[
+        "\u092e\u093f\u0930\u094d\u091a\u0948\u092f\u093e \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:nep_x_preferred":[
+        "\u092e\u093f\u0930\u094d\u091a\u0948\u092f\u093e \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u0930\u093e\u092e\u0928\u0917\u0930 \u092e\u093f\u0930\u091a\u0948\u092f\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Ramnagar Mirchaiya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1309953935,
-    "wof:lastmodified":1536718092,
+    "wof:lastmodified":1564115763,
     "wof:name":"Mirchaiya",
     "wof:parent_id":1092050497,
     "wof:placetype":"locality",

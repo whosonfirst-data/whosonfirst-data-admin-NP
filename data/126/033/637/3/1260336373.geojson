@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u091c\u093f\u0928\u093e\u0916\u0942"
+    ],
+    "name:fra_x_preferred":[
+        "Jinakhu"
+    ],
+    "name:mai_x_preferred":[
+        "\u091c\u093f\u0928\u093e\u0916\u0942"
+    ],
+    "name:msa_x_preferred":[
+        "Jinakhu"
+    ],
+    "name:nep_x_preferred":[
+        "\u091c\u093f\u0928\u093e\u0916\u0942"
+    ],
+    "name:new_x_preferred":[
+        "\u091c\u093f\u0928\u0916\u0941"
+    ],
+    "name:pol_x_preferred":[
+        "Jinakhu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +81,7 @@
         }
     ],
     "wof:id":1260336373,
-    "wof:lastmodified":1537570155,
+    "wof:lastmodified":1564114241,
     "wof:name":"Jinakhu",
     "wof:parent_id":1092049679,
     "wof:placetype":"locality",

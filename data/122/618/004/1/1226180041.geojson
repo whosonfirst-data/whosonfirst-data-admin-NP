@@ -28,6 +28,18 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Haldi"
+    ],
+    "name:deu_x_preferred":[
+        "Haldi"
+    ],
+    "name:sco_x_preferred":[
+        "Haldi"
+    ],
+    "name:swe_x_preferred":[
+        "Haldi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1226180041,
-    "wof:lastmodified":1537026954,
+    "wof:lastmodified":1564118168,
     "wof:name":"Haldi",
     "wof:parent_id":1092049257,
     "wof:placetype":"locality",

@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Parti"
+    ],
+    "name:deu_x_preferred":[
+        "Parti"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0440\u0442\u0438"
+    ],
+    "name:scn_x_preferred":[
+        "Parti"
+    ],
+    "name:swe_x_preferred":[
+        "Parti"
+    ],
+    "name:tur_x_preferred":[
+        "Parti"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1260312545,
-    "wof:lastmodified":1536673064,
+    "wof:lastmodified":1564113994,
     "wof:name":"Parti",
     "wof:parent_id":1092050297,
     "wof:placetype":"locality",

@@ -28,6 +28,30 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Langadi"
+    ],
+    "name:fra_x_preferred":[
+        "Langadi"
+    ],
+    "name:mai_x_preferred":[
+        "\u0932\u0902\u0917\u0921\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Langadi"
+    ],
+    "name:nep_x_preferred":[
+        "\u0932\u0902\u0917\u0921\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u0932\u0902\u0917\u093e\u0921\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Langadi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0646\u06af\u0627\u0688\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1209965039,
-    "wof:lastmodified":1536369373,
+    "wof:lastmodified":1564111657,
     "wof:name":"Langadi",
     "wof:parent_id":1092050453,
     "wof:placetype":"locality",

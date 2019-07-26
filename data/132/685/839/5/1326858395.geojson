@@ -28,6 +28,15 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Debra"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c7\u30d6\u30e9"
+    ],
+    "name:swe_x_preferred":[
+        "Debra"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1326858395,
-    "wof:lastmodified":1537010447,
+    "wof:lastmodified":1564106829,
     "wof:name":"Debra",
     "wof:parent_id":1092048763,
     "wof:placetype":"locality",

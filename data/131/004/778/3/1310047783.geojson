@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Sotang"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u094b\u0924\u093e\u0919"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1310047783,
-    "wof:lastmodified":1537076625,
+    "wof:lastmodified":1564114987,
     "wof:name":"Sotang",
     "wof:parent_id":1092049755,
     "wof:placetype":"locality",

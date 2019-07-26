@@ -28,6 +28,15 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dharapani"
+    ],
+    "name:new_x_preferred":[
+        "\u0927\u093e\u0930\u093e\u092a\u093e\u0928\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Dharapani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1310143315,
-    "wof:lastmodified":1536942477,
+    "wof:lastmodified":1564114487,
     "wof:name":"Dharapani",
     "wof:parent_id":1092050351,
     "wof:placetype":"locality",

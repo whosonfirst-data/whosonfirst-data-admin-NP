@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Deulek"
+    ],
+    "name:dty_x_preferred":[
+        "\u0926\u0947\u0909\u0932\u0947\u0915 \u0917\u093e\u0935\u093f\u0938"
+    ],
+    "name:mai_x_preferred":[
+        "\u0926\u0947\u0909\u0932\u0947\u0915"
+    ],
+    "name:msa_x_preferred":[
+        "Deulek"
+    ],
+    "name:nep_x_preferred":[
+        "\u0926\u0947\u0909\u0932\u0947\u0915"
+    ],
+    "name:new_x_preferred":[
+        "\u0926\u0947\u0909\u0932\u0947\u0915"
+    ],
+    "name:pol_x_preferred":[
+        "Deulek"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1243487129,
-    "wof:lastmodified":1536746655,
+    "wof:lastmodified":1564116444,
     "wof:name":"Deulek",
     "wof:parent_id":1092048571,
     "wof:placetype":"locality",

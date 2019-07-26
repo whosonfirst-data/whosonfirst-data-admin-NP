@@ -28,6 +28,18 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dwari"
+    ],
+    "name:mai_x_preferred":[
+        "\u0926\u094d\u0935\u093e\u0930\u0940"
+    ],
+    "name:nep_x_preferred":[
+        "\u0926\u094d\u0935\u093e\u0930\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u0926\u094d\u0935\u093e\u0930\u0940"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1327464843,
-    "wof:lastmodified":1536632555,
+    "wof:lastmodified":1564106672,
     "wof:name":"Dwari",
     "wof:parent_id":1092050255,
     "wof:placetype":"locality",

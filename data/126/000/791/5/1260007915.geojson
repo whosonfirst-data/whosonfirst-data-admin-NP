@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Torsa"
+    ],
+    "name:ceb_x_preferred":[
+        "Torsa Island"
+    ],
+    "name:fra_x_preferred":[
+        "Torsa"
+    ],
+    "name:gle_x_preferred":[
+        "Torsa"
+    ],
+    "name:spa_x_preferred":[
+        "Torsa"
+    ],
+    "name:swe_x_preferred":[
+        "Torsa Island"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u723e\u85a9\u5cf6"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1260007915,
-    "wof:lastmodified":1537093644,
+    "wof:lastmodified":1564113930,
     "wof:name":"Torsa",
     "wof:parent_id":1092049963,
     "wof:placetype":"locality",

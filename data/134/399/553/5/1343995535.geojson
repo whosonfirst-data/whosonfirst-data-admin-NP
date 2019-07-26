@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Parroha"
+    ],
+    "name:msa_x_preferred":[
+        "Parroha"
+    ],
+    "name:nep_x_preferred":[
+        "\u092a\u0930\u094d\u0930\u094b\u0939\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u092a\u0930\u094d\u0930\u094b\u0939\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Parroha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1343995535,
-    "wof:lastmodified":1536968958,
+    "wof:lastmodified":1564107674,
     "wof:name":"Parroha",
     "wof:parent_id":1092048457,
     "wof:placetype":"locality",

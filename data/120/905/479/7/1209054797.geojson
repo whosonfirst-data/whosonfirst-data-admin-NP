@@ -28,6 +28,15 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Simpani"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u093f\u092e\u094d\u092a\u093e\u0928\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Simpani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +46,7 @@
         "gn:id":7968080
     },
     "wof:country":"NP",
-    "wof:geomhash":"ad615f18ebb3cbdfbab6160ad13fad56",
+    "wof:geomhash":"70ca1f7383647f76111c0cbca761b50a",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +54,7 @@
         }
     ],
     "wof:id":1209054797,
-    "wof:lastmodified":1536299142,
+    "wof:lastmodified":1564112569,
     "wof:name":"Simpani",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +65,9 @@
 },
   "bbox": [
     84.93593,
-    27.658990000000006,
+    27.65899000000001,
     84.93593,
-    27.658990000000006
+    27.65899000000001
 ],
   "geometry": {"coordinates":[84.93593,27.65899000000001],"type":"Point"}
 }

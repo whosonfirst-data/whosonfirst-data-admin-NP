@@ -25,8 +25,29 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dekhatbhuli"
+    ],
+    "name:dty_x_preferred":[
+        "\u0926\u0947\u0916\u0924\u092d\u0941\u0932\u0940"
+    ],
+    "name:fra_x_preferred":[
+        "Dekhatbhuli"
+    ],
+    "name:msa_x_preferred":[
+        "Dekhatbhuli"
+    ],
     "name:nep_x_preferred":[
         "Dekhatbhuli\u0307\u0304"
+    ],
+    "name:nep_x_variant":[
+        "\u0926\u0947\u0916\u0924\u092d\u0941\u0932\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u0926\u0947\u0916\u0924\u092d\u0941\u0932\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Dekhatbhuli"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1209829777,
-    "wof:lastmodified":1537676058,
+    "wof:lastmodified":1564112062,
     "wof:name":"Dekhatbhuli",
     "wof:parent_id":1092048227,
     "wof:placetype":"locality",

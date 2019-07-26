@@ -28,6 +28,18 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bhalchaur"
+    ],
+    "name:msa_x_preferred":[
+        "Bhalchaur"
+    ],
+    "name:nep_x_preferred":[
+        "\u092d\u0932\u094d\u091a\u094c\u0930"
+    ],
+    "name:pol_x_preferred":[
+        "Bhalchour"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1209031161,
-    "wof:lastmodified":1537570153,
+    "wof:lastmodified":1564112404,
     "wof:name":"Bhalchaur",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

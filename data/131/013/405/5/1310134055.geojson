@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0928\u0948\u0928\u0940"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u0948\u0928\u0940"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1310134055,
-    "wof:lastmodified":1536955497,
+    "wof:lastmodified":1564114473,
     "wof:name":"Naini",
     "wof:parent_id":1092048809,
     "wof:placetype":"locality",

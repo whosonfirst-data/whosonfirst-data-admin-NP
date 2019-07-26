@@ -28,6 +28,18 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dandagaun"
+    ],
+    "name:msa_x_preferred":[
+        "Dandagaun"
+    ],
+    "name:nep_x_preferred":[
+        "\u0921\u093e\u0901\u0921\u093e\u0917\u093e\u0909\u0901"
+    ],
+    "name:pol_x_preferred":[
+        "Dandagaun"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":1209842057,
-    "wof:lastmodified":1537570153,
+    "wof:lastmodified":1564111809,
     "wof:name":"Dandagaun",
     "wof:parent_id":1092049579,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Ramana"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043c\u0430\u043d\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1276917645,
-    "wof:lastmodified":1536989762,
+    "wof:lastmodified":1564111305,
     "wof:name":"Ramana",
     "wof:parent_id":1092050497,
     "wof:placetype":"locality",

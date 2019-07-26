@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Malena"
+    ],
+    "name:fra_x_preferred":[
+        "Malena"
+    ],
+    "name:ita_x_preferred":[
+        "Malena"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0435\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Malena"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1310431549,
-    "wof:lastmodified":1537022725,
+    "wof:lastmodified":1564114908,
     "wof:name":"Malena",
     "wof:parent_id":1092048571,
     "wof:placetype":"locality",

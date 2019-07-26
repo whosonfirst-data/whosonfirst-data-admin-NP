@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pahada"
+    ],
+    "name:fra_x_preferred":[
+        "Pahada"
+    ],
+    "name:mai_x_preferred":[
+        "\u092a\u0939\u093e\u0921\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Pahada"
+    ],
+    "name:nep_x_preferred":[
+        "\u092a\u0939\u093e\u0921\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u092a\u0939\u093e\u0921\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Pahada"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1310631603,
-    "wof:lastmodified":1536735160,
+    "wof:lastmodified":1564114728,
     "wof:name":"Pahada",
     "wof:parent_id":1092050797,
     "wof:placetype":"locality",

@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0939\u093e\u0919\u094d\u0917\u092a\u093e\u0919\u094d\u0917"
+    ],
+    "name:fra_x_preferred":[
+        "Hangpang"
+    ],
+    "name:mai_x_preferred":[
+        "\u0939\u093e\u0919\u094d\u0917\u092a\u093e\u0919\u094d\u0917"
+    ],
+    "name:msa_x_preferred":[
+        "Hangpang"
+    ],
+    "name:nep_x_preferred":[
+        "\u0939\u093e\u0919\u094d\u0917\u092a\u093e\u0919\u094d\u0917"
+    ],
+    "name:new_x_preferred":[
+        "\u0939\u093e\u0919\u092a\u093e\u0919"
+    ],
+    "name:pol_x_preferred":[
+        "Hangpang"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1327471591,
-    "wof:lastmodified":1536622041,
+    "wof:lastmodified":1564106581,
     "wof:name":"Hangpang",
     "wof:parent_id":1092049813,
     "wof:placetype":"locality",

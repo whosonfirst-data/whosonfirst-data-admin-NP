@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u091a\u0930\u092e\u094d\u092c\u0940"
+    ],
+    "name:ceb_x_preferred":[
+        "Charambi"
+    ],
+    "name:mai_x_preferred":[
+        "\u091a\u0930\u092e\u094d\u092c\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Charambi"
+    ],
+    "name:nep_x_preferred":[
+        "\u091a\u0930\u092e\u094d\u092c\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u091a\u0930\u092e\u094d\u092c\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Charambi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1209954431,
-    "wof:lastmodified":1536380066,
+    "wof:lastmodified":1564112287,
     "wof:name":"Charambi",
     "wof:parent_id":1092049883,
     "wof:placetype":"locality",

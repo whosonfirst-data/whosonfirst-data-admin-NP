@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Panchakule"
+    ],
+    "name:mai_x_preferred":[
+        "\u092a\u091e\u094d\u091a\u0915\u0941\u0932\u0947 \u0917\u093e.\u0935\u093f.\u0938."
+    ],
+    "name:msa_x_preferred":[
+        "Panchakule"
+    ],
+    "name:nep_x_preferred":[
+        "\u092a\u091e\u094d\u091a\u0915\u0941\u0932\u0947"
+    ],
+    "name:new_x_preferred":[
+        "\u092a\u093e\u0901\u091a\u0915\u0941\u0932\u0947"
+    ],
+    "name:pol_x_preferred":[
+        "Panchakule"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1327366415,
-    "wof:lastmodified":1536776756,
+    "wof:lastmodified":1564106024,
     "wof:name":"Panchakule",
     "wof:parent_id":1092048605,
     "wof:placetype":"locality",

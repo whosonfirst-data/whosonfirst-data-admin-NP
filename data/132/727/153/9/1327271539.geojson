@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chisapani"
+    ],
+    "name:mai_x_preferred":[
+        "\u092e\u0917\u094d\u092f\u093e\u092e \u091a\u093f\u0938\u093e\u092a\u093e\u0928\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Chisapani"
+    ],
+    "name:nep_x_preferred":[
+        "\u092e\u0917\u094d\u092f\u093e\u092e \u091a\u093f\u0938\u093e\u092a\u093e\u0928\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u092e\u0917\u094d\u092f\u093e\u092e \u091a\u093f\u0938\u093e\u092a\u093e\u0928\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Chisapani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +78,7 @@
         }
     ],
     "wof:id":1327271539,
-    "wof:lastmodified":1537570157,
+    "wof:lastmodified":1564107397,
     "wof:name":"Chisapani",
     "wof:parent_id":1092050939,
     "wof:placetype":"locality",

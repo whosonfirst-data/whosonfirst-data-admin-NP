@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Itiyahi"
+    ],
+    "name:fra_x_preferred":[
+        "Itiyahi"
+    ],
+    "name:mai_x_preferred":[
+        "\u0907\u091f\u093f\u092f\u093e\u0939\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Itiyahi"
+    ],
+    "name:nep_x_preferred":[
+        "\u0907\u091f\u093f\u092f\u093e\u0939\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u0907\u091f\u093f\u092f\u0939\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Itiyahi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1243602353,
-    "wof:lastmodified":1537074805,
+    "wof:lastmodified":1564116727,
     "wof:name":"Itiyahi",
     "wof:parent_id":1092050453,
     "wof:placetype":"locality",

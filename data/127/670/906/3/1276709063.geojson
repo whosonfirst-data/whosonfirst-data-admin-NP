@@ -31,8 +31,23 @@
     "name:eng_x_preferred":[
         "Pipara Simara"
     ],
+    "name:msa_x_preferred":[
+        "Pipara Simara"
+    ],
     "name:nep_x_preferred":[
         "Simar\u0101"
+    ],
+    "name:nep_x_variant":[
+        "\u092a\u093f\u092a\u0930\u093e \u0938\u093f\u092e\u0930\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u092a\u093f\u092a\u0930\u093e \u0938\u093f\u092e\u0930\u093e"
+    ],
+    "name:nor_x_preferred":[
+        "Pipara Simara"
+    ],
+    "name:pol_x_preferred":[
+        "Pipara Simara"
     ],
     "name:und_x_variant":[
         "Simra"
@@ -69,7 +84,7 @@
         }
     ],
     "wof:id":1276709063,
-    "wof:lastmodified":1537676041,
+    "wof:lastmodified":1564111066,
     "wof:name":"Simara",
     "wof:parent_id":1092048051,
     "wof:placetype":"locality",

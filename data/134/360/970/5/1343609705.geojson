@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ar\u00e0ntar"
+    ],
+    "name:ita_x_preferred":[
+        "Arantar"
+    ],
+    "name:pol_x_preferred":[
+        "Arantar"
+    ],
+    "name:por_x_preferred":[
+        "Arantar"
+    ],
+    "name:spa_x_preferred":[
+        "Arantar"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9e\u85cd\u5854"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1343609705,
-    "wof:lastmodified":1537027121,
+    "wof:lastmodified":1564108422,
     "wof:name":"Arantar",
     "wof:parent_id":1092050841,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sunkhani"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u0941\u0928 \u0916\u093e\u0928\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Sunkhani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1192960253,
-    "wof:lastmodified":1536366441,
+    "wof:lastmodified":1564113371,
     "wof:name":"Sunkhani",
     "wof:parent_id":1092050661,
     "wof:placetype":"locality",

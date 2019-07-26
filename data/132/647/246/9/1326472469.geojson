@@ -28,6 +28,9 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:tel_x_preferred":[
+        "\u0c1a\u0c15\u0c4d\u0c30\u0c2a\u0c3e\u0c23\u0c3f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1326472469,
-    "wof:lastmodified":1537067212,
+    "wof:lastmodified":1564106864,
     "wof:name":"Chakrapani",
     "wof:parent_id":1092049017,
     "wof:placetype":"locality",

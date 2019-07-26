@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Amarpur"
+    ],
+    "name:fra_x_preferred":[
+        "Amarpur"
+    ],
+    "name:new_x_preferred":[
+        "\u0905\u092e\u0930\u092a\u0941\u0930 \u0917\u093e\u0935\u093f\u0938"
+    ],
+    "name:nld_x_preferred":[
+        "Amarpur"
+    ],
+    "name:pol_x_preferred":[
+        "Amarpur"
+    ],
+    "name:swe_x_preferred":[
+        "Amarpur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -45,7 +63,7 @@
         }
     ],
     "wof:id":1209352513,
-    "wof:lastmodified":1536289698,
+    "wof:lastmodified":1564112357,
     "wof:name":"Amarpur",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

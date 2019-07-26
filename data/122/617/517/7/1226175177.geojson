@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gotree"
+    ],
+    "name:fra_x_preferred":[
+        "Gotree"
+    ],
+    "name:mai_x_preferred":[
+        "\u0917\u094b\u0924\u094d\u0930\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Gotree"
+    ],
+    "name:nep_x_preferred":[
+        "\u0917\u094b\u0924\u094d\u0930\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u0917\u094b\u0924\u094d\u0930\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Gotree"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1226175177,
-    "wof:lastmodified":1537033829,
+    "wof:lastmodified":1564118057,
     "wof:name":"Gotri",
     "wof:parent_id":1092050627,
     "wof:placetype":"locality",

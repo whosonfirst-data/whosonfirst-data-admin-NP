@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Uku"
+    ],
+    "name:cym_x_preferred":[
+        "Uku"
+    ],
+    "name:est_x_preferred":[
+        "Uku"
+    ],
+    "name:fra_x_preferred":[
+        "Uku"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043a\u0443"
+    ],
+    "name:srp_x_preferred":[
+        "\u0423\u043a\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Uku"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1276902953,
-    "wof:lastmodified":1537009702,
+    "wof:lastmodified":1564111208,
     "wof:name":"Uku",
     "wof:parent_id":1092050347,
     "wof:placetype":"locality",

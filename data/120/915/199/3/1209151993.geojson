@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chhipchhipe"
+    ],
+    "name:mai_x_preferred":[
+        "\u091b\u093f\u092a\u091b\u093f\u092a\u0947"
+    ],
+    "name:msa_x_preferred":[
+        "Chhipchhipe"
+    ],
+    "name:nep_x_preferred":[
+        "\u091b\u093f\u092a\u091b\u093f\u092a\u0947"
+    ],
+    "name:new_x_preferred":[
+        "\u091b\u093f\u092a\u091b\u093f\u092a\u0947"
+    ],
+    "name:pol_x_preferred":[
+        "Chhipchhipe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -45,7 +63,7 @@
         }
     ],
     "wof:id":1209151993,
-    "wof:lastmodified":1536296170,
+    "wof:lastmodified":1564111908,
     "wof:name":"Chhipchhipe",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

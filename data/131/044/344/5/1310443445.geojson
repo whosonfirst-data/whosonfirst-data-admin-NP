@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "S\u0101\u0303khu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30ad\u30e5\u30a6"
+    ],
+    "name:msa_x_preferred":[
+        "Sankhu"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u093e\u0901\u0916\u0941"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u0915\u094d\u0935"
+    ],
+    "name:pol_x_preferred":[
+        "Sankhu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1310443445,
-    "wof:lastmodified":1537005674,
+    "wof:lastmodified":1564114879,
     "wof:name":"Sankhu",
     "wof:parent_id":1092050841,
     "wof:placetype":"locality",

@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sani"
+    ],
+    "name:deu_x_preferred":[
+        "Sani"
+    ],
+    "name:fra_x_preferred":[
+        "Sani"
+    ],
+    "name:ind_x_preferred":[
+        "Sani"
+    ],
+    "name:ita_x_preferred":[
+        "Sani"
+    ],
+    "name:swe_x_preferred":[
+        "Sani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1293911587,
-    "wof:lastmodified":1536672918,
+    "wof:lastmodified":1564108894,
     "wof:name":"Sani",
     "wof:parent_id":1092049963,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Paire"
+    ],
+    "name:fra_x_preferred":[
+        "Paire"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1226190349,
-    "wof:lastmodified":1537012770,
+    "wof:lastmodified":1564118111,
     "wof:name":"Paire",
     "wof:parent_id":1092050137,
     "wof:placetype":"locality",

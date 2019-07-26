@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Ranma"
+    ],
+    "name:spa_x_preferred":[
+        "Ranma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +43,7 @@
         "gn:id":7958385
     },
     "wof:country":"NP",
-    "wof:geomhash":"12a3606f3303d3e33585752d1b79c3c9",
+    "wof:geomhash":"f9368dd30b5efedb835c2dbdde949d5f",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +51,7 @@
         }
     ],
     "wof:id":1209031085,
-    "wof:lastmodified":1536299848,
+    "wof:lastmodified":1564112421,
     "wof:name":"Ranma",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +62,9 @@
 },
   "bbox": [
     81.74332,
-    29.271040000000006,
+    29.27104000000001,
     81.74332,
-    29.271040000000006
+    29.27104000000001
 ],
   "geometry": {"coordinates":[81.74332,29.27104000000001],"type":"Point"}
 }

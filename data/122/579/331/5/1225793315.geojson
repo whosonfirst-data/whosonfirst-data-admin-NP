@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u092e\u0947\u0925\u093f\u0928\u0915\u093e\u091f"
+    ],
+    "name:ceb_x_preferred":[
+        "Methinkot"
+    ],
+    "name:msa_x_preferred":[
+        "Methinkot"
+    ],
+    "name:nep_x_preferred":[
+        "\u092e\u0947\u0925\u093f\u0928\u0915\u094b\u091f"
+    ],
+    "name:new_x_preferred":[
+        "\u092e\u0947\u0925\u093f\u0928\u0915\u094b\u0924"
+    ],
+    "name:pol_x_preferred":[
+        "Methinkot"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1225793315,
-    "wof:lastmodified":1537086223,
+    "wof:lastmodified":1564119390,
     "wof:name":"Methinkot",
     "wof:parent_id":1092048887,
     "wof:placetype":"locality",

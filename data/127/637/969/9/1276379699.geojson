@@ -28,6 +28,18 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Charpane"
+    ],
+    "name:nep_x_preferred":[
+        "\u091a\u093e\u0930\u092a\u093e\u0928\u0947"
+    ],
+    "name:new_x_preferred":[
+        "\u091a\u093e\u0930\u092a\u093e\u0928\u0947"
+    ],
+    "name:pol_x_preferred":[
+        "Charpane"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":1276379699,
-    "wof:lastmodified":1537570149,
+    "wof:lastmodified":1564111288,
     "wof:name":"Charpane",
     "wof:parent_id":1092050367,
     "wof:placetype":"locality",

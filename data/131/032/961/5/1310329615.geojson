@@ -28,6 +28,30 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Tartalo"
+    ],
+    "name:eus_x_preferred":[
+        "Tartalo"
+    ],
+    "name:fin_x_preferred":[
+        "Tartalo"
+    ],
+    "name:fra_x_preferred":[
+        "Tartaro"
+    ],
+    "name:pol_x_preferred":[
+        "Tartalo"
+    ],
+    "name:por_x_preferred":[
+        "Tartalo"
+    ],
+    "name:spa_x_preferred":[
+        "Tartalo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0440\u0442\u0430\u043b\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1310329615,
-    "wof:lastmodified":1536673281,
+    "wof:lastmodified":1564115027,
     "wof:name":"Tartalo",
     "wof:parent_id":1092050627,
     "wof:placetype":"locality",

@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hosrangdi"
+    ],
+    "name:mai_x_preferred":[
+        "\u0939\u094b\u0936\u094d\u0930\u093e\u0919\u094d\u0926\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Hosrangdi"
+    ],
+    "name:nep_x_preferred":[
+        "\u0939\u094b\u0936\u094d\u0930\u093e\u0919\u094d\u0926\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u0939\u094b\u0938\u0930\u0919\u0926\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Hosrangdi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1242921315,
-    "wof:lastmodified":1537062895,
+    "wof:lastmodified":1564116304,
     "wof:name":"Hosrangdi",
     "wof:parent_id":1092049297,
     "wof:placetype":"locality",

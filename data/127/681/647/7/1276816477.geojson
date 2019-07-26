@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sisakhani"
+    ],
+    "name:fra_x_preferred":[
+        "Sisakhani"
+    ],
+    "name:msa_x_preferred":[
+        "Sisakhani"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u093f\u0938\u093e\u0916\u093e\u0928\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u093f\u0938\u093e\u0916\u0923\u094d\u0921\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Sisakhani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1276816477,
-    "wof:lastmodified":1536626789,
+    "wof:lastmodified":1564110281,
     "wof:name":"Sisakhani",
     "wof:parent_id":1092048887,
     "wof:placetype":"locality",

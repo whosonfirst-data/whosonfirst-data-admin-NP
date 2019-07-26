@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Gomma"
+    ],
+    "name:ita_x_preferred":[
+        "Gomma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1276483029,
-    "wof:lastmodified":1537072220,
+    "wof:lastmodified":1564111161,
     "wof:name":"Gomma",
     "wof:parent_id":1092050661,
     "wof:placetype":"locality",

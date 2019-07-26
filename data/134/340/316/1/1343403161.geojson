@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bhedihari"
+    ],
+    "name:fra_x_preferred":[
+        "Bhedihari"
+    ],
+    "name:mai_x_preferred":[
+        "\u092d\u0947\u0921\u093f\u0939\u093e\u0930\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Bhedihari"
+    ],
+    "name:nep_x_preferred":[
+        "\u092d\u0947\u0921\u093f\u0939\u093e\u0930\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Bhedihari"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1343403161,
-    "wof:lastmodified":1536827983,
+    "wof:lastmodified":1564108142,
     "wof:name":"Bhedihari",
     "wof:parent_id":1092050453,
     "wof:placetype":"locality",

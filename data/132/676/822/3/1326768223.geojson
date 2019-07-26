@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Limi"
+    ],
+    "name:mai_x_preferred":[
+        "\u0932\u093f\u092e\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Limi"
+    ],
+    "name:nep_x_preferred":[
+        "\u0932\u093f\u092e\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u0932\u093f\u092e\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Limi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1326768223,
-    "wof:lastmodified":1536642977,
+    "wof:lastmodified":1564106782,
     "wof:name":"Limi",
     "wof:parent_id":1092050351,
     "wof:placetype":"locality",

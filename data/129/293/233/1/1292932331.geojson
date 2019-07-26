@@ -28,6 +28,30 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u092d\u0948\u0930\u0935\u0938\u094d\u0925\u093e\u0928"
+    ],
+    "name:fra_x_preferred":[
+        "Bhairavsthan"
+    ],
+    "name:hin_x_preferred":[
+        "\u092d\u0948\u0930\u0935\u0938\u094d\u0925\u093e\u0928"
+    ],
+    "name:mai_x_preferred":[
+        "\u092d\u0948\u0930\u0935\u0938\u094d\u0925\u093e\u0928"
+    ],
+    "name:msa_x_preferred":[
+        "Bhairavsthan"
+    ],
+    "name:nep_x_preferred":[
+        "\u092d\u0948\u0930\u0935\u0938\u094d\u0925\u093e\u0928"
+    ],
+    "name:new_x_preferred":[
+        "\u092d\u0948\u0930\u0935\u0938\u094d\u0925\u093e\u0928"
+    ],
+    "name:pol_x_preferred":[
+        "Bhairabsthan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +84,7 @@
         }
     ],
     "wof:id":1292932331,
-    "wof:lastmodified":1537570148,
+    "wof:lastmodified":1564109211,
     "wof:name":"Bhairavsthan",
     "wof:parent_id":1092048527,
     "wof:placetype":"locality",

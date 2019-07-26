@@ -28,6 +28,18 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Manpur"
+    ],
+    "name:fra_x_preferred":[
+        "Manpur"
+    ],
+    "name:pol_x_preferred":[
+        "Manpur"
+    ],
+    "name:swe_x_preferred":[
+        "Manpur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1343788107,
-    "wof:lastmodified":1536771749,
+    "wof:lastmodified":1564108162,
     "wof:name":"Manpur",
     "wof:parent_id":1092048097,
     "wof:placetype":"locality",

@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Manari"
+    ],
+    "name:mai_x_preferred":[
+        "\u092e\u0928\u0930\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Manari"
+    ],
+    "name:nep_x_preferred":[
+        "\u092e\u0928\u0930\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Manari"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1193188301,
-    "wof:lastmodified":1537570152,
+    "wof:lastmodified":1564113537,
     "wof:name":"Manari",
     "wof:parent_id":1092050413,
     "wof:placetype":"locality",

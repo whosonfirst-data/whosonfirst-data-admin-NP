@@ -28,6 +28,30 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sikhar"
+    ],
+    "name:dty_x_preferred":[
+        "\u0936\u093f\u0916\u0930 \u0917\u093e\u092c\u093f\u0938"
+    ],
+    "name:fra_x_preferred":[
+        "Sikhar"
+    ],
+    "name:mai_x_preferred":[
+        "\u0936\u093f\u0916\u0930"
+    ],
+    "name:msa_x_preferred":[
+        "Sikhar"
+    ],
+    "name:nep_x_preferred":[
+        "\u0936\u093f\u0916\u0930"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u093f\u0916\u0930"
+    ],
+    "name:pol_x_preferred":[
+        "Sikhar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1243482635,
-    "wof:lastmodified":1536753441,
+    "wof:lastmodified":1564116461,
     "wof:name":"Sikhar",
     "wof:parent_id":1092048653,
     "wof:placetype":"locality",

@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u092d\u093f\u092e\u0938\u094d\u0925\u093e\u0928"
+    ],
+    "name:ceb_x_preferred":[
+        "Bhimsthan"
+    ],
+    "name:fra_x_preferred":[
+        "Bhimsthan"
+    ],
+    "name:mai_x_preferred":[
+        "\u092d\u093f\u092e\u0938\u094d\u0925\u093e\u0928"
+    ],
+    "name:msa_x_preferred":[
+        "Bhimsthan"
+    ],
+    "name:nep_x_preferred":[
+        "\u092d\u093f\u092e\u0938\u094d\u0925\u093e\u0928"
+    ],
+    "name:pol_x_preferred":[
+        "Bhimsthan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1326967997,
-    "wof:lastmodified":1536852181,
+    "wof:lastmodified":1564107103,
     "wof:name":"Bhimsthan",
     "wof:parent_id":1092049679,
     "wof:placetype":"locality",

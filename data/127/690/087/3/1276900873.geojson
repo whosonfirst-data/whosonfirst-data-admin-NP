@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Chi\u00fare"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b9\u03bf\u03cd\u03c1\u03b5"
+    ],
+    "name:ita_x_preferred":[
+        "Chi\u00fare"
+    ],
+    "name:pol_x_preferred":[
+        "Chi\u00fare"
+    ],
+    "name:por_x_preferred":[
+        "Chi\u00fare"
+    ],
+    "name:zho_x_preferred":[
+        "\u5947\u70cf\u96f7"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1276900873,
-    "wof:lastmodified":1537012455,
+    "wof:lastmodified":1564111223,
     "wof:name":"Chiure",
     "wof:parent_id":1092048809,
     "wof:placetype":"locality",

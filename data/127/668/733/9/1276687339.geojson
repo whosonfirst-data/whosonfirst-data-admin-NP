@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Mori"
+    ],
+    "name:lit_x_preferred":[
+        "Mori"
+    ],
+    "name:slk_x_preferred":[
+        "Mori"
+    ],
+    "name:slv_x_preferred":[
+        "Mori"
+    ],
+    "name:spa_x_preferred":[
+        "Mori"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1276687339,
-    "wof:lastmodified":1536801507,
+    "wof:lastmodified":1564110730,
     "wof:name":"Mori",
     "wof:parent_id":1092048653,
     "wof:placetype":"locality",

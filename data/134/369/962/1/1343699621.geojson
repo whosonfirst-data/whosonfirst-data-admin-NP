@@ -28,6 +28,15 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0916\u0938\u0930\u093e"
+    ],
+    "name:hin_x_preferred":[
+        "\u0916\u093c\u0938\u0930\u093e"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a16\u0a3c\u0a38\u0a30\u0a3e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1343699621,
-    "wof:lastmodified":1536898514,
+    "wof:lastmodified":1564108317,
     "wof:name":"Khasra",
     "wof:parent_id":1092048409,
     "wof:placetype":"locality",

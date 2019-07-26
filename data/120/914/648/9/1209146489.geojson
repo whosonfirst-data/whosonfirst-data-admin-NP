@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Telgha"
+    ],
+    "name:hin_x_preferred":[
+        "\u0924\u0947\u0932\u094d\u0918\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Telgha"
+    ],
+    "name:nep_x_preferred":[
+        "\u0924\u0947\u0932\u094d\u0918\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u0924\u0947\u0932\u094d\u0918\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Telgha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -45,7 +63,7 @@
         }
     ],
     "wof:id":1209146489,
-    "wof:lastmodified":1536296336,
+    "wof:lastmodified":1564112237,
     "wof:name":"Telgha",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

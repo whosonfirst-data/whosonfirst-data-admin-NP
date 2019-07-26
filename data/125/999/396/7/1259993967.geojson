@@ -25,8 +25,29 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0917\u094b\u0920\u0917\u093e\u0909\u0901"
+    ],
+    "name:ceb_x_preferred":[
+        "Gothgau"
+    ],
+    "name:mai_x_preferred":[
+        "\u0917\u094b\u0920\u0917\u093e\u0909\u0901"
+    ],
+    "name:msa_x_preferred":[
+        "Gothgau"
+    ],
     "name:nep_x_preferred":[
         "Go\u1e6dhg\u0101\u0169"
+    ],
+    "name:nep_x_variant":[
+        "\u0917\u094b\u0920\u0917\u093e\u0909\u0901"
+    ],
+    "name:new_x_preferred":[
+        "\u0917\u094b\u0920\u0917\u093e\u0909\u0902"
+    ],
+    "name:pol_x_preferred":[
+        "Gothgau"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1259993967,
-    "wof:lastmodified":1537676122,
+    "wof:lastmodified":1564117460,
     "wof:name":"Gothgau",
     "wof:parent_id":1092048303,
     "wof:placetype":"locality",

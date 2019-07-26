@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Farahadawa"
+    ],
+    "name:fra_x_preferred":[
+        "Farahadawa"
+    ],
+    "name:mai_x_preferred":[
+        "\u092b\u0930\u0939\u0926\u0935\u093e"
+    ],
+    "name:nep_x_preferred":[
+        "\u092b\u0930\u093e\u0939\u093e\u0926\u093e\u0935\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u092b\u0930\u093e\u0939\u093e\u0926\u093e\u0935\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Farahadawa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +55,7 @@
         "gn:id":8009061
     },
     "wof:country":"NP",
-    "wof:geomhash":"fa087ba2ba5d4927ffe46b45bf406f3b",
+    "wof:geomhash":"85a393ffc7f84690ad95830f92d7fd38",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +63,7 @@
         }
     ],
     "wof:id":1209054793,
-    "wof:lastmodified":1536299142,
+    "wof:lastmodified":1564112570,
     "wof:name":"Pharahadawa",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +74,9 @@
 },
   "bbox": [
     84.98337,
-    27.144890000000004,
+    27.14489,
     84.98337,
-    27.144890000000004
+    27.14489
 ],
   "geometry": {"coordinates":[84.98336999999999,27.14489],"type":"Point"}
 }

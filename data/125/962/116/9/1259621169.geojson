@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sabas"
+    ],
+    "name:fra_x_preferred":[
+        "Sabas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1259621169,
-    "wof:lastmodified":1536660369,
+    "wof:lastmodified":1564117311,
     "wof:name":"Sabas",
     "wof:parent_id":1092050889,
     "wof:placetype":"locality",

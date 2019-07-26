@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bhimtar"
+    ],
+    "name:deu_x_preferred":[
+        "Bhimtar"
+    ],
+    "name:fra_x_preferred":[
+        "Bhimtar"
+    ],
+    "name:msa_x_preferred":[
+        "Bhimtar"
+    ],
+    "name:nep_x_preferred":[
+        "\u092d\u0940\u092e\u091f\u093e\u0930"
+    ],
+    "name:new_x_preferred":[
+        "\u092d\u0940\u092e\u091f\u093e\u0930"
+    ],
+    "name:pol_x_preferred":[
+        "Bhimtar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1276172149,
-    "wof:lastmodified":1536994064,
+    "wof:lastmodified":1564110316,
     "wof:name":"Bhimtar",
     "wof:parent_id":1092049755,
     "wof:placetype":"locality",

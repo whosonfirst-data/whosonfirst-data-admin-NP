@@ -28,6 +28,9 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "\u0918\u093f\u092e\u093f\u0930\u0947"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1360033283,
-    "wof:lastmodified":1537019613,
+    "wof:lastmodified":1564115568,
     "wof:name":"Ghimire",
     "wof:parent_id":1092049883,
     "wof:placetype":"locality",

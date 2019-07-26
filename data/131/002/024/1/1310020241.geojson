@@ -25,6 +25,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kaigaun"
+    ],
+    "name:mai_x_preferred":[
+        "\u0915\u093e\u0907\u0917\u093e\u0909\u0901"
+    ],
+    "name:msa_x_preferred":[
+        "Kaigaun"
+    ],
+    "name:nep_x_preferred":[
+        "\u0915\u093e\u0907\u0917\u093e\u0909\u0901"
+    ],
+    "name:new_x_preferred":[
+        "\u0915\u093e\u0908\u0917\u093e\u0909\u0902"
+    ],
+    "name:pol_x_preferred":[
+        "Kaigaun"
+    ],
     "name:und_x_variant":[
         "Kaigaun",
         "K\u0101igaon"
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":1310020241,
-    "wof:lastmodified":1537676052,
+    "wof:lastmodified":1564115184,
     "wof:name":"Kaigaon",
     "wof:parent_id":1092050349,
     "wof:placetype":"locality",

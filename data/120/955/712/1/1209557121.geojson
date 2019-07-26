@@ -28,6 +28,30 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dumre"
+    ],
+    "name:fra_x_preferred":[
+        "Dumre"
+    ],
+    "name:ita_x_preferred":[
+        "Dumre"
+    ],
+    "name:mai_x_preferred":[
+        "\u0921\u0941\u092e\u094d\u0930\u0947"
+    ],
+    "name:msa_x_preferred":[
+        "Dumre"
+    ],
+    "name:nep_x_preferred":[
+        "\u0926\u0941\u092e\u094d\u0930\u0947"
+    ],
+    "name:new_x_preferred":[
+        "\u0921\u0941\u092e\u094d\u0930\u0947"
+    ],
+    "name:pol_x_preferred":[
+        "Dumre"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +61,7 @@
         "gn:id":8002994
     },
     "wof:country":"NP",
-    "wof:geomhash":"a55203fb0176b7a330682949b4be4c05",
+    "wof:geomhash":"05020b0863518afdbd9e40b610841e4e",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +69,7 @@
         }
     ],
     "wof:id":1209557121,
-    "wof:lastmodified":1536283510,
+    "wof:lastmodified":1564111765,
     "wof:name":"Dumre",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +80,9 @@
 },
   "bbox": [
     84.05851,
-    28.020640000000004,
+    28.02064,
     84.05851,
-    28.020640000000004
+    28.02064
 ],
   "geometry": {"coordinates":[84.05851,28.02064],"type":"Point"}
 }

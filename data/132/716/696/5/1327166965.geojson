@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Joshipur"
+    ],
+    "name:mai_x_preferred":[
+        "\u091c\u094b\u0936\u0940\u092a\u0941\u0930"
+    ],
+    "name:msa_x_preferred":[
+        "Joshipur"
+    ],
+    "name:nep_x_preferred":[
+        "\u091c\u094b\u0936\u0940\u092a\u0941\u0930"
+    ],
+    "name:new_x_preferred":[
+        "\u091c\u094b\u0936\u0940\u092a\u0941\u0930"
+    ],
+    "name:pol_x_preferred":[
+        "Joshipur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1327166965,
-    "wof:lastmodified":1537061406,
+    "wof:lastmodified":1564107363,
     "wof:name":"Joshipur",
     "wof:parent_id":1092048097,
     "wof:placetype":"locality",

@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0920\u0947\u091a\u094b"
+    ],
+    "name:ceb_x_preferred":[
+        "Thecho"
+    ],
+    "name:msa_x_preferred":[
+        "Thecho"
+    ],
+    "name:nep_x_preferred":[
+        "\u0920\u0947\u091a\u094b"
+    ],
+    "name:new_x_preferred":[
+        "\u0925\u0947\u091a\u094b"
+    ],
+    "name:pol_x_preferred":[
+        "Thecho"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1310347381,
-    "wof:lastmodified":1536647218,
+    "wof:lastmodified":1564115078,
     "wof:name":"Thecho",
     "wof:parent_id":1092048971,
     "wof:placetype":"locality",

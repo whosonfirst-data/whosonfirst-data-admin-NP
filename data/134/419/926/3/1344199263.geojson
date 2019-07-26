@@ -28,6 +28,18 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kaule"
+    ],
+    "name:deu_x_preferred":[
+        "Kaule"
+    ],
+    "name:pol_x_preferred":[
+        "Kaule"
+    ],
+    "name:swe_x_preferred":[
+        "Kaule"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1344199263,
-    "wof:lastmodified":1536675282,
+    "wof:lastmodified":1564108518,
     "wof:name":"Kaule",
     "wof:parent_id":1092049537,
     "wof:placetype":"locality",

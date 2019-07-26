@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Manakot"
+    ],
+    "name:mai_x_preferred":[
+        "\u092e\u093e\u0928\u093e\u0915\u094b\u091f"
+    ],
+    "name:msa_x_preferred":[
+        "Manakot"
+    ],
+    "name:nep_x_preferred":[
+        "\u092e\u093e\u0928\u093e\u0915\u094b\u091f"
+    ],
+    "name:new_x_preferred":[
+        "\u092e\u0928\u0915\u094b\u0924"
+    ],
+    "name:pol_x_preferred":[
+        "Manakot"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1292936741,
-    "wof:lastmodified":1537081011,
+    "wof:lastmodified":1564109199,
     "wof:name":"Manakot",
     "wof:parent_id":1092050347,
     "wof:placetype":"locality",

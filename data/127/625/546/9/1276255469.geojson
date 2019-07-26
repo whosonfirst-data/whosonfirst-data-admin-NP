@@ -28,6 +28,30 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dhungad"
+    ],
+    "name:dty_x_preferred":[
+        "\u0922\u0941\u0919\u0917\u093e\u0921 \u0917\u093e\u0935\u093f\u0938"
+    ],
+    "name:hin_x_preferred":[
+        "\u0922\u0941\u0902\u0917\u093e\u0921"
+    ],
+    "name:mai_x_preferred":[
+        "\u0922\u0941\u0919\u094d\u0917\u093e\u0921"
+    ],
+    "name:msa_x_preferred":[
+        "Dhungad"
+    ],
+    "name:nep_x_preferred":[
+        "\u0922\u0941\u0919\u094d\u0917\u093e\u0921"
+    ],
+    "name:new_x_preferred":[
+        "\u0922\u0941\u0902\u0917\u093e\u0921"
+    ],
+    "name:pol_x_preferred":[
+        "Dhungad"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1276255469,
-    "wof:lastmodified":1536882428,
+    "wof:lastmodified":1564110910,
     "wof:name":"Dhungad",
     "wof:parent_id":1092050255,
     "wof:placetype":"locality",

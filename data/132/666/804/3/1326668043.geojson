@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Belhi"
+    ],
+    "name:dty_x_preferred":[
+        "\u092c\u0947\u0932\u094d\u0939\u0940 \u0917\u093e\u0935\u093f\u0938"
+    ],
+    "name:fra_x_preferred":[
+        "Belhi"
+    ],
+    "name:mai_x_preferred":[
+        "\u092c\u0947\u0932\u094d\u0939\u0940"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u0947\u0932\u094d\u0939\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Belhi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +78,7 @@
         }
     ],
     "wof:id":1326668043,
-    "wof:lastmodified":1537570154,
+    "wof:lastmodified":1564106426,
     "wof:name":"Belhi",
     "wof:parent_id":1092049639,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Dhulabari"
+    ],
+    "name:nep_x_preferred":[
+        "\u0927\u0941\u0932\u093e\u0935\u093e\u0930\u0940"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1226698149,
-    "wof:lastmodified":1536784745,
+    "wof:lastmodified":1564118297,
     "wof:name":"Dhulabari",
     "wof:parent_id":1092050367,
     "wof:placetype":"locality",

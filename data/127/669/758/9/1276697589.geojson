@@ -28,6 +28,30 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0928\u093e\u0932\u094d\u092c\u0942"
+    ],
+    "name:ceb_x_preferred":[
+        "Nalbu"
+    ],
+    "name:fra_x_preferred":[
+        "Nalbu"
+    ],
+    "name:mai_x_preferred":[
+        "\u0928\u093e\u0932\u094d\u092c\u0942"
+    ],
+    "name:msa_x_preferred":[
+        "Nalbu"
+    ],
+    "name:nep_x_preferred":[
+        "\u0928\u093e\u0932\u094d\u092c\u0941"
+    ],
+    "name:new_x_preferred":[
+        "\u0928\u093e\u0932\u094d\u092c\u0941"
+    ],
+    "name:pol_x_preferred":[
+        "Nalbu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1276697589,
-    "wof:lastmodified":1536787998,
+    "wof:lastmodified":1564110562,
     "wof:name":"Nalbu",
     "wof:parent_id":1092049813,
     "wof:placetype":"locality",

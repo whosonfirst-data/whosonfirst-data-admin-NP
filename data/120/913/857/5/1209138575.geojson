@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dandakhali"
+    ],
+    "name:fra_x_preferred":[
+        "Dandakhali"
+    ],
+    "name:mai_x_preferred":[
+        "\u0921\u093e\u0901\u0921\u093e\u0916\u093e\u0932\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Dandakhali"
+    ],
+    "name:nep_x_preferred":[
+        "\u0921\u093e\u0901\u0921\u093e\u0916\u093e\u0932\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u0921\u093e\u0902\u0921\u093e\u0916\u0932\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Dandakhali"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -45,7 +66,7 @@
         }
     ],
     "wof:id":1209138575,
-    "wof:lastmodified":1536296578,
+    "wof:lastmodified":1564112166,
     "wof:name":"Dandakhali",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

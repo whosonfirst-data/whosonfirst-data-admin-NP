@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Thidingkha"
+    ],
+    "name:mai_x_preferred":[
+        "\u0925\u093f\u0926\u093f\u0902\u0916\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Thidingkha"
+    ],
+    "name:new_x_preferred":[
+        "\u0925\u093f\u0921\u093f\u0919\u0916\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Thidingkha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1327475625,
-    "wof:lastmodified":1536616007,
+    "wof:lastmodified":1564106613,
     "wof:name":"Thidingkha",
     "wof:parent_id":1092049883,
     "wof:placetype":"locality",

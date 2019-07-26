@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Duli"
+    ],
+    "name:mai_x_preferred":[
+        "\u0926\u0941\u0932\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Duli"
+    ],
+    "name:nep_x_preferred":[
+        "\u0926\u0941\u0932\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u0926\u0941\u0932\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Duli"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +78,7 @@
         }
     ],
     "wof:id":1326858459,
-    "wof:lastmodified":1537570153,
+    "wof:lastmodified":1564106796,
     "wof:name":"Duli",
     "wof:parent_id":1092049495,
     "wof:placetype":"locality",

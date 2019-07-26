@@ -28,6 +28,18 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Rajkut"
+    ],
+    "name:nep_x_preferred":[
+        "\u0930\u093e\u091c\u0915\u0941\u091f"
+    ],
+    "name:new_x_preferred":[
+        "\u0930\u093e\u091c\u0915\u0941\u091f"
+    ],
+    "name:pol_x_preferred":[
+        "Rajkut"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1327175833,
-    "wof:lastmodified":1537049193,
+    "wof:lastmodified":1564107272,
     "wof:name":"Rajkut",
     "wof:parent_id":1092049257,
     "wof:placetype":"locality",

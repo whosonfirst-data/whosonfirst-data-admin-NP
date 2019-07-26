@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u092c\u092f\u093e\u0932\u093e"
+    ],
+    "name:ceb_x_preferred":[
+        "Bayala"
+    ],
+    "name:fra_x_preferred":[
+        "Bayala"
+    ],
+    "name:mai_x_preferred":[
+        "\u092c\u092f\u093e\u0932\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Bayala"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u092f\u093e\u0932\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Bayala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +58,7 @@
         "gn:id":7953664
     },
     "wof:country":"NP",
-    "wof:geomhash":"caa07a974845b85fa61f39b0bbabb3c3",
+    "wof:geomhash":"03a2073163752989d8ee0b8758159d41",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +66,7 @@
         }
     ],
     "wof:id":1209033183,
-    "wof:lastmodified":1536299785,
+    "wof:lastmodified":1564112428,
     "wof:name":"Bayala",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +77,9 @@
 },
   "bbox": [
     82.27259000000002,
-    28.930640000000004,
+    28.93064,
     82.27259000000002,
-    28.930640000000004
+    28.93064
 ],
   "geometry": {"coordinates":[82.27259000000002,28.93064],"type":"Point"}
 }

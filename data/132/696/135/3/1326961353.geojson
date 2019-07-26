@@ -28,6 +28,15 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Khasan"
+    ],
+    "name:sco_x_preferred":[
+        "Khasan"
+    ],
+    "name:swe_x_preferred":[
+        "Khasan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1326961353,
-    "wof:lastmodified":1536861514,
+    "wof:lastmodified":1564107100,
     "wof:name":"Khasan",
     "wof:parent_id":1092050347,
     "wof:placetype":"locality",

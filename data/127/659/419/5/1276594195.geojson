@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Valam"
+    ],
+    "name:fra_x_preferred":[
+        "Valam"
+    ],
+    "name:mai_x_preferred":[
+        "\u092d\u0932\u093e\u092e"
+    ],
+    "name:msa_x_preferred":[
+        "Valam"
+    ],
+    "name:nep_x_preferred":[
+        "\u092d\u0932\u093e\u092e"
+    ],
+    "name:new_x_preferred":[
+        "\u092d\u093e\u0932\u092e"
+    ],
+    "name:pol_x_preferred":[
+        "Valam"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1276594195,
-    "wof:lastmodified":1536927311,
+    "wof:lastmodified":1564110656,
     "wof:name":"Bhalam",
     "wof:parent_id":1092050009,
     "wof:placetype":"locality",

@@ -28,6 +28,48 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0631\u0646\u062f\u0631\u0646\u062c\u0631"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0631\u0646\u062f\u0631\u0627\u0646\u06af\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Surendranagar"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac1\u0ab0\u0ac7\u0aa8\u0acd\u0aa6\u0acd\u0ab0\u0aa8\u0a97\u0ab0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0941\u0930\u0947\u0928\u094d\u0926\u094d\u0930\u0928\u0917\u0930"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30ec\u30fc\u30f3\u30c9\u30e9\u30ca\u30ac\u30eb"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0941\u0930\u0947\u0928\u094d\u0926\u094d\u0930\u0928\u0917\u0930"
+    ],
+    "name:ron_x_preferred":[
+        "Surendranager"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0440\u0435\u043d\u0434\u0440\u0430\u043d\u0430\u0433\u0430\u0440"
+    ],
+    "name:san_x_preferred":[
+        "\u0938\u0941\u0930\u0947\u0928\u094d\u0926\u094d\u0930\u0928\u0917\u0930\u092e\u094d"
+    ],
+    "name:spa_x_preferred":[
+        "Surendranagar"
+    ],
+    "name:swe_x_preferred":[
+        "Surendranagar"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc1\u0bb0\u0bc7\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0ba8\u0b95\u0bb0\u0bcd"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e1\u10e3\u10e0\u10d4\u10dc\u10d3\u10e0\u10d0\u10dc\u10d0\u10d2\u10d0\u10e0\u10d8"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +101,7 @@
         }
     ],
     "wof:id":1327075999,
-    "wof:lastmodified":1536697843,
+    "wof:lastmodified":1564106098,
     "wof:name":"Surendranagar",
     "wof:parent_id":1092050367,
     "wof:placetype":"locality",

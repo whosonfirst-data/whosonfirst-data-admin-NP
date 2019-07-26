@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0928\u0932\u094d\u0932\u0941"
+    ],
+    "name:ceb_x_preferred":[
+        "Nallu"
+    ],
+    "name:msa_x_preferred":[
+        "Nallu"
+    ],
+    "name:nep_x_preferred":[
+        "\u0928\u0932\u094d\u0932\u0941"
+    ],
+    "name:new_x_preferred":[
+        "\u0928\u0932\u094d\u0932\u0941"
+    ],
+    "name:pol_x_preferred":[
+        "Nallu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1343300001,
-    "wof:lastmodified":1536977212,
+    "wof:lastmodified":1564107554,
     "wof:name":"Nallu",
     "wof:parent_id":1092048971,
     "wof:placetype":"locality",

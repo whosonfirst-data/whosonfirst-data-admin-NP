@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0925\u0930\u094d\u092a\u0941"
+    ],
+    "name:ceb_x_preferred":[
+        "Tharpu"
+    ],
+    "name:mai_x_preferred":[
+        "\u0925\u0930\u094d\u092a\u0941"
+    ],
+    "name:msa_x_preferred":[
+        "Tharpu"
+    ],
+    "name:nep_x_preferred":[
+        "\u0925\u0930\u094d\u092a\u0941"
+    ],
+    "name:new_x_preferred":[
+        "\u0925\u093e\u0930\u094d\u092a\u0941"
+    ],
+    "name:pol_x_preferred":[
+        "Tharpu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1326571829,
-    "wof:lastmodified":1536927700,
+    "wof:lastmodified":1564106550,
     "wof:name":"Tharpu",
     "wof:parent_id":1092049017,
     "wof:placetype":"locality",

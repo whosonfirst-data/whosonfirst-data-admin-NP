@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Murai"
+    ],
+    "name:ind_x_preferred":[
+        "Murai"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1226268763,
-    "wof:lastmodified":1536900590,
+    "wof:lastmodified":1564118126,
     "wof:name":"Murai",
     "wof:parent_id":1092050347,
     "wof:placetype":"locality",

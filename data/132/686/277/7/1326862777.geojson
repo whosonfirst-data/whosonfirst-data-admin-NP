@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Tribeni"
+    ],
+    "name:pol_x_preferred":[
+        "Tribeni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1326862777,
-    "wof:lastmodified":1537004002,
+    "wof:lastmodified":1564106160,
     "wof:name":"Tribeni",
     "wof:parent_id":1092049495,
     "wof:placetype":"locality",

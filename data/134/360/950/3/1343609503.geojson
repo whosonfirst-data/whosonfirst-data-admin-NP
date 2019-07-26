@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kyang"
+    ],
+    "name:fra_x_preferred":[
+        "Kyang"
+    ],
+    "name:mai_x_preferred":[
+        "\u0915\u094d\u092f\u093e\u0919"
+    ],
+    "name:msa_x_preferred":[
+        "Kyang"
+    ],
+    "name:nep_x_preferred":[
+        "\u0915\u094d\u092f\u093e\u0919"
+    ],
+    "name:new_x_preferred":[
+        "\u0915\u094d\u092f\u093e\u0919"
+    ],
+    "name:pol_x_preferred":[
+        "Kyang"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1343609503,
-    "wof:lastmodified":1537027389,
+    "wof:lastmodified":1564108434,
     "wof:name":"Kyang",
     "wof:parent_id":1092049297,
     "wof:placetype":"locality",

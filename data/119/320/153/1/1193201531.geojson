@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Uiya"
+    ],
+    "name:mai_x_preferred":[
+        "\u0909\u0907\u092f\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Uiya"
+    ],
+    "name:nep_x_preferred":[
+        "\u0909\u0907\u092f\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Uhiya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1193201531,
-    "wof:lastmodified":1537570149,
+    "wof:lastmodified":1564113441,
     "wof:name":"Uiya",
     "wof:parent_id":1092050351,
     "wof:placetype":"locality",

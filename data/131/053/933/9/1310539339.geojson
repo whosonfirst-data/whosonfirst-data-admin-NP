@@ -28,6 +28,30 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lachyang"
+    ],
+    "name:fra_x_preferred":[
+        "Lachyang"
+    ],
+    "name:mai_x_preferred":[
+        "\u0932\u091a\u094d\u092f\u093e\u0919"
+    ],
+    "name:msa_x_preferred":[
+        "Lachyang"
+    ],
+    "name:nep_x_preferred":[
+        "\u0932\u091a\u094d\u092f\u093e\u0919"
+    ],
+    "name:new_x_preferred":[
+        "\u0932\u091a\u094d\u092f\u093e\u0919"
+    ],
+    "name:pol_x_preferred":[
+        "Lachyang"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0686\u06cc\u0627\u0646\u06af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1310539339,
-    "wof:lastmodified":1536866811,
+    "wof:lastmodified":1564114671,
     "wof:name":"Lachyang",
     "wof:parent_id":1092049133,
     "wof:placetype":"locality",

@@ -28,6 +28,30 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dullu"
+    ],
+    "name:dty_x_preferred":[
+        "\u0926\u0941\u0932\u094d\u0932\u0941 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:hin_x_preferred":[
+        "\u0926\u0941\u0932\u094d\u0932\u0941 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:mai_x_preferred":[
+        "\u0926\u0941\u0932\u094d\u0932\u0941 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Dullu"
+    ],
+    "name:nep_x_preferred":[
+        "\u0926\u0941\u0932\u094d\u0932\u0941 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u0926\u0941\u0932\u094d\u0932\u0941"
+    ],
+    "name:pol_x_preferred":[
+        "Dullu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1259409171,
-    "wof:lastmodified":1536965426,
+    "wof:lastmodified":1564117518,
     "wof:name":"Dullu",
     "wof:parent_id":1092050583,
     "wof:placetype":"locality",

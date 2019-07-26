@@ -28,6 +28,15 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0646\u063a\u0644"
+    ],
+    "name:ceb_x_preferred":[
+        "Tangal"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0646\u06af\u0644"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1309954151,
-    "wof:lastmodified":1536717807,
+    "wof:lastmodified":1564115752,
     "wof:name":"Tangal",
     "wof:parent_id":1092048931,
     "wof:placetype":"locality",

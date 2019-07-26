@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kan_x_preferred":[
+        "\u0ca4\u0ccb\u0cb0\u0ca3"
+    ],
+    "name:spa_x_preferred":[
+        "Toran"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1327275615,
-    "wof:lastmodified":1536907475,
+    "wof:lastmodified":1564107378,
     "wof:name":"Toran",
     "wof:parent_id":1092050351,
     "wof:placetype":"locality",

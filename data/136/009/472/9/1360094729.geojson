@@ -25,6 +25,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Budhathum"
+    ],
+    "name:msa_x_preferred":[
+        "Budhathum"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u0941\u0922\u093e\u0925\u0941\u092e"
+    ],
+    "name:new_x_preferred":[
+        "\u092c\u0941\u0922\u093e\u0925\u0941\u092e"
+    ],
+    "name:pol_x_preferred":[
+        "Budhathum"
+    ],
     "name:und_x_variant":[
         "Bu\u1e0dh\u0101thum",
         "Bur\u0101thum"
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1360094729,
-    "wof:lastmodified":1537676060,
+    "wof:lastmodified":1564115352,
     "wof:name":"Budhathum",
     "wof:parent_id":1092050661,
     "wof:placetype":"locality",

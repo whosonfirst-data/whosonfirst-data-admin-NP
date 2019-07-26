@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chhap"
+    ],
+    "name:fra_x_preferred":[
+        "Chhap"
+    ],
+    "name:mai_x_preferred":[
+        "\u091b\u093e\u092a"
+    ],
+    "name:msa_x_preferred":[
+        "Chhap"
+    ],
+    "name:nep_x_preferred":[
+        "\u091b\u093e\u092a"
+    ],
+    "name:new_x_preferred":[
+        "\u091b\u093e\u092a"
+    ],
+    "name:pol_x_preferred":[
+        "Chhap"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -45,7 +66,7 @@
         }
     ],
     "wof:id":1209256385,
-    "wof:lastmodified":1536292836,
+    "wof:lastmodified":1564112150,
     "wof:name":"Chhap",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

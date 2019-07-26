@@ -28,6 +28,30 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0932\u093e\u092e\u094d\u092a\u093e\u0928\u091f\u093e\u0930"
+    ],
+    "name:fra_x_preferred":[
+        "Lampantar"
+    ],
+    "name:mai_x_preferred":[
+        "\u0932\u093e\u092e\u094d\u092a\u093e\u0928\u091f\u093e\u0930"
+    ],
+    "name:msa_x_preferred":[
+        "Lampantar"
+    ],
+    "name:nep_x_preferred":[
+        "\u0932\u093e\u092e\u094d\u092a\u093e\u0928\u091f\u093e\u0930"
+    ],
+    "name:new_x_preferred":[
+        "\u0932\u092e\u094d\u092a\u0928\u094d\u091f\u093e\u0930"
+    ],
+    "name:pol_x_preferred":[
+        "Lampantar"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0645\u067e\u0627\u0646\u0679\u0627\u0631"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +84,7 @@
         }
     ],
     "wof:id":1226698265,
-    "wof:lastmodified":1537570156,
+    "wof:lastmodified":1564118277,
     "wof:name":"Lampantar",
     "wof:parent_id":1092049679,
     "wof:placetype":"locality",

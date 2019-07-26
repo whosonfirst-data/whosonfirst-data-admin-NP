@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Strohschuh"
+    ],
+    "name:ind_x_preferred":[
+        "Jipsin"
+    ],
+    "name:jav_x_preferred":[
+        "Jipsin"
+    ],
+    "name:spa_x_preferred":[
+        "Jipsin"
+    ],
+    "name:swe_x_preferred":[
+        "Jipsin"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1259716505,
-    "wof:lastmodified":1537018749,
+    "wof:lastmodified":1564117537,
     "wof:name":"Jipsin",
     "wof:parent_id":1092049495,
     "wof:placetype":"locality",

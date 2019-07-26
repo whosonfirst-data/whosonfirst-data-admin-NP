@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Thalajung"
+    ],
+    "name:mai_x_preferred":[
+        "\u0925\u093e\u0932\u093e\u091c\u0941\u0919"
+    ],
+    "name:msa_x_preferred":[
+        "Thalajung"
+    ],
+    "name:nep_x_preferred":[
+        "\u0925\u093e\u0932\u093e\u091c\u0941\u0919"
+    ],
+    "name:new_x_preferred":[
+        "\u0925\u0932\u091c\u0902\u0917"
+    ],
+    "name:pol_x_preferred":[
+        "Thalajung"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1310047347,
-    "wof:lastmodified":1537077204,
+    "wof:lastmodified":1564114997,
     "wof:name":"Thalajung",
     "wof:parent_id":1092050351,
     "wof:placetype":"locality",

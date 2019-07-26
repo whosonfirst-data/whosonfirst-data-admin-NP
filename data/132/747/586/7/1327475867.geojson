@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u092e\u0939\u093e\u0926\u0947\u0935\u091f\u093e\u0930"
+    ],
+    "name:fra_x_preferred":[
+        "Mahadevtar"
+    ],
+    "name:mai_x_preferred":[
+        "\u092e\u0939\u093e\u0926\u0947\u0935\u091f\u093e\u0930"
+    ],
+    "name:msa_x_preferred":[
+        "Mahadevtar"
+    ],
+    "name:nep_x_preferred":[
+        "\u092e\u0939\u093e\u0926\u0947\u0935\u091f\u093e\u0930"
+    ],
+    "name:new_x_preferred":[
+        "\u092e\u0939\u093e\u0926\u0947\u0935\u091f\u093e\u0930"
+    ],
+    "name:pol_x_preferred":[
+        "Mahadevtar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1327475867,
-    "wof:lastmodified":1536615657,
+    "wof:lastmodified":1564106595,
     "wof:name":"Mahadevtar",
     "wof:parent_id":1092049679,
     "wof:placetype":"locality",

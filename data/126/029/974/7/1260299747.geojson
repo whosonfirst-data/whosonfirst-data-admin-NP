@@ -25,8 +25,26 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Rangeli"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u0902\u0917\u0947\u0932\u0940"
+    ],
+    "name:mai_x_preferred":[
+        "\u0930\u0902\u0917\u0947\u0932\u0940 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Rangeli"
+    ],
     "name:nep_x_preferred":[
         "Ra\u1e45geli\u0307\u0304"
+    ],
+    "name:nep_x_variant":[
+        "\u0930\u0902\u0917\u0947\u0932\u0940 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u0930\u0902\u0917\u0947\u0932\u0940"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1260299747,
-    "wof:lastmodified":1537676043,
+    "wof:lastmodified":1564114098,
     "wof:name":"Rangeli",
     "wof:parent_id":1092048303,
     "wof:placetype":"locality",

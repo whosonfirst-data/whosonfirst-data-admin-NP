@@ -28,6 +28,9 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Dandagaun"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +40,7 @@
         "gn:id":7974051
     },
     "wof:country":"NP",
-    "wof:geomhash":"d1c40d027abbb7738fed8bbc4ed770fb",
+    "wof:geomhash":"aa4e2cbe7dc470fe5ef21abd98428cfb",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1209156671,
-    "wof:lastmodified":1536296037,
+    "wof:lastmodified":1564111899,
     "wof:name":"Dandagaun",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +59,9 @@
 },
   "bbox": [
     85.20177,
-    27.946440000000006,
+    27.94644000000001,
     85.20177,
-    27.946440000000006
+    27.94644000000001
 ],
   "geometry": {"coordinates":[85.20177,27.94644000000001],"type":"Point"}
 }
