@@ -25,6 +25,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dty_x_preferred":[
+        "\u092e\u0941\u0915\u094d\u0924\u093f\u0928\u093e\u0925"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0941\u0915\u094d\u0924\u093f\u0928\u093e\u0925"
+    ],
+    "name:mai_x_preferred":[
+        "\u092e\u0941\u0915\u094d\u0924\u093f\u0928\u093e\u0925"
+    ],
+    "name:nep_x_preferred":[
+        "\u092e\u0941\u0915\u094d\u0924\u093f\u0928\u093e\u0925"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u043a\u0442\u0438\u043d\u0430\u0442\u0445"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bc1\u0b95\u0bcd\u0ba4\u0bbf\u0ba8\u0bbe\u0ba4\u0bcd"
+    ],
     "name:und_x_variant":[
         "Chumik Gyatsa",
         "Muktin\u0101th"
@@ -60,7 +78,7 @@
         }
     ],
     "wof:id":1327044459,
-    "wof:lastmodified":1537676047,
+    "wof:lastmodified":1564106752,
     "wof:name":"Muktinath",
     "wof:parent_id":1092048365,
     "wof:placetype":"locality",

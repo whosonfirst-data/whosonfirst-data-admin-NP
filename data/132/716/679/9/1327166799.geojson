@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tilepata"
+    ],
+    "name:dty_x_preferred":[
+        "\u0924\u093f\u0932\u0947\u092a\u093e\u091f\u093e"
+    ],
+    "name:mai_x_preferred":[
+        "\u0924\u093f\u0932\u0947\u092a\u093e\u091f\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Tilepata"
+    ],
+    "name:nep_x_preferred":[
+        "\u0924\u093f\u092a\u093e\u0932\u0947\u091f\u093e \u0917\u093e.\u0935\u093f.\u0938."
+    ],
+    "name:new_x_preferred":[
+        "\u0924\u093f\u0932\u0947\u092a\u093e\u091f\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Tilepata"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1327166799,
-    "wof:lastmodified":1537061621,
+    "wof:lastmodified":1564107354,
     "wof:name":"Tilepata",
     "wof:parent_id":1092050583,
     "wof:placetype":"locality",

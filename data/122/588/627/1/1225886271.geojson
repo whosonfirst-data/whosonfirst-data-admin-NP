@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mai_x_preferred":[
+        "\u092e\u093e\u0928\u0947\u091a\u094c\u0930"
+    ],
+    "name:nep_x_preferred":[
+        "\u092e\u093e\u0928\u0947\u091a\u094c\u0930"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1225886271,
-    "wof:lastmodified":1536955288,
+    "wof:lastmodified":1564118572,
     "wof:name":"Manechaur",
     "wof:parent_id":1092050939,
     "wof:placetype":"locality",

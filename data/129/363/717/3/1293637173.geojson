@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Narchyang"
+    ],
+    "name:fra_x_preferred":[
+        "Narchyang"
+    ],
+    "name:mai_x_preferred":[
+        "\u0928\u094d\u092f\u093e\u0930\u091a\u094d\u092f\u093e\u0919"
+    ],
+    "name:msa_x_preferred":[
+        "Narchyang"
+    ],
+    "name:nep_x_preferred":[
+        "\u0928\u094d\u092f\u093e\u0930\u091a\u094d\u092f\u093e\u0919"
+    ],
+    "name:pol_x_preferred":[
+        "Narchyang"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1293637173,
-    "wof:lastmodified":1537065632,
+    "wof:lastmodified":1564109138,
     "wof:name":"Narchyang",
     "wof:parent_id":1092049089,
     "wof:placetype":"locality",

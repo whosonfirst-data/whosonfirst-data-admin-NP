@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lakhantari"
+    ],
+    "name:mai_x_preferred":[
+        "\u0932\u0916\u0928\u094d\u0924\u0930\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Lakhantari"
+    ],
+    "name:new_x_preferred":[
+        "\u0932\u0916\u0928\u091f\u093e\u0930\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Lakhantari"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06a9\u06be\u0627\u0646\u0679\u0627\u0631\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1243591841,
-    "wof:lastmodified":1537089582,
+    "wof:lastmodified":1564116621,
     "wof:name":"Lakhantari",
     "wof:parent_id":1092048303,
     "wof:placetype":"locality",

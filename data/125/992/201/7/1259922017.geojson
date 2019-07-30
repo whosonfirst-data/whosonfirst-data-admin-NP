@@ -28,6 +28,15 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Devisthan"
+    ],
+    "name:new_x_preferred":[
+        "\u0926\u0947\u0935\u0940\u0938\u094d\u0925\u093e\u0928 \u0968"
+    ],
+    "name:pol_x_preferred":[
+        "Devisthan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1259922017,
-    "wof:lastmodified":1536724087,
+    "wof:lastmodified":1564117712,
     "wof:name":"Devisthan",
     "wof:parent_id":1092048887,
     "wof:placetype":"locality",

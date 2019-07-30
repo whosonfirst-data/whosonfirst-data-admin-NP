@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dahachaur"
+    ],
+    "name:fra_x_preferred":[
+        "Dahachaur"
+    ],
+    "name:msa_x_preferred":[
+        "Dahachaur"
+    ],
+    "name:nep_x_preferred":[
+        "\u0926\u0939\u091a\u094c\u0930"
+    ],
+    "name:new_x_preferred":[
+        "\u0926\u0939\u091a\u094c\u0930"
+    ],
+    "name:pol_x_preferred":[
+        "Dahachaur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1259809727,
-    "wof:lastmodified":1536885019,
+    "wof:lastmodified":1564117817,
     "wof:name":"Dahachaur",
     "wof:parent_id":1092049377,
     "wof:placetype":"locality",

@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chaka"
+    ],
+    "name:deu_x_preferred":[
+        "Chaka"
+    ],
+    "name:fra_x_preferred":[
+        "Chaka"
+    ],
+    "name:ita_x_preferred":[
+        "Chaka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e3\u30ab"
+    ],
+    "name:por_x_preferred":[
+        "Chaka"
+    ],
+    "name:swe_x_preferred":[
+        "Chaka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1326863031,
-    "wof:lastmodified":1537003658,
+    "wof:lastmodified":1564106151,
     "wof:name":"Chaka",
     "wof:parent_id":1092048653,
     "wof:placetype":"locality",

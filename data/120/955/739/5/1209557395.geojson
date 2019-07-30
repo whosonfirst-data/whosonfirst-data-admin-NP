@@ -28,6 +28,9 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u062a\u0644"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +40,7 @@
         "gn:id":7974318
     },
     "wof:country":"NP",
-    "wof:geomhash":"5ecc064f4dca27cd7f5cacd80d822e5b",
+    "wof:geomhash":"221e13c4db841d75d355978b8eebd76c",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1209557395,
-    "wof:lastmodified":1536283504,
+    "wof:lastmodified":1564111747,
     "wof:name":"Patal",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +59,9 @@
 },
   "bbox": [
     85.09562,
-    27.888990000000003,
+    27.88899,
     85.09562,
-    27.888990000000003
+    27.88899
 ],
   "geometry": {"coordinates":[85.09562,27.88899],"type":"Point"}
 }

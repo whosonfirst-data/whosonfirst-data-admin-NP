@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Marming"
+    ],
+    "name:msa_x_preferred":[
+        "Marming"
+    ],
+    "name:nep_x_preferred":[
+        "\u092e\u093e\u0930\u094d\u092e\u093f\u0919"
+    ],
+    "name:new_x_preferred":[
+        "\u092e\u093e\u0930\u094d\u092e\u093f\u0919"
+    ],
+    "name:pol_x_preferred":[
+        "Marming"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1242716099,
-    "wof:lastmodified":1536862890,
+    "wof:lastmodified":1564116853,
     "wof:name":"Marming",
     "wof:parent_id":1092049755,
     "wof:placetype":"locality",

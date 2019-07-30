@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hepka"
+    ],
+    "name:mai_x_preferred":[
+        "\u0939\u0947\u092a\u094d\u0915\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Hepka"
+    ],
+    "name:nep_x_preferred":[
+        "\u0939\u0947\u092a\u094d\u0915\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u0939\u0947\u092a\u094d\u0915\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Hepka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1209941093,
-    "wof:lastmodified":1536388474,
+    "wof:lastmodified":1564112515,
     "wof:name":"Hepka",
     "wof:parent_id":1092050353,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Shivanagar"
+    ],
+    "name:pol_x_preferred":[
+        "Shipanagar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1293626953,
-    "wof:lastmodified":1537079964,
+    "wof:lastmodified":1564108943,
     "wof:name":"Shivanagar",
     "wof:parent_id":1092049639,
     "wof:placetype":"locality",

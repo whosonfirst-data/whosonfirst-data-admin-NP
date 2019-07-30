@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ramdi"
+    ],
+    "name:mai_x_preferred":[
+        "\u0930\u092e\u094d\u0926\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Ramdi"
+    ],
+    "name:nep_x_preferred":[
+        "\u0930\u092e\u094d\u0926\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u0930\u093e\u092e\u094d\u0926\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Ramdi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1259908057,
-    "wof:lastmodified":1536743592,
+    "wof:lastmodified":1564117392,
     "wof:name":"Ramdi",
     "wof:parent_id":1092049377,
     "wof:placetype":"locality",

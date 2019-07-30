@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Chaurjahari"
+    ],
+    "name:msa_x_preferred":[
+        "Chaurjahari"
+    ],
+    "name:nep_x_preferred":[
+        "\u091a\u094c\u0930\u091c\u0939\u093e\u0930\u0940 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u091a\u094c\u0930\u091c\u0939\u0930\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Chaurjahari"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1326862843,
-    "wof:lastmodified":1537003909,
+    "wof:lastmodified":1564106159,
     "wof:name":"Chaurjahari",
     "wof:parent_id":1092049495,
     "wof:placetype":"locality",

@@ -25,8 +25,23 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bhajani"
+    ],
+    "name:dty_x_preferred":[
+        "\u092d\u091c\u0928\u0940 \u0917\u093e\u0935\u093f\u0938"
+    ],
+    "name:msa_x_preferred":[
+        "Bhajani"
+    ],
     "name:nep_x_preferred":[
         "Bhajani\u0307\u0304"
+    ],
+    "name:nep_x_variant":[
+        "\u092d\u091c\u0928\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Bhajani"
     ],
     "name:und_x_variant":[
         "Bhajni"
@@ -62,7 +77,7 @@
         }
     ],
     "wof:id":1193154807,
-    "wof:lastmodified":1537676061,
+    "wof:lastmodified":1564113213,
     "wof:name":"Bhajani",
     "wof:parent_id":1092048743,
     "wof:placetype":"locality",

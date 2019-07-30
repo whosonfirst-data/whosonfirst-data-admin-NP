@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u091a\u094c\u0918\u0930\u0947"
+    ],
+    "name:msa_x_preferred":[
+        "Chaughare"
+    ],
+    "name:nep_x_preferred":[
+        "\u091a\u094c\u0918\u0930\u0947"
+    ],
+    "name:new_x_preferred":[
+        "\u091a\u094c\u0918\u0930\u0947"
+    ],
+    "name:pol_x_preferred":[
+        "Choughare"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1326472547,
-    "wof:lastmodified":1537570151,
+    "wof:lastmodified":1564106886,
     "wof:name":"Chaughare",
     "wof:parent_id":1092048971,
     "wof:placetype":"locality",

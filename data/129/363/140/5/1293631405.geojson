@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Betini"
+    ],
+    "name:pol_x_preferred":[
+        "Betini"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1293631405,
-    "wof:lastmodified":1537073709,
+    "wof:lastmodified":1564109144,
     "wof:name":"Betini",
     "wof:parent_id":1092048887,
     "wof:placetype":"locality",

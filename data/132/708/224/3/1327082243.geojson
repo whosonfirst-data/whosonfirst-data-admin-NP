@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0926\u094b\u092d\u093e\u0928\u0947"
+    ],
+    "name:ceb_x_preferred":[
+        "Dobhane"
+    ],
+    "name:msa_x_preferred":[
+        "Dobhane"
+    ],
+    "name:nep_x_preferred":[
+        "\u0926\u094b\u092d\u093e\u0928\u0947"
+    ],
+    "name:new_x_preferred":[
+        "\u0926\u094b\u092d\u093e\u0928\u0947"
+    ],
+    "name:pol_x_preferred":[
+        "Dobhane"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1327082243,
-    "wof:lastmodified":1536688768,
+    "wof:lastmodified":1564105940,
     "wof:name":"Dobhane",
     "wof:parent_id":1092049883,
     "wof:placetype":"locality",

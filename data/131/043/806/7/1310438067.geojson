@@ -28,6 +28,18 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Juku"
+    ],
+    "name:fra_x_preferred":[
+        "Juku"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5b66\u7fd2\u587e"
+    ],
+    "name:kor_x_preferred":[
+        "\ud559\uc2b5\uc219"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1310438067,
-    "wof:lastmodified":1537013614,
+    "wof:lastmodified":1564114922,
     "wof:name":"Juku",
     "wof:parent_id":1092050627,
     "wof:placetype":"locality",

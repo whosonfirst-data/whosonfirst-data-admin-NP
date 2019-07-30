@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0935\u0930\u094d\u0938\u093e\u0907\u0928"
+    ],
+    "name:dty_x_preferred":[
+        "\u0935\u0930\u094d\u0938\u093e\u0907\u0928 \u0917\u093e\u0935\u093f\u0938"
+    ],
+    "name:mai_x_preferred":[
+        "\u0935\u0930\u094d\u0938\u093e\u0907\u0928"
+    ],
+    "name:msa_x_preferred":[
+        "Barsain"
+    ],
+    "name:nep_x_preferred":[
+        "\u0935\u0930\u094d\u0938\u093e\u0907\u0928"
+    ],
+    "name:pol_x_preferred":[
+        "Barsain"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1226180105,
-    "wof:lastmodified":1537026872,
+    "wof:lastmodified":1564118165,
     "wof:name":"Barsain",
     "wof:parent_id":1092048485,
     "wof:placetype":"locality",

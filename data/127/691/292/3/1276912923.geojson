@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Khunde"
+    ],
+    "name:fra_x_preferred":[
+        "Kunde"
+    ],
+    "name:ita_x_preferred":[
+        "Kunde"
+    ],
+    "name:por_x_preferred":[
+        "Kunde"
+    ],
+    "name:spa_x_preferred":[
+        "Kunde"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1276912923,
-    "wof:lastmodified":1537570156,
+    "wof:lastmodified":1564111315,
     "wof:name":"Khunde",
     "wof:parent_id":1092049841,
     "wof:placetype":"locality",

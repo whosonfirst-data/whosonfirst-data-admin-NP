@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chipur"
+    ],
+    "name:dty_x_preferred":[
+        "\u091a\u093f\u092a\u0941\u0930"
+    ],
+    "name:msa_x_preferred":[
+        "Chipur"
+    ],
+    "name:nep_x_preferred":[
+        "\u091a\u093f\u092a\u0941\u0930"
+    ],
+    "name:new_x_preferred":[
+        "\u091a\u093f\u092a\u0941\u0930"
+    ],
+    "name:pol_x_preferred":[
+        "Chipur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +55,7 @@
         "gn:id":7935740
     },
     "wof:country":"NP",
-    "wof:geomhash":"c2bdde96634af22cc98f866710176df8",
+    "wof:geomhash":"50aaab708b0315b520fa8d7f6780abdf",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +63,7 @@
         }
     ],
     "wof:id":1209138729,
-    "wof:lastmodified":1536296574,
+    "wof:lastmodified":1564112160,
     "wof:name":"Chipur",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +74,9 @@
 },
   "bbox": [
     80.49521,
-    29.338140000000006,
+    29.33814000000001,
     80.49521,
-    29.338140000000006
+    29.33814000000001
 ],
   "geometry": {"coordinates":[80.49521,29.33814000000001],"type":"Point"}
 }

@@ -28,6 +28,18 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0628\u0644\u0627"
+    ],
+    "name:deu_x_preferred":[
+        "Supla"
+    ],
+    "name:ita_x_preferred":[
+        "Supla"
+    ],
+    "name:por_x_preferred":[
+        "Supla"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1259928169,
-    "wof:lastmodified":1536715245,
+    "wof:lastmodified":1564117679,
     "wof:name":"Supla",
     "wof:parent_id":1092049883,
     "wof:placetype":"locality",

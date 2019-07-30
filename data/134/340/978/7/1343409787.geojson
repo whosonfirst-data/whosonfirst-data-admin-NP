@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u091a\u093e\u0932\u094d\u0928\u093e\u0916\u0947\u0932"
+    ],
+    "name:ceb_x_preferred":[
+        "Chalnakhel"
+    ],
+    "name:msa_x_preferred":[
+        "Chalnakhel"
+    ],
+    "name:nep_x_preferred":[
+        "\u091a\u093e\u0932\u094d\u0928\u093e\u0916\u0947\u0932"
+    ],
+    "name:new_x_preferred":[
+        "\u091a\u093e\u0932\u094d\u0928\u093e\u0916\u094d\u092f\u0903"
+    ],
+    "name:pol_x_preferred":[
+        "Chalnakhel"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1343409787,
-    "wof:lastmodified":1536818625,
+    "wof:lastmodified":1564108117,
     "wof:name":"Chalnakhel",
     "wof:parent_id":1092048931,
     "wof:placetype":"locality",

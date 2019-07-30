@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0917\u0902\u0917\u093e\u092a\u0941\u0930"
+    ],
+    "name:ceb_x_preferred":[
+        "Gangapur"
+    ],
+    "name:ita_x_preferred":[
+        "Gangapur"
+    ],
+    "name:pol_x_preferred":[
+        "Gangapur"
+    ],
+    "name:swe_x_preferred":[
+        "Gangapur"
+    ],
+    "name:vie_x_preferred":[
+        "Gangapur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1293318779,
-    "wof:lastmodified":1537029111,
+    "wof:lastmodified":1564108883,
     "wof:name":"Gangapur",
     "wof:parent_id":1092050297,
     "wof:placetype":"locality",

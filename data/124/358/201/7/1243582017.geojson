@@ -28,6 +28,18 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0630\u0647\u0628\u0627\u0646"
+    ],
+    "name:nno_x_preferred":[
+        "Dahban"
+    ],
+    "name:tgl_x_preferred":[
+        "Dahaban"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u06c1\u0628\u0627\u0646"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1243582017,
-    "wof:lastmodified":1536607488,
+    "wof:lastmodified":1564116717,
     "wof:name":"Dahaban",
     "wof:parent_id":1092048809,
     "wof:placetype":"locality",

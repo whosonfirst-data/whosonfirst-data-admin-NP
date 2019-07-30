@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u092c\u0942\u0922\u093e\u0916\u093e\u0928\u0940"
+    ],
+    "name:ceb_x_preferred":[
+        "Budhakhani"
+    ],
+    "name:mai_x_preferred":[
+        "\u092c\u0942\u0922\u093e\u0916\u093e\u0928\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Budhakhani"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u0941\u0922\u093e\u0916\u093e\u0928\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u092c\u0941\u0922\u093e\u0916\u093e\u0928\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Budhakhani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1344195347,
-    "wof:lastmodified":1536680876,
+    "wof:lastmodified":1564108465,
     "wof:name":"Budhakhani",
     "wof:parent_id":1092048887,
     "wof:placetype":"locality",

@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mai_x_preferred":[
+        "\u0936\u0928\u0940\u0917\u093e\u090a\u0901"
+    ],
+    "name:msa_x_preferred":[
+        "Sanigaun"
+    ],
+    "name:nep_x_preferred":[
+        "\u0936\u0928\u0940\u0917\u093e\u090a\u0901"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u093e\u0928\u0940\u0917\u093e\u0909\u0902"
+    ],
+    "name:pol_x_preferred":[
+        "Sanigaun"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1310625359,
-    "wof:lastmodified":1536743878,
+    "wof:lastmodified":1564114576,
     "wof:name":"Sanigaun",
     "wof:parent_id":1092050583,
     "wof:placetype":"locality",

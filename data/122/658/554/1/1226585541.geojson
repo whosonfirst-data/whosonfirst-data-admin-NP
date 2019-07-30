@@ -28,6 +28,15 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Malinga"
+    ],
+    "name:deu_x_preferred":[
+        "Malinga"
+    ],
+    "name:swe_x_preferred":[
+        "Malinga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1226585541,
-    "wof:lastmodified":1536943444,
+    "wof:lastmodified":1564118382,
     "wof:name":"Malinga",
     "wof:parent_id":1092050661,
     "wof:placetype":"locality",

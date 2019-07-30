@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Saraswotinagar"
+    ],
+    "name:mai_x_preferred":[
+        "\u0938\u0930\u0938\u094d\u0935\u0924\u0940\u0928\u0917\u0930"
+    ],
+    "name:msa_x_preferred":[
+        "Saraswotinagar"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u0930\u0938\u094d\u0935\u0924\u0940\u0928\u0917\u0930"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u0930\u0938\u094d\u0935\u0924\u0940\u0928\u0917\u0930"
+    ],
+    "name:pol_x_preferred":[
+        "Saraswotinagar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1293715633,
-    "wof:lastmodified":1536955743,
+    "wof:lastmodified":1564109406,
     "wof:name":"Saraswatinagar",
     "wof:parent_id":1092048743,
     "wof:placetype":"locality",

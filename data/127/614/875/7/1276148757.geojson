@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Khagenkot"
+    ],
+    "name:mai_x_preferred":[
+        "\u0916\u0917\u0947\u0928\u0915\u094b\u091f"
+    ],
+    "name:msa_x_preferred":[
+        "Khagenkot"
+    ],
+    "name:nep_x_preferred":[
+        "\u0916\u0917\u0947\u0928\u0915\u094b\u091f"
+    ],
+    "name:new_x_preferred":[
+        "\u0916\u0917\u0947\u0928\u094d\u0915\u094b\u091f"
+    ],
+    "name:pol_x_preferred":[
+        "Khagenkot"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1276148757,
-    "wof:lastmodified":1537025057,
+    "wof:lastmodified":1564110852,
     "wof:name":"Khagenkot",
     "wof:parent_id":1092048763,
     "wof:placetype":"locality",

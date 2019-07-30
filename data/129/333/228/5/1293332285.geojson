@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u092a\u0915\u0932\u0940"
+    ],
+    "name:ceb_x_preferred":[
+        "Pakali"
+    ],
+    "name:mai_x_preferred":[
+        "\u092a\u0915\u0932\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Pakali"
+    ],
+    "name:nep_x_preferred":[
+        "\u092a\u0915\u0932\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u092a\u0915\u0932\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Pakali"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1293332285,
-    "wof:lastmodified":1537010070,
+    "wof:lastmodified":1564109919,
     "wof:name":"Pakali",
     "wof:parent_id":1092049923,
     "wof:placetype":"locality",

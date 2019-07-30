@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0928\u093e\u092e\u094d\u0926\u0941"
+    ],
+    "name:ceb_x_preferred":[
+        "Namdu"
+    ],
+    "name:mai_x_preferred":[
+        "\u0928\u093e\u092e\u094d\u0926\u0941"
+    ],
+    "name:msa_x_preferred":[
+        "Namdu"
+    ],
+    "name:nep_x_preferred":[
+        "\u0928\u093e\u092e\u094d\u0926\u0941"
+    ],
+    "name:new_x_preferred":[
+        "\u0928\u093e\u092e\u094d\u0926\u0941"
+    ],
+    "name:pol_x_preferred":[
+        "Namdu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1343603575,
-    "wof:lastmodified":1537035611,
+    "wof:lastmodified":1564108437,
     "wof:name":"Namdu",
     "wof:parent_id":1092050535,
     "wof:placetype":"locality",

@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sirise"
+    ],
+    "name:fra_x_preferred":[
+        "Sirise"
+    ],
+    "name:ita_x_preferred":[
+        "Sirise"
+    ],
+    "name:mai_x_preferred":[
+        "\u0938\u093f\u0930\u093f\u0938\u0947"
+    ],
+    "name:msa_x_preferred":[
+        "Sirise"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u093f\u0930\u093f\u0938\u0947"
+    ],
+    "name:pol_x_preferred":[
+        "Sirise"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1343599257,
-    "wof:lastmodified":1537041544,
+    "wof:lastmodified":1564108202,
     "wof:name":"Sirise",
     "wof:parent_id":1092049597,
     "wof:placetype":"locality",

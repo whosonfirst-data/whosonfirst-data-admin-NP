@@ -28,6 +28,36 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Here"
+    ],
+    "name:fra_x_preferred":[
+        "Here"
+    ],
+    "name:hun_x_preferred":[
+        "Here"
+    ],
+    "name:ita_x_preferred":[
+        "Here"
+    ],
+    "name:jpn_x_preferred":[
+        "Here"
+    ],
+    "name:nld_x_preferred":[
+        "Here"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0434\u0435\u0441\u044c"
+    ],
+    "name:slk_x_preferred":[
+        "Here"
+    ],
+    "name:war_x_preferred":[
+        "Nganhi"
+    ],
+    "name:zho_x_preferred":[
+        "Here"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +89,7 @@
         }
     ],
     "wof:id":1310438263,
-    "wof:lastmodified":1537013343,
+    "wof:lastmodified":1564114900,
     "wof:name":"Here",
     "wof:parent_id":1092050797,
     "wof:placetype":"locality",

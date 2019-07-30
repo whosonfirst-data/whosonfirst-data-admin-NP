@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Karkigaun"
+    ],
+    "name:mai_x_preferred":[
+        "\u0915\u093e\u0930\u094d\u0915\u0940\u0917\u093e\u0909\u0901"
+    ],
+    "name:msa_x_preferred":[
+        "Karkigaun"
+    ],
+    "name:nep_x_preferred":[
+        "\u0915\u093e\u0930\u094d\u0915\u0940\u0917\u093e\u0909\u0901"
+    ],
+    "name:new_x_preferred":[
+        "\u0915\u093e\u0930\u094d\u0915\u0940\u0917\u093e\u0909\u0901"
+    ],
+    "name:pol_x_preferred":[
+        "Karkigaun"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1243301797,
-    "wof:lastmodified":1537013326,
+    "wof:lastmodified":1564116103,
     "wof:name":"Karkigaun",
     "wof:parent_id":1092048931,
     "wof:placetype":"locality",

@@ -28,6 +28,18 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mai_x_preferred":[
+        "\u091b\u093e\u092a\u094d\u0930\u0947"
+    ],
+    "name:msa_x_preferred":[
+        "Chhapre"
+    ],
+    "name:nep_x_preferred":[
+        "\u091b\u093e\u092a\u094d\u0930\u0947"
+    ],
+    "name:pol_x_preferred":[
+        "Chhapre"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1310431623,
-    "wof:lastmodified":1537022632,
+    "wof:lastmodified":1564114909,
     "wof:name":"Chhapre",
     "wof:parent_id":1092048527,
     "wof:placetype":"locality",

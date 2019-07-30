@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bamgha"
+    ],
+    "name:fra_x_preferred":[
+        "Bamgha"
+    ],
+    "name:msa_x_preferred":[
+        "Bamgha"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u092e\u094d\u0918\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u092c\u092e\u094d\u0918"
+    ],
+    "name:pol_x_preferred":[
+        "Bamgha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -45,7 +63,7 @@
         }
     ],
     "wof:id":1209256303,
-    "wof:lastmodified":1536292838,
+    "wof:lastmodified":1564112145,
     "wof:name":"Bamgha",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

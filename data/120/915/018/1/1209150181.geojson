@@ -28,6 +28,30 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0917\u094c\u0924\u092e\u092a\u0941\u0930"
+    ],
+    "name:ceb_x_preferred":[
+        "Gautampur"
+    ],
+    "name:fra_x_preferred":[
+        "Gautampur"
+    ],
+    "name:mai_x_preferred":[
+        "\u0917\u094c\u0924\u092e\u092a\u0941\u0930"
+    ],
+    "name:msa_x_preferred":[
+        "Gautampur"
+    ],
+    "name:nep_x_preferred":[
+        "\u0917\u094c\u0924\u092e\u092a\u0941\u0930"
+    ],
+    "name:new_x_preferred":[
+        "\u0917\u094c\u0924\u092e\u092a\u0941\u0930"
+    ],
+    "name:pol_x_preferred":[
+        "Gautampur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +61,7 @@
         "gn:id":7997823
     },
     "wof:country":"NP",
-    "wof:geomhash":"ed099f9ad7fb367eed391e8f747c270b",
+    "wof:geomhash":"ad333b35d4df86a2d403c4cd28844bfe",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +69,7 @@
         }
     ],
     "wof:id":1209150181,
-    "wof:lastmodified":1536296227,
+    "wof:lastmodified":1564111918,
     "wof:name":"Gautampur",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +80,9 @@
 },
   "bbox": [
     87.13781999999998,
-    26.527890000000006,
+    26.52789000000001,
     87.13781999999998,
-    26.527890000000006
+    26.52789000000001
 ],
   "geometry": {"coordinates":[87.13781999999998,26.52789000000001],"type":"Point"}
 }

@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u092e\u093e\u092e\u093e\u0919\u0916\u0947"
+    ],
+    "name:mai_x_preferred":[
+        "\u092e\u093e\u092e\u093e\u0919\u0916\u0947"
+    ],
+    "name:msa_x_preferred":[
+        "Mamangkhe"
+    ],
+    "name:nep_x_preferred":[
+        "\u092e\u093e\u092e\u093e\u0919\u0916\u0947"
+    ],
+    "name:pol_x_preferred":[
+        "Mamankhe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1242915365,
-    "wof:lastmodified":1537570157,
+    "wof:lastmodified":1564116924,
     "wof:name":"Mamangkhe",
     "wof:parent_id":1092049813,
     "wof:placetype":"locality",

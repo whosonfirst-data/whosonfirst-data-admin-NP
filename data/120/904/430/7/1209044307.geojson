@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bhachok"
+    ],
+    "name:deu_x_preferred":[
+        "Bhachok"
+    ],
+    "name:fra_x_preferred":[
+        "Bhachok"
+    ],
+    "name:mai_x_preferred":[
+        "\u092d\u093e\u091a\u094b\u0915"
+    ],
+    "name:msa_x_preferred":[
+        "Bhachok"
+    ],
+    "name:nep_x_preferred":[
+        "\u092d\u093e\u091a\u094b\u0915"
+    ],
+    "name:pol_x_preferred":[
+        "Bhachok"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -45,7 +66,7 @@
         }
     ],
     "wof:id":1209044307,
-    "wof:lastmodified":1536299446,
+    "wof:lastmodified":1564112449,
     "wof:name":"Bhachok",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

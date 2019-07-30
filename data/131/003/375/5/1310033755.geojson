@@ -28,6 +28,9 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Reg"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1310033755,
-    "wof:lastmodified":1537096799,
+    "wof:lastmodified":1564114969,
     "wof:name":"Reg",
     "wof:parent_id":1092050583,
     "wof:placetype":"locality",

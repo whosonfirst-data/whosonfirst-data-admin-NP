@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gunjanagar"
+    ],
+    "name:msa_x_preferred":[
+        "Gunjanagar"
+    ],
+    "name:nep_x_preferred":[
+        "\u0917\u0941\u091e\u094d\u091c\u0928\u0917\u0930"
+    ],
+    "name:new_x_preferred":[
+        "\u0917\u0941\u091e\u094d\u091c\u0928\u0917\u0930"
+    ],
+    "name:pol_x_preferred":[
+        "Gunjanagar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1276913113,
-    "wof:lastmodified":1536995797,
+    "wof:lastmodified":1564111344,
     "wof:name":"Gunjanagar",
     "wof:parent_id":1092050101,
     "wof:placetype":"locality",

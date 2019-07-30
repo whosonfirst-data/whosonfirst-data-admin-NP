@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nep_x_preferred":[
+        "\u091f\u0941\u0901\u0921\u093f\u0916\u0947\u0932"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u043d\u0434\u0438\u043a\u0445\u0435\u043b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1293527433,
-    "wof:lastmodified":1536729842,
+    "wof:lastmodified":1564109085,
     "wof:name":"Tundikhel",
     "wof:parent_id":1092049017,
     "wof:placetype":"locality",

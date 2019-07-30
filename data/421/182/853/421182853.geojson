@@ -13,8 +13,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Dadeldhur\u0101"
+    ],
+    "name:ita_x_preferred":[
+        "Dadeldhura"
+    ],
+    "name:nld_x_preferred":[
+        "Dadeldhura"
+    ],
+    "name:por_x_preferred":[
+        "Dadeldhura"
+    ],
     "name:unk_x_variant":[
         "Dandeldhura"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0627\u062f\u06cc\u0644\u06c1\u0648\u0631\u0627"
     ],
     "qs:gn_country":"NP",
     "qs:gn_fcode":"ADM3",
@@ -69,7 +84,7 @@
         }
     ],
     "wof:id":421182853,
-    "wof:lastmodified":1505340666,
+    "wof:lastmodified":1564115963,
     "wof:name":"Dadeldhura",
     "wof:parent_id":1092048697,
     "wof:placetype":"localadmin",

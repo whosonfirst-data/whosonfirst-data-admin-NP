@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30e9\u30df\u30c0\u30f3\u30c0"
+    ],
+    "name:pol_x_preferred":[
+        "Lamidada"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1260319487,
-    "wof:lastmodified":1536663690,
+    "wof:lastmodified":1564113978,
     "wof:name":"Lamidanda",
     "wof:parent_id":1092050583,
     "wof:placetype":"locality",

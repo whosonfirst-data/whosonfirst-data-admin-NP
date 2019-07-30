@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Baniyabhar"
+    ],
+    "name:mai_x_preferred":[
+        "\u092c\u0928\u093f\u092f\u093e\u092d\u093e\u0930"
+    ],
+    "name:msa_x_preferred":[
+        "Baniyabhar"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u0928\u093f\u092f\u093e\u092d\u093e\u0930"
+    ],
+    "name:new_x_preferred":[
+        "\u092c\u0928\u093f\u092f\u093e\u092d\u0930"
+    ],
+    "name:pol_x_preferred":[
+        "Baniyabhar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1210049367,
-    "wof:lastmodified":1536375373,
+    "wof:lastmodified":1564112922,
     "wof:name":"Baniyabhar",
     "wof:parent_id":1092048097,
     "wof:placetype":"locality",

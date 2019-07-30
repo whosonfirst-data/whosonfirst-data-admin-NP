@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0924\u0940\u0928\u0925\u093e\u0928\u093e"
+    ],
+    "name:ceb_x_preferred":[
+        "Tinthana"
+    ],
+    "name:msa_x_preferred":[
+        "Tinthana"
+    ],
+    "name:nep_x_preferred":[
+        "\u0924\u0940\u0928\u0925\u093e\u0928\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u0924\u0940\u0928\u0925\u093e\u0928\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Tinthana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1310047693,
-    "wof:lastmodified":1537076742,
+    "wof:lastmodified":1564115001,
     "wof:name":"Tinthana",
     "wof:parent_id":1092048931,
     "wof:placetype":"locality",

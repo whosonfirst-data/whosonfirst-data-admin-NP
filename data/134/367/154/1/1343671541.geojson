@@ -25,8 +25,20 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Toli"
+    ],
+    "name:deu_x_preferred":[
+        "Toli"
+    ],
+    "name:fra_x_preferred":[
+        "Toli"
+    ],
     "name:nep_x_preferred":[
         "Toli\u0307\u0304"
+    ],
+    "name:swe_x_preferred":[
+        "Toli"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1343671541,
-    "wof:lastmodified":1537676037,
+    "wof:lastmodified":1564108402,
     "wof:name":"Toli",
     "wof:parent_id":1092050583,
     "wof:placetype":"locality",

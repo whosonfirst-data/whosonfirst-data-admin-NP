@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0930\u093e\u0928\u0940\u091f\u093e\u0930"
+    ],
+    "name:ceb_x_preferred":[
+        "Ranitar"
+    ],
+    "name:mai_x_preferred":[
+        "\u0930\u093e\u0928\u0940\u091f\u093e\u0930"
+    ],
+    "name:msa_x_preferred":[
+        "Ranitar"
+    ],
+    "name:nep_x_preferred":[
+        "\u0930\u093e\u0928\u0940\u091f\u093e\u0930"
+    ],
+    "name:new_x_preferred":[
+        "\u0930\u093e\u0928\u0940\u091f\u093e\u0930"
+    ],
+    "name:pol_x_preferred":[
+        "Ranitar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +58,7 @@
         "gn:id":7973537
     },
     "wof:country":"NP",
-    "wof:geomhash":"83b14fe52aaa00b51e273fc2fee24884",
+    "wof:geomhash":"abcae83c1e54d1db71f15475ccca8b8e",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +66,7 @@
         }
     ],
     "wof:id":1209252237,
-    "wof:lastmodified":1536292967,
+    "wof:lastmodified":1564112130,
     "wof:name":"Ranitar",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +77,9 @@
 },
   "bbox": [
     84.01026,
-    27.593770000000006,
+    27.59377000000001,
     84.01026,
-    27.593770000000006
+    27.59377000000001
 ],
   "geometry": {"coordinates":[84.01026,27.59377000000001],"type":"Point"}
 }

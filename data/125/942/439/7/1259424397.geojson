@@ -28,6 +28,30 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0938\u093e\u0909\u0928\u0947"
+    ],
+    "name:ceb_x_preferred":[
+        "Saune"
+    ],
+    "name:ita_x_preferred":[
+        "Saune"
+    ],
+    "name:mai_x_preferred":[
+        "\u0938\u093e\u0909\u0928\u0947"
+    ],
+    "name:msa_x_preferred":[
+        "Saune"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u093e\u0909\u0928\u0947"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u093e\u0909\u0928\u0947"
+    ],
+    "name:pol_x_preferred":[
+        "Saune"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1259424397,
-    "wof:lastmodified":1536944131,
+    "wof:lastmodified":1564117835,
     "wof:name":"Saune",
     "wof:parent_id":1092050053,
     "wof:placetype":"locality",

@@ -25,8 +25,20 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Rumjatar"
+    ],
     "name:nep_x_preferred":[
         "Rumj\u0101\u1e6d\u0101r"
+    ],
+    "name:nep_x_variant":[
+        "\u0930\u0941\u092e\u094d\u091c\u093e\u091f\u093e\u0930"
+    ],
+    "name:new_x_preferred":[
+        "\u0930\u0941\u092e\u094d\u091c\u093e\u091f\u093e\u0930"
+    ],
+    "name:pol_x_preferred":[
+        "Rumjatar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1259989261,
-    "wof:lastmodified":1537676135,
+    "wof:lastmodified":1564117252,
     "wof:name":"Rumjatar",
     "wof:parent_id":1092050179,
     "wof:placetype":"locality",

@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bigutar"
+    ],
+    "name:fra_x_preferred":[
+        "Bigutar"
+    ],
+    "name:mai_x_preferred":[
+        "\u0935\u093f\u0917\u0941\u091f\u093e\u0930"
+    ],
+    "name:msa_x_preferred":[
+        "Bigutar"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u093f\u0917\u0941\u091f\u093e\u0930"
+    ],
+    "name:new_x_preferred":[
+        "\u092c\u093f\u0917\u0941\u091f\u093e\u0930"
+    ],
+    "name:pol_x_preferred":[
+        "Bigutar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1310343061,
-    "wof:lastmodified":1536653669,
+    "wof:lastmodified":1564115076,
     "wof:name":"Bigutar",
     "wof:parent_id":1092050225,
     "wof:placetype":"locality",

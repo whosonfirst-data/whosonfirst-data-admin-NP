@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Saigaun"
+    ],
+    "name:mai_x_preferred":[
+        "\u0938\u093e\u0908\u0917\u093e\u0901\u0909"
+    ],
+    "name:msa_x_preferred":[
+        "Saigaun"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u093e\u0908\u0917\u093e\u0901\u0909"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u0948\u0917\u093e\u0909\u0902"
+    ],
+    "name:pol_x_preferred":[
+        "Saigaun"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u06af\u0648\u06ba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1226775867,
-    "wof:lastmodified":1536672256,
+    "wof:lastmodified":1564119030,
     "wof:name":"Saigaun",
     "wof:parent_id":1092050297,
     "wof:placetype":"locality",

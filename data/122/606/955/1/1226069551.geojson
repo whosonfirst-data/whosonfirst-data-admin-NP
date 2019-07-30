@@ -28,6 +28,30 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sitaula"
+    ],
+    "name:dty_x_preferred":[
+        "\u0938\u093f\u0924\u094c\u0932\u093e \u0917\u093e\u0935\u093f\u0938"
+    ],
+    "name:fra_x_preferred":[
+        "Sitaula"
+    ],
+    "name:mai_x_preferred":[
+        "\u0938\u093f\u0924\u094c\u0932\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Sitaula"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u093f\u0924\u094c\u0932\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u093f\u091f\u094c\u0932\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Sitaula"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1226069551,
-    "wof:lastmodified":1536691130,
+    "wof:lastmodified":1564119185,
     "wof:name":"Sitaula",
     "wof:parent_id":1092050347,
     "wof:placetype":"locality",

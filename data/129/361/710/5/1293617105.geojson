@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dalai"
+    ],
+    "name:deu_x_preferred":[
+        "Dalai"
+    ],
+    "name:fra_x_preferred":[
+        "Dala\u00ef"
+    ],
+    "name:mlg_x_preferred":[
+        "Dalai"
+    ],
+    "name:swe_x_preferred":[
+        "Dalai"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1293617105,
-    "wof:lastmodified":1537094259,
+    "wof:lastmodified":1564109634,
     "wof:name":"Dalai",
     "wof:parent_id":1092048097,
     "wof:placetype":"locality",

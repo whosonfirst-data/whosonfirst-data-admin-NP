@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Apchaur"
+    ],
+    "name:msa_x_preferred":[
+        "Apchaur"
+    ],
+    "name:nep_x_preferred":[
+        "\u0906\u0901\u092a\u091a\u094c\u0930"
+    ],
+    "name:new_x_preferred":[
+        "\u0905\u092a\u091a\u094c\u0930"
+    ],
+    "name:pol_x_preferred":[
+        "Apchaur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1293637637,
-    "wof:lastmodified":1537065054,
+    "wof:lastmodified":1564109092,
     "wof:name":"Apchaur",
     "wof:parent_id":1092049711,
     "wof:placetype":"locality",

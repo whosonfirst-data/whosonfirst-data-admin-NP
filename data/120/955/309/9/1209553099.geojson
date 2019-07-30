@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Majhakot"
+    ],
+    "name:mai_x_preferred":[
+        "\u092e\u091c\u0915\u094b\u091f"
+    ],
+    "name:msa_x_preferred":[
+        "Majhkot"
+    ],
+    "name:nep_x_preferred":[
+        "\u092e\u091c\u0915\u094b\u091f"
+    ],
+    "name:pol_x_preferred":[
+        "Majhakot"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +52,7 @@
         "gn:id":7976909
     },
     "wof:country":"NP",
-    "wof:geomhash":"4edd98af9de92f11dacef624c79d1957",
+    "wof:geomhash":"51eec094969f59ad1e30ab9afd57d294",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +60,7 @@
         }
     ],
     "wof:id":1209553099,
-    "wof:lastmodified":1536283632,
+    "wof:lastmodified":1564111744,
     "wof:name":"Majhkot",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +71,9 @@
 },
   "bbox": [
     83.84772,
-    27.837670000000006,
+    27.83767000000001,
     83.84772,
-    27.837670000000006
+    27.83767000000001
 ],
   "geometry": {"coordinates":[83.84772,27.83767000000001],"type":"Point"}
 }

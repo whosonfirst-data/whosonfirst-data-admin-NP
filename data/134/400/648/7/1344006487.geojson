@@ -28,6 +28,15 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Latu"
+    ],
+    "name:deu_x_preferred":[
+        "Latu"
+    ],
+    "name:swe_x_preferred":[
+        "Latu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1344006487,
-    "wof:lastmodified":1536953756,
+    "wof:lastmodified":1564107880,
     "wof:name":"Latu",
     "wof:parent_id":1092049755,
     "wof:placetype":"locality",

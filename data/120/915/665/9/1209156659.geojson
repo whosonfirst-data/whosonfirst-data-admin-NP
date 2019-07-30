@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Nayagaun"
+    ],
+    "name:nep_x_preferred":[
+        "\u0928\u092f\u093e\u0901\u0917\u093e\u0901\u0909"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +43,7 @@
         "gn:id":7963297
     },
     "wof:country":"NP",
-    "wof:geomhash":"42e38633199268b33c7da57118e346c3",
+    "wof:geomhash":"e90d6fe90756023a35e25ead6782e32f",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +51,7 @@
         }
     ],
     "wof:id":1209156659,
-    "wof:lastmodified":1536296037,
+    "wof:lastmodified":1564111940,
     "wof:name":"Nayagaun",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +62,9 @@
 },
   "bbox": [
     85.46423,
-    27.570490000000003,
+    27.57049,
     85.46423,
-    27.570490000000003
+    27.57049
 ],
   "geometry": {"coordinates":[85.46423,27.57049],"type":"Point"}
 }

@@ -28,6 +28,15 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kahun"
+    ],
+    "name:nep_x_preferred":[
+        "\u0915\u093e\u0901\u0939\u0941"
+    ],
+    "name:pol_x_preferred":[
+        "Kahun"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1360132523,
-    "wof:lastmodified":1536876428,
+    "wof:lastmodified":1564115292,
     "wof:name":"Kahun",
     "wof:parent_id":1092050755,
     "wof:placetype":"locality",

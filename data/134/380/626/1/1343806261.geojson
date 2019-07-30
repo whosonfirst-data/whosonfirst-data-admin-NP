@@ -28,6 +28,18 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Chouketar Dahachok"
+    ],
+    "name:nep_x_preferred":[
+        "\u091a\u094c\u0915\u0947\u091f\u093e\u0930 \u0926\u0939\u091a\u094b\u0915"
+    ],
+    "name:new_x_preferred":[
+        "\u0926\u0939\u091a\u094b\u0915"
+    ],
+    "name:pol_x_preferred":[
+        "Chouketar Dahachok"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1343806261,
-    "wof:lastmodified":1536744647,
+    "wof:lastmodified":1564108779,
     "wof:name":"Dahachok",
     "wof:parent_id":1092048931,
     "wof:placetype":"locality",

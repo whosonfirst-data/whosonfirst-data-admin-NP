@@ -28,6 +28,30 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kerauja"
+    ],
+    "name:deu_x_preferred":[
+        "Kerauja"
+    ],
+    "name:fra_x_preferred":[
+        "Kerauja"
+    ],
+    "name:mai_x_preferred":[
+        "\u0915\u0947\u0930\u094c\u091c\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Kerauja"
+    ],
+    "name:nep_x_preferred":[
+        "\u0915\u0947\u0930\u094c\u091c\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u0915\u0947\u0930\u093e\u0909\u091c\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Keauja"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1209857767,
-    "wof:lastmodified":1536385568,
+    "wof:lastmodified":1564112024,
     "wof:name":"Kerauja",
     "wof:parent_id":1092050661,
     "wof:placetype":"locality",

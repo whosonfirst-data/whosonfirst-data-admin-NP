@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Guthichaur"
+    ],
+    "name:mai_x_preferred":[
+        "\u0917\u0941\u0920\u0940\u091a\u094c\u0930"
+    ],
+    "name:msa_x_preferred":[
+        "Gothichaur"
+    ],
+    "name:nep_x_preferred":[
+        "\u0917\u0941\u0920\u0940\u091a\u094c\u0930"
+    ],
+    "name:new_x_preferred":[
+        "\u0917\u094b\u0920\u093f\u091a\u094c\u0930"
+    ],
+    "name:pol_x_preferred":[
+        "Guthichaur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +78,7 @@
         }
     ],
     "wof:id":1276576013,
-    "wof:lastmodified":1537570149,
+    "wof:lastmodified":1564110773,
     "wof:name":"Gothichaur",
     "wof:parent_id":1092050797,
     "wof:placetype":"locality",

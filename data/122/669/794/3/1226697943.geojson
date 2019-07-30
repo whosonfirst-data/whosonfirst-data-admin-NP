@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Boharagaun"
+    ],
+    "name:fra_x_preferred":[
+        "Boharagaun"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u094b\u0939\u0930\u093e\u0917\u093e\u0909\u0901"
+    ],
+    "name:new_x_preferred":[
+        "\u092c\u094b\u0939\u0930\u093e\u0917\u093e\u0909\u0902"
+    ],
+    "name:pol_x_preferred":[
+        "Boharagaun"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1226697943,
-    "wof:lastmodified":1536785020,
+    "wof:lastmodified":1564118291,
     "wof:name":"Boharagaun",
     "wof:parent_id":1092049257,
     "wof:placetype":"locality",

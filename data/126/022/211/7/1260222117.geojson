@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Phatepur"
+    ],
+    "name:mai_x_preferred":[
+        "\u092b\u0924\u094d\u0924\u0947\u092a\u0941\u0930"
+    ],
+    "name:msa_x_preferred":[
+        "Phatepur"
+    ],
+    "name:nep_x_preferred":[
+        "\u092b\u0924\u094d\u0924\u0947\u092a\u0941\u0930"
+    ],
+    "name:new_x_preferred":[
+        "\u092b\u0924\u0947\u092a\u0941\u0930"
+    ],
+    "name:pol_x_preferred":[
+        "Phatepur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1260222117,
-    "wof:lastmodified":1536795507,
+    "wof:lastmodified":1564113875,
     "wof:name":"Phatepur",
     "wof:parent_id":1092050497,
     "wof:placetype":"locality",

@@ -28,6 +28,36 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0410\u0440\u0434\u0430\u043d\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00c1rdana"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03bd\u03c4\u03b1\u03c7\u03ac\u03bd"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u0564\u0561\u0576\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Ardana"
+    ],
+    "name:msa_x_preferred":[
+        "Ardana"
+    ],
+    "name:pol_x_preferred":[
+        "Ardana"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c1rdana"
+    ],
+    "name:tur_x_preferred":[
+        "Ardahan"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0631\u062f\u0627\u0646\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +89,7 @@
         }
     ],
     "wof:id":1226775919,
-    "wof:lastmodified":1536672183,
+    "wof:lastmodified":1564119042,
     "wof:name":"Ardana",
     "wof:parent_id":1092049495,
     "wof:placetype":"locality",

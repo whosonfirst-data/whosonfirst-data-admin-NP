@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mugraha"
+    ],
+    "name:mai_x_preferred":[
+        "\u092e\u0941\u0917\u094d\u0930\u093e\u0939\u093e\u0901"
+    ],
+    "name:msa_x_preferred":[
+        "Mugraha"
+    ],
+    "name:nep_x_preferred":[
+        "\u092e\u0941\u0917\u094d\u0930\u093e\u0939\u093e\u0901"
+    ],
+    "name:pol_x_preferred":[
+        "Mugraha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1360117661,
-    "wof:lastmodified":1536898673,
+    "wof:lastmodified":1564115478,
     "wof:name":"Mugraha",
     "wof:parent_id":1092048809,
     "wof:placetype":"locality",

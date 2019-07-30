@@ -28,6 +28,30 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chumchet"
+    ],
+    "name:deu_x_preferred":[
+        "Chumchet"
+    ],
+    "name:fra_x_preferred":[
+        "Chumchet"
+    ],
+    "name:mai_x_preferred":[
+        "\u091a\u0941\u092e\u094d\u091a\u0947\u0924"
+    ],
+    "name:msa_x_preferred":[
+        "Chumchet"
+    ],
+    "name:nep_x_preferred":[
+        "\u091a\u0941\u092e\u094d\u091a\u0947\u0924"
+    ],
+    "name:new_x_preferred":[
+        "\u091a\u0941\u092e\u094d\u091a\u0947\u0924"
+    ],
+    "name:pol_x_preferred":[
+        "Chunchet"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1226483851,
-    "wof:lastmodified":1537083994,
+    "wof:lastmodified":1564119076,
     "wof:name":"Chumchet",
     "wof:parent_id":1092050351,
     "wof:placetype":"locality",

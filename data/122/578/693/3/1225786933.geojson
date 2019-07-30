@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u092b\u093e\u0915\u094d\u091a\u093e\u092e\u093e\u0930\u093e"
+    ],
+    "name:ceb_x_preferred":[
+        "Phakchamara"
+    ],
+    "name:mai_x_preferred":[
+        "\u092b\u093e\u0915\u094d\u091a\u093e\u092e\u093e\u0930\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Phakchamara"
+    ],
+    "name:nep_x_preferred":[
+        "\u092b\u093e\u0915\u094d\u091a\u093e\u092e\u093e\u0930\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u092b\u093e\u0915\u094d\u091a\u092e\u0930\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Phakchamara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1225786933,
-    "wof:lastmodified":1537095276,
+    "wof:lastmodified":1564119366,
     "wof:name":"Phakchamara",
     "wof:parent_id":1092050137,
     "wof:placetype":"locality",

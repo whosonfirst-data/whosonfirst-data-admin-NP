@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bagchaur"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u093e\u0917\u091a\u094c\u0930 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1226170769,
-    "wof:lastmodified":1537039987,
+    "wof:lastmodified":1564118053,
     "wof:name":"Bagchaur",
     "wof:parent_id":1092049579,
     "wof:placetype":"locality",

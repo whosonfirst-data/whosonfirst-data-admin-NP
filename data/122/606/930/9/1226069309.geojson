@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0418\u0431\u044a\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Ibar"
+    ],
+    "name:deu_x_preferred":[
+        "Ibar"
+    ],
+    "name:fra_x_preferred":[
+        "Ibar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30d0\u30fc\u30eb"
+    ],
+    "name:swe_x_preferred":[
+        "Ibar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1226069309,
-    "wof:lastmodified":1536691462,
+    "wof:lastmodified":1564119184,
     "wof:name":"Ibar",
     "wof:parent_id":1092048763,
     "wof:placetype":"locality",

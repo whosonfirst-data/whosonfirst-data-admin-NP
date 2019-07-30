@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chhatawa"
+    ],
+    "name:fra_x_preferred":[
+        "Chhatawa"
+    ],
+    "name:msa_x_preferred":[
+        "Chhatawa"
+    ],
+    "name:nep_x_preferred":[
+        "\u091b\u0924\u0935\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u091b\u0924\u0935\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Chhatawa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -69,7 +87,7 @@
         }
     ],
     "wof:id":1293832189,
-    "wof:lastmodified":1536787842,
+    "wof:lastmodified":1564109276,
     "wof:name":"Chhatawa",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

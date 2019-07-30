@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hin_x_preferred":[
+        "\u0905\u0938\u094d\u0915\u094b\u091f"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d38\u0d4d\u200c\u0d15\u0d4b\u0d1f\u0d4d\u0d1f\u0d4d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1193188415,
-    "wof:lastmodified":1536364293,
+    "wof:lastmodified":1564113518,
     "wof:name":"Askot",
     "wof:parent_id":1092049207,
     "wof:placetype":"locality",

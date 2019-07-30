@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gairimudi"
+    ],
+    "name:msa_x_preferred":[
+        "Gairimudi"
+    ],
+    "name:nep_x_preferred":[
+        "\u0917\u0948\u0930\u093f\u092e\u0941\u0926\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u0917\u0948\u0930\u0940\u092e\u0941\u0926\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Gairimudi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1226184347,
-    "wof:lastmodified":1537021115,
+    "wof:lastmodified":1564118172,
     "wof:name":"Gairimudi",
     "wof:parent_id":1092050535,
     "wof:placetype":"locality",

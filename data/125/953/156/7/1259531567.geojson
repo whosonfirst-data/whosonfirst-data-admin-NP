@@ -28,6 +28,33 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0930\u0942\u092a\u093e\u091f\u093e\u0930"
+    ],
+    "name:ceb_x_preferred":[
+        "Rupatar"
+    ],
+    "name:fra_x_preferred":[
+        "Rupatar"
+    ],
+    "name:ita_x_preferred":[
+        "Rupatar"
+    ],
+    "name:mai_x_preferred":[
+        "\u0930\u0942\u092a\u093e\u091f\u093e\u0930"
+    ],
+    "name:msa_x_preferred":[
+        "Rupatar"
+    ],
+    "name:nep_x_preferred":[
+        "\u0930\u0941\u092a\u093e\u091f\u093e\u0930"
+    ],
+    "name:new_x_preferred":[
+        "\u0930\u0941\u092a\u093e\u091f\u093e\u0930"
+    ],
+    "name:pol_x_preferred":[
+        "Rupatar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +86,7 @@
         }
     ],
     "wof:id":1259531567,
-    "wof:lastmodified":1536790149,
+    "wof:lastmodified":1564117230,
     "wof:name":"Rupatar",
     "wof:parent_id":1092050179,
     "wof:placetype":"locality",

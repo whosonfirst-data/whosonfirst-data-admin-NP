@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bankim"
+    ],
+    "name:fra_x_preferred":[
+        "Bankim"
+    ],
+    "name:ita_x_preferred":[
+        "Bankim"
+    ],
+    "name:msa_x_preferred":[
+        "Bankim"
+    ],
+    "name:spa_x_preferred":[
+        "Bankim"
+    ],
+    "name:swe_x_preferred":[
+        "Bankim"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1242615421,
-    "wof:lastmodified":1537008457,
+    "wof:lastmodified":1564116350,
     "wof:name":"Bankim",
     "wof:parent_id":1092049017,
     "wof:placetype":"locality",

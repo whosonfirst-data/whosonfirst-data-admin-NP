@@ -28,6 +28,30 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Komin"
+    ],
+    "name:ceb_x_preferred":[
+        "Komin"
+    ],
+    "name:hrv_x_preferred":[
+        "Komin"
+    ],
+    "name:hun_x_preferred":[
+        "Komin"
+    ],
+    "name:nld_x_preferred":[
+        "Komin"
+    ],
+    "name:slv_x_preferred":[
+        "Komin"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043c\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Komin"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1343699749,
-    "wof:lastmodified":1536898337,
+    "wof:lastmodified":1564108358,
     "wof:name":"Komin",
     "wof:parent_id":1092048409,
     "wof:placetype":"locality",

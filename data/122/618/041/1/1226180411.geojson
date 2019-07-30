@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tari"
+    ],
+    "name:deu_x_preferred":[
+        "Tari"
+    ],
+    "name:fra_x_preferred":[
+        "Tari"
+    ],
+    "name:ita_x_preferred":[
+        "Tari"
+    ],
+    "name:nds_x_preferred":[
+        "Tari"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Tari"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1226180411,
-    "wof:lastmodified":1537026478,
+    "wof:lastmodified":1564118135,
     "wof:name":"Tari",
     "wof:parent_id":1092049711,
     "wof:placetype":"locality",

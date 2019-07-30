@@ -28,6 +28,9 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5e15\u91cc\u74e6\u7d0d\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1242906387,
-    "wof:lastmodified":1537083996,
+    "wof:lastmodified":1564116975,
     "wof:name":"Pariwana",
     "wof:parent_id":1092048571,
     "wof:placetype":"locality",

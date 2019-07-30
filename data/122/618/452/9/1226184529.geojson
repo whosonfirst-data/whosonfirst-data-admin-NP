@@ -28,6 +28,18 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mai_x_preferred":[
+        "\u0938\u093f\u0938\u094c\u091f"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u093f\u0938\u094c\u091f"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u093f\u0938\u094c\u091f"
+    ],
+    "name:pol_x_preferred":[
+        "Sisout"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1226184529,
-    "wof:lastmodified":1537020900,
+    "wof:lastmodified":1564118145,
     "wof:name":"Sisaut",
     "wof:parent_id":1092049639,
     "wof:placetype":"locality",

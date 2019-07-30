@@ -22,8 +22,26 @@
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
+    "name:ben_x_preferred":[
+        "\u09aa\u09cd\u09b0\u09a6\u09c7\u09b6 \u09a8\u0982 \u09e9"
+    ],
     "name:eng_x_preferred":[
         "Three"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u094d\u0930\u0926\u0947\u0936 \u0938\u0902\u0916\u094d\u092f\u093e \u0969"
+    ],
+    "name:jpn_x_preferred":[
+        "\u7b2c\u4e09\u5dde"
+    ],
+    "name:mai_x_preferred":[
+        "\u092a\u094d\u0930\u0926\u0947\u0936 \u0928\u0902. \u0969"
+    ],
+    "name:nep_x_preferred":[
+        "\u092a\u094d\u0930\u0926\u0947\u0936 \u0928\u0902. \u0969"
+    ],
+    "name:zho_x_preferred":[
+        "\u7b2c\u4e09\u7701"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -67,7 +85,7 @@
     "wof:lang_x_spoken":[
         "nep"
     ],
-    "wof:lastmodified":1553559956,
+    "wof:lastmodified":1564114302,
     "wof:name":"Province No. 3",
     "wof:parent_id":85632465,
     "wof:placetype":"region",

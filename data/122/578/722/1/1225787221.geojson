@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Bode"
+    ],
+    "name:pol_x_preferred":[
+        "Bode"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1225787221,
-    "wof:lastmodified":1537570158,
+    "wof:lastmodified":1564119368,
     "wof:name":"Bode",
     "wof:parent_id":1092048853,
     "wof:placetype":"locality",

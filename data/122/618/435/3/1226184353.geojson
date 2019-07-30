@@ -28,6 +28,15 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Baseri"
+    ],
+    "name:msa_x_preferred":[
+        "Baseri"
+    ],
+    "name:pol_x_preferred":[
+        "Baseri"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1226184353,
-    "wof:lastmodified":1537021108,
+    "wof:lastmodified":1564118177,
     "wof:name":"Baseri",
     "wof:parent_id":1092050535,
     "wof:placetype":"locality",

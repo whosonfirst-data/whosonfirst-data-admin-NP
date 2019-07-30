@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Khagalgaun"
+    ],
+    "name:mai_x_preferred":[
+        "\u0916\u0917\u093e\u0932\u0917\u093e\u0909\u0901"
+    ],
+    "name:msa_x_preferred":[
+        "Khagalgaun"
+    ],
+    "name:nep_x_preferred":[
+        "\u0916\u0917\u093e\u0932\u0917\u093e\u0909\u0901"
+    ],
+    "name:new_x_preferred":[
+        "\u0916\u0917\u0932\u0917\u093e\u0909\u0902"
+    ],
+    "name:pol_x_preferred":[
+        "Khagalgaun"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1310336101,
-    "wof:lastmodified":1536663916,
+    "wof:lastmodified":1564115125,
     "wof:name":"Khagalgaun",
     "wof:parent_id":1092050353,
     "wof:placetype":"locality",

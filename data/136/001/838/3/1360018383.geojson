@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "\u00c7\u00fcyya"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0437\u044e\u044f"
+    ],
+    "name:jpn_x_preferred":[
+        "\u8eca\u7259\u82e5\u30c6\u30a4\u5358\u4e8e"
+    ],
+    "name:kor_x_preferred":[
+        "\uac70\uc544\uc57d\uc81c\uc120\uc6b0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0437\u044e\u0439\u044f"
+    ],
+    "name:zho_x_preferred":[
+        "\u8eca\u7259\u55ae\u4e8e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1360018383,
-    "wof:lastmodified":1537040217,
+    "wof:lastmodified":1564115434,
     "wof:name":"Juya",
     "wof:parent_id":1092048527,
     "wof:placetype":"locality",

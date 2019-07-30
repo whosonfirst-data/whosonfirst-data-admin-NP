@@ -28,6 +28,18 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dabu"
+    ],
+    "name:deu_x_preferred":[
+        "Dabu"
+    ],
+    "name:fra_x_preferred":[
+        "Dabu"
+    ],
+    "name:ita_x_preferred":[
+        "Dabu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1326658489,
-    "wof:lastmodified":1536802125,
+    "wof:lastmodified":1564107156,
     "wof:name":"Dabu",
     "wof:parent_id":1092049963,
     "wof:placetype":"locality",

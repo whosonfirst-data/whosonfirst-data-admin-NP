@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bangai"
+    ],
+    "name:swe_x_preferred":[
+        "Bangai"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -45,7 +51,7 @@
         }
     ],
     "wof:id":1209252751,
-    "wof:lastmodified":1536292955,
+    "wof:lastmodified":1564112109,
     "wof:name":"Bangai",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

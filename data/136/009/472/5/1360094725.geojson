@@ -26,6 +26,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mai_x_preferred":[
+        "\u0917\u094b\u0920\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Gothi"
+    ],
+    "name:nep_x_preferred":[
+        "\u0917\u094b\u0920\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u0917\u094b\u0925\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Gothi"
+    ],
     "name:und_x_variant":[
         "Guthi",
         "Gothi"
@@ -62,7 +77,7 @@
         }
     ],
     "wof:id":1360094725,
-    "wof:lastmodified":1537676055,
+    "wof:lastmodified":1564115353,
     "wof:name":"Gothi",
     "wof:parent_id":1092048097,
     "wof:placetype":"locality",

@@ -28,6 +28,30 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u091c\u0941\u0915\u0947\u0928\u093e"
+    ],
+    "name:ceb_x_preferred":[
+        "Jukena"
+    ],
+    "name:fra_x_preferred":[
+        "Jukena"
+    ],
+    "name:mai_x_preferred":[
+        "\u091c\u0941\u0915\u0947\u0928\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Jukena"
+    ],
+    "name:nep_x_preferred":[
+        "\u091c\u0941\u0915\u0947\u0928\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u091c\u0941\u0915\u0947\u0928\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Jukena"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1243305591,
-    "wof:lastmodified":1537007881,
+    "wof:lastmodified":1564116068,
     "wof:name":"Jukena",
     "wof:parent_id":1092049537,
     "wof:placetype":"locality",

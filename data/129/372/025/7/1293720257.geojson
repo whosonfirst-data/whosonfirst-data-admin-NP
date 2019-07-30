@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Archhani"
+    ],
+    "name:mai_x_preferred":[
+        "\u0905\u0930\u094d\u091b\u093e\u0928\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Archhani"
+    ],
+    "name:nep_x_preferred":[
+        "\u0905\u0930\u094d\u091b\u093e\u0928\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u0905\u0930\u094d\u091b\u0928\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Archhani"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1293720257,
-    "wof:lastmodified":1536949215,
+    "wof:lastmodified":1564110137,
     "wof:name":"Archhani",
     "wof:parent_id":1092048763,
     "wof:placetype":"locality",

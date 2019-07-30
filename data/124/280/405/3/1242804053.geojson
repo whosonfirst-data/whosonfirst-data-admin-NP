@@ -28,6 +28,33 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Bagad"
+    ],
+    "name:cym_x_preferred":[
+        "Bagad"
+    ],
+    "name:eus_x_preferred":[
+        "Bagad"
+    ],
+    "name:fra_x_preferred":[
+        "Bagad"
+    ],
+    "name:glg_x_preferred":[
+        "Bagad"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30ac\u30c9"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\uac38\ub4dc"
+    ],
+    "name:pol_x_preferred":[
+        "Bagad"
+    ],
+    "name:spa_x_preferred":[
+        "Bagad"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +86,7 @@
         }
     ],
     "wof:id":1242804053,
-    "wof:lastmodified":1536737550,
+    "wof:lastmodified":1564116196,
     "wof:name":"Bagad",
     "wof:parent_id":1092048571,
     "wof:placetype":"locality",

@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u091d\u094c\u0916\u0947\u0932"
+    ],
+    "name:ceb_x_preferred":[
+        "Jhaukhel"
+    ],
+    "name:msa_x_preferred":[
+        "Jhaukhel"
+    ],
+    "name:nep_x_preferred":[
+        "\u091d\u094c\u0916\u0947\u0932"
+    ],
+    "name:new_x_preferred":[
+        "\u091d\u094c\u0916\u094d\u092f\u0903"
+    ],
+    "name:pol_x_preferred":[
+        "Jhaukhel"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1343499191,
-    "wof:lastmodified":1536690361,
+    "wof:lastmodified":1564108096,
     "wof:name":"Jhaukhel",
     "wof:parent_id":1092048853,
     "wof:placetype":"locality",

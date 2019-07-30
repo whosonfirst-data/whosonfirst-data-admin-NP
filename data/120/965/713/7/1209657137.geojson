@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0930\u094c\u0924\u0939\u091f(\u0938\u092a\u094d\u0924\u0930\u0940)"
+    ],
+    "name:ceb_x_preferred":[
+        "Rautahat"
+    ],
+    "name:mai_x_preferred":[
+        "\u0930\u094c\u0924\u0939\u091f"
+    ],
+    "name:msa_x_preferred":[
+        "Rautahat"
+    ],
+    "name:nep_x_preferred":[
+        "\u0930\u094c\u0924\u0939\u091f(\u0938\u092a\u094d\u0924\u0930\u0940)"
+    ],
+    "name:new_x_preferred":[
+        "\u0930\u094c\u0924\u0939\u091f \u0917\u093e\u0935\u093f\u0938"
+    ],
+    "name:pol_x_preferred":[
+        "Rautahat"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -45,7 +66,7 @@
         }
     ],
     "wof:id":1209657137,
-    "wof:lastmodified":1536280390,
+    "wof:lastmodified":1564111621,
     "wof:name":"Rautahat",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

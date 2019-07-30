@@ -28,6 +28,30 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0927\u0928\u091a\u094c\u0930"
+    ],
+    "name:ceb_x_preferred":[
+        "Dhanchaur"
+    ],
+    "name:fra_x_preferred":[
+        "Dhanchaur"
+    ],
+    "name:mai_x_preferred":[
+        "\u0927\u0928\u091a\u094c\u0930"
+    ],
+    "name:msa_x_preferred":[
+        "Dhanchaur"
+    ],
+    "name:nep_x_preferred":[
+        "\u0927\u0928\u091a\u094c\u0930"
+    ],
+    "name:new_x_preferred":[
+        "\u0927\u0928\u091a\u094c\u0930"
+    ],
+    "name:pol_x_preferred":[
+        "Dhanchaur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +61,7 @@
         "gn:id":7979866
     },
     "wof:country":"NP",
-    "wof:geomhash":"cfd2a4251c3419f51c972010e9bab107",
+    "wof:geomhash":"ad67800dd8e1afc030ea9ed96a70bb67",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +69,7 @@
         }
     ],
     "wof:id":1209245731,
-    "wof:lastmodified":1536293172,
+    "wof:lastmodified":1564111963,
     "wof:name":"Dhanchaur",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +80,9 @@
 },
   "bbox": [
     82.69844,
-    28.170720000000006,
+    28.17072000000001,
     82.69844,
-    28.170720000000006
+    28.17072000000001
 ],
   "geometry": {"coordinates":[82.69844000000001,28.17072000000001],"type":"Point"}
 }

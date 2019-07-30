@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Laharepauwa"
+    ],
+    "name:msa_x_preferred":[
+        "Laharepauwa"
+    ],
+    "name:nep_x_preferred":[
+        "\u0932\u0939\u0930\u0947\u092a\u094c\u0935\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Laharepouwa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u06c1\u0627\u0631\u06cc\u067e\u0648\u0648\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1276386681,
-    "wof:lastmodified":1537570153,
+    "wof:lastmodified":1564111367,
     "wof:name":"Laharepauwa",
     "wof:parent_id":1092048409,
     "wof:placetype":"locality",

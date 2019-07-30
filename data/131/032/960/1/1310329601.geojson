@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jhalari"
+    ],
+    "name:dty_x_preferred":[
+        "\u091d\u0932\u093e\u0930\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Jhalari"
+    ],
+    "name:nep_x_preferred":[
+        "\u091d\u0932\u093e\u0930\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u091d\u0932\u0947\u0930\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Jhalari"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1310329601,
-    "wof:lastmodified":1536673297,
+    "wof:lastmodified":1564115029,
     "wof:name":"Jhalari",
     "wof:parent_id":1092048227,
     "wof:placetype":"locality",

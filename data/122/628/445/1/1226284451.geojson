@@ -28,6 +28,33 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u092c\u0948\u0917\u0941\u0928\u094d\u0927\u0941\u0930\u093e"
+    ],
+    "name:ceb_x_preferred":[
+        "Baigundhura"
+    ],
+    "name:dty_x_preferred":[
+        "\u092c\u0948\u0917\u0941\u0928\u0927\u0941\u0930\u093e"
+    ],
+    "name:fra_x_preferred":[
+        "Baigundhura"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0948\u0917\u0941\u0928\u094d\u0927\u0941\u0930\u093e"
+    ],
+    "name:mai_x_preferred":[
+        "\u092c\u0948\u0917\u0941\u0928\u094d\u0927\u0941\u0930\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Baigundhara"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u0948\u0917\u0941\u0928\u094d\u0927\u0941\u0930\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Baigundhara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +86,7 @@
         }
     ],
     "wof:id":1226284451,
-    "wof:lastmodified":1536877023,
+    "wof:lastmodified":1564118030,
     "wof:name":"Baigundhura",
     "wof:parent_id":1092050367,
     "wof:placetype":"locality",

@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bate"
+    ],
+    "name:deu_x_preferred":[
+        "Bate"
+    ],
+    "name:fra_x_preferred":[
+        "Bate"
+    ],
+    "name:nld_x_preferred":[
+        "Bate"
+    ],
+    "name:sco_x_preferred":[
+        "Bate"
+    ],
+    "name:swe_x_preferred":[
+        "Bate"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1293142315,
-    "wof:lastmodified":1536788166,
+    "wof:lastmodified":1564109565,
     "wof:name":"Bate",
     "wof:parent_id":1092049297,
     "wof:placetype":"locality",

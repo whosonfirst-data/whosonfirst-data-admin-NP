@@ -28,6 +28,15 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mai_x_preferred":[
+        "\u0935\u093e\u0938\u094d\u0924\u093f\u092e"
+    ],
+    "name:msa_x_preferred":[
+        "Basteem"
+    ],
+    "name:pol_x_preferred":[
+        "Basteem"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1343995717,
-    "wof:lastmodified":1536968726,
+    "wof:lastmodified":1564107685,
     "wof:name":"Bastim",
     "wof:parent_id":1092049883,
     "wof:placetype":"locality",

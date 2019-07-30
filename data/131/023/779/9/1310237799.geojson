@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gadariya"
+    ],
+    "name:dty_x_preferred":[
+        "\u0917\u0926\u0930\u093f\u092f\u093e"
+    ],
+    "name:mai_x_preferred":[
+        "\u0917\u0926\u0930\u093f\u092f\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Gadariya"
+    ],
+    "name:nep_x_preferred":[
+        "\u0917\u0926\u0930\u093f\u092f\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Gadariya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1310237799,
-    "wof:lastmodified":1536805482,
+    "wof:lastmodified":1564114380,
     "wof:name":"Gadariya",
     "wof:parent_id":1092048743,
     "wof:placetype":"locality",

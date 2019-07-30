@@ -28,6 +28,15 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kotak"
+    ],
+    "name:deu_x_preferred":[
+        "Kotak"
+    ],
+    "name:swe_x_preferred":[
+        "Kotak"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1260312517,
-    "wof:lastmodified":1536673098,
+    "wof:lastmodified":1564113975,
     "wof:name":"Kotak",
     "wof:parent_id":1092050353,
     "wof:placetype":"locality",

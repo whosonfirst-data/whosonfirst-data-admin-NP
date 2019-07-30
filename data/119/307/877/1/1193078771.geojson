@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0924\u093e\u092e\u094d\u0915\u0941"
+    ],
+    "name:ceb_x_preferred":[
+        "Tamku"
+    ],
+    "name:mai_x_preferred":[
+        "\u0924\u093e\u092e\u094d\u0915\u0941"
+    ],
+    "name:msa_x_preferred":[
+        "Tamku"
+    ],
+    "name:nep_x_preferred":[
+        "\u0924\u093e\u092e\u094d\u0915\u0941"
+    ],
+    "name:new_x_preferred":[
+        "\u0924\u092e\u094d\u0915\u0941"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1193078771,
-    "wof:lastmodified":1536382983,
+    "wof:lastmodified":1564113030,
     "wof:name":"Tamku",
     "wof:parent_id":1092049597,
     "wof:placetype":"locality",

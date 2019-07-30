@@ -28,6 +28,57 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u0440\u0431\u0430\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Korban"
+    ],
+    "name:deu_x_preferred":[
+        "Korbanot"
+    ],
+    "name:epo_x_preferred":[
+        "Korban"
+    ],
+    "name:fra_x_preferred":[
+        "Korban"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e8\u05d1\u05df"
+    ],
+    "name:ind_x_preferred":[
+        "Kurban"
+    ],
+    "name:ita_x_preferred":[
+        "Korban"
+    ],
+    "name:khm_x_preferred":[
+        "\u1782\u17d0\u179a\u1794\u17b6\u1793\u17cb"
+    ],
+    "name:lit_x_preferred":[
+        "Korbanas"
+    ],
+    "name:pol_x_preferred":[
+        "Korban"
+    ],
+    "name:por_x_preferred":[
+        "Korban"
+    ],
+    "name:spa_x_preferred":[
+        "Korb\u00e1n"
+    ],
+    "name:tgl_x_preferred":[
+        "Korban"
+    ],
+    "name:tur_x_preferred":[
+        "Korban"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0631\u0628\u0627\u0646\u06cc"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e7\u05e8\u05d1\u05df"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +110,7 @@
         }
     ],
     "wof:id":1360013851,
-    "wof:lastmodified":1537046604,
+    "wof:lastmodified":1564115417,
     "wof:name":"Korban",
     "wof:parent_id":1092049377,
     "wof:placetype":"locality",

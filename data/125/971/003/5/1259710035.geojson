@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ruga"
+    ],
+    "name:mai_x_preferred":[
+        "\u0930\u0941\u0917\u093e \u0917\u093e\u0935\u093f\u0938"
+    ],
+    "name:msa_x_preferred":[
+        "Ruga"
+    ],
+    "name:nep_x_preferred":[
+        "\u0930\u0941\u0917\u093e \u0917\u093e\u0935\u093f\u0938"
+    ],
+    "name:pol_x_preferred":[
+        "Ruga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1259710035,
-    "wof:lastmodified":1537570151,
+    "wof:lastmodified":1564117551,
     "wof:name":"Ruga",
     "wof:parent_id":1092048339,
     "wof:placetype":"locality",

@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dandafaya"
+    ],
+    "name:mai_x_preferred":[
+        "\u0921\u093e\u0901\u0921\u093e\u092b\u093e\u092f\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Dandafaya"
+    ],
+    "name:nep_x_preferred":[
+        "\u0921\u093e\u0901\u0921\u093e\u092b\u093e\u092f\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u0921\u093e\u0902\u0921\u093e\u092b\u092f\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Dandafaya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1327162613,
-    "wof:lastmodified":1537067538,
+    "wof:lastmodified":1564107333,
     "wof:name":"Dandaphaya",
     "wof:parent_id":1092050353,
     "wof:placetype":"locality",

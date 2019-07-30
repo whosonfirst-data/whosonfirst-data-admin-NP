@@ -28,6 +28,33 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0935\u0948\u0930\u0935\u093e"
+    ],
+    "name:ceb_x_preferred":[
+        "Bairawa"
+    ],
+    "name:dty_x_preferred":[
+        "\u0935\u0948\u0930\u0935\u093e \u0917\u093e\u0935\u093f\u0938"
+    ],
+    "name:fra_x_preferred":[
+        "Bairawa"
+    ],
+    "name:mai_x_preferred":[
+        "\u0935\u0948\u0930\u0935\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Bairawa"
+    ],
+    "name:nep_x_preferred":[
+        "\u0935\u0948\u0930\u0935\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u092c\u0948\u0930\u0935\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Bairawa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +86,7 @@
         }
     ],
     "wof:id":1277118209,
-    "wof:lastmodified":1536716805,
+    "wof:lastmodified":1564111475,
     "wof:name":"Bairawa",
     "wof:parent_id":1092050413,
     "wof:placetype":"locality",

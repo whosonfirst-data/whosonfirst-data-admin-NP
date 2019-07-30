@@ -28,6 +28,30 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dhuligada"
+    ],
+    "name:fra_x_preferred":[
+        "Dhuligada"
+    ],
+    "name:hin_x_preferred":[
+        "\u0927\u0941\u0932\u093f\u0917\u093e\u0921\u093e"
+    ],
+    "name:mai_x_preferred":[
+        "\u0927\u0941\u0932\u093f\u0917\u093e\u0921"
+    ],
+    "name:msa_x_preferred":[
+        "Dhuligada"
+    ],
+    "name:nep_x_preferred":[
+        "\u0927\u0941\u0932\u093f\u0917\u093e\u0921"
+    ],
+    "name:new_x_preferred":[
+        "\u0927\u0941\u0932\u093f\u0917\u093e\u0921\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Dhuligada"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1276475713,
-    "wof:lastmodified":1537082146,
+    "wof:lastmodified":1564110980,
     "wof:name":"Dhuligada",
     "wof:parent_id":1092050347,
     "wof:placetype":"locality",

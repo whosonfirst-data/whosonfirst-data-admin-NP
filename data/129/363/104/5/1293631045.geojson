@@ -28,6 +28,18 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sau"
+    ],
+    "name:deu_x_preferred":[
+        "Sau"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Sau"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1293631045,
-    "wof:lastmodified":1537074178,
+    "wof:lastmodified":1564109093,
     "wof:name":"Sau",
     "wof:parent_id":1092049331,
     "wof:placetype":"locality",

@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u092c\u0932\u092e\u094d\u0924\u093e"
+    ],
+    "name:ceb_x_preferred":[
+        "Balamta"
+    ],
+    "name:fra_x_preferred":[
+        "Balamta"
+    ],
+    "name:mai_x_preferred":[
+        "\u092c\u0932\u092e\u094d\u0924\u093e"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u0932\u092e\u094d\u0924\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u092c\u0932\u092e\u094d\u0924\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Balamta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -46,7 +67,7 @@
         }
     ],
     "wof:id":1209146779,
-    "wof:lastmodified":1537570157,
+    "wof:lastmodified":1564112236,
     "wof:name":"Balamta",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

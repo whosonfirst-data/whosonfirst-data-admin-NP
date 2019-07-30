@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Belhi"
+    ],
+    "name:pol_x_preferred":[
+        "Belhi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1276165363,
-    "wof:lastmodified":1537003072,
+    "wof:lastmodified":1564110516,
     "wof:name":"Belhi",
     "wof:parent_id":1092048485,
     "wof:placetype":"locality",

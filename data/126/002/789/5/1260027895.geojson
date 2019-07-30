@@ -28,6 +28,9 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u09b9\u09be\u09a8\u09be"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1260027895,
-    "wof:lastmodified":1537065273,
+    "wof:lastmodified":1564114296,
     "wof:name":"Bahana",
     "wof:parent_id":1092048173,
     "wof:placetype":"locality",

@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0938\u094b\u092f\u093e\u0915"
+    ],
+    "name:ceb_x_preferred":[
+        "Soyak"
+    ],
+    "name:mai_x_preferred":[
+        "\u0938\u094b\u092f\u093e\u0915"
+    ],
+    "name:msa_x_preferred":[
+        "Soyak"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u094b\u092f\u093e\u0915"
+    ],
+    "name:nld_x_preferred":[
+        "Soyak"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -45,7 +63,7 @@
         }
     ],
     "wof:id":1209352357,
-    "wof:lastmodified":1536289701,
+    "wof:lastmodified":1564112352,
     "wof:name":"Soyak",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

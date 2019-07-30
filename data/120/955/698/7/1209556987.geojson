@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Madi"
+    ],
+    "name:ceb_x_preferred":[
+        "Madi"
+    ],
+    "name:deu_x_preferred":[
+        "Madi"
+    ],
+    "name:fra_x_preferred":[
+        "Madi"
+    ],
+    "name:swe_x_preferred":[
+        "Madi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +52,7 @@
         "gn:id":7976006
     },
     "wof:country":"NP",
-    "wof:geomhash":"4c9d0036ab44c0bd9308da67aebfb9e8",
+    "wof:geomhash":"7158760a8994f11ede122f8a827362b5",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +60,7 @@
         }
     ],
     "wof:id":1209556987,
-    "wof:lastmodified":1536283513,
+    "wof:lastmodified":1564111782,
     "wof:name":"Madi",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +71,9 @@
 },
   "bbox": [
     83.63205,
-    27.817120000000006,
+    27.81712000000001,
     83.63205,
-    27.817120000000006
+    27.81712000000001
 ],
   "geometry": {"coordinates":[83.63205000000001,27.81712000000001],"type":"Point"}
 }

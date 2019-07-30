@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chaulahi"
+    ],
+    "name:msa_x_preferred":[
+        "Chaulahi"
+    ],
+    "name:nep_x_preferred":[
+        "\u091a\u0948\u0932\u093e\u0939\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u091a\u094c\u0932\u093e\u0939\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Chaulahi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1326856447,
-    "wof:lastmodified":1537013223,
+    "wof:lastmodified":1564106796,
     "wof:name":"Chailahi",
     "wof:parent_id":1092048605,
     "wof:placetype":"locality",

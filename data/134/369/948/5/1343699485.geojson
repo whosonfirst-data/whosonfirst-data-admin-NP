@@ -28,6 +28,18 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dadarbairiya"
+    ],
+    "name:mai_x_preferred":[
+        "\u0926\u093e\u0926\u0930\u092c\u0948\u0930\u093f\u092f\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Darbairiya"
+    ],
+    "name:pol_x_preferred":[
+        "Dadarbairiya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1343699485,
-    "wof:lastmodified":1536898700,
+    "wof:lastmodified":1564108331,
     "wof:name":"Dadarbairiya",
     "wof:parent_id":1092048303,
     "wof:placetype":"locality",

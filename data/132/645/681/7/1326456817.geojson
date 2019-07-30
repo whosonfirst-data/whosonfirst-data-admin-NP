@@ -28,6 +28,33 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Latok-Gruppe"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u062a\u0648\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Latok"
+    ],
+    "name:fra_x_preferred":[
+        "Latok"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30c8\u30c3\u30af"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0644\u06cc\u0679\u0648\u06a9"
+    ],
+    "name:pol_x_preferred":[
+        "Latok"
+    ],
+    "name:spa_x_preferred":[
+        "Grupo Latok"
+    ],
+    "name:swe_x_preferred":[
+        "Latok"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +86,7 @@
         }
     ],
     "wof:id":1326456817,
-    "wof:lastmodified":1537089600,
+    "wof:lastmodified":1564106204,
     "wof:name":"Latok",
     "wof:parent_id":1092050353,
     "wof:placetype":"locality",

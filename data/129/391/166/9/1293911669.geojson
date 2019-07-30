@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Pereni"
+    ],
+    "name:ron_x_preferred":[
+        "Comuna Pereni"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1293911669,
-    "wof:lastmodified":1536672807,
+    "wof:lastmodified":1564108892,
     "wof:name":"Pereni",
     "wof:parent_id":1092048097,
     "wof:placetype":"locality",

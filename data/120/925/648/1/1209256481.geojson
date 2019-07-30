@@ -28,6 +28,18 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Pipaldanda"
+    ],
+    "name:nep_x_preferred":[
+        "\u092a\u093f\u092a\u0932\u0921\u093e\u0901\u0921\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u092a\u093f\u092a\u0932\u0921\u093e\u0902\u0921\u093e \u0917\u093e\u0935\u093f\u0938"
+    ],
+    "name:pol_x_preferred":[
+        "Pipaldanda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +49,7 @@
         "gn:id":8000607
     },
     "wof:country":"NP",
-    "wof:geomhash":"d813a98d45e2a75d133ad88c3ba16c37",
+    "wof:geomhash":"bb82ed21253fecf323b9ebc9b24edfef",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +57,7 @@
         }
     ],
     "wof:id":1209256481,
-    "wof:lastmodified":1536292834,
+    "wof:lastmodified":1564112140,
     "wof:name":"Pipaldanda",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +68,9 @@
 },
   "bbox": [
     83.7778,
-    28.086890000000004,
+    28.08689,
     83.7778,
-    28.086890000000004
+    28.08689
 ],
   "geometry": {"coordinates":[83.7778,28.08689],"type":"Point"}
 }

@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Khali"
+    ],
+    "name:por_x_preferred":[
+        "Khali"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1193044307,
-    "wof:lastmodified":1536372611,
+    "wof:lastmodified":1564113274,
     "wof:name":"Khali",
     "wof:parent_id":1092048809,
     "wof:placetype":"locality",

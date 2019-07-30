@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0938\u0941\u0919\u0926\u0947\u0932"
+    ],
+    "name:ceb_x_preferred":[
+        "Sungdel"
+    ],
+    "name:mai_x_preferred":[
+        "\u0938\u0941\u0919\u0926\u0947\u0932"
+    ],
+    "name:msa_x_preferred":[
+        "Sungdel"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u0941\u0919\u0926\u0947\u0932"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u0941\u0902\u0917\u0926\u0947\u0932"
+    ],
+    "name:pol_x_preferred":[
+        "Sungdel"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1259625109,
-    "wof:lastmodified":1536654739,
+    "wof:lastmodified":1564117307,
     "wof:name":"Sungdel",
     "wof:parent_id":1092050841,
     "wof:placetype":"locality",

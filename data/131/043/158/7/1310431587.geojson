@@ -28,6 +28,18 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nari"
+    ],
+    "name:deu_x_preferred":[
+        "Nari"
+    ],
+    "name:swe_x_preferred":[
+        "Nari"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0440\u0456"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1310431587,
-    "wof:lastmodified":1537022678,
+    "wof:lastmodified":1564114888,
     "wof:name":"Nari",
     "wof:parent_id":1092048527,
     "wof:placetype":"locality",

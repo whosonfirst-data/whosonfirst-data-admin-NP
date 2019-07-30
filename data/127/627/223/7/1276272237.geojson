@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kapilakot"
+    ],
+    "name:mai_x_preferred":[
+        "\u0915\u092a\u093f\u0932\u093e\u0915\u094b\u091f"
+    ],
+    "name:msa_x_preferred":[
+        "Kapilakot"
+    ],
+    "name:nep_x_preferred":[
+        "\u0915\u092a\u093f\u0932\u093e\u0915\u094b\u091f"
+    ],
+    "name:new_x_preferred":[
+        "\u0915\u092a\u093f\u0932\u0915\u094b\u0924"
+    ],
+    "name:pol_x_preferred":[
+        "Kapilakot"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +78,7 @@
         }
     ],
     "wof:id":1276272237,
-    "wof:lastmodified":1537570155,
+    "wof:lastmodified":1564110460,
     "wof:name":"Kapilakot",
     "wof:parent_id":1092049679,
     "wof:placetype":"locality",

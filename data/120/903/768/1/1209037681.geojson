@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Khirsain"
+    ],
+    "name:fra_x_preferred":[
+        "Khirsain"
+    ],
+    "name:mai_x_preferred":[
+        "\u0916\u093f\u0930\u094d\u0938\u0947\u0928"
+    ],
+    "name:msa_x_preferred":[
+        "Khirsain"
+    ],
+    "name:nep_x_preferred":[
+        "\u0916\u093f\u0930\u094d\u0938\u0947\u0928"
+    ],
+    "name:new_x_preferred":[
+        "\u091d\u093f\u0930\u094d\u0938\u093e\u0908\u0902"
+    ],
+    "name:pol_x_preferred":[
+        "Khirsain"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +58,7 @@
         "gn:id":7936611
     },
     "wof:country":"NP",
-    "wof:geomhash":"6fbd8536b39dcb41dd7149d6b724b74c",
+    "wof:geomhash":"f0a36ec26587ce73905d6c98c5fe04ad",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +66,7 @@
         }
     ],
     "wof:id":1209037681,
-    "wof:lastmodified":1536299647,
+    "wof:lastmodified":1564112420,
     "wof:name":"Khirsain",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +77,9 @@
 },
   "bbox": [
     81.78733000000003,
-    29.003490000000006,
+    29.00349000000001,
     81.78733000000003,
-    29.003490000000006
+    29.00349000000001
 ],
   "geometry": {"coordinates":[81.78733000000003,29.00349000000001],"type":"Point"}
 }

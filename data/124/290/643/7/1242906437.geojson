@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gaguda"
+    ],
+    "name:msa_x_preferred":[
+        "Gaguda"
+    ],
+    "name:nep_x_preferred":[
+        "\u0917\u0917\u0941\u0921\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u0917\u0917\u0941\u0921\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Gaguda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1242906437,
-    "wof:lastmodified":1537083929,
+    "wof:lastmodified":1564116943,
     "wof:name":"Gaguda",
     "wof:parent_id":1092048527,
     "wof:placetype":"locality",

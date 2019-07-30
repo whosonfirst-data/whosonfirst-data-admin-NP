@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mahadevpatti"
+    ],
+    "name:fra_x_preferred":[
+        "Mahadevpatti"
+    ],
+    "name:mai_x_preferred":[
+        "\u092e\u0939\u093e\u0926\u0947\u0935\u092a\u091f\u094d\u091f\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Mahadevpatti"
+    ],
+    "name:nep_x_preferred":[
+        "\u092e\u0939\u093e\u0926\u0947\u0935\u092a\u091f\u094d\u091f\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u092e\u0939\u093e\u0926\u0947\u0935\u092a\u093e\u091f\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Mahadevpatti"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1225886761,
-    "wof:lastmodified":1536954671,
+    "wof:lastmodified":1564118591,
     "wof:name":"Mahadevpatti",
     "wof:parent_id":1092050709,
     "wof:placetype":"locality",

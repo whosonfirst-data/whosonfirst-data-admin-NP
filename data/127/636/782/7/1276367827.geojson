@@ -28,6 +28,30 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Agrale"
+    ],
+    "name:fra_x_preferred":[
+        "Agrale"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30b0\u30e9\u30ec"
+    ],
+    "name:pol_x_preferred":[
+        "Agrale"
+    ],
+    "name:por_x_preferred":[
+        "Agrale"
+    ],
+    "name:rus_x_preferred":[
+        "Agrale"
+    ],
+    "name:slv_x_preferred":[
+        "Agrale"
+    ],
+    "name:spa_x_preferred":[
+        "Agrale"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1276367827,
-    "wof:lastmodified":1536732634,
+    "wof:lastmodified":1564111400,
     "wof:name":"Agrale",
     "wof:parent_id":1092049579,
     "wof:placetype":"locality",

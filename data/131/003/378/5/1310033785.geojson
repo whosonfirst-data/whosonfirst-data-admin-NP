@@ -28,6 +28,15 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Naima"
+    ],
+    "name:fra_x_preferred":[
+        "Naima"
+    ],
+    "name:ita_x_preferred":[
+        "Naima"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1310033785,
-    "wof:lastmodified":1537096765,
+    "wof:lastmodified":1564114949,
     "wof:name":"Naima",
     "wof:parent_id":1092049455,
     "wof:placetype":"locality",

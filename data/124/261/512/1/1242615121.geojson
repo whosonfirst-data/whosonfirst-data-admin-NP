@@ -28,6 +28,30 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lumle"
+    ],
+    "name:deu_x_preferred":[
+        "Lumle"
+    ],
+    "name:mai_x_preferred":[
+        "\u0932\u0941\u092e\u094d\u0932\u0947"
+    ],
+    "name:msa_x_preferred":[
+        "Lumle"
+    ],
+    "name:nep_x_preferred":[
+        "\u0932\u0941\u092e\u094d\u0932\u0947"
+    ],
+    "name:new_x_preferred":[
+        "\u0932\u0941\u092e\u094d\u0932\u0947"
+    ],
+    "name:pol_x_preferred":[
+        "Lumle"
+    ],
+    "name:slv_x_preferred":[
+        "Lumle"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1242615121,
-    "wof:lastmodified":1537008845,
+    "wof:lastmodified":1564116386,
     "wof:name":"Lumle",
     "wof:parent_id":1092049331,
     "wof:placetype":"locality",

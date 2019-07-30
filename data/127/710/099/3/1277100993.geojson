@@ -28,6 +28,9 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u73ed\u5716"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1277100993,
-    "wof:lastmodified":1536741260,
+    "wof:lastmodified":1564111437,
     "wof:name":"Bhantu",
     "wof:parent_id":1092050583,
     "wof:placetype":"locality",

@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dehimandau"
+    ],
+    "name:mai_x_preferred":[
+        "\u0926\u0947\u0939\u0940\u092e\u093e\u0923\u094d\u0921\u094c\u0902"
+    ],
+    "name:msa_x_preferred":[
+        "Dehimandau"
+    ],
+    "name:nep_x_preferred":[
+        "\u0926\u0947\u0939\u0940\u092e\u093e\u0923\u094d\u0921\u094c\u0902"
+    ],
+    "name:new_x_preferred":[
+        "\u0926\u0947\u0939\u0940\u092e\u093e\u0923\u094d\u0921\u094c"
+    ],
+    "name:pol_x_preferred":[
+        "Dehimandau"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1293520265,
-    "wof:lastmodified":1536739711,
+    "wof:lastmodified":1564109078,
     "wof:name":"Dehimandau",
     "wof:parent_id":1092050255,
     "wof:placetype":"locality",

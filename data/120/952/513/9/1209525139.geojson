@@ -25,8 +25,23 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0628\u0644\u0627\u0646"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0628\u0644\u0627\u0646"
+    ],
     "name:nep_x_preferred":[
         "\u1e0c\u0101bl\u0101\u1e45"
+    ],
+    "name:pol_x_preferred":[
+        "Dablan"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u06cc\u0644\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Dablan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -45,7 +60,7 @@
         }
     ],
     "wof:id":1209525139,
-    "wof:lastmodified":1537676086,
+    "wof:lastmodified":1564111741,
     "wof:name":"Dablan",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

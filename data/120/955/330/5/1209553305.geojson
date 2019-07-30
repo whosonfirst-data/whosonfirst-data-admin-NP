@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kintang"
+    ],
+    "name:mai_x_preferred":[
+        "\u0915\u093f\u0928\u094d\u0924\u093e\u0919\u094d\u0917"
+    ],
+    "name:msa_x_preferred":[
+        "Kintang"
+    ],
+    "name:nep_x_preferred":[
+        "\u0915\u093f\u0928\u094d\u0924\u093e\u0919\u094d\u0917"
+    ],
+    "name:new_x_preferred":[
+        "\u0915\u093f\u0928\u094d\u0924\u093e\u0919"
+    ],
+    "name:pol_x_preferred":[
+        "Kintang"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -45,7 +63,7 @@
         }
     ],
     "wof:id":1209553305,
-    "wof:lastmodified":1536283627,
+    "wof:lastmodified":1564111750,
     "wof:name":"Kintang",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

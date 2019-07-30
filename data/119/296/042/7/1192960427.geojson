@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Baramchi"
+    ],
+    "name:fra_x_preferred":[
+        "Baramchi"
+    ],
+    "name:msa_x_preferred":[
+        "Baramchi"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u0930\u093e\u092e\u094d\u091a\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Baramchi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1192960427,
-    "wof:lastmodified":1536366335,
+    "wof:lastmodified":1564113387,
     "wof:name":"Baramchi",
     "wof:parent_id":1092049755,
     "wof:placetype":"locality",

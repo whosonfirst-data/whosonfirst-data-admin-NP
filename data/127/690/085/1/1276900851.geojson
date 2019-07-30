@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Sain"
+    ],
+    "name:rus_x_preferred":[
+        "Sain Records"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1276900851,
-    "wof:lastmodified":1537012483,
+    "wof:lastmodified":1564111202,
     "wof:name":"Sain",
     "wof:parent_id":1092048527,
     "wof:placetype":"locality",

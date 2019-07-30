@@ -28,6 +28,48 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Thali"
+    ],
+    "name:fin_x_preferred":[
+        "Thali"
+    ],
+    "name:fra_x_preferred":[
+        "Thali"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa5\u0abe\u0ab3\u0ac0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05dc\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0925\u093e\u0932\u0940"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0570\u0561\u056c\u056b"
+    ],
+    "name:ind_x_preferred":[
+        "Thali"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30fc\u30ea\u30fc"
+    ],
+    "name:nld_x_preferred":[
+        "Thalis"
+    ],
+    "name:pol_x_preferred":[
+        "Thali"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0445\u0430\u043b\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Thali"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0445\u0430\u043b\u0456"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +79,7 @@
         "gn:id":7994143
     },
     "wof:country":"NP",
-    "wof:geomhash":"2c7a7a58020f16495409707a669ec56b",
+    "wof:geomhash":"70be98e7bf3547f3e3b1cb11beed4d0e",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +87,7 @@
         }
     ],
     "wof:id":1209143661,
-    "wof:lastmodified":1536296426,
+    "wof:lastmodified":1564112224,
     "wof:name":"Thali",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +98,9 @@
 },
   "bbox": [
     86.25074000000002,
-    27.004490000000004,
+    27.00449,
     86.25074000000002,
-    27.004490000000004
+    27.00449
 ],
   "geometry": {"coordinates":[86.25074000000002,27.00449],"type":"Point"}
 }

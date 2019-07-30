@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ghorthali"
+    ],
+    "name:fra_x_preferred":[
+        "Ghorthali"
+    ],
+    "name:msa_x_preferred":[
+        "Ghorthali"
+    ],
+    "name:nep_x_preferred":[
+        "\u0918\u094b\u0930\u094d\u0925\u0932\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u0918\u094b\u0930\u094d\u0925\u093e\u0932\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Ghorthali"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1259431013,
-    "wof:lastmodified":1536935034,
+    "wof:lastmodified":1564117892,
     "wof:name":"Ghorthali",
     "wof:parent_id":1092049755,
     "wof:placetype":"locality",

@@ -27,6 +27,15 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Gorkha"
+    ],
+    "name:cat_x_preferred":[
+        "Gorkha"
+    ],
+    "name:deu_x_preferred":[
+        "Gorkha"
+    ],
     "name:eng_x_preferred":[
         "Gorkha Municipality"
     ],
@@ -34,10 +43,55 @@
         "Gorkha",
         "Prithivi Narayan Municipality"
     ],
+    "name:eus_x_preferred":[
+        "Gorkha"
+    ],
+    "name:fin_x_preferred":[
+        "Gorkha"
+    ],
+    "name:fra_x_preferred":[
+        "Gorkha"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0943\u0925\u094d\u0935\u0940\u0928\u093e\u0930\u093e\u092f\u0923"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ea\u30c8\u30d3\u30ca\u30e9\u30e4\u30f3"
+    ],
+    "name:msa_x_preferred":[
+        "Prithbinarayan"
+    ],
+    "name:nep_x_preferred":[
+        "\u0917\u094b\u0930\u0916\u093e \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u092a\u0943\u0925\u094d\u0935\u0940\u0928\u093e\u0930\u093e\u092f\u0923 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Gorkha"
+    ],
+    "name:nor_x_preferred":[
+        "Gorkha"
+    ],
+    "name:pol_x_preferred":[
+        "Gorkha"
+    ],
+    "name:por_x_preferred":[
+        "Gorkha"
+    ],
+    "name:swe_x_preferred":[
+        "Gurkha"
+    ],
     "name:und_x_variant":[
         "Gurkha",
         "Gorakha",
         "Gorkh\u0101"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0631\u062a\u06be\u0648\u06cc \u0646\u0627\u0631\u0627\u06cc\u0646"
+    ],
+    "name:zho_x_preferred":[
+        "\u5ed3\u723e\u5580"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +125,7 @@
         }
     ],
     "wof:id":1243564267,
-    "wof:lastmodified":1537676055,
+    "wof:lastmodified":1564116657,
     "wof:name":"Gorkha",
     "wof:parent_id":1092050351,
     "wof:placetype":"locality",

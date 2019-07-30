@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sanne"
+    ],
+    "name:dan_x_preferred":[
+        "Sanne"
+    ],
+    "name:deu_x_preferred":[
+        "Sanne"
+    ],
+    "name:ita_x_preferred":[
+        "Sanne"
+    ],
+    "name:nld_x_preferred":[
+        "Sanne"
+    ],
+    "name:swe_x_preferred":[
+        "Sanne"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1343609733,
-    "wof:lastmodified":1537027083,
+    "wof:lastmodified":1564108452,
     "wof:name":"Sanne",
     "wof:parent_id":1092049207,
     "wof:placetype":"locality",

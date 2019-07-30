@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u092e\u0941\u0930\u094d\u0924\u0940\u0922\u0941\u0919\u094d\u0917\u093e"
+    ],
+    "name:ceb_x_preferred":[
+        "Murtidhunga"
+    ],
+    "name:mai_x_preferred":[
+        "\u092e\u0941\u0930\u094d\u0924\u0940\u0922\u0941\u0919\u094d\u0917\u093e"
+    ],
+    "name:nep_x_preferred":[
+        "\u092e\u0941\u0930\u094d\u0924\u0940\u0922\u0941\u0919\u094d\u0917\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u092e\u0941\u0930\u094d\u0924\u093f\u0922\u0941\u0902\u0917\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Murtidhunga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1310053691,
-    "wof:lastmodified":1537068345,
+    "wof:lastmodified":1564115175,
     "wof:name":"Murtidhunga",
     "wof:parent_id":1092049207,
     "wof:placetype":"locality",

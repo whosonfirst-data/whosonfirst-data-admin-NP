@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Chinde"
+    ],
+    "name:fra_x_preferred":[
+        "Chinde"
+    ],
+    "name:por_x_preferred":[
+        "Chinde"
+    ],
+    "name:ron_x_preferred":[
+        "Chinde"
+    ],
+    "name:spa_x_preferred":[
+        "Chinde"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0438\u043d\u0434\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1226791501,
-    "wof:lastmodified":1536649445,
+    "wof:lastmodified":1564118968,
     "wof:name":"Chinde",
     "wof:parent_id":1092048887,
     "wof:placetype":"locality",

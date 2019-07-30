@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rajahar"
+    ],
+    "name:fra_x_preferred":[
+        "Rajahar"
+    ],
+    "name:mai_x_preferred":[
+        "\u0930\u091c\u0939\u0930"
+    ],
+    "name:msa_x_preferred":[
+        "Rajahar"
+    ],
+    "name:nep_x_preferred":[
+        "\u0930\u091c\u0939\u0930"
+    ],
+    "name:pol_x_preferred":[
+        "Rajahar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1226180027,
-    "wof:lastmodified":1537026976,
+    "wof:lastmodified":1564118175,
     "wof:name":"Rajahar",
     "wof:parent_id":1092050413,
     "wof:placetype":"locality",

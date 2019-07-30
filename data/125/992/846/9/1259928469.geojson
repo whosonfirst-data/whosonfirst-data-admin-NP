@@ -28,6 +28,30 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0938\u0939\u0938\u094c\u0932\u093e"
+    ],
+    "name:ceb_x_preferred":[
+        "Sahasaula"
+    ],
+    "name:mai_x_preferred":[
+        "\u0938\u0939\u0938\u094c\u0932\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Sahasaula"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u0939\u0938\u094c\u0932\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u0939\u0938\u094c\u0932\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Sahasaula"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06c1\u0627\u0633\u0648\u0644\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +83,7 @@
         }
     ],
     "wof:id":1259928469,
-    "wof:lastmodified":1536714853,
+    "wof:lastmodified":1564117702,
     "wof:name":"Sahasaula",
     "wof:parent_id":1092050709,
     "wof:placetype":"locality",

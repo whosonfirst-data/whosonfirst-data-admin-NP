@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u091d\u094d\u092f\u093e\u0915\u0941"
+    ],
+    "name:ceb_x_preferred":[
+        "Jhyaku"
+    ],
+    "name:mai_x_preferred":[
+        "\u091d\u094d\u092f\u093e\u0915\u0941"
+    ],
+    "name:msa_x_preferred":[
+        "Jhyaku"
+    ],
+    "name:nep_x_preferred":[
+        "\u091d\u094d\u092f\u093e\u0915\u0941"
+    ],
+    "name:new_x_preferred":[
+        "\u091d\u094d\u092f\u093e\u0915\u0941"
+    ],
+    "name:pol_x_preferred":[
+        "Jhyaku"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1276816675,
-    "wof:lastmodified":1536626540,
+    "wof:lastmodified":1564110274,
     "wof:name":"Jhyaku",
     "wof:parent_id":1092050535,
     "wof:placetype":"locality",

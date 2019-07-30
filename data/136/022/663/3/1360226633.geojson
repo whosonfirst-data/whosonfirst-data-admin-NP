@@ -28,6 +28,33 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u092b\u093f\u0926\u093f\u092e"
+    ],
+    "name:ceb_x_preferred":[
+        "Phidim"
+    ],
+    "name:deu_x_preferred":[
+        "Phidim"
+    ],
+    "name:mai_x_preferred":[
+        "\u092b\u093f\u0926\u093f\u092e \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Phidim"
+    ],
+    "name:nep_x_preferred":[
+        "\u092b\u093f\u0926\u093f\u092e"
+    ],
+    "name:new_x_preferred":[
+        "\u092b\u093f\u0926\u093f\u092e"
+    ],
+    "name:pol_x_preferred":[
+        "Phidim"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06be\u06cc\u062f\u06cc\u0645"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +86,7 @@
         }
     ],
     "wof:id":1360226633,
-    "wof:lastmodified":1536741256,
+    "wof:lastmodified":1564115339,
     "wof:name":"Phidim",
     "wof:parent_id":1092049813,
     "wof:placetype":"locality",

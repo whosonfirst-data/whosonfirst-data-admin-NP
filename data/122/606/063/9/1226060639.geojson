@@ -25,8 +25,23 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Batara"
+    ],
+    "name:deu_x_preferred":[
+        "Batara"
+    ],
+    "name:fra_x_preferred":[
+        "Batara"
+    ],
     "name:nep_x_preferred":[
         "Batar\u0101"
+    ],
+    "name:pol_x_preferred":[
+        "Batara"
+    ],
+    "name:swe_x_preferred":[
+        "Batara"
     ],
     "name:und_x_variant":[
         "Batra"
@@ -62,7 +77,7 @@
         }
     ],
     "wof:id":1226060639,
-    "wof:lastmodified":1537676062,
+    "wof:lastmodified":1564119187,
     "wof:name":"Batara",
     "wof:parent_id":1092048051,
     "wof:placetype":"locality",

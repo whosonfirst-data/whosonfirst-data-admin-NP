@@ -25,8 +25,26 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bairiya"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0948\u0930\u093f\u092f\u093e"
+    ],
+    "name:mai_x_preferred":[
+        "\u092c\u0948\u0930\u093f\u092f\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Bairiya"
+    ],
     "name:nep_x_preferred":[
         "Bairiy\u0101"
+    ],
+    "name:new_x_preferred":[
+        "\u092c\u0948\u0930\u093f\u092f\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Bairiya"
     ],
     "name:und_x_variant":[
         "Bairia"
@@ -62,7 +80,7 @@
         }
     ],
     "wof:id":1276995687,
-    "wof:lastmodified":1537676064,
+    "wof:lastmodified":1564111188,
     "wof:name":"Bairiya",
     "wof:parent_id":1092049419,
     "wof:placetype":"locality",

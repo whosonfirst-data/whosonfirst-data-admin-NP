@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Golla"
+    ],
+    "name:deu_x_preferred":[
+        "Golla"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1293332113,
-    "wof:lastmodified":1537010291,
+    "wof:lastmodified":1564109908,
     "wof:name":"Golla",
     "wof:parent_id":1092050053,
     "wof:placetype":"locality",

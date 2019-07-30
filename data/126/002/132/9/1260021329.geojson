@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Pipari"
+    ],
+    "name:pol_x_preferred":[
+        "Pipara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1260021329,
-    "wof:lastmodified":1537074415,
+    "wof:lastmodified":1564114249,
     "wof:name":"Pipari",
     "wof:parent_id":1092048259,
     "wof:placetype":"locality",

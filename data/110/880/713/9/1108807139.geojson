@@ -25,6 +25,21 @@
     "name:eng_x_preferred":[
         "One"
     ],
+    "name:hin_x_preferred":[
+        "\u092a\u094d\u0930\u0926\u0947\u0936 \u0938\u0902\u0916\u094d\u092f\u093e \u0967"
+    ],
+    "name:jpn_x_preferred":[
+        "\u7b2c\u4e00\u5dde"
+    ],
+    "name:mai_x_preferred":[
+        "\u092a\u094d\u0930\u0926\u0947\u0936 \u0928\u0902. \u0967"
+    ],
+    "name:nep_x_preferred":[
+        "\u092a\u094d\u0930\u0926\u0947\u0936 \u0928\u0902. \u0967"
+    ],
+    "name:zho_x_preferred":[
+        "\u7b2c\u4e00\u7701"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -67,7 +82,7 @@
     "wof:lang_x_spoken":[
         "nep"
     ],
-    "wof:lastmodified":1553559958,
+    "wof:lastmodified":1564114300,
     "wof:name":"Province No. 1",
     "wof:parent_id":85632465,
     "wof:placetype":"region",

@@ -28,6 +28,18 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mai_x_preferred":[
+        "\u0917\u093f\u0932\u0941\u0919"
+    ],
+    "name:msa_x_preferred":[
+        "Gilung"
+    ],
+    "name:nep_x_preferred":[
+        "\u0917\u093f\u0932\u0941\u0919"
+    ],
+    "name:pol_x_preferred":[
+        "Gilunng"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1209452465,
-    "wof:lastmodified":1537570151,
+    "wof:lastmodified":1564112745,
     "wof:name":"Gilung",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

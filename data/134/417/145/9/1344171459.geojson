@@ -25,6 +25,30 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0932\u093f\u092e\u094d\u092c\u0941\u0926\u093f\u0928"
+    ],
+    "name:ceb_x_preferred":[
+        "Limbudin"
+    ],
+    "name:fra_x_preferred":[
+        "Limbudin"
+    ],
+    "name:mai_x_preferred":[
+        "\u0932\u093f\u092e\u094d\u092c\u0941\u0926\u093f\u0928"
+    ],
+    "name:msa_x_preferred":[
+        "Limbudin"
+    ],
+    "name:nep_x_preferred":[
+        "\u0932\u093f\u092e\u094d\u092c\u0941\u0926\u093f\u0928"
+    ],
+    "name:new_x_preferred":[
+        "\u0932\u093f\u092e\u094d\u092c\u0941\u0926\u093f\u0928"
+    ],
+    "name:pol_x_preferred":[
+        "Limbudin"
+    ],
     "name:und_x_variant":[
         "Limbuwan",
         "Limbud\u012bn"
@@ -60,7 +84,7 @@
         }
     ],
     "wof:id":1344171459,
-    "wof:lastmodified":1537676049,
+    "wof:lastmodified":1564108532,
     "wof:name":"Limbudin",
     "wof:parent_id":1092049813,
     "wof:placetype":"locality",

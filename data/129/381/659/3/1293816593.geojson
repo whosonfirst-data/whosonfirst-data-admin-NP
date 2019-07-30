@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Khairala"
+    ],
+    "name:mai_x_preferred":[
+        "\u0916\u0948\u0930\u093e\u0932\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Khairala"
+    ],
+    "name:nep_x_preferred":[
+        "\u0916\u0948\u0930\u093e\u0932\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u0916\u0948\u0930\u093e\u0932\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Khairala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1293816593,
-    "wof:lastmodified":1536809328,
+    "wof:lastmodified":1564110105,
     "wof:name":"Khairala",
     "wof:parent_id":1092048743,
     "wof:placetype":"locality",

@@ -25,8 +25,26 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Salkot"
+    ],
+    "name:mai_x_preferred":[
+        "\u0938\u093e\u0932\u0915\u094b\u091f"
+    ],
+    "name:msa_x_preferred":[
+        "Salkot"
+    ],
     "name:nep_x_preferred":[
         "S\u0101lko\u1e6d"
+    ],
+    "name:nep_x_variant":[
+        "\u0938\u093e\u0932\u0915\u094b\u091f"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u093e\u0932\u0915\u094b\u0924"
+    ],
+    "name:pol_x_preferred":[
+        "Salkot"
     ],
     "name:und_x_variant":[
         "Si\u0101lkot",
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1243468731,
-    "wof:lastmodified":1537676042,
+    "wof:lastmodified":1564116422,
     "wof:name":"Salkot",
     "wof:parent_id":1092049963,
     "wof:placetype":"locality",

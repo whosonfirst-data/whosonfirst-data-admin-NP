@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u092c\u0921\u0939\u0930\u0947"
+    ],
+    "name:ceb_x_preferred":[
+        "Badahare"
+    ],
+    "name:mai_x_preferred":[
+        "\u092c\u0921\u0939\u0930\u0947"
+    ],
+    "name:msa_x_preferred":[
+        "Badahare"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u0921\u0939\u0930\u0947"
+    ],
+    "name:new_x_preferred":[
+        "\u092c\u0921\u093e\u0939\u0930\u0947"
+    ],
+    "name:pol_x_preferred":[
+        "Badahare"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +58,7 @@
         "gn:id":8001833
     },
     "wof:country":"NP",
-    "wof:geomhash":"1403663d5dc836a4d642a2ebf39f0021",
+    "wof:geomhash":"1fec8e70bc5aca821f0e8dc205663ae7",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +66,7 @@
         }
     ],
     "wof:id":1209162415,
-    "wof:lastmodified":1536295853,
+    "wof:lastmodified":1564112649,
     "wof:name":"Badahare",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +77,9 @@
 },
   "bbox": [
     83.79663000000002,
-    28.089740000000006,
+    28.08974000000001,
     83.79663000000002,
-    28.089740000000006
+    28.08974000000001
 ],
   "geometry": {"coordinates":[83.79663000000002,28.08974000000001],"type":"Point"}
 }

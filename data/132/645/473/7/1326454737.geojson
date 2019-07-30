@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pane"
+    ],
+    "name:deu_x_preferred":[
+        "Pane"
+    ],
+    "name:fra_x_preferred":[
+        "Pane"
+    ],
+    "name:ind_x_preferred":[
+        "Pane"
+    ],
+    "name:ita_x_preferred":[
+        "Pane"
+    ],
+    "name:swe_x_preferred":[
+        "Pane"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1326454737,
-    "wof:lastmodified":1537092508,
+    "wof:lastmodified":1564106226,
     "wof:name":"Pane",
     "wof:parent_id":1092048527,
     "wof:placetype":"locality",

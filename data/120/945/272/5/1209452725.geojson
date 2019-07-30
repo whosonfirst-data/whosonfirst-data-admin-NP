@@ -28,6 +28,15 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Habu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30d6"
+    ],
+    "name:por_x_preferred":[
+        "Habu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -45,7 +54,7 @@
         }
     ],
     "wof:id":1209452725,
-    "wof:lastmodified":1536286625,
+    "wof:lastmodified":1564112722,
     "wof:name":"Habu",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

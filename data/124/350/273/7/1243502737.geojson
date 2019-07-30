@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Fakhel"
+    ],
+    "name:msa_x_preferred":[
+        "Fakhel"
+    ],
+    "name:nep_x_preferred":[
+        "\u092b\u0916\u0947\u0932"
+    ],
+    "name:new_x_preferred":[
+        "\u092b\u0916\u0947\u0932"
+    ],
+    "name:pol_x_preferred":[
+        "Fakhel"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0627\u062e\u06cc\u0644"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1243502737,
-    "wof:lastmodified":1536724867,
+    "wof:lastmodified":1564116631,
     "wof:name":"Phakhel",
     "wof:parent_id":1092049017,
     "wof:placetype":"locality",

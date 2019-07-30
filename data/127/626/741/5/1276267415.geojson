@@ -28,6 +28,15 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bendi"
+    ],
+    "name:ita_x_preferred":[
+        "Bendi"
+    ],
+    "name:swe_x_preferred":[
+        "Bendi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1276267415,
-    "wof:lastmodified":1536865596,
+    "wof:lastmodified":1564110343,
     "wof:name":"Bendi",
     "wof:parent_id":1092049537,
     "wof:placetype":"locality",

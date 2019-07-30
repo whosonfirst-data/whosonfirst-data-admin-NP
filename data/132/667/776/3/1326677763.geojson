@@ -28,6 +28,15 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud0c0\uc774\ub465"
+    ],
+    "name:nld_x_preferred":[
+        "Taitung"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0439\u0434\u0443\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1326677763,
-    "wof:lastmodified":1536774989,
+    "wof:lastmodified":1564106377,
     "wof:name":"Taitung",
     "wof:parent_id":1092050889,
     "wof:placetype":"locality",

@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tarkughat"
+    ],
+    "name:fra_x_preferred":[
+        "Tarkughat"
+    ],
+    "name:msa_x_preferred":[
+        "Tarkughat"
+    ],
+    "name:nep_x_preferred":[
+        "\u0924\u093e\u0930\u094d\u0915\u0941\u0918\u093e\u091f"
+    ],
+    "name:new_x_preferred":[
+        "\u0924\u0930\u094d\u0915\u0941\u0918\u093e\u091f"
+    ],
+    "name:pol_x_preferred":[
+        "Tarkughat"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1276386209,
-    "wof:lastmodified":1536708048,
+    "wof:lastmodified":1564111358,
     "wof:name":"Tarkughat",
     "wof:parent_id":1092050009,
     "wof:placetype":"locality",

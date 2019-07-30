@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Chauburji"
+    ],
+    "name:ita_x_preferred":[
+        "Chauburji"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d1a\u0d57\u0d2c\u0d7c\u0d1c\u0d3f"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a1a\u0a4c\u0a2c\u0a41\u0a30\u0a1c\u0a40"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0686\u0648\u0628\u0631\u062c\u06cc"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u0648 \u0628\u0631\u062c\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +55,7 @@
         "gn:id":8009623
     },
     "wof:country":"NP",
-    "wof:geomhash":"a65fe3be03d8070f3f9e6d74502d6b84",
+    "wof:geomhash":"bde4625acf2551753daeac6185b00fcd",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +63,7 @@
         }
     ],
     "wof:id":1209447969,
-    "wof:lastmodified":1536286759,
+    "wof:lastmodified":1564112799,
     "wof:name":"Chauburji",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +74,9 @@
 },
   "bbox": [
     81.33059,
-    28.208070000000006,
+    28.20807000000001,
     81.33059,
-    28.208070000000006
+    28.20807000000001
 ],
   "geometry": {"coordinates":[81.33059,28.20807000000001],"type":"Point"}
 }

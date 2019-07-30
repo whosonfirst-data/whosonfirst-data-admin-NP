@@ -25,8 +25,17 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gamhariya"
+    ],
     "name:nep_x_preferred":[
         "Gamhari\u0307\u0304y\u0101"
+    ],
+    "name:new_x_preferred":[
+        "\u0917\u092e\u094d\u0939\u0930\u093f\u092f\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Gamhariya"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1310222915,
-    "wof:lastmodified":1537676114,
+    "wof:lastmodified":1564114538,
     "wof:name":"Gamhariya",
     "wof:parent_id":1092049419,
     "wof:placetype":"locality",

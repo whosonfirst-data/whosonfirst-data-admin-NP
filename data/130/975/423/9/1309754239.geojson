@@ -28,6 +28,87 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Othe"
+    ],
+    "name:ceb_x_preferred":[
+        "Othe"
+    ],
+    "name:deu_x_preferred":[
+        "Othe"
+    ],
+    "name:eus_x_preferred":[
+        "Othe"
+    ],
+    "name:fra_x_preferred":[
+        "Othe"
+    ],
+    "name:hun_x_preferred":[
+        "Othe"
+    ],
+    "name:ita_x_preferred":[
+        "Othe"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041e\u0442"
+    ],
+    "name:lat_x_preferred":[
+        "Othe"
+    ],
+    "name:ltz_x_preferred":[
+        "Othe"
+    ],
+    "name:mlg_x_preferred":[
+        "Othe"
+    ],
+    "name:msa_x_preferred":[
+        "Othe"
+    ],
+    "name:nld_x_preferred":[
+        "Othe"
+    ],
+    "name:oci_x_preferred":[
+        "Othe"
+    ],
+    "name:pms_x_preferred":[
+        "Othe"
+    ],
+    "name:pol_x_preferred":[
+        "Othe"
+    ],
+    "name:por_x_preferred":[
+        "Othe"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0442"
+    ],
+    "name:slk_x_preferred":[
+        "Othe"
+    ],
+    "name:spa_x_preferred":[
+        "Othe"
+    ],
+    "name:swe_x_preferred":[
+        "Othe"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0442"
+    ],
+    "name:uzb_x_preferred":[
+        "Othe"
+    ],
+    "name:vie_x_preferred":[
+        "Othe"
+    ],
+    "name:vol_x_preferred":[
+        "Othe"
+    ],
+    "name:war_x_preferred":[
+        "Othe"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u7279"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +140,7 @@
         }
     ],
     "wof:id":1309754239,
-    "wof:lastmodified":1537004728,
+    "wof:lastmodified":1564115926,
     "wof:name":"Othe",
     "wof:parent_id":1092049813,
     "wof:placetype":"locality",

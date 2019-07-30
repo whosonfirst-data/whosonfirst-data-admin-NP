@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u091f\u093f\u0915\u093e\u0925\u0932\u0940"
+    ],
+    "name:ceb_x_preferred":[
+        "Tikathali"
+    ],
+    "name:msa_x_preferred":[
+        "Tikathali"
+    ],
+    "name:nep_x_preferred":[
+        "\u091f\u093f\u0915\u093e\u0925\u0932\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u091f\u093f\u0915\u093e\u0925\u0932\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Tikathali"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1225793297,
-    "wof:lastmodified":1537086245,
+    "wof:lastmodified":1564119409,
     "wof:name":"Tikathali",
     "wof:parent_id":1092048853,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Kumaun"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +40,7 @@
         "gn:id":7947777
     },
     "wof:country":"NP",
-    "wof:geomhash":"2733a9b2cd7c590a156792e4048b3da6",
+    "wof:geomhash":"f5e5eda30505d87eef83934d5a0f4445",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1209138757,
-    "wof:lastmodified":1536296574,
+    "wof:lastmodified":1564112161,
     "wof:name":"Garkha",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +59,9 @@
 },
   "bbox": [
     81.01599,
-    29.385890000000003,
+    29.38589,
     81.01599,
-    29.385890000000003
+    29.38589
 ],
   "geometry": {"coordinates":[81.01599,29.38589],"type":"Point"}
 }

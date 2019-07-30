@@ -25,6 +25,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u091a\u093f\u0932\u0902\u0916\u093e"
+    ],
+    "name:ceb_x_preferred":[
+        "Chilankha"
+    ],
+    "name:mai_x_preferred":[
+        "\u091a\u093f\u0932\u0902\u0916\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Chilankha"
+    ],
+    "name:nep_x_preferred":[
+        "\u091a\u093f\u0932\u0902\u0916\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u091a\u093f\u0932\u0902\u0916\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Chilankha"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1310123841,
-    "wof:lastmodified":1536969723,
+    "wof:lastmodified":1564114432,
     "wof:name":"Chilankha",
     "wof:parent_id":1092050535,
     "wof:placetype":"locality",

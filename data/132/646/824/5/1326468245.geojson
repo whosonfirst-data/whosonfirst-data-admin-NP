@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0938\u0941\u0919\u0928\u093e\u092e"
+    ],
+    "name:ceb_x_preferred":[
+        "Sungnam"
+    ],
+    "name:ita_x_preferred":[
+        "Sungnam"
+    ],
+    "name:msa_x_preferred":[
+        "Sungnam"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u0941\u0919\u0928\u093e\u092e"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u0902\u0917\u0928\u093e\u092e"
+    ],
+    "name:pol_x_preferred":[
+        "Sungnam"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1326468245,
-    "wof:lastmodified":1537073008,
+    "wof:lastmodified":1564106927,
     "wof:name":"Sungnam",
     "wof:parent_id":1092050137,
     "wof:placetype":"locality",

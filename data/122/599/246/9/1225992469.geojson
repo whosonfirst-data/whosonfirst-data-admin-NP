@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u091d\u0941\u0932\u0947"
+    ],
+    "name:ceb_x_preferred":[
+        "Jhule"
+    ],
+    "name:mai_x_preferred":[
+        "\u091d\u0941\u0932\u0947"
+    ],
+    "name:msa_x_preferred":[
+        "Jhule"
+    ],
+    "name:nep_x_preferred":[
+        "\u091d\u0941\u0932\u0947"
+    ],
+    "name:new_x_preferred":[
+        "\u091d\u0941\u0932\u0947"
+    ],
+    "name:pol_x_preferred":[
+        "Jhule"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1225992469,
-    "wof:lastmodified":1536802031,
+    "wof:lastmodified":1564118704,
     "wof:name":"Jhule",
     "wof:parent_id":1092049257,
     "wof:placetype":"locality",

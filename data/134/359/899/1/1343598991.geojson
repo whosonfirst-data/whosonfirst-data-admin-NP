@@ -28,6 +28,33 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kunjo"
+    ],
+    "name:deu_x_preferred":[
+        "Kunjo"
+    ],
+    "name:dty_x_preferred":[
+        "\u0915\u0941\u091e\u094d\u091c\u094b"
+    ],
+    "name:fra_x_preferred":[
+        "Kunjo"
+    ],
+    "name:msa_x_preferred":[
+        "Kunjo"
+    ],
+    "name:nep_x_preferred":[
+        "\u0915\u0941\u091e\u094d\u091c\u094b"
+    ],
+    "name:new_x_preferred":[
+        "\u0915\u0941\u0902\u091c\u094b"
+    ],
+    "name:pol_x_preferred":[
+        "Kunjo"
+    ],
+    "name:por_x_preferred":[
+        "Kunjo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +86,7 @@
         }
     ],
     "wof:id":1343598991,
-    "wof:lastmodified":1537041870,
+    "wof:lastmodified":1564108217,
     "wof:name":"Kunjo",
     "wof:parent_id":1092048365,
     "wof:placetype":"locality",

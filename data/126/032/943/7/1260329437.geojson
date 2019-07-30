@@ -28,6 +28,33 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u091c\u0923\u094d\u0921\u094c\u0932"
+    ],
+    "name:ceb_x_preferred":[
+        "Jandaul"
+    ],
+    "name:fra_x_preferred":[
+        "Jandaul"
+    ],
+    "name:mai_x_preferred":[
+        "\u091c\u0923\u094d\u0921\u094c\u0932"
+    ],
+    "name:msa_x_preferred":[
+        "Jandaul"
+    ],
+    "name:nep_x_preferred":[
+        "\u091c\u0902\u0926\u094c\u0932"
+    ],
+    "name:new_x_preferred":[
+        "\u091c\u0902\u0926\u094c\u0932"
+    ],
+    "name:pol_x_preferred":[
+        "Jandaul"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0646\u0688\u0648\u0644"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +86,7 @@
         }
     ],
     "wof:id":1260329437,
-    "wof:lastmodified":1536650090,
+    "wof:lastmodified":1564114214,
     "wof:name":"Jandaul",
     "wof:parent_id":1092048485,
     "wof:placetype":"locality",

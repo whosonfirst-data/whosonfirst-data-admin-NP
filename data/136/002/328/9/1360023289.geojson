@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Okhare"
+    ],
+    "name:mai_x_preferred":[
+        "\u0913\u0916\u094d\u0930\u0947"
+    ],
+    "name:msa_x_preferred":[
+        "Okhare"
+    ],
+    "name:nep_x_preferred":[
+        "\u0913\u0916\u094d\u0930\u0947"
+    ],
+    "name:pol_x_preferred":[
+        "Okhare"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1360023289,
-    "wof:lastmodified":1537033282,
+    "wof:lastmodified":1564115618,
     "wof:name":"Okhare",
     "wof:parent_id":1092049133,
     "wof:placetype":"locality",

@@ -28,6 +28,39 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Yang"
+    ],
+    "name:deu_x_preferred":[
+        "Yang"
+    ],
+    "name:fin_x_preferred":[
+        "Yang"
+    ],
+    "name:fra_x_preferred":[
+        "Yang"
+    ],
+    "name:ita_x_preferred":[
+        "Yang"
+    ],
+    "name:kor_x_preferred":[
+        "\uc591"
+    ],
+    "name:nld_x_preferred":[
+        "Yang"
+    ],
+    "name:pol_x_preferred":[
+        "Yang"
+    ],
+    "name:por_x_preferred":[
+        "Yang"
+    ],
+    "name:swe_x_preferred":[
+        "Yang"
+    ],
+    "name:vie_x_preferred":[
+        "D\u01b0\u01a1ng"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +92,7 @@
         }
     ],
     "wof:id":1226791367,
-    "wof:lastmodified":1536649639,
+    "wof:lastmodified":1564118992,
     "wof:name":"Yang",
     "wof:parent_id":1092048173,
     "wof:placetype":"locality",

@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Aska"
+    ],
+    "name:deu_x_preferred":[
+        "Aska"
+    ],
+    "name:eus_x_preferred":[
+        "Aska"
+    ],
+    "name:fin_x_preferred":[
+        "Aska"
+    ],
+    "name:isl_x_preferred":[
+        "Aska"
+    ],
+    "name:swe_x_preferred":[
+        "Aska"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1310143387,
-    "wof:lastmodified":1536942383,
+    "wof:lastmodified":1564114483,
     "wof:name":"Aska",
     "wof:parent_id":1092049089,
     "wof:placetype":"locality",

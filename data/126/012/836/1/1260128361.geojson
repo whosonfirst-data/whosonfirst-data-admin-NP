@@ -28,6 +28,18 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Parewadada"
+    ],
+    "name:nep_x_preferred":[
+        "\u092a\u0930\u0947\u0935\u093e\u0921\u093e\u0901\u0921\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u092a\u0930\u0947\u0935\u093e\u0921\u093e\u0902\u0921\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Parewadada"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1260128361,
-    "wof:lastmodified":1536924347,
+    "wof:lastmodified":1564113858,
     "wof:name":"Parewadanda",
     "wof:parent_id":1092049679,
     "wof:placetype":"locality",

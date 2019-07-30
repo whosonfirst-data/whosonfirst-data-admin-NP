@@ -25,11 +25,26 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u092b\u0932\u093e\u0901\u091f\u0947"
+    ],
     "name:nep_x_preferred":[
         "Phal\u0101n\u1e6de"
     ],
+    "name:nep_x_variant":[
+        "\u092b\u0932\u093e\u0901\u091f\u0947"
+    ],
+    "name:new_x_preferred":[
+        "\u092b\u0932\u093e\u0924\u0947"
+    ],
+    "name:pol_x_preferred":[
+        "Falate"
+    ],
     "name:und_x_variant":[
         "Phal\u0101\u0303\u1e6de"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0627\u0644\u0627\u0679\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +77,7 @@
         }
     ],
     "wof:id":1276452839,
-    "wof:lastmodified":1537676087,
+    "wof:lastmodified":1564110364,
     "wof:name":"Phalate",
     "wof:parent_id":1092048887,
     "wof:placetype":"locality",

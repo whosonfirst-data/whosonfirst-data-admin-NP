@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mauwa"
+    ],
+    "name:mai_x_preferred":[
+        "\u092e\u094c\u0935\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Mauwa"
+    ],
+    "name:nep_x_preferred":[
+        "\u092e\u094c\u0935\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u092e\u094c\u0935\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Mauwa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1276487141,
-    "wof:lastmodified":1537066930,
+    "wof:lastmodified":1564111150,
     "wof:name":"Mauwa",
     "wof:parent_id":1092049165,
     "wof:placetype":"locality",

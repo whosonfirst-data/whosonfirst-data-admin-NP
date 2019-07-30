@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u092e\u093e\u0907\u0938\u094d\u0925\u093e\u0928"
+    ],
+    "name:ceb_x_preferred":[
+        "Maisthan"
+    ],
+    "name:msa_x_preferred":[
+        "Maisthan"
+    ],
+    "name:nep_x_preferred":[
+        "\u092e\u093e\u0907\u0938\u094d\u0925\u093e\u0928"
+    ],
+    "name:new_x_preferred":[
+        "\u092e\u093e\u0908\u0938\u094d\u0925\u093e\u0928"
+    ],
+    "name:pol_x_preferred":[
+        "Maisthan"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1226475311,
-    "wof:lastmodified":1537096306,
+    "wof:lastmodified":1564118881,
     "wof:name":"Maisthan",
     "wof:parent_id":1092050583,
     "wof:placetype":"locality",

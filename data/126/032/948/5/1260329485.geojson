@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Foksing"
+    ],
+    "name:fra_x_preferred":[
+        "Foksing"
+    ],
+    "name:msa_x_preferred":[
+        "Foksing"
+    ],
+    "name:nep_x_preferred":[
+        "\u092b\u094b\u0915\u094d\u0938\u093f\u0921"
+    ],
+    "name:new_x_preferred":[
+        "\u092b\u094b\u0915\u094d\u0938\u093f\u0921"
+    ],
+    "name:pol_x_preferred":[
+        "Foksing"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1260329485,
-    "wof:lastmodified":1536650031,
+    "wof:lastmodified":1564114180,
     "wof:name":"Phoksing",
     "wof:parent_id":1092050101,
     "wof:placetype":"locality",

@@ -25,8 +25,20 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Baspani"
+    ],
+    "name:mai_x_preferred":[
+        "\u092c\u093e\u0938\u092a\u093e\u0928\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Baspani"
+    ],
     "name:nep_x_preferred":[
         "B\u0101\u0303sp\u0101ni\u0307\u0304"
+    ],
+    "name:pol_x_preferred":[
+        "Baspani"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1360003789,
-    "wof:lastmodified":1537676128,
+    "wof:lastmodified":1564115350,
     "wof:name":"Baspani",
     "wof:parent_id":1092049207,
     "wof:placetype":"locality",

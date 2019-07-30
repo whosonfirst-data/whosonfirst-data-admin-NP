@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Benauli"
+    ],
+    "name:fra_x_preferred":[
+        "Benauli"
+    ],
+    "name:mai_x_preferred":[
+        "\u092c\u0947\u0928\u094c\u0932\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Benauli"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u0947\u0928\u094c\u0932\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Benauli"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1225882417,
-    "wof:lastmodified":1536960646,
+    "wof:lastmodified":1564118589,
     "wof:name":"Benauli",
     "wof:parent_id":1092048051,
     "wof:placetype":"locality",

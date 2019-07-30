@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pyauli"
+    ],
+    "name:mai_x_preferred":[
+        "\u092a\u094d\u092f\u093e\u0909\u0932\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Pyauli"
+    ],
+    "name:nep_x_preferred":[
+        "\u092a\u094d\u092f\u093e\u0909\u0932\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u092a\u094d\u092f\u093e\u0909\u0932\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Pyauli"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1226291087,
-    "wof:lastmodified":1536867183,
+    "wof:lastmodified":1564118228,
     "wof:name":"Pyauli",
     "wof:parent_id":1092050101,
     "wof:placetype":"locality",

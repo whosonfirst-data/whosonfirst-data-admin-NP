@@ -28,6 +28,12 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:new_x_preferred":[
+        "\u092e\u0943\u0917\u094c\u0932\u093f\u092f\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Mrigauliya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1242915395,
-    "wof:lastmodified":1537570151,
+    "wof:lastmodified":1564116918,
     "wof:name":"Mrigauliya",
     "wof:parent_id":1092048303,
     "wof:placetype":"locality",

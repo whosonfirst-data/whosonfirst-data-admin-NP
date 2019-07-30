@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Namjung"
+    ],
+    "name:mai_x_preferred":[
+        "\u0928\u093e\u092e\u094d\u091c\u0941\u0919"
+    ],
+    "name:msa_x_preferred":[
+        "Namjung"
+    ],
+    "name:nep_x_preferred":[
+        "\u0928\u093e\u092e\u094d\u091c\u0941\u0919"
+    ],
+    "name:new_x_preferred":[
+        "\u0928\u093e\u092e\u094d\u091c\u0941\u0919"
+    ],
+    "name:pol_x_preferred":[
+        "Namjug"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1310638369,
-    "wof:lastmodified":1536725538,
+    "wof:lastmodified":1564114760,
     "wof:name":"Namjung",
     "wof:parent_id":1092050351,
     "wof:placetype":"locality",

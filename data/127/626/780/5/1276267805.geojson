@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tokar"
+    ],
+    "name:deu_x_preferred":[
+        "Tokar"
+    ],
+    "name:fra_x_preferred":[
+        "Tokar"
+    ],
+    "name:ita_x_preferred":[
+        "Tokar"
+    ],
+    "name:swe_x_preferred":[
+        "Tokar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1276267805,
-    "wof:lastmodified":1536865116,
+    "wof:lastmodified":1564110361,
     "wof:name":"Tokar",
     "wof:parent_id":1092049419,
     "wof:placetype":"locality",

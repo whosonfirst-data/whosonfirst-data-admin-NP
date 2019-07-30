@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Depalgaun"
+    ],
+    "name:mai_x_preferred":[
+        "\u0926\u0947\u092a\u093e\u0932\u0917\u093e\u0909\u0901"
+    ],
+    "name:msa_x_preferred":[
+        "Depalgaun"
+    ],
+    "name:nep_x_preferred":[
+        "\u0926\u0947\u092a\u093e\u0932\u0917\u093e\u0909\u0901"
+    ],
+    "name:pol_x_preferred":[
+        "Depalgaun"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1276798109,
-    "wof:lastmodified":1536653144,
+    "wof:lastmodified":1564111029,
     "wof:name":"Depalgaun",
     "wof:parent_id":1092050797,
     "wof:placetype":"locality",

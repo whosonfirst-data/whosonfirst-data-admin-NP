@@ -28,6 +28,75 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Balan"
+    ],
+    "name:ceb_x_preferred":[
+        "Balan"
+    ],
+    "name:ces_x_preferred":[
+        "Balan"
+    ],
+    "name:deu_x_preferred":[
+        "Balan"
+    ],
+    "name:epo_x_preferred":[
+        "Balan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u0644\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Balan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05dc\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Balan"
+    ],
+    "name:ita_x_preferred":[
+        "Balan"
+    ],
+    "name:nds_x_preferred":[
+        "Balan"
+    ],
+    "name:nld_x_preferred":[
+        "Balan"
+    ],
+    "name:pol_x_preferred":[
+        "Balan"
+    ],
+    "name:por_x_preferred":[
+        "Balan"
+    ],
+    "name:ron_x_preferred":[
+        "Balan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u043d"
+    ],
+    "name:scn_x_preferred":[
+        "Balan"
+    ],
+    "name:slk_x_preferred":[
+        "Balan"
+    ],
+    "name:spa_x_preferred":[
+        "Balan"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Balan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u043d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +106,7 @@
         "gn:id":7933026
     },
     "wof:country":"NP",
-    "wof:geomhash":"fc3f41620e08b0f93f7fb76b7d962b58",
+    "wof:geomhash":"2975b68f781986e4250003dcb318f85a",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +114,7 @@
         }
     ],
     "wof:id":1209150185,
-    "wof:lastmodified":1536296226,
+    "wof:lastmodified":1564111918,
     "wof:name":"Balan",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +125,9 @@
 },
   "bbox": [
     87.04826,
-    26.986790000000006,
+    26.98679000000001,
     87.04826,
-    26.986790000000006
+    26.98679000000001
 ],
   "geometry": {"coordinates":[87.04826,26.98679000000001],"type":"Point"}
 }

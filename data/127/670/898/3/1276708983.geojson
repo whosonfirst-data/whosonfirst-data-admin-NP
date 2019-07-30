@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Matsari"
+    ],
+    "name:mai_x_preferred":[
+        "\u092e\u0924\u094d\u0938\u0930\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Matsari"
+    ],
+    "name:nep_x_preferred":[
+        "\u092e\u0924\u094d\u0938\u0930\u0940"
+    ],
+    "name:new_x_preferred":[
+        "\u092e\u0924\u094d\u0938\u093e\u0930\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Matsari"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1276708983,
-    "wof:lastmodified":1536773160,
+    "wof:lastmodified":1564111112,
     "wof:name":"Matsari",
     "wof:parent_id":1092049639,
     "wof:placetype":"locality",

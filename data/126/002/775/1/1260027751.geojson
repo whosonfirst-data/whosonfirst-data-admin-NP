@@ -28,6 +28,18 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Pipaldanda"
+    ],
+    "name:nep_x_preferred":[
+        "\u092a\u093f\u092a\u0932\u0921\u093e\u0901\u0921\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u092a\u093f\u092a\u0932\u0921\u093e\u0902\u0921\u093e \u0917\u093e\u0935\u093f\u0938"
+    ],
+    "name:pol_x_preferred":[
+        "Pipaldanda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1260027751,
-    "wof:lastmodified":1537065453,
+    "wof:lastmodified":1564114290,
     "wof:name":"Pipaldanda",
     "wof:parent_id":1092049537,
     "wof:placetype":"locality",

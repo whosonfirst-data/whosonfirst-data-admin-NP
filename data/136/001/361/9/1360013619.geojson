@@ -28,6 +28,36 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0420\u0430\u043f\u0430\u043d\u044b"
+    ],
+    "name:deu_x_preferred":[
+        "Rapana"
+    ],
+    "name:fra_x_preferred":[
+        "Rapana"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d0\u10de\u10d0\u10dc\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Rapana"
+    ],
+    "name:pol_x_preferred":[
+        "Rapana"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043f\u0430\u043d\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "Rapana"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u043f\u0430\u043d\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Rapana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +89,7 @@
         }
     ],
     "wof:id":1360013619,
-    "wof:lastmodified":1537046905,
+    "wof:lastmodified":1564115421,
     "wof:name":"Rapana",
     "wof:parent_id":1092050255,
     "wof:placetype":"locality",

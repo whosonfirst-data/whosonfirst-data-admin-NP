@@ -25,6 +25,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Kamran"
+    ],
+    "name:deu_x_preferred":[
+        "Kamran"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0645\u0631\u0627\u0646"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0440\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Kamran"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1243081921,
-    "wof:lastmodified":1536832886,
+    "wof:lastmodified":1564116111,
     "wof:name":"Kamran",
     "wof:parent_id":1092050661,
     "wof:placetype":"locality",

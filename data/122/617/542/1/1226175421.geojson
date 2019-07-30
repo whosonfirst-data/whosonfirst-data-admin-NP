@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Muchu"
+    ],
+    "name:mai_x_preferred":[
+        "\u092e\u0941\u091a\u0942"
+    ],
+    "name:msa_x_preferred":[
+        "Muchu"
+    ],
+    "name:nep_x_preferred":[
+        "\u092e\u0941\u091a\u0942"
+    ],
+    "name:new_x_preferred":[
+        "\u092e\u0941\u091a\u0941"
+    ],
+    "name:pol_x_preferred":[
+        "Muchu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1226175421,
-    "wof:lastmodified":1537033508,
+    "wof:lastmodified":1564118067,
     "wof:name":"Muchu",
     "wof:parent_id":1092050353,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Melghat"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u0947\u0933\u0918\u093e\u091f \u0905\u092d\u092f\u093e\u0930\u0923\u094d\u092f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0644\u06af\u06be\u0627\u0679"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1326956721,
-    "wof:lastmodified":1536868512,
+    "wof:lastmodified":1564106464,
     "wof:name":"Melghat",
     "wof:parent_id":1092050255,
     "wof:placetype":"locality",

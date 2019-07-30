@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u0938\u0940\u0924\u093e\u092a\u093e\u0907\u0932\u093e"
+    ],
+    "name:ceb_x_preferred":[
+        "Sitapaila"
+    ],
+    "name:msa_x_preferred":[
+        "Sitapaila"
+    ],
+    "name:nep_x_preferred":[
+        "\u0938\u0940\u0924\u093e\u092a\u093e\u0907\u0932\u093e"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u0940\u0924\u093e\u092a\u093e\u0907\u0932\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Sitapaila"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1225986731,
-    "wof:lastmodified":1536809799,
+    "wof:lastmodified":1564118781,
     "wof:name":"Sitapaila",
     "wof:parent_id":1092048931,
     "wof:placetype":"locality",

@@ -28,6 +28,24 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gelu"
+    ],
+    "name:deu_x_preferred":[
+        "Gelu"
+    ],
+    "name:epo_x_preferred":[
+        "Gelu"
+    ],
+    "name:hun_x_preferred":[
+        "Gyalu"
+    ],
+    "name:ron_x_preferred":[
+        "Gelu"
+    ],
+    "name:swe_x_preferred":[
+        "Gelu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1193183331,
-    "wof:lastmodified":1536367692,
+    "wof:lastmodified":1564113516,
     "wof:name":"Gelu",
     "wof:parent_id":1092049711,
     "wof:placetype":"locality",

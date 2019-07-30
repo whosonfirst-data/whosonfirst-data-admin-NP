@@ -28,6 +28,21 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Banigama"
+    ],
+    "name:mai_x_preferred":[
+        "\u092c\u0928\u093f\u0917\u093e\u092e\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Banigama"
+    ],
+    "name:new_x_preferred":[
+        "\u092c\u0928\u093f\u0917\u092e\u093e"
+    ],
+    "name:pol_x_preferred":[
+        "Banigama"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -45,7 +60,7 @@
         }
     ],
     "wof:id":1209352573,
-    "wof:lastmodified":1536289697,
+    "wof:lastmodified":1564112349,
     "wof:name":"Banigama",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

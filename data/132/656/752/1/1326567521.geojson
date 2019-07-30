@@ -28,6 +28,27 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Digam"
+    ],
+    "name:fra_x_preferred":[
+        "Digam"
+    ],
+    "name:hin_x_preferred":[
+        "\u0926\u093f\u0917\u092e"
+    ],
+    "name:msa_x_preferred":[
+        "Digam"
+    ],
+    "name:nep_x_preferred":[
+        "\u0926\u093f\u0917\u092e"
+    ],
+    "name:new_x_preferred":[
+        "\u0926\u093f\u0917\u092e"
+    ],
+    "name:pol_x_preferred":[
+        "Digam"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1326567521,
-    "wof:lastmodified":1536933804,
+    "wof:lastmodified":1564106301,
     "wof:name":"Digam",
     "wof:parent_id":1092050939,
     "wof:placetype":"locality",

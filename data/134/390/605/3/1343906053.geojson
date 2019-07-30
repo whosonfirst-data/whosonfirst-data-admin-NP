@@ -28,6 +28,9 @@
     "iso:country":"NP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mya_x_preferred":[
+        "\u1015\u1004\u103a\u1038\u1010\u101c\u1032"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1343906053,
-    "wof:lastmodified":1537095368,
+    "wof:lastmodified":1564107711,
     "wof:name":"Pindale",
     "wof:parent_id":1092048173,
     "wof:placetype":"locality",
