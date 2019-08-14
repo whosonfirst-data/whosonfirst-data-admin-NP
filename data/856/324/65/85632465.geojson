@@ -15,6 +15,9 @@
     "itu:country_code":[
         "977"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NP"
+    ],
     "lbl:latitude":28.323184,
     "lbl:longitude":83.60374,
     "mps:latitude":28.323184,
@@ -997,16 +1000,13 @@
         }
     ],
     "wof:id":85632465,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "nep"
     ],
     "wof:lang_x_spoken":[
         "nep"
     ],
-    "wof:lastmodified":1563236156,
+    "wof:lastmodified":1565731950,
     "wof:name":"Nepal",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
