@@ -11,10 +11,14 @@
     "geom:longitude":84.81512,
     "gn:country":"NP",
     "gn:fcode":"PPL",
-    "gn:pop":90,
+    "gn:population":90,
     "iso:country":"NP",
+    "lbl:bbox":"84.79512,27.8459,84.83512,27.8859",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Pokhari Gau",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -31,7 +35,7 @@
     "wof:concordances":{
         "gn:id":8063838,
         "gp:id":2269045,
-        "qs:id":752744
+        "qs_pg:id":752744
     },
     "wof:country":"NP",
     "wof:created":1469051671,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890427057,
-    "wof:lastmodified":1505343497,
+    "wof:lastmodified":1566669999,
     "wof:name":"Pokhari Gau",
     "wof:parent_id":1092050661,
     "wof:placetype":"locality",

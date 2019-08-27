@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.28383,28.21992,81.32383,28.25992",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259509661,
-    "wof:lastmodified":1536820394,
+    "wof:lastmodified":1566671011,
     "wof:name":"Saghapur",
     "wof:parent_id":1092048097,
     "wof:placetype":"locality",

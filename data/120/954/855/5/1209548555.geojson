@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.71717,28.82834,81.75717,28.86834",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7937590
     },
     "wof:country":"NP",
-    "wof:geomhash":"cd09ece369837189e56bcffd3f8d69e8",
+    "wof:geomhash":"ccd902c88ac0863e0afa53e71c688264",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209548555,
-    "wof:lastmodified":1536283767,
+    "wof:lastmodified":1566667435,
     "wof:name":"Dopka",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     81.73716999999998,
-    28.848340000000004,
+    28.84834,
     81.73716999999998,
-    28.848340000000004
+    28.84834
 ],
   "geometry": {"coordinates":[81.73716999999998,28.84834],"type":"Point"}
 }

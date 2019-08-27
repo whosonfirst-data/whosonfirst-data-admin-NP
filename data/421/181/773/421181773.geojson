@@ -10,10 +10,14 @@
     "geom:latitude":29.16667,
     "geom:longitude":83.08333,
     "iso:country":"NP",
+    "lbl:bbox":"82.98333,29.06667,83.18333,29.26667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dolpo"
     ],
     "qs:gn_country":"NP",
@@ -47,7 +51,7 @@
     "wof:concordances":{
         "gn:id":1283428,
         "gp:id":23706792,
-        "qs:id":502770
+        "qs_pg:id":502770
     },
     "wof:country":"NP",
     "wof:created":1459009306,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":421181773,
-    "wof:lastmodified":1505340652,
+    "wof:lastmodified":1566669989,
     "wof:name":"Dolpa",
     "wof:parent_id":1092050349,
     "wof:placetype":"localadmin",

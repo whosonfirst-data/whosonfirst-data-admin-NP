@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.48682,27.98244,85.52682,28.02244",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -34,7 +38,7 @@
         "gn:id":10317962
     },
     "wof:country":"NP",
-    "wof:geomhash":"c264cd549eb25cb0a08f1886bd7a1244",
+    "wof:geomhash":"8822ad6a671ca093081479f4e1d80224",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209018709,
-    "wof:lastmodified":1536300213,
+    "wof:lastmodified":1566667491,
     "wof:name":"Pachosa",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     85.50681999999998,
-    28.002440000000004,
+    28.00244,
     85.50681999999998,
-    28.002440000000004
+    28.00244
 ],
   "geometry": {"coordinates":[85.50681999999998,28.00244],"type":"Point"}
 }

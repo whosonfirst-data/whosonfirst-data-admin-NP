@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.29183,28.19547,82.33183,28.23547",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Sisneri"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1326763353,
-    "wof:lastmodified":1564106774,
+    "wof:lastmodified":1566663961,
     "wof:name":"Sisneri",
     "wof:parent_id":1092048605,
     "wof:placetype":"locality",

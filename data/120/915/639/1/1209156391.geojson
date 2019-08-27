@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.1367,27.01959,87.1767,27.05959",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7933232
     },
     "wof:country":"NP",
-    "wof:geomhash":"a88be3d03412faecd0805c4b90748fca",
+    "wof:geomhash":"72b7d778f8248ed2102878b5f4254d9d",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209156391,
-    "wof:lastmodified":1536296043,
+    "wof:lastmodified":1566667620,
     "wof:name":"Mangsire",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     87.1567,
-    27.039590000000004,
+    27.03959,
     87.1567,
-    27.039590000000004
+    27.03959
 ],
   "geometry": {"coordinates":[87.1567,27.03959],"type":"Point"}
 }

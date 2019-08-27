@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.63861,29.52344,80.67861,29.56344",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7981893
     },
     "wof:country":"NP",
-    "wof:geomhash":"92ceef0c46c446627b76bba8498d5529",
+    "wof:geomhash":"78a4da7de0597906cd28069bb8524eeb",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209032963,
-    "wof:lastmodified":1536299790,
+    "wof:lastmodified":1566667897,
     "wof:name":"Kathmada",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     80.65861,
-    29.543440000000004,
+    29.54344,
     80.65861,
-    29.543440000000004
+    29.54344
 ],
   "geometry": {"coordinates":[80.65861,29.54344],"type":"Point"}
 }

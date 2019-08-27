@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.81131,27.65408,85.85131,27.69408",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "B\u0101rkh\u0101n"
     ],
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":1293399681,
-    "wof:lastmodified":1564109042,
+    "wof:lastmodified":1566665657,
     "wof:name":"Barkhan",
     "wof:parent_id":1092049755,
     "wof:placetype":"locality",

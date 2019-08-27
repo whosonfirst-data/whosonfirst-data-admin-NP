@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.17058,26.70086,87.21058,26.74086",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:new_x_preferred":[
         "\u092a\u093f\u0921\u093e\u0930\u0940"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1209958593,
-    "wof:lastmodified":1564112264,
+    "wof:lastmodified":1566667807,
     "wof:name":"Pidari",
     "wof:parent_id":1092049923,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.55128,27.71902,85.59128,27.75902",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kh\u0101mi\u0307\u0304g\u0101\u0169",
         "Kh\u0101m\u012bg\u0101un"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1326547973,
-    "wof:lastmodified":1537676083,
+    "wof:lastmodified":1566664261,
     "wof:name":"Khamigau",
     "wof:parent_id":1092048887,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.10135,28.41441,83.14135,28.45441",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293537419,
-    "wof:lastmodified":1536715509,
+    "wof:lastmodified":1566665627,
     "wof:name":"Khoriya",
     "wof:parent_id":1092049257,
     "wof:placetype":"locality",

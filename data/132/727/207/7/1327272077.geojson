@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.75466,27.08415,85.79466,27.12415",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Adi"
     ],
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":1327272077,
-    "wof:lastmodified":1564107410,
+    "wof:lastmodified":1566664440,
     "wof:name":"Adi",
     "wof:parent_id":1092049639,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.94348,29.19856,81.98348,29.23856",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Puru"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1259516123,
-    "wof:lastmodified":1564117771,
+    "wof:lastmodified":1566671094,
     "wof:name":"Puru",
     "wof:parent_id":1092050797,
     "wof:placetype":"locality",

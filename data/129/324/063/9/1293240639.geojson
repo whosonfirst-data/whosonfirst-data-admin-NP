@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.23747,27.57448,84.27747,27.61448",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hin_x_preferred":[
         "\u0926\u093f\u0935\u094d\u092f\u0928\u0917\u0930"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1293240639,
-    "wof:lastmodified":1564109314,
+    "wof:lastmodified":1566665865,
     "wof:name":"Dibyanagar",
     "wof:parent_id":1092050101,
     "wof:placetype":"locality",

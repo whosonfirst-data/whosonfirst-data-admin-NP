@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.99204,28.3886,83.03204,28.4286",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1277118323,
-    "wof:lastmodified":1536716654,
+    "wof:lastmodified":1566667382,
     "wof:name":"Katuwaldera",
     "wof:parent_id":1092049257,
     "wof:placetype":"locality",

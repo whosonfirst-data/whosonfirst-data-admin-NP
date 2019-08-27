@@ -10,8 +10,12 @@
     "geom:latitude":28.53249,
     "geom:longitude":84.3427,
     "iso:country":"NP",
+    "lbl:bbox":"84.3227,28.51249,84.3627,28.55249",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Tachi Bagarchhap"
@@ -28,7 +32,7 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u0433\u0430\u0440\u0447\u0445\u0430\u043f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bagarchh\u0101p"
     ],
     "qs:gn_country":"NP",
@@ -62,7 +66,7 @@
     "wof:concordances":{
         "gn:id":1283713,
         "gp:id":2269051,
-        "qs:id":493484,
+        "qs_pg:id":493484,
         "wd:id":"Q4841450",
         "wk:page":"Bagarchhap"
     },
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":421195453,
-    "wof:lastmodified":1563242689,
+    "wof:lastmodified":1566669982,
     "wof:name":"Bagarchh\u00e5p",
     "wof:parent_id":1092049041,
     "wof:placetype":"locality",

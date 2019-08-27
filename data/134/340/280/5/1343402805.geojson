@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.03716,27.89041,83.07716,27.93041",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0917\u094b\u0932\u0922\u0941\u0902\u0917\u093e"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1343402805,
-    "wof:lastmodified":1564108106,
+    "wof:lastmodified":1566664951,
     "wof:name":"Goldhunga",
     "wof:parent_id":1092049537,
     "wof:placetype":"locality",

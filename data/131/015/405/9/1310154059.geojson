@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.45057,26.95898,85.49057,26.99898",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310154059,
-    "wof:lastmodified":1536927330,
+    "wof:lastmodified":1566669061,
     "wof:name":"Bhagavanpur",
     "wof:parent_id":1092049639,
     "wof:placetype":"locality",

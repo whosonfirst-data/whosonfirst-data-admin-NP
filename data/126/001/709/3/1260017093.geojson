@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.0505,27.66283,84.0905,27.70283",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:new_x_preferred":[
         "\u092c\u0947\u0932\u0935\u093e"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1260017093,
-    "wof:lastmodified":1564114007,
+    "wof:lastmodified":1566668823,
     "wof:name":"Belwa",
     "wof:parent_id":1092050413,
     "wof:placetype":"locality",

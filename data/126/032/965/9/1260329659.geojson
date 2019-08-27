@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.05063,27.66729,86.09063,27.70729",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1260329659,
-    "wof:lastmodified":1536649799,
+    "wof:lastmodified":1566668911,
     "wof:name":"Chathali",
     "wof:parent_id":1092050535,
     "wof:placetype":"locality",

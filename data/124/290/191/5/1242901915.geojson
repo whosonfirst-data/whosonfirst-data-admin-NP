@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.77469,29.70965,80.81469,29.74965",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1242901915,
-    "wof:lastmodified":1537090433,
+    "wof:lastmodified":1566670594,
     "wof:name":"Odkhet",
     "wof:parent_id":1092050347,
     "wof:placetype":"locality",

@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":26.963673,
     "lbl:longitude":86.603697,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SAGARMATHA",
     "meso:diss_me":"UdayapurSAGARMATHA",
     "meso:gadm_admin":"Udayapur",
@@ -34,6 +36,7 @@
     "mps:longitude":86.603697,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u0989\u09a6\u09af\u09bc\u09aa\u09c1\u09b0 \u099c\u09c7\u09b2\u09be"
     ],
@@ -134,9 +137,9 @@
         "\u70cf\u5730\u5e03"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-22",
+    "src:population_date":"2011-06-22",
     "statoids:area_km":"2,063.0",
     "statoids:as_of_date":"2011-06-22",
     "statoids:capital":"Gaighat",
@@ -176,7 +179,7 @@
         }
     ],
     "wof:id":1092050179,
-    "wof:lastmodified":1563242377,
+    "wof:lastmodified":1566669769,
     "wof:name":"Udayapur",
     "wof:parent_id":-1,
     "wof:placetype":"county",

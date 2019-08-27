@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.71186,26.50806,86.75186,26.54806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u043e\u0442\u0430\u043c"
     ],
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":1343703629,
-    "wof:lastmodified":1564107992,
+    "wof:lastmodified":1566664867,
     "wof:name":"Gotham",
     "wof:parent_id":1092048485,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.42411,27.85331,82.46411,27.89331",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209037775,
-    "wof:lastmodified":1536299644,
+    "wof:lastmodified":1566667889,
     "wof:name":"Phachakpur",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

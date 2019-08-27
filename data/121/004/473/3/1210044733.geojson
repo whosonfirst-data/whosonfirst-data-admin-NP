@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.27162,29.40258,81.31162,29.44258",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dogadi"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1210044733,
-    "wof:lastmodified":1564112958,
+    "wof:lastmodified":1566668200,
     "wof:name":"Dogadi",
     "wof:parent_id":1092050627,
     "wof:placetype":"locality",

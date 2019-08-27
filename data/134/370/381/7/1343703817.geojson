@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.21407,27.9337,85.25407,27.9737",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343703817,
-    "wof:lastmodified":1536892293,
+    "wof:lastmodified":1566664901,
     "wof:name":"Chokade",
     "wof:parent_id":1092049133,
     "wof:placetype":"locality",

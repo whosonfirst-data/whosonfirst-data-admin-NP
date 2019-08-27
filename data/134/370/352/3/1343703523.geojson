@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.65748,26.65087,87.69748,26.69087",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343703523,
-    "wof:lastmodified":1536892687,
+    "wof:lastmodified":1566664872,
     "wof:name":"Adiyamahal",
     "wof:parent_id":1092050367,
     "wof:placetype":"locality",

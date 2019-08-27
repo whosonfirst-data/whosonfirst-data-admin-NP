@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.21801,26.92696,87.25801,26.96696",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nep_x_preferred":[
         "K\u0101kh\u0101\u1e6dol"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226664057,
-    "wof:lastmodified":1537676131,
+    "wof:lastmodified":1566671531,
     "wof:name":"Kakhatol",
     "wof:parent_id":1092049207,
     "wof:placetype":"locality",

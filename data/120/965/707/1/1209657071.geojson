@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.88715,26.83879,87.92715,26.87879",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7952669
     },
     "wof:country":"NP",
-    "wof:geomhash":"d1fcad3aef619a146a5ae2c8a2e42b6a",
+    "wof:geomhash":"d350a6bb93d5eeac0b92857fca533fc2",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209657071,
-    "wof:lastmodified":1536280391,
+    "wof:lastmodified":1566667446,
     "wof:name":"Rakase",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     87.90715,
-    26.858790000000006,
+    26.85879000000001,
     87.90715,
-    26.858790000000006
+    26.85879000000001
 ],
   "geometry": {"coordinates":[87.90715,26.85879000000001],"type":"Point"}
 }

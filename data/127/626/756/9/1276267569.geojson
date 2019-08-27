@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.60757,27.00661,87.64757,27.04661",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0644\u0642\u0627\u0637\u0629"
     ],
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":1276267569,
-    "wof:lastmodified":1564110345,
+    "wof:lastmodified":1566666655,
     "wof:name":"Legata",
     "wof:parent_id":1092049165,
     "wof:placetype":"locality",

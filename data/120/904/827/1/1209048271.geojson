@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.45874,27.86732,83.49874,27.90732",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7976586
     },
     "wof:country":"NP",
-    "wof:geomhash":"69a10fc105834fb907064b3b5fff6dc0",
+    "wof:geomhash":"656ba80c0e1618bcb412534fc822686a",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209048271,
-    "wof:lastmodified":1536299326,
+    "wof:lastmodified":1566667903,
     "wof:name":"Sirukharka",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     83.47874,
-    27.887320000000006,
+    27.88732000000001,
     83.47874,
-    27.887320000000006
+    27.88732000000001
 ],
   "geometry": {"coordinates":[83.47874,27.88732000000001],"type":"Point"}
 }

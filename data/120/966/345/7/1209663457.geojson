@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.3169,26.58133,87.3569,26.62133",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Madanpur"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209663457,
-    "wof:lastmodified":1564112326,
+    "wof:lastmodified":1566667842,
     "wof:name":"Madanpur",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

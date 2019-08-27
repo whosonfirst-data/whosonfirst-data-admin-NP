@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.92546,27.87293,83.96546,27.91293",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1277114177,
-    "wof:lastmodified":1536722585,
+    "wof:lastmodified":1566667387,
     "wof:name":"Ghumari",
     "wof:parent_id":1092050053,
     "wof:placetype":"locality",

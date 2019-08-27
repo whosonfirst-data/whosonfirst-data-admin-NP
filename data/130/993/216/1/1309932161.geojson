@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.96132,28.49698,81.00132,28.53698",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mai_x_preferred":[
         "\u0930\u091c\u0935\u093e\u0930\u093e"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1309932161,
-    "wof:lastmodified":1564115779,
+    "wof:lastmodified":1566669870,
     "wof:name":"Rajwara",
     "wof:parent_id":1092048743,
     "wof:placetype":"locality",

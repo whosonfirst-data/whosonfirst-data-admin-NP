@@ -10,8 +10,12 @@
     "geom:latitude":28.91667,
     "geom:longitude":83.91667,
     "iso:country":"NP",
+    "lbl:bbox":"83.81667,28.81667,84.01667,29.01667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "\u09ae\u09c1\u09b8\u09cd\u09a4\u09be\u0999 \u099c\u09c7\u09b2\u09be"
@@ -100,7 +104,7 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bc1\u0bb8\u0bcd\u0ba4\u0bbe\u0b99\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mastang"
     ],
     "name:urd_x_preferred":[
@@ -147,7 +151,6 @@
     "wof:concordances":{
         "gn:id":1283023,
         "gp:id":23706775,
-        "qs:id":1103572,
         "qs_pg:id":1103572,
         "wd:id":"Q2239575",
         "wk:page":"Mustang District"
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":421188601,
-    "wof:lastmodified":1563242710,
+    "wof:lastmodified":1566669988,
     "wof:name":"Mustang",
     "wof:parent_id":1092048365,
     "wof:placetype":"localadmin",

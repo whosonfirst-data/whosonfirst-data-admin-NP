@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.22855,27.55793,85.26855,27.59793",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1193061613,
-    "wof:lastmodified":1536377269,
+    "wof:lastmodified":1566668281,
     "wof:name":"Jatipokhari",
     "wof:parent_id":1092049017,
     "wof:placetype":"locality",

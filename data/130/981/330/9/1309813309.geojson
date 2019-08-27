@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.43756,26.90386,86.47756,26.94386",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nep_x_preferred":[
         "Joge\u1e0d\u0101\u0303\u1e0d\u0101"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1309813309,
-    "wof:lastmodified":1537676137,
+    "wof:lastmodified":1566669960,
     "wof:name":"Jogedada",
     "wof:parent_id":1092050179,
     "wof:placetype":"locality",

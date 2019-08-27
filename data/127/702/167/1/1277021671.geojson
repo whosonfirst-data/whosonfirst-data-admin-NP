@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.44339,27.22857,87.48339,27.26857",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1277021671,
-    "wof:lastmodified":1536849868,
+    "wof:lastmodified":1566666963,
     "wof:name":"Alubari",
     "wof:parent_id":1092049597,
     "wof:placetype":"locality",

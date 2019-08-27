@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.76856,27.27636,87.80856,27.31636",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226284415,
-    "wof:lastmodified":1536877071,
+    "wof:lastmodified":1566671240,
     "wof:name":"Khese",
     "wof:parent_id":1092049813,
     "wof:placetype":"locality",

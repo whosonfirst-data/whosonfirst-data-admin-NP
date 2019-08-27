@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.33101,27.16294,87.37101,27.20294",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1327182385,
-    "wof:lastmodified":1537040191,
+    "wof:lastmodified":1566664469,
     "wof:name":"Batakharka",
     "wof:parent_id":1092049207,
     "wof:placetype":"locality",

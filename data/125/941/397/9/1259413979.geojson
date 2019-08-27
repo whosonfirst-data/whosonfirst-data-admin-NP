@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.61317,28.56026,81.65317,28.60026",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Padampur"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1259413979,
-    "wof:lastmodified":1564117475,
+    "wof:lastmodified":1566670906,
     "wof:name":"Padampur",
     "wof:parent_id":1092049963,
     "wof:placetype":"locality",

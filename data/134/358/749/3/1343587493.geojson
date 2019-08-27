@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.00172,29.54003,81.04172,29.58003",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343587493,
-    "wof:lastmodified":1537058008,
+    "wof:lastmodified":1566665145,
     "wof:name":"Lekgaun",
     "wof:parent_id":1092048571,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.20738,28.03894,85.24738,28.07894",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0916\u0938\u0930\u093e"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1343699621,
-    "wof:lastmodified":1564108317,
+    "wof:lastmodified":1566665099,
     "wof:name":"Khasra",
     "wof:parent_id":1092048409,
     "wof:placetype":"locality",

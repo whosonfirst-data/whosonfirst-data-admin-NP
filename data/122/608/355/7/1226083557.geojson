@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.47525,28.14173,84.51525,28.18173",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226083557,
-    "wof:lastmodified":1536670536,
+    "wof:lastmodified":1566671915,
     "wof:name":"Taugun",
     "wof:parent_id":1092050009,
     "wof:placetype":"locality",

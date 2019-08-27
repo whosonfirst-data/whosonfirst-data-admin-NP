@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.12001,26.41729,87.16001,26.45729",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Kaptanganj"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1309721699,
-    "wof:lastmodified":1564115949,
+    "wof:lastmodified":1566669980,
     "wof:name":"Kaptanganj",
     "wof:parent_id":1092049923,
     "wof:placetype":"locality",

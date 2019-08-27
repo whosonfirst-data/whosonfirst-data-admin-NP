@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.50234,28.43819,83.54234,28.47819",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343603159,
-    "wof:lastmodified":1537036141,
+    "wof:lastmodified":1566665182,
     "wof:name":"Darmija",
     "wof:parent_id":1092049089,
     "wof:placetype":"locality",

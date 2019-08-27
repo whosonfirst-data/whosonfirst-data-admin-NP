@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.79009,28.03083,82.83009,28.07083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u041a\u0438\u0442\u0430\u0438"
     ],
@@ -575,7 +579,7 @@
         }
     ],
     "wof:id":1243586759,
-    "wof:lastmodified":1564116664,
+    "wof:lastmodified":1566670425,
     "wof:name":"China",
     "wof:parent_id":1092049377,
     "wof:placetype":"locality",

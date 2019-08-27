@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.69579,27.97796,82.73579,28.01796",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Loharpani"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1309832471,
-    "wof:lastmodified":1564115654,
+    "wof:lastmodified":1566669790,
     "wof:name":"Loharpani",
     "wof:parent_id":1092048605,
     "wof:placetype":"locality",

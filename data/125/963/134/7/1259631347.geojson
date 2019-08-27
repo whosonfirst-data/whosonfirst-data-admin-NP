@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.25236,26.79588,86.29236,26.83588",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Pipra"
     ],
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":1259631347,
-    "wof:lastmodified":1564117354,
+    "wof:lastmodified":1566670833,
     "wof:name":"Pipra",
     "wof:parent_id":1092050497,
     "wof:placetype":"locality",

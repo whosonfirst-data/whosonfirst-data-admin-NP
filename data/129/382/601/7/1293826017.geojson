@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.36729,26.49959,87.40729,26.53959",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293826017,
-    "wof:lastmodified":1536796381,
+    "wof:lastmodified":1566665973,
     "wof:name":"Hurhuriyatol",
     "wof:parent_id":1092048303,
     "wof:placetype":"locality",

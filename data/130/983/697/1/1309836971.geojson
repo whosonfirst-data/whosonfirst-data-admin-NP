@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.87949,28.31936,82.91949,28.35936",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0631\u062c\u0627"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1309836971,
-    "wof:lastmodified":1564115661,
+    "wof:lastmodified":1566669795,
     "wof:name":"Sirja",
     "wof:parent_id":1092049455,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.61901,28.9555,81.65901,28.9955",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dty_x_preferred":[
         "\u0915\u0941\u0938\u093e\u092a\u093e\u0928\u0940"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1259816363,
-    "wof:lastmodified":1564117927,
+    "wof:lastmodified":1566671197,
     "wof:name":"Kusapani",
     "wof:parent_id":1092050583,
     "wof:placetype":"locality",

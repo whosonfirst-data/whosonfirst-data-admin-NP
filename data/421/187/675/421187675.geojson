@@ -10,8 +10,12 @@
     "geom:latitude":28.55369,
     "geom:longitude":84.25097,
     "iso:country":"NP",
+    "lbl:bbox":"84.23097,28.53369,84.27097,28.57369",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Chame"
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":6941689,
         "gp:id":2269061,
-        "qs:id":1083756,
+        "qs_pg:id":1083756,
         "wd:id":"Q2299059"
     },
     "wof:country":"NP",
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421187675,
-    "wof:lastmodified":1563242703,
+    "wof:lastmodified":1566669986,
     "wof:name":"Chame",
     "wof:parent_id":1092049041,
     "wof:placetype":"locality",

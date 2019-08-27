@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.24839,28.00323,85.28839,28.04323",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Arukharka"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1326878545,
-    "wof:lastmodified":1564106288,
+    "wof:lastmodified":1566663611,
     "wof:name":"Arukharka",
     "wof:parent_id":1092048409,
     "wof:placetype":"locality",

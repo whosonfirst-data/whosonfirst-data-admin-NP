@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.03344,28.44845,82.07344,28.48845",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310233171,
-    "wof:lastmodified":1536811900,
+    "wof:lastmodified":1566669047,
     "wof:name":"Parikanda",
     "wof:parent_id":1092049579,
     "wof:placetype":"locality",

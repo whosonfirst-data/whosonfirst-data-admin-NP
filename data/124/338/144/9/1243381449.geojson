@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.25372,28.49402,83.29372,28.53402",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lumsumkh\u0101ni",
         "Lumsum"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1243381449,
-    "wof:lastmodified":1537676049,
+    "wof:lastmodified":1566670008,
     "wof:name":"Lumsum",
     "wof:parent_id":1092049089,
     "wof:placetype":"locality",

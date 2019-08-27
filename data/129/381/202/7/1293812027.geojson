@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.66283,27.92472,82.70283,27.96472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hansipur"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1293812027,
-    "wof:lastmodified":1564110105,
+    "wof:lastmodified":1566666469,
     "wof:name":"Hansipur",
     "wof:parent_id":1092048605,
     "wof:placetype":"locality",

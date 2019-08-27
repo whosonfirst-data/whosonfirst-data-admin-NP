@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.42578,26.91058,87.46578,26.95058",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nep_x_preferred":[
         "L\u0101h\u0101tapp\u0101"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293116565,
-    "wof:lastmodified":1537676128,
+    "wof:lastmodified":1566666388,
     "wof:name":"Lahatappa",
     "wof:parent_id":1092049207,
     "wof:placetype":"locality",

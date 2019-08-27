@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.89273,28.11483,82.93273,28.15483",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276255415,
-    "wof:lastmodified":1536882501,
+    "wof:lastmodified":1566667020,
     "wof:name":"Jahane Pokhara",
     "wof:parent_id":1092049377,
     "wof:placetype":"locality",

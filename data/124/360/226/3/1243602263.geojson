@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.38315,27.14181,87.42315,27.18181",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1243602263,
-    "wof:lastmodified":1537074916,
+    "wof:lastmodified":1566670453,
     "wof:name":"Takure",
     "wof:parent_id":1092049597,
     "wof:placetype":"locality",

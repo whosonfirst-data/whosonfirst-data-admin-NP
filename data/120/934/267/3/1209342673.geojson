@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.81387,29.71097,80.85387,29.75097",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7940467
     },
     "wof:country":"NP",
-    "wof:geomhash":"d90f5f21a408aa33fe301fed91066111",
+    "wof:geomhash":"6cabd3b3438430c3ff0322d13ec3a76d",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209342673,
-    "wof:lastmodified":1536290013,
+    "wof:lastmodified":1566667998,
     "wof:name":"Padathi",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     80.83386999999998,
-    29.730970000000006,
+    29.73097000000001,
     80.83386999999998,
-    29.730970000000006
+    29.73097000000001
 ],
   "geometry": {"coordinates":[80.83386999999998,29.73097000000001],"type":"Point"}
 }

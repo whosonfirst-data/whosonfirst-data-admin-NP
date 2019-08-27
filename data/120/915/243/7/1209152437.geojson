@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.07027,27.50308,85.11027,27.54308",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bhorle"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209152437,
-    "wof:lastmodified":1564111886,
+    "wof:lastmodified":1566667594,
     "wof:name":"Bhorle",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

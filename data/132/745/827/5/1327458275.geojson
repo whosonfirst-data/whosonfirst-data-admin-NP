@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.01838,28.75294,82.05838,28.79294",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b0\u09be\u0997"
     ],
@@ -158,7 +162,7 @@
         }
     ],
     "wof:id":1327458275,
-    "wof:lastmodified":1564107305,
+    "wof:lastmodified":1566664358,
     "wof:name":"Raga",
     "wof:parent_id":1092048763,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.78397,27.55232,85.82397,27.59232",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1259701645,
-    "wof:lastmodified":1537039205,
+    "wof:lastmodified":1566670900,
     "wof:name":"Dahaltol",
     "wof:parent_id":1092048887,
     "wof:placetype":"locality",

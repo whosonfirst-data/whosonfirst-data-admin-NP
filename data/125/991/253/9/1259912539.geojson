@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.40845,28.87086,80.44845,28.91086",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Banda"
     ],
@@ -149,7 +153,7 @@
         }
     ],
     "wof:id":1259912539,
-    "wof:lastmodified":1564117286,
+    "wof:lastmodified":1566670793,
     "wof:name":"Banda",
     "wof:parent_id":1092048227,
     "wof:placetype":"locality",

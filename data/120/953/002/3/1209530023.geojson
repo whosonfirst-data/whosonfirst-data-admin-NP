@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"88.1585,26.75375,88.1985,26.79375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nep_x_preferred":[
         "Tiri\u1e45"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209530023,
-    "wof:lastmodified":1537676116,
+    "wof:lastmodified":1566667441,
     "wof:name":"Tirin",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

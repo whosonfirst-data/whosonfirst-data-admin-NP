@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.08972,27.42396,87.12972,27.46396",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1277021827,
-    "wof:lastmodified":1536849684,
+    "wof:lastmodified":1566666976,
     "wof:name":"Mulgaun",
     "wof:parent_id":1092049883,
     "wof:placetype":"locality",

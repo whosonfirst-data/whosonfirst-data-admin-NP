@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.9181,28.77334,81.9581,28.81334",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1193048891,
-    "wof:lastmodified":1536367579,
+    "wof:lastmodified":1566668388,
     "wof:name":"Bhalukuiyan",
     "wof:parent_id":1092048763,
     "wof:placetype":"locality",

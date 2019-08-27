@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.91313,28.36934,81.95313,28.40934",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1326461195,
-    "wof:lastmodified":1537083225,
+    "wof:lastmodified":1566664067,
     "wof:name":"Kharkhare",
     "wof:parent_id":1092049963,
     "wof:placetype":"locality",

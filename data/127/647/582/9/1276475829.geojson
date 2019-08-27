@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.89312,29.25727,80.93312,29.29727",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276475829,
-    "wof:lastmodified":1537081997,
+    "wof:lastmodified":1566667062,
     "wof:name":"Tikhagaun",
     "wof:parent_id":1092048653,
     "wof:placetype":"locality",

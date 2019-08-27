@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.09442,27.74079,85.13442,27.78079",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1242921587,
-    "wof:lastmodified":1537062542,
+    "wof:lastmodified":1566670196,
     "wof:name":"Japhati",
     "wof:parent_id":1092050661,
     "wof:placetype":"locality",

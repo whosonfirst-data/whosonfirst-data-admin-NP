@@ -10,8 +10,12 @@
     "geom:latitude":27.7752,
     "geom:longitude":85.7104,
     "iso:country":"NP",
+    "lbl:bbox":"85.6904,27.7552,85.7304,27.7952",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Chautara"
@@ -40,7 +44,7 @@
     "name:por_x_preferred":[
         "Chautara"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Choutar\u0101"
     ],
     "name:urd_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":1283539,
         "gp:id":2269080,
-        "qs:id":318190,
+        "qs_pg:id":318190,
         "wd:id":"Q1847588",
         "wk:page":"Chautara"
     },
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":421178953,
-    "wof:lastmodified":1563242735,
+    "wof:lastmodified":1566669995,
     "wof:name":"Chautara",
     "wof:parent_id":1092049755,
     "wof:placetype":"locality",

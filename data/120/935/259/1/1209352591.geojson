@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.93228,27.9262,85.97228,27.9662",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tatopani"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1209352591,
-    "wof:lastmodified":1564112351,
+    "wof:lastmodified":1566667856,
     "wof:name":"Tatopani",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

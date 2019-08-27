@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.18853,27.01844,86.22853,27.05844",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ratmate"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1193079007,
-    "wof:lastmodified":1564113000,
+    "wof:lastmodified":1566668224,
     "wof:name":"Ratmate",
     "wof:parent_id":1092049679,
     "wof:placetype":"locality",

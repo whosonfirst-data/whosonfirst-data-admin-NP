@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.73136,28.79879,81.77136,28.83879",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Thali"
     ],
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":1326856643,
-    "wof:lastmodified":1564106820,
+    "wof:lastmodified":1566663995,
     "wof:name":"Thali",
     "wof:parent_id":1092050583,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.05552,28.911,81.09552,28.951",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nep_x_preferred":[
         "Dhanr\u0101s"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1243572123,
-    "wof:lastmodified":1537676057,
+    "wof:lastmodified":1566670421,
     "wof:name":"Dhanras",
     "wof:parent_id":1092049963,
     "wof:placetype":"locality",

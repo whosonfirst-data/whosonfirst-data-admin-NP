@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.56586,29.01971,81.60586,29.05971",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276470695,
-    "wof:lastmodified":1537088779,
+    "wof:lastmodified":1566667061,
     "wof:name":"Patesalla",
     "wof:parent_id":1092050583,
     "wof:placetype":"locality",

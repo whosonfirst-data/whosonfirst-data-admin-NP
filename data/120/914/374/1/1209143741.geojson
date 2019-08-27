@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.397,27.63,84.437,27.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Bharatpur"
     ],
@@ -69,8 +73,7 @@
         "\u0baa\u0bb0\u0ba4\u0bcd\u0baa\u0bc2\u0bb0\u0bcd"
     ],
     "name:und_x_variant":[
-        "Baratpur",
-        "Bharatpur"
+        "Baratpur"
     ],
     "name:urd_x_preferred":[
         "\u0628\u06be\u0631\u062a \u067e\u0648\u0631"
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1209143741,
-    "wof:lastmodified":1564112247,
+    "wof:lastmodified":1566667797,
     "wof:name":"Bharatpur",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

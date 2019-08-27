@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.15205,29.87348,81.19205,29.91348",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1210044725,
-    "wof:lastmodified":1536380229,
+    "wof:lastmodified":1566668198,
     "wof:name":"Chaurapani",
     "wof:parent_id":1092048571,
     "wof:placetype":"locality",

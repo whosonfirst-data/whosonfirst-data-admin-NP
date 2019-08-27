@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.60724,26.9686,86.64724,27.0086",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Okhreni"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1326978167,
-    "wof:lastmodified":1564107047,
+    "wof:lastmodified":1566664164,
     "wof:name":"Okhreni",
     "wof:parent_id":1092050179,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":87.5,
     "gn:country":"NP",
     "gn:fcode":"ADM3",
-    "gn:pop":908459,
+    "gn:population":908459,
     "iso:country":"NP",
+    "lbl:bbox":"87.4,26.56667,87.6,26.76667",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":5.0,
     "name:ben_x_preferred":[
         "\u09ae\u09cb\u09b0\u0999 \u099c\u09c7\u09b2\u09be"
     ],
@@ -108,9 +112,6 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0440\u0430\u043d\u0491"
     ],
-    "name:unk_x_variant":[
-        "Morang District"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u0631\u0646\u06af \u0636\u0644\u0639"
     ],
@@ -136,7 +137,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1283040,
-        "qs:id":555732,
+        "qs_pg:id":555732,
         "wd:id":"Q28083",
         "wk:page":"Morang District"
     },
@@ -160,7 +161,7 @@
         }
     ],
     "wof:id":890422351,
-    "wof:lastmodified":1563242745,
+    "wof:lastmodified":1566669998,
     "wof:name":"Morang",
     "wof:parent_id":1092048303,
     "wof:placetype":"localadmin",

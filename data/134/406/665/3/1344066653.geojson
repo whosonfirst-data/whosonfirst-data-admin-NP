@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.11348,28.20018,85.15348,28.24018",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Awan"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1344066653,
-    "wof:lastmodified":1564107741,
+    "wof:lastmodified":1566664683,
     "wof:name":"Awan",
     "wof:parent_id":1092050661,
     "wof:placetype":"locality",

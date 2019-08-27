@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.16725,28.24537,82.20725,28.28537",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Aruchaur"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1225873101,
-    "wof:lastmodified":1564118685,
+    "wof:lastmodified":1566671652,
     "wof:name":"Aruchaur",
     "wof:parent_id":1092049579,
     "wof:placetype":"locality",

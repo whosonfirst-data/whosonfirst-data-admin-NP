@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.17475,28.15915,83.21475,28.19915",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1243120177,
-    "wof:lastmodified":1536779519,
+    "wof:lastmodified":1566670315,
     "wof:name":"Bada Pokharichaur",
     "wof:parent_id":1092050755,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.65571,28.32799,82.69571,28.36799",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7982981
     },
     "wof:country":"NP",
-    "wof:geomhash":"503b7cdfde2873df4878816340e40431",
+    "wof:geomhash":"239d970e775c98a3c61b71aad6eae909",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209134017,
-    "wof:lastmodified":1536296718,
+    "wof:lastmodified":1566667750,
     "wof:name":"Khaigaun",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     82.67571,
-    28.347990000000006,
+    28.34799000000001,
     82.67571,
-    28.347990000000006
+    28.34799000000001
 ],
   "geometry": {"coordinates":[82.67571,28.34799000000001],"type":"Point"}
 }

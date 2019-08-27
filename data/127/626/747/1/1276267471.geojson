@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.29679,27.84695,83.33679,27.88695",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u092a\u0923\u0947\u0928\u093e"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1276267471,
-    "wof:lastmodified":1564110337,
+    "wof:lastmodified":1566666649,
     "wof:name":"Panena",
     "wof:parent_id":1092049537,
     "wof:placetype":"locality",

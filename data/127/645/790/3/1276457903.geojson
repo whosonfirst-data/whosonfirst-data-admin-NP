@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.22057,27.91007,85.26057,27.95007",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276457903,
-    "wof:lastmodified":1536609005,
+    "wof:lastmodified":1566666669,
     "wof:name":"Birathok",
     "wof:parent_id":1092049133,
     "wof:placetype":"locality",

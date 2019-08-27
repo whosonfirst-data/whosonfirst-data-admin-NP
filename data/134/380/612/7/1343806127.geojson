@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.09591,27.94166,85.13591,27.98166",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343806127,
-    "wof:lastmodified":1536744815,
+    "wof:lastmodified":1566665476,
     "wof:name":"Takhung",
     "wof:parent_id":1092049133,
     "wof:placetype":"locality",

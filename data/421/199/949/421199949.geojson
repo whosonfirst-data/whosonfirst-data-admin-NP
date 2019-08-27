@@ -9,12 +9,16 @@
     "geom:bbox":"86.83333,27.25,86.83333,27.25",
     "geom:latitude":27.25,
     "geom:longitude":86.83333,
-    "gn:gn_country":"NP",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":234084,
+    "gn:country":"NP",
+    "gn:fcode":"ADM3",
+    "gn:population":234084,
     "iso:country":"NP",
+    "lbl:bbox":"86.73333,27.15,86.93333,27.35",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "\u0996\u09cb\u099f\u09be\u0999 \u099c\u09c7\u09b2\u09be"
@@ -165,7 +169,6 @@
     "wof:concordances":{
         "gn:id":1283202,
         "gp:id":23706755,
-        "qs:id":203284,
         "qs_pg:id":203284,
         "wd:id":"Q28599",
         "wk:page":"Khotang District"
@@ -190,7 +193,7 @@
         }
     ],
     "wof:id":421199949,
-    "wof:lastmodified":1563242720,
+    "wof:lastmodified":1566669991,
     "wof:name":"Khotang",
     "wof:parent_id":1092050841,
     "wof:placetype":"localadmin",

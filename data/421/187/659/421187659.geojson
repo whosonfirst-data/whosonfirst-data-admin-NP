@@ -10,8 +10,12 @@
     "geom:latitude":27.93921,
     "geom:longitude":84.41684,
     "iso:country":"NP",
+    "lbl:bbox":"84.39684,27.91921,84.43684,27.95921",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Band\u012bpur"
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":1283680,
         "gp:id":2268342,
-        "qs:id":1083739,
+        "qs_pg:id":1083739,
         "wd:id":"Q806327",
         "wk:page":"Bandipur"
     },
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":421187659,
-    "wof:lastmodified":1563242705,
+    "wof:lastmodified":1566669987,
     "wof:name":"Band\u012bpur",
     "wof:parent_id":1092050053,
     "wof:placetype":"locality",

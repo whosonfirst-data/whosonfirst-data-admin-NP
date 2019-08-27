@@ -10,8 +10,12 @@
     "geom:latitude":27.62979,
     "geom:longitude":85.52138,
     "iso:country":"NP",
+    "lbl:bbox":"85.50138,27.60979,85.54138,27.64979",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bho_x_preferred":[
         "\u092c\u0928\u0947\u092a\u093e"
@@ -61,7 +65,7 @@
     "name:sah_x_preferred":[
         "\u0411\u0430\u043d\u0435\u043f\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Panepa"
     ],
     "name:urd_x_preferred":[
@@ -107,7 +111,7 @@
     "wof:concordances":{
         "gn:id":1283679,
         "gp:id":2268343,
-        "qs:id":279848,
+        "qs_pg:id":279848,
         "wd:id":"Q1760422",
         "wk:page":"Banepa"
     },
@@ -131,7 +135,7 @@
         }
     ],
     "wof:id":421166959,
-    "wof:lastmodified":1563242688,
+    "wof:lastmodified":1566669982,
     "wof:name":"Banepa",
     "wof:parent_id":1092048887,
     "wof:placetype":"locality",

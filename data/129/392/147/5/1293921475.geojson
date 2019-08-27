@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.93784,26.70647,86.97784,26.74647",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kalyanpur"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1293921475,
-    "wof:lastmodified":1564109696,
+    "wof:lastmodified":1566666156,
     "wof:name":"Kalyanpur",
     "wof:parent_id":1092048485,
     "wof:placetype":"locality",

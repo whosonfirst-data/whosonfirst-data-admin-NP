@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.77368,29.17253,80.81368,29.21253",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sikhar"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1243482635,
-    "wof:lastmodified":1564116461,
+    "wof:lastmodified":1566670298,
     "wof:name":"Sikhar",
     "wof:parent_id":1092048653,
     "wof:placetype":"locality",

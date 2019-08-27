@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.14815,28.41139,81.18815,28.45139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":8009281
     },
     "wof:country":"NP",
-    "wof:geomhash":"079d7173f175ffa51dc002222199769d",
+    "wof:geomhash":"00c7c7937a1dc1e6f29538a1191d3fb5",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209648241,
-    "wof:lastmodified":1536280665,
+    "wof:lastmodified":1566667511,
     "wof:name":"Jaypur",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     81.16815,
-    28.431390000000004,
+    28.43139,
     81.16815,
-    28.431390000000004
+    28.43139
 ],
   "geometry": {"coordinates":[81.16815,28.43139],"type":"Point"}
 }

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.82047,27.2003,87.86047,27.2403",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lali"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1360033289,
-    "wof:lastmodified":1564115568,
+    "wof:lastmodified":1566669727,
     "wof:name":"Lali",
     "wof:parent_id":1092049165,
     "wof:placetype":"locality",

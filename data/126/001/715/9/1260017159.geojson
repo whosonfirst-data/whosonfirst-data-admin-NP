@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.5765,27.89319,84.6165,27.93319",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1260017159,
-    "wof:lastmodified":1537080253,
+    "wof:lastmodified":1566668830,
     "wof:name":"Chyarpa",
     "wof:parent_id":1092050351,
     "wof:placetype":"locality",

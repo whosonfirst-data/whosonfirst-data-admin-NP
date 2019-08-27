@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.95432,28.89493,81.99432,28.93493",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nipane"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1226574053,
-    "wof:lastmodified":1564118552,
+    "wof:lastmodified":1566671570,
     "wof:name":"Nipane",
     "wof:parent_id":1092048763,
     "wof:placetype":"locality",

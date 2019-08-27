@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.09378,28.26647,82.13378,28.30647",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1209843853,
-    "wof:lastmodified":1536391548,
+    "wof:lastmodified":1566667556,
     "wof:name":"Pangchabale",
     "wof:parent_id":1092049579,
     "wof:placetype":"locality",

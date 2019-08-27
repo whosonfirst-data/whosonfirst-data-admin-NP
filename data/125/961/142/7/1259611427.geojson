@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.88517,28.70535,82.92517,28.74535",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259611427,
-    "wof:lastmodified":1536674614,
+    "wof:lastmodified":1566671023,
     "wof:name":"Tijyan",
     "wof:parent_id":1092049495,
     "wof:placetype":"locality",

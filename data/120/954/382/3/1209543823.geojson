@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.49418,28.88072,81.53418,28.92072",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lyati Bindraseni"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1209543823,
-    "wof:lastmodified":1564111571,
+    "wof:lastmodified":1566667425,
     "wof:name":"Lyati Bindraseni",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

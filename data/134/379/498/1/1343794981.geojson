@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.95555,29.35982,80.99555,29.39982",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343794981,
-    "wof:lastmodified":1536761436,
+    "wof:lastmodified":1566664810,
     "wof:name":"Dhunpakha",
     "wof:parent_id":1092048653,
     "wof:placetype":"locality",

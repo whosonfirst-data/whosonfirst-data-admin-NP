@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.24174,26.80022,87.28174,26.84022",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7997676
     },
     "wof:country":"NP",
-    "wof:geomhash":"0c80c59040bfa9f39b49af477d2db5f8",
+    "wof:geomhash":"66dee2eb3415e40948bdb04c87bdb837",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209162657,
-    "wof:lastmodified":1536295848,
+    "wof:lastmodified":1566668028,
     "wof:name":"Mangalbarechok",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     87.26174,
-    26.820220000000006,
+    26.82022000000001,
     87.26174,
-    26.820220000000006
+    26.82022000000001
 ],
   "geometry": {"coordinates":[87.26174,26.82022000000001],"type":"Point"}
 }

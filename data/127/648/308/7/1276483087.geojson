@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.11111,26.86244,85.15111,26.90244",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bak_x_preferred":[
         "\u041f\u0430\u0440\u0441\u0430"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1276483087,
-    "wof:lastmodified":1564111130,
+    "wof:lastmodified":1566667156,
     "wof:name":"Parsa",
     "wof:parent_id":1092048051,
     "wof:placetype":"locality",

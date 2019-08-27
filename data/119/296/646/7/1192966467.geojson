@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.17573,26.70532,86.21573,26.74532",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u091a\u0924\u0930\u0940"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1192966467,
-    "wof:lastmodified":1564113398,
+    "wof:lastmodified":1566668463,
     "wof:name":"Chatari",
     "wof:parent_id":1092050497,
     "wof:placetype":"locality",

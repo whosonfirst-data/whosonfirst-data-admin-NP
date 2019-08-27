@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.64931,29.25694,81.68931,29.29694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kharan"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1343794789,
-    "wof:lastmodified":1564107896,
+    "wof:lastmodified":1566664801,
     "wof:name":"Kharan",
     "wof:parent_id":1092048809,
     "wof:placetype":"locality",

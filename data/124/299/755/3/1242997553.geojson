@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.504,29.61299,80.544,29.65299",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1242997553,
-    "wof:lastmodified":1536955910,
+    "wof:lastmodified":1566670608,
     "wof:name":"Mallo Dol",
     "wof:parent_id":1092050255,
     "wof:placetype":"locality",

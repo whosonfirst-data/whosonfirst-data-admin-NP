@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.65711,29.60661,80.69711,29.64661",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Mad"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1259816203,
-    "wof:lastmodified":1564117911,
+    "wof:lastmodified":1566671188,
     "wof:name":"Mad",
     "wof:parent_id":1092050255,
     "wof:placetype":"locality",

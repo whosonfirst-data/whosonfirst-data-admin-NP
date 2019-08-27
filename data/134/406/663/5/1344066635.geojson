@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.24608,28.07423,85.28608,28.11423",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Gigan"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1344066635,
-    "wof:lastmodified":1564107740,
+    "wof:lastmodified":1566664682,
     "wof:name":"Gigan",
     "wof:parent_id":1092048409,
     "wof:placetype":"locality",

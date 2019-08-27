@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.30924,28.19267,84.34924,28.23267",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1193209963,
-    "wof:lastmodified":1536364905,
+    "wof:lastmodified":1566668472,
     "wof:name":"Shitaleswanra",
     "wof:parent_id":1092050009,
     "wof:placetype":"locality",

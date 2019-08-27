@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.98582,27.813,84.02582,27.853",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Malang"
     ],
@@ -182,7 +186,7 @@
         }
     ],
     "wof:id":1193084887,
-    "wof:lastmodified":1564113072,
+    "wof:lastmodified":1566668270,
     "wof:name":"Malang",
     "wof:parent_id":1092050889,
     "wof:placetype":"locality",

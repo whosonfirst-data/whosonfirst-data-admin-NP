@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.01821,29.42347,82.05821,29.46347",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mere"
     ],
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":1242703909,
-    "wof:lastmodified":1564116747,
+    "wof:lastmodified":1566670467,
     "wof:name":"Mere",
     "wof:parent_id":1092050797,
     "wof:placetype":"locality",

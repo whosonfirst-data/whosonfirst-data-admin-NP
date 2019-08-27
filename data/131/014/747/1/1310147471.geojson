@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.32651,28.00774,83.36651,28.04774",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310147471,
-    "wof:lastmodified":1536936762,
+    "wof:lastmodified":1566669107,
     "wof:name":"Dhawgaun",
     "wof:parent_id":1092050755,
     "wof:placetype":"locality",

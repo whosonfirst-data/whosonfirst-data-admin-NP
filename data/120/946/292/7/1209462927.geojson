@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.46025,28.14264,84.50025,28.18264",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7965849
     },
     "wof:country":"NP",
-    "wof:geomhash":"0e6e54b296ec8da302fe08766211d2c7",
+    "wof:geomhash":"535dcebd78e549c6f7741843020d9de2",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209462927,
-    "wof:lastmodified":1536286323,
+    "wof:lastmodified":1566667572,
     "wof:name":"Danda Kateri",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     84.48025,
-    28.162640000000003,
+    28.16264,
     84.48025,
-    28.162640000000003
+    28.16264
 ],
   "geometry": {"coordinates":[84.48025,28.16264],"type":"Point"}
 }

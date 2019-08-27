@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.7118,27.30595,86.7518,27.34595",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Koldada"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1226384291,
-    "wof:lastmodified":1564119300,
+    "wof:lastmodified":1566672000,
     "wof:name":"Koldanda",
     "wof:parent_id":1092050841,
     "wof:placetype":"locality",

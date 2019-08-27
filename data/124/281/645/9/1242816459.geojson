@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.875,27.09701,84.915,27.13701",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1242816459,
-    "wof:lastmodified":1536719981,
+    "wof:lastmodified":1566670169,
     "wof:name":"Ratanpur",
     "wof:parent_id":1092050453,
     "wof:placetype":"locality",

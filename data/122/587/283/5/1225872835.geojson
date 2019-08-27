@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.49468,29.10152,82.53468,29.14152",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1225872835,
-    "wof:lastmodified":1536974249,
+    "wof:lastmodified":1566671645,
     "wof:name":"Chhanchu",
     "wof:parent_id":1092050349,
     "wof:placetype":"locality",

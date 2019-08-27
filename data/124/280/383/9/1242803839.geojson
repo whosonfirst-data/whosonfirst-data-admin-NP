@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.44716,29.5745,80.48716,29.6145",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Deulek"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1242803839,
-    "wof:lastmodified":1564116186,
+    "wof:lastmodified":1566670129,
     "wof:name":"Deulek",
     "wof:parent_id":1092050255,
     "wof:placetype":"locality",

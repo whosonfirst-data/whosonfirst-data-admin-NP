@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.5281,27.65808,84.5681,27.69808",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310543215,
-    "wof:lastmodified":1536861145,
+    "wof:lastmodified":1566669196,
     "wof:name":"Bhateni",
     "wof:parent_id":1092050101,
     "wof:placetype":"locality",

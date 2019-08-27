@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.63207,28.52871,82.67207,28.56871",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259609509,
-    "wof:lastmodified":1536677382,
+    "wof:lastmodified":1566671075,
     "wof:name":"Upallo Ranchu",
     "wof:parent_id":1092049495,
     "wof:placetype":"locality",

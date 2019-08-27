@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.72107,28.88364,80.76107,28.92364",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7956765
     },
     "wof:country":"NP",
-    "wof:geomhash":"f7e89048b1e993c516d3070a94485f55",
+    "wof:geomhash":"e2f8886db29c20369e7fde8c10afa930",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209031007,
-    "wof:lastmodified":1536299850,
+    "wof:lastmodified":1566667893,
     "wof:name":"Chirkate Goth",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     80.74107,
-    28.903640000000006,
+    28.90364000000001,
     80.74107,
-    28.903640000000006
+    28.90364000000001
 ],
   "geometry": {"coordinates":[80.74106999999999,28.90364000000001],"type":"Point"}
 }

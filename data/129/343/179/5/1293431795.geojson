@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.93126,26.75385,85.97126,26.79385",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Jamuniya"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1293431795,
-    "wof:lastmodified":1564110204,
+    "wof:lastmodified":1566666547,
     "wof:name":"Jamuniya",
     "wof:parent_id":1092048127,
     "wof:placetype":"locality",

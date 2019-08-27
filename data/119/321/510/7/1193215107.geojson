@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.09528,28.15331,85.13528,28.19331",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1193215107,
-    "wof:lastmodified":1536381372,
+    "wof:lastmodified":1566668676,
     "wof:name":"Tiplingaun",
     "wof:parent_id":1092050661,
     "wof:placetype":"locality",

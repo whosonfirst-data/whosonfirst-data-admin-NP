@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.87511,27.22653,85.91511,27.26653",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1327382295,
-    "wof:lastmodified":1536753217,
+    "wof:lastmodified":1566663435,
     "wof:name":"Mantridando",
     "wof:parent_id":1092049679,
     "wof:placetype":"locality",

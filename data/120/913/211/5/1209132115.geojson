@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.6095,29.46864,81.6495,29.50864",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":8004663
     },
     "wof:country":"NP",
-    "wof:geomhash":"27bba17b48cf258f077dfbfe79e3d68e",
+    "wof:geomhash":"f578a45118a505019e617f41d11b4dc8",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209132115,
-    "wof:lastmodified":1536296775,
+    "wof:lastmodified":1566667744,
     "wof:name":"Sasta",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     81.6295,
-    29.488640000000004,
+    29.48864,
     81.6295,
-    29.488640000000004
+    29.48864
 ],
   "geometry": {"coordinates":[81.62949999999999,29.48864],"type":"Point"}
 }

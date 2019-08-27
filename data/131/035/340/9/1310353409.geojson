@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.7273,26.60735,87.7673,26.64735",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310353409,
-    "wof:lastmodified":1536637886,
+    "wof:lastmodified":1566669428,
     "wof:name":"Mujurbhitta",
     "wof:parent_id":1092050367,
     "wof:placetype":"locality",

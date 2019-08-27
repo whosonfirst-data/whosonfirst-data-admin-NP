@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.77181,26.73808,87.81181,26.77808",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1360222439,
-    "wof:lastmodified":1536747232,
+    "wof:lastmodified":1566669576,
     "wof:name":"Saguri",
     "wof:parent_id":1092048173,
     "wof:placetype":"locality",

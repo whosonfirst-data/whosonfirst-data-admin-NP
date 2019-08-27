@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.35915,28.06801,84.39915,28.10801",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Archale"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1309943481,
-    "wof:lastmodified":1564115838,
+    "wof:lastmodified":1566669908,
     "wof:name":"Archale",
     "wof:parent_id":1092050053,
     "wof:placetype":"locality",

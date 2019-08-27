@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.73492,28.88411,81.77492,28.92411",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1242906455,
-    "wof:lastmodified":1537083904,
+    "wof:lastmodified":1566670586,
     "wof:name":"Ratmela",
     "wof:parent_id":1092050583,
     "wof:placetype":"locality",

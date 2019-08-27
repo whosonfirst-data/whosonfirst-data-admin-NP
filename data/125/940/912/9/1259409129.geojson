@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.63921,28.21395,81.67921,28.25395",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259409129,
-    "wof:lastmodified":1536965479,
+    "wof:lastmodified":1566670919,
     "wof:name":"Bairihawa(Kauwakoda)",
     "wof:parent_id":1092050297,
     "wof:placetype":"locality",

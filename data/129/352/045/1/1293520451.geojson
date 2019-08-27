@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.23874,29.23766,82.27874,29.27766",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Garjyangkot"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1293520451,
-    "wof:lastmodified":1564109073,
+    "wof:lastmodified":1566665680,
     "wof:name":"Garjyangkot",
     "wof:parent_id":1092050797,
     "wof:placetype":"locality",

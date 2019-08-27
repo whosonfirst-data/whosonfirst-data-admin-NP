@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.17983,28.39711,82.21983,28.43711",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343690043,
-    "wof:lastmodified":1536912958,
+    "wof:lastmodified":1566665125,
     "wof:name":"Amalapani",
     "wof:parent_id":1092049579,
     "wof:placetype":"locality",

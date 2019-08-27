@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.67048,26.88498,85.71048,26.92498",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343703863,
-    "wof:lastmodified":1536892235,
+    "wof:lastmodified":1566664902,
     "wof:name":"Nagaraithatol",
     "wof:parent_id":1092049639,
     "wof:placetype":"locality",

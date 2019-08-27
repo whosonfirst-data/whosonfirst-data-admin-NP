@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.74853,27.1219,84.78853,27.1619",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1243311775,
-    "wof:lastmodified":1536999055,
+    "wof:lastmodified":1566670054,
     "wof:name":"Nichuta",
     "wof:parent_id":1092050453,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.16062,29.25952,82.20062,29.29952",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1243586829,
-    "wof:lastmodified":1537096835,
+    "wof:lastmodified":1566670439,
     "wof:name":"Sinhachaur",
     "wof:parent_id":1092050797,
     "wof:placetype":"locality",

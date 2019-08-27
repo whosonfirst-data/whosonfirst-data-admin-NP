@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.32182,27.85317,84.36182,27.89317",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293431547,
-    "wof:lastmodified":1536866399,
+    "wof:lastmodified":1566666529,
     "wof:name":"Khanibhitta",
     "wof:parent_id":1092050053,
     "wof:placetype":"locality",

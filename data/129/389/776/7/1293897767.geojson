@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.62776,27.48209,85.66776,27.52209",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293897767,
-    "wof:lastmodified":1536692886,
+    "wof:lastmodified":1566666425,
     "wof:name":"Lurpun",
     "wof:parent_id":1092048887,
     "wof:placetype":"locality",

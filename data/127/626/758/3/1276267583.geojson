@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.83454,26.54129,86.87454,26.58129",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hin_x_preferred":[
         "\u0928\u0935\u093e\u0928\u0917\u0930"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1276267583,
-    "wof:lastmodified":1564110344,
+    "wof:lastmodified":1566666654,
     "wof:name":"Nawanagar",
     "wof:parent_id":1092048485,
     "wof:placetype":"locality",

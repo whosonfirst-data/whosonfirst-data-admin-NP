@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.30519,27.8183,83.34519,27.8583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mai_x_preferred":[
         "\u092c\u0947\u0924\u093f\u0928\u0940"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1243591595,
-    "wof:lastmodified":1564116579,
+    "wof:lastmodified":1566670373,
     "wof:name":"Beteni",
     "wof:parent_id":1092050889,
     "wof:placetype":"locality",

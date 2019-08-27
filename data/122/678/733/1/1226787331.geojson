@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.98162,27.42101,85.02162,27.46101",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Saraswati"
     ],
@@ -269,7 +273,7 @@
         }
     ],
     "wof:id":1226787331,
-    "wof:lastmodified":1564118923,
+    "wof:lastmodified":1566671784,
     "wof:name":"Saraswati",
     "wof:parent_id":1092049017,
     "wof:placetype":"locality",

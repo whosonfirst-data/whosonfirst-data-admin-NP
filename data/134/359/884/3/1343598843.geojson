@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.67706,27.4311,83.71706,27.4711",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:new_x_preferred":[
         "\u0939\u0930\u094d\u092a\u0941\u0930"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1343598843,
-    "wof:lastmodified":1564108210,
+    "wof:lastmodified":1566665028,
     "wof:name":"Harpur",
     "wof:parent_id":1092050413,
     "wof:placetype":"locality",

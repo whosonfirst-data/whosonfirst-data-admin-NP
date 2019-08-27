@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.61349,27.39861,87.65349,27.43861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276702023,
-    "wof:lastmodified":1536782209,
+    "wof:lastmodified":1566667130,
     "wof:name":"Phokadin",
     "wof:parent_id":1092049813,
     "wof:placetype":"locality",

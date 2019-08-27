@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.34468,27.35374,87.38468,27.39374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0906\u0930\u0941\u0935\u094b\u091f\u0947"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1327271719,
-    "wof:lastmodified":1564107430,
+    "wof:lastmodified":1566664451,
     "wof:name":"Arubote",
     "wof:parent_id":1092049597,
     "wof:placetype":"locality",

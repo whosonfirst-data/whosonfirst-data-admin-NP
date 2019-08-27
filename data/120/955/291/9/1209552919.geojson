@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.00481,28.35669,83.04481,28.39669",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7965378
     },
     "wof:country":"NP",
-    "wof:geomhash":"c8945c2197da8f677daececa05dff22a",
+    "wof:geomhash":"2c711adec84f1ad3a5e78c3ad96449fe",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209552919,
-    "wof:lastmodified":1536283636,
+    "wof:lastmodified":1566667539,
     "wof:name":"Dobata",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     83.02481,
-    28.376690000000004,
+    28.37669,
     83.02481,
-    28.376690000000004
+    28.37669
 ],
   "geometry": {"coordinates":[83.02481,28.37669],"type":"Point"}
 }

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.15811,27.45125,86.19811,27.49125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chitre"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1259420737,
-    "wof:lastmodified":1564117849,
+    "wof:lastmodified":1566671146,
     "wof:name":"Chitre",
     "wof:parent_id":1092049711,
     "wof:placetype":"locality",

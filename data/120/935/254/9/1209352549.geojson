@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.33915,27.39384,85.37915,27.43384",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7967859
     },
     "wof:country":"NP",
-    "wof:geomhash":"915cc6dcdb09defe8614fcaecc16ba30",
+    "wof:geomhash":"5837030673dbde41eb7aac7b42e24b27",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209352549,
-    "wof:lastmodified":1536289698,
+    "wof:lastmodified":1566667872,
     "wof:name":"Tinghare",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     85.35915,
-    27.413840000000004,
+    27.41384,
     85.35915,
-    27.413840000000004
+    27.41384
 ],
   "geometry": {"coordinates":[85.35915,27.41384],"type":"Point"}
 }

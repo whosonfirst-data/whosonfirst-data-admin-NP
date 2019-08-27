@@ -10,8 +10,12 @@
     "geom:latitude":27.78958,
     "geom:longitude":85.33228,
     "iso:country":"NP",
+    "lbl:bbox":"85.31228,27.76958,85.35228,27.80958",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Phulbari"
@@ -34,7 +38,7 @@
     "name:pol_x_preferred":[
         "Phulbari"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Phulb\u0101ri"
     ],
     "qs:gn_country":"NP",
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":1282910,
         "gp:id":2268798,
-        "qs:id":479572,
+        "qs_pg:id":479572,
         "wd:id":"Q6973653"
     },
     "wof:country":"NP",
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421181239,
-    "wof:lastmodified":1563242714,
+    "wof:lastmodified":1566669989,
     "wof:name":"Phulb\u00e5ri",
     "wof:parent_id":1092048931,
     "wof:placetype":"locality",

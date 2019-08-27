@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.07971,26.66815,87.11971,26.70815",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u092a\u094d\u0930\u0915\u093e\u0936\u092a\u0941\u0930"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1242615215,
-    "wof:lastmodified":1564116341,
+    "wof:lastmodified":1566670227,
     "wof:name":"Prakashpur",
     "wof:parent_id":1092049923,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.70005,28.74746,83.74005,28.78746",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1326472051,
-    "wof:lastmodified":1537067734,
+    "wof:lastmodified":1566664025,
     "wof:name":"Samle",
     "wof:parent_id":1092048365,
     "wof:placetype":"locality",

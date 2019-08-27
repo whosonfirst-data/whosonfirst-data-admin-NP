@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.70255,28.95821,80.74255,28.99821",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293417983,
-    "wof:lastmodified":1536886903,
+    "wof:lastmodified":1566665812,
     "wof:name":"Kapada",
     "wof:parent_id":1092048743,
     "wof:placetype":"locality",

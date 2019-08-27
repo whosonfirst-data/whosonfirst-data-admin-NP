@@ -11,10 +11,14 @@
     "geom:longitude":84.66827,
     "gn:country":"NP",
     "gn:fcode":"PPL",
-    "gn:pop":35,
+    "gn:population":35,
     "iso:country":"NP",
+    "lbl:bbox":"84.64827,27.86193,84.68827,27.90193",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Barhaghare",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -31,7 +35,7 @@
     "wof:concordances":{
         "gn:id":8063835,
         "gp:id":2268998,
-        "qs:id":752743
+        "qs_pg:id":752743
     },
     "wof:country":"NP",
     "wof:created":1469051671,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890427055,
-    "wof:lastmodified":1505343497,
+    "wof:lastmodified":1566669999,
     "wof:name":"Barhaghare",
     "wof:parent_id":1092050351,
     "wof:placetype":"locality",

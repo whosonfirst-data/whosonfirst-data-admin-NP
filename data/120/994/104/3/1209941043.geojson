@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.56081,28.24357,82.60081,28.28357",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1209941043,
-    "wof:lastmodified":1536388494,
+    "wof:lastmodified":1566667933,
     "wof:name":"Jagdi Pokhara",
     "wof:parent_id":1092049455,
     "wof:placetype":"locality",

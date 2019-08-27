@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.97437,27.98369,84.01437,28.02369",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293537459,
-    "wof:lastmodified":1536715455,
+    "wof:lastmodified":1566665649,
     "wof:name":"Buchakhani",
     "wof:parent_id":1092050053,
     "wof:placetype":"locality",

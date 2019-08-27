@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.61187,26.60529,86.65187,26.64529",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1260021677,
-    "wof:lastmodified":1537073966,
+    "wof:lastmodified":1566668961,
     "wof:name":"Lalpatti",
     "wof:parent_id":1092048485,
     "wof:placetype":"locality",

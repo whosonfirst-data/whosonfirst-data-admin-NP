@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.99789,26.54214,88.03789,26.58214",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1193209987,
-    "wof:lastmodified":1536364891,
+    "wof:lastmodified":1566668471,
     "wof:name":"Skulbasti",
     "wof:parent_id":1092050367,
     "wof:placetype":"locality",

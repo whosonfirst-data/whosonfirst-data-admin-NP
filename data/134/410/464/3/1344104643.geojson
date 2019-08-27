@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.06611,28.16198,84.10611,28.20198",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1344104643,
-    "wof:lastmodified":1536811358,
+    "wof:lastmodified":1566665275,
     "wof:name":"Ban Pokhari",
     "wof:parent_id":1092049331,
     "wof:placetype":"locality",

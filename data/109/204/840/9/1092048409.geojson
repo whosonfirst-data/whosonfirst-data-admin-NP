@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":28.158124,
     "lbl:longitude":85.325263,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"BAGMATI",
     "meso:diss_me":"RasuwaBAGMATI",
     "meso:gadm_admin":"Rasuwa",
@@ -34,6 +36,7 @@
     "mps:longitude":85.325263,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09b0\u09b8\u09c1\u09af\u09bc\u09be \u099c\u09c7\u09b2\u09be"
     ],
@@ -128,9 +131,9 @@
         "Rasuwa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-22",
+    "src:population_date":"2011-06-22",
     "statoids:area_km":"1,544.0",
     "statoids:as_of_date":"2011-06-22",
     "statoids:capital":"Dhunche",
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":1092048409,
-    "wof:lastmodified":1563242363,
+    "wof:lastmodified":1566669765,
     "wof:name":"Rasuwa",
     "wof:parent_id":-1,
     "wof:placetype":"county",

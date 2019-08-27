@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.99483,27.588,86.03483,27.628",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0917\u094b\u0920\u092a\u093e\u0928\u0940"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1193065811,
-    "wof:lastmodified":1564113118,
+    "wof:lastmodified":1566668298,
     "wof:name":"Gothpani",
     "wof:parent_id":1092050535,
     "wof:placetype":"locality",

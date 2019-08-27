@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.69975,26.49469,87.73975,26.53469",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1360033365,
-    "wof:lastmodified":1537019517,
+    "wof:lastmodified":1566669715,
     "wof:name":"Chulidubba",
     "wof:parent_id":1092050367,
     "wof:placetype":"locality",

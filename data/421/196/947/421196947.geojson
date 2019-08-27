@@ -10,8 +10,12 @@
     "geom:latitude":27.86731,
     "geom:longitude":83.5467,
     "iso:country":"NP",
+    "lbl:bbox":"83.5267,27.84731,83.5667,27.88731",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09a8\u09b8\u09c7\u09a8"
@@ -100,7 +104,7 @@
     "name:tel_x_preferred":[
         "\u0c24\u0c3e\u0c28\u0c4d\u200c\u0c38\u0c47\u0c28\u0c4d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u0101nsing"
     ],
     "name:urd_x_preferred":[
@@ -144,7 +148,7 @@
     "wof:concordances":{
         "gn:id":1282714,
         "gp:id":2269083,
-        "qs:id":913119,
+        "qs_pg:id":913119,
         "wd:id":"Q1499762"
     },
     "wof:country":"NP",
@@ -167,7 +171,7 @@
         }
     ],
     "wof:id":421196947,
-    "wof:lastmodified":1563242716,
+    "wof:lastmodified":1566669989,
     "wof:name":"T\u00e5nsen",
     "wof:parent_id":1092050889,
     "wof:placetype":"locality",

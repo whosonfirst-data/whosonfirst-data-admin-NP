@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.29591,28.28032,82.33591,28.32032",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7989774
     },
     "wof:country":"NP",
-    "wof:geomhash":"80f239034b5ebf1ead7376c61b222c7c",
+    "wof:geomhash":"e36b85b5a3f04ea1043a4fe677d24956",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209134237,
-    "wof:lastmodified":1536296713,
+    "wof:lastmodified":1566667750,
     "wof:name":"Gaira Salya",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     82.31591,
-    28.300320000000006,
+    28.30032000000001,
     82.31591,
-    28.300320000000006
+    28.30032000000001
 ],
   "geometry": {"coordinates":[82.31591,28.30032000000001],"type":"Point"}
 }

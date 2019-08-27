@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.07225,26.97204,87.11225,27.01204",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nep_x_preferred":[
         "Sindr\u0101\u1e45"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1327347991,
-    "wof:lastmodified":1537676132,
+    "wof:lastmodified":1566663928,
     "wof:name":"Sindran",
     "wof:parent_id":1092049883,
     "wof:placetype":"locality",

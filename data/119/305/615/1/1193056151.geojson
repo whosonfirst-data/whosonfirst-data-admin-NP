@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"88.02395,26.95212,88.06395,26.99212",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1193056151,
-    "wof:lastmodified":1536382656,
+    "wof:lastmodified":1566668430,
     "wof:name":"Kholme",
     "wof:parent_id":1092048173,
     "wof:placetype":"locality",

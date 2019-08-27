@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.01415,29.75133,82.05415,29.79133",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1309830627,
-    "wof:lastmodified":1536895235,
+    "wof:lastmodified":1566669778,
     "wof:name":"Banedi",
     "wof:parent_id":1092050353,
     "wof:placetype":"locality",

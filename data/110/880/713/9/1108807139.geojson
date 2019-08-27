@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":27.224073,
     "lbl:longitude":87.291339,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
@@ -44,9 +45,9 @@
         "\u7b2c\u4e00\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-22",
+    "src:population_date":"2011-06-22",
     "statoids:area_km":"25,905",
     "statoids:area_mi":"10,002",
     "statoids:as_of_date":"2011-06-22",
@@ -85,11 +86,10 @@
     "wof:lang_x_spoken":[
         "nep"
     ],
-    "wof:lastmodified":1565732048,
+    "wof:lastmodified":1566668985,
     "wof:name":"Province No. 1",
     "wof:parent_id":85632465,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":4534943,
     "wof:population_rank":12,

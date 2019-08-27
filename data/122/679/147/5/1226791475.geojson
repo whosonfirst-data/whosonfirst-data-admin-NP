@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.02058,27.68543,86.06058,27.72543",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Simcha"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1226791475,
-    "wof:lastmodified":1564119016,
+    "wof:lastmodified":1566671841,
     "wof:name":"Simcha",
     "wof:parent_id":1092050535,
     "wof:placetype":"locality",

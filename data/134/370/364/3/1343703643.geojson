@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.44772,26.50066,87.48772,26.54066",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343703643,
-    "wof:lastmodified":1536892521,
+    "wof:lastmodified":1566664873,
     "wof:name":"Baganetol",
     "wof:parent_id":1092048303,
     "wof:placetype":"locality",

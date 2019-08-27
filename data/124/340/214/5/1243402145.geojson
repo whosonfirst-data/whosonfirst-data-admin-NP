@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.84281,28.2772,83.88281,28.3172",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1243402145,
-    "wof:lastmodified":1536868229,
+    "wof:lastmodified":1566670366,
     "wof:name":"Bharne",
     "wof:parent_id":1092049331,
     "wof:placetype":"locality",

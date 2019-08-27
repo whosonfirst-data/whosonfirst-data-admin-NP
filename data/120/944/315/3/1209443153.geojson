@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.71525,28.56807,81.75525,28.60807",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u30e9\u30df\u30c0\u30f3\u30c0"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209443153,
-    "wof:lastmodified":1564112804,
+    "wof:lastmodified":1566668110,
     "wof:name":"Lamidanda",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

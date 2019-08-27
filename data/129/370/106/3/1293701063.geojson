@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.37889,28.25938,81.41889,28.29938",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293701063,
-    "wof:lastmodified":1536975859,
+    "wof:lastmodified":1566665854,
     "wof:name":"Kumbher",
     "wof:parent_id":1092048097,
     "wof:placetype":"locality",

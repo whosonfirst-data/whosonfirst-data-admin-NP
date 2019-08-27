@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.79906,28.02965,82.83906,28.06965",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226468723,
-    "wof:lastmodified":1536609826,
+    "wof:lastmodified":1566671799,
     "wof:name":"Dungdunge",
     "wof:parent_id":1092049377,
     "wof:placetype":"locality",

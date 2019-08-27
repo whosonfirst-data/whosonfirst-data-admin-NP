@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.51128,29.94797,82.55128,29.98797",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343492243,
-    "wof:lastmodified":1536700616,
+    "wof:lastmodified":1566664935,
     "wof:name":"Namja Bhanjyang",
     "wof:parent_id":1092048339,
     "wof:placetype":"locality",

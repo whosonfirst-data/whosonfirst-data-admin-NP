@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.30525,28.63259,82.34525,28.67259",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nep_x_preferred":[
         "Phukrug\u0101\u0169"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1226549477,
-    "wof:lastmodified":1537676044,
+    "wof:lastmodified":1566671962,
     "wof:name":"Phukrugau",
     "wof:parent_id":1092049495,
     "wof:placetype":"locality",

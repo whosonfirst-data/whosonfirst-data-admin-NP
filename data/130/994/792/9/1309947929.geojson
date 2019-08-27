@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.97255,27.99478,85.01255,28.03478",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1309947929,
-    "wof:lastmodified":1536726729,
+    "wof:lastmodified":1566669922,
     "wof:name":"Barsanchet",
     "wof:parent_id":1092049133,
     "wof:placetype":"locality",

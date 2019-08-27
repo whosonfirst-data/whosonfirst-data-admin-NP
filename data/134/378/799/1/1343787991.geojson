@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.70709,28.76567,80.74709,28.80567",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343787991,
-    "wof:lastmodified":1536771910,
+    "wof:lastmodified":1566664990,
     "wof:name":"Katanpur",
     "wof:parent_id":1092048743,
     "wof:placetype":"locality",

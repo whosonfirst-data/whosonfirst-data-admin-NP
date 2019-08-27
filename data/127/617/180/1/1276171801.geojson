@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.63164,27.93145,83.67164,27.97145",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Pelli"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1276171801,
-    "wof:lastmodified":1564110305,
+    "wof:lastmodified":1566666623,
     "wof:name":"Pelli",
     "wof:parent_id":1092050939,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.35724,27.36236,83.39724,27.40236",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259921647,
-    "wof:lastmodified":1536724574,
+    "wof:lastmodified":1566671054,
     "wof:name":"Betahiya",
     "wof:parent_id":1092048457,
     "wof:placetype":"locality",

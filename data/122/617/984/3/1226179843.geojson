@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.96183,27.55255,84.00183,27.59255",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0939\u0930\u094d\u0915\u092a\u0941\u0930"
     ],
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":1226179843,
-    "wof:lastmodified":1564118058,
+    "wof:lastmodified":1566671277,
     "wof:name":"Harkapur",
     "wof:parent_id":1092050413,
     "wof:placetype":"locality",

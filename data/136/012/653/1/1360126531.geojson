@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.93019,26.95895,86.97019,26.99895",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mar_x_preferred":[
         "\u091f\u093f\u0902\u0917\u094d\u092f\u093e"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1360126531,
-    "wof:lastmodified":1564115257,
+    "wof:lastmodified":1566669548,
     "wof:name":"Tingya",
     "wof:parent_id":1092050841,
     "wof:placetype":"locality",

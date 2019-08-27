@@ -10,8 +10,12 @@
     "geom:latitude":28.7721,
     "geom:longitude":83.72591,
     "iso:country":"NP",
+    "lbl:bbox":"83.70591,28.7521,83.74591,28.7921",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Jomsom"
@@ -64,9 +68,6 @@
     "name:swe_x_preferred":[
         "Jomsom"
     ],
-    "name:unk_x_variant":[
-        "Jomoson"
-    ],
     "qs:gn_country":"NP",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":1283295,
@@ -97,7 +98,7 @@
     "wof:concordances":{
         "gn:id":1283295,
         "gp:id":2268589,
-        "qs:id":1083741,
+        "qs_pg:id":1083741,
         "wd:id":"Q1702717"
     },
     "wof:country":"NP",
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":421187663,
-    "wof:lastmodified":1563242706,
+    "wof:lastmodified":1566669987,
     "wof:name":"Jomosom",
     "wof:parent_id":1092048365,
     "wof:placetype":"locality",

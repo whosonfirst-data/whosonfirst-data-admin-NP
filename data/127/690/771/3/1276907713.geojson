@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.48435,28.03053,82.52435,28.07053",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rajhena"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1276907713,
-    "wof:lastmodified":1564111211,
+    "wof:lastmodified":1566667202,
     "wof:name":"Rajhena",
     "wof:parent_id":1092048605,
     "wof:placetype":"locality",

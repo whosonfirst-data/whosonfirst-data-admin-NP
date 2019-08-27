@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.49213,28.07386,82.53213,28.11386",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0438\u0440\u0430"
     ],
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":1226375529,
-    "wof:lastmodified":1564119122,
+    "wof:lastmodified":1566671902,
     "wof:name":"Pira",
     "wof:parent_id":1092048605,
     "wof:placetype":"locality",

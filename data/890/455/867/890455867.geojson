@@ -11,10 +11,14 @@
     "geom:longitude":81.83956,
     "gn:country":"NP",
     "gn:fcode":"PPL",
-    "gn:pop":777,
+    "gn:population":777,
     "iso:country":"NP",
+    "lbl:bbox":"81.81956,29.90786,81.85956,29.94786",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Chhipra"
     ],
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":1283528,
         "gp:id":2268876,
-        "qs:id":555742,
+        "qs_pg:id":555742,
         "wd:id":"Q3412556"
     },
     "wof:country":"NP",
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":890455867,
-    "wof:lastmodified":1563242747,
+    "wof:lastmodified":1566669998,
     "wof:name":"Chhibro",
     "wof:parent_id":1092050353,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.20015,28.49374,81.24015,28.53374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Gola"
     ],
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":1344066649,
-    "wof:lastmodified":1564107739,
+    "wof:lastmodified":1566664681,
     "wof:name":"Gola",
     "wof:parent_id":1092048097,
     "wof:placetype":"locality",

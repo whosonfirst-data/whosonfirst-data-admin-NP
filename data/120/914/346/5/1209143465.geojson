@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.32952,27.97334,83.36952,28.01334",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7950255
     },
     "wof:country":"NP",
-    "wof:geomhash":"db20bb2fb7c60ca1f6ccb06a8859cc9c",
+    "wof:geomhash":"a382b66e0538c8add70b639e1449ac09",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209143465,
-    "wof:lastmodified":1536296430,
+    "wof:lastmodified":1566667780,
     "wof:name":"Chhap Gaun",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     83.34952,
-    27.993340000000003,
+    27.99334,
     83.34952,
-    27.993340000000003
+    27.99334
 ],
   "geometry": {"coordinates":[83.34952,27.99334],"type":"Point"}
 }

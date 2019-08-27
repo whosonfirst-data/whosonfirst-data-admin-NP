@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.26943,29.21398,82.30943,29.25398",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Guthichaur"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1276576013,
-    "wof:lastmodified":1564110773,
+    "wof:lastmodified":1566666937,
     "wof:name":"Gothichaur",
     "wof:parent_id":1092050797,
     "wof:placetype":"locality",

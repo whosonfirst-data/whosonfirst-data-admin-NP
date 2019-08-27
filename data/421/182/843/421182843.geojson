@@ -9,12 +9,16 @@
     "geom:bbox":"85.33333,27.0,85.33333,27.0",
     "geom:latitude":27.0,
     "geom:longitude":85.33333,
-    "gn:gn_country":"NP",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":591290,
+    "gn:country":"NP",
+    "gn:fcode":"ADM3",
+    "gn:population":591290,
     "iso:country":"NP",
+    "lbl:bbox":"85.23333,26.9,85.43333,27.1",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":5.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "\u09b0\u09cc\u09a4\u09b9\u099f \u099c\u09c7\u09b2\u09be"
@@ -97,9 +101,6 @@
     "name:tam_x_preferred":[
         "\u0bb0\u0bb5\u0bc1\u0ba4\u0bb9\u0b9f\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
-    "name:unk_x_variant":[
-        "Rauthat"
-    ],
     "name:urd_x_preferred":[
         "\u0631\u0627\u0648\u062a\u0627\u06c1\u0627\u062a \u0636\u0644\u0639"
     ],
@@ -159,7 +160,6 @@
     "wof:concordances":{
         "gn:id":1282856,
         "gp:id":23706739,
-        "qs:id":956326,
         "qs_pg:id":956326,
         "wd:id":"Q28098",
         "wk:page":"Rautahat District"
@@ -184,7 +184,7 @@
         }
     ],
     "wof:id":421182843,
-    "wof:lastmodified":1563242737,
+    "wof:lastmodified":1566669996,
     "wof:name":"Rautahat",
     "wof:parent_id":1092049419,
     "wof:placetype":"localadmin",

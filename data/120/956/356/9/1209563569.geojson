@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.03715,27.43299,86.07715,27.47299",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7981146
     },
     "wof:country":"NP",
-    "wof:geomhash":"3506f22e21496d10fda0b0a5602828c1",
+    "wof:geomhash":"ec9d99a3a2a4658e361c4a4a47bd96d1",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209563569,
-    "wof:lastmodified":1536283316,
+    "wof:lastmodified":1566667968,
     "wof:name":"Kholakharka",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     86.05715,
-    27.452990000000003,
+    27.45299,
     86.05715,
-    27.452990000000003
+    27.45299
 ],
   "geometry": {"coordinates":[86.05714999999999,27.45299],"type":"Point"}
 }

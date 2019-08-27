@@ -10,8 +10,12 @@
     "geom:latitude":27.80541,
     "geom:longitude":86.71363,
     "iso:country":"NP",
+    "lbl:bbox":"86.69363,27.78541,86.73363,27.82541",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ast_x_preferred":[
         "Namche Bazaar"
@@ -91,7 +95,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u043c\u0447\u0435-\u0411\u0430\u0437\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nauche"
     ],
     "name:zho_x_preferred":[
@@ -128,7 +132,7 @@
     "wof:concordances":{
         "gn:id":1283011,
         "gp:id":2269021,
-        "qs:id":1083755,
+        "qs_pg:id":1083755,
         "wd:id":"Q376123",
         "wk:page":"Namche Bazaar"
     },
@@ -152,7 +156,7 @@
         }
     ],
     "wof:id":421187673,
-    "wof:lastmodified":1563242703,
+    "wof:lastmodified":1566669987,
     "wof:name":"N\u00e5mche B\u00e5z\u00e5r",
     "wof:parent_id":1092049841,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.32567,26.55653,87.36567,26.59653",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0938\u093f\u092e\u0930\u093f\u092f\u093e"
     ],
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":1193074521,
-    "wof:lastmodified":1564113019,
+    "wof:lastmodified":1566668237,
     "wof:name":"Simariya",
     "wof:parent_id":1092048303,
     "wof:placetype":"locality",

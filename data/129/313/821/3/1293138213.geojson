@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.4893,28.07602,84.5293,28.11602",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0630\u0628\u062d"
     ],
@@ -245,7 +249,7 @@
         }
     ],
     "wof:id":1293138213,
-    "wof:lastmodified":1564109485,
+    "wof:lastmodified":1566665992,
     "wof:name":"Altar",
     "wof:parent_id":1092050009,
     "wof:placetype":"locality",

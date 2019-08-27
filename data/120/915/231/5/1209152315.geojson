@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.6185,27.08249,86.6585,27.12249",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":8007640
     },
     "wof:country":"NP",
-    "wof:geomhash":"600a9654bfce994f5d0ceb3ed4f25b25",
+    "wof:geomhash":"89ad439ba09467eea85b427d60eda514",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209152315,
-    "wof:lastmodified":1536296164,
+    "wof:lastmodified":1566667616,
     "wof:name":"Dadagaun",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     86.6385,
-    27.102490000000003,
+    27.10249,
     86.6385,
-    27.102490000000003
+    27.10249
 ],
   "geometry": {"coordinates":[86.63849999999999,27.10249],"type":"Point"}
 }

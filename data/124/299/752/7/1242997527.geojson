@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.48806,28.56529,82.52806,28.60529",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0648\u0644\u0626"
     ],
@@ -152,7 +156,7 @@
         }
     ],
     "wof:id":1242997527,
-    "wof:lastmodified":1564116983,
+    "wof:lastmodified":1566670608,
     "wof:name":"Hol",
     "wof:parent_id":1092049495,
     "wof:placetype":"locality",

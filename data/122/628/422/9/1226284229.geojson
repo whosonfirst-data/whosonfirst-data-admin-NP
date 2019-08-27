@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.78423,28.30127,83.82423,28.34127",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mai_x_preferred":[
         "\u092a\u093e\u0924\u094d\u0932\u0947\u0916\u0947\u0924"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1226284229,
-    "wof:lastmodified":1564117990,
+    "wof:lastmodified":1566671235,
     "wof:name":"Patlekhet",
     "wof:parent_id":1092049331,
     "wof:placetype":"locality",

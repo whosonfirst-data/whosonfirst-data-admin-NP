@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.44998,27.55565,86.48998,27.59565",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226290705,
-    "wof:lastmodified":1536867721,
+    "wof:lastmodified":1566671370,
     "wof:name":"Goyam",
     "wof:parent_id":1092049841,
     "wof:placetype":"locality",

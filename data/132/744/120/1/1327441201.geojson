@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.98319,27.01301,85.02319,27.05301",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0915\u0932\u0948\u092f\u093e"
     ],
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":1327441201,
-    "wof:lastmodified":1564107180,
+    "wof:lastmodified":1566664264,
     "wof:name":"Kalaiya",
     "wof:parent_id":1092048051,
     "wof:placetype":"locality",

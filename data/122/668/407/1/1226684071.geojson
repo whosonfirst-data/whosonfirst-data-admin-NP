@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.17898,26.63971,87.21898,26.67971",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mohanpur"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1226684071,
-    "wof:lastmodified":1564118499,
+    "wof:lastmodified":1566671542,
     "wof:name":"Mohanpur",
     "wof:parent_id":1092049923,
     "wof:placetype":"locality",

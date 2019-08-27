@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.69907,27.27719,87.73907,27.31719",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":8005384
     },
     "wof:country":"NP",
-    "wof:geomhash":"0013c47c1dd7711519bc82a644f9ab08",
+    "wof:geomhash":"fa5eecbbde2c48835cb8bba20a5ae6b6",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209146721,
-    "wof:lastmodified":1536296331,
+    "wof:lastmodified":1566667774,
     "wof:name":"Titirbote",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     87.71907,
-    27.297190000000004,
+    27.29719,
     87.71907,
-    27.297190000000004
+    27.29719
 ],
   "geometry": {"coordinates":[87.71907,27.29719],"type":"Point"}
 }

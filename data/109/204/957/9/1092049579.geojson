@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":28.420096,
     "lbl:longitude":82.177506,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"RAPTI",
     "meso:diss_me":"SalyanRAPTI",
     "meso:gadm_admin":"Salyan",
@@ -34,6 +36,7 @@
     "mps:longitude":82.177506,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09b8\u09b2\u09cd\u09af\u09be\u09a8 \u099c\u09c7\u09b2\u09be"
     ],
@@ -122,9 +125,9 @@
         "Salyan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-22",
+    "src:population_date":"2011-06-22",
     "statoids:area_km":"1,462.0",
     "statoids:as_of_date":"2011-06-22",
     "statoids:capital":"Salyan",
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":1092049579,
-    "wof:lastmodified":1563242359,
+    "wof:lastmodified":1566669763,
     "wof:name":"Salyan",
     "wof:parent_id":-1,
     "wof:placetype":"county",

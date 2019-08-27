@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.70956,28.24359,82.74956,28.28359",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310038505,
-    "wof:lastmodified":1537089915,
+    "wof:lastmodified":1566669365,
     "wof:name":"Dhorlang",
     "wof:parent_id":1092049455,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.21355,27.39306,86.25355,27.43306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1225992871,
-    "wof:lastmodified":1536801530,
+    "wof:lastmodified":1566671655,
     "wof:name":"Poku",
     "wof:parent_id":1092049711,
     "wof:placetype":"locality",

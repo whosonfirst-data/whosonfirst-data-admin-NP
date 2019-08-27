@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.21562,27.1641,86.25562,27.2041",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nep_x_preferred":[
         "Paunti\u0307\u0304"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1242792041,
-    "wof:lastmodified":1537676100,
+    "wof:lastmodified":1566670480,
     "wof:name":"Paunti",
     "wof:parent_id":1092049679,
     "wof:placetype":"locality",

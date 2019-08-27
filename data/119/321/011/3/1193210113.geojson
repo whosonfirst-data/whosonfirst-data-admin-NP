@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.08679,26.43512,87.12679,26.47512",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09ac\u09bf\u0995\u09cd\u09b0\u09ae\u09aa\u09c1\u09b0"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1193210113,
-    "wof:lastmodified":1564113782,
+    "wof:lastmodified":1566668693,
     "wof:name":"Bikrampur",
     "wof:parent_id":1092049923,
     "wof:placetype":"locality",

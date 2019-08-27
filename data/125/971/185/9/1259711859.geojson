@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.13748,28.56733,81.17748,28.60733",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Jabalpur"
     ],
@@ -236,7 +240,7 @@
         }
     ],
     "wof:id":1259711859,
-    "wof:lastmodified":1564117561,
+    "wof:lastmodified":1566670955,
     "wof:name":"Jabalpur",
     "wof:parent_id":1092048743,
     "wof:placetype":"locality",

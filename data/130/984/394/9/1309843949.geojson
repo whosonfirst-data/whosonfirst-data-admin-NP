@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.01133,27.04824,85.05133,27.08824",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u092e\u091d\u094c\u0932\u093f\u092f\u093e"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1309843949,
-    "wof:lastmodified":1564115705,
+    "wof:lastmodified":1566669823,
     "wof:name":"Majhauliya",
     "wof:parent_id":1092048051,
     "wof:placetype":"locality",

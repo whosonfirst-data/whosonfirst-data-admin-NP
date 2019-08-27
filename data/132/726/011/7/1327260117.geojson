@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.75099,28.61134,82.79099,28.65134",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1327260117,
-    "wof:lastmodified":1536930434,
+    "wof:lastmodified":1566664281,
     "wof:name":"Kutebasdanda",
     "wof:parent_id":1092049495,
     "wof:placetype":"locality",

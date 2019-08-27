@@ -10,8 +10,12 @@
     "geom:latitude":27.90812,
     "geom:longitude":84.551811,
     "iso:country":"NP",
+    "lbl:bbox":"84.531811,27.88812,84.571811,27.92812",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "\u09ae\u09a8\u09cb\u0995\u09be\u09ae\u09a8\u09be \u09ae\u09a8\u09cd\u09a6\u09bf\u09b0"
@@ -76,7 +80,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22662738,
-        "qs:id":1087497,
+        "qs_pg:id":1087497,
         "wd:id":"Q2385286"
     },
     "wof:country":"NP",
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421188067,
-    "wof:lastmodified":1563242711,
+    "wof:lastmodified":1566669988,
     "wof:name":"Manakamana",
     "wof:parent_id":1092050351,
     "wof:placetype":"locality",

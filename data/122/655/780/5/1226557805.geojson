@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.0498,27.6159,85.0898,27.6559",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Palung Sikarkot",
         "P\u0101lung",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1226557805,
-    "wof:lastmodified":1537676045,
+    "wof:lastmodified":1566671893,
     "wof:name":"Palun",
     "wof:parent_id":1092049017,
     "wof:placetype":"locality",

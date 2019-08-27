@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.92592,28.56507,81.96592,28.60507",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lapu"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1225872863,
-    "wof:lastmodified":1564118654,
+    "wof:lastmodified":1566671633,
     "wof:name":"Lapu",
     "wof:parent_id":1092049963,
     "wof:placetype":"locality",

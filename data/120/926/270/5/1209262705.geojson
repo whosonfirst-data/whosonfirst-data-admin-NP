@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"88.04129,26.54289,88.08129,26.58289",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7954116
     },
     "wof:country":"NP",
-    "wof:geomhash":"f7284171a26cd854ffabbdc6d58f241d",
+    "wof:geomhash":"ee50eca2dd15c576be557903e8724155",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209262705,
-    "wof:lastmodified":1536292638,
+    "wof:lastmodified":1566668096,
     "wof:name":"Basilaltol",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     88.06129,
-    26.562890000000003,
+    26.56289,
     88.06129,
-    26.562890000000003
+    26.56289
 ],
   "geometry": {"coordinates":[88.06129,26.56289],"type":"Point"}
 }

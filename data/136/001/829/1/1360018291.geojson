@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.47694,29.08159,80.51694,29.12159",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:amh_x_preferred":[
         "\u1230\u1295\u1230\u1208\u1275"
     ],
@@ -215,7 +219,7 @@
         }
     ],
     "wof:id":1360018291,
-    "wof:lastmodified":1564115406,
+    "wof:lastmodified":1566669632,
     "wof:name":"Chain",
     "wof:parent_id":1092048697,
     "wof:placetype":"locality",

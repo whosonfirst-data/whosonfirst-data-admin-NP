@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.0688,27.58559,84.1088,27.62559",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7972687
     },
     "wof:country":"NP",
-    "wof:geomhash":"a331e36d6de62b10e70f687098dd7b3c",
+    "wof:geomhash":"2596b85fc25e4d0d56c57232e1b44a14",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209563141,
-    "wof:lastmodified":1536283324,
+    "wof:lastmodified":1566667966,
     "wof:name":"Tallo Dandagaun",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     84.0888,
-    27.605590000000007,
+    27.60559000000001,
     84.0888,
-    27.605590000000007
+    27.60559000000001
 ],
   "geometry": {"coordinates":[84.08880000000001,27.60559000000001],"type":"Point"}
 }

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.16257,27.10379,87.20257,27.14379",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7933786
     },
     "wof:country":"NP",
-    "wof:geomhash":"a9a94b60b6ecfb83c5b15c7fae7727af",
+    "wof:geomhash":"b1317365e289a6278ef33193f50ffe97",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209362717,
-    "wof:lastmodified":1536289370,
+    "wof:lastmodified":1566667411,
     "wof:name":"Sirsire",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     87.18257,
-    27.123790000000003,
+    27.12379,
     87.18257,
-    27.123790000000003
+    27.12379
 ],
   "geometry": {"coordinates":[87.18257,27.12379],"type":"Point"}
 }

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.58898,28.52737,82.62898,28.56737",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bhulke"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1293911695,
-    "wof:lastmodified":1564108896,
+    "wof:lastmodified":1566665549,
     "wof:name":"Bhulke",
     "wof:parent_id":1092049495,
     "wof:placetype":"locality",

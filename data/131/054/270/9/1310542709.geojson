@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.72805,28.30661,83.76805,28.34661",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Doma"
     ],
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":1310542709,
-    "wof:lastmodified":1564114629,
+    "wof:lastmodified":1566669186,
     "wof:name":"Doma",
     "wof:parent_id":1092049297,
     "wof:placetype":"locality",

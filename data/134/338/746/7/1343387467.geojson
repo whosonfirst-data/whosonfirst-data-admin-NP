@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.81723,27.89831,81.85723,27.93831",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09a6\u09cc\u09b2\u09a4\u09aa\u09c1\u09b0"
     ],
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":1343387467,
-    "wof:lastmodified":1564107477,
+    "wof:lastmodified":1566664485,
     "wof:name":"Daulatpur",
     "wof:parent_id":1092050297,
     "wof:placetype":"locality",

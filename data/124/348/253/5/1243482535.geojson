@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.53827,28.39714,82.57827,28.43714",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1243482535,
-    "wof:lastmodified":1536753583,
+    "wof:lastmodified":1566670294,
     "wof:name":"Bhabang",
     "wof:parent_id":1092049455,
     "wof:placetype":"locality",

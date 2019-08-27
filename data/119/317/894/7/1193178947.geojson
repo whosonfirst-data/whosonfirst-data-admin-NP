@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.17998,28.29736,84.21998,28.33736",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1193178947,
-    "wof:lastmodified":1536372300,
+    "wof:lastmodified":1566668591,
     "wof:name":"Duwan Goth",
     "wof:parent_id":1092050009,
     "wof:placetype":"locality",

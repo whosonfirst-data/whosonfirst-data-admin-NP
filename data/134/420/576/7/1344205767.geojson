@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.88921,26.81529,85.92921,26.85529",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1344205767,
-    "wof:lastmodified":1536666075,
+    "wof:lastmodified":1566665311,
     "wof:name":"Sakhuwatol",
     "wof:parent_id":1092050709,
     "wof:placetype":"locality",

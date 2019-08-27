@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.76527,29.093,80.80527,29.133",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1327460113,
-    "wof:lastmodified":1536639922,
+    "wof:lastmodified":1566663896,
     "wof:name":"Dhupari",
     "wof:parent_id":1092048653,
     "wof:placetype":"locality",

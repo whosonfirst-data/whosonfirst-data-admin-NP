@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.38329,26.58641,87.42329,26.62641",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226290793,
-    "wof:lastmodified":1536867584,
+    "wof:lastmodified":1566671369,
     "wof:name":"Chandanechok",
     "wof:parent_id":1092048303,
     "wof:placetype":"locality",

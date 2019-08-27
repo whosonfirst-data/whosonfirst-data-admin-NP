@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.8223,28.79426,80.8623,28.83426",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mai_x_preferred":[
         "\u0918\u0930\u094d\u0924\u093f\u0917\u093e\u0909\u0901"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1259409239,
-    "wof:lastmodified":1564117499,
+    "wof:lastmodified":1566670919,
     "wof:name":"Salghari",
     "wof:parent_id":1092048743,
     "wof:placetype":"locality",

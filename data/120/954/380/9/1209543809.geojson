@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.72024,28.70177,81.76024,28.74177",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7936824
     },
     "wof:country":"NP",
-    "wof:geomhash":"6f0dcc41ba3b617a1f23969b13f94d8e",
+    "wof:geomhash":"f741d274ac8bf20a2d65abba1cba34b8",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209543809,
-    "wof:lastmodified":1536283905,
+    "wof:lastmodified":1566667437,
     "wof:name":"Birauta",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     81.74024,
-    28.721770000000006,
+    28.72177000000001,
     81.74024,
-    28.721770000000006
+    28.72177000000001
 ],
   "geometry": {"coordinates":[81.74024,28.72177000000001],"type":"Point"}
 }

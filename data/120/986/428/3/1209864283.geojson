@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.51207,27.60384,84.55207,27.64384",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pithuwa"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1209864283,
-    "wof:lastmodified":1564112910,
+    "wof:lastmodified":1566668171,
     "wof:name":"Pithuwa",
     "wof:parent_id":1092050101,
     "wof:placetype":"locality",

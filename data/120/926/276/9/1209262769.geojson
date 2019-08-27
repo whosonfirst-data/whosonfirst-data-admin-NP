@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.31138,27.04892,86.35138,27.08892",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sindure"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1209262769,
-    "wof:lastmodified":1564112783,
+    "wof:lastmodified":1566668099,
     "wof:name":"Sindure",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

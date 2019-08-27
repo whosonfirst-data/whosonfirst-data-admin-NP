@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.92341,27.39621,84.96341,27.43621",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Makri"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1243602445,
-    "wof:lastmodified":1564116726,
+    "wof:lastmodified":1566670455,
     "wof:name":"Makri",
     "wof:parent_id":1092049017,
     "wof:placetype":"locality",

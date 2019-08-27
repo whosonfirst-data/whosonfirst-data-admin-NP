@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.91606,26.95446,86.95606,26.99446",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1327076047,
-    "wof:lastmodified":1536697781,
+    "wof:lastmodified":1566663470,
     "wof:name":"Woklung",
     "wof:parent_id":1092050841,
     "wof:placetype":"locality",

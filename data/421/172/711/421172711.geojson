@@ -10,8 +10,12 @@
     "geom:latitude":28.290652,
     "geom:longitude":84.370083,
     "iso:country":"NP",
+    "lbl:bbox":"84.350083,28.270652,84.390083,28.310652",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -42,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22662732,
-        "qs:id":1318428
+        "qs_pg:id":1318428
     },
     "wof:country":"NP",
     "wof:created":1459008952,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":421172711,
-    "wof:lastmodified":1500058103,
+    "wof:lastmodified":1566669988,
     "wof:name":"Khudibeni",
     "wof:parent_id":1092050009,
     "wof:placetype":"locality",

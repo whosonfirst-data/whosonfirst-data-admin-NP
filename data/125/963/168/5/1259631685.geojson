@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.99712,26.75843,86.03712,26.79843",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259631685,
-    "wof:lastmodified":1536644765,
+    "wof:lastmodified":1566670831,
     "wof:name":"Kathpullatol",
     "wof:parent_id":1092048127,
     "wof:placetype":"locality",

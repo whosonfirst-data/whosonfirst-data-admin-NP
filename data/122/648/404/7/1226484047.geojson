@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.54161,27.05308,86.58161,27.09308",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Dhuseni"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1226484047,
-    "wof:lastmodified":1564119099,
+    "wof:lastmodified":1566671889,
     "wof:name":"Dhuseni",
     "wof:parent_id":1092050179,
     "wof:placetype":"locality",

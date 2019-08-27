@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.78774,27.35684,86.82774,27.39684",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1360126529,
-    "wof:lastmodified":1536885368,
+    "wof:lastmodified":1566669545,
     "wof:name":"Sokhu",
     "wof:parent_id":1092050841,
     "wof:placetype":"locality",

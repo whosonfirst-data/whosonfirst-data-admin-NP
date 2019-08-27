@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.98596,27.69724,85.02596,27.73724",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7941177
     },
     "wof:country":"NP",
-    "wof:geomhash":"047d1b855b141c26db34dc5337335bff",
+    "wof:geomhash":"e8c0408e414e5f963810d340620554a9",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209356817,
-    "wof:lastmodified":1536289563,
+    "wof:lastmodified":1566667849,
     "wof:name":"Chhotikharka",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     85.00596,
-    27.717240000000004,
+    27.71724,
     85.00596,
-    27.717240000000004
+    27.71724
 ],
   "geometry": {"coordinates":[85.00596,27.71724],"type":"Point"}
 }

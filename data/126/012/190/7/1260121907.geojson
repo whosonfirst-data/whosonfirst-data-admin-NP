@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"88.06384,26.93098,88.10384,26.97098",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1260121907,
-    "wof:lastmodified":1536933543,
+    "wof:lastmodified":1566668733,
     "wof:name":"Mihelbote",
     "wof:parent_id":1092048173,
     "wof:placetype":"locality",

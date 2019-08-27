@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.80971,27.66994,85.84971,27.70994",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0915\u093e\u092e"
     ],
@@ -134,7 +138,7 @@
         }
     ],
     "wof:id":1310539305,
-    "wof:lastmodified":1564114651,
+    "wof:lastmodified":1566669199,
     "wof:name":"Kama",
     "wof:parent_id":1092049755,
     "wof:placetype":"locality",

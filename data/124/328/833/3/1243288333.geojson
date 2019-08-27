@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.64599,28.14137,82.68599,28.18137",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1243288333,
-    "wof:lastmodified":1537032195,
+    "wof:lastmodified":1566670686,
     "wof:name":"Mathillo Malarani",
     "wof:parent_id":1092049377,
     "wof:placetype":"locality",

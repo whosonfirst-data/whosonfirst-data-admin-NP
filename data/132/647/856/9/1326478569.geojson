@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.35529,26.41668,87.39529,26.45668",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1326478569,
-    "wof:lastmodified":1537058871,
+    "wof:lastmodified":1566664021,
     "wof:name":"Nocha",
     "wof:parent_id":1092048303,
     "wof:placetype":"locality",

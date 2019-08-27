@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.27709,27.5426,85.31709,27.5826",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1260336405,
-    "wof:lastmodified":1536640267,
+    "wof:lastmodified":1566668951,
     "wof:name":"Mathillo Burangchule",
     "wof:parent_id":1092048971,
     "wof:placetype":"locality",

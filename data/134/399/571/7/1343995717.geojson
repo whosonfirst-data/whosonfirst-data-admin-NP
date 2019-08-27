@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.1213,27.10059,87.1613,27.14059",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mai_x_preferred":[
         "\u0935\u093e\u0938\u094d\u0924\u093f\u092e"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1343995717,
-    "wof:lastmodified":1564107685,
+    "wof:lastmodified":1566664641,
     "wof:name":"Bastim",
     "wof:parent_id":1092049883,
     "wof:placetype":"locality",

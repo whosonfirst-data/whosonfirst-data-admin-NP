@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.47093,29.17419,80.51093,29.21419",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7935892
     },
     "wof:country":"NP",
-    "wof:geomhash":"ab46f2b5bf311f1e824b22ecaa969676",
+    "wof:geomhash":"2fac989a9759e03726fa0a67f2a665ab",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209541981,
-    "wof:lastmodified":1536283961,
+    "wof:lastmodified":1566667427,
     "wof:name":"Rigmare",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     80.49093,
-    29.194190000000006,
+    29.19419000000001,
     80.49093,
-    29.194190000000006
+    29.19419000000001
 ],
   "geometry": {"coordinates":[80.49093000000001,29.19419000000001],"type":"Point"}
 }

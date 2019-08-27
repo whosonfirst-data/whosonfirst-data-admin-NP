@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.37654,27.73582,85.41654,27.77582",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259917845,
-    "wof:lastmodified":1536730022,
+    "wof:lastmodified":1566670786,
     "wof:name":"Beshigaun",
     "wof:parent_id":1092048931,
     "wof:placetype":"locality",

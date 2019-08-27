@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.3387,28.24977,84.3787,28.28977",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0435\u0440\u0430"
     ],
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":1226184023,
-    "wof:lastmodified":1564118171,
+    "wof:lastmodified":1566671344,
     "wof:name":"Sera",
     "wof:parent_id":1092050009,
     "wof:placetype":"locality",

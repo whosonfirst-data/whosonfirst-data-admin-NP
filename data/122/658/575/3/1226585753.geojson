@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.54075,26.66237,86.58075,26.70237",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226585753,
-    "wof:lastmodified":1536943200,
+    "wof:lastmodified":1566671460,
     "wof:name":"Shripur",
     "wof:parent_id":1092048485,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.58007,28.84657,81.62007,28.88657",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Dullu"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1259409171,
-    "wof:lastmodified":1564117518,
+    "wof:lastmodified":1566670930,
     "wof:name":"Dullu",
     "wof:parent_id":1092050583,
     "wof:placetype":"locality",

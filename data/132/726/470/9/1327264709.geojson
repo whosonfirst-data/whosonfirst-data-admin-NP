@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.19079,29.23313,81.23079,29.27313",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Sugarkhal"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1327264709,
-    "wof:lastmodified":1564107189,
+    "wof:lastmodified":1566664271,
     "wof:name":"Sugarkhal",
     "wof:parent_id":1092048527,
     "wof:placetype":"locality",

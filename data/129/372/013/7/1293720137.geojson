@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.90884,28.10125,82.94884,28.14125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293720137,
-    "wof:lastmodified":1536949367,
+    "wof:lastmodified":1566666492,
     "wof:name":"Jaisi Dhage",
     "wof:parent_id":1092049377,
     "wof:placetype":"locality",

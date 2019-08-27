@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.91249,29.70027,81.95249,29.74027",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1225872941,
-    "wof:lastmodified":1536974122,
+    "wof:lastmodified":1566671635,
     "wof:name":"Chhanna Goth",
     "wof:parent_id":1092050353,
     "wof:placetype":"locality",

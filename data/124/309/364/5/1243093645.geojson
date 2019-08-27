@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.15234,29.50858,81.19234,29.54858",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Koteli"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1243093645,
-    "wof:lastmodified":1564116008,
+    "wof:lastmodified":1566670029,
     "wof:name":"Koteli",
     "wof:parent_id":1092048571,
     "wof:placetype":"locality",

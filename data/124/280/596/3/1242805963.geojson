@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.54925,27.80234,82.58925,27.84234",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Maghar"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1242805963,
-    "wof:lastmodified":1564116194,
+    "wof:lastmodified":1566670134,
     "wof:name":"Maghar",
     "wof:parent_id":1092048605,
     "wof:placetype":"locality",

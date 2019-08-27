@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.30951,27.68786,85.34951,27.72786",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1344000115,
-    "wof:lastmodified":1536962606,
+    "wof:lastmodified":1566664784,
     "wof:name":"Dilli Bajar",
     "wof:parent_id":1092048931,
     "wof:placetype":"locality",

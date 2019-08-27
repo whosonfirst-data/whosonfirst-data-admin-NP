@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.63245,26.7595,86.67245,26.7995",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276924087,
-    "wof:lastmodified":1536981362,
+    "wof:lastmodified":1566666883,
     "wof:name":"Mathillo Bagaha",
     "wof:parent_id":1092050179,
     "wof:placetype":"locality",

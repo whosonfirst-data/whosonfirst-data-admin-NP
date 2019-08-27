@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":26.62409,
     "lbl:longitude":87.470025,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"KOSHI",
     "meso:diss_me":"MorangKOSHI",
     "meso:gadm_admin":"Morang",
@@ -34,6 +36,7 @@
     "mps:longitude":87.470025,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09ae\u09cb\u09b0\u0999 \u099c\u09c7\u09b2\u09be"
     ],
@@ -149,9 +152,9 @@
         "\u83ab\u862d\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-22",
+    "src:population_date":"2011-06-22",
     "statoids:area_km":"1,855.0",
     "statoids:as_of_date":"2011-06-22",
     "statoids:capital":"Biratnagar",
@@ -191,7 +194,7 @@
         }
     ],
     "wof:id":1092048303,
-    "wof:lastmodified":1563242367,
+    "wof:lastmodified":1566669765,
     "wof:name":"Morang",
     "wof:parent_id":-1,
     "wof:placetype":"county",

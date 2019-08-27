@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.76763,28.39449,83.80763,28.43449",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293431395,
-    "wof:lastmodified":1536866610,
+    "wof:lastmodified":1566666536,
     "wof:name":"Ghurjung",
     "wof:parent_id":1092049331,
     "wof:placetype":"locality",

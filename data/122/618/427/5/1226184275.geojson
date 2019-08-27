@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.81966,27.22092,87.85966,27.26092",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226184275,
-    "wof:lastmodified":1537021203,
+    "wof:lastmodified":1566671340,
     "wof:name":"Pakhe",
     "wof:parent_id":1092049165,
     "wof:placetype":"locality",

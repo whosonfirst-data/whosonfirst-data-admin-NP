@@ -10,8 +10,12 @@
     "geom:latitude":27.08333,
     "geom:longitude":85.08333,
     "iso:country":"NP",
+    "lbl:bbox":"84.98333,26.98333,85.18333,27.18333",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":5.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09b0\u09be \u099c\u09c7\u09b2\u09be"
@@ -97,9 +101,6 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bbe\u0bb0\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
-    "name:unk_x_variant":[
-        "B\u0101r\u0101"
-    ],
     "name:urd_x_preferred":[
         "\u0636\u0644\u0639 \u0628\u0627\u0631\u0627"
     ],
@@ -141,7 +142,7 @@
     "wof:concordances":{
         "gn:id":1283670,
         "gp:id":23706737,
-        "qs:id":956325,
+        "qs_pg:id":956325,
         "wd:id":"Q28608",
         "wk:page":"Bara District"
     },
@@ -165,7 +166,7 @@
         }
     ],
     "wof:id":421194145,
-    "wof:lastmodified":1563242691,
+    "wof:lastmodified":1566669982,
     "wof:name":"Bara",
     "wof:parent_id":1092048051,
     "wof:placetype":"localadmin",

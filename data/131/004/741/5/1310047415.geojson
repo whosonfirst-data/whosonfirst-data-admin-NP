@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.09311,28.33658,83.13311,28.37658",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310047415,
-    "wof:lastmodified":1537077116,
+    "wof:lastmodified":1566669400,
     "wof:name":"Singdori",
     "wof:parent_id":1092049257,
     "wof:placetype":"locality",

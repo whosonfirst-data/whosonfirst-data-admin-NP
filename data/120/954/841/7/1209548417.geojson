@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.58109,28.68357,80.62109,28.72357",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7956462
     },
     "wof:country":"NP",
-    "wof:geomhash":"618478f08a2b1544b71f3a3308e2f7a6",
+    "wof:geomhash":"9a3e51de9c45cabcc5938fcc8828f638",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209548417,
-    "wof:lastmodified":1536283770,
+    "wof:lastmodified":1566667430,
     "wof:name":"Setopul",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     80.60109,
-    28.703570000000006,
+    28.70357000000001,
     80.60109,
-    28.703570000000006
+    28.70357000000001
 ],
   "geometry": {"coordinates":[80.60109,28.70357000000001],"type":"Point"}
 }

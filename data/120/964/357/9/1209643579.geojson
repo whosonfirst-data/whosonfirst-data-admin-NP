@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.96353,29.17441,81.00353,29.21441",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Chantada"
     ],
@@ -141,7 +145,7 @@
         }
     ],
     "wof:id":1209643579,
-    "wof:lastmodified":1564111723,
+    "wof:lastmodified":1566667507,
     "wof:name":"Chantada",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

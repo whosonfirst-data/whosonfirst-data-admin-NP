@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.71046,29.43209,80.75046,29.47209",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1360217337,
-    "wof:lastmodified":1536754954,
+    "wof:lastmodified":1566669698,
     "wof:name":"Raute Odar",
     "wof:parent_id":1092050255,
     "wof:placetype":"locality",

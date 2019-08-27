@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.4185,27.09853,87.4585,27.13853",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Salleri"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209262565,
-    "wof:lastmodified":1564112776,
+    "wof:lastmodified":1566668095,
     "wof:name":"Salleri",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

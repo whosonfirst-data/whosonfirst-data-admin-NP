@@ -11,10 +11,14 @@
     "geom:longitude":85.25,
     "gn:country":"NP",
     "gn:fcode":"ADM3",
-    "gn:pop":424704,
+    "gn:population":424704,
     "iso:country":"NP",
+    "lbl:bbox":"85.15,27.31667,85.35,27.51667",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09ae\u0995\u09af\u09bc\u09be\u09a8\u09aa\u09c1\u09b0 \u099c\u09c7\u09b2\u09be"
     ],
@@ -112,7 +116,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1283085,
-        "qs:id":555734,
+        "qs_pg:id":555734,
         "wd:id":"Q28174",
         "wk:page":"Makwanpur District"
     },
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":890422355,
-    "wof:lastmodified":1563242743,
+    "wof:lastmodified":1566669998,
     "wof:name":"Makw\u0101npur",
     "wof:parent_id":1092049017,
     "wof:placetype":"localadmin",

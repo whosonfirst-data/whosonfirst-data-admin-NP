@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.37435,27.51131,83.41435,27.55131",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1193056063,
-    "wof:lastmodified":1536382741,
+    "wof:lastmodified":1566668432,
     "wof:name":"Mehathawal",
     "wof:parent_id":1092048457,
     "wof:placetype":"locality",

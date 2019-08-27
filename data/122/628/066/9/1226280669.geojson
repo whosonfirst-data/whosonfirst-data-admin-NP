@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.45446,26.83351,85.49446,26.87351",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:pol_x_preferred":[
         "Janakinagar"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1226280669,
-    "wof:lastmodified":1564118035,
+    "wof:lastmodified":1566671263,
     "wof:name":"Janakinagar",
     "wof:parent_id":1092049639,
     "wof:placetype":"locality",

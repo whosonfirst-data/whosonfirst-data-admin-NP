@@ -9,10 +9,14 @@
     "geom:bbox":"87.287406,26.449913,87.287406,26.449913",
     "geom:latitude":26.449913,
     "geom:longitude":87.287406,
-    "gn:gn_country":null,
+    "gn:country":null,
     "iso:country":"NP",
+    "lbl:bbox":"87.187406,26.349913,87.387406,26.549913",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -60,7 +64,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":23706747,
-        "qs:id":1103206,
         "qs_pg:id":1103206
     },
     "wof:country":"NP",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421188569,
-    "wof:lastmodified":1534379388,
+    "wof:lastmodified":1566669988,
     "wof:name":"Morang",
     "wof:parent_id":1092048303,
     "wof:placetype":"localadmin",

@@ -10,8 +10,12 @@
     "geom:latitude":28.154346,
     "geom:longitude":84.091072,
     "iso:country":"NP",
+    "lbl:bbox":"84.071072,28.134346,84.111072,28.174346",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:als_x_preferred":[
         "Tor"
@@ -283,7 +287,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2269068,
-        "qs:id":900474,
+        "qs_pg:id":900474,
         "wd:id":"Q53060"
     },
     "wof:country":"NP",
@@ -306,7 +310,7 @@
         }
     ],
     "wof:id":421185719,
-    "wof:lastmodified":1563242742,
+    "wof:lastmodified":1566669997,
     "wof:name":"Gate",
     "wof:parent_id":1092049331,
     "wof:placetype":"locality",

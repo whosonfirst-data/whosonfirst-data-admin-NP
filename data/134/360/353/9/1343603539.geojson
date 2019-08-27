@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.73711,27.11608,84.77711,27.15608",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343603539,
-    "wof:lastmodified":1537035656,
+    "wof:lastmodified":1566665172,
     "wof:name":"Maniharwa",
     "wof:parent_id":1092050453,
     "wof:placetype":"locality",

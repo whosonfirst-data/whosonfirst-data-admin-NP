@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.38391,29.52508,80.42391,29.56508",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343594013,
-    "wof:lastmodified":1537048923,
+    "wof:lastmodified":1566665014,
     "wof:name":"Aala",
     "wof:parent_id":1092050255,
     "wof:placetype":"locality",

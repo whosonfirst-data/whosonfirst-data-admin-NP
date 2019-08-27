@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.78923,28.08894,83.82923,28.12894",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":8002103
     },
     "wof:country":"NP",
-    "wof:geomhash":"0556572426b8384c9acfedc9757c2266",
+    "wof:geomhash":"19b5b5196207dd8c25a4e30aeac0a71d",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209146563,
-    "wof:lastmodified":1536296335,
+    "wof:lastmodified":1566667776,
     "wof:name":"Chilaunekharka",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     83.80923,
-    28.108940000000004,
+    28.10894,
     83.80923,
-    28.108940000000004
+    28.10894
 ],
   "geometry": {"coordinates":[83.80923,28.10894],"type":"Point"}
 }

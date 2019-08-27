@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.24536,26.84159,87.28536,26.88159",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7997611
     },
     "wof:country":"NP",
-    "wof:geomhash":"cf4f985f20da4f83f0f01a789f2e1e17",
+    "wof:geomhash":"63123dacd38daa587dbe515aa8de9167",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209143571,
-    "wof:lastmodified":1536296428,
+    "wof:lastmodified":1566667786,
     "wof:name":"Dandagaun Dharne",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     87.26536,
-    26.861590000000003,
+    26.86159,
     87.26536,
-    26.861590000000003
+    26.86159
 ],
   "geometry": {"coordinates":[87.26536,26.86159],"type":"Point"}
 }

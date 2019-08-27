@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":27.920884,
     "lbl:longitude":85.733491,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"BAGMATI",
     "meso:diss_me":"SindhupalchokBAGMATI",
     "meso:gadm_admin":"Sindhupalchok",
@@ -34,6 +36,7 @@
     "mps:longitude":85.733491,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u09a8\u09cd\u09a7\u09c1\u09aa\u09be\u09b2\u099a\u09cb\u0995 \u099c\u09c7\u09b2\u09be"
     ],
@@ -131,9 +134,9 @@
         "\u8f9b\u675c\u5e15\u5c14\u4e54\u514b\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-22",
+    "src:population_date":"2011-06-22",
     "statoids:area_km":"2,542.0",
     "statoids:as_of_date":"2011-06-22",
     "statoids:capital":"Chautara",
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":1092049755,
-    "wof:lastmodified":1563242370,
+    "wof:lastmodified":1566669767,
     "wof:name":"Sindhupalchok",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.66624,27.65815,85.70624,27.69815",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1360126813,
-    "wof:lastmodified":1536884982,
+    "wof:lastmodified":1566669523,
     "wof:name":"Thuldi",
     "wof:parent_id":1092048887,
     "wof:placetype":"locality",

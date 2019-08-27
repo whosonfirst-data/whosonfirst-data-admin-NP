@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.03735,28.65914,82.07735,28.69914",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7953269
     },
     "wof:country":"NP",
-    "wof:geomhash":"36016f189a9e5ceef8cccd119eceb80f",
+    "wof:geomhash":"9cc3c46e7f0c18994f98e2b4ede9ab08",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209032939,
-    "wof:lastmodified":1536299791,
+    "wof:lastmodified":1566667885,
     "wof:name":"Lansi",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     82.05735,
-    28.679140000000004,
+    28.67914,
     82.05735,
-    28.679140000000004
+    28.67914
 ],
   "geometry": {"coordinates":[82.05735,28.67914],"type":"Point"}
 }

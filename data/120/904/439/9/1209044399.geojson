@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.41152,26.97824,86.45152,27.01824",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":8007437
     },
     "wof:country":"NP",
-    "wof:geomhash":"89dbfbdcd6f23a724a09d84314741b68",
+    "wof:geomhash":"7be5ddcf931d2ce353d13f628bea3dc4",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209044399,
-    "wof:lastmodified":1536299444,
+    "wof:lastmodified":1566667910,
     "wof:name":"Gadhidanda",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     86.43151999999998,
-    26.998240000000006,
+    26.99824000000001,
     86.43151999999998,
-    26.998240000000006
+    26.99824000000001
 ],
   "geometry": {"coordinates":[86.43151999999998,26.99824000000001],"type":"Point"}
 }

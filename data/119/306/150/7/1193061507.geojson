@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.21076,27.32724,87.25076,27.36724",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1193061507,
-    "wof:lastmodified":1536377362,
+    "wof:lastmodified":1566668279,
     "wof:name":"Titrebesi",
     "wof:parent_id":1092049597,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.52243,27.56486,85.56243,27.60486",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343304107,
-    "wof:lastmodified":1536971564,
+    "wof:lastmodified":1566664556,
     "wof:name":"Jamunegaun",
     "wof:parent_id":1092048887,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.15967,27.73393,85.19967,27.77393",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nep_x_preferred":[
         "\u1e0ca\u1e0dhuw\u0101 Ko\u1e6dkh\u0101lg\u0101\u0169"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1293501783,
-    "wof:lastmodified":1537676079,
+    "wof:lastmodified":1566666158,
     "wof:name":"Dadhuwa Kotkhalgau",
     "wof:parent_id":1092050661,
     "wof:placetype":"locality",

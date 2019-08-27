@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.80915,28.03854,82.84915,28.07854",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:pan_x_preferred":[
         "\u0a22\u0a41\u0a71\u0a21\u0a40"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1242997681,
-    "wof:lastmodified":1564117004,
+    "wof:lastmodified":1566670621,
     "wof:name":"Dhudi",
     "wof:parent_id":1092049377,
     "wof:placetype":"locality",

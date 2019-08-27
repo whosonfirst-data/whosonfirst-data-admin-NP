@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.28688,26.77711,86.32688,26.81711",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226180075,
-    "wof:lastmodified":1537026911,
+    "wof:lastmodified":1566671328,
     "wof:name":"Chuharwa",
     "wof:parent_id":1092050497,
     "wof:placetype":"locality",

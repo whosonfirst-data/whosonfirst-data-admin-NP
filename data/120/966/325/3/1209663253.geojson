@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.27632,27.60052,83.31632,27.64052",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7987134
     },
     "wof:country":"NP",
-    "wof:geomhash":"5b1bad8667d84cf89acafbec19893256",
+    "wof:geomhash":"c65cf1df3d563d208b2e0c26daaa8c71",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209663253,
-    "wof:lastmodified":1536280181,
+    "wof:lastmodified":1566667837,
     "wof:name":"Katuwa",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     83.29632,
-    27.620520000000006,
+    27.62052000000001,
     83.29632,
-    27.620520000000006
+    27.62052000000001
 ],
   "geometry": {"coordinates":[83.29631999999999,27.62052000000001],"type":"Point"}
 }

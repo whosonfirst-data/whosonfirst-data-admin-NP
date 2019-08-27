@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":28.886123,
     "lbl:longitude":81.678465,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"BHERI",
     "meso:diss_me":"DailekhBHERI",
     "meso:gadm_admin":"Dailekh",
@@ -34,6 +36,7 @@
     "mps:longitude":81.678465,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09a6\u09c8\u09b2\u09c7\u0996 \u099c\u09c7\u09b2\u09be"
     ],
@@ -128,9 +131,9 @@
         "Dailekh"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-22",
+    "src:population_date":"2011-06-22",
     "statoids:area_km":"1,502.0",
     "statoids:as_of_date":"2011-06-22",
     "statoids:capital":"Dailekh",
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":1092050583,
-    "wof:lastmodified":1563242381,
+    "wof:lastmodified":1566669771,
     "wof:name":"Dailekh",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":27.15,
     "geom:longitude":87.55,
     "iso:country":"NP",
+    "lbl:bbox":"87.45,27.05,87.65,27.25",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "\u09a4\u09c7\u09b0\u09a5\u09c1\u09ae \u099c\u09c7\u09b2\u09be"
@@ -143,7 +147,7 @@
     "wof:concordances":{
         "gn:id":7732361,
         "gp:id":23706751,
-        "qs:id":401429,
+        "qs_pg:id":401429,
         "wd:id":"Q28585",
         "wk:page":"Terhathum District"
     },
@@ -167,7 +171,7 @@
         }
     ],
     "wof:id":421193047,
-    "wof:lastmodified":1563242692,
+    "wof:lastmodified":1566669983,
     "wof:name":"Terhathum",
     "wof:parent_id":1092050137,
     "wof:placetype":"localadmin",

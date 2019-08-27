@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.87965,28.65651,82.91965,28.69651",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310527543,
-    "wof:lastmodified":1536884643,
+    "wof:lastmodified":1566669228,
     "wof:name":"Pilamui",
     "wof:parent_id":1092049495,
     "wof:placetype":"locality",

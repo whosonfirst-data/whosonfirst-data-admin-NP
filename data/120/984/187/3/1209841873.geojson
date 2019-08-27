@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.90491,29.47245,81.94491,29.51245",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kawa"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1209841873,
-    "wof:lastmodified":1564111810,
+    "wof:lastmodified":1566667555,
     "wof:name":"Kawa",
     "wof:parent_id":1092048339,
     "wof:placetype":"locality",

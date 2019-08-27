@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.19186,27.28789,85.23186,27.32789",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7969189
     },
     "wof:country":"NP",
-    "wof:geomhash":"c8f7f386721e989e5a048e7e00a89376",
+    "wof:geomhash":"ed6d0ca435cd3c63e698de3c26b2043e",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209356815,
-    "wof:lastmodified":1536289563,
+    "wof:lastmodified":1566667849,
     "wof:name":"Atharah Bigha",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     85.21186,
-    27.307890000000004,
+    27.30789,
     85.21186,
-    27.307890000000004
+    27.30789
 ],
   "geometry": {"coordinates":[85.21186,27.30789],"type":"Point"}
 }

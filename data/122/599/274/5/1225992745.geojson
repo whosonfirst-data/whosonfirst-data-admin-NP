@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.32916,27.52527,86.36916,27.56527",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041f\u0443\u043d\u0430"
     ],
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":1225992745,
-    "wof:lastmodified":1564118690,
+    "wof:lastmodified":1566671655,
     "wof:name":"Puna",
     "wof:parent_id":1092049711,
     "wof:placetype":"locality",

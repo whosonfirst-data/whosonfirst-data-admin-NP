@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.5086,29.4747,80.5486,29.5147",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062a\u0648\u0645"
     ],
@@ -143,7 +147,7 @@
         }
     ],
     "wof:id":1277015603,
-    "wof:lastmodified":1564110211,
+    "wof:lastmodified":1566666553,
     "wof:name":"Thum",
     "wof:parent_id":1092050255,
     "wof:placetype":"locality",

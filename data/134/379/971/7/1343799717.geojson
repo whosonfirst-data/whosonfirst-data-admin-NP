@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.59289,28.01175,83.63289,28.05175",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343799717,
-    "wof:lastmodified":1536754257,
+    "wof:lastmodified":1566664814,
     "wof:name":"Bhattaraithar",
     "wof:parent_id":1092049297,
     "wof:placetype":"locality",

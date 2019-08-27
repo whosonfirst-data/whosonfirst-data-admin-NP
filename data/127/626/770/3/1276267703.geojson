@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.60981,27.58001,84.64981,27.62001",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276267703,
-    "wof:lastmodified":1536865239,
+    "wof:lastmodified":1566666652,
     "wof:name":"Pampagaun",
     "wof:parent_id":1092050101,
     "wof:placetype":"locality",

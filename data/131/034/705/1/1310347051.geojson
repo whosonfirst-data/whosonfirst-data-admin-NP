@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.10614,28.30424,83.14614,28.34424",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Harpe"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1310347051,
-    "wof:lastmodified":1564115096,
+    "wof:lastmodified":1566669458,
     "wof:name":"Harpe",
     "wof:parent_id":1092049257,
     "wof:placetype":"locality",

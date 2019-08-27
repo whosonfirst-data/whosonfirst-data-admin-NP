@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":63286372.530782,
+    "geom:area_square_m":0.0,
     "geom:bbox":"85.315697,27.706312,85.315697,27.706312",
     "geom:latitude":27.706312,
     "geom:longitude":85.315697,
-    "gn:gn_country":"NP",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"NP",
+    "gn:fcode":"PPLX",
     "gn:latitude":27.71667,
     "gn:longitude":85.31667,
+    "gn:population":0,
     "iso:country":"NP",
+    "lbl:bbox":"85.310697,27.701312,85.320697,27.711312",
     "lbl:latitude":27.706312,
     "lbl:longitude":85.315697,
+    "lbl:max_zoom":18.0,
     "mps:latitude":27.703149,
     "mps:longitude":85.313718,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
     "name:eng_x_preferred":[
-        "Thapathali"
-    ],
-    "name:unk_x_variant":[
         "Thapathali"
     ],
     "qs:gn_adm0_cc":"NP",
@@ -83,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         1108807143,
         102191569,
@@ -95,7 +94,6 @@
     "wof:concordances":{
         "gn:id":1282682,
         "gp:id":2268934,
-        "qs:id":241184,
         "qs_pg:id":241184
     },
     "wof:country":"NP",
@@ -122,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379389,
+    "wof:lastmodified":1566665527,
     "wof:name":"Thapathali",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

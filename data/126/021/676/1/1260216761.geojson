@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.6373,28.95149,81.6773,28.99149",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1260216761,
-    "wof:lastmodified":1536802490,
+    "wof:lastmodified":1566668904,
     "wof:name":"Gortigaun",
     "wof:parent_id":1092050583,
     "wof:placetype":"locality",

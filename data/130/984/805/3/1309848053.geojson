@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.0316,26.64612,86.0716,26.68612",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nep_x_preferred":[
         "\u0926\u0941\u0939\u093e\u092c\u0940"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1309848053,
-    "wof:lastmodified":1564115684,
+    "wof:lastmodified":1566669808,
     "wof:name":"Duhabi",
     "wof:parent_id":1092048127,
     "wof:placetype":"locality",

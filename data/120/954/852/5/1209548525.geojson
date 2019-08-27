@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.38471,27.83757,82.42471,27.87757",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7938229
     },
     "wof:country":"NP",
-    "wof:geomhash":"06e31ab9ea84af04fdb2799e08d1262e",
+    "wof:geomhash":"2305d77114a56d478f37ea92f0dc2f52",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209548525,
-    "wof:lastmodified":1536283768,
+    "wof:lastmodified":1566667435,
     "wof:name":"Dharampur (Gandheli)",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     82.40471,
-    27.857570000000006,
+    27.85757000000001,
     82.40471,
-    27.857570000000006
+    27.85757000000001
 ],
   "geometry": {"coordinates":[82.40470999999999,27.85757000000001],"type":"Point"}
 }

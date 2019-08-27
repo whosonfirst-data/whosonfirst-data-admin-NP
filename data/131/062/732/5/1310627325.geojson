@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.50069,29.14372,81.54069,29.18372",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310627325,
-    "wof:lastmodified":1536741144,
+    "wof:lastmodified":1566669159,
     "wof:name":"Bedugada",
     "wof:parent_id":1092048809,
     "wof:placetype":"locality",

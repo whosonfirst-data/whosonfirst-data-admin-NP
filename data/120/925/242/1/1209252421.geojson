@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.37579,27.24784,86.41579,27.28784",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7975452
     },
     "wof:country":"NP",
-    "wof:geomhash":"8a524ba6f94cfe9972ab37565a98541d",
+    "wof:geomhash":"d740ed29288af6c39f565fded97644c3",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209252421,
-    "wof:lastmodified":1536292963,
+    "wof:lastmodified":1566667715,
     "wof:name":"Neptedanda",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     86.39579,
-    27.267840000000003,
+    27.26784,
     86.39579,
-    27.267840000000003
+    27.26784
 ],
   "geometry": {"coordinates":[86.39579000000001,27.26784],"type":"Point"}
 }

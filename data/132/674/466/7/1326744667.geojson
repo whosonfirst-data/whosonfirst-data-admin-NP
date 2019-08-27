@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.09339,27.10888,86.13339,27.14888",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nep_x_preferred":[
         "Kar\u0101unje"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1326744667,
-    "wof:lastmodified":1537676099,
+    "wof:lastmodified":1566663579,
     "wof:name":"Karaunje",
     "wof:parent_id":1092049679,
     "wof:placetype":"locality",

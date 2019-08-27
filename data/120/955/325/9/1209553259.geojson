@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.53925,27.47689,86.57925,27.51689",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7997156
     },
     "wof:country":"NP",
-    "wof:geomhash":"1b8b595e08b1210a47b35c2250d8e10a",
+    "wof:geomhash":"f56e4b550c8a704dd695fa3662909c84",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209553259,
-    "wof:lastmodified":1536283628,
+    "wof:lastmodified":1566667533,
     "wof:name":"Jyangding",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     86.55925,
-    27.496890000000004,
+    27.49689,
     86.55925,
-    27.496890000000004
+    27.49689
 ],
   "geometry": {"coordinates":[86.55925000000001,27.49689],"type":"Point"}
 }

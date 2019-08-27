@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.78447,28.91935,82.82447,28.95935",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Majhfal"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1343795017,
-    "wof:lastmodified":1564107917,
+    "wof:lastmodified":1566664817,
     "wof:name":"Majhphal",
     "wof:parent_id":1092050349,
     "wof:placetype":"locality",

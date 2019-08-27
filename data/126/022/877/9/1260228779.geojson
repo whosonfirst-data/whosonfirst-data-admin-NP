@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.70976,27.99872,83.74976,28.03872",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Khalte"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1260228779,
-    "wof:lastmodified":1564113903,
+    "wof:lastmodified":1566668765,
     "wof:name":"Khalte",
     "wof:parent_id":1092050939,
     "wof:placetype":"locality",

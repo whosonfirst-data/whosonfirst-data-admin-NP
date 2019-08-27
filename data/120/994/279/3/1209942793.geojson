@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.13135,28.25754,82.17135,28.29754",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1209942793,
-    "wof:lastmodified":1536387741,
+    "wof:lastmodified":1566667954,
     "wof:name":"Tallo Jyula",
     "wof:parent_id":1092049579,
     "wof:placetype":"locality",

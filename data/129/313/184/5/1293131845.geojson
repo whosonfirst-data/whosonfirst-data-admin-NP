@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.67328,28.26042,82.71328,28.30042",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Khumel"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1293131845,
-    "wof:lastmodified":1564109516,
+    "wof:lastmodified":1566666018,
     "wof:name":"Khumel",
     "wof:parent_id":1092049455,
     "wof:placetype":"locality",

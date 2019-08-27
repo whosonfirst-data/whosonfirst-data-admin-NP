@@ -10,8 +10,12 @@
     "geom:latitude":29.96588,
     "geom:longitude":81.82725,
     "iso:country":"NP",
+    "lbl:bbox":"81.80725,29.94588,81.84725,29.98588",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Simikot"
@@ -96,7 +100,7 @@
     "wof:concordances":{
         "gn:id":1282779,
         "gp:id":2268876,
-        "qs:id":946515,
+        "qs_pg:id":946515,
         "wd:id":"Q2152374",
         "wk:page":"Simikot"
     },
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":421182807,
-    "wof:lastmodified":1563242738,
+    "wof:lastmodified":1566669996,
     "wof:name":"Simikot",
     "wof:parent_id":1092050353,
     "wof:placetype":"locality",

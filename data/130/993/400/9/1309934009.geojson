@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.43135,28.67277,82.47135,28.71277",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0995\u09be\u09aa\u09b0\u09be"
     ],
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":1309934009,
-    "wof:lastmodified":1564115799,
+    "wof:lastmodified":1566669883,
     "wof:name":"Kapra",
     "wof:parent_id":1092049495,
     "wof:placetype":"locality",

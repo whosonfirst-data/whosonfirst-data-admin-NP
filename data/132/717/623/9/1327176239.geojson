@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.65933,27.82277,85.69933,27.86277",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1327176239,
-    "wof:lastmodified":1537048660,
+    "wof:lastmodified":1566664321,
     "wof:name":"Bhirkharka",
     "wof:parent_id":1092049755,
     "wof:placetype":"locality",

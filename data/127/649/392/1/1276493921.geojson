@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.70778,26.51398,87.74778,26.55398",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276493921,
-    "wof:lastmodified":1537058351,
+    "wof:lastmodified":1566667034,
     "wof:name":"Sukumbastitol",
     "wof:parent_id":1092050367,
     "wof:placetype":"locality",

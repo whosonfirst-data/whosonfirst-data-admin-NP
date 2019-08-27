@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.75807,28.43044,82.79807,28.47044",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7984781
     },
     "wof:country":"NP",
-    "wof:geomhash":"98a864a3e3436164e4fb7bf19daa7d48",
+    "wof:geomhash":"58d33ac39303cfa5c2f296c9b9fcddd9",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209238907,
-    "wof:lastmodified":1536293386,
+    "wof:lastmodified":1566667653,
     "wof:name":"Sirpen",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     82.77807,
-    28.450440000000004,
+    28.45044,
     82.77807,
-    28.450440000000004
+    28.45044
 ],
   "geometry": {"coordinates":[82.77807,28.45044],"type":"Point"}
 }

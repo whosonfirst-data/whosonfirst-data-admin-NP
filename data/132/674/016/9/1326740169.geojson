@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.3839,26.58154,87.4239,26.62154",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nep_x_preferred":[
         "Bh\u0169\u1e0dedh\u0101p"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1326740169,
-    "wof:lastmodified":1537676124,
+    "wof:lastmodified":1566663577,
     "wof:name":"Bhudedhap",
     "wof:parent_id":1092048303,
     "wof:placetype":"locality",

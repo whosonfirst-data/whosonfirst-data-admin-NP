@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.62876,28.15572,84.66876,28.19572",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1327171763,
-    "wof:lastmodified":1537054700,
+    "wof:lastmodified":1566664336,
     "wof:name":"Jimal Tol",
     "wof:parent_id":1092050351,
     "wof:placetype":"locality",

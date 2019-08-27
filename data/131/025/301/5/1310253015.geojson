@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.95763,27.85514,84.99763,27.89514",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Ramche"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1310253015,
-    "wof:lastmodified":1564114539,
+    "wof:lastmodified":1566669132,
     "wof:name":"Ramche",
     "wof:parent_id":1092050661,
     "wof:placetype":"locality",

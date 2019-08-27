@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.42459,28.65017,81.46459,28.69017",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Taranga"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209648143,
-    "wof:lastmodified":1564111731,
+    "wof:lastmodified":1566667512,
     "wof:name":"Taranga",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.34696,26.56426,87.38696,26.60426",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1193065763,
-    "wof:lastmodified":1536373110,
+    "wof:lastmodified":1566668325,
     "wof:name":"Jhauwabani",
     "wof:parent_id":1092048303,
     "wof:placetype":"locality",

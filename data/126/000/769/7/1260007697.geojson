@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.66291,28.75588,81.70291,28.79588",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Matela"
     ],
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":1260007697,
-    "wof:lastmodified":1564113942,
+    "wof:lastmodified":1566668787,
     "wof:name":"Matela",
     "wof:parent_id":1092050583,
     "wof:placetype":"locality",

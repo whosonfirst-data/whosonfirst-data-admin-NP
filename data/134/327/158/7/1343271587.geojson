@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.89054,26.62625,87.93054,26.66625",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nep_x_preferred":[
         "\u1e0c\u0101\u0303\u1e0d\u0101g\u0101\u0169"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343271587,
-    "wof:lastmodified":1537676120,
+    "wof:lastmodified":1566665352,
     "wof:name":"Dadagau",
     "wof:parent_id":1092050367,
     "wof:placetype":"locality",

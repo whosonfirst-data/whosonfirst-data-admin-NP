@@ -10,8 +10,12 @@
     "geom:latitude":27.57356,
     "geom:longitude":85.33875,
     "iso:country":"NP",
+    "lbl:bbox":"85.31875,27.55356,85.35875,27.59356",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bho_x_preferred":[
         "\u0932\u0947\u0932\u0947"
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":7965681,
         "gp:id":2269039,
-        "qs:id":479587,
+        "qs_pg:id":479587,
         "wd:id":"Q6520829"
     },
     "wof:country":"NP",
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":421181243,
-    "wof:lastmodified":1563242713,
+    "wof:lastmodified":1566669989,
     "wof:name":"Lele",
     "wof:parent_id":1092048971,
     "wof:placetype":"locality",

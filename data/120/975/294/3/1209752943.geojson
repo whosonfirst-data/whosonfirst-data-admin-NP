@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.78818,28.04162,83.82818,28.08162",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1209752943,
-    "wof:lastmodified":1536391918,
+    "wof:lastmodified":1566668135,
     "wof:name":"Jogiphat",
     "wof:parent_id":1092050939,
     "wof:placetype":"locality",

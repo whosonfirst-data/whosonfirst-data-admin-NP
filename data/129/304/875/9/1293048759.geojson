@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.32255,27.7999,84.36255,27.8399",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Naram"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1293048759,
-    "wof:lastmodified":1564109759,
+    "wof:lastmodified":1566666207,
     "wof:name":"Naram",
     "wof:parent_id":1092050053,
     "wof:placetype":"locality",

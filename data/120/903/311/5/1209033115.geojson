@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.65067,28.03039,82.69067,28.07039",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7938944
     },
     "wof:country":"NP",
-    "wof:geomhash":"6557af3d81fdeace98442ae3d9ba9a4e",
+    "wof:geomhash":"a20c740f54ce07f2651c87d708db973b",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209033115,
-    "wof:lastmodified":1536299787,
+    "wof:lastmodified":1566667900,
     "wof:name":"Darbung",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     82.67067,
-    28.050390000000004,
+    28.05039,
     82.67067,
-    28.050390000000004
+    28.05039
 ],
   "geometry": {"coordinates":[82.67067,28.05039],"type":"Point"}
 }

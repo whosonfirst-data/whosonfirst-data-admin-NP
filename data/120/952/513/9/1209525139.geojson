@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.9151,27.86342,85.9551,27.90342",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0628\u0644\u0627\u0646"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1209525139,
-    "wof:lastmodified":1564111741,
+    "wof:lastmodified":1566667517,
     "wof:name":"Dablan",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

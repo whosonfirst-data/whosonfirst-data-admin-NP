@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.62941,28.69718,83.66941,28.73718",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tukuche"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1326971703,
-    "wof:lastmodified":1564107092,
+    "wof:lastmodified":1566664197,
     "wof:name":"Tukuche",
     "wof:parent_id":1092048365,
     "wof:placetype":"locality",

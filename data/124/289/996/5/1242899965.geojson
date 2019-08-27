@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.04992,29.42288,82.08992,29.46288",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1242899965,
-    "wof:lastmodified":1537093211,
+    "wof:lastmodified":1566670140,
     "wof:name":"Bhuje Tauka",
     "wof:parent_id":1092050797,
     "wof:placetype":"locality",

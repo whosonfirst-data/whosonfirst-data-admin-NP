@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.22298,28.05284,83.26298,28.09284",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Baghmare"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1277118177,
-    "wof:lastmodified":1564111481,
+    "wof:lastmodified":1566667372,
     "wof:name":"Baghmare",
     "wof:parent_id":1092050755,
     "wof:placetype":"locality",

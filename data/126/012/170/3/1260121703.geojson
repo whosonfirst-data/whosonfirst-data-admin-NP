@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.57433,28.23228,83.61433,28.27228",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Tityang"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1260121703,
-    "wof:lastmodified":1564113865,
+    "wof:lastmodified":1566668742,
     "wof:name":"Tityang",
     "wof:parent_id":1092049257,
     "wof:placetype":"locality",

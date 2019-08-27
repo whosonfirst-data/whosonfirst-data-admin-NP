@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.67638,28.66786,82.71638,28.70786",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Gudu"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1293422635,
-    "wof:lastmodified":1564110038,
+    "wof:lastmodified":1566666419,
     "wof:name":"Gudu",
     "wof:parent_id":1092049495,
     "wof:placetype":"locality",

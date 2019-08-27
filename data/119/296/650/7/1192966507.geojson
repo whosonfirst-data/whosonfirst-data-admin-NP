@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.59909,27.91913,86.63909,27.95913",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1192966507,
-    "wof:lastmodified":1536382861,
+    "wof:lastmodified":1566668457,
     "wof:name":"Thokchambo",
     "wof:parent_id":1092049841,
     "wof:placetype":"locality",

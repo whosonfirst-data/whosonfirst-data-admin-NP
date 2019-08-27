@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.79896,28.27435,82.83896,28.31435",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1243391605,
-    "wof:lastmodified":1536884199,
+    "wof:lastmodified":1566670112,
     "wof:name":"Sawarapakha",
     "wof:parent_id":1092049455,
     "wof:placetype":"locality",

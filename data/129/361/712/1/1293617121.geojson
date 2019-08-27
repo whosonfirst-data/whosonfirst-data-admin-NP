@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.22117,28.57204,82.26117,28.61204",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Neta"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1293617121,
-    "wof:lastmodified":1564109620,
+    "wof:lastmodified":1566666097,
     "wof:name":"Neta",
     "wof:parent_id":1092049579,
     "wof:placetype":"locality",

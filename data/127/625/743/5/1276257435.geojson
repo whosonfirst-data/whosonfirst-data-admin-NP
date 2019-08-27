@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.32819,28.83689,80.36819,28.87689",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276257435,
-    "wof:lastmodified":1536879632,
+    "wof:lastmodified":1566667020,
     "wof:name":"Loharpur",
     "wof:parent_id":1092048227,
     "wof:placetype":"locality",

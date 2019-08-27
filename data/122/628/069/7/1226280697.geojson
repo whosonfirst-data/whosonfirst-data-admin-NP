@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.19072,27.28892,86.23072,27.32892",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226280697,
-    "wof:lastmodified":1536882618,
+    "wof:lastmodified":1566671267,
     "wof:name":"Lorti",
     "wof:parent_id":1092049711,
     "wof:placetype":"locality",

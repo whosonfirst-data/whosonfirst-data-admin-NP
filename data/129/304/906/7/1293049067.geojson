@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.82031,27.34471,86.86031,27.38471",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Dipsung"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1293049067,
-    "wof:lastmodified":1564109751,
+    "wof:lastmodified":1566666200,
     "wof:name":"Dipsung",
     "wof:parent_id":1092050841,
     "wof:placetype":"locality",

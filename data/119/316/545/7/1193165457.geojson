@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.39659,29.42075,80.43659,29.46075",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Buga"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1193165457,
-    "wof:lastmodified":1564113575,
+    "wof:lastmodified":1566668567,
     "wof:name":"Buga",
     "wof:parent_id":1092050255,
     "wof:placetype":"locality",

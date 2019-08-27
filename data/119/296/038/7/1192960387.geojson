@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.06524,27.11245,86.10524,27.15245",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1192960387,
-    "wof:lastmodified":1536366358,
+    "wof:lastmodified":1566668449,
     "wof:name":"Sakhajor",
     "wof:parent_id":1092049679,
     "wof:placetype":"locality",

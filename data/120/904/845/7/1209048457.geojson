@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.92157,27.79269,87.96157,27.83269",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":8005424
     },
     "wof:country":"NP",
-    "wof:geomhash":"e30060bc08daddf7a66cdf30511d2c4e",
+    "wof:geomhash":"dd32a4537a51dca9addf81dfdfc1febf",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209048457,
-    "wof:lastmodified":1536299322,
+    "wof:lastmodified":1566667904,
     "wof:name":"Nupchu Peak",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     87.94157,
-    27.812690000000003,
+    27.81269,
     87.94157,
-    27.812690000000003
+    27.81269
 ],
   "geometry": {"coordinates":[87.94157,27.81269],"type":"Point"}
 }

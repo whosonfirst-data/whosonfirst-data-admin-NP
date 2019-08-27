@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.84806,28.52443,81.88806,28.56443",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293127055,
-    "wof:lastmodified":1536809445,
+    "wof:lastmodified":1566665904,
     "wof:name":"Tomdera",
     "wof:parent_id":1092049963,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.98491,26.61905,88.02491,26.65905",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nep_x_preferred":[
         "Jh\u0101\u0303jib\u0101ri\u0307\u0304"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1243077341,
-    "wof:lastmodified":1537676116,
+    "wof:lastmodified":1566670004,
     "wof:name":"Jhajibari",
     "wof:parent_id":1092050367,
     "wof:placetype":"locality",

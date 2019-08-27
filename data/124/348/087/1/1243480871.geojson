@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.39727,28.61169,82.43727,28.65169",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1243480871,
-    "wof:lastmodified":1536756050,
+    "wof:lastmodified":1566670291,
     "wof:name":"Chhibang",
     "wof:parent_id":1092049495,
     "wof:placetype":"locality",
