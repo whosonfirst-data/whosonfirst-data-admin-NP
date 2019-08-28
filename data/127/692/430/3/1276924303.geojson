@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.88239,27.54069,85.92239,27.58069",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276924303,
-    "wof:lastmodified":1536981097,
+    "wof:lastmodified":1566666882,
     "wof:name":"Laitar",
     "wof:parent_id":1092049711,
     "wof:placetype":"locality",

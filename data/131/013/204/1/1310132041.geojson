@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.68535,28.67528,82.72535,28.71528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0648\u0646\u062c"
     ],
@@ -194,7 +198,7 @@
         }
     ],
     "wof:id":1310132041,
-    "wof:lastmodified":1564114451,
+    "wof:lastmodified":1566669078,
     "wof:name":"Gong",
     "wof:parent_id":1092049495,
     "wof:placetype":"locality",

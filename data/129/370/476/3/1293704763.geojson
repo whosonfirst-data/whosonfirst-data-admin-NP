@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.87809,28.93828,82.91809,28.97828",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b0\u09be\u09b6\u09bf"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1293704763,
-    "wof:lastmodified":1564109299,
+    "wof:lastmodified":1566665853,
     "wof:name":"Rasi",
     "wof:parent_id":1092050349,
     "wof:placetype":"locality",

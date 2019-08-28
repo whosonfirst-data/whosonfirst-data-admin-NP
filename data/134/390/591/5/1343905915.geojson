@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.20964,28.18802,84.24964,28.22802",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343905915,
-    "wof:lastmodified":1537095554,
+    "wof:lastmodified":1566664668,
     "wof:name":"Talkholagaun",
     "wof:parent_id":1092050009,
     "wof:placetype":"locality",

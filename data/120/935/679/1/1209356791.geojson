@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.89784,26.97869,84.93784,27.01869",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":8008652
     },
     "wof:country":"NP",
-    "wof:geomhash":"873acd408a204bb815e6c75ed3a39300",
+    "wof:geomhash":"b8e5141dcf81652e52a84348ecb72d84",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209356791,
-    "wof:lastmodified":1536289563,
+    "wof:lastmodified":1566667867,
     "wof:name":"Chiljhapati",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     84.91784,
-    26.998690000000003,
+    26.99869,
     84.91784,
-    26.998690000000003
+    26.99869
 ],
   "geometry": {"coordinates":[84.91784,26.99869],"type":"Point"}
 }

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.82347,27.86521,83.86347,27.90521",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293042653,
-    "wof:lastmodified":1536932169,
+    "wof:lastmodified":1566666234,
     "wof:name":"Dimpa",
     "wof:parent_id":1092050939,
     "wof:placetype":"locality",

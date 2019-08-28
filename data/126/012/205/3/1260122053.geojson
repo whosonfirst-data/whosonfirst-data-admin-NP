@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.17171,27.57345,85.21171,27.61345",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1260122053,
-    "wof:lastmodified":1536933359,
+    "wof:lastmodified":1566668725,
     "wof:name":"Hansili",
     "wof:parent_id":1092049017,
     "wof:placetype":"locality",

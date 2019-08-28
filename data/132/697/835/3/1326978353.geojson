@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.33895,27.60916,85.37895,27.64916",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1326978353,
-    "wof:lastmodified":1536837509,
+    "wof:lastmodified":1566664171,
     "wof:name":"Damaitar",
     "wof:parent_id":1092048971,
     "wof:placetype":"locality",

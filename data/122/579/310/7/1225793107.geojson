@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.30803,27.43637,86.34803,27.47637",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1225793107,
-    "wof:lastmodified":1537086483,
+    "wof:lastmodified":1566672061,
     "wof:name":"Nibhare",
     "wof:parent_id":1092050225,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.1528,28.09874,86.1928,28.13874",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7944892
     },
     "wof:country":"NP",
-    "wof:geomhash":"b9052ad0bdaf66f92be0b6bc8af41478",
+    "wof:geomhash":"aaabf423f42fd6005fcc37fb8eaa54c2",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209256667,
-    "wof:lastmodified":1536292829,
+    "wof:lastmodified":1566667726,
     "wof:name":"Lapchegaun",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     86.1728,
-    28.118740000000006,
+    28.11874000000001,
     86.1728,
-    28.118740000000006
+    28.11874000000001
 ],
   "geometry": {"coordinates":[86.1728,28.11874000000001],"type":"Point"}
 }

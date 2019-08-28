@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.46151,28.75195,81.50151,28.79195",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Pokharikanda"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1343288243,
-    "wof:lastmodified":1564108826,
+    "wof:lastmodified":1566665493,
     "wof:name":"Pokharikanda",
     "wof:parent_id":1092049963,
     "wof:placetype":"locality",

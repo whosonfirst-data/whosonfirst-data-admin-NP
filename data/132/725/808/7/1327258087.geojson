@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.72528,28.90494,80.76528,28.94494",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bunga"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1327258087,
-    "wof:lastmodified":1564106571,
+    "wof:lastmodified":1566663811,
     "wof:name":"Bunga",
     "wof:parent_id":1092048743,
     "wof:placetype":"locality",

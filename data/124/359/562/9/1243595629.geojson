@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.32615,28.37341,83.36615,28.41341",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09a8\u09ae\u09b2"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1243595629,
-    "wof:lastmodified":1564116611,
+    "wof:lastmodified":1566670393,
     "wof:name":"Namal",
     "wof:parent_id":1092049089,
     "wof:placetype":"locality",

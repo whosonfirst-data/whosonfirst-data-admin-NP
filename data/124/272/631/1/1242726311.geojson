@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.47743,27.42018,85.51743,27.46018",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hin_x_preferred":[
         "\u0930\u093e\u091c\u093e\u0930\u093e\u092e"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1242726311,
-    "wof:lastmodified":1564116239,
+    "wof:lastmodified":1566670163,
     "wof:name":"Rajaram",
     "wof:parent_id":1092048887,
     "wof:placetype":"locality",

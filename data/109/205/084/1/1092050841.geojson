@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":27.195322,
     "lbl:longitude":86.782669,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SAGARMATHA",
     "meso:diss_me":"KhotangSAGARMATHA",
     "meso:gadm_admin":"Khotang",
@@ -34,6 +36,7 @@
     "mps:longitude":86.782669,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u0996\u09cb\u099f\u09be\u0999 \u099c\u09c7\u09b2\u09be"
     ],
@@ -131,9 +134,9 @@
         "Khotang"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-22",
+    "src:population_date":"2011-06-22",
     "statoids:area_km":"1,591.0",
     "statoids:as_of_date":"2011-06-22",
     "statoids:capital":"Diktel",
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":1092050841,
-    "wof:lastmodified":1563242372,
+    "wof:lastmodified":1566669767,
     "wof:name":"Khotang",
     "wof:parent_id":-1,
     "wof:placetype":"county",

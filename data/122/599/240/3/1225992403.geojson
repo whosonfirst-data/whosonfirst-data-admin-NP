@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.81807,27.81154,83.85807,27.85154",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Siluwa"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1225992403,
-    "wof:lastmodified":1564118707,
+    "wof:lastmodified":1566671665,
     "wof:name":"Siluwa",
     "wof:parent_id":1092050889,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.70131,27.67198,86.74131,27.71198",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1209864049,
-    "wof:lastmodified":1536380658,
+    "wof:lastmodified":1566668175,
     "wof:name":"Muse",
     "wof:parent_id":1092049841,
     "wof:placetype":"locality",

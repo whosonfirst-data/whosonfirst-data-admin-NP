@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.54309,29.14773,80.58309,29.18773",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Hartola"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1259609711,
-    "wof:lastmodified":1564117734,
+    "wof:lastmodified":1566671075,
     "wof:name":"Hartola",
     "wof:parent_id":1092048697,
     "wof:placetype":"locality",

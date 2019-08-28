@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.26866,29.45363,82.30866,29.49363",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1327359903,
-    "wof:lastmodified":1536786140,
+    "wof:lastmodified":1566663934,
     "wof:name":"Taule Bhir",
     "wof:parent_id":1092048339,
     "wof:placetype":"locality",

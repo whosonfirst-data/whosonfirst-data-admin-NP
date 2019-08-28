@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.81883,28.91231,81.85883,28.95231",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1309938607,
-    "wof:lastmodified":1536739655,
+    "wof:lastmodified":1566669882,
     "wof:name":"Gopini",
     "wof:parent_id":1092050583,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.49527,28.27661,82.53527,28.31661",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nanga"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1276793023,
-    "wof:lastmodified":1564111048,
+    "wof:lastmodified":1566667105,
     "wof:name":"Nanga",
     "wof:parent_id":1092049455,
     "wof:placetype":"locality",

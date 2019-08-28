@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.71612,28.11861,84.75612,28.15861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1344005983,
-    "wof:lastmodified":1536954392,
+    "wof:lastmodified":1566664781,
     "wof:name":"Bhandarigaun",
     "wof:parent_id":1092050351,
     "wof:placetype":"locality",

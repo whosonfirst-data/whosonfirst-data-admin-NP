@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.53741,29.16613,81.57741,29.20613",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276578205,
-    "wof:lastmodified":1536948624,
+    "wof:lastmodified":1566666919,
     "wof:name":"Madagaun",
     "wof:parent_id":1092048809,
     "wof:placetype":"locality",

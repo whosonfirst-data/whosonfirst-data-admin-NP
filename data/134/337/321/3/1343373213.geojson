@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.02717,26.97941,87.06717,27.01941",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u064a\u0627\u0646"
     ],
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":1343373213,
-    "wof:lastmodified":1564107587,
+    "wof:lastmodified":1566664569,
     "wof:name":"Bayan",
     "wof:parent_id":1092049883,
     "wof:placetype":"locality",

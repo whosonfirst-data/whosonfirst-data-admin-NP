@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.63926,28.01683,81.67926,28.05683",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343790051,
-    "wof:lastmodified":1536768846,
+    "wof:lastmodified":1566664829,
     "wof:name":"Gangarampurwa",
     "wof:parent_id":1092050297,
     "wof:placetype":"locality",

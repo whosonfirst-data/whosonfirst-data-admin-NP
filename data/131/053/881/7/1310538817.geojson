@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.11595,28.36806,83.15595,28.40806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310538817,
-    "wof:lastmodified":1536867530,
+    "wof:lastmodified":1566669203,
     "wof:name":"Bagdura Kharka",
     "wof:parent_id":1092049257,
     "wof:placetype":"locality",

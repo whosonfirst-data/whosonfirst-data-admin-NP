@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.7475,27.71267,85.7875,27.75267",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343310243,
-    "wof:lastmodified":1536963029,
+    "wof:lastmodified":1566664499,
     "wof:name":"Siranchaur",
     "wof:parent_id":1092049755,
     "wof:placetype":"locality",

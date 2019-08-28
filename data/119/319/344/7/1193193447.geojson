@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.52738,26.49448,87.56738,26.53448",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Surat"
     ],
@@ -323,7 +327,7 @@
         }
     ],
     "wof:id":1193193447,
-    "wof:lastmodified":1564113708,
+    "wof:lastmodified":1566668647,
     "wof:name":"Surat",
     "wof:parent_id":1092048303,
     "wof:placetype":"locality",

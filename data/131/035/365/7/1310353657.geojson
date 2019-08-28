@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.08709,26.87071,85.12709,26.91071",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u092e\u094c\u0935\u093e\u0939\u0940"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1310353657,
-    "wof:lastmodified":1564115036,
+    "wof:lastmodified":1566669423,
     "wof:name":"Mauwahi",
     "wof:parent_id":1092048051,
     "wof:placetype":"locality",

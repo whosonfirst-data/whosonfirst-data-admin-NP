@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.22208,28.99342,81.26208,29.03342",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343594135,
-    "wof:lastmodified":1537048757,
+    "wof:lastmodified":1566665011,
     "wof:name":"Nawagaun",
     "wof:parent_id":1092048527,
     "wof:placetype":"locality",

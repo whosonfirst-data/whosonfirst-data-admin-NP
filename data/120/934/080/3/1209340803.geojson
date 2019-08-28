@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.07122,28.60431,82.11122,28.64431",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209340803,
-    "wof:lastmodified":1536290072,
+    "wof:lastmodified":1566668004,
     "wof:name":"Rati Pokhari",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

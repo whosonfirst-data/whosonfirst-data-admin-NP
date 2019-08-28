@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.90152,26.59539,85.94152,26.63539",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Marna"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1259621543,
-    "wof:lastmodified":1564117323,
+    "wof:lastmodified":1566670814,
     "wof:name":"Marna",
     "wof:parent_id":1092048127,
     "wof:placetype":"locality",

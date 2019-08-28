@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.61948,27.56092,84.65948,27.60092",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7934119
     },
     "wof:country":"NP",
-    "wof:geomhash":"f7d880cd0dd5331e6619871bf36e0519",
+    "wof:geomhash":"55ae7cd508798aff7ddcf6b4611ada20",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209362865,
-    "wof:lastmodified":1536289367,
+    "wof:lastmodified":1566667403,
     "wof:name":"Madawabhar",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     84.63948,
-    27.580920000000006,
+    27.58092000000001,
     84.63948,
-    27.580920000000006
+    27.58092000000001
 ],
   "geometry": {"coordinates":[84.63948000000001,27.58092000000001],"type":"Point"}
 }

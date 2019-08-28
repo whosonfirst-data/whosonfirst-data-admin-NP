@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.14581,26.79195,87.18581,26.83195",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Punarwas"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1225886593,
-    "wof:lastmodified":1564118582,
+    "wof:lastmodified":1566671589,
     "wof:name":"Punarbas",
     "wof:parent_id":1092049923,
     "wof:placetype":"locality",

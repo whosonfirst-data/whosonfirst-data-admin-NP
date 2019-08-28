@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.51817,28.44988,82.55817,28.48988",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1326858493,
-    "wof:lastmodified":1537010323,
+    "wof:lastmodified":1566663991,
     "wof:name":"Bhultung",
     "wof:parent_id":1092049455,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.0156,28.66999,82.0556,28.70999",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0644\u0645\u0649"
     ],
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":1310232993,
-    "wof:lastmodified":1564114392,
+    "wof:lastmodified":1566669042,
     "wof:name":"Salma",
     "wof:parent_id":1092048763,
     "wof:placetype":"locality",

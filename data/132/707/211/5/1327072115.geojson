@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.38882,26.98036,85.42882,27.02036",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1327072115,
-    "wof:lastmodified":1536703456,
+    "wof:lastmodified":1566663462,
     "wof:name":"Chhasaya Bigha",
     "wof:parent_id":1092049639,
     "wof:placetype":"locality",

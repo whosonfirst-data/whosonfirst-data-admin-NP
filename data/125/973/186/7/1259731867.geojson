@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.023,26.9391,85.063,26.9791",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Telkuwa"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1259731867,
-    "wof:lastmodified":1564117790,
+    "wof:lastmodified":1566671106,
     "wof:name":"Telkuwa",
     "wof:parent_id":1092048051,
     "wof:placetype":"locality",

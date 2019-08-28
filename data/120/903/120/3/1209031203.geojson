@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.46864,28.15034,82.50864,28.19034",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7983078
     },
     "wof:country":"NP",
-    "wof:geomhash":"322b4670dd1c3e531aea9eca80a92f6c",
+    "wof:geomhash":"a87c44a98b1e1c9526bc9a75ec55172b",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209031203,
-    "wof:lastmodified":1536299845,
+    "wof:lastmodified":1566667888,
     "wof:name":"Nigalpani",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     82.48864,
-    28.170340000000003,
+    28.17034,
     82.48864,
-    28.170340000000003
+    28.17034
 ],
   "geometry": {"coordinates":[82.48864,28.17034],"type":"Point"}
 }

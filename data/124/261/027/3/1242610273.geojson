@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.5179,28.91353,81.5579,28.95353",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1242610273,
-    "wof:lastmodified":1537015899,
+    "wof:lastmodified":1566670241,
     "wof:name":"Bedukhada",
     "wof:parent_id":1092050583,
     "wof:placetype":"locality",

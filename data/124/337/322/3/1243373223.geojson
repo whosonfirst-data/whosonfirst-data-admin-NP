@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.65379,28.09918,82.69379,28.13918",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Swargdw\u0101ri",
         "Swargdw\u0101r"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1243373223,
-    "wof:lastmodified":1537676039,
+    "wof:lastmodified":1566670088,
     "wof:name":"Swargdwar",
     "wof:parent_id":1092049377,
     "wof:placetype":"locality",

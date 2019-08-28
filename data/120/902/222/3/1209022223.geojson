@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.16082,27.49042,86.20082,27.53042",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bittari\u0307\u0304g\u0101\u0169",
         "Bittar\u012bg\u0101un"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209022223,
-    "wof:lastmodified":1537676097,
+    "wof:lastmodified":1566667989,
     "wof:name":"Bittarigau",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":27.1715,
     "geom:longitude":87.04607,
     "iso:country":"NP",
+    "lbl:bbox":"87.02607,27.1515,87.06607,27.1915",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Bhojpur"
@@ -93,7 +97,7 @@
     "wof:concordances":{
         "gn:id":1283600,
         "gp:id":2269135,
-        "qs:id":970768,
+        "qs_pg:id":970768,
         "wd:id":"Q2900702",
         "wk:page":"Bhojpur, Nepal"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":421183283,
-    "wof:lastmodified":1563242733,
+    "wof:lastmodified":1566669995,
     "wof:name":"Bhojpur",
     "wof:parent_id":1092049883,
     "wof:placetype":"locality",

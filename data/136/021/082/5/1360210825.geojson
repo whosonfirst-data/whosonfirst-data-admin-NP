@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.49421,28.87679,82.53421,28.91679",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Holi"
     ],
@@ -254,7 +258,7 @@
         }
     ],
     "wof:id":1360210825,
-    "wof:lastmodified":1564115510,
+    "wof:lastmodified":1566669691,
     "wof:name":"Holi",
     "wof:parent_id":1092049495,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.57805,28.61897,82.61805,28.65897",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276578125,
-    "wof:lastmodified":1536948720,
+    "wof:lastmodified":1566666932,
     "wof:name":"Purano Dhaka",
     "wof:parent_id":1092049495,
     "wof:placetype":"locality",

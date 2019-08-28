@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.03411,26.83924,87.07411,26.87924",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226490405,
-    "wof:lastmodified":1537074777,
+    "wof:lastmodified":1566671733,
     "wof:name":"Bhalukhop",
     "wof:parent_id":1092050179,
     "wof:placetype":"locality",

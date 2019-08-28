@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.05097,27.51475,87.09097,27.55475",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Betini"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1209958513,
-    "wof:lastmodified":1564112272,
+    "wof:lastmodified":1566667811,
     "wof:name":"Betini",
     "wof:parent_id":1092049597,
     "wof:placetype":"locality",

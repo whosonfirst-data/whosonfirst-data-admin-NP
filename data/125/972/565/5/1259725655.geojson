@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.19912,27.55955,84.23912,27.59955",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Patihani"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1259725655,
-    "wof:lastmodified":1564117967,
+    "wof:lastmodified":1566671221,
     "wof:name":"Patihani",
     "wof:parent_id":1092050101,
     "wof:placetype":"locality",

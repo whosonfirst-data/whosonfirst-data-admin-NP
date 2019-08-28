@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.56132,27.74667,85.60132,27.78667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293821927,
-    "wof:lastmodified":1536802010,
+    "wof:lastmodified":1566665943,
     "wof:name":"Kaphalchaur",
     "wof:parent_id":1092049755,
     "wof:placetype":"locality",

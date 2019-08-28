@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.07503,27.56102,86.11503,27.60102",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:pol_x_preferred":[
         "Bhirkot"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1327475863,
-    "wof:lastmodified":1564106596,
+    "wof:lastmodified":1566663828,
     "wof:name":"Bhirkot",
     "wof:parent_id":1092050535,
     "wof:placetype":"locality",

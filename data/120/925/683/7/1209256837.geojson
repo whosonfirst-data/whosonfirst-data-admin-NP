@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.54939,27.253,85.58939,27.293",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7993643
     },
     "wof:country":"NP",
-    "wof:geomhash":"7b4eb15e6f919b473864c63212fd9da7",
+    "wof:geomhash":"a9cf4fd816332d7ffcf4a88cab92234a",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209256837,
-    "wof:lastmodified":1536292826,
+    "wof:lastmodified":1566667735,
     "wof:name":"Bhalkhada",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     85.56939,
-    27.273000000000003,
+    27.273,
     85.56939,
-    27.273000000000003
+    27.273
 ],
   "geometry": {"coordinates":[85.56939,27.273],"type":"Point"}
 }

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.84981,28.68053,82.88981,28.72053",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1242810541,
-    "wof:lastmodified":1536728613,
+    "wof:lastmodified":1566670173,
     "wof:name":"Hardibang",
     "wof:parent_id":1092049495,
     "wof:placetype":"locality",

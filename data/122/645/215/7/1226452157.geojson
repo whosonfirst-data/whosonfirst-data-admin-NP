@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.92853,27.24202,87.96853,27.28202",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u091a\u094d\u092f\u093e\u0919\u0925\u093e\u092a\u0941"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1226452157,
-    "wof:lastmodified":1564118131,
+    "wof:lastmodified":1566671320,
     "wof:name":"Chyangthapu",
     "wof:parent_id":1092049165,
     "wof:placetype":"locality",

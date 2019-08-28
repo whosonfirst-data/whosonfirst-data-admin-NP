@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.45323,28.73199,81.49323,28.77199",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310625579,
-    "wof:lastmodified":1536743588,
+    "wof:lastmodified":1566669153,
     "wof:name":"Bulbule",
     "wof:parent_id":1092049963,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.04182,28.36017,83.08182,28.40017",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1242910931,
-    "wof:lastmodified":1537077366,
+    "wof:lastmodified":1566670577,
     "wof:name":"Jadepa",
     "wof:parent_id":1092049257,
     "wof:placetype":"locality",

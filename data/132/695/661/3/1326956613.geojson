@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.67,28.97,81.71,29.01",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kasikandh"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1326956613,
-    "wof:lastmodified":1564106478,
+    "wof:lastmodified":1566663745,
     "wof:name":"Kasikandh",
     "wof:parent_id":1092050583,
     "wof:placetype":"locality",

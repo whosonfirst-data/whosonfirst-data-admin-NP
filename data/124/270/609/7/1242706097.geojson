@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.24887,28.68242,81.28887,28.72242",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1242706097,
-    "wof:lastmodified":1536877961,
+    "wof:lastmodified":1566670480,
     "wof:name":"Thandapani",
     "wof:parent_id":1092048743,
     "wof:placetype":"locality",

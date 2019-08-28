@@ -10,8 +10,12 @@
     "geom:latitude":28.125,
     "geom:longitude":84.430145,
     "iso:country":"NP",
+    "lbl:bbox":"84.4101455,28.105,84.4501455,28.145",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u064a\u0633\u064a\u0633\u0627\u0647\u0627\u0631"
@@ -91,7 +95,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2269078,
-        "qs:id":1003018,
+        "qs_pg:id":1003018,
         "wd:id":"Q829880"
     },
     "wof:country":"NP",
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":421184685,
-    "wof:lastmodified":1563242724,
+    "wof:lastmodified":1566669992,
     "wof:name":"Besisahar",
     "wof:parent_id":1092050009,
     "wof:placetype":"locality",

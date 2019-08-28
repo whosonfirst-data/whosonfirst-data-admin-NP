@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.44471,28.20422,84.48471,28.24422",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1225986181,
-    "wof:lastmodified":1536810468,
+    "wof:lastmodified":1566671705,
     "wof:name":"Dardu",
     "wof:parent_id":1092050009,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.74233,28.25155,83.78233,28.29155",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tam_x_preferred":[
         "\u0baa\u0b99\u0bcd\u0b95\u0bbe\u0bb3\u0bbf"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1193060183,
-    "wof:lastmodified":1564113150,
+    "wof:lastmodified":1566668317,
     "wof:name":"Pangali",
     "wof:parent_id":1092049297,
     "wof:placetype":"locality",

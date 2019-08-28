@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.05196,26.56735,87.09196,26.60735",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nep_x_preferred":[
         "La\u1e45k\u0101\u1e6dol"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209633145,
-    "wof:lastmodified":1537676121,
+    "wof:lastmodified":1566667492,
     "wof:name":"Lankatol",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

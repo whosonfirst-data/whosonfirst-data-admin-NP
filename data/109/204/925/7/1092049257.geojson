@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":28.382501,
     "lbl:longitude":83.157083,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"DHAWALAGIRI",
     "meso:diss_me":"BaglungDHAWALAGIRI",
     "meso:gadm_admin":"Baglung",
@@ -34,6 +36,7 @@
     "mps:longitude":83.157083,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09ac\u09be\u0997\u09b2\u09c1\u0999 \u099c\u09c7\u09b2\u09be"
     ],
@@ -119,9 +122,9 @@
         "Baglung"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-22",
+    "src:population_date":"2011-06-22",
     "statoids:area_km":"1,784.0",
     "statoids:as_of_date":"2011-06-22",
     "statoids:capital":"Baglung",
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":1092049257,
-    "wof:lastmodified":1563242358,
+    "wof:lastmodified":1566669763,
     "wof:name":"Baglung",
     "wof:parent_id":-1,
     "wof:placetype":"county",

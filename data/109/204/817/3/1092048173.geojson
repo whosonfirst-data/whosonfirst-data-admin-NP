@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":26.883572,
     "lbl:longitude":87.849982,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"MECHI",
     "meso:diss_me":"IlamMECHI",
     "meso:gadm_admin":"Ilam",
@@ -34,6 +36,7 @@
     "mps:longitude":87.849982,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u0987\u09b2\u09be\u09ae \u099c\u09c7\u09b2\u09be"
     ],
@@ -125,9 +128,9 @@
         "Ilam"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-22",
+    "src:population_date":"2011-06-22",
     "statoids:area_km":"1,703.0",
     "statoids:as_of_date":"2011-06-22",
     "statoids:capital":"Ilam",
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":1092048173,
-    "wof:lastmodified":1563242351,
+    "wof:lastmodified":1566669761,
     "wof:name":"Ilam",
     "wof:parent_id":-1,
     "wof:placetype":"county",

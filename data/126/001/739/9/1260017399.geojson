@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.40141,27.34324,86.44141,27.38324",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:new_x_preferred":[
         "\u092a\u094d\u0930\u093e\u092a\u094d\u091a\u093e"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1260017399,
-    "wof:lastmodified":1564114004,
+    "wof:lastmodified":1566668821,
     "wof:name":"Prapcha",
     "wof:parent_id":1092050225,
     "wof:placetype":"locality",

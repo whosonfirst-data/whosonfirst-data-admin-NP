@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.04855,28.46829,81.08855,28.50829",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293422673,
-    "wof:lastmodified":1536879783,
+    "wof:lastmodified":1566666399,
     "wof:name":"Okharpur",
     "wof:parent_id":1092048743,
     "wof:placetype":"locality",

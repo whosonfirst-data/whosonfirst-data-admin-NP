@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.1503,28.35858,82.1903,28.39858",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sally\u0101n",
         "Sally\u0101na",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1326758641,
-    "wof:lastmodified":1537676041,
+    "wof:lastmodified":1566663554,
     "wof:name":"Salyan",
     "wof:parent_id":1092049579,
     "wof:placetype":"locality",

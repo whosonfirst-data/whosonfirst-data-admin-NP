@@ -10,8 +10,12 @@
     "geom:latitude":27.7291,
     "geom:longitude":85.46325,
     "iso:country":"NP",
+    "lbl:bbox":"85.44325,27.7091,85.48325,27.7491",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "S\u0101\u0303khu"
@@ -40,7 +44,7 @@
     "name:pol_x_preferred":[
         "Sankhu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u0101nkhu"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":1282813,
         "gp:id":2268856,
-        "qs:id":890030,
+        "qs_pg:id":890030,
         "wd:id":"Q7418716",
         "wk:page":"Sankhu"
     },
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":421174639,
-    "wof:lastmodified":1563242700,
+    "wof:lastmodified":1566669985,
     "wof:name":"S\u00e5nkhu",
     "wof:parent_id":1092048931,
     "wof:placetype":"locality",

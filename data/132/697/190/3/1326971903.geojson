@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.69317,26.42428,87.73317,26.46428",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1326971903,
-    "wof:lastmodified":1536846603,
+    "wof:lastmodified":1566664180,
     "wof:name":"Deviganj",
     "wof:parent_id":1092050367,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.24695,27.78417,83.28695,27.82417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7976874
     },
     "wof:country":"NP",
-    "wof:geomhash":"e131a8a5b7a4e6e4a4cc9f6e5d2ad898",
+    "wof:geomhash":"dbdbcc1d707a4c540c8cc632665a6559",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209557069,
-    "wof:lastmodified":1536283511,
+    "wof:lastmodified":1566667521,
     "wof:name":"Dhungri Khola Gaun",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     83.26695,
-    27.804170000000006,
+    27.80417000000001,
     83.26695,
-    27.804170000000006
+    27.80417000000001
 ],
   "geometry": {"coordinates":[83.26694999999999,27.80417000000001],"type":"Point"}
 }

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.3496,27.24085,85.3896,27.28085",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1193220203,
-    "wof:lastmodified":1536376317,
+    "wof:lastmodified":1566668374,
     "wof:name":"Sukhagaun",
     "wof:parent_id":1092049017,
     "wof:placetype":"locality",

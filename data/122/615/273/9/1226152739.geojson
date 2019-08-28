@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.22988,26.84183,87.26988,26.88183",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nep_x_preferred":[
         "Kany\u0101\u1e0d\u0101\u0303\u1e0d\u0101"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226152739,
-    "wof:lastmodified":1537676129,
+    "wof:lastmodified":1566671797,
     "wof:name":"Kanyadada",
     "wof:parent_id":1092049923,
     "wof:placetype":"locality",

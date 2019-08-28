@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.53195,29.57549,80.57195,29.61549",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209648065,
-    "wof:lastmodified":1536280670,
+    "wof:lastmodified":1566667514,
     "wof:name":"Malla Dhik",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

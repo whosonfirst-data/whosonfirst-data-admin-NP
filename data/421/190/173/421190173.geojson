@@ -10,13 +10,17 @@
     "geom:latitude":28.0,
     "geom:longitude":83.83333,
     "iso:country":"NP",
+    "lbl:bbox":"83.73333,27.9,83.93333,28.1",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:por_x_preferred":[
         "Syangja"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Syanga"
     ],
     "qs:gn_country":"NP",
@@ -53,7 +57,6 @@
     "wof:concordances":{
         "gn:id":1282734,
         "gp:id":23706773,
-        "qs:id":1118938,
         "qs_pg:id":1118938
     },
     "wof:country":"NP",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":421190173,
-    "wof:lastmodified":1564115957,
+    "wof:lastmodified":1566669990,
     "wof:name":"Syangja",
     "wof:parent_id":1092050939,
     "wof:placetype":"localadmin",

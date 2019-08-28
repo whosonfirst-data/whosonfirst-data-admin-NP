@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.00858,29.27133,82.04858,29.31133",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259908111,
-    "wof:lastmodified":1536743521,
+    "wof:lastmodified":1566670849,
     "wof:name":"Khukel",
     "wof:parent_id":1092050797,
     "wof:placetype":"locality",

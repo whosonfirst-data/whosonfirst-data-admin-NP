@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.50751,27.83937,83.54751,27.87937",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:pol_x_preferred":[
         "Dharampani"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1193061233,
-    "wof:lastmodified":1564113164,
+    "wof:lastmodified":1566668326,
     "wof:name":"Dharampani",
     "wof:parent_id":1092050889,
     "wof:placetype":"locality",

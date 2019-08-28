@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.38098,28.66198,81.42098,28.70198",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mai_x_preferred":[
         "\u091b\u093e\u092a\u094d\u0930\u0947"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1277101013,
-    "wof:lastmodified":1564111450,
+    "wof:lastmodified":1566667355,
     "wof:name":"Chhapre",
     "wof:parent_id":1092049963,
     "wof:placetype":"locality",

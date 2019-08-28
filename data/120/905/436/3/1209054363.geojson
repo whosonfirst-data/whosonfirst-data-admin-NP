@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.79507,28.39697,83.83507,28.43697",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7960570
     },
     "wof:country":"NP",
-    "wof:geomhash":"205f5ec2e519c34b2fee026a8aea3941",
+    "wof:geomhash":"3c124fbba6c09611ce4c4ede1d0d168f",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209054363,
-    "wof:lastmodified":1536299151,
+    "wof:lastmodified":1566667980,
     "wof:name":"Taulung",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     83.81506999999998,
-    28.416970000000006,
+    28.41697000000001,
     83.81506999999998,
-    28.416970000000006
+    28.41697000000001
 ],
   "geometry": {"coordinates":[83.81506999999998,28.41697000000001],"type":"Point"}
 }

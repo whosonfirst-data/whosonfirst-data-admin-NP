@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.84242,27.62707,85.88242,27.66707",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7994993
     },
     "wof:country":"NP",
-    "wof:geomhash":"a6575ae0064d532c69695b083ac9be29",
+    "wof:geomhash":"5d4ac5ed32c7a4ed6a76e4dc13eeed89",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209557423,
-    "wof:lastmodified":1536283504,
+    "wof:lastmodified":1566667545,
     "wof:name":"Nardim",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     85.86242,
-    27.647070000000006,
+    27.64707000000001,
     85.86242,
-    27.647070000000006
+    27.64707000000001
 ],
   "geometry": {"coordinates":[85.86242,27.64707000000001],"type":"Point"}
 }

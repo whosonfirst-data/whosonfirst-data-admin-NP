@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.64403,28.1241,84.68403,28.1641",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1225882057,
-    "wof:lastmodified":1536961110,
+    "wof:lastmodified":1566671590,
     "wof:name":"Sabdurgaun",
     "wof:parent_id":1092050351,
     "wof:placetype":"locality",

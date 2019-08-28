@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.5209,28.11613,82.5609,28.15613",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1243290133,
-    "wof:lastmodified":1537029718,
+    "wof:lastmodified":1566670668,
     "wof:name":"Golbang",
     "wof:parent_id":1092049455,
     "wof:placetype":"locality",

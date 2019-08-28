@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.98491,27.00774,87.02491,27.04774",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1242715969,
-    "wof:lastmodified":1536863062,
+    "wof:lastmodified":1566670521,
     "wof:name":"Chaitekharka",
     "wof:parent_id":1092049883,
     "wof:placetype":"locality",

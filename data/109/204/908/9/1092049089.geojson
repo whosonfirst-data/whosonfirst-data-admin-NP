@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":28.554835,
     "lbl:longitude":83.421371,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"DHAWALAGIRI",
     "meso:diss_me":"MyagdiDHAWALAGIRI",
     "meso:gadm_admin":"Myagdi",
@@ -34,6 +36,7 @@
     "mps:longitude":83.421371,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09ae\u09cd\u09af\u09be\u0997\u09a6\u09c0 \u099c\u09c7\u09b2\u09be"
     ],
@@ -122,9 +125,9 @@
         "Myagdi"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-22",
+    "src:population_date":"2011-06-22",
     "statoids:area_km":"2,297.0",
     "statoids:as_of_date":"2011-06-22",
     "statoids:capital":"Beni",
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":1092049089,
-    "wof:lastmodified":1563242348,
+    "wof:lastmodified":1566669760,
     "wof:name":"Myagdi",
     "wof:parent_id":-1,
     "wof:placetype":"county",

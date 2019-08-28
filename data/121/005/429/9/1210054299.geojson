@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.74854,27.21823,87.78854,27.25823",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:guj_x_preferred":[
         "\u0aaa\u0abe\u0a82\u0a9a\u0aae"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1210054299,
-    "wof:lastmodified":1564112987,
+    "wof:lastmodified":1566668218,
     "wof:name":"Panchami",
     "wof:parent_id":1092049165,
     "wof:placetype":"locality",

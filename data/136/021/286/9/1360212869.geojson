@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.58221,28.46678,82.62221,28.50678",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1360212869,
-    "wof:lastmodified":1536761704,
+    "wof:lastmodified":1566669691,
     "wof:name":"Ipakholagaun",
     "wof:parent_id":1092049455,
     "wof:placetype":"locality",

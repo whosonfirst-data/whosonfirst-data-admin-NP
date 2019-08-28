@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.74761,26.76514,85.78761,26.80514",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0938\u0939\u0938\u094c\u0932\u093e"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1259928469,
-    "wof:lastmodified":1564117702,
+    "wof:lastmodified":1566671056,
     "wof:name":"Sahasaula",
     "wof:parent_id":1092050709,
     "wof:placetype":"locality",

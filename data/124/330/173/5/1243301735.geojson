@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.07165,27.38342,85.11165,27.42342",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1243301735,
-    "wof:lastmodified":1537013402,
+    "wof:lastmodified":1566670067,
     "wof:name":"Chuchchekholagaun",
     "wof:parent_id":1092049017,
     "wof:placetype":"locality",

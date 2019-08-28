@@ -10,8 +10,12 @@
     "geom:latitude":27.75463,
     "geom:longitude":85.41351,
     "iso:country":"NP",
+    "lbl:bbox":"85.39351,27.73463,85.43351,27.77463",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bho_x_preferred":[
         "\u0938\u0941\u0928\u094d\u0926\u0930\u0940\u091c\u0932"
@@ -46,7 +50,7 @@
     "name:pol_x_preferred":[
         "Sundarijal"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sunderijal"
     ],
     "qs:gn_country":"NP",
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":1282747,
         "gp:id":2268899,
-        "qs:id":1354468,
+        "qs_pg:id":1354468,
         "wd:id":"Q3415863",
         "wk:page":"Sundarijal"
     },
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":421177855,
-    "wof:lastmodified":1563242731,
+    "wof:lastmodified":1566669994,
     "wof:name":"Sundarijal",
     "wof:parent_id":1092048931,
     "wof:placetype":"locality",

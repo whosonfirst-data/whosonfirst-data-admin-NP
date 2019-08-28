@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.14892,27.62925,85.18892,27.66925",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u064a\u062a\u0644\u0627\u0646"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1277092057,
-    "wof:lastmodified":1564110244,
+    "wof:lastmodified":1566666577,
     "wof:name":"Chitlan",
     "wof:parent_id":1092049017,
     "wof:placetype":"locality",

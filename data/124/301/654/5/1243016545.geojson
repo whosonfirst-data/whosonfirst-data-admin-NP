@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.76678,27.73075,85.80678,27.77075",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:pol_x_preferred":[
         "Bhadaure"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1243016545,
-    "wof:lastmodified":1564116146,
+    "wof:lastmodified":1566670108,
     "wof:name":"Bhadaure",
     "wof:parent_id":1092049755,
     "wof:placetype":"locality",

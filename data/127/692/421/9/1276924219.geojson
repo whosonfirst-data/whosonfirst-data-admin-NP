@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.60016,27.07526,87.64016,27.11526",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276924219,
-    "wof:lastmodified":1536981197,
+    "wof:lastmodified":1566666888,
     "wof:name":"Tamrakhu",
     "wof:parent_id":1092049165,
     "wof:placetype":"locality",

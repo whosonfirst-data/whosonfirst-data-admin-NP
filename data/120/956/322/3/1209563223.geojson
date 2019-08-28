@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.49628,28.25169,83.53628,28.29169",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7961065
     },
     "wof:country":"NP",
-    "wof:geomhash":"444152c9d6fecde6befeafc643868a95",
+    "wof:geomhash":"c81c2f75d0699dfd9f8602932210e876",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209563223,
-    "wof:lastmodified":1536283322,
+    "wof:lastmodified":1566667967,
     "wof:name":"Dhudya",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     83.51628000000002,
-    28.271690000000003,
+    28.27169,
     83.51628000000002,
-    28.271690000000003
+    28.27169
 ],
   "geometry": {"coordinates":[83.51628000000002,28.27169],"type":"Point"}
 }

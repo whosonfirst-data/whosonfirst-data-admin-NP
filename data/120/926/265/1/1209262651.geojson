@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.52704,26.98659,87.56704,27.02659",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7977524
     },
     "wof:country":"NP",
-    "wof:geomhash":"5639ebe1527fe1954794e096848dfe4d",
+    "wof:geomhash":"4dff9cb2c73ffb12f51bc8e0ce7140c7",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209262651,
-    "wof:lastmodified":1536292639,
+    "wof:lastmodified":1566668101,
     "wof:name":"Chuwade",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     87.54704,
-    27.006590000000006,
+    27.00659000000001,
     87.54704,
-    27.006590000000006
+    27.00659000000001
 ],
   "geometry": {"coordinates":[87.54704,27.00659000000001],"type":"Point"}
 }

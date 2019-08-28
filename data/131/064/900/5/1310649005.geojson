@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.25124,28.14496,85.29124,28.18496",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Gatlang"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1310649005,
-    "wof:lastmodified":1564114771,
+    "wof:lastmodified":1566669268,
     "wof:name":"Gatlang",
     "wof:parent_id":1092048409,
     "wof:placetype":"locality",

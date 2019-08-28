@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.79138,26.71536,85.83138,26.75536",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Harri"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1293338587,
-    "wof:lastmodified":1564109930,
+    "wof:lastmodified":1566666338,
     "wof:name":"Harri",
     "wof:parent_id":1092050709,
     "wof:placetype":"locality",

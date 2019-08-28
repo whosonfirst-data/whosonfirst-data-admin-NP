@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.64443,28.34232,82.68443,28.38232",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u0430\u043f\u0430"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1360112933,
-    "wof:lastmodified":1564115466,
+    "wof:lastmodified":1566669662,
     "wof:name":"Gapa",
     "wof:parent_id":1092049455,
     "wof:placetype":"locality",

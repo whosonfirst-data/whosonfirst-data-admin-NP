@@ -26,8 +26,12 @@
     "gn:population":200,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.75404,28.2941,83.79404,28.3341",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1193178929,
-    "wof:lastmodified":1536372320,
+    "wof:lastmodified":1566668588,
     "wof:name":"Birethanti",
     "wof:parent_id":1092049331,
     "wof:placetype":"locality",

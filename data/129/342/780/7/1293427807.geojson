@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.62267,27.79444,85.66267,27.83444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:amh_x_preferred":[
         "\u1260\u1245\u120e"
     ],
@@ -290,7 +294,7 @@
         }
     ],
     "wof:id":1293427807,
-    "wof:lastmodified":1564110045,
+    "wof:lastmodified":1566666423,
     "wof:name":"Mule",
     "wof:parent_id":1092049755,
     "wof:placetype":"locality",

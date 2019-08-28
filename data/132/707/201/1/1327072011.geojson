@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.47028,26.59983,87.51028,26.63983",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1327072011,
-    "wof:lastmodified":1536703586,
+    "wof:lastmodified":1566663494,
     "wof:name":"Karilaltol",
     "wof:parent_id":1092048303,
     "wof:placetype":"locality",

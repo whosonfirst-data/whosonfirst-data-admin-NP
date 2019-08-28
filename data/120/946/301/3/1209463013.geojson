@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.5908,27.51099,86.6308,27.55099",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7997171
     },
     "wof:country":"NP",
-    "wof:geomhash":"01b3585804a4fac39cca5c154db2534d",
+    "wof:geomhash":"2101c29b1ff147f9e2111375e3f06e1b",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209463013,
-    "wof:lastmodified":1536286321,
+    "wof:lastmodified":1566667570,
     "wof:name":"Taibuk",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     86.6108,
-    27.530990000000006,
+    27.53099000000001,
     86.6108,
-    27.530990000000006
+    27.53099000000001
 ],
   "geometry": {"coordinates":[86.6108,27.53099000000001],"type":"Point"}
 }

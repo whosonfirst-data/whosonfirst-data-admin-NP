@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.59809,28.16861,83.63809,28.20861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343498721,
-    "wof:lastmodified":1536691002,
+    "wof:lastmodified":1566664922,
     "wof:name":"Ramche Pokhari",
     "wof:parent_id":1092049257,
     "wof:placetype":"locality",

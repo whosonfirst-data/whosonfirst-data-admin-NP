@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.08742,28.36938,81.12742,28.40938",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1242999407,
-    "wof:lastmodified":1536953292,
+    "wof:lastmodified":1566670615,
     "wof:name":"Durga Nagar",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

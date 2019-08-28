@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.05528,28.12674,83.09528,28.16674",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Purkot Daha"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1225992335,
-    "wof:lastmodified":1564118702,
+    "wof:lastmodified":1566671662,
     "wof:name":"Purkot Daha",
     "wof:parent_id":1092050755,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.07098,27.3881,87.11098,27.4281",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343603215,
-    "wof:lastmodified":1537036069,
+    "wof:lastmodified":1566665208,
     "wof:name":"Tipchaur",
     "wof:parent_id":1092049883,
     "wof:placetype":"locality",

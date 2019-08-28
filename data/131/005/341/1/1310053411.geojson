@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.06731,28.27483,84.10731,28.31483",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Vice-mar\u00e9chal"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1310053411,
-    "wof:lastmodified":1564115165,
+    "wof:lastmodified":1566669493,
     "wof:name":"Chasu",
     "wof:parent_id":1092049331,
     "wof:placetype":"locality",

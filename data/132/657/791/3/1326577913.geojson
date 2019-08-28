@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.28169,27.7495,85.32169,27.7895",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0927\u0930\u094d\u092e\u0938\u094d\u0925\u0932\u0940"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1326577913,
-    "wof:lastmodified":1564106505,
+    "wof:lastmodified":1566663766,
     "wof:name":"Dharmasthali",
     "wof:parent_id":1092048931,
     "wof:placetype":"locality",

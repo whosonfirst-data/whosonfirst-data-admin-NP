@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.60164,29.56204,80.64164,29.60204",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7967404
     },
     "wof:country":"NP",
-    "wof:geomhash":"377afcea672883f30d90d29a6e09764e",
+    "wof:geomhash":"8760623ac690d6f276edea8732459ef9",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209543839,
-    "wof:lastmodified":1536283905,
+    "wof:lastmodified":1566667423,
     "wof:name":"Sangdi",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     80.62164,
-    29.582040000000006,
+    29.58204000000001,
     80.62164,
-    29.582040000000006
+    29.58204000000001
 ],
   "geometry": {"coordinates":[80.62164,29.58204000000001],"type":"Point"}
 }

@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":27.55899,
     "lbl:longitude":83.775027,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"LUMBINI",
     "meso:diss_me":"NawalparasiLUMBINI",
     "meso:gadm_admin":"Nawalparasi",
@@ -34,6 +36,7 @@
     "mps:longitude":83.775027,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0646\u0648\u0627\u0644\u0628\u0627\u0631\u0627\u0633\u064a"
     ],
@@ -131,9 +134,9 @@
         "Huy\u1ec7n Nawalparasi"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-22",
+    "src:population_date":"2011-06-22",
     "statoids:area_km":"2,162.0",
     "statoids:as_of_date":"2011-06-22",
     "statoids:capital":"Parasi",
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":1092050413,
-    "wof:lastmodified":1563242371,
+    "wof:lastmodified":1566669767,
     "wof:name":"Nawalparasi",
     "wof:parent_id":-1,
     "wof:placetype":"county",

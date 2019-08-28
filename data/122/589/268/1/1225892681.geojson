@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.25507,27.20128,86.29507,27.24128",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:abk_x_preferred":[
         "\u0524\u0430\u04ad"
     ],
@@ -215,7 +219,7 @@
         }
     ],
     "wof:id":1225892681,
-    "wof:lastmodified":1564118622,
+    "wof:lastmodified":1566671613,
     "wof:name":"Poti",
     "wof:parent_id":1092049679,
     "wof:placetype":"locality",

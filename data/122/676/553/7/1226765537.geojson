@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.27815,28.26866,84.31815,28.30866",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ghanpokhara"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1226765537,
-    "wof:lastmodified":1564118826,
+    "wof:lastmodified":1566671728,
     "wof:name":"Ghanpokhara",
     "wof:parent_id":1092050009,
     "wof:placetype":"locality",

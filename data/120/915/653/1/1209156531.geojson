@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.32241,27.54909,86.36241,27.58909",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7980998
     },
     "wof:country":"NP",
-    "wof:geomhash":"4ae2dd9b36c14f93fe40b2053537b885",
+    "wof:geomhash":"a8a6d09204cc834afc5318622eb1c61d",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209156531,
-    "wof:lastmodified":1536296039,
+    "wof:lastmodified":1566667622,
     "wof:name":"Lunbu",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     86.34241,
-    27.569090000000006,
+    27.56909000000001,
     86.34241,
-    27.569090000000006
+    27.56909000000001
 ],
   "geometry": {"coordinates":[86.34241,27.56909000000001],"type":"Point"}
 }

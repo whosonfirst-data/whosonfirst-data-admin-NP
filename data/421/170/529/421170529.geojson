@@ -10,8 +10,12 @@
     "geom:latitude":27.91667,
     "geom:longitude":85.25,
     "iso:country":"NP",
+    "lbl:bbox":"85.15,27.81667,85.35,28.01667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0646\u0648\u0627\u0643\u0648\u062a"
@@ -103,9 +107,6 @@
     "name:tam_x_preferred":[
         "\u0ba8\u0bc1\u0bb5\u0bbe\u0b95\u0bcb\u0b9f\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
-    "name:unk_x_variant":[
-        "Nuwakot District"
-    ],
     "name:urd_x_preferred":[
         "\u0646\u0648\u0648\u0627\u06a9\u0648\u0679 \u0636\u0644\u0639"
     ],
@@ -143,7 +144,7 @@
     "wof:concordances":{
         "gn:id":1282973,
         "gp:id":23706765,
-        "qs:id":1192932,
+        "qs_pg:id":1192932,
         "wd:id":"Q28430",
         "wk:page":"Nuwakot District"
     },
@@ -167,7 +168,7 @@
         }
     ],
     "wof:id":421170529,
-    "wof:lastmodified":1563242727,
+    "wof:lastmodified":1566669993,
     "wof:name":"Nuwakot",
     "wof:parent_id":1092049133,
     "wof:placetype":"localadmin",

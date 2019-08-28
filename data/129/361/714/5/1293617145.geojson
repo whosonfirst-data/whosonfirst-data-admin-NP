@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.58839,29.24189,80.62839,29.28189",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:pol_x_preferred":[
         "Dandakharka"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1293617145,
-    "wof:lastmodified":1564109618,
+    "wof:lastmodified":1566666095,
     "wof:name":"Dandakharka",
     "wof:parent_id":1092048697,
     "wof:placetype":"locality",

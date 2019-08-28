@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.48883,28.70846,81.52883,28.74846",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1260211853,
-    "wof:lastmodified":1536808854,
+    "wof:lastmodified":1566668909,
     "wof:name":"Amalakhali",
     "wof:parent_id":1092049963,
     "wof:placetype":"locality",

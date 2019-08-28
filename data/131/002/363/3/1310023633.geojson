@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.17289,27.39605,86.21289,27.43605",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bijulikot"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1310023633,
-    "wof:lastmodified":1564115184,
+    "wof:lastmodified":1566669504,
     "wof:name":"Bijulikot",
     "wof:parent_id":1092049711,
     "wof:placetype":"locality",

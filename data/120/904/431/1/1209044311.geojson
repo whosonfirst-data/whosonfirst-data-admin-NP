@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.68698,27.30525,86.72698,27.34525",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Jyamire"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209044311,
-    "wof:lastmodified":1564112454,
+    "wof:lastmodified":1566667914,
     "wof:name":"Jyamire",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

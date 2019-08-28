@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.80952,28.80174,83.84952,28.84174",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1343409245,
-    "wof:lastmodified":1536819333,
+    "wof:lastmodified":1566664959,
     "wof:name":"Khingar",
     "wof:parent_id":1092048365,
     "wof:placetype":"locality",

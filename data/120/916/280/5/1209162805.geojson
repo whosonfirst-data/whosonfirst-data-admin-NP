@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.58684,27.81992,85.62684,27.85992",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7994845
     },
     "wof:country":"NP",
-    "wof:geomhash":"2bdcbdba5b58d32458dcc3fa8ae9e8b8",
+    "wof:geomhash":"03b5e7be7a7a8f800be17095db2a6e66",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209162805,
-    "wof:lastmodified":1536295845,
+    "wof:lastmodified":1566668015,
     "wof:name":"Khadkathok",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     85.60684,
-    27.839920000000006,
+    27.83992000000001,
     85.60684,
-    27.839920000000006
+    27.83992000000001
 ],
   "geometry": {"coordinates":[85.60684000000001,27.83992000000001],"type":"Point"}
 }

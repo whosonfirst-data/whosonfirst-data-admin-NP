@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.12216,27.51006,83.16216,27.55006",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pakadi"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1327382041,
-    "wof:lastmodified":1564106048,
+    "wof:lastmodified":1566663442,
     "wof:name":"Pakadi",
     "wof:parent_id":1092048259,
     "wof:placetype":"locality",

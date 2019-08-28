@@ -10,6 +10,9 @@
     "geom:latitude":27.01043,
     "geom:longitude":84.87735,
     "iso:country":"NP",
+    "lbl:bbox":"84.85735,26.99043,84.89735,27.03043",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -164,9 +167,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u0440\u0433\u0430\u043d\u0434\u0436"
     ],
-    "name:unk_x_variant":[
-        "Birgunj"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0631\u06af\u0646\u062c"
     ],
@@ -305,7 +305,7 @@
     "wof:concordances":{
         "gn:id":1283581,
         "gp:id":2269112,
-        "qs:id":190778,
+        "qs_pg:id":190778,
         "wd:id":"Q8252",
         "wk:page":"Birgunj"
     },
@@ -329,7 +329,7 @@
         }
     ],
     "wof:id":421199237,
-    "wof:lastmodified":1563242721,
+    "wof:lastmodified":1566669991,
     "wof:name":"B\u012brganj",
     "wof:parent_id":1092050453,
     "wof:placetype":"locality",

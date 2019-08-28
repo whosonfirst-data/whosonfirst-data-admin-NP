@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.53098,28.05989,82.57098,28.09989",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293127283,
-    "wof:lastmodified":1536809154,
+    "wof:lastmodified":1566665910,
     "wof:name":"Ralabang",
     "wof:parent_id":1092048605,
     "wof:placetype":"locality",

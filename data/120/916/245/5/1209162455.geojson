@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.42428,28.05394,84.46428,28.09394",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":8004282
     },
     "wof:country":"NP",
-    "wof:geomhash":"f611516bb8507a72de5d1476daa77720",
+    "wof:geomhash":"c6718342e8053e30dcb817434f8cc679",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209162455,
-    "wof:lastmodified":1536295852,
+    "wof:lastmodified":1566668016,
     "wof:name":"Terter",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     84.44428,
-    28.073940000000004,
+    28.07394,
     84.44428,
-    28.073940000000004
+    28.07394
 ],
   "geometry": {"coordinates":[84.44428000000001,28.07394],"type":"Point"}
 }

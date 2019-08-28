@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.55263,29.13319,80.59263,29.17319",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310627355,
-    "wof:lastmodified":1536741103,
+    "wof:lastmodified":1566669160,
     "wof:name":"Sisnyari",
     "wof:parent_id":1092048697,
     "wof:placetype":"locality",

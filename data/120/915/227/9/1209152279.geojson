@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.0496,27.25949,87.0896,27.29949",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7932839
     },
     "wof:country":"NP",
-    "wof:geomhash":"b3b2e66820ea9f09cbafa5f92d8ed535",
+    "wof:geomhash":"a3a3d4482cec210cd83934e9394a11c7",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209152279,
-    "wof:lastmodified":1536296165,
+    "wof:lastmodified":1566667584,
     "wof:name":"Bhirthaple",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     87.0696,
-    27.279490000000006,
+    27.27949000000001,
     87.0696,
-    27.279490000000006
+    27.27949000000001
 ],
   "geometry": {"coordinates":[87.06959999999999,27.27949000000001],"type":"Point"}
 }

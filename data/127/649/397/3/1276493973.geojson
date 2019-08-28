@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.01906,27.49045,86.05906,27.53045",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276493973,
-    "wof:lastmodified":1537058291,
+    "wof:lastmodified":1566667025,
     "wof:name":"Nigase",
     "wof:parent_id":1092050535,
     "wof:placetype":"locality",

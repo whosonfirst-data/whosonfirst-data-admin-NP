@@ -10,10 +10,14 @@
     "geom:latitude":26.75,
     "geom:longitude":86.33333,
     "iso:country":"NP",
+    "lbl:bbox":"86.31333,26.73,86.35333,26.77",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":5.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Char Pargana"
     ],
     "qs:gn_country":"NP",
@@ -47,7 +51,7 @@
     "wof:concordances":{
         "gn:id":1282771,
         "gp:id":2269144,
-        "qs:id":463086
+        "qs_pg:id":463086
     },
     "wof:country":"NP",
     "wof:created":1459009273,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":421180855,
-    "wof:lastmodified":1505340649,
+    "wof:lastmodified":1566669986,
     "wof:name":"Sirha",
     "wof:parent_id":1092050497,
     "wof:placetype":"locality",

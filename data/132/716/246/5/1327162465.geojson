@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.63252,29.39619,80.67252,29.43619",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Siddhapur"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1327162465,
-    "wof:lastmodified":1564107348,
+    "wof:lastmodified":1566664390,
     "wof:name":"Siddhapur",
     "wof:parent_id":1092050255,
     "wof:placetype":"locality",

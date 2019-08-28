@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.66567,27.84027,85.70567,27.88027",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "S\u0101ni\u0307\u0304ga\u0169\u1e0d\u0101",
         "S\u0101n\u012bgaun\u1e0d\u0101"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1344066625,
-    "wof:lastmodified":1537676084,
+    "wof:lastmodified":1566664682,
     "wof:name":"Sanigauda",
     "wof:parent_id":1092049755,
     "wof:placetype":"locality",

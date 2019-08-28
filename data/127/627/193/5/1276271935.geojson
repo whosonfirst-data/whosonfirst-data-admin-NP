@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.15437,27.03312,87.19437,27.07312",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:pol_x_preferred":[
         "Barhabise"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1276271935,
-    "wof:lastmodified":1564110428,
+    "wof:lastmodified":1566666713,
     "wof:name":"Barhabise",
     "wof:parent_id":1092049883,
     "wof:placetype":"locality",

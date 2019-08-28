@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.54514,27.23088,86.58514,27.27088",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1360122243,
-    "wof:lastmodified":1536891632,
+    "wof:lastmodified":1566669540,
     "wof:name":"Basbote",
     "wof:parent_id":1092050225,
     "wof:placetype":"locality",

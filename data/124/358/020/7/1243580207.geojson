@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.92597,29.45963,80.96597,29.49963",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hat_x_preferred":[
         "Tik"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1243580207,
-    "wof:lastmodified":1564116694,
+    "wof:lastmodified":1566670438,
     "wof:name":"Tik",
     "wof:parent_id":1092048571,
     "wof:placetype":"locality",

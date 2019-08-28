@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.32511,27.69059,85.36511,27.73059",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hin_x_preferred":[
         "\u092a\u0936\u0941\u092a\u0924\u093f\u0928\u093e\u0925"
     ],
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1225958645,
-    "wof:lastmodified":1564117985,
+    "wof:lastmodified":1566671232,
     "wof:name":"Pashupatinath",
     "wof:parent_id":1092048931,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.64667,27.51333,83.68667,27.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Parsi"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1260117721,
-    "wof:lastmodified":1564114091,
+    "wof:lastmodified":1566668874,
     "wof:name":"Ramgram",
     "wof:parent_id":1092050413,
     "wof:placetype":"locality",

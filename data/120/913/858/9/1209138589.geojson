@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.42475,28.24147,81.46475,28.28147",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":8009435
     },
     "wof:country":"NP",
-    "wof:geomhash":"e1e7faf643a556c45c32e75644f58877",
+    "wof:geomhash":"1c06a52985fad25f9ba3f56f0eca9bd8",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209138589,
-    "wof:lastmodified":1536296578,
+    "wof:lastmodified":1566667754,
     "wof:name":"Lakshmanna",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     81.44475,
-    28.261470000000006,
+    28.26147000000001,
     81.44475,
-    28.261470000000006
+    28.26147000000001
 ],
   "geometry": {"coordinates":[81.44475,28.26147000000001],"type":"Point"}
 }

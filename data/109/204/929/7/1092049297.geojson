@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":28.285919,
     "lbl:longitude":83.698402,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"DHAWALAGIRI",
     "meso:diss_me":"ParbatDHAWALAGIRI",
     "meso:gadm_admin":"Parbat",
@@ -34,6 +36,7 @@
     "mps:longitude":83.698402,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09aa\u09b0\u09cd\u09ac\u09a4 \u099c\u09c7\u09b2\u09be"
     ],
@@ -128,9 +131,9 @@
         "Huy\u1ec7n Parbat"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-22",
+    "src:population_date":"2011-06-22",
     "statoids:area_km":"494.0",
     "statoids:as_of_date":"2011-06-22",
     "statoids:capital":"Kusma",
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":1092049297,
-    "wof:lastmodified":1563242368,
+    "wof:lastmodified":1566669766,
     "wof:name":"Parbat",
     "wof:parent_id":-1,
     "wof:placetype":"county",

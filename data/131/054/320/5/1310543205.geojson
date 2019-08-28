@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.0023,27.4491,86.0423,27.4891",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310543205,
-    "wof:lastmodified":1536861161,
+    "wof:lastmodified":1566669190,
     "wof:name":"Bahunchura",
     "wof:parent_id":1092049711,
     "wof:placetype":"locality",

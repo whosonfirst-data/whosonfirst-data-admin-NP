@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.52584,27.15741,87.56584,27.19741",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259725431,
-    "wof:lastmodified":1537005944,
+    "wof:lastmodified":1566671211,
     "wof:name":"Loguwa",
     "wof:parent_id":1092050137,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.09763,28.07029,84.13763,28.11029",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":8004936
     },
     "wof:country":"NP",
-    "wof:geomhash":"f8b06177918d93f2b9ba47fd846aa2a9",
+    "wof:geomhash":"6a48f5bd7686a83da1bc8ead4ea496f1",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209352145,
-    "wof:lastmodified":1536289707,
+    "wof:lastmodified":1566667868,
     "wof:name":"Awaregaun",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     84.11763,
-    28.090290000000003,
+    28.09029,
     84.11763,
-    28.090290000000003
+    28.09029
 ],
   "geometry": {"coordinates":[84.11763000000001,28.09029],"type":"Point"}
 }

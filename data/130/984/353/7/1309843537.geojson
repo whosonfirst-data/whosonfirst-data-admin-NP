@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.07968,28.14574,84.11968,28.18574",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lakuri"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1309843537,
-    "wof:lastmodified":1564115675,
+    "wof:lastmodified":1566669804,
     "wof:name":"Lakuri",
     "wof:parent_id":1092049331,
     "wof:placetype":"locality",

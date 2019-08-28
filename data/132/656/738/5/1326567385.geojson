@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.28997,27.94246,83.32997,27.98246",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1326567385,
-    "wof:lastmodified":1536933983,
+    "wof:lastmodified":1566663622,
     "wof:name":"Galpha kot",
     "wof:parent_id":1092050755,
     "wof:placetype":"locality",

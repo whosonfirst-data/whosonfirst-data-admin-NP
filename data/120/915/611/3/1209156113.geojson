@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.30195,27.37486,83.34195,27.41486",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209156113,
-    "wof:lastmodified":1536296048,
+    "wof:lastmodified":1566667595,
     "wof:name":"Asuraina",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

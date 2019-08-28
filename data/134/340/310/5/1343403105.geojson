@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.55036,27.08416,86.59036,27.12416",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343403105,
-    "wof:lastmodified":1536828055,
+    "wof:lastmodified":1566664984,
     "wof:name":"Dhappani",
     "wof:parent_id":1092050179,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.57769,29.49106,80.61769,29.53106",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Thala"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1276262147,
-    "wof:lastmodified":1564110353,
+    "wof:lastmodified":1566666661,
     "wof:name":"Thala",
     "wof:parent_id":1092050255,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.42184,26.78589,86.46184,26.82589",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nep_x_preferred":[
         "Nim\u1e0d\u0101\u0303\u1e0d\u0101"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1360094731,
-    "wof:lastmodified":1537676136,
+    "wof:lastmodified":1566669602,
     "wof:name":"Nimdada",
     "wof:parent_id":1092050497,
     "wof:placetype":"locality",

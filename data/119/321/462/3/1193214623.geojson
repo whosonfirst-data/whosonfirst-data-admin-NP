@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.37126,28.14131,84.41126,28.18131",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1193214623,
-    "wof:lastmodified":1536381806,
+    "wof:lastmodified":1566668675,
     "wof:name":"Bajarkot",
     "wof:parent_id":1092050009,
     "wof:placetype":"locality",

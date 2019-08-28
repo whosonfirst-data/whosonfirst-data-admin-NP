@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.68865,27.58044,83.72865,27.62044",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310346991,
-    "wof:lastmodified":1536647759,
+    "wof:lastmodified":1566669463,
     "wof:name":"Sakhauli",
     "wof:parent_id":1092050413,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.13089,29.17807,81.17089,29.21807",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u6258\u74e6\u5c71"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1310625511,
-    "wof:lastmodified":1564114568,
+    "wof:lastmodified":1566669149,
     "wof:name":"Thuwa",
     "wof:parent_id":1092048527,
     "wof:placetype":"locality",

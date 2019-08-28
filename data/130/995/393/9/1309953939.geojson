@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.0909,26.68061,87.1309,26.72061",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1309953939,
-    "wof:lastmodified":1536718085,
+    "wof:lastmodified":1566669858,
     "wof:name":"Hidluwa",
     "wof:parent_id":1092049923,
     "wof:placetype":"locality",

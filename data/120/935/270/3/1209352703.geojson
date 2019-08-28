@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.46643,27.53839,84.50643,27.57839",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7934905
     },
     "wof:country":"NP",
-    "wof:geomhash":"83212c7c172da27cc906ad1f8ce14fe5",
+    "wof:geomhash":"e1e641e546d687510a5a44094eb6165d",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209352703,
-    "wof:lastmodified":1536289694,
+    "wof:lastmodified":1566667862,
     "wof:name":"Bankatta",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     84.48643,
-    27.558390000000006,
+    27.55839000000001,
     84.48643,
-    27.558390000000006
+    27.55839000000001
 ],
   "geometry": {"coordinates":[84.48643,27.55839000000001],"type":"Point"}
 }

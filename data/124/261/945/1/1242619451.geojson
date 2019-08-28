@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.99332,26.92119,86.03332,26.96119",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1242619451,
-    "wof:lastmodified":1537002706,
+    "wof:lastmodified":1566670251,
     "wof:name":"Shikari Madhubasa Muldanda",
     "wof:parent_id":1092048127,
     "wof:placetype":"locality",

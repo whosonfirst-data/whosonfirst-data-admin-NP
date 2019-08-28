@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.38709,26.58301,87.42709,26.62301",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276386415,
-    "wof:lastmodified":1536707778,
+    "wof:lastmodified":1566667302,
     "wof:name":"Bhundedhap",
     "wof:parent_id":1092048303,
     "wof:placetype":"locality",

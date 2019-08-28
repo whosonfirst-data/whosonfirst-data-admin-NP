@@ -10,8 +10,12 @@
     "geom:latitude":27.66734,
     "geom:longitude":85.41673,
     "iso:country":"NP",
+    "lbl:bbox":"85.31673,27.56734,85.51673,27.76734",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0647\u0627\u0643\u062a\u0627\u0628\u0648\u0631"
@@ -136,7 +140,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043a\u0442\u0430\u043f\u0443\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bakthpur"
     ],
     "name:urd_x_preferred":[
@@ -180,7 +184,7 @@
     "wof:concordances":{
         "gn:id":1283618,
         "gp:id":23706766,
-        "qs:id":956530,
+        "qs_pg:id":956530,
         "wd:id":"Q843138",
         "wk:page":"Bhaktapur"
     },
@@ -204,7 +208,7 @@
         }
     ],
     "wof:id":421194121,
-    "wof:lastmodified":1563242692,
+    "wof:lastmodified":1566669982,
     "wof:name":"Bhaktapur",
     "wof:parent_id":1092048853,
     "wof:placetype":"localadmin",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.74581,27.31949,87.78581,27.35949",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1192960063,
-    "wof:lastmodified":1536366554,
+    "wof:lastmodified":1566668457,
     "wof:name":"Simbewa",
     "wof:parent_id":1092049813,
     "wof:placetype":"locality",

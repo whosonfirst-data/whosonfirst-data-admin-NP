@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.39173,27.7526,83.43173,27.7926",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1277118145,
-    "wof:lastmodified":1536716890,
+    "wof:lastmodified":1566667391,
     "wof:name":"Khubsahi",
     "wof:parent_id":1092050889,
     "wof:placetype":"locality",

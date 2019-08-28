@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.5737,28.3611,83.6137,28.4011",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mai_x_preferred":[
         "\u092c\u093e\u0938\u0916\u0930\u094d\u0915"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1226480005,
-    "wof:lastmodified":1564119067,
+    "wof:lastmodified":1566671871,
     "wof:name":"Baskharka",
     "wof:parent_id":1092049297,
     "wof:placetype":"locality",

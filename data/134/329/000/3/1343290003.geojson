@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.61165,28.70449,81.65165,28.74449",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343290003,
-    "wof:lastmodified":1536991558,
+    "wof:lastmodified":1566665369,
     "wof:name":"Mimirke",
     "wof:parent_id":1092050583,
     "wof:placetype":"locality",

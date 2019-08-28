@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.54414,27.86795,83.58414,27.90795",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1344098373,
-    "wof:lastmodified":1536819996,
+    "wof:lastmodified":1566664754,
     "wof:name":"Hatigaunda",
     "wof:parent_id":1092050889,
     "wof:placetype":"locality",

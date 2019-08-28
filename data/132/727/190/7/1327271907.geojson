@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.37442,27.10991,85.41442,27.14991",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1327271907,
-    "wof:lastmodified":1536912939,
+    "wof:lastmodified":1566664433,
     "wof:name":"Jamaltoki",
     "wof:parent_id":1092049419,
     "wof:placetype":"locality",

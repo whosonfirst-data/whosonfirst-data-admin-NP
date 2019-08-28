@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.21011,27.68782,85.25011,27.72782",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gairi\u0307\u0304g\u0101ti\u0307\u0304",
         "Gair\u012bg\u0101t\u012b"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209228943,
-    "wof:lastmodified":1537676076,
+    "wof:lastmodified":1566667710,
     "wof:name":"Gairigati",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.40042,27.98462,82.44042,28.02462",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310625475,
-    "wof:lastmodified":1536743726,
+    "wof:lastmodified":1566669161,
     "wof:name":"Ghusara",
     "wof:parent_id":1092048605,
     "wof:placetype":"locality",

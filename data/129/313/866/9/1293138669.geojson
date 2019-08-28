@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.80957,27.42561,85.84957,27.46561",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293138669,
-    "wof:lastmodified":1536793231,
+    "wof:lastmodified":1566665994,
     "wof:name":"Gajulidaha",
     "wof:parent_id":1092049711,
     "wof:placetype":"locality",

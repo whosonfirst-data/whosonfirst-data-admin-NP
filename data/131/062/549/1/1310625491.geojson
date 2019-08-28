@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.11895,28.63125,82.15895,28.67125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Karkigaun"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1310625491,
-    "wof:lastmodified":1564114587,
+    "wof:lastmodified":1566669161,
     "wof:name":"Karkigaun",
     "wof:parent_id":1092048763,
     "wof:placetype":"locality",

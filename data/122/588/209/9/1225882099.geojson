@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.00003,27.53676,83.04003,27.57676",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1225882099,
-    "wof:lastmodified":1536961055,
+    "wof:lastmodified":1566671602,
     "wof:name":"Patakahawa",
     "wof:parent_id":1092048259,
     "wof:placetype":"locality",

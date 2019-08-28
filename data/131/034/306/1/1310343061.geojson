@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.47595,27.34025,86.51595,27.38025",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bigutar"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1310343061,
-    "wof:lastmodified":1564115076,
+    "wof:lastmodified":1566669446,
     "wof:name":"Bigutar",
     "wof:parent_id":1092050225,
     "wof:placetype":"locality",

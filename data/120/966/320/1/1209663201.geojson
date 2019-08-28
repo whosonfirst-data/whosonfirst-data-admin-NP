@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.25681,27.65889,83.29681,27.69889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7987652
     },
     "wof:country":"NP",
-    "wof:geomhash":"4919b011751fd814227e93d096035415",
+    "wof:geomhash":"c01c4e3595e32c72f5830c51bf0fdd31",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209663201,
-    "wof:lastmodified":1536280183,
+    "wof:lastmodified":1566667841,
     "wof:name":"Manachana",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     83.27681,
-    27.678890000000006,
+    27.67889000000001,
     83.27681,
-    27.678890000000006
+    27.67889000000001
 ],
   "geometry": {"coordinates":[83.27681,27.67889000000001],"type":"Point"}
 }

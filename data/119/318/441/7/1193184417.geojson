@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.96684,27.58739,85.00684,27.62739",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1193184417,
-    "wof:lastmodified":1536366931,
+    "wof:lastmodified":1566668518,
     "wof:name":"Chepangkhoriya",
     "wof:parent_id":1092049017,
     "wof:placetype":"locality",

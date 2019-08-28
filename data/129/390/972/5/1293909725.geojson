@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.75427,29.36869,82.79427,29.40869",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293909725,
-    "wof:lastmodified":1536675625,
+    "wof:lastmodified":1566665749,
     "wof:name":"Chokarpo",
     "wof:parent_id":1092050349,
     "wof:placetype":"locality",

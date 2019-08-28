@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.21233,27.03728,86.25233,27.07728",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0930\u093e\u0928\u0940\u091f\u093e\u0930"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1193174987,
-    "wof:lastmodified":1564113617,
+    "wof:lastmodified":1566668592,
     "wof:name":"Ranitar",
     "wof:parent_id":1092049679,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.96802,27.05529,87.00802,27.09529",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":8010350
     },
     "wof:country":"NP",
-    "wof:geomhash":"3f5997d06e24e0cd9aecfcbce065e930",
+    "wof:geomhash":"75efa95dc27830d8ceda514f40a12665",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209252507,
-    "wof:lastmodified":1536292961,
+    "wof:lastmodified":1566667721,
     "wof:name":"Kanyadaha",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     86.98801999999998,
-    27.075290000000006,
+    27.07529000000001,
     86.98801999999998,
-    27.075290000000006
+    27.07529000000001
 ],
   "geometry": {"coordinates":[86.98801999999998,27.07529000000001],"type":"Point"}
 }

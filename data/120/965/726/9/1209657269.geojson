@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.76138,27.59057,85.80138,27.63057",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7962775
     },
     "wof:country":"NP",
-    "wof:geomhash":"1a11bffb3c0dc7b55b2d6e89195f4fa1",
+    "wof:geomhash":"d4ccce6ea12b7bc64226eadb04ae43f6",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209657269,
-    "wof:lastmodified":1536280386,
+    "wof:lastmodified":1566667469,
     "wof:name":"Dudugaun",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     85.78138,
-    27.610570000000006,
+    27.61057000000001,
     85.78138,
-    27.610570000000006
+    27.61057000000001
 ],
   "geometry": {"coordinates":[85.78138,27.61057000000001],"type":"Point"}
 }

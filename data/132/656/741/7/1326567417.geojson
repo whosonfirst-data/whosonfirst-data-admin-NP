@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.01846,28.23056,84.05846,28.27056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bijayapur"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1326567417,
-    "wof:lastmodified":1564106325,
+    "wof:lastmodified":1566663634,
     "wof:name":"Bijayapur",
     "wof:parent_id":1092049331,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.32988,28.52627,82.36988,28.56627",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310033959,
-    "wof:lastmodified":1537096538,
+    "wof:lastmodified":1566669372,
     "wof:name":"Kabhre Neta",
     "wof:parent_id":1092049579,
     "wof:placetype":"locality",

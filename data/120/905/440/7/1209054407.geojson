@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.15016,28.29109,83.19016,28.33109",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7954529
     },
     "wof:country":"NP",
-    "wof:geomhash":"b4b1490032825fe09b7a8a17a65b3033",
+    "wof:geomhash":"94ce0fc4b805141d13fe61731feec662",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209054407,
-    "wof:lastmodified":1536299150,
+    "wof:lastmodified":1566667974,
     "wof:name":"Simalchaur",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     83.17016,
-    28.311090000000004,
+    28.31109,
     83.17016,
-    28.311090000000004
+    28.31109
 ],
   "geometry": {"coordinates":[83.17016,28.31109],"type":"Point"}
 }

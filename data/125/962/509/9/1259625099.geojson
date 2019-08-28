@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.57439,27.33973,87.61439,27.37973",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259625099,
-    "wof:lastmodified":1536654753,
+    "wof:lastmodified":1566670818,
     "wof:name":"Gairi",
     "wof:parent_id":1092049813,
     "wof:placetype":"locality",

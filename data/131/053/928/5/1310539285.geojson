@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.74126,27.49982,85.78126,27.53982",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310539285,
-    "wof:lastmodified":1536866884,
+    "wof:lastmodified":1566669222,
     "wof:name":"Singadi",
     "wof:parent_id":1092048887,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.30613,27.72626,85.34613,27.76626",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1327371767,
-    "wof:lastmodified":1536768777,
+    "wof:lastmodified":1566663404,
     "wof:name":"Maijuhiti",
     "wof:parent_id":1092048931,
     "wof:placetype":"locality",

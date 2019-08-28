@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.81851,27.04684,86.85851,27.08684",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7964601
     },
     "wof:country":"NP",
-    "wof:geomhash":"35c9a07c7d4e48539c43f8213aa94fa9",
+    "wof:geomhash":"24904676b230b36c338f9030db055426",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209452761,
-    "wof:lastmodified":1536286625,
+    "wof:lastmodified":1566668079,
     "wof:name":"Naraha",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     86.83851,
-    27.066840000000006,
+    27.06684000000001,
     86.83851,
-    27.066840000000006
+    27.06684000000001
 ],
   "geometry": {"coordinates":[86.83851,27.06684000000001],"type":"Point"}
 }

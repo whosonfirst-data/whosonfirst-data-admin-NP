@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.95118,28.38429,81.99118,28.42429",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7998912
     },
     "wof:country":"NP",
-    "wof:geomhash":"398970598abe8f91af9dce96c078d669",
+    "wof:geomhash":"46229883309b4b4869afed5597379a76",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209543913,
-    "wof:lastmodified":1536283903,
+    "wof:lastmodified":1566667416,
     "wof:name":"Dhulchigaira",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     81.97118,
-    28.404290000000003,
+    28.40429,
     81.97118,
-    28.404290000000003
+    28.40429
 ],
   "geometry": {"coordinates":[81.97118,28.40429],"type":"Point"}
 }

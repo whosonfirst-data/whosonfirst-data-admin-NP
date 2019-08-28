@@ -10,6 +10,9 @@
     "geom:latitude":29.29842,
     "geom:longitude":80.58059,
     "iso:country":"NP",
+    "lbl:bbox":"80.56059,29.27842,80.60059,29.31842",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -35,7 +38,7 @@
     "name:spa_x_preferred":[
         "Dadeldhura"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dandelhura"
     ],
     "name:urd_x_preferred":[
@@ -165,7 +168,7 @@
     "wof:concordances":{
         "gn:id":1283499,
         "gp:id":2268461,
-        "qs:id":273936,
+        "qs_pg:id":273936,
         "wd:id":"Q1750388",
         "wk:page":"Dadeldhura"
     },
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":421168837,
-    "wof:lastmodified":1563242687,
+    "wof:lastmodified":1566669982,
     "wof:name":"Dadeldhur\u00e5",
     "wof:parent_id":1092048697,
     "wof:placetype":"locality",

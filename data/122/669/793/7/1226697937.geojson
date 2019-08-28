@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.80688,28.29448,83.84688,28.33448",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:gom_x_preferred":[
         "\u092a\u094b\u0924\u0928\u093e"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1226697937,
-    "wof:lastmodified":1564118291,
+    "wof:lastmodified":1566671415,
     "wof:name":"Pothana",
     "wof:parent_id":1092049331,
     "wof:placetype":"locality",

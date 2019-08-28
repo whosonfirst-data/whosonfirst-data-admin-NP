@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.45804,27.92338,85.49804,27.96338",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nep_x_preferred":[
         "Si\u1e45l\u0101ng"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1327445801,
-    "wof:lastmodified":1537676080,
+    "wof:lastmodified":1566664266,
     "wof:name":"Sinlan",
     "wof:parent_id":1092049133,
     "wof:placetype":"locality",

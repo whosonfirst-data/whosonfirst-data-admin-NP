@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.02691,27.53567,85.06691,27.57567",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7968906
     },
     "wof:country":"NP",
-    "wof:geomhash":"fc1050d952de5a3df914264cef4bd431",
+    "wof:geomhash":"63ad4732fe7e17abe766dcdb2e03ce8a",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209362965,
-    "wof:lastmodified":1536289365,
+    "wof:lastmodified":1566667413,
     "wof:name":"Bhainsechaur",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     85.04691,
-    27.555670000000006,
+    27.55567000000001,
     85.04691,
-    27.555670000000006
+    27.55567000000001
 ],
   "geometry": {"coordinates":[85.04691,27.55567000000001],"type":"Point"}
 }

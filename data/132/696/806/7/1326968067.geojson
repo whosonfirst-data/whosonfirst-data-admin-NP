@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.17854,27.56685,86.21854,27.60685",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ava_x_preferred":[
         "\u041aI\u0443\u0434\u0430\u0440\u0430\u043b"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1326968067,
-    "wof:lastmodified":1564107132,
+    "wof:lastmodified":1566664227,
     "wof:name":"Kudar",
     "wof:parent_id":1092050535,
     "wof:placetype":"locality",

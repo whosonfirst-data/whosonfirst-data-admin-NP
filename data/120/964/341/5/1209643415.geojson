@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.64699,28.26699,82.68699,28.30699",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7983986
     },
     "wof:country":"NP",
-    "wof:geomhash":"87322649160c13ba43451bb8ace2a6cc",
+    "wof:geomhash":"4192ead916215b43781f104a2b014221",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209643415,
-    "wof:lastmodified":1536280812,
+    "wof:lastmodified":1566667503,
     "wof:name":"Pahana",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     82.66699,
-    28.286990000000007,
+    28.28699000000001,
     82.66699,
-    28.286990000000007
+    28.28699000000001
 ],
   "geometry": {"coordinates":[82.66699,28.28699000000001],"type":"Point"}
 }

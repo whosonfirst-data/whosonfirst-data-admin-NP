@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.98213,27.37838,87.02213,27.41838",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Pala"
     ],
@@ -137,7 +141,7 @@
         }
     ],
     "wof:id":1310242717,
-    "wof:lastmodified":1564114340,
+    "wof:lastmodified":1566669012,
     "wof:name":"Pala",
     "wof:parent_id":1092049883,
     "wof:placetype":"locality",

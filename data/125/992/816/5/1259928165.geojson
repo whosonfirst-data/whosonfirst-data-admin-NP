@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.63513,27.39511,86.67513,27.43511",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kangel"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1259928165,
-    "wof:lastmodified":1564117680,
+    "wof:lastmodified":1566671041,
     "wof:name":"Kangel",
     "wof:parent_id":1092049841,
     "wof:placetype":"locality",

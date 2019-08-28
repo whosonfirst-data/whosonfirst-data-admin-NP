@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.92351,28.86897,80.96351,28.90897",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276148859,
-    "wof:lastmodified":1537024929,
+    "wof:lastmodified":1566666993,
     "wof:name":"Lidemela",
     "wof:parent_id":1092048743,
     "wof:placetype":"locality",

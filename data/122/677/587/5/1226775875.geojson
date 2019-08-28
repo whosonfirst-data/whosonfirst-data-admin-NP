@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.34439,28.0868,82.38439,28.1268",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mai_x_preferred":[
         "\u092e\u0928\u093f\u0915\u093e\u092a\u0941\u0930"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1226775875,
-    "wof:lastmodified":1564119037,
+    "wof:lastmodified":1566671854,
     "wof:name":"Manikapur",
     "wof:parent_id":1092048605,
     "wof:placetype":"locality",

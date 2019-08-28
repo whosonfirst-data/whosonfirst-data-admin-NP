@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.13233,28.92689,81.17233,28.96689",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276368049,
-    "wof:lastmodified":1536732355,
+    "wof:lastmodified":1566667317,
     "wof:name":"Pallo Nauli",
     "wof:parent_id":1092048527,
     "wof:placetype":"locality",

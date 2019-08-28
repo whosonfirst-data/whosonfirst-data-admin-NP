@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.65198,27.92413,83.69198,27.96413",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,8 +63,8 @@
         }
     ],
     "wof:id":1276809319,
-    "wof:lastmodified":1536636857,
-    "wof:name":"Galyang  Bajar",
+    "wof:lastmodified":1566666674,
+    "wof:name":"Galyang Bajar",
     "wof:parent_id":1092050939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.9811,28.12344,83.0211,28.16344",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bandikot"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1259912733,
-    "wof:lastmodified":1564117261,
+    "wof:lastmodified":1566670779,
     "wof:name":"Bandikot",
     "wof:parent_id":1092049377,
     "wof:placetype":"locality",

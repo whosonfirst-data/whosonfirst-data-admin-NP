@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.16321,28.89068,81.20321,28.93068",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Daha"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1310625547,
-    "wof:lastmodified":1564114587,
+    "wof:lastmodified":1566669161,
     "wof:name":"Daha",
     "wof:parent_id":1092049963,
     "wof:placetype":"locality",

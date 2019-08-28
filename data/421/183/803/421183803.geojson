@@ -10,8 +10,12 @@
     "geom:latitude":27.63428,
     "geom:longitude":85.67868,
     "iso:country":"NP",
+    "lbl:bbox":"85.65868,27.61428,85.69868,27.65428",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bho_x_preferred":[
         "\u0926\u094b\u0932\u093e\u0932\u0918\u093e\u091f"
@@ -49,9 +53,6 @@
     "name:pol_x_preferred":[
         "Dolalghat"
     ],
-    "name:unk_x_variant":[
-        "Dol\u0101lgh\u0101t"
-    ],
     "qs:gn_country":"NP",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":1283429,
@@ -83,7 +84,7 @@
     "wof:concordances":{
         "gn:id":1283429,
         "gp:id":2269032,
-        "qs:id":984038,
+        "qs_pg:id":984038,
         "wd:id":"Q5288839",
         "wk:page":"Dolalghat"
     },
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":421183803,
-    "wof:lastmodified":1563242733,
+    "wof:lastmodified":1566669994,
     "wof:name":"Dol\u00e5lgh\u00e5t",
     "wof:parent_id":1092048887,
     "wof:placetype":"locality",

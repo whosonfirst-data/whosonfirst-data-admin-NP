@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.52665,29.06132,80.56665,29.10132",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Seri"
     ],
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":1327056279,
-    "wof:lastmodified":1564106711,
+    "wof:lastmodified":1566663913,
     "wof:name":"Seri",
     "wof:parent_id":1092048653,
     "wof:placetype":"locality",

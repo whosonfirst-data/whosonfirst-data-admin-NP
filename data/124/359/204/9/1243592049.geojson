@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.06503,27.79634,86.10503,27.83634",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1243592049,
-    "wof:lastmodified":1537089326,
+    "wof:lastmodified":1566670381,
     "wof:name":"Bhotechyangu",
     "wof:parent_id":1092050535,
     "wof:placetype":"locality",

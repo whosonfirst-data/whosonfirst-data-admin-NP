@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.3466,27.51383,86.3866,27.55383",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Goli"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1226384337,
-    "wof:lastmodified":1564119315,
+    "wof:lastmodified":1566672008,
     "wof:name":"Goli",
     "wof:parent_id":1092049841,
     "wof:placetype":"locality",

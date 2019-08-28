@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.76635,29.00269,80.80635,29.04269",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Chaka"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1326863031,
-    "wof:lastmodified":1564106151,
+    "wof:lastmodified":1566663517,
     "wof:name":"Chaka",
     "wof:parent_id":1092048653,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.42196,29.56672,80.46196,29.60672",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nep_x_preferred":[
         "\u092e\u0948\u0928\u093e\u0932\u0940"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1226175389,
-    "wof:lastmodified":1564118071,
+    "wof:lastmodified":1566671283,
     "wof:name":"Mainali",
     "wof:parent_id":1092050255,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.73926,28.34254,82.77926,28.38254",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7983179
     },
     "wof:country":"NP",
-    "wof:geomhash":"7f854a8d1acf20f5c22b00b8f9c1bc1f",
+    "wof:geomhash":"48cadd3722460bb73cb25a837b5ab3b5",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209541751,
-    "wof:lastmodified":1536283967,
+    "wof:lastmodified":1566667426,
     "wof:name":"Ghoshang",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     82.75926,
-    28.362540000000006,
+    28.36254000000001,
     82.75926,
-    28.362540000000006
+    28.36254000000001
 ],
   "geometry": {"coordinates":[82.75926,28.36254000000001],"type":"Point"}
 }

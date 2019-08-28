@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.49531,26.86782,85.53531,26.90782",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u0996\u09be\u09b0\u09bf\u09af\u09bc\u09be"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1209563625,
-    "wof:lastmodified":1564112540,
+    "wof:lastmodified":1566667962,
     "wof:name":"Khariya",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

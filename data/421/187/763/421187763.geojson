@@ -10,8 +10,12 @@
     "geom:latitude":28.61465,
     "geom:longitude":84.14721,
     "iso:country":"NP",
+    "lbl:bbox":"84.12721,28.59465,84.16721,28.63465",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Pisang"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":6941685,
         "gp:id":22662731,
-        "qs:id":1085989,
+        "qs_pg:id":1085989,
         "wd:id":"Q2353600"
     },
     "wof:country":"NP",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421187763,
-    "wof:lastmodified":1563242702,
+    "wof:lastmodified":1566669986,
     "wof:name":"Pisang",
     "wof:parent_id":1092049041,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.7797,27.17989,84.8197,27.21989",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b0\u09be\u09ae\u09aa\u09c1\u09b0"
     ],
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":1193146723,
-    "wof:lastmodified":1564113213,
+    "wof:lastmodified":1566668358,
     "wof:name":"Rampur",
     "wof:parent_id":1092050453,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.62762,27.34795,85.66762,27.38795",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tilb\u0101ri\u0307\u0304",
         "Tilb\u0101r\u012b"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1360198903,
-    "wof:lastmodified":1537676090,
+    "wof:lastmodified":1566669684,
     "wof:name":"Tilbari",
     "wof:parent_id":1092048887,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.46733,26.58832,86.50733,26.62832",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0928\u0939\u0930\u093e \u0930\u093f\u0917\u094c\u0932"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1310147717,
-    "wof:lastmodified":1564114501,
+    "wof:lastmodified":1566669108,
     "wof:name":"Nahara Rigaul",
     "wof:parent_id":1092050497,
     "wof:placetype":"locality",

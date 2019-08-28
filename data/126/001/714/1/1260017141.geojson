@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.72352,28.21982,83.76352,28.25982",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1260017141,
-    "wof:lastmodified":1537080278,
+    "wof:lastmodified":1566668830,
     "wof:name":"Kabrabot",
     "wof:parent_id":1092049297,
     "wof:placetype":"locality",

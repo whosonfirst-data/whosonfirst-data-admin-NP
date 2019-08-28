@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.56105,27.02487,85.60105,27.06487",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tallo Ju\u1e6dp\u0101ni\u0307\u0304",
         "Tallo Ju\u1e6dp\u0101n\u012b"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1327044453,
-    "wof:lastmodified":1537676094,
+    "wof:lastmodified":1566663945,
     "wof:name":"Tallo Jutpani",
     "wof:parent_id":1092049639,
     "wof:placetype":"locality",

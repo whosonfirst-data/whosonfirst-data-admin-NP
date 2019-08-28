@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.42624,27.03267,87.46624,27.07267",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":8005984
     },
     "wof:country":"NP",
-    "wof:geomhash":"dbc9ae2606d69cefa32339077893916c",
+    "wof:geomhash":"03c8a58eae91677ebc6febc9cba4af2b",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209652981,
-    "wof:lastmodified":1536280522,
+    "wof:lastmodified":1566667465,
     "wof:name":"Laksmitar",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     87.44624,
-    27.052670000000006,
+    27.05267000000001,
     87.44624,
-    27.052670000000006
+    27.05267000000001
 ],
   "geometry": {"coordinates":[87.44624,27.05267000000001],"type":"Point"}
 }

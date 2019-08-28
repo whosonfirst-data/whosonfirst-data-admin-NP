@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.95104,29.08584,80.99104,29.12584",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eus_x_preferred":[
         "Kheti"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1243290183,
-    "wof:lastmodified":1564117088,
+    "wof:lastmodified":1566670675,
     "wof:name":"Kheti",
     "wof:parent_id":1092048653,
     "wof:placetype":"locality",

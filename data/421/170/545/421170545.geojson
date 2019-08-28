@@ -10,8 +10,12 @@
     "geom:latitude":27.70704,
     "geom:longitude":85.33218,
     "iso:country":"NP",
+    "lbl:bbox":"85.23218,27.60704,85.43218,27.80704",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":4.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ace_x_preferred":[
         "Kathmandu"
@@ -400,7 +404,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0442\u043c\u0430\u043d\u0434\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u0101tm\u0101ndu"
     ],
     "name:urd_x_preferred":[
@@ -467,7 +471,7 @@
     "wof:concordances":{
         "gn:id":1283241,
         "gp:id":23706767,
-        "qs:id":1192939
+        "qs_pg:id":1192939
     },
     "wof:country":"NP",
     "wof:created":1459008857,
@@ -489,7 +493,7 @@
         }
     ],
     "wof:id":421170545,
-    "wof:lastmodified":1564115961,
+    "wof:lastmodified":1566669993,
     "wof:name":"Kathmandu",
     "wof:parent_id":1092048931,
     "wof:placetype":"localadmin",

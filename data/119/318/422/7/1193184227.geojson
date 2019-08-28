@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.31446,27.63973,87.35446,27.67973",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09b6\u09bf\u09ac\u09b2\u09bf\u0999\u09cd\u0997"
     ],
@@ -167,7 +171,7 @@
         }
     ],
     "wof:id":1193184227,
-    "wof:lastmodified":1564113482,
+    "wof:lastmodified":1566668514,
     "wof:name":"Lingam",
     "wof:parent_id":1092049597,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.4517,28.18244,81.4917,28.22244",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":8009754
     },
     "wof:country":"NP",
-    "wof:geomhash":"bac7ef0b073b563931986566bb69654f",
+    "wof:geomhash":"036dfe99223c2593917fe9aa61d5ffd2",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209543917,
-    "wof:lastmodified":1536283903,
+    "wof:lastmodified":1566667416,
     "wof:name":"Gidarpur",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     81.4717,
-    28.202440000000006,
+    28.20244000000001,
     81.4717,
-    28.202440000000006
+    28.20244000000001
 ],
   "geometry": {"coordinates":[81.4717,28.20244000000001],"type":"Point"}
 }

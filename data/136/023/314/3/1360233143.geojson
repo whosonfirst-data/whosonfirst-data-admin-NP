@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.88835,27.14417,85.92835,27.18417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u092e\u093e\u0907\u0938\u094d\u0925\u093e\u0928"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1360233143,
-    "wof:lastmodified":1564115200,
+    "wof:lastmodified":1566669514,
     "wof:name":"Maisthan",
     "wof:parent_id":1092049679,
     "wof:placetype":"locality",

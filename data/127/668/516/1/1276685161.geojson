@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.95108,28.76502,81.99108,28.80502",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0631\u0643\u0629"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1276685161,
-    "wof:lastmodified":1564110725,
+    "wof:lastmodified":1566666906,
     "wof:name":"Mirka",
     "wof:parent_id":1092048763,
     "wof:placetype":"locality",

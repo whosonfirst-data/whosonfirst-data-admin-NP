@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.57041,26.64896,87.61041,26.68896",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226581481,
-    "wof:lastmodified":1536948893,
+    "wof:lastmodified":1566671475,
     "wof:name":"Salbari",
     "wof:parent_id":1092048303,
     "wof:placetype":"locality",

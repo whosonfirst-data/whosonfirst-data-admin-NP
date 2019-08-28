@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.68391,28.24118,82.72391,28.28118",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Lek"
     ],
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":1226270793,
-    "wof:lastmodified":1564118181,
+    "wof:lastmodified":1566671349,
     "wof:name":"Lek",
     "wof:parent_id":1092049455,
     "wof:placetype":"locality",

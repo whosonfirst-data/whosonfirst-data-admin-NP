@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.76988,27.25686,85.80988,27.29686",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1242619473,
-    "wof:lastmodified":1537002678,
+    "wof:lastmodified":1566670231,
     "wof:name":"Mathillo Deujor",
     "wof:parent_id":1092049679,
     "wof:placetype":"locality",

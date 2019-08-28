@@ -11,10 +11,14 @@
     "geom:longitude":82.15714,
     "gn:country":"NP",
     "gn:fcode":"PPL",
-    "gn:pop":682,
+    "gn:population":682,
     "iso:country":"NP",
+    "lbl:bbox":"82.13714,30.02651,82.17714,30.06651",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kharpunath"
     ],
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":1283206,
         "gp:id":2268992,
-        "qs:id":555736,
+        "qs_pg:id":555736,
         "wd:id":"Q3425141"
     },
     "wof:country":"NP",
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":890422359,
-    "wof:lastmodified":1563242744,
+    "wof:lastmodified":1566669998,
     "wof:name":"Kh\u0101rp\u016b",
     "wof:parent_id":1092050353,
     "wof:placetype":"locality",

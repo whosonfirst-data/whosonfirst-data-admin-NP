@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"88.05773,26.82249,88.09773,26.86249",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Chinde"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1293921319,
-    "wof:lastmodified":1564109672,
+    "wof:lastmodified":1566666137,
     "wof:name":"Chinde",
     "wof:parent_id":1092048173,
     "wof:placetype":"locality",

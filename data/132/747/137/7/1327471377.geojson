@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.51976,28.17641,83.55976,28.21641",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1327471377,
-    "wof:lastmodified":1536622348,
+    "wof:lastmodified":1566663841,
     "wof:name":"Khok",
     "wof:parent_id":1092049257,
     "wof:placetype":"locality",

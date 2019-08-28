@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.72635,28.92328,80.76635,28.96328",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1243389745,
-    "wof:lastmodified":1536886974,
+    "wof:lastmodified":1566670013,
     "wof:name":"Narayangada",
     "wof:parent_id":1092048743,
     "wof:placetype":"locality",

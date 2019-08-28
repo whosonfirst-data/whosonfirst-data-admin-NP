@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.00834,28.80714,81.04834,28.84714",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7957282
     },
     "wof:country":"NP",
-    "wof:geomhash":"3cecf72d05e8818ee7c5d17fb69be4dc",
+    "wof:geomhash":"ea2cac30fc2b08ea7e6f57f13be7cb3d",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209641635,
-    "wof:lastmodified":1536280868,
+    "wof:lastmodified":1566667509,
     "wof:name":"Khateruwa",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     81.02834,
-    28.827140000000004,
+    28.82714,
     81.02834,
-    28.827140000000004
+    28.82714
 ],
   "geometry": {"coordinates":[81.02834,28.82714],"type":"Point"}
 }

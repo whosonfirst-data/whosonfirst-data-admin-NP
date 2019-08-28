@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.61417,27.97376,83.65417,28.01376",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Jhirubas"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1260329161,
-    "wof:lastmodified":1564114209,
+    "wof:lastmodified":1566668937,
     "wof:name":"Jhirubas",
     "wof:parent_id":1092050939,
     "wof:placetype":"locality",

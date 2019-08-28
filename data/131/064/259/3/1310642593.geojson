@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.38786,26.80008,87.42786,26.84008",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dobhan"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1310642593,
-    "wof:lastmodified":1564114787,
+    "wof:lastmodified":1566669279,
     "wof:name":"Dobhan",
     "wof:parent_id":1092048303,
     "wof:placetype":"locality",

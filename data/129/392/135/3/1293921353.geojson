@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.94404,26.72087,86.98404,26.76087",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293921353,
-    "wof:lastmodified":1536658778,
+    "wof:lastmodified":1566666114,
     "wof:name":"Bhalmanti",
     "wof:parent_id":1092050179,
     "wof:placetype":"locality",

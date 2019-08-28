@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.05687,27.54101,86.09687,27.58101",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1225787179,
-    "wof:lastmodified":1537094965,
+    "wof:lastmodified":1566672045,
     "wof:name":"Sukathokar",
     "wof:parent_id":1092050535,
     "wof:placetype":"locality",

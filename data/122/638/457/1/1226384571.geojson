@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.09674,27.45106,86.13674,27.49106",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0916\u093f\u092e\u094d\u0924\u0940"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1226384571,
-    "wof:lastmodified":1564119318,
+    "wof:lastmodified":1566672009,
     "wof:name":"Khimti",
     "wof:parent_id":1092049711,
     "wof:placetype":"locality",

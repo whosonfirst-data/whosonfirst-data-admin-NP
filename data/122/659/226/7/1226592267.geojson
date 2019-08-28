@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.74853,27.50662,85.78853,27.54662",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0920\u0942\u0932\u094b\u092a\u0930\u094d\u0938\u0947\u0932"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1226592267,
-    "wof:lastmodified":1564118452,
+    "wof:lastmodified":1566671514,
     "wof:name":"Thulo Parsel",
     "wof:parent_id":1092048887,
     "wof:placetype":"locality",

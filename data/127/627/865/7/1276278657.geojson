@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.14179,26.80746,87.18179,26.84746",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hif_x_preferred":[
         "Chatara"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1276278657,
-    "wof:lastmodified":1564110466,
+    "wof:lastmodified":1566666739,
     "wof:name":"Chatara",
     "wof:parent_id":1092049923,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.2446,27.94509,83.2846,27.98509",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7939793
     },
     "wof:country":"NP",
-    "wof:geomhash":"609c33b0619028056078a2efadd8d850",
+    "wof:geomhash":"2ddd739d27d301eb037b87236ddfdd49",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209044213,
-    "wof:lastmodified":1536299449,
+    "wof:lastmodified":1566667918,
     "wof:name":"Myaltuppa",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     83.2646,
-    27.965090000000004,
+    27.96509,
     83.2646,
-    27.965090000000004
+    27.96509
 ],
   "geometry": {"coordinates":[83.2646,27.96509],"type":"Point"}
 }

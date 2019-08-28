@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.63286,26.93974,86.67286,26.97974",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Pabu"
     ],
@@ -143,7 +147,7 @@
         }
     ],
     "wof:id":1243186711,
-    "wof:lastmodified":1564117044,
+    "wof:lastmodified":1566670648,
     "wof:name":"Pabu",
     "wof:parent_id":1092050179,
     "wof:placetype":"locality",

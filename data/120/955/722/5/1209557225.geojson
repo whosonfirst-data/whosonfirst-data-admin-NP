@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.25666,27.05798,87.29666,27.09798",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209557225,
-    "wof:lastmodified":1536283508,
+    "wof:lastmodified":1566667527,
     "wof:name":"Marse",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

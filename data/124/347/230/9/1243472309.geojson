@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.56862,27.0261,85.60862,27.0661",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Saleshbasti\u0307\u0304",
         "Saleshbast\u012b"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1243472309,
-    "wof:lastmodified":1537676095,
+    "wof:lastmodified":1566670371,
     "wof:name":"Saleshbasti",
     "wof:parent_id":1092049639,
     "wof:placetype":"locality",

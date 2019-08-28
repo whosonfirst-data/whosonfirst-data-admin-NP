@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.3681,27.21832,86.4081,27.25832",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:pol_x_preferred":[
         "Dandagaun"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1260128041,
-    "wof:lastmodified":1564113830,
+    "wof:lastmodified":1566668723,
     "wof:name":"Dandagaun",
     "wof:parent_id":1092050225,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.42499,27.95764,82.46499,27.99764",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293715661,
-    "wof:lastmodified":1536955702,
+    "wof:lastmodified":1566665919,
     "wof:name":"Ganari",
     "wof:parent_id":1092048605,
     "wof:placetype":"locality",

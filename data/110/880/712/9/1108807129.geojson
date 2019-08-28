@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":28.415519,
     "lbl:longitude":84.022322,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
@@ -29,9 +30,9 @@
         "Four"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-22",
+    "src:population_date":"2011-06-22",
     "statoids:area_km":"21,504",
     "statoids:area_mi":"8,303",
     "statoids:as_of_date":"2011-06-22",
@@ -70,11 +71,10 @@
     "wof:lang_x_spoken":[
         "nep"
     ],
-    "wof:lastmodified":1565732050,
+    "wof:lastmodified":1566668988,
     "wof:name":"Province No. 4",
     "wof:parent_id":85632465,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":2413907,
     "wof:population_rank":12,

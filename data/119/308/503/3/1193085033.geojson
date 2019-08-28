@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.54887,27.16418,87.58887,27.20418",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Oyakjung"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1193085033,
-    "wof:lastmodified":1564113055,
+    "wof:lastmodified":1566668260,
     "wof:name":"Oyakjung",
     "wof:parent_id":1092050137,
     "wof:placetype":"locality",

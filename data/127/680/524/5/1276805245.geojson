@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.50271,26.51519,87.54271,26.55519",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276805245,
-    "wof:lastmodified":1536642702,
+    "wof:lastmodified":1566666710,
     "wof:name":"Khadkatol",
     "wof:parent_id":1092048303,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.76745,27.84246,83.80745,27.88246",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bharse"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1243211799,
-    "wof:lastmodified":1564117221,
+    "wof:lastmodified":1566670756,
     "wof:name":"Bharse",
     "wof:parent_id":1092050889,
     "wof:placetype":"locality",

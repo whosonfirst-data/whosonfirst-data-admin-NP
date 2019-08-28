@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.11632,27.41339,86.15632,27.45339",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Boharagaun"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1243402561,
-    "wof:lastmodified":1564116561,
+    "wof:lastmodified":1566670362,
     "wof:name":"Boharagaun",
     "wof:parent_id":1092049711,
     "wof:placetype":"locality",

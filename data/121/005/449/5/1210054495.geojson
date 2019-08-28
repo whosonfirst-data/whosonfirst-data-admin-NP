@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.82812,27.02649,85.86812,27.06649",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nep_x_preferred":[
         "\u0924\u093f\u0928\u0924\u0932\u0947"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1210054495,
-    "wof:lastmodified":1564112972,
+    "wof:lastmodified":1566668209,
     "wof:name":"Tintale",
     "wof:parent_id":1092050709,
     "wof:placetype":"locality",

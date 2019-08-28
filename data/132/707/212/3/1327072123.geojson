@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.59443,27.75621,85.63443,27.79621",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1327072123,
-    "wof:lastmodified":1536703443,
+    "wof:lastmodified":1566663486,
     "wof:name":"Bitalab",
     "wof:parent_id":1092049755,
     "wof:placetype":"locality",

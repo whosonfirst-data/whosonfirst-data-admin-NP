@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.39423,29.16878,81.43423,29.20878",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Balle"
     ],
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":1326558329,
-    "wof:lastmodified":1564107020,
+    "wof:lastmodified":1566664142,
     "wof:name":"Balle",
     "wof:parent_id":1092048527,
     "wof:placetype":"locality",

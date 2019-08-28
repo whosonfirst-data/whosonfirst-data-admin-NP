@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.26407,28.32709,82.30407,28.36709",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276475919,
-    "wof:lastmodified":1537081887,
+    "wof:lastmodified":1566667056,
     "wof:name":"Tarupare",
     "wof:parent_id":1092049579,
     "wof:placetype":"locality",

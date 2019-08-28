@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.81244,29.21442,80.85244,29.25442",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226275449,
-    "wof:lastmodified":1536890472,
+    "wof:lastmodified":1566671356,
     "wof:name":"Deukurali",
     "wof:parent_id":1092048653,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.86941,27.74223,84.90941,27.78223",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209657381,
-    "wof:lastmodified":1536280383,
+    "wof:lastmodified":1566667446,
     "wof:name":"Dhungeni",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.40482,27.66864,83.44482,27.70864",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nep_x_preferred":[
         "\u0926\u092e\u093e\u0939\u093e"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1326478325,
-    "wof:lastmodified":1564106853,
+    "wof:lastmodified":1566664020,
     "wof:name":"Damaha",
     "wof:parent_id":1092048457,
     "wof:placetype":"locality",

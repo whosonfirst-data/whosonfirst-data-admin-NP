@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.49602,28.88977,81.53602,28.92977",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1243198655,
-    "wof:lastmodified":1536665947,
+    "wof:lastmodified":1566670740,
     "wof:name":"Odbada",
     "wof:parent_id":1092050583,
     "wof:placetype":"locality",

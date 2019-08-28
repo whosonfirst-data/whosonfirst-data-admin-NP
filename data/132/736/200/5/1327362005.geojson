@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.54624,29.26806,80.58624,29.30806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:pol_x_preferred":[
         "Nuwakot"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1327362005,
-    "wof:lastmodified":1564106028,
+    "wof:lastmodified":1566663424,
     "wof:name":"Nuwakot",
     "wof:parent_id":1092048697,
     "wof:placetype":"locality",

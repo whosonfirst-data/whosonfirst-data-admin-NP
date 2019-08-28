@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.87305,29.3292,81.91305,29.3692",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1242999461,
-    "wof:lastmodified":1536953216,
+    "wof:lastmodified":1566670613,
     "wof:name":"Talla Barkhe",
     "wof:parent_id":1092048809,
     "wof:placetype":"locality",

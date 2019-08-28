@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.54402,27.36424,86.58402,27.40424",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1344094457,
-    "wof:lastmodified":1536825541,
+    "wof:lastmodified":1566664749,
     "wof:name":"Jimbir",
     "wof:parent_id":1092049841,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"88.00786,26.88869,88.04786,26.92869",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310642549,
-    "wof:lastmodified":1536719552,
+    "wof:lastmodified":1566669295,
     "wof:name":"Sisnebesi",
     "wof:parent_id":1092048173,
     "wof:placetype":"locality",

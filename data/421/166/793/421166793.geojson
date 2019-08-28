@@ -10,8 +10,12 @@
     "geom:latitude":27.808166,
     "geom:longitude":84.7735,
     "iso:country":"NP",
+    "lbl:bbox":"84.7535,27.7881665,84.7935,27.8281665",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -42,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2269006,
-        "qs:id":1211485
+        "qs_pg:id":1211485
     },
     "wof:country":"NP",
     "wof:created":1459008702,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":421166793,
-    "wof:lastmodified":1500058094,
+    "wof:lastmodified":1566669982,
     "wof:name":"Bishaltar",
     "wof:parent_id":1092050661,
     "wof:placetype":"locality",

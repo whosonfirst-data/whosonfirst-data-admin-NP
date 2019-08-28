@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.15376,28.66527,82.19376,28.70527",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0418\u0431\u044a\u0440"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1226069309,
-    "wof:lastmodified":1564119184,
+    "wof:lastmodified":1566671937,
     "wof:name":"Ibar",
     "wof:parent_id":1092048763,
     "wof:placetype":"locality",

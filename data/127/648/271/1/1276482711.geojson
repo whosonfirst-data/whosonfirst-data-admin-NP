@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.1978,26.82423,86.2378,26.86423",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u09aa\u09cd\u09b0\u09af\u09bc\u09be\u0997\u09aa\u09c1\u09b0"
     ],
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":1276482711,
-    "wof:lastmodified":1564111166,
+    "wof:lastmodified":1566667177,
     "wof:name":"Prayagpur",
     "wof:parent_id":1092050497,
     "wof:placetype":"locality",

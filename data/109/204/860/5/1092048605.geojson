@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":27.943947,
     "lbl:longitude":82.395571,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"RAPTI",
     "meso:diss_me":"Dang DeokhuriRAPTI",
     "meso:gadm_admin":"Dang",
@@ -34,6 +36,7 @@
     "mps:longitude":82.395571,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09a6\u09be\u0999 \u099c\u09c7\u09b2\u09be"
     ],
@@ -129,9 +132,9 @@
         "Dang Deukhuri"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-22",
+    "src:population_date":"2011-06-22",
     "statoids:area_km":"2,955.0",
     "statoids:as_of_date":"2011-06-22",
     "statoids:capital":"Ghorahi",
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":1092048605,
-    "wof:lastmodified":1563242353,
+    "wof:lastmodified":1566669761,
     "wof:name":"Dang Deokhuri",
     "wof:parent_id":-1,
     "wof:placetype":"county",

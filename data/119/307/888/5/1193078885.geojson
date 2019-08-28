@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.10605,27.54888,86.14605,27.58888",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1193078885,
-    "wof:lastmodified":1536382882,
+    "wof:lastmodified":1566668232,
     "wof:name":"Kharidhunga",
     "wof:parent_id":1092050535,
     "wof:placetype":"locality",

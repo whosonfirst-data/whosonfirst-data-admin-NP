@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.90049,27.84524,83.94049,27.88524",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7976813
     },
     "wof:country":"NP",
-    "wof:geomhash":"97a9332ef62b6de93732006aa15ab18b",
+    "wof:geomhash":"eda66c86116e0ae79b36c424a6758d25",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209557099,
-    "wof:lastmodified":1536283510,
+    "wof:lastmodified":1566667524,
     "wof:name":"Laskare",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     83.92049,
-    27.865240000000004,
+    27.86524,
     83.92049,
-    27.865240000000004
+    27.86524
 ],
   "geometry": {"coordinates":[83.92049,27.86524],"type":"Point"}
 }

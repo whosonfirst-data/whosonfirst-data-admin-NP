@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.51689,27.88756,85.55689,27.92756",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mahankal"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1293606933,
-    "wof:lastmodified":1564109902,
+    "wof:lastmodified":1566666314,
     "wof:name":"Mahankal",
     "wof:parent_id":1092049755,
     "wof:placetype":"locality",

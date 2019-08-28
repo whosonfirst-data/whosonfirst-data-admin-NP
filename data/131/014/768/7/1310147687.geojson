@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.73118,26.55684,86.77118,26.59684",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310147687,
-    "wof:lastmodified":1536936483,
+    "wof:lastmodified":1566669121,
     "wof:name":"Kumaraul",
     "wof:parent_id":1092048485,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.57112,26.91846,86.61112,26.95846",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343999917,
-    "wof:lastmodified":1536962863,
+    "wof:lastmodified":1566664604,
     "wof:name":"Thadegau",
     "wof:parent_id":1092050179,
     "wof:placetype":"locality",

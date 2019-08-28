@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.21332,28.75123,80.25332,28.79123",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1209941137,
-    "wof:lastmodified":1536388454,
+    "wof:lastmodified":1566667959,
     "wof:name":"Gaudi",
     "wof:parent_id":1092048227,
     "wof:placetype":"locality",

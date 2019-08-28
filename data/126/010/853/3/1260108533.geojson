@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.09241,28.85561,81.13241,28.89561",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hin_x_preferred":[
         "\u0932\u0917\u094d\u0928"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1260108533,
-    "wof:lastmodified":1564114122,
+    "wof:lastmodified":1566668890,
     "wof:name":"Lagna",
     "wof:parent_id":1092049963,
     "wof:placetype":"locality",

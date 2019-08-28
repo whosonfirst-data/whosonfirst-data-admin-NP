@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.23992,28.33808,83.27992,28.37808",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209262339,
-    "wof:lastmodified":1536292646,
+    "wof:lastmodified":1566668095,
     "wof:name":"Tallo Dhiri",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

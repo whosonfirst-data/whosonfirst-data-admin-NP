@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.90432,26.75847,86.94432,26.79847",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209146761,
-    "wof:lastmodified":1536296331,
+    "wof:lastmodified":1566667789,
     "wof:name":"Sawalitol",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

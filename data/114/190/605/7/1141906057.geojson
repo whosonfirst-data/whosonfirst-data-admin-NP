@@ -10,10 +10,14 @@
     "geom:latitude":27.550998,
     "geom:longitude":85.130002,
     "iso:country":"NP",
+    "lbl:bbox":"85.1100015629,27.5309980984,85.1500015629,27.5709980984",
     "lbl:latitude":27.550998,
     "lbl:longitude":85.130002,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bhimfedi"
     ],
@@ -160,7 +164,7 @@
         }
     ],
     "wof:id":1141906057,
-    "wof:lastmodified":1564119416,
+    "wof:lastmodified":1566672063,
     "wof:name":"Bhimphedi",
     "wof:parent_id":1092049017,
     "wof:placetype":"locality",

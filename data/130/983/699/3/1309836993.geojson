@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.39302,29.44934,81.43302,29.48934",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1309836993,
-    "wof:lastmodified":1536885729,
+    "wof:lastmodified":1566669793,
     "wof:name":"Bansai",
     "wof:parent_id":1092050627,
     "wof:placetype":"locality",

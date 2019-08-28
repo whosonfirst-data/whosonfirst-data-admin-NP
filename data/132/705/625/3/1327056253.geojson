@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.94071,29.62072,81.98071,29.66072",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Banja"
     ],
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":1327056253,
-    "wof:lastmodified":1564106716,
+    "wof:lastmodified":1566663917,
     "wof:name":"Banja",
     "wof:parent_id":1092048339,
     "wof:placetype":"locality",

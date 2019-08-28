@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.56726,27.65238,85.60726,27.69238",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kh\u0101n\u0101g\u0101\u0169",
         "Kh\u0101n\u0101g\u0101un"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343271583,
-    "wof:lastmodified":1537676083,
+    "wof:lastmodified":1566665352,
     "wof:name":"Khanagau",
     "wof:parent_id":1092048887,
     "wof:placetype":"locality",

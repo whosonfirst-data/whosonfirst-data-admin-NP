@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.15582,27.26351,86.19582,27.30351",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1225892675,
-    "wof:lastmodified":1536946514,
+    "wof:lastmodified":1566671616,
     "wof:name":"Linaha",
     "wof:parent_id":1092049711,
     "wof:placetype":"locality",

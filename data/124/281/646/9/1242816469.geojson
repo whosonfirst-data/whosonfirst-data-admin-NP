@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.88045,26.61233,85.92045,26.65233",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fulgama"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1242816469,
-    "wof:lastmodified":1564116273,
+    "wof:lastmodified":1566670184,
     "wof:name":"Phulgama",
     "wof:parent_id":1092048127,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.19405,26.78819,85.23405,26.82819",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tel_x_preferred":[
         "\u0c1c\u0c3e\u0c24\u0c30"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1193226229,
-    "wof:lastmodified":1564113240,
+    "wof:lastmodified":1566668374,
     "wof:name":"Jathara",
     "wof:parent_id":1092049419,
     "wof:placetype":"locality",

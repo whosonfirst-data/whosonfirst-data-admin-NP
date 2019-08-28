@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.14104,29.56174,82.18104,29.60174",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Luma"
     ],
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":1210042885,
-    "wof:lastmodified":1564112935,
+    "wof:lastmodified":1566668187,
     "wof:name":"Luma",
     "wof:parent_id":1092048339,
     "wof:placetype":"locality",

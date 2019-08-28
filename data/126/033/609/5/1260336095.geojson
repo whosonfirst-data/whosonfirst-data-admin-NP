@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"88.04,26.565,88.08,26.605",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chandragadhi",
         "Chandra Garhi"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1260336095,
-    "wof:lastmodified":1537676059,
+    "wof:lastmodified":1566668956,
     "wof:name":"Chandra Garhi",
     "wof:parent_id":1092050367,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.95018,28.88177,81.99018,28.92177",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7953400
     },
     "wof:country":"NP",
-    "wof:geomhash":"8b8116b9bc4eeebc0ddb48c7849ebbc2",
+    "wof:geomhash":"0ebc7950ab9ab0b110ec4738b3c62696",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209031033,
-    "wof:lastmodified":1536299849,
+    "wof:lastmodified":1566667880,
     "wof:name":"Kunapalto",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     81.97018,
-    28.901770000000006,
+    28.90177000000001,
     81.97018,
-    28.901770000000006
+    28.90177000000001
 ],
   "geometry": {"coordinates":[81.97018,28.90177000000001],"type":"Point"}
 }

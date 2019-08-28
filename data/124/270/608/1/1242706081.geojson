@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.62135,29.25488,80.66135,29.29488",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dhaulakot"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1242706081,
-    "wof:lastmodified":1564116765,
+    "wof:lastmodified":1566670478,
     "wof:name":"Dhaulakot",
     "wof:parent_id":1092048697,
     "wof:placetype":"locality",

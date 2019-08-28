@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.77893,28.02184,83.81893,28.06184",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":8001048
     },
     "wof:country":"NP",
-    "wof:geomhash":"63d9529d007e84986cf65cc217513931",
+    "wof:geomhash":"262463ef976a94c988b90c7fc3f0dfaa",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209150011,
-    "wof:lastmodified":1536296231,
+    "wof:lastmodified":1566667604,
     "wof:name":"Pidalu Koriya",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     83.79893,
-    28.041840000000004,
+    28.04184,
     83.79893,
-    28.041840000000004
+    28.04184
 ],
   "geometry": {"coordinates":[83.79893,28.04184],"type":"Point"}
 }

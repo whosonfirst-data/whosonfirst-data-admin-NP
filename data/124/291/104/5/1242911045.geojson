@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.18442,28.00888,83.22442,28.04888",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Majhakot"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1242911045,
-    "wof:lastmodified":1564116891,
+    "wof:lastmodified":1566670553,
     "wof:name":"Majhkot",
     "wof:parent_id":1092049537,
     "wof:placetype":"locality",

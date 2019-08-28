@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.58036,26.9446,85.62036,26.9846",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276379985,
-    "wof:lastmodified":1536716362,
+    "wof:lastmodified":1566667224,
     "wof:name":"Birta Bajar",
     "wof:parent_id":1092049639,
     "wof:placetype":"locality",

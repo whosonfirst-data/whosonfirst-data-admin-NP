@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.14892,29.24114,81.18892,29.28114",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209030913,
-    "wof:lastmodified":1536299852,
+    "wof:lastmodified":1566667883,
     "wof:name":"Akhada",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

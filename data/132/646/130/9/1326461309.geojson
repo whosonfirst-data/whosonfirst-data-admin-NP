@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.73073,28.64451,82.77073,28.68451",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1326461309,
-    "wof:lastmodified":1537083070,
+    "wof:lastmodified":1566664073,
     "wof:name":"Kalapanikharka",
     "wof:parent_id":1092049495,
     "wof:placetype":"locality",

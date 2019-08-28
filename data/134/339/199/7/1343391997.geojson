@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.26832,29.37646,80.30832,29.41646",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343391997,
-    "wof:lastmodified":1536844003,
+    "wof:lastmodified":1566664586,
     "wof:name":"Danara",
     "wof:parent_id":1092050255,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.29648,27.69716,85.33648,27.73716",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:urd_x_preferred":[
         "\u0645\u06c1\u0627\u0631\u0627\u062c \u06af\u0646\u062c"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1276924289,
-    "wof:lastmodified":1564110697,
+    "wof:lastmodified":1566666888,
     "wof:name":"Maharajgunj",
     "wof:parent_id":1092048931,
     "wof:placetype":"locality",

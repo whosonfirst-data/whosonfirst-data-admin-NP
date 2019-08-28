@@ -9,14 +9,18 @@
     "geom:bbox":"86.41667,27.33333,86.41667,27.33333",
     "geom:latitude":27.33333,
     "geom:longitude":86.41667,
-    "gn:gn_country":"NP",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":159761,
+    "gn:country":"NP",
+    "gn:fcode":"ADM3",
+    "gn:population":159761,
     "iso:country":"NP",
+    "lbl:bbox":"86.31667,27.23333,86.51667,27.43333",
     "lbl:latitude":27.33333,
     "lbl:longitude":86.41667,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:fra_x_preferred":[
         "Okhaldhunga"
@@ -39,7 +43,7 @@
     "name:por_x_preferred":[
         "Okhaldhunga"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Okhladhunga"
     ],
     "name:urd_x_preferred":[
@@ -66,7 +70,7 @@
     "qs_pg:woe_adm0":23424911,
     "qs_pg:woe_id":23706757,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"quattroshapes_pg",
     "woe:adm0_id":23424911,
     "woe:name_adm0":"Nepal",
@@ -83,7 +87,6 @@
     "wof:concordances":{
         "gn:id":1282969,
         "gp:id":23706757,
-        "qs:id":1197766,
         "qs_pg:id":1197766
     },
     "wof:country":"NP",
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125313541,
-    "wof:lastmodified":1564115966,
+    "wof:lastmodified":1566670001,
     "wof:name":"Okhaldhunga",
     "wof:parent_id":1092050225,
     "wof:placetype":"localadmin",

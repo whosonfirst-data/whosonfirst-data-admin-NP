@@ -10,8 +10,12 @@
     "geom:latitude":28.642539,
     "geom:longitude":84.091843,
     "iso:country":"NP",
+    "lbl:bbox":"84.071843,28.622539,84.111843,28.662539",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Nyawal"
@@ -73,7 +77,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2269046,
-        "qs:id":900475,
+        "qs_pg:id":900475,
         "wd:id":"Q3414982"
     },
     "wof:country":"NP",
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421194719,
-    "wof:lastmodified":1563242692,
+    "wof:lastmodified":1566669983,
     "wof:name":"Ngawal",
     "wof:parent_id":1092049041,
     "wof:placetype":"locality",

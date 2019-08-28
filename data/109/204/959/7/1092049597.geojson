@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":27.615868,
     "lbl:longitude":87.272683,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"KOSHI",
     "meso:diss_me":"SankhuwasabhaKOSHI",
     "meso:gadm_admin":"Sankhuwasabha",
@@ -34,6 +36,7 @@
     "mps:longitude":87.272683,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09b8\u0999\u09cd\u0996\u09c1\u09af\u09bc\u09be\u09b8\u09ad\u09be \u099c\u09c7\u09b2\u09be"
     ],
@@ -120,9 +123,9 @@
         "Sankhuwasabha"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-22",
+    "src:population_date":"2011-06-22",
     "statoids:area_km":"3,480.0",
     "statoids:as_of_date":"2011-06-22",
     "statoids:capital":"Khadbari",
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":1092049597,
-    "wof:lastmodified":1561771967,
+    "wof:lastmodified":1566669763,
     "wof:name":"Sankhuwasabha",
     "wof:parent_id":-1,
     "wof:placetype":"county",

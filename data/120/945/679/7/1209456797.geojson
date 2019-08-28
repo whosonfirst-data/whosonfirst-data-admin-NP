@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.29136,26.53219,87.33136,26.57219",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7970282
     },
     "wof:country":"NP",
-    "wof:geomhash":"a091063c8263addbb19eaa2e426a60c2",
+    "wof:geomhash":"dad18d6d95c2aa0d6a16249b3bd9b8f4",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209456797,
-    "wof:lastmodified":1536286507,
+    "wof:lastmodified":1566668080,
     "wof:name":"Gakuwa",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     87.31136,
-    26.552190000000003,
+    26.55219,
     87.31136,
-    26.552190000000003
+    26.55219
 ],
   "geometry": {"coordinates":[87.31135999999999,26.55219],"type":"Point"}
 }

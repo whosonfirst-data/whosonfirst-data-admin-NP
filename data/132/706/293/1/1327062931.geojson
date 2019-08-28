@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.18441,28.6183,82.22441,28.6583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1327062931,
-    "wof:lastmodified":1536716794,
+    "wof:lastmodified":1566663321,
     "wof:name":"Gharigaun",
     "wof:parent_id":1092049495,
     "wof:placetype":"locality",

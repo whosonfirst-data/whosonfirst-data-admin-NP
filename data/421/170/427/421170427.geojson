@@ -10,8 +10,12 @@
     "geom:latitude":27.70384,
     "geom:longitude":85.47473,
     "iso:country":"NP",
+    "lbl:bbox":"85.45473,27.68384,85.49473,27.72384",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"NP",
     "qs:gn_fcode":"PPLL",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":8010266,
         "gp:id":22662756,
-        "qs:id":483244
+        "qs_pg:id":483244
     },
     "wof:country":"NP",
     "wof:created":1459008852,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":421170427,
-    "wof:lastmodified":1500058088,
+    "wof:lastmodified":1566669993,
     "wof:name":"Kharipati",
     "wof:parent_id":1092048853,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.22691,28.07207,82.26691,28.11207",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bangai"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1344185389,
-    "wof:lastmodified":1564108627,
+    "wof:lastmodified":1566665339,
     "wof:name":"Bangai",
     "wof:parent_id":1092048605,
     "wof:placetype":"locality",

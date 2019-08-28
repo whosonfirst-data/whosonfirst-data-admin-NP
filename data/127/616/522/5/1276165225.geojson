@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.45089,28.36261,83.49089,28.40261",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276165225,
-    "wof:lastmodified":1537003245,
+    "wof:lastmodified":1566666780,
     "wof:name":"Kaskiri",
     "wof:parent_id":1092049089,
     "wof:placetype":"locality",

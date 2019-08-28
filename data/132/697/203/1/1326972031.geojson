@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.08735,27.3705,87.12735,27.4105",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1326972031,
-    "wof:lastmodified":1536846432,
+    "wof:lastmodified":1566664172,
     "wof:name":"Phyakla",
     "wof:parent_id":1092049883,
     "wof:placetype":"locality",

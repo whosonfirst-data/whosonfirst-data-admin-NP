@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.48197,29.46703,80.52197,29.50703",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:che_x_preferred":[
         "\u041a\u0443\u043b\u0430\u0434\u0430"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1226672301,
-    "wof:lastmodified":1564118439,
+    "wof:lastmodified":1566671507,
     "wof:name":"Kulada",
     "wof:parent_id":1092050255,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.19252,29.31157,81.23252,29.35157",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310138767,
-    "wof:lastmodified":1536948873,
+    "wof:lastmodified":1566669087,
     "wof:name":"Tallo Tuka",
     "wof:parent_id":1092048527,
     "wof:placetype":"locality",

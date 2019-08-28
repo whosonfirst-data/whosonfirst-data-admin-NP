@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.75255,27.27122,87.79255,27.31122",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1360033431,
-    "wof:lastmodified":1537019436,
+    "wof:lastmodified":1566669728,
     "wof:name":"Phakse",
     "wof:parent_id":1092049813,
     "wof:placetype":"locality",

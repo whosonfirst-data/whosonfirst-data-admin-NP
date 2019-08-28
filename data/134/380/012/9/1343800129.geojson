@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.95873,27.01774,84.99873,27.05774",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bhatauda"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1343800129,
-    "wof:lastmodified":1564108776,
+    "wof:lastmodified":1566665454,
     "wof:name":"Bhatauda",
     "wof:parent_id":1092048051,
     "wof:placetype":"locality",

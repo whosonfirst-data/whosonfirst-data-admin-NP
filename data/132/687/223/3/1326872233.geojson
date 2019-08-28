@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.644,27.81213,85.684,27.85213",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062a\u0627\u0644\u0647"
     ],
@@ -152,7 +156,7 @@
         }
     ],
     "wof:id":1326872233,
-    "wof:lastmodified":1564106277,
+    "wof:lastmodified":1566663602,
     "wof:name":"Thale",
     "wof:parent_id":1092049755,
     "wof:placetype":"locality",

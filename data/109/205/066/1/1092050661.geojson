@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":27.911034,
     "lbl:longitude":84.874532,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"BAGMATI",
     "meso:diss_me":"DhadingBAGMATI",
     "meso:gadm_admin":"Dhading",
@@ -34,6 +36,7 @@
     "mps:longitude":84.874532,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u062f\u0627\u062f\u064a\u0646\u063a"
     ],
@@ -131,9 +134,9 @@
         "Huy\u1ec7n Dhading"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-22",
+    "src:population_date":"2011-06-22",
     "statoids:area_km":"1,926.0",
     "statoids:as_of_date":"2011-06-22",
     "statoids:capital":"Dhadingbesi",
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":1092050661,
-    "wof:lastmodified":1563242378,
+    "wof:lastmodified":1566669770,
     "wof:name":"Dhading",
     "wof:parent_id":-1,
     "wof:placetype":"county",

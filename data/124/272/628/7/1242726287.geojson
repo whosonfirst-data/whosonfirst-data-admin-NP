@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.11053,27.57561,86.15053,27.61561",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0410\u0433\u0440\u044b"
     ],
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":1242726287,
-    "wof:lastmodified":1564116213,
+    "wof:lastmodified":1566670146,
     "wof:name":"Agri",
     "wof:parent_id":1092050535,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.5437,28.49692,83.5837,28.53692",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1360033239,
-    "wof:lastmodified":1537019666,
+    "wof:lastmodified":1566669720,
     "wof:name":"Phursing",
     "wof:parent_id":1092049089,
     "wof:placetype":"locality",

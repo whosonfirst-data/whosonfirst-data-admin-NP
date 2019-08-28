@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.36755,27.01996,85.40755,27.05996",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276482887,
-    "wof:lastmodified":1537072395,
+    "wof:lastmodified":1566667160,
     "wof:name":"Badaharba Baleri",
     "wof:parent_id":1092049419,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.11146,28.87979,82.15146,28.91979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7953535
     },
     "wof:country":"NP",
-    "wof:geomhash":"fe7c34329c4521dc4511d24d25d76de6",
+    "wof:geomhash":"e1c5002f9d8161614ea176cfdc4d75da",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209037685,
-    "wof:lastmodified":1536299647,
+    "wof:lastmodified":1566667895,
     "wof:name":"Dalayana",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     82.13146,
-    28.899790000000007,
+    28.89979000000001,
     82.13146,
-    28.899790000000007
+    28.89979000000001
 ],
   "geometry": {"coordinates":[82.13146,28.89979000000001],"type":"Point"}
 }

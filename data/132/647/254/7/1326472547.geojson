@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.34283,27.55599,85.38283,27.59599",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u091a\u094c\u0918\u0930\u0947"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1326472547,
-    "wof:lastmodified":1564106886,
+    "wof:lastmodified":1566664043,
     "wof:name":"Chaughare",
     "wof:parent_id":1092048971,
     "wof:placetype":"locality",

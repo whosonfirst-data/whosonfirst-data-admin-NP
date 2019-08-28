@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.98816,27.3548,87.02816,27.3948",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tam_x_preferred":[
         "\u0b9a\u0bc6\u0bae"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1309953833,
-    "wof:lastmodified":1564115756,
+    "wof:lastmodified":1566669855,
     "wof:name":"Semma",
     "wof:parent_id":1092049883,
     "wof:placetype":"locality",

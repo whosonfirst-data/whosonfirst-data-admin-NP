@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.41056,26.64132,86.45056,26.68132",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09bf\u09a4\u09be\u09aa\u09c1\u09b0"
     ],
@@ -134,7 +138,7 @@
         }
     ],
     "wof:id":1360132823,
-    "wof:lastmodified":1564115284,
+    "wof:lastmodified":1566669563,
     "wof:name":"Sitapur",
     "wof:parent_id":1092050497,
     "wof:placetype":"locality",

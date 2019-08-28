@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.00895,26.65719,86.04895,26.69719",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7943833
     },
     "wof:country":"NP",
-    "wof:geomhash":"75b6ca8543180f04b89177cd30f2e8dc",
+    "wof:geomhash":"044c78a272707cfd3c7d75461b392488",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209352691,
-    "wof:lastmodified":1536289695,
+    "wof:lastmodified":1566667860,
     "wof:name":"Baldehi",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     86.02895,
-    26.677190000000003,
+    26.67719,
     86.02895,
-    26.677190000000003
+    26.67719
 ],
   "geometry": {"coordinates":[86.02894999999999,26.67719],"type":"Point"}
 }

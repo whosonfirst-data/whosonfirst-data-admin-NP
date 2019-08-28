@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.14415,27.20592,87.18415,27.24592",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226280387,
-    "wof:lastmodified":1536883026,
+    "wof:lastmodified":1566671244,
     "wof:name":"Sisneri 8",
     "wof:parent_id":1092049883,
     "wof:placetype":"locality",

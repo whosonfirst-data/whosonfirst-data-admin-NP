@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.28471,28.05362,82.32471,28.09362",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1309837011,
-    "wof:lastmodified":1536885702,
+    "wof:lastmodified":1566669772,
     "wof:name":"Kuraha",
     "wof:parent_id":1092048605,
     "wof:placetype":"locality",

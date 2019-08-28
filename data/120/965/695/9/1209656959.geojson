@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.64718,28.03577,84.68718,28.07577",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7948944
     },
     "wof:country":"NP",
-    "wof:geomhash":"9085bc03a3c4afd1c8522a28cbf5bc0b",
+    "wof:geomhash":"4ce555c9e89eb4126c59256f60c7a209",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209656959,
-    "wof:lastmodified":1536280394,
+    "wof:lastmodified":1566667452,
     "wof:name":"Sapage",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     84.66718,
-    28.055770000000006,
+    28.05577000000001,
     84.66718,
-    28.055770000000006
+    28.05577000000001
 ],
   "geometry": {"coordinates":[84.66718,28.05577000000001],"type":"Point"}
 }

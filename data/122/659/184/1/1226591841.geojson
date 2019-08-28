@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.30555,28.18331,83.34555,28.22331",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Righa"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1226591841,
-    "wof:lastmodified":1564118473,
+    "wof:lastmodified":1566671527,
     "wof:name":"Righa",
     "wof:parent_id":1092049257,
     "wof:placetype":"locality",

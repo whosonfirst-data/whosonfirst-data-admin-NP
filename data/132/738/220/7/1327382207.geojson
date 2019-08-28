@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.76618,26.87532,86.80618,26.91532",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1327382207,
-    "wof:lastmodified":1536753337,
+    "wof:lastmodified":1566663436,
     "wof:name":"Gokuledanda",
     "wof:parent_id":1092050841,
     "wof:placetype":"locality",

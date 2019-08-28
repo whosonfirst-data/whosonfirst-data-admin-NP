@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.26284,27.22389,87.30284,27.26389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259420585,
-    "wof:lastmodified":1536949323,
+    "wof:lastmodified":1566671163,
     "wof:name":"Tumsing",
     "wof:parent_id":1092049597,
     "wof:placetype":"locality",

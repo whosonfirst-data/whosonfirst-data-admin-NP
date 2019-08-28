@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.21584,28.06051,83.25584,28.10051",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Raidi"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1193197399,
-    "wof:lastmodified":1564113656,
+    "wof:lastmodified":1566668616,
     "wof:name":"Raidi",
     "wof:parent_id":1092050755,
     "wof:placetype":"locality",

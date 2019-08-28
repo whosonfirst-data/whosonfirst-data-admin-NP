@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.86885,28.26459,84.90885,28.30459",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Uiya"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1193201531,
-    "wof:lastmodified":1564113441,
+    "wof:lastmodified":1566668488,
     "wof:name":"Uiya",
     "wof:parent_id":1092050351,
     "wof:placetype":"locality",

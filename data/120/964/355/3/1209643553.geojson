@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.68136,29.32393,80.72136,29.36393",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kaneda"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209643553,
-    "wof:lastmodified":1564111702,
+    "wof:lastmodified":1566667498,
     "wof:name":"Kaneda",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

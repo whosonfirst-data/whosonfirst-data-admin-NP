@@ -9,12 +9,16 @@
     "geom:bbox":"87.33333,27.0,87.33333,27.0",
     "geom:latitude":27.0,
     "geom:longitude":87.33333,
-    "gn:gn_country":"NP",
-    "gn:gn_fcode":"ADM3",
-    "gn:gn_pop":173216,
+    "gn:country":"NP",
+    "gn:fcode":"ADM3",
+    "gn:population":173216,
     "iso:country":"NP",
+    "lbl:bbox":"87.23333,26.9,87.43333,27.1",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bih_x_preferred":[
         "\u0927\u0928\u0915\u0941\u091f\u093e"
@@ -109,7 +113,6 @@
     "wof:concordances":{
         "gn:id":1283466,
         "gp:id":23706752,
-        "qs:id":1016986,
         "qs_pg:id":1016986
     },
     "wof:country":"NP",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":421185013,
-    "wof:lastmodified":1564115964,
+    "wof:lastmodified":1566669997,
     "wof:name":"Dhankuta",
     "wof:parent_id":1092049207,
     "wof:placetype":"localadmin",

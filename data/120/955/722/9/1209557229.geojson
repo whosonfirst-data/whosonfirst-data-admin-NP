@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.57853,27.28375,86.61853,27.32375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0938\u093f\u092e\u094d\u0932\u0947"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1209557229,
-    "wof:lastmodified":1564111758,
+    "wof:lastmodified":1566667527,
     "wof:name":"Simle",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",

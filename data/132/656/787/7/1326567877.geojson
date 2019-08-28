@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"84.32957,27.43577,84.36957,27.47577",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hif_x_preferred":[
         "Gopalnagar"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1326567877,
-    "wof:lastmodified":1564106345,
+    "wof:lastmodified":1566663650,
     "wof:name":"Gopalnagar",
     "wof:parent_id":1092050101,
     "wof:placetype":"locality",

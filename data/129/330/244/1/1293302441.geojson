@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.26072,27.22914,85.30072,27.26914",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u1e6c\u016b\u1e0di\u0307\u0304khel",
         "\u1e6c\u016b\u1e0d\u012bkhel"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1293302441,
-    "wof:lastmodified":1537676104,
+    "wof:lastmodified":1566665652,
     "wof:name":"Tudikhel",
     "wof:parent_id":1092049017,
     "wof:placetype":"locality",

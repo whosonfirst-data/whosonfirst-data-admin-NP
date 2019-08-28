@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.02335,27.94679,82.06335,27.98679",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":8008151
     },
     "wof:country":"NP",
-    "wof:geomhash":"cc68613fd256f94539833af2de779f49",
+    "wof:geomhash":"3840e9a0ecf6dcbc2c03ecac74ccf74b",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209548465,
-    "wof:lastmodified":1536283769,
+    "wof:lastmodified":1566667431,
     "wof:name":"Dulakhuti",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     82.04335,
-    27.966790000000003,
+    27.96679,
     82.04335,
-    27.966790000000003
+    27.96679
 ],
   "geometry": {"coordinates":[82.04335,27.96679],"type":"Point"}
 }

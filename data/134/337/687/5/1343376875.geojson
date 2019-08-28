@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.43153,27.71706,83.47153,27.75706",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343376875,
-    "wof:lastmodified":1536865494,
+    "wof:lastmodified":1566664567,
     "wof:name":"Nawakot",
     "wof:parent_id":1092050889,
     "wof:placetype":"locality",

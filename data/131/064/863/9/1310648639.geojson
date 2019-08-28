@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.72011,28.24443,83.76011,28.28443",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Thang"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1310648639,
-    "wof:lastmodified":1564114823,
+    "wof:lastmodified":1566669300,
     "wof:name":"Thang",
     "wof:parent_id":1092049297,
     "wof:placetype":"locality",

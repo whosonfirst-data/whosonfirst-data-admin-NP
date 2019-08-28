@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.73213,27.33914,85.77213,27.37914",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259621453,
-    "wof:lastmodified":1536660008,
+    "wof:lastmodified":1566670806,
     "wof:name":"Haitar",
     "wof:parent_id":1092049679,
     "wof:placetype":"locality",

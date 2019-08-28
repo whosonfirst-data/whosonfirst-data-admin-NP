@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.95858,27.96584,82.99858,28.00584",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7938763
     },
     "wof:country":"NP",
-    "wof:geomhash":"86bf57e6774d49dc5c8441eef1043dd5",
+    "wof:geomhash":"41ce60b39e1ab85f10718dfb47516316",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209143339,
-    "wof:lastmodified":1536296433,
+    "wof:lastmodified":1566667789,
     "wof:name":"Sotighat",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     82.97858000000002,
-    27.985840000000003,
+    27.98584,
     82.97858000000002,
-    27.985840000000003
+    27.98584
 ],
   "geometry": {"coordinates":[82.97858000000002,27.98584],"type":"Point"}
 }

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.37715,28.85212,81.41715,28.89212",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1327160577,
-    "wof:lastmodified":1537070377,
+    "wof:lastmodified":1566664401,
     "wof:name":"Tallo Kolte",
     "wof:parent_id":1092049963,
     "wof:placetype":"locality",

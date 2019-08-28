@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":29.190263,
     "lbl:longitude":81.725414,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"KARNALI",
     "meso:diss_me":"KalikotKARNALI",
     "meso:gadm_admin":"Kalikot",
@@ -34,6 +36,7 @@
     "mps:longitude":81.725414,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b2\u09c0\u0995\u09cb\u099f \u099c\u09c7\u09b2\u09be"
     ],
@@ -125,9 +128,9 @@
         "Kalikot"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-22",
+    "src:population_date":"2011-06-22",
     "statoids:area_km":"1,741.0",
     "statoids:as_of_date":"2011-06-22",
     "statoids:capital":"Manma",
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":1092048809,
-    "wof:lastmodified":1563242350,
+    "wof:lastmodified":1566669760,
     "wof:name":"Kalikot",
     "wof:parent_id":-1,
     "wof:placetype":"county",

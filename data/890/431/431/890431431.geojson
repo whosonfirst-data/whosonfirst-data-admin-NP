@@ -11,8 +11,11 @@
     "geom:longitude":80.59611,
     "gn:country":"NP",
     "gn:fcode":"PPL",
-    "gn:pop":92294,
+    "gn:population":92294,
     "iso:country":"NP",
+    "lbl:bbox":"80.57611,28.68792,80.61611,28.72792",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -133,9 +136,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0445\u0430\u043d\u0433\u0430\u0434\u0445\u0456"
     ],
-    "name:unk_x_variant":[
-        "Dhangadhi"
-    ],
     "name:urd_x_preferred":[
         "\u062f\u06be\u0646\u06af\u0688\u06be\u06cc"
     ],
@@ -253,7 +253,7 @@
     "wof:concordances":{
         "gn:id":1283467,
         "gp:id":2269042,
-        "qs:id":276511,
+        "qs_pg:id":276511,
         "wd:id":"Q1446993"
     },
     "wof:country":"NP",
@@ -276,7 +276,7 @@
         }
     ],
     "wof:id":890431431,
-    "wof:lastmodified":1563242749,
+    "wof:lastmodified":1566669999,
     "wof:name":"Dhangarhi",
     "wof:parent_id":1092048743,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.26605,28.26089,83.30605,28.30089",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7965865
     },
     "wof:country":"NP",
-    "wof:geomhash":"323dc834611a4530e2b3175c73953bad",
+    "wof:geomhash":"f7d98a64291b0d491e074a83180cb17f",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209256411,
-    "wof:lastmodified":1536292836,
+    "wof:lastmodified":1566667733,
     "wof:name":"Ransing",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     83.28605,
-    28.280890000000007,
+    28.28089000000001,
     83.28605,
-    28.280890000000007
+    28.28089000000001
 ],
   "geometry": {"coordinates":[83.28605,28.28089000000001],"type":"Point"}
 }

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.71558,27.01831,86.75558,27.05831",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1309947839,
-    "wof:lastmodified":1536726843,
+    "wof:lastmodified":1566669914,
     "wof:name":"Tuwakholagaun",
     "wof:parent_id":1092050841,
     "wof:placetype":"locality",

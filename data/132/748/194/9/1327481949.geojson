@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.00394,26.7224,86.04394,26.7624",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mai_x_preferred":[
         "\u0938\u0941\u0917\u093e \u092e\u0927\u0941\u0915\u0930\u0939\u0940"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1327481949,
-    "wof:lastmodified":1564106640,
+    "wof:lastmodified":1566663860,
     "wof:name":"Suga Madhukarahi",
     "wof:parent_id":1092048127,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.06345,27.44331,87.10345,27.48331",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1209958655,
-    "wof:lastmodified":1536375855,
+    "wof:lastmodified":1566667825,
     "wof:name":"Tamlung",
     "wof:parent_id":1092049597,
     "wof:placetype":"locality",

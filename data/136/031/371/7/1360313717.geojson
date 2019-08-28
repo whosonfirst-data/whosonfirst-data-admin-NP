@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.86675,29.48504,81.90675,29.52504",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1360313717,
-    "wof:lastmodified":1536613504,
+    "wof:lastmodified":1566669613,
     "wof:name":"Gamtha",
     "wof:parent_id":1092048339,
     "wof:placetype":"locality",

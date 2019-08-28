@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.5036,26.85363,85.5436,26.89363",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Motipur"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1259631519,
-    "wof:lastmodified":1564117355,
+    "wof:lastmodified":1566670834,
     "wof:name":"Motipur",
     "wof:parent_id":1092049639,
     "wof:placetype":"locality",

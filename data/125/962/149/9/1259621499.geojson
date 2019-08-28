@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.01605,27.02298,85.05605,27.06298",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Maheshpur"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1259621499,
-    "wof:lastmodified":1564117347,
+    "wof:lastmodified":1566670829,
     "wof:name":"Maheshpur",
     "wof:parent_id":1092048051,
     "wof:placetype":"locality",

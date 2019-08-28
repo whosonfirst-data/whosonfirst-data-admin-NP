@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.48574,28.5456,82.52574,28.5856",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310433415,
-    "wof:lastmodified":1537020158,
+    "wof:lastmodified":1566669345,
     "wof:name":"Dumaigaun",
     "wof:parent_id":1092049495,
     "wof:placetype":"locality",

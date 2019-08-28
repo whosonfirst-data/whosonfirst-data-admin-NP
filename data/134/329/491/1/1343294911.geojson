@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.66676,28.85912,81.70676,28.89912",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bada Khola"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1343294911,
-    "wof:lastmodified":1564108671,
+    "wof:lastmodified":1566665372,
     "wof:name":"Bada Khola",
     "wof:parent_id":1092050583,
     "wof:placetype":"locality",

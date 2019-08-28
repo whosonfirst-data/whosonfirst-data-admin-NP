@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"82.70325,27.99242,82.74325,28.03242",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mai_x_preferred":[
         "\u092e\u0930\u094d\u0915\u093e\u0935\u093e\u0919"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1276153741,
-    "wof:lastmodified":1564111002,
+    "wof:lastmodified":1566667076,
     "wof:name":"Markabang",
     "wof:parent_id":1092049377,
     "wof:placetype":"locality",

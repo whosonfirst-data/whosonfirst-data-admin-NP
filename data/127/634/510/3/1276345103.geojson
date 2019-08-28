@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.19638,27.70769,85.23638,27.74769",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Geir\u0101b\u0101ri\u0307\u0304",
         "Geir\u0101b\u0101r\u012b"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1276345103,
-    "wof:lastmodified":1537676076,
+    "wof:lastmodified":1566666785,
     "wof:name":"Geirabari",
     "wof:parent_id":1092050661,
     "wof:placetype":"locality",

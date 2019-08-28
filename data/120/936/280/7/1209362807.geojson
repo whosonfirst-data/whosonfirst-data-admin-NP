@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.26823,27.44369,86.30823,27.48369",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7975590
     },
     "wof:country":"NP",
-    "wof:geomhash":"fb66d74a8cbf6118af61f6c716f90a3d",
+    "wof:geomhash":"1a5fd47ccc8b097fe8aaa14b7b47b128",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209362807,
-    "wof:lastmodified":1536289369,
+    "wof:lastmodified":1566667402,
     "wof:name":"Gairagaun",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     86.28823,
-    27.463690000000003,
+    27.46369,
     86.28823,
-    27.463690000000003
+    27.46369
 ],
   "geometry": {"coordinates":[86.28823,27.46369],"type":"Point"}
 }

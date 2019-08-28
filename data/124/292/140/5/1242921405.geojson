@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.85602,26.62696,86.89602,26.66696",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1242921405,
-    "wof:lastmodified":1537062779,
+    "wof:lastmodified":1566670210,
     "wof:name":"Nayantol Gorpar",
     "wof:parent_id":1092048485,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.16824,27.91505,83.20824,27.95505",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0905\u0921\u0917\u0941\u0930\u0940"
     ],
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":1226380177,
-    "wof:lastmodified":1564119304,
+    "wof:lastmodified":1566672003,
     "wof:name":"Adguri",
     "wof:parent_id":1092049537,
     "wof:placetype":"locality",

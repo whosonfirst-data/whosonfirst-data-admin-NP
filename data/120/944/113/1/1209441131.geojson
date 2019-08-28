@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.21351,29.47814,81.25351,29.51814",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7991428
     },
     "wof:country":"NP",
-    "wof:geomhash":"3f5e45993f0ca703bfcc234ab9c1c452",
+    "wof:geomhash":"03edf1b79464b02b4e30a6dcbf0be225",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209441131,
-    "wof:lastmodified":1536286957,
+    "wof:lastmodified":1566668127,
     "wof:name":"Dad",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     81.23351,
-    29.498140000000006,
+    29.49814000000001,
     81.23351,
-    29.498140000000006
+    29.49814000000001
 ],
   "geometry": {"coordinates":[81.23351,29.49814000000001],"type":"Point"}
 }

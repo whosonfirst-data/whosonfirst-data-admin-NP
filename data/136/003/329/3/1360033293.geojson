@@ -24,8 +24,12 @@
     "gn:population":8767,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.79667,27.93,86.83667,27.97",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lobujya"
     ],
@@ -42,9 +46,7 @@
         "\u0b87\u0bb2\u0baa\u0bcb\u0b9a\u0bcd\u0b9a\u0bc7"
     ],
     "name:und_x_variant":[
-        "Lobuche",
-        "Lobuje",
-        "Lobujya"
+        "Lobuje"
     ],
     "name:zho_x_preferred":[
         "\u7f85\u5e03\u5d0e"
@@ -82,7 +84,7 @@
         }
     ],
     "wof:id":1360033293,
-    "wof:lastmodified":1564115567,
+    "wof:lastmodified":1566669726,
     "wof:name":"Lobujya",
     "wof:parent_id":1092049841,
     "wof:placetype":"locality",

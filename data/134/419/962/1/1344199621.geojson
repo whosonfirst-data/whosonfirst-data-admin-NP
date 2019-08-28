@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.61926,27.52592,85.65926,27.56592",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u0916\u0928\u093e\u0932\u0925\u094b\u0915"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1344199621,
-    "wof:lastmodified":1564108467,
+    "wof:lastmodified":1566665215,
     "wof:name":"Khanalthok",
     "wof:parent_id":1092048887,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.85234,26.84169,86.89234,26.88169",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u099a\u09a3\u09cd\u09a1\u09c0"
     ],
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":1326667729,
-    "wof:lastmodified":1564106459,
+    "wof:lastmodified":1566663733,
     "wof:name":"Chandi",
     "wof:parent_id":1092050179,
     "wof:placetype":"locality",

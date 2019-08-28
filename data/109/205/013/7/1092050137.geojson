@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":27.19129,
     "lbl:longitude":87.561208,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"KOSHI",
     "meso:diss_me":"TerhathumKOSHI",
     "meso:gadm_admin":"Terhathum",
@@ -34,6 +36,7 @@
     "mps:longitude":87.561208,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09a4\u09c7\u09b0\u09a5\u09c1\u09ae \u099c\u09c7\u09b2\u09be"
     ],
@@ -132,9 +135,9 @@
         "\u8fea\u83ef\u6c39\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-22",
+    "src:population_date":"2011-06-22",
     "statoids:area_km":"679.0",
     "statoids:as_of_date":"2011-06-22",
     "statoids:capital":"Terhathum",
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":1092050137,
-    "wof:lastmodified":1563242372,
+    "wof:lastmodified":1566669768,
     "wof:name":"Terhathum",
     "wof:parent_id":-1,
     "wof:placetype":"county",

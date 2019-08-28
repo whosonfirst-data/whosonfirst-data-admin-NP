@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.41992,26.84938,86.45992,26.88938",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226581397,
-    "wof:lastmodified":1536948993,
+    "wof:lastmodified":1566671469,
     "wof:name":"Jamuntar",
     "wof:parent_id":1092050497,
     "wof:placetype":"locality",

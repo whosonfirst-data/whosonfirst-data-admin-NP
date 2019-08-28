@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":27.251616,
     "lbl:longitude":84.823475,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"NARAYANI",
     "meso:diss_me":"ParsaNARAYANI",
     "meso:gadm_admin":"Parsa",
@@ -34,6 +36,7 @@
     "mps:longitude":84.823475,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0627\u0631\u0633\u0627"
     ],
@@ -128,9 +131,9 @@
         "Parsa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-06-22",
+    "src:population_date":"2011-06-22",
     "statoids:area_km":"1,353.0",
     "statoids:as_of_date":"2011-06-22",
     "statoids:capital":"Birganj",
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":1092050453,
-    "wof:lastmodified":1563242375,
+    "wof:lastmodified":1566669769,
     "wof:name":"Parsa",
     "wof:parent_id":-1,
     "wof:placetype":"county",

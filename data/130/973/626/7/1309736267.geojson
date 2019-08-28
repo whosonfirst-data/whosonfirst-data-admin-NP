@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"80.85721,28.99694,80.89721,29.03694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1309736267,
-    "wof:lastmodified":1537030153,
+    "wof:lastmodified":1566669935,
     "wof:name":"Khakarkanda",
     "wof:parent_id":1092048653,
     "wof:placetype":"locality",

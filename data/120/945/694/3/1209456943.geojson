@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.6405,26.74889,87.6805,26.78889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7971163
     },
     "wof:country":"NP",
-    "wof:geomhash":"6f7ca88bda2a7544ad893e6522a49afb",
+    "wof:geomhash":"046f5d1dc180b5943e337b9681c550ed",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209456943,
-    "wof:lastmodified":1536286504,
+    "wof:lastmodified":1566668069,
     "wof:name":"Rachana",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     87.6605,
-    26.768890000000006,
+    26.76889000000001,
     87.6605,
-    26.768890000000006
+    26.76889000000001
 ],
   "geometry": {"coordinates":[87.6605,26.76889000000001],"type":"Point"}
 }

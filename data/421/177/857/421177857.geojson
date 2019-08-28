@@ -10,8 +10,12 @@
     "geom:latitude":27.85628,
     "geom:longitude":84.56437,
     "iso:country":"NP",
+    "lbl:bbox":"84.54437,27.83628,84.58437,27.87628",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"NP",
     "qs:gn_fcode":"PPLL",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":7934400,
         "gp:id":2269077,
-        "qs:id":1354496
+        "qs_pg:id":1354496
     },
     "wof:country":"NP",
     "wof:created":1459009162,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":421177857,
-    "wof:lastmodified":1500058089,
+    "wof:lastmodified":1566669994,
     "wof:name":"Mugling",
     "wof:parent_id":1092050101,
     "wof:placetype":"locality",

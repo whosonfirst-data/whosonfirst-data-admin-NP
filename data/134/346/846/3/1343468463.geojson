@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.91231,26.71576,86.95231,26.75576",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Fattepur"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1343468463,
-    "wof:lastmodified":1564107891,
+    "wof:lastmodified":1566664797,
     "wof:name":"Phattepur",
     "wof:parent_id":1092048485,
     "wof:placetype":"locality",

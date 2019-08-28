@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"83.40512,27.52544,83.44512,27.56544",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259631157,
-    "wof:lastmodified":1536645520,
+    "wof:lastmodified":1566670843,
     "wof:name":"Manoharapur",
     "wof:parent_id":1092048457,
     "wof:placetype":"locality",

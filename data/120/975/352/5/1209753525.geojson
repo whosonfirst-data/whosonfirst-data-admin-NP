@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"86.09734,27.53282,86.13734,27.57282",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Okharbot"
     ],
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":1209753525,
-    "wof:lastmodified":1564112846,
+    "wof:lastmodified":1566668134,
     "wof:name":"Okharbot",
     "wof:parent_id":1092050535,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"87.13808,26.59394,87.17808,26.63394",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7997899
     },
     "wof:country":"NP",
-    "wof:geomhash":"862f72614c4032117fa484b54ed6786d",
+    "wof:geomhash":"d4b112fe5569a27c155c1bdae10783e0",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209452741,
-    "wof:lastmodified":1536286625,
+    "wof:lastmodified":1566668062,
     "wof:name":"Dandatol",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     87.15808,
-    26.613940000000003,
+    26.61394,
     87.15808,
-    26.613940000000003
+    26.61394
 ],
   "geometry": {"coordinates":[87.15808,26.61394],"type":"Point"}
 }

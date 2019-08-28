@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.01866,29.51708,81.05866,29.55708",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1209947433,
-    "wof:lastmodified":1536385726,
+    "wof:lastmodified":1566667958,
     "wof:name":"Riu",
     "wof:parent_id":1092048571,
     "wof:placetype":"locality",

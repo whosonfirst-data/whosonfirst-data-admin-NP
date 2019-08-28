@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"85.85549,26.59329,85.89549,26.63329",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -37,7 +41,7 @@
         "gn:id":7944149
     },
     "wof:country":"NP",
-    "wof:geomhash":"8cf28a4449d488f6ff7373a6b230d593",
+    "wof:geomhash":"8de5703433870dc44cd7d626883a7d4d",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209563539,
-    "wof:lastmodified":1536283316,
+    "wof:lastmodified":1566667962,
     "wof:name":"Jamindartol",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     85.87549,
-    26.613290000000006,
+    26.61329000000001,
     85.87549,
-    26.613290000000006
+    26.61329000000001
 ],
   "geometry": {"coordinates":[85.87549,26.61329000000001],"type":"Point"}
 }

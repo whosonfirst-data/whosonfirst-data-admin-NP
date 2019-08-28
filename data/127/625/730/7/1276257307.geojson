@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
+    "lbl:bbox":"81.13001,29.41238,81.17001,29.45238",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276257307,
-    "wof:lastmodified":1536879796,
+    "wof:lastmodified":1566667005,
     "wof:name":"Meltadi",
     "wof:parent_id":1092048571,
     "wof:placetype":"locality",
