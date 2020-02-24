@@ -80,6 +80,9 @@
     },
     "wof:country":"NP",
     "wof:created":1459009523,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"693bd264ac80b63784c750606fcbd51b",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421187749,
-    "wof:lastmodified":1566669987,
+    "wof:lastmodified":1582315484,
     "wof:name":"Kaski",
     "wof:parent_id":1092049331,
     "wof:placetype":"localadmin",

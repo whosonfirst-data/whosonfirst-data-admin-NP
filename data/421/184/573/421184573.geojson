@@ -154,6 +154,9 @@
     },
     "wof:country":"NP",
     "wof:created":1459009415,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a3dbcf78507f27027ee4a00cd3729f61",
     "wof:hierarchy":[
         {
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":421184573,
-    "wof:lastmodified":1566669992,
+    "wof:lastmodified":1582315485,
     "wof:name":"Parbat",
     "wof:parent_id":1092049089,
     "wof:placetype":"localadmin",
