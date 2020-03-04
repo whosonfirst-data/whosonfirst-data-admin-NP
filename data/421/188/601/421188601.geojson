@@ -157,6 +157,9 @@
     },
     "wof:country":"NP",
     "wof:created":1459009570,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e94728f6ccd4b3d52e53de32b340519b",
     "wof:hierarchy":[
         {
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":421188601,
-    "wof:lastmodified":1566669988,
+    "wof:lastmodified":1582315484,
     "wof:name":"Mustang",
     "wof:parent_id":1092048365,
     "wof:placetype":"localadmin",

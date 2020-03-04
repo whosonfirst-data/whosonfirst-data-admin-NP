@@ -991,6 +991,11 @@
     },
     "wof:country":"NP",
     "wof:country_alpha3":"NPL",
+    "wof:geom_alt":[
+        "meso",
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"fd3572c6dd735aed0e110830f1166e30",
     "wof:hierarchy":[
         {
@@ -1005,7 +1010,7 @@
     "wof:lang_x_spoken":[
         "nep"
     ],
-    "wof:lastmodified":1566665529,
+    "wof:lastmodified":1582315407,
     "wof:name":"Nepal",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
