@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":13.604521,
-    "geom:area_square_m":148155174086.813019,
+    "geom:area_square_m":148155173971.803619,
     "geom:bbox":"80.052222,26.347779,88.199298,30.446945",
     "geom:latitude":28.257628,
     "geom:longitude":83.943041,
@@ -61,6 +61,9 @@
     "name:arg_x_preferred":[
         "Nepal"
     ],
+    "name:ary_x_preferred":[
+        "\u0646\u064a\u067e\u0627\u0644"
+    ],
     "name:arz_x_preferred":[
         "\u0646\u064a\u0628\u0627\u0644"
     ],
@@ -81,6 +84,9 @@
     ],
     "name:bam_x_preferred":[
         "Nepali"
+    ],
+    "name:ban_x_preferred":[
+        "N\u00e9pal"
     ],
     "name:bar_x_preferred":[
         "Nepal"
@@ -166,6 +172,9 @@
     "name:dan_x_preferred":[
         "Nepal"
     ],
+    "name:deu_ch_x_preferred":[
+        "Nepal"
+    ],
     "name:deu_x_preferred":[
         "Nepal"
     ],
@@ -189,6 +198,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039d\u03b5\u03c0\u03ac\u03bb"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Nepal"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Nepal"
     ],
     "name:eng_x_preferred":[
         "Nepal"
@@ -252,6 +267,9 @@
     ],
     "name:gag_x_preferred":[
         "Nepal"
+    ],
+    "name:gcr_x_preferred":[
+        "N\u00e9pal"
     ],
     "name:ger_x_colloquial":[
         "Koenigreich Nepal",
@@ -492,6 +510,9 @@
     "name:mhr_x_preferred":[
         "\u041d\u0435\u043f\u0430\u043b"
     ],
+    "name:min_x_preferred":[
+        "Nepal"
+    ],
     "name:mkd_x_preferred":[
         "\u041d\u0435\u043f\u0430\u043b"
     ],
@@ -507,6 +528,9 @@
     "name:mon_x_preferred":[
         "\u0411\u0430\u043b\u0431\u0430"
     ],
+    "name:mri_x_preferred":[
+        "Nep\u014dra"
+    ],
     "name:msa_x_preferred":[
         "Nepal"
     ],
@@ -518,6 +542,9 @@
     ],
     "name:mya_x_variant":[
         "\u1014\u102e\u1015\u1031\u102b"
+    ],
+    "name:myv_x_preferred":[
+        "\u041d\u0435\u043f\u0430\u043b \u041c\u0430\u0441\u0442\u043e\u0440"
     ],
     "name:mzn_x_preferred":[
         "\u0646\u067e\u0627\u0644"
@@ -614,6 +641,9 @@
     "name:pol_x_preferred":[
         "Nepal"
     ],
+    "name:por_br_x_preferred":[
+        "Nepal"
+    ],
     "name:por_x_preferred":[
         "Nepal"
     ],
@@ -701,6 +731,15 @@
     "name:sqi_x_preferred":[
         "Nepali"
     ],
+    "name:srd_x_preferred":[
+        "Nepal"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u041d\u0435\u043f\u0430\u043b"
+    ],
+    "name:srp_el_x_preferred":[
+        "Nepal"
+    ],
     "name:srp_x_preferred":[
         "\u041d\u0435\u043f\u0430\u043b"
     ],
@@ -723,6 +762,9 @@
         "Nepal"
     ],
     "name:szl_x_preferred":[
+        "Nepal"
+    ],
+    "name:szy_x_preferred":[
         "Nepal"
     ],
     "name:tam_x_preferred":[
@@ -843,8 +885,20 @@
     "name:zha_x_preferred":[
         "Nepal"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u5c3c\u6cca\u5c14"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5c3c\u6cca\u723e"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Nepal"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u5c3c\u6cca\u5c14"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5c3c\u6cca\u723e"
     ],
     "name:zho_x_preferred":[
         "\u5c3c\u6cca\u5c14"
@@ -1011,7 +1065,7 @@
     "wof:lang_x_spoken":[
         "nep"
     ],
-    "wof:lastmodified":1583797407,
+    "wof:lastmodified":1587429070,
     "wof:name":"Nepal",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
