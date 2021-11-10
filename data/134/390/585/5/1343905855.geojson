@@ -47,10 +47,19 @@
     "name:deu_x_preferred":[
         "Lampang"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0645\u067e\u0627\u0646\u06af"
+    ],
     "name:fin_x_preferred":[
         "Lampang"
     ],
     "name:fra_x_preferred":[
+        "Lampang"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05de\u05e4\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
         "Lampang"
     ],
     "name:ita_x_preferred":[
@@ -126,7 +135,7 @@
         }
     ],
     "wof:id":1343905855,
-    "wof:lastmodified":1566664681,
+    "wof:lastmodified":1636494903,
     "wof:name":"Lampang",
     "wof:parent_id":1092050939,
     "wof:placetype":"locality",

@@ -29,8 +29,14 @@
     "name:fra_x_preferred":[
         "Bhojpur"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d2'\u05e4\u05d5\u05e8"
+    ],
     "name:hin_x_preferred":[
         "\u092d\u094b\u091c\u092a\u0941\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Bhojpur"
     ],
     "name:nld_x_preferred":[
         "Bhojpur"
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421181951,
-    "wof:lastmodified":1566669989,
+    "wof:lastmodified":1636494951,
     "wof:name":"Bhojpur",
     "wof:parent_id":1092050297,
     "wof:placetype":"locality",

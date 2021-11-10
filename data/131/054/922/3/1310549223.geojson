@@ -35,6 +35,15 @@
     "name:ceb_x_preferred":[
         "Maradi"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0631\u0627\u062f\u06cc"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05d4\u05d5\u05d0\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Maradi"
+    ],
     "name:kor_x_preferred":[
         "\ub9c8\ub77c\ub514"
     ],
@@ -57,7 +66,7 @@
         "gn:id":7973139
     },
     "wof:country":"NP",
-    "wof:geomhash":"a0651556be96a09ee543ebb8e310681a",
+    "wof:geomhash":"14fe71e38bce5c21d8eea4aec596e821",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,7 +84,7 @@
         }
     ],
     "wof:id":1310549223,
-    "wof:lastmodified":1566669179,
+    "wof:lastmodified":1636494942,
     "wof:name":"Maradi",
     "wof:parent_id":1092050413,
     "wof:placetype":"locality",
@@ -85,10 +94,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    84.10401999999998,
+    84.10402,
     27.83414,
-    84.10401999999998,
+    84.10402,
     27.83414
 ],
-  "geometry": {"coordinates":[84.10401999999998,27.83414],"type":"Point"}
+  "geometry": {"coordinates":[84.10402000000001,27.83414],"type":"Point"}
 }

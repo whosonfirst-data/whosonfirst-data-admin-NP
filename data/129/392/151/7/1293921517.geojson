@@ -35,8 +35,14 @@
     "name:fra_x_preferred":[
         "Janakpur"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05e0\u05d0\u05e7\u05e4\u05d5\u05e8"
+    ],
     "name:hin_x_preferred":[
         "\u091c\u0928\u0915\u092a\u0941\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Janakpur"
     ],
     "name:nep_x_preferred":[
         "\u091c\u0928\u0915\u092a\u0941\u0930\u0927\u093e\u092e"
@@ -66,7 +72,7 @@
         "gn:id":7934732
     },
     "wof:country":"NP",
-    "wof:geomhash":"152c5f6aad017a72e6b8a60815113c7b",
+    "wof:geomhash":"e727118d4ad42fa41e48e9e4e2cc16df",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1293921517,
-    "wof:lastmodified":1566666124,
+    "wof:lastmodified":1636494913,
     "wof:name":"Janakpur",
     "wof:parent_id":1092050101,
     "wof:placetype":"locality",
@@ -94,10 +100,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    84.55781999999998,
+    84.55782,
     27.56697,
-    84.55781999999998,
+    84.55782,
     27.56697
 ],
-  "geometry": {"coordinates":[84.55781999999998,27.56697],"type":"Point"}
+  "geometry": {"coordinates":[84.55782000000001,27.56697],"type":"Point"}
 }

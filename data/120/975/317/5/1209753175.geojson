@@ -71,6 +71,12 @@
     "name:heb_x_preferred":[
         "\u05e0\u05e8\u05d0\u05d9\u05e0\u05d2\u05e0\u05d2'"
     ],
+    "name:hin_x_preferred":[
+        "\u0928\u093e\u0930\u093e\u092f\u0923\u0917\u0902\u091c"
+    ],
+    "name:hun_x_preferred":[
+        "Narayanganj"
+    ],
     "name:ind_x_preferred":[
         "Narayanganj"
     ],
@@ -125,6 +131,9 @@
     "name:tur_x_preferred":[
         "Narayanganj"
     ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0440\u0430\u044f\u043d\u0433\u0430\u043d\u0434\u0436"
+    ],
     "name:urd_x_preferred":[
         "\u0646\u0627\u0631\u0627\u0626\u0646 \u06af\u0646\u062c"
     ],
@@ -150,7 +159,7 @@
         "gn:id":7953952
     },
     "wof:country":"NP",
-    "wof:geomhash":"a4d3423e782d6400656b2e036177bef9",
+    "wof:geomhash":"57cefbda72f73303f0989e1fe8071813",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -168,7 +177,7 @@
         }
     ],
     "wof:id":1209753175,
-    "wof:lastmodified":1566668155,
+    "wof:lastmodified":1636494933,
     "wof:name":"Narayanganj",
     "wof:parent_id":1092050367,
     "wof:placetype":"locality",
@@ -178,10 +187,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    88.15999000000002,
+    88.15999,
     26.76146,
-    88.15999000000002,
+    88.15999,
     26.76146
 ],
-  "geometry": {"coordinates":[88.15999000000002,26.76146],"type":"Point"}
+  "geometry": {"coordinates":[88.15998999999999,26.76146],"type":"Point"}
 }

@@ -32,7 +32,31 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09b2\u09c1\u09ae"
+    ],
     "name:deu_x_preferred":[
+        "Salum"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093e\u0932\u092e"
+    ],
+    "name:hun_x_preferred":[
+        "Salum"
+    ],
+    "name:ind_x_preferred":[
+        "Salum"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b4\ub8f8"
+    ],
+    "name:tur_x_preferred":[
+        "Salum"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0644\u0648\u0645"
+    ],
+    "name:vie_x_preferred":[
         "Salum"
     ],
     "src:geom":"geonames",
@@ -66,7 +90,7 @@
         }
     ],
     "wof:id":1226791267,
-    "wof:lastmodified":1566671824,
+    "wof:lastmodified":1636494969,
     "wof:name":"Salum",
     "wof:parent_id":1092049207,
     "wof:placetype":"locality",

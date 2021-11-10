@@ -111,7 +111,22 @@
         "Dan"
     ],
     "name:ukr_x_preferred":[
+        "\u0414\u0435\u043d"
+    ],
+    "name:ukr_x_variant":[
         "\u0414\u0430\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u06cc\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Dan"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u4e39\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u9054\u6069\u6cb3"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -144,7 +159,7 @@
         }
     ],
     "wof:id":1276452833,
-    "wof:lastmodified":1566666670,
+    "wof:lastmodified":1636494916,
     "wof:name":"Dan",
     "wof:parent_id":1092049133,
     "wof:placetype":"locality",

@@ -75,6 +75,9 @@
         "\u0645\u0648\u0644\u0646\u06af"
     ],
     "name:vie_x_preferred":[
+        "S\u00f4ng M\u1ee5c L\u0103ng"
+    ],
+    "name:vie_x_variant":[
         "M\u1ee5c L\u0103ng"
     ],
     "name:zho_x_preferred":[
@@ -93,7 +96,7 @@
         "gn:id":7934691
     },
     "wof:country":"NP",
-    "wof:geomhash":"db2d971ce9c261a55e8099f6ea5c7ea0",
+    "wof:geomhash":"23c06ae25efa37027aa90ee144c37dfb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1327272063,
-    "wof:lastmodified":1566664440,
+    "wof:lastmodified":1636494901,
     "wof:name":"Muling",
     "wof:parent_id":1092050101,
     "wof:placetype":"locality",
@@ -121,10 +124,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    84.69745999999998,
+    84.69746,
     27.68505,
-    84.69745999999998,
+    84.69746,
     27.68505
 ],
-  "geometry": {"coordinates":[84.69745999999998,27.68505],"type":"Point"}
+  "geometry": {"coordinates":[84.69746000000001,27.68505],"type":"Point"}
 }

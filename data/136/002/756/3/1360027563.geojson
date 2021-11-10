@@ -48,6 +48,9 @@
         "Ghat"
     ],
     "name:heb_x_preferred":[
+        "\u05d2\u05d0\u05d8"
+    ],
+    "name:heb_x_variant":[
         "\u05d2\u05d4\u05d0\u05d8"
     ],
     "name:hin_x_preferred":[
@@ -108,7 +111,7 @@
         "gn:id":7993641
     },
     "wof:country":"NP",
-    "wof:geomhash":"3abfc99368e99bc8c528001524592f2c",
+    "wof:geomhash":"fb8ba59c849b22f44c122a85115e6ad4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":1360027563,
-    "wof:lastmodified":1566669746,
+    "wof:lastmodified":1636494949,
     "wof:name":"Ghat",
     "wof:parent_id":1092049679,
     "wof:placetype":"locality",
@@ -136,10 +139,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    85.77578000000003,
+    85.77578,
     27.24675,
-    85.77578000000003,
+    85.77578,
     27.24675
 ],
-  "geometry": {"coordinates":[85.77578000000003,27.24675],"type":"Point"}
+  "geometry": {"coordinates":[85.77578,27.24675],"type":"Point"}
 }

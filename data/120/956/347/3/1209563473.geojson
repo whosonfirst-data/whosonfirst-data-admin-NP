@@ -62,11 +62,17 @@
     "name:fra_x_preferred":[
         "Dhule"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05dc\u05d4"
+    ],
     "name:hif_x_preferred":[
         "Dhule"
     ],
     "name:hin_x_preferred":[
         "\u0927\u0941\u0932\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Dhule"
     ],
     "name:ita_x_preferred":[
         "Dhule"
@@ -137,7 +143,7 @@
         "gn:id":7981035
     },
     "wof:country":"NP",
-    "wof:geomhash":"84a9487d55a4a179f99ec350ee538636",
+    "wof:geomhash":"db48d76f909b701cc4106223da951c6e",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":1209563473,
-    "wof:lastmodified":1566667966,
+    "wof:lastmodified":1636494929,
     "wof:name":"Dhule",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
@@ -155,10 +161,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    85.97910999999998,
+    85.97911,
     27.4396,
-    85.97910999999998,
+    85.97911,
     27.4396
 ],
-  "geometry": {"coordinates":[85.97910999999998,27.4396],"type":"Point"}
+  "geometry": {"coordinates":[85.97911000000001,27.4396],"type":"Point"}
 }

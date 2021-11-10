@@ -62,11 +62,17 @@
     "name:fra_x_preferred":[
         "Dhule"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05dc\u05d4"
+    ],
     "name:hif_x_preferred":[
         "Dhule"
     ],
     "name:hin_x_preferred":[
         "\u0927\u0941\u0932\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Dhule"
     ],
     "name:ita_x_preferred":[
         "Dhule"
@@ -159,7 +165,7 @@
         }
     ],
     "wof:id":1226180357,
-    "wof:lastmodified":1566671344,
+    "wof:lastmodified":1636494964,
     "wof:name":"Dhule",
     "wof:parent_id":1092049755,
     "wof:placetype":"locality",

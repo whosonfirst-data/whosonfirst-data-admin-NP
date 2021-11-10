@@ -56,6 +56,12 @@
     "name:glg_x_preferred":[
         "Loxa"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05d2'\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u094b\u091c\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Loja"
     ],
@@ -111,7 +117,7 @@
         "gn:id":7968630
     },
     "wof:country":"NP",
-    "wof:geomhash":"76b0b52d240a3ad61159f34899ffd6dd",
+    "wof:geomhash":"f01cc0e9efd0d5013382c78d8cbb7688",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -129,7 +135,7 @@
         }
     ],
     "wof:id":1225886617,
-    "wof:lastmodified":1566671590,
+    "wof:lastmodified":1636494968,
     "wof:name":"Loja",
     "wof:parent_id":1092049017,
     "wof:placetype":"locality",
@@ -139,10 +145,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    84.84983000000003,
+    84.84983,
     27.68057,
-    84.84983000000003,
+    84.84983,
     27.68057
 ],
-  "geometry": {"coordinates":[84.84983000000003,27.68057],"type":"Point"}
+  "geometry": {"coordinates":[84.84983,27.68057],"type":"Point"}
 }

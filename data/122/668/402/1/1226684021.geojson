@@ -56,6 +56,9 @@
     "name:fra_x_preferred":[
         "Sibu"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05d1\u05d5"
+    ],
     "name:ind_x_preferred":[
         "Sibu"
     ],
@@ -117,7 +120,7 @@
         "gn:id":8005169
     },
     "wof:country":"NP",
-    "wof:geomhash":"0cec35ea3f508990c17a8c4a8d399b6e",
+    "wof:geomhash":"47b952e22420285ba98a98dcd22bafef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":1226684021,
-    "wof:lastmodified":1566671556,
+    "wof:lastmodified":1636494967,
     "wof:name":"Sibu",
     "wof:parent_id":1092049813,
     "wof:placetype":"locality",
@@ -145,10 +148,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    87.68028000000002,
+    87.68028,
     27.46233,
-    87.68028000000002,
+    87.68028,
     27.46233
 ],
-  "geometry": {"coordinates":[87.68028000000002,27.46233],"type":"Point"}
+  "geometry": {"coordinates":[87.68028,27.46233],"type":"Point"}
 }

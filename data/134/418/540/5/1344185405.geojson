@@ -74,6 +74,9 @@
     "name:swe_x_preferred":[
         "Bali"
     ],
+    "name:tur_x_preferred":[
+        "Bali"
+    ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0644\u06cc"
     ],
@@ -96,7 +99,7 @@
         "gn:id":7980755
     },
     "wof:country":"NP",
-    "wof:geomhash":"77a6d69f8e0d5bfb89a76a08a975a772",
+    "wof:geomhash":"1d0f37bac1c47ff811dbb39102afc2ae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1344185405,
-    "wof:lastmodified":1566665345,
+    "wof:lastmodified":1636494908,
     "wof:name":"Bali",
     "wof:parent_id":1092050255,
     "wof:placetype":"locality",
@@ -124,10 +127,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    80.29954000000002,
+    80.29954,
     29.35864,
-    80.29954000000002,
+    80.29954,
     29.35864
 ],
-  "geometry": {"coordinates":[80.29954000000002,29.35864],"type":"Point"}
+  "geometry": {"coordinates":[80.29953999999999,29.35864],"type":"Point"}
 }

@@ -44,10 +44,19 @@
     "name:fra_x_preferred":[
         "Kandi"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e0\u05d3\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093e\u0902\u0921\u0940"
+    ],
     "name:hun_x_preferred":[
         "Kandi"
     ],
     "name:swe_x_preferred":[
+        "Kandi"
+    ],
+    "name:tur_x_preferred":[
         "Kandi"
     ],
     "src:geom":"geonames",
@@ -63,7 +72,7 @@
         "gn:id":7947196
     },
     "wof:country":"NP",
-    "wof:geomhash":"4b67e81022facde604b4a0f3f6209639",
+    "wof:geomhash":"7583b799f1b2704cd5ff35cf7e75ed5a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":1226069535,
-    "wof:lastmodified":1566671937,
+    "wof:lastmodified":1636494969,
     "wof:name":"Kandi",
     "wof:parent_id":1092048653,
     "wof:placetype":"locality",
@@ -91,10 +100,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    80.87541999999998,
+    80.87542,
     29.35765,
-    80.87541999999998,
+    80.87542,
     29.35765
 ],
-  "geometry": {"coordinates":[80.87541999999998,29.35765],"type":"Point"}
+  "geometry": {"coordinates":[80.87542000000001,29.35765],"type":"Point"}
 }

@@ -117,6 +117,9 @@
         "\u092a\u093e\u0932\u093f \u092d\u093e\u0937\u093e"
     ],
     "name:hun_x_preferred":[
+        "Pali"
+    ],
+    "name:hun_x_variant":[
         "P\u00e1li nyelv"
     ],
     "name:ind_x_preferred":[
@@ -285,7 +288,7 @@
         "gn:id":7973207
     },
     "wof:country":"NP",
-    "wof:geomhash":"7144078b8bd8b2531af298fa20bf25a2",
+    "wof:geomhash":"7009c9a7ad8d56e8f45b94ca04ca4017",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -303,7 +306,7 @@
         }
     ],
     "wof:id":1259821069,
-    "wof:lastmodified":1566670988,
+    "wof:lastmodified":1636494961,
     "wof:name":"Pali",
     "wof:parent_id":1092050413,
     "wof:placetype":"locality",
@@ -313,10 +316,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    83.66575999999998,
+    83.66576,
     27.47108,
-    83.66575999999998,
+    83.66576,
     27.47108
 ],
-  "geometry": {"coordinates":[83.66575999999998,27.47108],"type":"Point"}
+  "geometry": {"coordinates":[83.66576000000001,27.47108],"type":"Point"}
 }

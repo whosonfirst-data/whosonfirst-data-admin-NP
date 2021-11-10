@@ -38,6 +38,12 @@
     "name:fra_x_preferred":[
         "Sagarmatha"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05d2\u05d0\u05e8\u05de\u05d0\u05ea\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Sagarmatha"
+    ],
     "name:hye_x_preferred":[
         "\u054d\u0561\u0563\u0561\u0580\u0574\u0561\u057f\u056d\u0561"
     ],
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":1209954475,
-    "wof:lastmodified":1566667800,
+    "wof:lastmodified":1636494927,
     "wof:name":"Sagarmatha",
     "wof:parent_id":1092050367,
     "wof:placetype":"locality",

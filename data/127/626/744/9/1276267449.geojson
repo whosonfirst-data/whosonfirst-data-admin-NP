@@ -44,7 +44,16 @@
     "name:epo_x_preferred":[
         "Bharatpur"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0647\u0627\u0631\u0627\u062a \u067e\u0648\u0631"
+    ],
     "name:fra_x_preferred":[
+        "Bharatpur"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d7\u05d0\u05e8\u05d0\u05d8\u05e4\u05d5\u05e8"
+    ],
+    "name:hun_x_preferred":[
         "Bharatpur"
     ],
     "name:ita_x_preferred":[
@@ -90,7 +99,7 @@
         "gn:id":7987593
     },
     "wof:country":"NP",
-    "wof:geomhash":"d8aa455f31cb61a45e41de75fb4d3e84",
+    "wof:geomhash":"1875c639a2404b67bf11a940cb8a1ead",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,7 +117,7 @@
         }
     ],
     "wof:id":1276267449,
-    "wof:lastmodified":1566666665,
+    "wof:lastmodified":1636494916,
     "wof:name":"Bharatpur",
     "wof:parent_id":1092048457,
     "wof:placetype":"locality",
@@ -118,10 +127,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    83.29484000000002,
+    83.29484,
     27.41651,
-    83.29484000000002,
+    83.29484,
     27.41651
 ],
-  "geometry": {"coordinates":[83.29484000000002,27.41651],"type":"Point"}
+  "geometry": {"coordinates":[83.29483999999999,27.41651],"type":"Point"}
 }

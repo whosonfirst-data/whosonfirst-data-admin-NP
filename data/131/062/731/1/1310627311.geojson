@@ -38,7 +38,16 @@
     "name:deu_x_preferred":[
         "Rapti"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u067e\u062a\u06cc"
+    ],
     "name:fra_x_preferred":[
+        "Rapti"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d0\u05e4\u05d8\u05d9"
+    ],
+    "name:hun_x_preferred":[
         "Rapti"
     ],
     "name:nep_x_preferred":[
@@ -63,7 +72,7 @@
         "gn:id":7955965
     },
     "wof:country":"NP",
-    "wof:geomhash":"e780df2fa1fb6478db4ec8a9ae69529a",
+    "wof:geomhash":"c6e4ce348ca86645d15a0553edec3058",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":1310627311,
-    "wof:lastmodified":1566669154,
+    "wof:lastmodified":1636494942,
     "wof:name":"Rapti",
     "wof:parent_id":1092050797,
     "wof:placetype":"locality",
@@ -91,10 +100,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    81.87586999999998,
+    81.87587,
     29.23285,
-    81.87586999999998,
+    81.87587,
     29.23285
 ],
-  "geometry": {"coordinates":[81.87586999999998,29.23285],"type":"Point"}
+  "geometry": {"coordinates":[81.87587000000001,29.23285],"type":"Point"}
 }

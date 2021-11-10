@@ -35,8 +35,14 @@
     "name:bih_x_preferred":[
         "\u092a\u093e\u0932\u0940 \u0917\u093e\u0935\u093f\u0938"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05dc\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u092a\u0932\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Pali"
     ],
     "name:mai_x_preferred":[
         "\u092a\u093e\u0932\u0940 \u0917\u093e\u0935\u093f\u0938"
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1242625467,
-    "wof:lastmodified":1566670551,
+    "wof:lastmodified":1636494958,
     "wof:name":"Pali",
     "wof:parent_id":1092049537,
     "wof:placetype":"locality",

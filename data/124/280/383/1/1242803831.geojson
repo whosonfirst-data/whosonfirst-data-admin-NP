@@ -44,6 +44,9 @@
     "name:bel_x_preferred":[
         "\u0423\u0434\u0437\u0456\u043d\u044d"
     ],
+    "name:ben_x_preferred":[
+        "\u0987\u0989\u09a6\u09bf\u09a8"
+    ],
     "name:bre_x_preferred":[
         "Udine"
     ],
@@ -103,6 +106,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05d3\u05d9\u05e0\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092f\u0942\u0921\u0940\u0928"
     ],
     "name:hrv_x_preferred":[
         "Udine"
@@ -264,7 +270,7 @@
         "gn:id":7986611
     },
     "wof:country":"NP",
-    "wof:geomhash":"4e00c799dc1654348a85ba8839f8a570",
+    "wof:geomhash":"ac4ccb769fff3e21ae9e728aaa4ba826",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -282,7 +288,7 @@
         }
     ],
     "wof:id":1242803831,
-    "wof:lastmodified":1566670129,
+    "wof:lastmodified":1636494954,
     "wof:name":"Udine",
     "wof:parent_id":1092049495,
     "wof:placetype":"locality",
@@ -292,10 +298,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    82.52776999999998,
+    82.52777,
     28.77447,
-    82.52776999999998,
+    82.52777,
     28.77447
 ],
-  "geometry": {"coordinates":[82.52776999999998,28.77447],"type":"Point"}
+  "geometry": {"coordinates":[82.52777,28.77447],"type":"Point"}
 }

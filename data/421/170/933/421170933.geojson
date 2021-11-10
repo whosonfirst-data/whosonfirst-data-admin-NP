@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u0997\u09b2\u09c1\u0982"
+    ],
     "name:bpy_x_preferred":[
         "\u09ac\u09be\u0997\u09cd\u09b2\u09c1\u0999"
     ],
@@ -26,8 +29,14 @@
     "name:deu_x_preferred":[
         "Baglung"
     ],
+    "name:ell_x_preferred":[
+        "\u0392\u03ac\u03b3\u03ba\u03bb\u03bf\u03c5\u03bd\u03b3\u03ba"
+    ],
     "name:eus_x_preferred":[
         "Baglung"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u06af\u0644\u0627\u0646\u06af"
     ],
     "name:fin_x_preferred":[
         "Baglung"
@@ -35,8 +44,20 @@
     "name:fra_x_preferred":[
         "Baglung"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05dc\u05d2\u05d5\u05e0\u05d2"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u093e\u0917\u0932\u0941\u0919"
+    ],
+    "name:hun_x_preferred":[
+        "Baglung"
+    ],
+    "name:ind_x_preferred":[
+        "Baglung"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\uadf8\ub8fd"
     ],
     "name:nep_x_preferred":[
         "\u092c\u093e\u0917\u0932\u0941\u0919 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
@@ -53,8 +74,23 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u0433\u043b\u0443\u043d\u0433"
     ],
+    "name:spa_x_preferred":[
+        "Baglung"
+    ],
+    "name:swe_x_preferred":[
+        "Baglung"
+    ],
+    "name:tur_x_preferred":[
+        "Baglung"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0433\u043b\u0443\u043d\u0433"
+    ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u06af\u0644\u0646\u06af"
+    ],
+    "name:vie_x_preferred":[
+        "Baglung"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u683c\u9686"
@@ -118,7 +154,7 @@
         }
     ],
     "wof:id":421170933,
-    "wof:lastmodified":1582315485,
+    "wof:lastmodified":1636494951,
     "wof:name":"Baglung",
     "wof:parent_id":1092049257,
     "wof:placetype":"localadmin",

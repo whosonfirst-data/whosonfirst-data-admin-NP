@@ -38,19 +38,40 @@
     "name:als_x_preferred":[
         "Lek"
     ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09c7\u0995"
+    ],
     "name:ceb_x_preferred":[
         "Lek"
     ],
     "name:deu_x_preferred":[
         "Lek"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03ba"
+    ],
     "name:epo_x_preferred":[
         "Lek"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06a9"
     ],
     "name:fra_x_preferred":[
         "Lek"
     ],
     "name:fry_x_preferred":[
+        "Lek"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0947\u0915"
+    ],
+    "name:hun_x_preferred":[
+        "Lek"
+    ],
+    "name:ind_x_preferred":[
         "Lek"
     ],
     "name:kir_x_preferred":[
@@ -74,14 +95,24 @@
     "name:spa_x_preferred":[
         "Lek"
     ],
+    "name:spa_x_variant":[],
     "name:swe_x_preferred":[
+        "Lek"
+    ],
+    "name:tur_x_preferred":[
         "Lek"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0435\u043a"
     ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u06a9"
+    ],
     "name:uzb_x_preferred":[
         "Lek"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Lek"
     ],
     "name:vls_x_preferred":[
         "Lek"
@@ -99,7 +130,7 @@
         "gn:id":7935934
     },
     "wof:country":"NP",
-    "wof:geomhash":"1b42b420088a3bb69bb61cd1eaeb1a08",
+    "wof:geomhash":"3d9ad4120c2fb68218f2b208edc24ad5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -117,7 +148,7 @@
         }
     ],
     "wof:id":1242705945,
-    "wof:lastmodified":1566670465,
+    "wof:lastmodified":1636494957,
     "wof:name":"Lek",
     "wof:parent_id":1092048697,
     "wof:placetype":"locality",
@@ -128,9 +159,9 @@
 },
   "bbox": [
     80.47916,
-    29.17194000000001,
+    29.17194,
     80.47916,
-    29.17194000000001
+    29.17194
 ],
-  "geometry": {"coordinates":[80.47915999999999,29.17194000000001],"type":"Point"}
+  "geometry": {"coordinates":[80.47915999999999,29.17194],"type":"Point"}
 }

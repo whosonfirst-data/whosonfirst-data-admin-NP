@@ -32,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09aa\u09be\u09b2\u09be"
+    ],
     "name:cat_x_preferred":[
         "Pala"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:deu_x_preferred":[
         "Pala"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03ac\u03bb\u03b1"
     ],
     "name:est_x_preferred":[
         "Pala"
@@ -56,6 +62,9 @@
     "name:glg_x_preferred":[
         "Pala"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05dc\u05d4"
+    ],
     "name:hrv_x_preferred":[
         "Pala"
     ],
@@ -64,6 +73,9 @@
     ],
     "name:ita_x_preferred":[
         "Pala"
+    ],
+    "name:kor_x_preferred":[
+        "\ud314\ub77c"
     ],
     "name:lit_x_preferred":[
         "Pala"
@@ -107,6 +119,9 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043b\u0430"
     ],
+    "name:vie_x_preferred":[
+        "Pala"
+    ],
     "name:vol_x_preferred":[
         "Pala"
     ],
@@ -123,7 +138,7 @@
         "gn:id":7933100
     },
     "wof:country":"NP",
-    "wof:geomhash":"0539c6013db32dc568e3de798a678f7a",
+    "wof:geomhash":"1139beb00c814947dbf721100bf7f657",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -141,7 +156,7 @@
         }
     ],
     "wof:id":1310242717,
-    "wof:lastmodified":1566669012,
+    "wof:lastmodified":1636494941,
     "wof:name":"Pala",
     "wof:parent_id":1092049883,
     "wof:placetype":"locality",
@@ -151,10 +166,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    87.00213000000002,
+    87.00213,
     27.39838,
-    87.00213000000002,
+    87.00213,
     27.39838
 ],
-  "geometry": {"coordinates":[87.00213000000002,27.39838],"type":"Point"}
+  "geometry": {"coordinates":[87.00212999999999,27.39838],"type":"Point"}
 }

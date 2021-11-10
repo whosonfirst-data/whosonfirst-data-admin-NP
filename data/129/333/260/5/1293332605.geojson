@@ -44,14 +44,23 @@
     "name:deu_x_preferred":[
         "Sitapur"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u062a\u0627\u067e\u0648\u0631"
+    ],
     "name:fra_x_preferred":[
         "Sitapur"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac0\u0aa4\u0abe\u0aaa\u0ac1\u0ab0"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05d8\u05e4\u05d5\u05e8"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u0940\u0924\u093e\u092a\u0941\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Sitapur"
     ],
     "name:ita_x_preferred":[
         "Sitapur"
@@ -120,7 +129,7 @@
         "gn:id":7934924
     },
     "wof:country":"NP",
-    "wof:geomhash":"321e4a918a64edeb4137278bf107db86",
+    "wof:geomhash":"3155aeb44fb0ff812ee808d05e93ea22",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -138,7 +147,7 @@
         }
     ],
     "wof:id":1293332605,
-    "wof:lastmodified":1566666335,
+    "wof:lastmodified":1636494914,
     "wof:name":"Sitapur",
     "wof:parent_id":1092050101,
     "wof:placetype":"locality",
@@ -148,10 +157,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    84.34071999999998,
+    84.34072,
     27.60721,
-    84.34071999999998,
+    84.34072,
     27.60721
 ],
-  "geometry": {"coordinates":[84.34071999999998,27.60721],"type":"Point"}
+  "geometry": {"coordinates":[84.34072,27.60721],"type":"Point"}
 }

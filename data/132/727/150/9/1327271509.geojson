@@ -32,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09a6\u09cb\u09ac\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Doba"
     ],
@@ -41,11 +44,20 @@
     "name:deu_x_preferred":[
         "Doba"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03cc\u03bc\u03c0\u03b1"
+    ],
     "name:epo_x_preferred":[
         "Doba"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0628\u0627"
+    ],
     "name:fra_x_preferred":[
         "Doba"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05d1\u05d4"
     ],
     "name:hun_x_preferred":[
         "Doba"
@@ -80,6 +92,9 @@
     "name:swe_x_preferred":[
         "Doba"
     ],
+    "name:tur_x_preferred":[
+        "Doba"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0431\u0430"
     ],
@@ -96,7 +111,7 @@
         "gn:id":7972166
     },
     "wof:country":"NP",
-    "wof:geomhash":"ae082636963e3825d94b581b1a344dd9",
+    "wof:geomhash":"4442423efaf8c099f0bb9fd0ca7b5a55",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -114,7 +129,7 @@
         }
     ],
     "wof:id":1327271509,
-    "wof:lastmodified":1566664410,
+    "wof:lastmodified":1636494901,
     "wof:name":"Doba",
     "wof:parent_id":1092049089,
     "wof:placetype":"locality",
@@ -124,10 +139,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    83.60880999999998,
+    83.60881,
     28.47221,
-    83.60880999999998,
+    83.60881,
     28.47221
 ],
-  "geometry": {"coordinates":[83.60880999999998,28.47221],"type":"Point"}
+  "geometry": {"coordinates":[83.60881000000001,28.47221],"type":"Point"}
 }

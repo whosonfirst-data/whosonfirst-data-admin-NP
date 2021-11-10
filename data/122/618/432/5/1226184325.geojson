@@ -65,6 +65,9 @@
     "name:fra_x_preferred":[
         "Kindu"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05e0\u05d3\u05d5"
+    ],
     "name:hrv_x_preferred":[
         "Kindu"
     ],
@@ -168,7 +171,7 @@
         "gn:id":8007077
     },
     "wof:country":"NP",
-    "wof:geomhash":"e07279e2959b8ae8501fdc2d7238cf73",
+    "wof:geomhash":"ed264e62fe97756f852c064f94ff6ed5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":1226184325,
-    "wof:lastmodified":1566671347,
+    "wof:lastmodified":1636494965,
     "wof:name":"Kindu",
     "wof:parent_id":1092050179,
     "wof:placetype":"locality",
@@ -196,10 +199,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    86.39005999999998,
+    86.39006,
     27.1687,
-    86.39005999999998,
+    86.39006,
     27.1687
 ],
-  "geometry": {"coordinates":[86.39005999999998,27.1687],"type":"Point"}
+  "geometry": {"coordinates":[86.39006000000001,27.1687],"type":"Point"}
 }

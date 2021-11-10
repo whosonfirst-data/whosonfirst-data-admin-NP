@@ -44,6 +44,9 @@
     "name:bel_x_preferred":[
         "\u041a\u0430\u043f\u0430\u043d"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09aa\u09be\u09a8"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u043f\u0430\u043d"
     ],
@@ -85,6 +88,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05e4\u05d0\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u092a\u093e\u0928"
     ],
     "name:hrv_x_preferred":[
         "Kapan"
@@ -186,7 +192,7 @@
         "gn:id":7962146
     },
     "wof:country":"NP",
-    "wof:geomhash":"9ad94b8770fe124941755f3495855d60",
+    "wof:geomhash":"2f3ef67c2ed1ccf34629a5b14761bb63",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -204,7 +210,7 @@
         }
     ],
     "wof:id":1326667847,
-    "wof:lastmodified":1566663717,
+    "wof:lastmodified":1636494896,
     "wof:name":"Kapan",
     "wof:parent_id":1092048931,
     "wof:placetype":"locality",
@@ -214,10 +220,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    85.36676999999997,
+    85.36677,
     27.74142,
-    85.36676999999997,
+    85.36677,
     27.74142
 ],
-  "geometry": {"coordinates":[85.36676999999997,27.74142],"type":"Point"}
+  "geometry": {"coordinates":[85.36677,27.74142],"type":"Point"}
 }

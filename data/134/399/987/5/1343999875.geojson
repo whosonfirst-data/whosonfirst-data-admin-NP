@@ -53,6 +53,12 @@
     "name:fra_x_preferred":[
         "Bose"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e1"
+    ],
+    "name:hun_x_preferred":[
+        "Bose"
+    ],
     "name:ita_x_preferred":[
         "Bose"
     ],
@@ -96,7 +102,7 @@
         "gn:id":8007696
     },
     "wof:country":"NP",
-    "wof:geomhash":"e2280135f80c976e348688c5c5c92010",
+    "wof:geomhash":"ced965202bd6ed88ab5c8cc1360d202f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":1343999875,
-    "wof:lastmodified":1566664642,
+    "wof:lastmodified":1636494903,
     "wof:name":"Bose",
     "wof:parent_id":1092050179,
     "wof:placetype":"locality",
@@ -124,10 +130,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    86.49070999999998,
+    86.49071,
     26.99307,
-    86.49070999999998,
+    86.49071,
     26.99307
 ],
-  "geometry": {"coordinates":[86.49070999999998,26.99307],"type":"Point"}
+  "geometry": {"coordinates":[86.49071000000001,26.99307],"type":"Point"}
 }

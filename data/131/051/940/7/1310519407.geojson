@@ -29,11 +29,41 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09ad\u09bf\u09ae\u09ab\u09c7\u09a6\u09bf"
+    ],
     "name:ceb_x_preferred":[
         "Bhimfedi"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b9\u03bc\u03c6\u03b5\u03bd\u03c4\u03af"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0645\u0641\u062f\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Bhimfedi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05db\u05d9\u05de\u05e4\u05d3\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092d\u093f\u092e\u092b\u0947\u095c\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Bhimphedi"
+    ],
+    "name:ind_x_preferred":[
+        "Bhimphedi"
+    ],
+    "name:ita_x_preferred":[
+        "Bhimphedi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30f3\u30d5\u30a7\u30c7\u30a3"
+    ],
+    "name:kor_x_preferred":[
+        "\ube54\ud398\ub514"
     ],
     "name:msa_x_preferred":[
         "Bhimfedi"
@@ -47,12 +77,36 @@
     "name:pol_x_preferred":[
         "Bhimfedi"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0445\u0438\u043c\u0444\u0435\u0434\u0438"
+    ],
     "name:spa_x_preferred":[
         "Bhimfedi"
+    ],
+    "name:swe_x_preferred":[
+        "Bhimphedi"
+    ],
+    "name:tur_x_preferred":[
+        "Bhimphedi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0445\u0456\u043c\u043f\u0445\u0435\u0434\u0456"
     ],
     "name:und_x_variant":[
         "Bhimpedi",
         "Bh\u012bmphedi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06be\u0645\u067e\u06cc\u0688\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Bhimphedi"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6bd4\u83f2\u8fea"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6bd4\u975e\u8fea"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -85,7 +139,7 @@
         }
     ],
     "wof:id":1310519407,
-    "wof:lastmodified":1566669506,
+    "wof:lastmodified":1636494945,
     "wof:name":"Bhimphedi",
     "wof:parent_id":1092049017,
     "wof:placetype":"locality",

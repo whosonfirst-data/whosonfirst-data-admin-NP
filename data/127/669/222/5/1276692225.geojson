@@ -62,8 +62,14 @@
     "name:guj_x_preferred":[
         "\u0a9a\u0a82\u0aa6\u0acd\u0ab0\u0aaa\u0ac2\u0ab0"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d0\u05e0\u05d3\u05e8\u05d0\u05e4\u05d5\u05e8"
+    ],
     "name:hin_x_preferred":[
         "\u091a\u0928\u094d\u0926\u094d\u0930\u092a\u0941\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Chandrapur"
     ],
     "name:ita_x_preferred":[
         "Chandrapur"
@@ -138,7 +144,7 @@
         "gn:id":8000408
     },
     "wof:country":"NP",
-    "wof:geomhash":"d278a47a1955614a6387bfef3a655c61",
+    "wof:geomhash":"29ac10d038122c3264c3c8488d135d1d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -156,7 +162,7 @@
         }
     ],
     "wof:id":1276692225,
-    "wof:lastmodified":1566666807,
+    "wof:lastmodified":1636494917,
     "wof:name":"Chandrapur",
     "wof:parent_id":1092049963,
     "wof:placetype":"locality",
@@ -166,10 +172,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    81.67759000000002,
+    81.67759,
     28.55745,
-    81.67759000000002,
+    81.67759,
     28.55745
 ],
-  "geometry": {"coordinates":[81.67759000000002,28.55745],"type":"Point"}
+  "geometry": {"coordinates":[81.67759,28.55745],"type":"Point"}
 }

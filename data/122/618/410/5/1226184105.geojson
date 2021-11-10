@@ -98,6 +98,9 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0440\u043b\u0456\u043d\u0433"
     ],
+    "name:urd_x_preferred":[
+        "\u0688\u0627\u0631\u0644\u0646\u06af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -111,7 +114,7 @@
         "gn:id":7956755
     },
     "wof:country":"NP",
-    "wof:geomhash":"736596dc7e62e2f47f554b6dbfa81a8b",
+    "wof:geomhash":"4088f27e8928c913bb47c148d2ee4bc3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1226184105,
-    "wof:lastmodified":1566671336,
+    "wof:lastmodified":1636494964,
     "wof:name":"Darling",
     "wof:parent_id":1092049257,
     "wof:placetype":"locality",
@@ -139,10 +142,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    83.12680999999998,
+    83.12681,
     28.27842,
-    83.12680999999998,
+    83.12681,
     28.27842
 ],
-  "geometry": {"coordinates":[83.12680999999998,28.27842],"type":"Point"}
+  "geometry": {"coordinates":[83.12681000000001,28.27842],"type":"Point"}
 }

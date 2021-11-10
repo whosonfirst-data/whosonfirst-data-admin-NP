@@ -240,10 +240,19 @@
         "Canpana"
     ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Bell"
+    ],
+    "name:vie_x_variant":[
         "Chu\u00f4ng"
     ],
     "name:wln_x_preferred":[
         "Clotche"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u8d1d\u5c14\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8c9d\u8033\u6cb3"
     ],
     "name:zho_x_preferred":[
         "\u9418"
@@ -279,7 +288,7 @@
         }
     ],
     "wof:id":1260127837,
-    "wof:lastmodified":1566668730,
+    "wof:lastmodified":1636494937,
     "wof:name":"Bell",
     "wof:parent_id":1092048259,
     "wof:placetype":"locality",

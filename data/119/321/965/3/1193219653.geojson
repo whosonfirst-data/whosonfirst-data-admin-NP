@@ -222,6 +222,9 @@
         "Templu"
     ],
     "name:rus_x_preferred":[
+        "\u0422\u0435\u043c\u043f\u043b"
+    ],
+    "name:rus_x_variant":[
         "\u0425\u0440\u0430\u043c"
     ],
     "name:sco_x_preferred":[
@@ -297,7 +300,7 @@
         "gn:id":7961363
     },
     "wof:country":"NP",
-    "wof:geomhash":"26eee9227a36c858b0ccb68234cfa225",
+    "wof:geomhash":"615b8553512d98996bfe524d8d4d9a7b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -315,7 +318,7 @@
         }
     ],
     "wof:id":1193219653,
-    "wof:lastmodified":1566668649,
+    "wof:lastmodified":1636494937,
     "wof:name":"Temple",
     "wof:parent_id":1092049331,
     "wof:placetype":"locality",
@@ -325,10 +328,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    83.95421999999998,
+    83.95422,
     28.20827,
-    83.95421999999998,
+    83.95422,
     28.20827
 ],
-  "geometry": {"coordinates":[83.95421999999998,28.20827],"type":"Point"}
+  "geometry": {"coordinates":[83.95422000000001,28.20827],"type":"Point"}
 }

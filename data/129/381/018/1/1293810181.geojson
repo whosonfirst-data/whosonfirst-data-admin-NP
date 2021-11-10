@@ -38,19 +38,40 @@
     "name:als_x_preferred":[
         "Lek"
     ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09c7\u0995"
+    ],
     "name:ceb_x_preferred":[
         "Lek"
     ],
     "name:deu_x_preferred":[
         "Lek"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03ba"
+    ],
     "name:epo_x_preferred":[
         "Lek"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06a9"
     ],
     "name:fra_x_preferred":[
         "Lek"
     ],
     "name:fry_x_preferred":[
+        "Lek"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0947\u0915"
+    ],
+    "name:hun_x_preferred":[
+        "Lek"
+    ],
+    "name:ind_x_preferred":[
         "Lek"
     ],
     "name:kir_x_preferred":[
@@ -74,14 +95,24 @@
     "name:spa_x_preferred":[
         "Lek"
     ],
+    "name:spa_x_variant":[],
     "name:swe_x_preferred":[
+        "Lek"
+    ],
+    "name:tur_x_preferred":[
         "Lek"
     ],
     "name:ukr_x_preferred":[
         "\u041b\u0435\u043a"
     ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u06a9"
+    ],
     "name:uzb_x_preferred":[
         "Lek"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Lek"
     ],
     "name:vls_x_preferred":[
         "Lek"
@@ -99,7 +130,7 @@
         "gn:id":7940492
     },
     "wof:country":"NP",
-    "wof:geomhash":"516a2acfd2c47d908fffbdd257fd8b5d",
+    "wof:geomhash":"6fbd25b851bf3818d4cdb07e5ace6e13",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -117,7 +148,7 @@
         }
     ],
     "wof:id":1293810181,
-    "wof:lastmodified":1566666475,
+    "wof:lastmodified":1636494915,
     "wof:name":"Lek",
     "wof:parent_id":1092050347,
     "wof:placetype":"locality",
@@ -127,10 +158,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    80.51534000000002,
+    80.51534,
     29.72349,
-    80.51534000000002,
+    80.51534,
     29.72349
 ],
-  "geometry": {"coordinates":[80.51534000000002,29.72349],"type":"Point"}
+  "geometry": {"coordinates":[80.51533999999999,29.72349],"type":"Point"}
 }

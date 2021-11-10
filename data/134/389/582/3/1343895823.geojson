@@ -56,6 +56,9 @@
     "name:deu_x_preferred":[
         "Bor"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631"
+    ],
     "name:fin_x_preferred":[
         "Bor"
     ],
@@ -153,7 +156,7 @@
         "gn:id":7952794
     },
     "wof:country":"NP",
-    "wof:geomhash":"e7c9406cf19b741a8aedbacee0c1efd7",
+    "wof:geomhash":"4f56372bf4686405db0d2e89240a5e70",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":1343895823,
-    "wof:lastmodified":1566665444,
+    "wof:lastmodified":1636494909,
     "wof:name":"Bor",
     "wof:parent_id":1092049257,
     "wof:placetype":"locality",
@@ -181,10 +184,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    83.60309000000002,
+    83.60309,
     28.1382,
-    83.60309000000002,
+    83.60309,
     28.1382
 ],
-  "geometry": {"coordinates":[83.60309000000002,28.1382],"type":"Point"}
+  "geometry": {"coordinates":[83.60308999999999,28.1382],"type":"Point"}
 }

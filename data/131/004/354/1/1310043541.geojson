@@ -32,6 +32,24 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u062f\u064a\u0646\u064a\u0628\u0648\u0631"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03bd\u03c4\u03b9\u03bd\u03b9\u03c0\u03bf\u03cd\u03c1"
+    ],
+    "name:hun_x_preferred":[
+        "Medinipur"
+    ],
+    "name:ind_x_preferred":[
+        "Medinipur"
+    ],
+    "name:tur_x_preferred":[
+        "Medinipur"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0435\u0434\u0456\u043d\u0456\u043f\u0443\u0440"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1310043541,
-    "wof:lastmodified":1566669389,
+    "wof:lastmodified":1636494944,
     "wof:name":"Medinipur",
     "wof:parent_id":1092050497,
     "wof:placetype":"locality",

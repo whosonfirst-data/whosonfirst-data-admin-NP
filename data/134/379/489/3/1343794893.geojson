@@ -62,8 +62,14 @@
     "name:guj_x_preferred":[
         "\u0a9a\u0a82\u0aa6\u0acd\u0ab0\u0aaa\u0ac2\u0ab0"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d0\u05e0\u05d3\u05e8\u05d0\u05e4\u05d5\u05e8"
+    ],
     "name:hin_x_preferred":[
         "\u091a\u0928\u094d\u0926\u094d\u0930\u092a\u0941\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Chandrapur"
     ],
     "name:ita_x_preferred":[
         "Chandrapur"
@@ -156,7 +162,7 @@
         }
     ],
     "wof:id":1343794893,
-    "wof:lastmodified":1566664826,
+    "wof:lastmodified":1636494904,
     "wof:name":"Chandrapur",
     "wof:parent_id":1092048227,
     "wof:placetype":"locality",
