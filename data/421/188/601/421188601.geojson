@@ -23,8 +23,14 @@
     "name:bho_x_preferred":[
         "\u092e\u0941\u0938\u094d\u0924\u093e\u0902\u0917 \u091c\u093f\u0932\u093e"
     ],
+    "name:bod_x_preferred":[
+        "\u0f56\u0f63\u0f0b\u0f61\u0f74\u0f63\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f41\u0f7c\u0f44\u0f66\u0f0b\u0f66\u0f74\u0f0b\u0f61\u0f7c\u0f51\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f56\u0f7c\u0f51\u0f0b\u0f54\u0f0b"
+    ],
     "name:bpy_x_preferred":[
         "\u09ae\u09c1\u09b8\u09cd\u09a4\u09be\u0999"
+    ],
+    "name:cat_x_preferred":[
+        "Mustang"
     ],
     "name:ceb_x_preferred":[
         "Must\u0101ng"
@@ -61,6 +67,9 @@
     ],
     "name:mai_x_preferred":[
         "\u092e\u0941\u0938\u094d\u0924\u093e\u0919 \u091c\u093f\u0932\u093e"
+    ],
+    "name:nan_x_preferred":[
+        "Mustang Ko\u0101n"
     ],
     "name:nep_x_preferred":[
         "\u092e\u0941\u0938\u094d\u0924\u093e\u0919 \u091c\u093f\u0932\u094d\u0932\u093e"
@@ -178,7 +187,7 @@
         }
     ],
     "wof:id":421188601,
-    "wof:lastmodified":1582315484,
+    "wof:lastmodified":1690849723,
     "wof:name":"Mustang",
     "wof:parent_id":1092048365,
     "wof:placetype":"localadmin",

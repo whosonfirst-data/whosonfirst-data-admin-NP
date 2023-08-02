@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0627\u062a\u0646\u0627\u063a\u0627\u0631"
     ],
+    "name:awa_x_preferred":[
+        "\u092c\u093f\u0930\u093e\u091f\u0928\u0917\u0930"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0456\u0440\u0430\u0442\u043d\u0430\u0433\u0430\u0440"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09bf\u09b0\u09be\u099f\u09a8\u0997\u09b0"
     ],
@@ -44,6 +50,9 @@
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b9\u03c1\u03b1\u03c4\u03bd\u03b1\u03b3\u03ba\u03ac\u03c1"
     ],
+    "name:ell_x_variant":[
+        "\u039c\u03c0\u03b9\u03c1\u03ac\u03c4\u03bd\u03b1\u03b3\u03ba\u03b1\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Biratnagar"
     ],
@@ -60,6 +69,9 @@
         "Biratnagar"
     ],
     "name:fra_x_preferred":[
+        "Biratnagar"
+    ],
+    "name:gle_x_preferred":[
         "Biratnagar"
     ],
     "name:guj_x_preferred":[
@@ -88,6 +100,9 @@
     ],
     "name:kor_x_preferred":[
         "\ube44\ub78f\ub098\uac00\ub974"
+    ],
+    "name:kur_x_preferred":[
+        "Biratnagar"
     ],
     "name:lav_x_preferred":[
         "Biratnagara"
@@ -175,6 +190,9 @@
     ],
     "name:urd_x_variant":[
         "\u0628\u06cc\u0631\u0627\u062a \u0646\u06af\u0631"
+    ],
+    "name:vec_x_preferred":[
+        "Biratnagar"
     ],
     "name:vep_x_preferred":[
         "Biratnagar"
@@ -336,7 +354,7 @@
         }
     ],
     "wof:id":421177863,
-    "wof:lastmodified":1566669994,
+    "wof:lastmodified":1690849730,
     "wof:name":"Bir\u00e5tnagar",
     "wof:parent_id":1092048303,
     "wof:placetype":"locality",

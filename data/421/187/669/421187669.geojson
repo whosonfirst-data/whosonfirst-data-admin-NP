@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Lete"
+    ],
     "name:ceb_x_preferred":[
         "Lete"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:ita_x_preferred":[
         "Lete"
+    ],
+    "name:mai_x_preferred":[
+        "\u0932\u0947\u0924\u0947"
     ],
     "name:msa_x_preferred":[
         "Lete"
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":421187669,
-    "wof:lastmodified":1566669987,
+    "wof:lastmodified":1690849721,
     "wof:name":"Lete",
     "wof:parent_id":1092048365,
     "wof:placetype":"locality",

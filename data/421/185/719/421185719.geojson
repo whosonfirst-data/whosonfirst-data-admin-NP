@@ -29,6 +29,9 @@
     "name:arc_x_preferred":[
         "\u0712\u0712\u0710"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u0628"
+    ],
     "name:azb_x_preferred":[
         "\u0642\u0627\u067e\u0627\u0686\u06cc\u0642"
     ],
@@ -50,6 +53,9 @@
     "name:cat_x_preferred":[
         "Reixa"
     ],
+    "name:cat_x_variant":[
+        "porta"
+    ],
     "name:ces_x_preferred":[
         "Br\u00e1na"
     ],
@@ -61,6 +67,9 @@
     ],
     "name:chv_x_preferred":[
         "\u0425\u0430\u043f\u0445\u0430"
+    ],
+    "name:cym_x_preferred":[
+        "g\u00e2t"
     ],
     "name:dan_x_preferred":[
         "port"
@@ -83,8 +92,14 @@
     "name:est_x_preferred":[
         "V\u00e4rav"
     ],
+    "name:est_x_variant":[
+        "v\u00e4rav"
+    ],
     "name:eus_x_preferred":[
         "Langa"
+    ],
+    "name:eus_x_variant":[
+        "sarrera"
     ],
     "name:fas_x_preferred":[
         "\u062f\u0631\u0648\u0627\u0632\u0647"
@@ -95,17 +110,32 @@
     "name:fra_x_preferred":[
         "portail"
     ],
+    "name:fra_x_variant":[
+        "porte"
+    ],
     "name:fry_x_preferred":[
         "poarte"
     ],
     "name:gle_x_preferred":[
         "Geata"
     ],
+    "name:gle_x_variant":[
+        "geata"
+    ],
+    "name:glv_x_preferred":[
+        "Giat"
+    ],
     "name:gsw_x_preferred":[
         "Stadtdoor"
     ],
     "name:guj_x_preferred":[
         "\u0aa6\u0ab0\u0ab5\u0abe\u0a9c\u0acb"
+    ],
+    "name:gur_x_preferred":[
+        "zagen\u0254r\u025b"
+    ],
+    "name:hat_x_preferred":[
+        "p\u00f2tay"
     ],
     "name:heb_x_preferred":[
         "\u05e9\u05e2\u05e8"
@@ -134,6 +164,9 @@
     "name:jpn_x_preferred":[
         "\u9580"
     ],
+    "name:kas_x_preferred":[
+        "\u06af\u06cc\u0679"
+    ],
     "name:kat_x_preferred":[
         "\u10d9\u10d0\u10e0\u10d8\u10d1\u10ed\u10d4"
     ],
@@ -149,14 +182,26 @@
     "name:lit_x_preferred":[
         "Vartai"
     ],
+    "name:lmo_x_preferred":[
+        "Restell"
+    ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d1f\u0d3f\u0d35\u0d3e\u0d24\u0d3f\u0d7d"
     ],
     "name:mkd_x_preferred":[
         "\u043f\u043e\u0440\u0442\u0430"
     ],
+    "name:mlt_x_preferred":[
+        "bieb"
+    ],
+    "name:msa_x_preferred":[
+        "pintu pagar"
+    ],
     "name:nan_x_preferred":[
         "Mn\u0302g"
+    ],
+    "name:nds_x_preferred":[
+        "Door"
     ],
     "name:new_x_preferred":[
         "\u0927\u094d\u0935\u0916\u093e"
@@ -209,17 +254,24 @@
     "name:sgs_x_preferred":[
         "Vart\u0101"
     ],
+    "name:shi_x_preferred":[
+        "Aggur"
+    ],
     "name:slk_x_preferred":[
         "Br\u00e1na"
     ],
     "name:slk_x_variant":[
         "br\u00e1na"
     ],
+    "name:slv_x_preferred":[
+        "vrata"
+    ],
     "name:spa_x_preferred":[
         "Verja"
     ],
     "name:spa_x_variant":[
-        "verja"
+        "verja",
+        "puerta"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u043f\u0438\u0458\u0430"
@@ -236,17 +288,26 @@
     "name:tgk_x_preferred":[
         "\u0414\u0430\u0440\u0432\u043e\u0437\u0430"
     ],
+    "name:tur_x_preferred":[
+        "kap\u0131"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0430\u043c\u0430"
     ],
     "name:ukr_x_variant":[
         "\u0432\u043e\u0440\u043e\u0442\u0430"
     ],
+    "name:urd_x_preferred":[
+        "\u062f\u0631\u0648\u0627\u0632\u06c1"
+    ],
     "name:uzb_x_preferred":[
         "Darvoza"
     ],
     "name:vie_x_preferred":[
         "C\u1ed5ng"
+    ],
+    "name:vie_x_variant":[
+        "c\u1ed5ng"
     ],
     "name:yue_x_preferred":[
         "\u9598\u9580"
@@ -310,7 +371,7 @@
         }
     ],
     "wof:id":421185719,
-    "wof:lastmodified":1566669997,
+    "wof:lastmodified":1690849733,
     "wof:name":"Gate",
     "wof:parent_id":1092049331,
     "wof:placetype":"locality",

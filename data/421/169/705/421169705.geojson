@@ -20,6 +20,9 @@
     "name:bho_x_preferred":[
         "\u0925\u093e\u0928\u0915\u094b\u091f"
     ],
+    "name:cat_x_preferred":[
+        "Thankot"
+    ],
     "name:ceb_x_preferred":[
         "Th\u0101nko\u1e6d"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:pol_x_preferred":[
         "Thankot"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043d\u043a\u043e\u0442"
     ],
     "name:und_x_variant":[
         "Th\u0101nkol"
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":421169705,
-    "wof:lastmodified":1566669983,
+    "wof:lastmodified":1690849717,
     "wof:name":"Th\u00e5nkot",
     "wof:parent_id":1092048931,
     "wof:placetype":"locality",

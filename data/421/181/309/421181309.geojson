@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:awa_x_preferred":[
+        "\u0927\u0930\u093e\u0928"
+    ],
     "name:bho_x_preferred":[
         "\u0927\u0930\u093e\u0928"
     ],
@@ -44,10 +47,16 @@
     "name:eus_x_preferred":[
         "Dharan"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0631\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Dharan"
     ],
     "name:fra_x_preferred":[
+        "Dharan"
+    ],
+    "name:gle_x_preferred":[
         "Dharan"
     ],
     "name:heb_x_preferred":[
@@ -67,6 +76,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub2e4\ub780"
+    ],
+    "name:kur_x_preferred":[
+        "Dharan"
     ],
     "name:lit_x_preferred":[
         "Dharanas"
@@ -109,6 +121,9 @@
     ],
     "name:urd_x_variant":[
         "\u062f\u06be\u0627\u0631\u0646"
+    ],
+    "name:vec_x_preferred":[
+        "Dharan"
     ],
     "name:zho_x_preferred":[
         "\u9054\u85cd"
@@ -168,7 +183,7 @@
         }
     ],
     "wof:id":421181309,
-    "wof:lastmodified":1566669989,
+    "wof:lastmodified":1690849724,
     "wof:name":"Dhar\u00e5n B\u00e5z\u00e5r",
     "wof:parent_id":1092049923,
     "wof:placetype":"locality",

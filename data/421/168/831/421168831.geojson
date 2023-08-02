@@ -25,6 +25,9 @@
     "name:afr_x_preferred":[
         "Katmandoe"
     ],
+    "name:aka_x_preferred":[
+        "Kathmandu"
+    ],
     "name:amh_x_preferred":[
         "\u12ab\u1275\u121b\u1295\u12f1"
     ],
@@ -34,14 +37,29 @@
     "name:arg_x_preferred":[
         "Katmand\u00fa"
     ],
+    "name:ary_x_preferred":[
+        "\u0643\u0627\u0637\u0645\u0627\u0646\u062f\u0648"
+    ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u062a\u0645\u0627\u0646\u062f\u0648"
+    ],
     "name:asm_x_preferred":[
         "\u0995\u09be\u09a0\u09ae\u09be\u09a3\u09cd\u09a1\u09c1"
     ],
     "name:ast_x_preferred":[
         "Katmand\u00fa"
     ],
+    "name:awa_x_preferred":[
+        "\u0915\u093e\u0920\u092e\u093e\u0921\u094c\u0902"
+    ],
     "name:aze_x_preferred":[
         "Katmandu"
+    ],
+    "name:bak_x_preferred":[
+        "\u041a\u0430\u0442\u043c\u0430\u043d\u0434\u0443"
+    ],
+    "name:ban_x_preferred":[
+        "Kathmandu"
     ],
     "name:bcl_x_preferred":[
         "Kathmandu"
@@ -172,6 +190,9 @@
     "name:hat_x_preferred":[
         "Katmandou"
     ],
+    "name:hau_x_preferred":[
+        "Kathmandu"
+    ],
     "name:hbs_x_preferred":[
         "Katmandu"
     ],
@@ -247,6 +268,12 @@
     "name:kor_x_preferred":[
         "\uce74\ud2b8\ub9cc\ub450"
     ],
+    "name:kur_x_preferred":[
+        "Kathmandu"
+    ],
+    "name:lao_x_preferred":[
+        "\u0e81\u0eb2\u0e94\u0ea1\u0eb2\u0e99\u0e94\u0eb8"
+    ],
     "name:lat_x_preferred":[
         "Catmandum"
     ],
@@ -292,6 +319,9 @@
     "name:mlg_x_preferred":[
         "Kathmandu"
     ],
+    "name:mlt_x_preferred":[
+        "Kathmandu"
+    ],
     "name:mon_x_preferred":[
         "\u041a\u0430\u0442\u043c\u0430\u043d\u0434\u0443"
     ],
@@ -306,6 +336,9 @@
     ],
     "name:mzn_x_preferred":[
         "\u06a9\u0627\u062a\u0645\u0627\u0646\u062f\u0648"
+    ],
+    "name:nah_x_preferred":[
+        "Katmandu"
     ],
     "name:nan_x_preferred":[
         "Kathmandu"
@@ -427,6 +460,9 @@
     "name:sqi_x_preferred":[
         "Katmandu"
     ],
+    "name:srd_x_preferred":[
+        "Katmand\u00f9"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u0442\u043c\u0430\u043d\u0434\u0443"
     ],
@@ -451,6 +487,9 @@
     "name:tel_x_preferred":[
         "\u0c15\u0c3e\u0c20\u0c4d\u0c2e\u0c02\u0c21\u0c41"
     ],
+    "name:tel_x_variant":[
+        "\u0c16\u0c3e\u0c1f\u0c4d\u0c2e\u0c02\u0c21\u0c41"
+    ],
     "name:tgk_x_preferred":[
         "\u041a\u0430\u0442\u043c\u0430\u043d\u0434\u0443"
     ],
@@ -463,11 +502,17 @@
     "name:tha_x_preferred":[
         "\u0e01\u0e32\u0e10\u0e21\u0e32\u0e13\u0e11\u0e38"
     ],
+    "name:tpi_x_preferred":[
+        "Kathmandu"
+    ],
     "name:tuk_x_preferred":[
         "Katmandu"
     ],
     "name:tur_x_preferred":[
         "Katmandu"
+    ],
+    "name:udm_x_preferred":[
+        "\u041a\u0430\u0442\u043c\u0430\u043d\u0434\u0443"
     ],
     "name:uig_x_preferred":[
         "\u0643\u0627\u062a\u0645\u0627\u0646\u062f\u06c7"
@@ -482,6 +527,9 @@
         "\u06a9\u06be\u0679\u0645\u0646\u0688\u0648"
     ],
     "name:uzb_x_preferred":[
+        "Katmandu"
+    ],
+    "name:vec_x_preferred":[
         "Katmandu"
     ],
     "name:vep_x_preferred":[
@@ -643,8 +691,8 @@
     "wof:belongsto":[
         102191569,
         85632465,
-        1092048931,
         1108807143,
+        1092048931,
         85675575
     ],
     "wof:breaches":[],
@@ -686,7 +734,7 @@
         }
     ],
     "wof:id":421168831,
-    "wof:lastmodified":1608688176,
+    "wof:lastmodified":1690849714,
     "wof:megacity":1,
     "wof:name":"Kathmandu",
     "wof:parent_id":1092048931,

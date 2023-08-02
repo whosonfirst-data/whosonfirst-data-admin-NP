@@ -71,6 +71,9 @@
     "name:mai_x_preferred":[
         "\u0909\u0926\u092f\u092a\u0941\u0930 \u091c\u093f\u0932\u093e"
     ],
+    "name:nan_x_preferred":[
+        "Udayapur Ko\u0101n"
+    ],
     "name:nep_x_preferred":[
         "\u0909\u0926\u092f\u092a\u0941\u0930 \u091c\u093f\u0932\u094d\u0932\u093e"
     ],
@@ -100,6 +103,9 @@
     ],
     "name:san_x_preferred":[
         "\u0909\u0926\u092f\u092a\u0941\u0930\u092e\u0923\u094d\u0921\u0932\u092e\u094d"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c69\u1c6b\u1c5a\u1c6d\u1c6f\u1c69\u1c68 \u1c61\u1c64\u1c5e\u1c5f."
     ],
     "name:spa_x_preferred":[
         "Distrito de Udayapur"
@@ -199,7 +205,7 @@
         }
     ],
     "wof:id":421182847,
-    "wof:lastmodified":1566669996,
+    "wof:lastmodified":1690849732,
     "wof:name":"Udayapur",
     "wof:parent_id":1092050179,
     "wof:placetype":"localadmin",

@@ -17,6 +17,15 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Jomsom"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09cb\u09ae\u09b8\u09be\u09ae"
+    ],
+    "name:cat_x_preferred":[
+        "Jomsom"
+    ],
     "name:ceb_x_preferred":[
         "Jomsom"
     ],
@@ -31,6 +40,12 @@
     ],
     "name:fra_x_preferred":[
         "Jomoson"
+    ],
+    "name:hye_x_preferred":[
+        "\u054b\u0578\u0574\u057d\u0578\u0574"
+    ],
+    "name:ita_x_preferred":[
+        "Jomsom"
     ],
     "name:jpn_x_preferred":[
         "\u30b8\u30e7\u30e0\u30bd\u30f3"
@@ -121,7 +136,7 @@
         }
     ],
     "wof:id":421187663,
-    "wof:lastmodified":1566669987,
+    "wof:lastmodified":1690849722,
     "wof:name":"Jomosom",
     "wof:parent_id":1092048365,
     "wof:placetype":"locality",

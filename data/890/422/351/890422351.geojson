@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":5.0,
+    "name:awa_x_preferred":[
+        "\u092e\u094b\u0930\u0919 \u091c\u093f\u0932\u093e"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u043e\u0440\u0430\u043d\u0433"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09cb\u09b0\u0999 \u099c\u09c7\u09b2\u09be"
     ],
@@ -42,6 +48,9 @@
     ],
     "name:eng_x_preferred":[
         "Morang District"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0645\u0648\u0631\u0627\u0646\u06af"
     ],
     "name:fin_x_preferred":[
         "Morangin piirikunta"
@@ -69,6 +78,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u041c\u043e\u0440\u0430\u043d\u0433"
+    ],
+    "name:nan_x_preferred":[
+        "Morang Ko\u0101n"
     ],
     "name:nep_x_preferred":[
         "\u092e\u094b\u0930\u0919 \u091c\u093f\u0932\u094d\u0932\u093e"
@@ -161,7 +173,7 @@
         }
     ],
     "wof:id":890422351,
-    "wof:lastmodified":1566669998,
+    "wof:lastmodified":1690849734,
     "wof:name":"Morang",
     "wof:parent_id":1092048303,
     "wof:placetype":"localadmin",

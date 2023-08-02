@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Waling"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0644\u06cc\u0646\u06af"
+    ],
     "name:fra_x_preferred":[
         "Waling"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ef\u30fc\u30ea\u30f3"
+    ],
+    "name:kur_x_preferred":[
+        "Waling"
     ],
     "name:mai_x_preferred":[
         "\u0935\u093e\u0932\u093f\u0919 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
@@ -50,6 +56,9 @@
         "Waling"
     ],
     "name:pol_x_preferred":[
+        "Waling"
+    ],
+    "name:por_x_preferred":[
         "Waling"
     ],
     "name:und_x_variant":[
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":890433707,
-    "wof:lastmodified":1566670000,
+    "wof:lastmodified":1690849738,
     "wof:name":"W\u0101ling",
     "wof:parent_id":1092050939,
     "wof:placetype":"locality",

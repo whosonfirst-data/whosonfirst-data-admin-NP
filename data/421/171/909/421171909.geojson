@@ -20,14 +20,23 @@
     "name:ara_x_preferred":[
         "\u062c\u0627\u0645\u0639\u0629 \u062a\u0631\u064a\u0628\u0648\u0641\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0627\u0645\u0639\u0629 \u062a\u0631\u064a\u0628\u0648\u0641\u0627\u0646"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09cd\u09b0\u09bf\u09ad\u09c1\u09ac\u09a8 \u09ac\u09bf\u09b6\u09cd\u09ac\u09ac\u09bf\u09a6\u09cd\u09af\u09be\u09b2\u09af\u09bc"
     ],
     "name:bho_x_preferred":[
         "\u0924\u094d\u0930\u093f\u092d\u0941\u0935\u0928 \u0935\u093f\u0936\u094d\u0935\u0935\u093f\u0927\u093e\u0932\u092f"
     ],
+    "name:cat_x_preferred":[
+        "Universitat Tribhuvan"
+    ],
     "name:ces_x_preferred":[
         "Tribhuvanova univerzita"
+    ],
+    "name:cym_x_preferred":[
+        "Prifysgol Tribhuvan"
     ],
     "name:dan_x_preferred":[
         "Tribhuvan Universitet"
@@ -41,6 +50,9 @@
     "name:eng_x_preferred":[
         "Tribhuvan University"
     ],
+    "name:epo_x_preferred":[
+        "Universitato Tribhuvan"
+    ],
     "name:fin_x_preferred":[
         "Tribhuvanin yliopisto"
     ],
@@ -50,8 +62,20 @@
     "name:fra_x_variant":[
         "universit\u00e9 Tribhuvan"
     ],
+    "name:gle_x_preferred":[
+        "Ollscoil Tribhuvan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05ea \u05d8\u05e8\u05d9\u05d1\u05d4\u05d5\u05d5\u05d0\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u0924\u094d\u0930\u093f\u092d\u0941\u0935\u0928 \u0935\u093f\u0936\u094d\u0935\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0580\u056b\u0562\u0570\u0578\u0582\u057e\u0561\u0576 \u0570\u0561\u0574\u0561\u056c\u057d\u0561\u0580\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
+        "Universit\u00e0 Tribhuvan"
     ],
     "name:jpn_x_preferred":[
         "\u30c8\u30ea\u30d6\u30d0\u30f3\u5927\u5b66"
@@ -83,11 +107,17 @@
     "name:san_x_variant":[
         "\u0924\u094d\u0930\u093f\u092d\u0941\u0935\u0928 \u0935\u093f\u0936\u094d\u0935\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f"
     ],
+    "name:swe_x_preferred":[
+        "Tribhuvans universitet"
+    ],
     "name:tam_x_preferred":[
         "\u0ba4\u0bbf\u0bb0\u0bbf\u0baa\u0bc1\u0bb5\u0ba9\u0bcd \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0bae\u0bcd"
     ],
     "name:tgl_x_preferred":[
         "Pamantasang Tribhuvan"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0627\u0645\u0639\u06c1 \u062a\u0631\u06cc\u0628\u06be\u0648\u0646"
     ],
     "name:zho_x_preferred":[
         "\u7279\u91cc\u5e03\u842c\u5927\u5b78"
@@ -145,7 +175,7 @@
         }
     ],
     "wof:id":421171909,
-    "wof:lastmodified":1566669997,
+    "wof:lastmodified":1690849733,
     "wof:name":"Tribhuvan University",
     "wof:parent_id":1092048931,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u0646\u0627\u0647\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Tanahu"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09a8\u09b9\u09c1\u0981 \u099c\u09c7\u09b2\u09be"
     ],
@@ -32,6 +35,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u043d\u0430\u0445\u0443\u043d"
     ],
+    "name:cat_x_preferred":[
+        "Tanahun"
+    ],
     "name:ceb_x_preferred":[
         "Tanahun"
     ],
@@ -41,11 +47,20 @@
     "name:deu_x_preferred":[
         "Tanahu"
     ],
+    "name:deu_x_variant":[
+        "Tanahun"
+    ],
     "name:dty_x_preferred":[
         "\u0924\u0928\u0939\u0941\u0901 \u091c\u093f\u0932\u094d\u0932\u093e"
     ],
     "name:eng_x_preferred":[
         "Tanahu District"
+    ],
+    "name:eng_x_variant":[
+        "Tanahun District"
+    ],
+    "name:epo_x_preferred":[
+        "distrikto Tanahun"
     ],
     "name:fin_x_preferred":[
         "Tanahun piirikunta"
@@ -77,8 +92,14 @@
     "name:lit_x_preferred":[
         "Tanahu rajonas"
     ],
+    "name:ltz_x_preferred":[
+        "Distrikt Tanahun"
+    ],
     "name:mai_x_preferred":[
         "\u0924\u0928\u0939\u0941\u0901 \u091c\u093f\u0932\u093e"
+    ],
+    "name:nan_x_preferred":[
+        "Tanahun Ko\u0101n"
     ],
     "name:nep_x_preferred":[
         "\u0924\u0928\u0939\u0941\u0901 \u091c\u093f\u0932\u094d\u0932\u093e"
@@ -124,6 +145,9 @@
     ],
     "name:vie_x_variant":[
         "Huy\u1ec7n Tanahu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u7eb3\u6e56"
     ],
     "qs:gn_country":"NP",
     "qs:gn_fcode":"ADM3",
@@ -181,7 +205,7 @@
         }
     ],
     "wof:id":421190179,
-    "wof:lastmodified":1566669990,
+    "wof:lastmodified":1690849726,
     "wof:name":"Tanahu",
     "wof:parent_id":1092050053,
     "wof:placetype":"localadmin",

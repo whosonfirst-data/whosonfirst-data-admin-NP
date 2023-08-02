@@ -22,6 +22,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":5.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:awa_x_preferred":[
+        "\u0938\u092a\u094d\u0924\u0930\u0940 \u091c\u093f\u0932\u093e"
+    ],
     "name:bcl_x_preferred":[
         "Distritong Saptari"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:bpy_x_preferred":[
         "\u09b8\u09aa\u09cd\u09a4\u09b0\u09c0"
+    ],
+    "name:cat_x_preferred":[
+        "Saptari"
     ],
     "name:ceb_x_preferred":[
         "Saptar\u012b"
@@ -48,6 +54,9 @@
     ],
     "name:eng_x_preferred":[
         "Saptari District"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0633\u0627\u067e\u062a\u0627\u0631\u06cc"
     ],
     "name:fin_x_preferred":[
         "Saptarin piirikunta"
@@ -72,6 +81,9 @@
     ],
     "name:mai_x_preferred":[
         "\u0938\u092a\u094d\u0924\u0930\u0940 \u091c\u093f\u0932\u093e"
+    ],
+    "name:nan_x_preferred":[
+        "Saptari Ko\u0101n"
     ],
     "name:nep_x_preferred":[
         "\u0938\u092a\u094d\u0924\u0930\u0940 \u091c\u093f\u0932\u094d\u0932\u093e"
@@ -184,7 +196,7 @@
         }
     ],
     "wof:id":1125365267,
-    "wof:lastmodified":1566670002,
+    "wof:lastmodified":1690849739,
     "wof:name":"Saptari",
     "wof:parent_id":1092048485,
     "wof:placetype":"localadmin",

@@ -47,6 +47,9 @@
     "name:eng_x_preferred":[
         "Kavrepalanchok District"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u06a9\u0627\u0648\u0631\u067e\u0627\u0644\u0627\u0646\u0686\u0648\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Kavrepalanchokin piirikunta"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:mai_x_preferred":[
         "\u0915\u093e\u092d\u094d\u0930\u0947\u092a\u0932\u093e\u091e\u094d\u091a\u094b\u0915 \u091c\u093f\u0932\u093e"
+    ],
+    "name:nan_x_preferred":[
+        "Kavrepalanchok Ko\u0101n"
     ],
     "name:nep_x_preferred":[
         "\u0915\u093e\u092d\u094d\u0930\u0947\u092a\u0932\u093e\u091e\u094d\u091a\u094b\u0915 \u091c\u093f\u0932\u094d\u0932\u093e"
@@ -192,7 +198,7 @@
         }
     ],
     "wof:id":421188595,
-    "wof:lastmodified":1566669988,
+    "wof:lastmodified":1690849722,
     "wof:name":"Kavrepalanchok",
     "wof:parent_id":1092048887,
     "wof:placetype":"localadmin",

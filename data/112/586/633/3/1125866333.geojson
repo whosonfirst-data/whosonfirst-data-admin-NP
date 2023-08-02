@@ -40,8 +40,17 @@
     "name:fra_x_preferred":[
         "Siraha"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05e8\u05d0\u05d4\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Siraha"
+    ],
     "name:jpn_x_preferred":[
         "\u30b7\u30e9\u30cf"
+    ],
+    "name:kur_x_preferred":[
+        "Siraha"
     ],
     "name:mai_x_preferred":[
         "\u0938\u093f\u0930\u093e\u0939\u093e \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
@@ -129,7 +138,7 @@
         }
     ],
     "wof:id":1125866333,
-    "wof:lastmodified":1566670000,
+    "wof:lastmodified":1690849738,
     "wof:name":"Sir\u0101h\u0101",
     "wof:parent_id":1092050497,
     "wof:placetype":"locality",

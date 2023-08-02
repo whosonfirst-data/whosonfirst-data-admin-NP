@@ -22,6 +22,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:awa_x_preferred":[
+        "\u0939\u0941\u092e\u094d\u0932\u093e \u091c\u093f\u0932\u093e"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09c1\u09ae\u09cd\u09b2\u09be \u099c\u09c7\u09b2\u09be"
     ],
@@ -73,6 +76,9 @@
     "name:mal_x_preferred":[
         "\u0d39\u0d02\u0d32 \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
+    "name:nan_x_preferred":[
+        "Humla Ko\u0101n"
+    ],
     "name:nep_x_preferred":[
         "\u0939\u0941\u092e\u094d\u0932\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
     ],
@@ -103,6 +109,9 @@
     "name:san_x_preferred":[
         "\u0939\u0941\u092e\u094d\u0932\u093e\u092e\u0923\u094d\u0921\u0932\u092e\u094d"
     ],
+    "name:sat_x_preferred":[
+        "\u1c66\u1c69\u1c62\u1c5e\u1c5f \u1c66\u1c5a\u1c71\u1c5a\u1c5b"
+    ],
     "name:spa_x_preferred":[
         "Humla"
     ],
@@ -123,6 +132,9 @@
     ],
     "name:zho_x_preferred":[
         "\u80e1\u59c6\u62c9\u7e23"
+    ],
+    "name:zho_x_variant":[
+        "\u4e4c\u59c6\u62c9\u533a"
     ],
     "qs_pg:aaroncc":"NP",
     "qs_pg:gn_country":"NP",
@@ -186,7 +198,7 @@
         }
     ],
     "wof:id":1125377779,
-    "wof:lastmodified":1566670000,
+    "wof:lastmodified":1690849738,
     "wof:name":"Humla",
     "wof:parent_id":1092050353,
     "wof:placetype":"localadmin",

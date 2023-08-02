@@ -41,6 +41,9 @@
     "name:jpn_x_preferred":[
         "\u30c9\u30a5\u30ea\u30b1\u30eb"
     ],
+    "name:kur_x_preferred":[
+        "Dhulikhel"
+    ],
     "name:mai_x_preferred":[
         "\u0927\u0941\u0932\u093f\u0916\u0947\u0932 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:urd_x_variant":[
         "\u062f\u06be\u0644\u06a9\u06be\u06cc\u0644"
+    ],
+    "name:zho_x_preferred":[
+        "\u5716\u5229\u51f1\u723e"
     ],
     "qs:gn_country":"NP",
     "qs:gn_fcode":"PPL",
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":421194031,
-    "wof:lastmodified":1566669982,
+    "wof:lastmodified":1690849715,
     "wof:name":"Dhulikhel",
     "wof:parent_id":1092048887,
     "wof:placetype":"locality",

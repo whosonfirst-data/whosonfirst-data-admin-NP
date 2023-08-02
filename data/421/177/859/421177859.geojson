@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062f\u0645\u0643"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0645\u0643"
+    ],
     "name:bho_x_preferred":[
         "\u0926\u092e\u0915"
     ],
@@ -44,6 +47,9 @@
     "name:fra_x_preferred":[
         "Damak"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05de\u05e7"
+    ],
     "name:hif_x_preferred":[
         "Damak"
     ],
@@ -58,6 +64,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30c0\u30de\u30af"
+    ],
+    "name:kur_x_preferred":[
+        "Damak"
     ],
     "name:mai_x_preferred":[
         "\u0926\u092e\u0915 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
@@ -79,6 +88,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0414\u0430\u043c\u0430\u043a"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c6b\u1c5a\u1c62\u1c5a\u1c60"
     ],
     "name:urd_x_preferred":[
         "\u062f\u0645\u06a9"
@@ -140,7 +152,7 @@
         }
     ],
     "wof:id":421177859,
-    "wof:lastmodified":1566669994,
+    "wof:lastmodified":1690849729,
     "wof:name":"Damak",
     "wof:parent_id":1092050367,
     "wof:placetype":"locality",

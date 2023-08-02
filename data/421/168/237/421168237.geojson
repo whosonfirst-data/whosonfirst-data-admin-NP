@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bho_x_preferred":[
+        "\u0932\u094b\u092e\u093e\u0928\u094d\u0925\u093e\u0902\u0917"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u043e\u043c\u0430\u043d\u0442\u0445\u0430\u043d\u0433"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:jpn_x_variant":[
         "\u30ed\u30fc\u30de\u30f3\u30bf\u30f3"
+    ],
+    "name:kor_x_preferred":[
+        "\ub85c\ub9cc\ud0d5"
     ],
     "name:lit_x_preferred":[
         "Lo Manthangas"
@@ -97,6 +103,9 @@
     ],
     "name:und_x_variant":[
         "Loh Mantung"
+    ],
+    "name:vie_x_preferred":[
+        "Lo Manthang"
     ],
     "name:zho_x_preferred":[
         "\u83ab\u65af\u5766"
@@ -158,7 +167,7 @@
         }
     ],
     "wof:id":421168237,
-    "wof:lastmodified":1566669982,
+    "wof:lastmodified":1690849714,
     "wof:name":"Must\u00e5ng",
     "wof:parent_id":1092048365,
     "wof:placetype":"locality",

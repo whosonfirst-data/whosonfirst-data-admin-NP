@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u062f\u0647\u0627\u0646\u063a\u0627\u062f\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0647\u0627\u0646\u062c\u0627\u062f\u0649"
+    ],
     "name:ben_x_preferred":[
         "\u09a7\u09be\u09a8\u0997\u09be\u09a6\u09bf"
     ],
@@ -55,6 +58,9 @@
     "name:fra_x_preferred":[
         "Dhangadhi"
     ],
+    "name:gle_x_preferred":[
+        "Dhangadhi"
+    ],
     "name:guj_x_preferred":[
         "\u0aa7\u0a82\u0a97\u0aa7\u0abf"
     ],
@@ -85,11 +91,17 @@
     "name:kor_x_preferred":[
         "\ub2f9\ud558\ub514"
     ],
+    "name:kur_x_preferred":[
+        "Dhangadhi"
+    ],
     "name:lav_x_preferred":[
         "Dhangadhi"
     ],
     "name:lit_x_preferred":[
         "Dangadis"
+    ],
+    "name:mai_x_preferred":[
+        "\u0927\u0928\u0917\u0922\u0940 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
     "name:mar_x_preferred":[
         "\u0927\u0928\u0917\u093e\u0927\u0940"
@@ -144,6 +156,12 @@
     ],
     "name:urd_x_preferred":[
         "\u062f\u06be\u0646\u06af\u0688\u06be\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u062f\u06be\u0646 \u06af\u0691\u06be\u06cc"
+    ],
+    "name:vec_x_preferred":[
+        "Dhangadhi"
     ],
     "name:vie_x_preferred":[
         "Dhangadhi"
@@ -282,7 +300,7 @@
         }
     ],
     "wof:id":890431431,
-    "wof:lastmodified":1636494952,
+    "wof:lastmodified":1690849736,
     "wof:name":"Dhangarhi",
     "wof:parent_id":1092048743,
     "wof:placetype":"locality",

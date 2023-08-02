@@ -106,6 +106,9 @@
     "name:mal_x_preferred":[
         "\u0d1c\u0d41\u0d02\u0d32 \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
+    "name:nan_x_preferred":[
+        "Jumla Ko\u0101n"
+    ],
     "name:nep_x_preferred":[
         "\u091c\u0941\u092e\u094d\u0932\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
     ],
@@ -133,6 +136,9 @@
     "name:san_x_preferred":[
         "\u091c\u0941\u092e\u094d\u0932\u093e\u092e\u0923\u094d\u0921\u0932\u092e\u094d"
     ],
+    "name:sat_x_preferred":[
+        "\u1c61\u1c69\u1c62\u1c5e\u1c5f \u1c66\u1c5a\u1c71\u1c5a\u1c5b"
+    ],
     "name:spa_x_preferred":[
         "Jumla"
     ],
@@ -147,6 +153,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0436\u0443\u043c\u043b\u0430"
+    ],
+    "name:ukr_x_variant":[
+        "\u0440\u0430\u0439\u043e\u043d \u0414\u0436\u0443\u043c\u043b\u0430"
     ],
     "name:urd_x_preferred":[
         "\u062c\u0648\u0645\u0644\u0627 \u0636\u0644\u0639"
@@ -200,7 +209,7 @@
         }
     ],
     "wof:id":1092050797,
-    "wof:lastmodified":1636494950,
+    "wof:lastmodified":1690849706,
     "wof:name":"Jumla",
     "wof:parent_id":-1,
     "wof:placetype":"county",

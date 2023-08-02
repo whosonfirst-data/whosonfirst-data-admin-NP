@@ -20,6 +20,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:awa_x_preferred":[
+        "\u0930\u0938\u0941\u0935\u093e \u091c\u093f\u0932\u093e"
+    ],
     "name:ben_x_preferred":[
         "\u09b0\u09b8\u09c1\u09af\u09bc\u09be \u099c\u09c7\u09b2\u09be"
     ],
@@ -44,6 +47,9 @@
     "name:eng_x_preferred":[
         "Rasuwa District"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0631\u0627\u0633\u0648\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "Rasuwan piirikunta"
     ],
@@ -67,6 +73,9 @@
     ],
     "name:mai_x_preferred":[
         "\u0930\u0938\u0941\u0935\u093e \u091c\u093f\u0932\u093e"
+    ],
+    "name:nan_x_preferred":[
+        "Rasuwa Ko\u0101n"
     ],
     "name:nep_x_preferred":[
         "\u0930\u0938\u0941\u0935\u093e \u091c\u093f\u0932\u094d\u0932\u093e"
@@ -109,6 +118,9 @@
     ],
     "name:vie_x_preferred":[
         "Rasuwa"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u82cf\u74e6\u53bf"
     ],
     "qs:gn_country":"NP",
     "qs:gn_fcode":"ADM3",
@@ -186,7 +198,7 @@
         }
     ],
     "wof:id":421188599,
-    "wof:lastmodified":1566669988,
+    "wof:lastmodified":1690849723,
     "wof:name":"Rasuwa",
     "wof:parent_id":1092048409,
     "wof:placetype":"localadmin",
