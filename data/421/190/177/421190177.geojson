@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:awa_x_preferred":[
+        "\u092e\u0928\u093e\u0919 \u091c\u093f\u0932\u093e"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09a8\u09be\u0999 \u099c\u09c7\u09b2\u09be"
     ],
@@ -65,6 +68,9 @@
     "name:mai_x_preferred":[
         "\u092e\u0928\u093e\u0919 \u091c\u093f\u0932\u093e"
     ],
+    "name:nan_x_preferred":[
+        "Manang Ko\u0101n"
+    ],
     "name:nep_x_preferred":[
         "\u092e\u0928\u093e\u0919 \u091c\u093f\u0932\u094d\u0932\u093e"
     ],
@@ -94,6 +100,9 @@
     ],
     "name:san_x_preferred":[
         "\u092e\u0928\u093e\u0919\u092e\u0923\u094d\u0921\u0932\u092e\u094d"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c62\u1c5a\u1c71\u1c5f\u1c5d \u1c61\u1c64\u1c5e\u1c5f\u1c79"
     ],
     "name:spa_x_preferred":[
         "Manang"
@@ -166,7 +175,7 @@
         }
     ],
     "wof:id":421190177,
-    "wof:lastmodified":1566669990,
+    "wof:lastmodified":1690849726,
     "wof:name":"Manang",
     "wof:parent_id":1092049041,
     "wof:placetype":"localadmin",

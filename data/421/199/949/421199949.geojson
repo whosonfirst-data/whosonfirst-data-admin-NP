@@ -47,6 +47,9 @@
     "name:eng_x_preferred":[
         "Khotang District"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u06a9\u0648\u062a\u0627\u0646\u06af"
+    ],
     "name:fin_x_preferred":[
         "Khotangin piirikunta"
     ],
@@ -73,6 +76,9 @@
     ],
     "name:mal_x_preferred":[
         "\u0d16\u0d4b\u0d1f\u0d19\u0d4d\u0d15\u0d4d \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
+    ],
+    "name:nan_x_preferred":[
+        "Khotang Ko\u0101n"
     ],
     "name:nep_x_preferred":[
         "\u0916\u094b\u091f\u093e\u0919 \u091c\u093f\u0932\u094d\u0932\u093e"
@@ -193,7 +199,7 @@
         }
     ],
     "wof:id":421199949,
-    "wof:lastmodified":1566669991,
+    "wof:lastmodified":1690849727,
     "wof:name":"Khotang",
     "wof:parent_id":1092050841,
     "wof:placetype":"localadmin",

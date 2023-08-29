@@ -25,6 +25,15 @@
     "name:arg_x_preferred":[
         "Pokhara"
     ],
+    "name:awa_x_preferred":[
+        "\u092a\u094b\u0916\u0930\u093e"
+    ],
+    "name:aze_x_preferred":[
+        "Pokxara"
+    ],
+    "name:bel_x_preferred":[
+        "\u041f\u043e\u043a\u0445\u0430\u0440\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09cb\u0996\u09b0\u09be"
     ],
@@ -82,6 +91,9 @@
     "name:fra_x_preferred":[
         "Pokhara"
     ],
+    "name:gle_x_preferred":[
+        "Pokhara"
+    ],
     "name:glg_x_preferred":[
         "Pokhara"
     ],
@@ -100,6 +112,9 @@
     "name:hun_x_preferred":[
         "Pokhara"
     ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u056f\u0570\u0561\u0580\u0561"
+    ],
     "name:ind_x_preferred":[
         "Pokhara"
     ],
@@ -114,6 +129,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud3ec\uce74\ub77c"
+    ],
+    "name:kur_x_preferred":[
+        "Pokhara"
     ],
     "name:lav_x_preferred":[
         "Pokara"
@@ -135,6 +153,9 @@
     ],
     "name:msa_x_preferred":[
         "Pokhara"
+    ],
+    "name:mya_x_preferred":[
+        "\u1015\u102d\u102f\u1001\u102b\u101b\u102c\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:nep_x_preferred":[
         "\u092a\u094b\u0916\u0930\u093e"
@@ -172,6 +193,9 @@
     "name:rus_x_preferred":[
         "\u041f\u043e\u043a\u0445\u0430\u0440\u0430"
     ],
+    "name:sat_x_preferred":[
+        "\u1c6f\u1c5a\u1c60\u1c77\u1c5a\u1c68\u1c5f"
+    ],
     "name:sin_x_preferred":[
         "\u0db4\u0ddc\u0d9a\u0dca\u0dc4\u0dcf\u0dbb\u0dcf"
     ],
@@ -208,11 +232,20 @@
     "name:urd_x_preferred":[
         "\u067e\u0648\u06a9\u06be\u0631\u0627"
     ],
+    "name:vec_x_preferred":[
+        "Pokhara"
+    ],
     "name:vep_x_preferred":[
         "Pokhar"
     ],
     "name:vie_x_preferred":[
         "Pokhara"
+    ],
+    "name:war_x_preferred":[
+        "Pokhara"
+    ],
+    "name:wuu_x_preferred":[
+        "\u535a\u5361\u62c9"
     ],
     "name:zho_x_preferred":[
         "\u535a\u514b\u62c9"
@@ -352,7 +385,7 @@
         }
     ],
     "wof:id":890443741,
-    "wof:lastmodified":1566669999,
+    "wof:lastmodified":1690849737,
     "wof:name":"Pokhara",
     "wof:parent_id":1092049331,
     "wof:placetype":"locality",

@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Tansen"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09a8\u09b8\u09c7\u09a8"
     ],
@@ -29,6 +32,9 @@
     "name:eng_x_preferred":[
         "Tansen"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0646\u0633\u0646"
+    ],
     "name:fra_x_preferred":[
         "Tansen"
     ],
@@ -37,6 +43,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0924\u093e\u0928\u0938\u0947\u0928"
+    ],
+    "name:hin_x_variant":[
+        "\u0924\u093e\u0928\u0938\u0947\u0928 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
     "name:ind_x_preferred":[
         "Tansen"
@@ -49,6 +58,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0ca4\u0cbe\u0ca8\u0ccd \u0cb8\u0cc7\u0ca8\u0ccd"
+    ],
+    "name:kur_x_preferred":[
+        "Tansen"
     ],
     "name:lit_x_preferred":[
         "Tansenas"
@@ -171,7 +183,7 @@
         }
     ],
     "wof:id":421196947,
-    "wof:lastmodified":1566669989,
+    "wof:lastmodified":1690849725,
     "wof:name":"T\u00e5nsen",
     "wof:parent_id":1092050889,
     "wof:placetype":"locality",

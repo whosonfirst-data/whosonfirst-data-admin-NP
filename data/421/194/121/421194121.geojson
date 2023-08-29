@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0647\u0627\u0643\u062a\u0627\u0628\u0648\u0631"
     ],
+    "name:ast_x_preferred":[
+        "Bhaktapur"
+    ],
+    "name:awa_x_preferred":[
+        "\u092d\u0915\u094d\u0924\u092a\u0941\u0930"
+    ],
     "name:aze_x_preferred":[
         "Bhaktapur"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0445\u0430\u043a\u0442\u0430\u043f\u0443\u0440"
     ],
     "name:bho_x_preferred":[
         "\u092d\u093e\u0926\u0917\u093e\u0909\u0901"
@@ -32,8 +41,14 @@
     "name:cat_x_preferred":[
         "Bhaktapur"
     ],
+    "name:ces_x_preferred":[
+        "Bhaktap\u00far"
+    ],
     "name:deu_x_preferred":[
         "Bhaktapur"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ac\u03ba\u03c4\u03b1\u03c0\u03bf\u03c5\u03c1"
     ],
     "name:eng_x_preferred":[
         "Bhaktapur"
@@ -77,8 +92,14 @@
     "name:jpn_x_preferred":[
         "\u30d0\u30af\u30bf\u30d7\u30eb"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10f0\u10d0\u10d9\u10e2\u10d0\u10de\u10e3\u10e0\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ubc15\ud0c0\ud478\ub974"
+    ],
+    "name:kur_x_preferred":[
+        "Bhaktapur"
     ],
     "name:lit_x_preferred":[
         "Bhaktapuras"
@@ -130,6 +151,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0b95\u0bcd\u0ba4\u0baa\u0bc2\u0bb0\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2d\u0c15\u0c4d\u0c24\u0c3e\u0c2a\u0c42\u0c30\u0c4d"
     ],
     "name:tha_x_preferred":[
         "\u0e20\u0e31\u0e01\u0e15\u0e1b\u0e38\u0e23\u0e30"
@@ -208,7 +232,7 @@
         }
     ],
     "wof:id":421194121,
-    "wof:lastmodified":1566669982,
+    "wof:lastmodified":1690849715,
     "wof:name":"Bhaktapur",
     "wof:parent_id":1092048853,
     "wof:placetype":"localadmin",

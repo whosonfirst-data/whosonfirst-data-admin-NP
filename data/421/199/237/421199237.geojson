@@ -23,8 +23,14 @@
     "name:ben_x_preferred":[
         "\u09ac\u09bf\u09b0\u0997\u09c1\u099e\u09cd\u099c"
     ],
+    "name:ben_x_variant":[
+        "\u09ac\u09c0\u09b0\u0997\u099e\u09cd\u099c"
+    ],
     "name:bho_x_preferred":[
         "\u0935\u0940\u0930\u0917\u091e\u094d\u091c"
+    ],
+    "name:bho_x_variant":[
+        "\u092c\u0940\u0930\u0917\u0902\u091c"
     ],
     "name:bul_x_preferred":[
         "\u0411\u0438\u0440\u0433\u0430\u043d\u0434\u0436"
@@ -62,6 +68,9 @@
     "name:fra_x_preferred":[
         "Birganj"
     ],
+    "name:gle_x_preferred":[
+        "Birgunj"
+    ],
     "name:guj_x_preferred":[
         "\u0aac\u0abf\u0ab0\u0acd\u0a97\u0a82\u0a9c"
     ],
@@ -95,6 +104,9 @@
     "name:kor_x_preferred":[
         "\ube44\ub974\uac04\uc9c0"
     ],
+    "name:kur_x_preferred":[
+        "Birganj"
+    ],
     "name:lav_x_preferred":[
         "Birgand\u017ea"
     ],
@@ -105,7 +117,8 @@
         "\u092c\u0940\u0930\u0917\u091e\u094d\u091c \u0909\u092a\u092e\u0939\u093e\u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
     "name:mai_x_variant":[
-        "\u0935\u093f\u0930\u0917\u091e\u094d\u091c"
+        "\u0935\u093f\u0930\u0917\u091e\u094d\u091c",
+        "\u092c\u0940\u0930\u0917\u091e\u094d\u091c"
     ],
     "name:mar_x_preferred":[
         "\u092c\u093f\u0930\u0917\u0941\u0902\u091c"
@@ -117,7 +130,8 @@
         "\u092c\u0940\u0930\u0917\u091e\u094d\u091c \u0909\u092a\u092e\u0939\u093e\u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
     "name:nep_x_variant":[
-        "\u092c\u0940\u0930\u0917\u091e\u094d\u091c"
+        "\u092c\u0940\u0930\u0917\u091e\u094d\u091c",
+        "\u0935\u0940\u0930\u0917\u0902\u091c"
     ],
     "name:new_x_preferred":[
         "\u0935\u0940\u0930\u0917\u091e\u094d\u091c"
@@ -169,6 +183,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0631\u06af\u0646\u062c"
+    ],
+    "name:vec_x_preferred":[
+        "Birganj"
     ],
     "name:vie_x_preferred":[
         "Birgunj"
@@ -329,7 +346,7 @@
         }
     ],
     "wof:id":421199237,
-    "wof:lastmodified":1566669991,
+    "wof:lastmodified":1690849727,
     "wof:name":"B\u012brganj",
     "wof:parent_id":1092050453,
     "wof:placetype":"locality",

@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u062a\u064a\u0643\u0627\u0628\u0648\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u064a\u0643\u0627\u0628\u0648\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Tikapur"
+    ],
     "name:ben_x_preferred":[
         "\u099f\u09bf\u0995\u09be\u09aa\u09cb\u09b0\u09be"
     ],
@@ -41,6 +47,9 @@
     "name:eng_x_preferred":[
         "Tikapur"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u06a9\u0627\u067e\u0648\u0631"
+    ],
     "name:fin_x_preferred":[
         "Tikapur"
     ],
@@ -49,6 +58,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0abf\u0a95\u0abe\u0aaa\u0ac1\u0ab0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d9\u05e7\u05e4\u05d5\u05e8"
     ],
     "name:hin_x_preferred":[
         "\u091f\u0940\u0915\u093e\u092a\u0941\u0930"
@@ -68,11 +80,17 @@
     "name:kor_x_preferred":[
         "\ud2f0\uce74\ud478\ub974"
     ],
+    "name:kur_x_preferred":[
+        "Tikapur"
+    ],
     "name:lav_x_preferred":[
         "Tikapura"
     ],
     "name:lit_x_preferred":[
         "Tikapuras"
+    ],
+    "name:mai_x_preferred":[
+        "\u091f\u0940\u0915\u093e\u092a\u0941\u0930 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
     "name:mar_x_preferred":[
         "\u091f\u093f\u0915\u093e\u092a\u0942\u0930"
@@ -188,7 +206,7 @@
         }
     ],
     "wof:id":421199233,
-    "wof:lastmodified":1566669991,
+    "wof:lastmodified":1690849726,
     "wof:name":"T\u012bk\u0101pur",
     "wof:parent_id":1092048743,
     "wof:placetype":"locality",

@@ -80,6 +80,9 @@
     "name:mai_x_preferred":[
         "\u0905\u091b\u093e\u092e \u091c\u093f\u0932\u093e"
     ],
+    "name:nan_x_preferred":[
+        "Achham Ko\u0101n"
+    ],
     "name:nep_x_preferred":[
         "\u0905\u091b\u093e\u092e \u091c\u093f\u0932\u094d\u0932\u093e"
     ],
@@ -121,6 +124,9 @@
     ],
     "name:vie_x_preferred":[
         "Achham"
+    ],
+    "name:zho_x_preferred":[
+        "Achham\u5340"
     ],
     "qs:gn_country":"NP",
     "qs:gn_fcode":"ADM3",
@@ -198,7 +204,7 @@
         }
     ],
     "wof:id":421184575,
-    "wof:lastmodified":1566669992,
+    "wof:lastmodified":1690849727,
     "wof:name":"Achham",
     "wof:parent_id":1092048527,
     "wof:placetype":"localadmin",

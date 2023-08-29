@@ -29,11 +29,20 @@
     "name:eng_x_preferred":[
         "Jaleswor"
     ],
+    "name:eng_x_variant":[
+        "Jaleshwar"
+    ],
     "name:fra_x_preferred":[
         "Jaleshwor"
     ],
+    "name:hin_x_preferred":[
+        "\u091c\u0932\u0947\u0936\u094d\u0935\u0930"
+    ],
     "name:jpn_x_preferred":[
         "\u30b8\u30e3\u30ec\u30c3\u30b9\u30ef\u30fc\u30eb"
+    ],
+    "name:kur_x_preferred":[
+        "Jaleshwar"
     ],
     "name:mai_x_preferred":[
         "\u091c\u0932\u0947\u0936\u094d\u0935\u0930 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
@@ -111,7 +120,7 @@
         }
     ],
     "wof:id":421167325,
-    "wof:lastmodified":1566669983,
+    "wof:lastmodified":1690849716,
     "wof:name":"Jalwara",
     "wof:parent_id":1092050709,
     "wof:placetype":"locality",

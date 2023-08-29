@@ -47,6 +47,9 @@
     "name:eng_x_preferred":[
         "Nuwakot District"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0646\u0648\u0648\u0627\u06a9\u0648\u062a"
+    ],
     "name:fin_x_preferred":[
         "Nuwakotin piirikunta"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:mai_x_preferred":[
         "\u0928\u0941\u0935\u093e\u0915\u094b\u091f \u091c\u093f\u0932\u093e"
+    ],
+    "name:nan_x_preferred":[
+        "Nuwakot Ko\u0101n"
     ],
     "name:nep_x_preferred":[
         "\u0928\u0941\u0935\u093e\u0915\u094b\u091f \u091c\u093f\u0932\u094d\u0932\u093e"
@@ -168,7 +174,7 @@
         }
     ],
     "wof:id":421170529,
-    "wof:lastmodified":1566669993,
+    "wof:lastmodified":1690849729,
     "wof:name":"Nuwakot",
     "wof:parent_id":1092049133,
     "wof:placetype":"localadmin",

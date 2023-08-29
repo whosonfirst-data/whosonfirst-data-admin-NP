@@ -79,6 +79,9 @@
     "name:hin_x_preferred":[
         "\u0938\u0932\u094d\u092f\u093e\u0928 \u091c\u093f\u0932\u093e"
     ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u056c\u0575\u0561\u0576 \u0574\u0561\u0580\u0566"
+    ],
     "name:ita_x_preferred":[
         "Salyan"
     ],
@@ -93,6 +96,9 @@
     ],
     "name:mai_x_preferred":[
         "\u0938\u0932\u094d\u092f\u093e\u0928 \u091c\u093f\u0932\u093e"
+    ],
+    "name:nan_x_preferred":[
+        "Salyan Ko\u0101n"
     ],
     "name:nep_x_preferred":[
         "\u0938\u0932\u094d\u092f\u093e\u0928 \u091c\u093f\u0932\u094d\u0932\u093e"
@@ -123,6 +129,9 @@
     ],
     "name:swe_x_preferred":[
         "Salyan"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bb2\u0bcd\u0baf\u0bbe\u0ba9\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tur_x_preferred":[
         "Salyan"
@@ -188,7 +197,7 @@
         }
     ],
     "wof:id":1092049579,
-    "wof:lastmodified":1636494950,
+    "wof:lastmodified":1690849698,
     "wof:name":"Salyan",
     "wof:parent_id":-1,
     "wof:placetype":"county",

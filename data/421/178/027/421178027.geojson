@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u062a\u0648\u0627\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u062a\u0648\u0627\u0644"
+    ],
+    "name:awa_x_preferred":[
+        "\u092c\u0941\u091f\u0935\u0932"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u099f\u0993\u09af\u09bc\u09be\u09b2"
     ],
@@ -47,13 +53,22 @@
     "name:eng_x_preferred":[
         "Butwal"
     ],
+    "name:epo_x_preferred":[
+        "Butwal"
+    ],
     "name:eus_x_preferred":[
         "Butwal"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u062a\u0648\u0627\u0644"
     ],
     "name:fin_x_preferred":[
         "Butwal"
     ],
     "name:fra_x_preferred":[
+        "Butwal"
+    ],
+    "name:gle_x_preferred":[
         "Butwal"
     ],
     "name:guj_x_preferred":[
@@ -79,6 +94,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubd93\uc648"
+    ],
+    "name:kur_x_preferred":[
+        "Butwal"
     ],
     "name:lav_x_preferred":[
         "Butvala"
@@ -161,6 +179,9 @@
     "name:urd_x_variant":[
         "\u0628\u0679\u0648\u0644"
     ],
+    "name:vec_x_preferred":[
+        "Butwal"
+    ],
     "name:vie_x_preferred":[
         "Butwal"
     ],
@@ -225,7 +246,7 @@
         }
     ],
     "wof:id":421178027,
-    "wof:lastmodified":1566669995,
+    "wof:lastmodified":1690849731,
     "wof:name":"Butw\u00e5l",
     "wof:parent_id":1092048457,
     "wof:placetype":"locality",

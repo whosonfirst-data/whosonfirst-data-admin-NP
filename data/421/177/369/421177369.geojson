@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Itahari"
+    ],
     "name:bho_x_preferred":[
         "\u0907\u091f\u0939\u0930\u0940"
     ],
@@ -35,11 +38,17 @@
     "name:eng_x_preferred":[
         "Itahari"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u062a\u0627\u0647\u0627\u0631\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Itahari"
     ],
     "name:fra_x_preferred":[
         "Itahari"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d8\u05d4\u05d0\u05e8\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u0907\u091f\u0939\u0930\u0940"
@@ -49,6 +58,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30a4\u30bf\u30cf\u30ea"
+    ],
+    "name:kur_x_preferred":[
+        "Itahari"
     ],
     "name:mai_x_preferred":[
         "\u0907\u091f\u0939\u0930\u0940 \u0909\u092a\u092e\u0939\u093e\u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
@@ -74,6 +86,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0418\u0442\u0430\u0445\u0430\u0440\u0438"
+    ],
+    "name:san_x_preferred":[
+        "\u0907\u091f\u0939\u0930\u0940"
     ],
     "name:tam_x_preferred":[
         "\u0b87\u0ba4\u0bbe\u0bb0\u0bbf"
@@ -148,7 +163,7 @@
         }
     ],
     "wof:id":421177369,
-    "wof:lastmodified":1566669994,
+    "wof:lastmodified":1690849729,
     "wof:name":"Ithari",
     "wof:parent_id":1092049923,
     "wof:placetype":"locality",
