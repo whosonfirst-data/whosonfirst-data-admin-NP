@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":13.604521,
-    "geom:area_square_m":148155173971.803619,
+    "geom:area_square_m":148155173971.802307,
     "geom:bbox":"80.052222,26.347779,88.199298,30.446945",
     "geom:latitude":28.257628,
     "geom:longitude":83.943041,
@@ -14,6 +14,9 @@
     "iso:country":"NP",
     "itu:country_code":[
         "977"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "NP"
@@ -1132,7 +1135,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"977",
     "statoids:ds":"NEP",
     "statoids:fifa":"NEP",
@@ -1191,7 +1195,7 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"8732aab23751f617249118a30e595502",
+    "wof:geomhash":"9a7181147fc22f6b19f8201a96911cd0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1205,12 +1209,12 @@
     "wof:lang_x_spoken":[
         "nep"
     ],
-    "wof:lastmodified":1690849671,
+    "wof:lastmodified":1694492049,
     "wof:name":"Nepal",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":30986975,
-    "wof:population_rank":15,
+    "wof:population":28608710,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:shortcode":"NP",
     "wof:superseded_by":[],
