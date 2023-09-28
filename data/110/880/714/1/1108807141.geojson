@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.880133,
-    "geom:area_square_m":9702951787.689545,
+    "geom:area_square_m":9702951595.315231,
     "geom:bbox":"84.484413,26.419723,87.013187,27.461299",
     "geom:latitude":26.928123,
     "geom:longitude":85.691891,
@@ -23,7 +23,7 @@
     "lbl:longitude":85.356931,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
     "name:eng_x_preferred":[
@@ -70,11 +70,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "fips:code":"NP-TW",
-        "hasc:id":"NP.TW"
+        "hasc:id":"NP.TW",
+        "iso:code":"NP-P2"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NP",
     "wof:created":1486064909,
-    "wof:geomhash":"98a01e201aba27c5d6b87f951815a572",
+    "wof:geomhash":"62d6253fac2cc151e59018515982268f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,7 +91,7 @@
     "wof:lang_x_spoken":[
         "nep"
     ],
-    "wof:lastmodified":1627522479,
+    "wof:lastmodified":1695884285,
     "wof:name":"Province No. 2",
     "wof:parent_id":85632465,
     "wof:placetype":"region",
