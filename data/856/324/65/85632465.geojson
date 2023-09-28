@@ -1174,6 +1174,7 @@
         "hasc:id":"NP",
         "icao:code":"9N",
         "ioc:id":"NEP",
+        "iso:code":"NP",
         "itu:id":"NPL",
         "loc:id":"n79091522",
         "m49:code":"524",
@@ -1188,6 +1189,7 @@
         "wk:page":"Nepal",
         "wmo:id":"NP"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NP",
     "wof:country_alpha3":"NPL",
     "wof:geom_alt":[
@@ -1209,7 +1211,7 @@
     "wof:lang_x_spoken":[
         "nep"
     ],
-    "wof:lastmodified":1694639503,
+    "wof:lastmodified":1695881158,
     "wof:name":"Nepal",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
