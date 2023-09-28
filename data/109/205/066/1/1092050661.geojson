@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.174886,
-    "geom:area_square_m":1910159117.906695,
+    "geom:area_square_m":1910159058.691297,
     "geom:bbox":"84.62393,27.670394,85.269248,28.348131",
     "geom:latitude":27.955049,
     "geom:longitude":84.959887,
@@ -167,9 +167,10 @@
         "hasc:id":"NP.TH.DH",
         "wd:id":"Q28454"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898537,
-    "wof:geomhash":"a21ae2ff0ccf05a42de28fcf63de5ea7",
+    "wof:geomhash":"4f69e3ce1225cb4366335b4491a17123",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -185,7 +186,7 @@
         }
     ],
     "wof:id":1092050661,
-    "wof:lastmodified":1690849710,
+    "wof:lastmodified":1695886592,
     "wof:name":"Dhading",
     "wof:parent_id":-1,
     "wof:placetype":"county",

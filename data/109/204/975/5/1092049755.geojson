@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.22799,
-    "geom:area_square_m":2491101477.619501,
+    "geom:area_square_m":2491101411.972244,
     "geom:bbox":"85.439509,27.613085,86.059167,28.202551",
     "geom:latitude":27.915273,
     "geom:longitude":85.739427,
@@ -168,9 +168,10 @@
         "hasc:id":"NP.TH.SP",
         "wd:id":"Q28445"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898499,
-    "wof:geomhash":"d25a4b4f503b32fb207ddbda1837c160",
+    "wof:geomhash":"5500f7bcc3641cbb67d7d27bcc49dc64",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -186,7 +187,7 @@
         }
     ],
     "wof:id":1092049755,
-    "wof:lastmodified":1690849705,
+    "wof:lastmodified":1695886590,
     "wof:name":"Sindhupalchok",
     "wof:parent_id":-1,
     "wof:placetype":"county",

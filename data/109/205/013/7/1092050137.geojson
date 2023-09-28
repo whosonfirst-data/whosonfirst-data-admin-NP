@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061108,
-    "geom:area_square_m":672333306.538241,
+    "geom:area_square_m":672333370.50642,
     "geom:bbox":"87.391702,26.968686,87.751363,27.297855",
     "geom:latitude":27.154449,
     "geom:longitude":87.548951,
@@ -198,9 +198,10 @@
         "hasc:id":"NP.ON.TR",
         "wd:id":"Q28585"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898514,
-    "wof:geomhash":"9715d9159ac35daa514ca8071fa9ddbd",
+    "wof:geomhash":"7824c882f56f33569c67d323f0caddf6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -216,7 +217,7 @@
         }
     ],
     "wof:id":1092050137,
-    "wof:lastmodified":1690849707,
+    "wof:lastmodified":1695886590,
     "wof:name":"Terhathum",
     "wof:parent_id":-1,
     "wof:placetype":"county",

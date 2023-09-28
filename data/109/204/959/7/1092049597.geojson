@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.317281,
-    "geom:area_square_m":3477329788.235755,
+    "geom:area_square_m":3477330054.889214,
     "geom:bbox":"86.942423,27.138421,87.675855,27.957924",
     "geom:latitude":27.582445,
     "geom:longitude":87.278194,
@@ -161,9 +161,10 @@
         "hasc:id":"NP.ON.SS",
         "wd:id":"Q28596"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898493,
-    "wof:geomhash":"2fbdbf180d79db466672c336dea4927d",
+    "wof:geomhash":"3581f5c2638cee13f7361d3879927469",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -179,7 +180,7 @@
         }
     ],
     "wof:id":1092049597,
-    "wof:lastmodified":1690849699,
+    "wof:lastmodified":1695886587,
     "wof:name":"Sankhuwasabha",
     "wof:parent_id":-1,
     "wof:placetype":"county",

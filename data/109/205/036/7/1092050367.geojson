@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.145972,
-    "geom:area_square_m":1614155975.806242,
+    "geom:area_square_m":1614155975.80576,
     "geom:bbox":"87.6379460427,26.36117775,88.187537,26.7935344779",
     "geom:latitude":26.58302,
     "geom:longitude":87.912053,
@@ -70,9 +70,10 @@
     "wof:concordances":{
         "hasc:id":"NP.ON.JH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898527,
-    "wof:geomhash":"8d2419a2402598ac31f41b4c00af6b25",
+    "wof:geomhash":"9b836de6f20a48bcfd7621481e9037b6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1092050367,
-    "wof:lastmodified":1566669769,
+    "wof:lastmodified":1695886591,
     "wof:name":"Jhapa",
     "wof:parent_id":-1,
     "wof:placetype":"county",

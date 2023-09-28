@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.236829,
-    "geom:area_square_m":2554508568.657603,
+    "geom:area_square_m":2554508572.790603,
     "geom:bbox":"81.847346,28.970602,82.59158,29.510096",
     "geom:latitude":29.271363,
     "geom:longitude":82.217241,
@@ -191,9 +191,10 @@
         "hasc:id":"NP.SI.JU",
         "wd:id":"Q28619"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898542,
-    "wof:geomhash":"16acfe9db60bbda45147506a3e980224",
+    "wof:geomhash":"53c709f00a66ffaf8e0e0cec535a63f9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -209,7 +210,7 @@
         }
     ],
     "wof:id":1092050797,
-    "wof:lastmodified":1690849706,
+    "wof:lastmodified":1695886622,
     "wof:name":"Jumla",
     "wof:parent_id":-1,
     "wof:placetype":"county",

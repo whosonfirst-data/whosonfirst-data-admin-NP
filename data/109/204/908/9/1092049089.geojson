@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.210677,
-    "geom:area_square_m":2288202268.618484,
+    "geom:area_square_m":2288202053.728788,
     "geom:bbox":"83.099913,28.306164,83.871821,28.792823",
     "geom:latitude":28.553813,
     "geom:longitude":83.459404,
@@ -158,9 +158,10 @@
         "hasc:id":"NP.FO.MY",
         "wd:id":"Q28624"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898474,
-    "wof:geomhash":"ce1a6d35735aefe89db1e37365738002",
+    "wof:geomhash":"feae7be57aa26453bfe6e027ac0822b1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -176,7 +177,7 @@
         }
     ],
     "wof:id":1092049089,
-    "wof:lastmodified":1690849693,
+    "wof:lastmodified":1695886585,
     "wof:name":"Myagdi",
     "wof:parent_id":-1,
     "wof:placetype":"county",

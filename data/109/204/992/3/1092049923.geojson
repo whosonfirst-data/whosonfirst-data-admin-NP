@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.107564,
-    "geom:area_square_m":1188734533.729491,
+    "geom:area_square_m":1188734789.431078,
     "geom:bbox":"86.919436,26.399165,87.35312,26.878021",
     "geom:latitude":26.650863,
     "geom:longitude":87.171979,
@@ -158,9 +158,10 @@
         "hasc:id":"NP.ON.SN",
         "wd:id":"Q28157"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898505,
-    "wof:geomhash":"025282dffe3233cd2929c92c07de7700",
+    "wof:geomhash":"65fc66c20cc28dad1df1555ab1e8bd02",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -176,7 +177,7 @@
         }
     ],
     "wof:id":1092049923,
-    "wof:lastmodified":1690849698,
+    "wof:lastmodified":1695886587,
     "wof:name":"Sunsari",
     "wof:parent_id":-1,
     "wof:placetype":"county",

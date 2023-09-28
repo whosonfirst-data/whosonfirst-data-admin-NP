@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.097907,
-    "geom:area_square_m":1075505036.733946,
+    "geom:area_square_m":1075504922.985088,
     "geom:bbox":"86.202542,27.145054,86.684747,27.525467",
     "geom:latitude":27.329833,
     "geom:longitude":86.418211,
@@ -161,9 +161,10 @@
         "hasc:id":"NP.ON.OK",
         "wd:id":"Q29026"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898516,
-    "wof:geomhash":"5b46c658b27425ed912059cef34955c4",
+    "wof:geomhash":"a706765ab7447a17b115b500372dbfd6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -179,7 +180,7 @@
         }
     ],
     "wof:id":1092050225,
-    "wof:lastmodified":1690849707,
+    "wof:lastmodified":1695886590,
     "wof:name":"Okhaldhunga",
     "wof:parent_id":-1,
     "wof:placetype":"county",

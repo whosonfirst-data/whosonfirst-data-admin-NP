@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.142884,
-    "geom:area_square_m":1566956855.283407,
+    "geom:area_square_m":1566956452.502543,
     "geom:bbox":"85.800668,27.245026,86.571415,27.830454",
     "geom:latitude":27.513657,
     "geom:longitude":86.177165,
@@ -161,9 +161,10 @@
         "hasc:id":"NP.TH.RM",
         "wd:id":"Q28611"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898497,
-    "wof:geomhash":"1e8c158a72c7c971731467100efd497f",
+    "wof:geomhash":"537ef9780f4ec556bb7e528bf245bafa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -179,7 +180,7 @@
         }
     ],
     "wof:id":1092049711,
-    "wof:lastmodified":1690849697,
+    "wof:lastmodified":1695886622,
     "wof:name":"Ramechhap",
     "wof:parent_id":-1,
     "wof:placetype":"county",

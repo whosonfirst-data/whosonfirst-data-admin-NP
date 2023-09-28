@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091665,
-    "geom:area_square_m":1011009292.11059,
+    "geom:area_square_m":1011009484.953692,
     "geom:bbox":"85.674337,26.59931,85.944539,27.168155",
     "geom:latitude":26.878205,
     "geom:longitude":85.819021,
@@ -167,9 +167,10 @@
         "hasc:id":"NP.TW.MH",
         "wd:id":"Q28618"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898539,
-    "wof:geomhash":"51be93e71b28a95b640e256a6b61996d",
+    "wof:geomhash":"17e0c592cfac8883eb49a858bcc52f84",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -185,7 +186,7 @@
         }
     ],
     "wof:id":1092050709,
-    "wof:lastmodified":1690849707,
+    "wof:lastmodified":1695886591,
     "wof:name":"Mahottari",
     "wof:parent_id":-1,
     "wof:placetype":"county",

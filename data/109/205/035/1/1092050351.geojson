@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.335116,
-    "geom:area_square_m":3647819932.925405,
+    "geom:area_square_m":3647819919.182528,
     "geom:bbox":"84.420364,27.797434,85.197831,28.75157",
     "geom:latitude":28.318847,
     "geom:longitude":84.790019,
@@ -170,9 +170,10 @@
         "hasc:id":"NP.FO.GO",
         "wd:id":"Q28476"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898524,
-    "wof:geomhash":"69c845e4dcfba505da5ced13901569fc",
+    "wof:geomhash":"1784bd6fc176d93a3008a35dd7295985",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -188,7 +189,7 @@
         }
     ],
     "wof:id":1092050351,
-    "wof:lastmodified":1690849710,
+    "wof:lastmodified":1695886592,
     "wof:name":"Gorkha",
     "wof:parent_id":-1,
     "wof:placetype":"county",

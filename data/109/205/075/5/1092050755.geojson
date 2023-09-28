@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.101684,
-    "geom:area_square_m":1109191559.846778,
+    "geom:area_square_m":1109191295.419842,
     "geom:bbox":"83.025172,27.919779,83.606315,28.270652",
     "geom:latitude":28.094046,
     "geom:longitude":83.306298,
@@ -158,9 +158,10 @@
         "hasc:id":"NP.FI.GU",
         "wd:id":"Q28572"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898540,
-    "wof:geomhash":"029c1f45d86f4851807c07cd5f991470",
+    "wof:geomhash":"26b2edf8e036852f2ddf41d3be445318",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -176,7 +177,7 @@
         }
     ],
     "wof:id":1092050755,
-    "wof:lastmodified":1690849709,
+    "wof:lastmodified":1695886591,
     "wof:name":"Gulmi",
     "wof:parent_id":-1,
     "wof:placetype":"county",

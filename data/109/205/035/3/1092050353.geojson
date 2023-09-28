@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.561445,
-    "geom:area_square_m":6010266726.838093,
+    "geom:area_square_m":6010266409.401609,
     "geom:bbox":"81.256219,29.606249,82.500728,30.446945",
     "geom:latitude":30.032603,
     "geom:longitude":81.879617,
@@ -176,9 +176,10 @@
         "hasc:id":"NP.SI.HU",
         "wd:id":"Q28623"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898526,
-    "wof:geomhash":"bbed86e2ec88bfbe50f796828e1dbba3",
+    "wof:geomhash":"5edf79ccc3b6e7c52fc5c6d4e6a4c204",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -194,7 +195,7 @@
         }
     ],
     "wof:id":1092050353,
-    "wof:lastmodified":1690849710,
+    "wof:lastmodified":1695886592,
     "wof:name":"Humla",
     "wof:parent_id":-1,
     "wof:placetype":"county",

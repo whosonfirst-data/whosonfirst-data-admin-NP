@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.152508,
-    "geom:area_square_m":1651581354.45167,
+    "geom:area_square_m":1651581302.37757,
     "geom:bbox":"80.052222,28.566945,80.554371,29.129143",
     "geom:latitude":28.85956,
     "geom:longitude":80.319615,
@@ -161,9 +161,10 @@
         "hasc:id":"NP.SE.KN",
         "wd:id":"Q28981"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898441,
-    "wof:geomhash":"309aa788369e03ed1059b73849e0cba8",
+    "wof:geomhash":"3571c46eb6b139e20d2a60ae1c7e094d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -179,7 +180,7 @@
         }
     ],
     "wof:id":1092048227,
-    "wof:lastmodified":1690849702,
+    "wof:lastmodified":1695886588,
     "wof:name":"Kanchanpur",
     "wof:parent_id":-1,
     "wof:placetype":"county",

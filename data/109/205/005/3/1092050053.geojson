@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.14413,
-    "geom:area_square_m":1574228382.426883,
+    "geom:area_square_m":1574228121.999535,
     "geom:bbox":"83.937008,27.741105,84.557724,28.129436",
     "geom:latitude":27.955765,
     "geom:longitude":84.250274,
@@ -189,9 +189,10 @@
         "hasc:id":"NP.FO.TN",
         "wd:id":"Q28446"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898510,
-    "wof:geomhash":"6964c85dd00e24b96e241555eb5a101b",
+    "wof:geomhash":"9daf809bcd86573981aad396aeb64a9a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -207,7 +208,7 @@
         }
     ],
     "wof:id":1092050053,
-    "wof:lastmodified":1690849711,
+    "wof:lastmodified":1695886592,
     "wof:name":"Tanahu",
     "wof:parent_id":-1,
     "wof:placetype":"county",

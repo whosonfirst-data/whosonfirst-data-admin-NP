@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.173447,
-    "geom:area_square_m":1887572926.919993,
+    "geom:area_square_m":1887572944.799231,
     "geom:bbox":"82.350845,28.094943,82.956691,28.557303",
     "geom:latitude":28.34423,
     "geom:longitude":82.627994,
@@ -155,9 +155,10 @@
         "hasc:id":"NP.FI.RO",
         "wd:id":"Q28597"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898487,
-    "wof:geomhash":"6edbf482e6814bfe7c5a412250f623cc",
+    "wof:geomhash":"f559fd7ae950277e7adc0cdd43a6ba36",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -173,7 +174,7 @@
         }
     ],
     "wof:id":1092049455,
-    "wof:lastmodified":1690849705,
+    "wof:lastmodified":1695886589,
     "wof:name":"Rolpa",
     "wof:parent_id":-1,
     "wof:placetype":"county",

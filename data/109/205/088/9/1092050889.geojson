@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.133831,
-    "geom:area_square_m":1463615988.338318,
+    "geom:area_square_m":1463616217.668619,
     "geom:bbox":"83.237517,27.663607,84.026601,27.958146",
     "geom:latitude":27.817164,
     "geom:longitude":83.623517,
@@ -152,9 +152,10 @@
         "hasc:id":"NP.FI.PL",
         "wd:id":"Q28440"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898545,
-    "wof:geomhash":"63a40d04c38dabbe943ac510163d77fd",
+    "wof:geomhash":"ee8bff25ad8ab7c47edfe73eafdd1be5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":1092050889,
-    "wof:lastmodified":1690849709,
+    "wof:lastmodified":1695886591,
     "wof:name":"Palpa",
     "wof:parent_id":-1,
     "wof:placetype":"county",

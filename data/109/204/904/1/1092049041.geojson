@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.214094,
-    "geom:area_square_m":2322671183.944153,
+    "geom:area_square_m":2322670776.435462,
     "geom:bbox":"83.789859,28.44644,84.569456,28.899496",
     "geom:latitude":28.673126,
     "geom:longitude":84.224548,
@@ -170,9 +170,10 @@
         "hasc:id":"NP.FO.MN",
         "wd:id":"Q28434"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898473,
-    "wof:geomhash":"835ef629353fb6aa48159ce37767dba1",
+    "wof:geomhash":"d86a023b7e49af548367bbdfd4c5706b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -188,7 +189,7 @@
         }
     ],
     "wof:id":1092049041,
-    "wof:lastmodified":1690849699,
+    "wof:lastmodified":1695886587,
     "wof:name":"Manang",
     "wof:parent_id":-1,
     "wof:placetype":"county",

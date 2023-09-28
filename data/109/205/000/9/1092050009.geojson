@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.153296,
-    "geom:area_square_m":1669142233.796344,
+    "geom:area_square_m":1669142233.796459,
     "geom:bbox":"84.1884312616,28.06,84.6924947869,28.511705857",
     "geom:latitude":28.289529,
     "geom:longitude":84.430095,
@@ -70,9 +70,10 @@
     "wof:concordances":{
         "hasc:id":"NP.FO.LM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898509,
-    "wof:geomhash":"c93fec5c54f17effe2438959d6b76b64",
+    "wof:geomhash":"1153dd29b7f2235e91ec93c95ff7e5ff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1092050009,
-    "wof:lastmodified":1566669769,
+    "wof:lastmodified":1695886591,
     "wof:name":"Lamjung",
     "wof:parent_id":-1,
     "wof:placetype":"county",

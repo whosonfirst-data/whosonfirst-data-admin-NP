@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.176074,
-    "geom:area_square_m":1920843288.588712,
+    "geom:area_square_m":1920843373.364471,
     "geom:bbox":"81.500658,27.852499,82.193317,28.333635",
     "geom:latitude":28.084063,
     "geom:longitude":81.822484,
@@ -155,9 +155,10 @@
         "hasc:id":"NP.FI.BN",
         "wd:id":"Q28447"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898519,
-    "wof:geomhash":"30361f8ab918a0a3099e3f92039ccb55",
+    "wof:geomhash":"7db0b0aef188e8ff10f03188cd1195ce",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -173,7 +174,7 @@
         }
     ],
     "wof:id":1092050297,
-    "wof:lastmodified":1690849709,
+    "wof:lastmodified":1695886591,
     "wof:name":"Banke",
     "wof:parent_id":-1,
     "wof:placetype":"county",

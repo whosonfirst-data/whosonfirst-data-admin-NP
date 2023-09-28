@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.140708,
-    "geom:area_square_m":1514217827.61662,
+    "geom:area_square_m":1514218127.985653,
     "geom:bbox":"80.236388,29.308216,80.902497,29.708213",
     "geom:latitude":29.506096,
     "geom:longitude":80.567458,
@@ -158,9 +158,10 @@
         "hasc:id":"NP.SE.BT",
         "wd:id":"Q28076"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898518,
-    "wof:geomhash":"b1745976872cd2ba2f8b61ad782edbda",
+    "wof:geomhash":"0f6444cdb7abe621f44a31493ccbd639",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -176,7 +177,7 @@
         }
     ],
     "wof:id":1092050255,
-    "wof:lastmodified":1690849707,
+    "wof:lastmodified":1695886590,
     "wof:name":"Baitadi",
     "wof:parent_id":-1,
     "wof:placetype":"county",

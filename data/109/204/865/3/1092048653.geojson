@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.189675,
-    "geom:area_square_m":2047930138.714817,
+    "geom:area_square_m":2047930033.30282,
     "geom:bbox":"80.527313,28.932326,81.162793,29.44266",
     "geom:latitude":29.169279,
     "geom:longitude":80.893672,
@@ -158,9 +158,10 @@
         "hasc:id":"NP.SE.DT",
         "wd:id":"Q28600"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898459,
-    "wof:geomhash":"4fe7e3b3deb0a6b247d09f9199012437",
+    "wof:geomhash":"a6403900f83711a187af866f19983fe3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -176,7 +177,7 @@
         }
     ],
     "wof:id":1092048653,
-    "wof:lastmodified":1690849703,
+    "wof:lastmodified":1695886589,
     "wof:name":"Doti",
     "wof:parent_id":-1,
     "wof:placetype":"county",

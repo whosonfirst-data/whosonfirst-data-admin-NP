@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.223431,
-    "geom:area_square_m":2451268818.860427,
+    "geom:area_square_m":2451268506.472816,
     "geom:bbox":"84.66421,27.160313,85.506521,27.7135",
     "geom:latitude":27.470055,
     "geom:longitude":85.078572,
@@ -161,9 +161,10 @@
         "hasc:id":"NP.TH.MK",
         "wd:id":"Q28174"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898471,
-    "wof:geomhash":"4b1f90d1381682752ecca2071ecd745a",
+    "wof:geomhash":"ddd850fea82cf43ad006e79fcc92facf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -179,7 +180,7 @@
         }
     ],
     "wof:id":1092049017,
-    "wof:lastmodified":1690849693,
+    "wof:lastmodified":1695886585,
     "wof:name":"Makwanpur",
     "wof:parent_id":-1,
     "wof:placetype":"county",

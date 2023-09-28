@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.121208,
-    "geom:area_square_m":1321903075.004143,
+    "geom:area_square_m":1321902592.938371,
     "geom:bbox":"82.591353,27.877431,83.096428,28.361089",
     "geom:latitude":28.115371,
     "geom:longitude":82.86479,
@@ -158,9 +158,10 @@
         "hasc:id":"NP.FI.PY",
         "wd:id":"Q28094"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898484,
-    "wof:geomhash":"e5a97e77e4d4941e269a5d26a03d5e55",
+    "wof:geomhash":"1e4e1f4821817810380f4462ae760148",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -176,7 +177,7 @@
         }
     ],
     "wof:id":1092049377,
-    "wof:lastmodified":1690849693,
+    "wof:lastmodified":1695886585,
     "wof:name":"Pyuthan",
     "wof:parent_id":-1,
     "wof:placetype":"county",

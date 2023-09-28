@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.115393,
-    "geom:area_square_m":1271499121.921839,
+    "geom:area_square_m":1271498922.07177,
     "geom:bbox":"85.323239,26.735834,85.813123,27.193589",
     "geom:latitude":26.985934,
     "geom:longitude":85.565519,
@@ -158,9 +158,10 @@
         "hasc:id":"NP.TW.SA",
         "wd:id":"Q28074"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898494,
-    "wof:geomhash":"a795617a42a30b71f64da7e15274f3e8",
+    "wof:geomhash":"0fd05f3eb63df5991e3d5ddd9b1eedbe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -176,7 +177,7 @@
         }
     ],
     "wof:id":1092049639,
-    "wof:lastmodified":1690849693,
+    "wof:lastmodified":1695886586,
     "wof:name":"Sarlahi",
     "wof:parent_id":-1,
     "wof:placetype":"county",

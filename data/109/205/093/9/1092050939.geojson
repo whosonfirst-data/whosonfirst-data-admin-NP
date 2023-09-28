@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.095307,
-    "geom:area_square_m":1040341675.462415,
+    "geom:area_square_m":1040342024.96594,
     "geom:bbox":"83.438895,27.868098,84.028329,28.220814",
     "geom:latitude":28.020927,
     "geom:longitude":83.802289,
@@ -170,9 +170,10 @@
         "hasc:id":"NP.FO.SY",
         "wd:id":"Q28448"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898546,
-    "wof:geomhash":"c240829c6ec39784e2e34f3a6979ff44",
+    "wof:geomhash":"3bee336b17e88b9d30e93fc94113c18d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -188,7 +189,7 @@
         }
     ],
     "wof:id":1092050939,
-    "wof:lastmodified":1690849712,
+    "wof:lastmodified":1695886592,
     "wof:name":"Syangja",
     "wof:parent_id":-1,
     "wof:placetype":"county",

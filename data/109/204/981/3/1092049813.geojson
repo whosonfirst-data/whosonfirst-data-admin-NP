@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.331754,
-    "geom:area_square_m":3635960576.790039,
+    "geom:area_square_m":3635960655.485055,
     "geom:bbox":"87.446096,27.269167,88.199298,27.952443",
     "geom:latitude":27.582112,
     "geom:longitude":87.821859,
@@ -170,9 +170,10 @@
         "hasc:id":"NP.ON.TP",
         "wd:id":"Q28590"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898501,
-    "wof:geomhash":"9cd4525adf581903f05b87c43dd4a349",
+    "wof:geomhash":"c53de7f8661ff417414848a910585ac5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -188,7 +189,7 @@
         }
     ],
     "wof:id":1092049813,
-    "wof:lastmodified":1690849705,
+    "wof:lastmodified":1695886590,
     "wof:name":"Taplejung",
     "wof:parent_id":-1,
     "wof:placetype":"county",

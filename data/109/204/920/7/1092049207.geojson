@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081807,
-    "geom:area_square_m":901373703.207707,
+    "geom:area_square_m":901373163.230449,
     "geom:bbox":"87.151559,26.847477,87.572488,27.191441",
     "geom:latitude":26.991205,
     "geom:longitude":87.330599,
@@ -164,9 +164,10 @@
         "hasc:id":"NP.ON.DK",
         "wd:id":"Q28081"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898478,
-    "wof:geomhash":"67f85ddecab00c0442085a00f7052f75",
+    "wof:geomhash":"2854e3318a9c4899d92c77668a182772",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -182,7 +183,7 @@
         }
     ],
     "wof:id":1092049207,
-    "wof:lastmodified":1690849704,
+    "wof:lastmodified":1695886589,
     "wof:name":"Dhankuta",
     "wof:parent_id":-1,
     "wof:placetype":"county",

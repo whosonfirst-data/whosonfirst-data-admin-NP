@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.116959,
-    "geom:area_square_m":1293177197.704072,
+    "geom:area_square_m":1293177080.368533,
     "geom:bbox":"86.483114,26.419723,87.013187,26.790556",
     "geom:latitude":26.597004,
     "geom:longitude":86.743893,
@@ -167,9 +167,10 @@
         "hasc:id":"NP.TW.ST",
         "wd:id":"Q28613"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898452,
-    "wof:geomhash":"aeb3b814220725a0f34c885a5d3ff497",
+    "wof:geomhash":"84b00009e766c30d101f78399df2a8b5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -185,7 +186,7 @@
         }
     ],
     "wof:id":1092048485,
-    "wof:lastmodified":1690849700,
+    "wof:lastmodified":1695886587,
     "wof:name":"Saptari",
     "wof:parent_id":-1,
     "wof:placetype":"county",

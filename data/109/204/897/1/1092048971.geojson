@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035943,
-    "geom:area_square_m":394085703.231002,
+    "geom:area_square_m":394085863.907795,
     "geom:bbox":"85.234175,27.402897,85.442011,27.691039",
     "geom:latitude":27.539199,
     "geom:longitude":85.342263,
@@ -164,9 +164,10 @@
         "hasc:id":"NP.TH.LL",
         "wd:id":"Q1108338"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898470,
-    "wof:geomhash":"3cede8ecdb820e6a4898df84e669606b",
+    "wof:geomhash":"5314e3487b07ecb3068bc03e4eaa16ff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -182,7 +183,7 @@
         }
     ],
     "wof:id":1092048971,
-    "wof:lastmodified":1690849704,
+    "wof:lastmodified":1695886589,
     "wof:name":"Lalitpur",
     "wof:parent_id":-1,
     "wof:placetype":"county",

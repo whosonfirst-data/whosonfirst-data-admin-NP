@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.140996,
-    "geom:area_square_m":1521548829.325942,
+    "geom:area_square_m":1521548731.393178,
     "geom:bbox":"80.184067,28.993071,80.784583,29.423398",
     "geom:latitude":29.222764,
     "geom:longitude":80.486185,
@@ -161,9 +161,10 @@
         "hasc:id":"NP.SE.DD",
         "wd:id":"Q28594"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898460,
-    "wof:geomhash":"f797ab4ef37365f353e93c2c889c5783",
+    "wof:geomhash":"1392850ad39b2bede61975db6efa5445",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -179,7 +180,7 @@
         }
     ],
     "wof:id":1092048697,
-    "wof:lastmodified":1690849695,
+    "wof:lastmodified":1695886586,
     "wof:name":"Dadeldhura",
     "wof:parent_id":-1,
     "wof:placetype":"county",

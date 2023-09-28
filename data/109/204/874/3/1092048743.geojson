@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.305768,
-    "geom:area_square_m":3315119212.484115,
+    "geom:area_square_m":3315119324.425949,
     "geom:bbox":"80.469213,28.400825,81.288542,29.063907",
     "geom:latitude":28.739779,
     "geom:longitude":80.878923,
@@ -164,9 +164,10 @@
         "hasc:id":"NP.SE.KL",
         "wd:id":"Q28153"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898461,
-    "wof:geomhash":"ef0ce69b7e906a56cf58febfb23201ef",
+    "wof:geomhash":"0932868b7809e36315fb84294eb047ce",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -182,7 +183,7 @@
         }
     ],
     "wof:id":1092048743,
-    "wof:lastmodified":1690849694,
+    "wof:lastmodified":1695886585,
     "wof:name":"Kailali",
     "wof:parent_id":-1,
     "wof:placetype":"county",

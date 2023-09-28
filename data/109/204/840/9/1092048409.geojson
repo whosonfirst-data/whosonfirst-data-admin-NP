@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.137682,
-    "geom:area_square_m":1500623242.925432,
+    "geom:area_square_m":1500622749.009657,
     "geom:bbox":"85.120066,27.967306,85.800249,28.385833",
     "geom:latitude":28.182862,
     "geom:longitude":85.415055,
@@ -167,9 +167,10 @@
         "hasc:id":"NP.TH.RS",
         "wd:id":"Q28605"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898449,
-    "wof:geomhash":"3d886b79a160ae1db8df4c6b45a68ae9",
+    "wof:geomhash":"f2accce334302f8f722cd4085bda3f78",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -185,7 +186,7 @@
         }
     ],
     "wof:id":1092048409,
-    "wof:lastmodified":1690849701,
+    "wof:lastmodified":1695886589,
     "wof:name":"Rasuwa",
     "wof:parent_id":-1,
     "wof:placetype":"county",
