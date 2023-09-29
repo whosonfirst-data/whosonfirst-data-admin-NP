@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.144998,
-    "geom:area_square_m":1595117956.377048,
+    "geom:area_square_m":1595117635.87635,
     "geom:bbox":"86.431974,26.87025,86.979178,27.437012",
     "geom:latitude":27.167994,
     "geom:longitude":86.786859,
@@ -164,9 +164,10 @@
         "hasc:id":"NP.ON.KH",
         "wd:id":"Q28599"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898543,
-    "wof:geomhash":"98794e5b10f633829c0b571daa8ccf50",
+    "wof:geomhash":"ce814ea4e0b20eb14675ab6bc0c08839",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -182,7 +183,7 @@
         }
     ],
     "wof:id":1092050841,
-    "wof:lastmodified":1690849706,
+    "wof:lastmodified":1695886590,
     "wof:name":"Khotang",
     "wof:parent_id":-1,
     "wof:placetype":"county",

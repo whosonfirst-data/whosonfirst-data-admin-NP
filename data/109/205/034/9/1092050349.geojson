@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.735892,
-    "geom:area_square_m":7945284723.166389,
+    "geom:area_square_m":7945284730.698092,
     "geom:bbox":"82.393431,28.725379,83.678701,29.707412",
     "geom:latitude":29.171155,
     "geom:longitude":83.052087,
@@ -164,9 +164,10 @@
         "hasc:id":"NP.SI.DP",
         "wd:id":"Q28610"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898523,
-    "wof:geomhash":"ace1d50dcfff07cfd38c3f3068a4ec99",
+    "wof:geomhash":"5776e2ec8bc0a33310369a55750c3266",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -182,7 +183,7 @@
         }
     ],
     "wof:id":1092050349,
-    "wof:lastmodified":1690849711,
+    "wof:lastmodified":1695886592,
     "wof:name":"Dolpa",
     "wof:parent_id":-1,
     "wof:placetype":"county",

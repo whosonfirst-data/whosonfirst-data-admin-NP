@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.113785,
-    "geom:area_square_m":1243336278.761633,
+    "geom:area_square_m":1243336656.658722,
     "geom:bbox":"82.749998,27.75305,83.327272,28.111898",
     "geom:latitude":27.9081,
     "geom:longitude":83.078885,
@@ -167,9 +167,10 @@
         "hasc:id":"NP.FI.AR",
         "wd:id":"Q28432"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898490,
-    "wof:geomhash":"ad01efc6f20120a365fe4eede1080c2c",
+    "wof:geomhash":"880e653f8030ecb1f268a1df3fb406f6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -185,7 +186,7 @@
         }
     ],
     "wof:id":1092049537,
-    "wof:lastmodified":1690849692,
+    "wof:lastmodified":1695886585,
     "wof:name":"Arghakhanchi",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.186216,
-    "geom:area_square_m":2025838726.056988,
+    "geom:area_square_m":2025839030.383602,
     "geom:bbox":"81.058238,28.069252,81.765315,28.674612",
     "geom:latitude":28.380719,
     "geom:longitude":81.401829,
@@ -161,9 +161,10 @@
         "hasc:id":"NP.FI.BR",
         "wd:id":"Q28458"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898436,
-    "wof:geomhash":"155aad322a638fdc10e79cebebda1948",
+    "wof:geomhash":"6c1c5023aceaf5f33815eb2d0aab97d5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -179,7 +180,7 @@
         }
     ],
     "wof:id":1092048097,
-    "wof:lastmodified":1690849703,
+    "wof:lastmodified":1695886588,
     "wof:name":"Bardiya",
     "wof:parent_id":-1,
     "wof:placetype":"county",

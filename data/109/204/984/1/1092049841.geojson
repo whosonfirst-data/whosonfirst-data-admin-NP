@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.307038,
-    "geom:area_square_m":3361126397.667622,
+    "geom:area_square_m":3361126104.25916,
     "geom:bbox":"86.35723,27.338469,87.006584,28.11375",
     "geom:latitude":27.710575,
     "geom:longitude":86.720276,
@@ -188,9 +188,10 @@
         "hasc:id":"NP.ON.SO",
         "wd:id":"Q28363"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898502,
-    "wof:geomhash":"4a0693688c84a6fa38749227bbfbeb6c",
+    "wof:geomhash":"a44116a04179b6023ffa21aa5a420355",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -206,7 +207,7 @@
         }
     ],
     "wof:id":1092049841,
-    "wof:lastmodified":1690849697,
+    "wof:lastmodified":1695886587,
     "wof:name":"Solukhumbu",
     "wof:parent_id":-1,
     "wof:placetype":"county",

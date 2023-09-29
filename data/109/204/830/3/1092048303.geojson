@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.166581,
-    "geom:area_square_m":1841529954.827834,
+    "geom:area_square_m":1841529775.115185,
     "geom:bbox":"87.240185,26.347779,87.688049,26.872954",
     "geom:latitude":26.615777,
     "geom:longitude":87.470032,
@@ -188,9 +188,10 @@
         "hasc:id":"NP.ON.MO",
         "wd:id":"Q28083"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898445,
-    "wof:geomhash":"9260033f3496ffe45e8b62e32f22f347",
+    "wof:geomhash":"6806bf3e6a01bcb8e6aecb4482936da5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -206,7 +207,7 @@
         }
     ],
     "wof:id":1092048303,
-    "wof:lastmodified":1690849703,
+    "wof:lastmodified":1695886588,
     "wof:name":"Morang",
     "wof:parent_id":-1,
     "wof:placetype":"county",

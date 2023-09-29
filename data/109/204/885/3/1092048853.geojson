@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011243,
-    "geom:area_square_m":123118827.173376,
+    "geom:area_square_m":123118596.675988,
     "geom:bbox":"85.355076,27.618269,85.522718,27.73048",
     "geom:latitude":27.677756,
     "geom:longitude":85.440517,
@@ -176,9 +176,10 @@
         "hasc:id":"NP.TH.BK",
         "wd:id":"Q28451"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898466,
-    "wof:geomhash":"e7b543a6fa3774c42755ef098a8dda6a",
+    "wof:geomhash":"1f0dd306cc42ea25d0f336491044b230",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -194,7 +195,7 @@
         }
     ],
     "wof:id":1092048853,
-    "wof:lastmodified":1690849701,
+    "wof:lastmodified":1695886588,
     "wof:name":"Bhaktapur",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.284965,
-    "geom:area_square_m":3112177519.513037,
+    "geom:area_square_m":3112177667.617183,
     "geom:bbox":"81.92081,27.671667,82.80618,28.281884",
     "geom:latitude":27.96554,
     "geom:longitude":82.402286,
@@ -160,9 +160,10 @@
         "hasc:id":"NP.FI.DA",
         "wd:id":"Q28066"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898457,
-    "wof:geomhash":"ce047d9fa407b576242791f1538db63a",
+    "wof:geomhash":"dc99ccb94a048935ac848a7ca57c3081",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -178,7 +179,7 @@
         }
     ],
     "wof:id":1092048605,
-    "wof:lastmodified":1690849696,
+    "wof:lastmodified":1695886586,
     "wof:name":"Dang Deokhuri",
     "wof:parent_id":-1,
     "wof:placetype":"county",

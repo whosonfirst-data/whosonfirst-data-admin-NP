@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.322748,
-    "geom:area_square_m":3466280372.900966,
+    "geom:area_square_m":3466280153.271699,
     "geom:bbox":"80.748081,29.39049,81.56307,30.053759",
     "geom:latitude":29.708022,
     "geom:longitude":81.17823,
@@ -164,9 +164,10 @@
         "hasc:id":"NP.SE.BH",
         "wd:id":"Q28592"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898455,
-    "wof:geomhash":"71d5dfb10a5ac931c5bf9abf1e0d46e1",
+    "wof:geomhash":"a7e165b4dad16dba8dc594bfb2f5496d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -182,7 +183,7 @@
         }
     ],
     "wof:id":1092048571,
-    "wof:lastmodified":1690849695,
+    "wof:lastmodified":1695886586,
     "wof:name":"Bajhang",
     "wof:parent_id":-1,
     "wof:placetype":"county",

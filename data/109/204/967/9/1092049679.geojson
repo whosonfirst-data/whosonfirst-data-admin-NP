@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.226219,
-    "geom:area_square_m":2487871577.411265,
+    "geom:area_square_m":2487871720.683281,
     "geom:bbox":"85.420591,26.925919,86.386671,27.451462",
     "geom:latitude":27.201659,
     "geom:longitude":85.943585,
@@ -167,9 +167,10 @@
         "hasc:id":"NP.TH.SI",
         "wd:id":"Q28586"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898496,
-    "wof:geomhash":"de7c66101cb51c4f536445b3fd752668",
+    "wof:geomhash":"c37abd363b5541d869bc8c9c5dcc2452",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -185,7 +186,7 @@
         }
     ],
     "wof:id":1092049679,
-    "wof:lastmodified":1690849699,
+    "wof:lastmodified":1695886588,
     "wof:name":"Sindhuli",
     "wof:parent_id":-1,
     "wof:placetype":"county",

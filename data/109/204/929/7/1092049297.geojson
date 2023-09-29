@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04999,
-    "geom:area_square_m":544703668.823242,
+    "geom:area_square_m":544703477.609955,
     "geom:bbox":"83.559314,28.008422,83.822681,28.401007",
     "geom:latitude":28.212068,
     "geom:longitude":83.678554,
@@ -158,9 +158,10 @@
         "hasc:id":"NP.FO.PB",
         "wd:id":"Q28421"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898481,
-    "wof:geomhash":"b03f2e29d0ca4679bbd9772c29500d02",
+    "wof:geomhash":"5174cd8f54476eb30d9eb858a9c3d9ae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -176,7 +177,7 @@
         }
     ],
     "wof:id":1092049297,
-    "wof:lastmodified":1690849704,
+    "wof:lastmodified":1695886589,
     "wof:name":"Parbat",
     "wof:parent_id":-1,
     "wof:placetype":"county",

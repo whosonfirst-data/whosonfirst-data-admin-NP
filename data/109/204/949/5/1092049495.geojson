@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.26757,
-    "geom:area_square_m":2902044012.187037,
+    "geom:area_square_m":2902044012.186716,
     "geom:bbox":"82.1893377144,28.4765107108,83.1513377649,28.9933029665",
     "geom:latitude":28.701503,
     "geom:longitude":82.664256,
@@ -152,9 +152,10 @@
         "hasc:id":"NP.FI.RK",
         "wd:id":"Q28612"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898489,
-    "wof:geomhash":"3fa8b37b19a5678fa8080694faa2ab04",
+    "wof:geomhash":"efde09574286a5c3752b01fbc72cb381",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":1092049495,
-    "wof:lastmodified":1566669762,
+    "wof:lastmodified":1695886587,
     "wof:name":"Rukum",
     "wof:parent_id":-1,
     "wof:placetype":"county",

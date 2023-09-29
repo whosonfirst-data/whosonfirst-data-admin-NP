@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.137061,
-    "geom:area_square_m":1483981702.376503,
+    "geom:area_square_m":1483981784.091182,
     "geom:bbox":"81.416548,28.63518,81.926316,29.131753",
     "geom:latitude":28.881584,
     "geom:longitude":81.678427,
@@ -161,9 +161,10 @@
         "hasc:id":"NP.SI.DL",
         "wd:id":"Q28443"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898535,
-    "wof:geomhash":"39a175361360207b177b5d4f76610ca5",
+    "wof:geomhash":"9ec5e62ff440f6f04fcd437dfd89335a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -179,7 +180,7 @@
         }
     ],
     "wof:id":1092050583,
-    "wof:lastmodified":1690849712,
+    "wof:lastmodified":1695886592,
     "wof:name":"Dailekh",
     "wof:parent_id":-1,
     "wof:placetype":"county",

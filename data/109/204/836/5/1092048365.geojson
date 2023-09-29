@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.329966,
-    "geom:area_square_m":3569156394.8488,
+    "geom:area_square_m":3569156785.633487,
     "geom:bbox":"83.479657,28.565172,84.251714,29.330612",
     "geom:latitude":28.981493,
     "geom:longitude":83.857697,
@@ -167,9 +167,10 @@
         "hasc:id":"NP.FO.MS",
         "wd:id":"Q2239575"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898448,
-    "wof:geomhash":"46c7258ba914f39f931136a6e63c3636",
+    "wof:geomhash":"e23b4a1b7ff4c3b3820236325b8d034b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -185,7 +186,7 @@
         }
     ],
     "wof:id":1092048365,
-    "wof:lastmodified":1690849702,
+    "wof:lastmodified":1695886589,
     "wof:name":"Mustang",
     "wof:parent_id":-1,
     "wof:placetype":"county",

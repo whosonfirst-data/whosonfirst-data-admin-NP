@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.214455,
-    "geom:area_square_m":2306570019.367836,
+    "geom:area_square_m":2306569596.264512,
     "geom:bbox":"81.170472,29.269657,81.807275,29.948885",
     "geom:latitude":29.561645,
     "geom:longitude":81.563074,
@@ -167,9 +167,10 @@
         "hasc:id":"NP.SE.BU",
         "wd:id":"Q28071"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898536,
-    "wof:geomhash":"98daa96e63d0374395a9e8d4ff3d139e",
+    "wof:geomhash":"3121bbad710e11969f5847ee5a97e3fb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -185,7 +186,7 @@
         }
     ],
     "wof:id":1092050627,
-    "wof:lastmodified":1690849708,
+    "wof:lastmodified":1695886591,
     "wof:name":"Bajura",
     "wof:parent_id":-1,
     "wof:placetype":"county",

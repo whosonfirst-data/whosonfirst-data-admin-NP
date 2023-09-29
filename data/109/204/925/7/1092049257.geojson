@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.169236,
-    "geom:area_square_m":1841692421.645806,
+    "geom:area_square_m":1841692797.07651,
     "geom:bbox":"82.878881,28.078546,83.673495,28.63522",
     "geom:latitude":28.347452,
     "geom:longitude":83.250369,
@@ -185,9 +185,10 @@
         "hasc:id":"NP.FO.BG",
         "wd:id":"Q28162"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898480,
-    "wof:geomhash":"136f4fc943fd3520e6fe73a9740d97b4",
+    "wof:geomhash":"4681ba486727b0968d776c29867af3f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -203,7 +204,7 @@
         }
     ],
     "wof:id":1092049257,
-    "wof:lastmodified":1690849698,
+    "wof:lastmodified":1695886622,
     "wof:name":"Baglung",
     "wof:parent_id":-1,
     "wof:placetype":"county",

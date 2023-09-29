@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.153438,
-    "geom:area_square_m":1692280871.038946,
+    "geom:area_square_m":1692281043.580312,
     "geom:bbox":"87.606717,26.664754,88.182506,27.109421",
     "geom:latitude":26.881063,
     "geom:longitude":87.901977,
@@ -197,9 +197,10 @@
         "hasc:id":"NP.ON.IL",
         "wd:id":"Q29016"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898439,
-    "wof:geomhash":"a6ca35e650d6c833a3920a10e1aa6c74",
+    "wof:geomhash":"881dc8ad172a7d0c3159bd635e97afa9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -215,7 +216,7 @@
         }
     ],
     "wof:id":1092048173,
-    "wof:lastmodified":1690849695,
+    "wof:lastmodified":1695886622,
     "wof:name":"Ilam",
     "wof:parent_id":-1,
     "wof:placetype":"county",

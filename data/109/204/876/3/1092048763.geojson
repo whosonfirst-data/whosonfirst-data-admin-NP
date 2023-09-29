@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.205619,
-    "geom:area_square_m":2226622429.73092,
+    "geom:area_square_m":2226621986.197564,
     "geom:bbox":"81.818697,28.610337,82.571733,29.126443",
     "geom:latitude":28.865244,
     "geom:longitude":82.167763,
@@ -155,9 +155,10 @@
         "hasc:id":"NP.SI.JA",
         "wd:id":"Q29430"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898463,
-    "wof:geomhash":"5d14e39c2532b425c5369c9fead36514",
+    "wof:geomhash":"9a68097ec7f1980e8a97c4ef3519001d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -173,7 +174,7 @@
         }
     ],
     "wof:id":1092048763,
-    "wof:lastmodified":1690849701,
+    "wof:lastmodified":1695886588,
     "wof:name":"Jajarkot",
     "wof:parent_id":-1,
     "wof:placetype":"county",

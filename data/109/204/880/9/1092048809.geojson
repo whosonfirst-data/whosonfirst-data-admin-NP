@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.152428,
-    "geom:area_square_m":1645365188.222986,
+    "geom:area_square_m":1645365326.618376,
     "geom:bbox":"81.470288,28.97008,82.018733,29.460777",
     "geom:latitude":29.195102,
     "geom:longitude":81.752266,
@@ -158,9 +158,10 @@
         "hasc:id":"NP.SI.KK",
         "wd:id":"Q28102"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898464,
-    "wof:geomhash":"3bb30b56aff774cfc1d92227a9f700d7",
+    "wof:geomhash":"8da87e9ab10e98f6b47510794ae7bbcc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -176,7 +177,7 @@
         }
     ],
     "wof:id":1092048809,
-    "wof:lastmodified":1690849694,
+    "wof:lastmodified":1695886585,
     "wof:name":"Kalikot",
     "wof:parent_id":-1,
     "wof:placetype":"county",

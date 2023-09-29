@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.128787,
-    "geom:area_square_m":1415870193.7164,
+    "geom:area_square_m":1415870108.741883,
     "geom:bbox":"84.484413,26.984958,84.972011,27.461299",
     "geom:latitude":27.239728,
     "geom:longitude":84.779267,
@@ -164,9 +164,10 @@
         "hasc:id":"NP.TW.PR",
         "wd:id":"Q28625"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898530,
-    "wof:geomhash":"248b4f5bf8cd0fe735861c1ce7922402",
+    "wof:geomhash":"0a0c58e3053bbda06071b7f863d6c2dc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -182,7 +183,7 @@
         }
     ],
     "wof:id":1092050453,
-    "wof:lastmodified":1690849708,
+    "wof:lastmodified":1695886591,
     "wof:name":"Parsa",
     "wof:parent_id":-1,
     "wof:placetype":"county",

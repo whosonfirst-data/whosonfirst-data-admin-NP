@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.106274,
-    "geom:area_square_m":1173551379.928227,
+    "geom:area_square_m":1173551739.502511,
     "geom:bbox":"86.129836,26.542073,86.552325,26.932135",
     "geom:latitude":26.741642,
     "geom:longitude":86.342773,
@@ -158,9 +158,10 @@
         "hasc:id":"NP.TW.SR",
         "wd:id":"Q28088"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898532,
-    "wof:geomhash":"50bcabf0dde329b4ac8529159c33a015",
+    "wof:geomhash":"519b6bfe7154295b6c5c2c34ae1405fb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -176,7 +177,7 @@
         }
     ],
     "wof:id":1092050497,
-    "wof:lastmodified":1690849708,
+    "wof:lastmodified":1695886590,
     "wof:name":"Siraha",
     "wof:parent_id":-1,
     "wof:placetype":"county",

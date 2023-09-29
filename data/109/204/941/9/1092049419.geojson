@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094438,
-    "geom:area_square_m":1040461952.280349,
+    "geom:area_square_m":1040461921.562283,
     "geom:bbox":"85.166845,26.735954,85.492577,27.231595",
     "geom:latitude":27.000608,
     "geom:longitude":85.302506,
@@ -155,9 +155,10 @@
         "hasc:id":"NP.TW.RT",
         "wd:id":"Q28098"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898486,
-    "wof:geomhash":"00cc7ff6682899d655b4a1cfa47adbdb",
+    "wof:geomhash":"235559d15b4153af9692e99c13b71894",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -173,7 +174,7 @@
         }
     ],
     "wof:id":1092049419,
-    "wof:lastmodified":1690849697,
+    "wof:lastmodified":1695886587,
     "wof:name":"Rautahat",
     "wof:parent_id":-1,
     "wof:placetype":"county",

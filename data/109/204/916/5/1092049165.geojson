@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.114273,
-    "geom:area_square_m":1257696399.537049,
+    "geom:area_square_m":1257696160.079292,
     "geom:bbox":"87.496681,26.858626,88.078537,27.421892",
     "geom:latitude":27.11555,
     "geom:longitude":87.777159,
@@ -158,9 +158,10 @@
         "hasc:id":"NP.ON.PN",
         "wd:id":"Q28155"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898477,
-    "wof:geomhash":"db76d02ce35dcf28d04300b83f476e80",
+    "wof:geomhash":"e1f162d60a14022ee91aa83e446372f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -176,7 +177,7 @@
         }
     ],
     "wof:id":1092049165,
-    "wof:lastmodified":1690849704,
+    "wof:lastmodified":1695886589,
     "wof:name":"Panchthar",
     "wof:parent_id":-1,
     "wof:placetype":"county",

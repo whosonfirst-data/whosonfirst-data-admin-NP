@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.504021,
-    "geom:area_square_m":26991330877.336975,
+    "geom:area_square_m":26991330592.371494,
     "geom:bbox":"81.256219,28.185323,83.678701,30.446945",
     "geom:latitude":29.335094,
     "geom:longitude":82.33848,
@@ -23,7 +23,7 @@
     "lbl:longitude":82.320052,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.7,
     "name:eng_x_preferred":[
@@ -55,11 +55,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "fips:code":"NP-SI",
-        "hasc:id":"NP.SI"
+        "hasc:id":"NP.SI",
+        "iso:code":"NP-P6"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"NP",
     "wof:created":1486064905,
-    "wof:geomhash":"a5905900893bf255ddf77116eccbc8af",
+    "wof:geomhash":"95c902d3fc7e3c2d4c15479c40e938ee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,7 +76,7 @@
     "wof:lang_x_spoken":[
         "nep"
     ],
-    "wof:lastmodified":1627522478,
+    "wof:lastmodified":1695884284,
     "wof:name":"Province No. 6",
     "wof:parent_id":85632465,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.119056,
-    "geom:area_square_m":1304888463.735734,
+    "geom:area_square_m":1304888149.822728,
     "geom:bbox":"83.206905,27.335555,83.633227,27.766312",
     "geom:latitude":27.577316,
     "geom:longitude":83.389182,
@@ -176,9 +176,10 @@
         "hasc:id":"NP.FI.RP",
         "wd:id":"Q28438"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898451,
-    "wof:geomhash":"ba5bf76120c9d7454f7b6c77ec868a61",
+    "wof:geomhash":"ad5d8839a21778a0b7af73220cd8afea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -194,7 +195,7 @@
         }
     ],
     "wof:id":1092048457,
-    "wof:lastmodified":1690849694,
+    "wof:lastmodified":1695886585,
     "wof:name":"Rupandehi",
     "wof:parent_id":-1,
     "wof:placetype":"county",

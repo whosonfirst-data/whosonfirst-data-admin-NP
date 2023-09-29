@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.208923,
-    "geom:area_square_m":2303781405.170978,
+    "geom:area_square_m":2303781591.484173,
     "geom:bbox":"86.15496,26.688791,87.171427,27.179296",
     "geom:latitude":26.902952,
     "geom:longitude":86.680243,
@@ -167,9 +167,10 @@
         "hasc:id":"NP.ON.UD",
         "wd:id":"Q28582"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898515,
-    "wof:geomhash":"1509e24ef01ef95aeae81136c1609670",
+    "wof:geomhash":"7bf85d821d77a764c6edc598aa026b8d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -185,7 +186,7 @@
         }
     ],
     "wof:id":1092050179,
-    "wof:lastmodified":1690849709,
+    "wof:lastmodified":1695886591,
     "wof:name":"Udayapur",
     "wof:parent_id":-1,
     "wof:placetype":"county",

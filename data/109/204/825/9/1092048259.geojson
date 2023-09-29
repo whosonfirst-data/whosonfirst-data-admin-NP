@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.152493,
-    "geom:area_square_m":1670634290.533418,
+    "geom:area_square_m":1670634026.737406,
     "geom:bbox":"82.697575,27.413305,83.232171,27.80972",
     "geom:latitude":27.625702,
     "geom:longitude":82.982558,
@@ -165,9 +165,10 @@
         "hasc:id":"NP.FI.KP",
         "wd:id":"Q28574"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898443,
-    "wof:geomhash":"d25bcacde3d9509b11ddb8ee983579db",
+    "wof:geomhash":"428688e573f45aa946de97e53bbbcb8c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -183,7 +184,7 @@
         }
     ],
     "wof:id":1092048259,
-    "wof:lastmodified":1690849702,
+    "wof:lastmodified":1695886588,
     "wof:name":"Kapilvastu",
     "wof:parent_id":-1,
     "wof:placetype":"county",

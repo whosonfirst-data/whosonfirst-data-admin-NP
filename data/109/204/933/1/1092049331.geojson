@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.192102,
-    "geom:area_square_m":2090367413.852871,
+    "geom:area_square_m":2090367625.81825,
     "geom:bbox":"83.70405,28.082406,84.276246,28.615387",
     "geom:latitude":28.35542,
     "geom:longitude":83.996896,
@@ -164,9 +164,10 @@
         "hasc:id":"NP.FO.KS",
         "wd:id":"Q28436"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898483,
-    "wof:geomhash":"f7e2f5b47e41eb224ecfecedee59164a",
+    "wof:geomhash":"96ddf4cdfa1fc4c1d0dd9aa0d433fcda",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -182,7 +183,7 @@
         }
     ],
     "wof:id":1092049331,
-    "wof:lastmodified":1690849700,
+    "wof:lastmodified":1695886588,
     "wof:name":"Kaski",
     "wof:parent_id":-1,
     "wof:placetype":"county",

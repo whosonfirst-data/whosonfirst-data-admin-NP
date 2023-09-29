@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.301841,
-    "geom:area_square_m":3244640838.159967,
+    "geom:area_square_m":3244641337.282784,
     "geom:bbox":"81.772148,29.38792,82.830235,29.972428",
     "geom:latitude":29.61831,
     "geom:longitude":82.370959,
@@ -161,9 +161,10 @@
         "hasc:id":"NP.SI.MG",
         "wd:id":"Q28593"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898446,
-    "wof:geomhash":"b62468537a51a83fb36f0241e0a00591",
+    "wof:geomhash":"bb22c162f1d33a01390c66bedd77a795",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -179,7 +180,7 @@
         }
     ],
     "wof:id":1092048339,
-    "wof:lastmodified":1690849696,
+    "wof:lastmodified":1695886586,
     "wof:name":"Mugu",
     "wof:parent_id":-1,
     "wof:placetype":"county",

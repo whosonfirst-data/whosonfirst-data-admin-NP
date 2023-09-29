@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.194534,
-    "geom:area_square_m":2131011672.203375,
+    "geom:area_square_m":2131011873.614952,
     "geom:bbox":"83.572926,27.353199,84.429771,27.868431",
     "geom:latitude":27.636383,
     "geom:longitude":83.953575,
@@ -161,9 +161,10 @@
         "hasc:id":"NP.FO.NA",
         "wd:id":"Q28588"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898529,
-    "wof:geomhash":"4290f5e17d814ad3aa571aa390f5a52a",
+    "wof:geomhash":"0a3ff3477eb210c04bc07f39e494e292",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -179,7 +180,7 @@
         }
     ],
     "wof:id":1092050413,
-    "wof:lastmodified":1690849706,
+    "wof:lastmodified":1695886590,
     "wof:name":"Nawalparasi",
     "wof:parent_id":-1,
     "wof:placetype":"county",

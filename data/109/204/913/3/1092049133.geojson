@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109338,
-    "geom:area_square_m":1194668573.651727,
+    "geom:area_square_m":1194668848.792385,
     "geom:bbox":"84.988833,27.761138,85.497612,28.091942",
     "geom:latitude":27.915269,
     "geom:longitude":85.235155,
@@ -167,9 +167,10 @@
         "hasc:id":"NP.TH.NU",
         "wd:id":"Q28430"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898476,
-    "wof:geomhash":"995aba76a448687414cc6914e9cce7bb",
+    "wof:geomhash":"b8212dd2c6945d4e307cb2d58bd7655e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -185,7 +186,7 @@
         }
     ],
     "wof:id":1092049133,
-    "wof:lastmodified":1690849698,
+    "wof:lastmodified":1695886587,
     "wof:name":"Nuwakot",
     "wof:parent_id":-1,
     "wof:placetype":"county",

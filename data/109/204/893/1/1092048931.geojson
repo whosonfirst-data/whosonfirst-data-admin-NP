@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03802,
-    "geom:area_square_m":416136800.549083,
+    "geom:area_square_m":416136800.549021,
     "geom:bbox":"85.188721,27.571345,85.564449,27.816314",
     "geom:latitude":27.728185,
     "geom:longitude":85.347479,
@@ -179,12 +179,13 @@
         "hasc:id":"NP.TH.KT",
         "wd:id":"Q797472"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         421168831
     ],
     "wof:country":"NP",
     "wof:created":1473898468,
-    "wof:geomhash":"866b3412ea0e09533fd1b1e18802e7ac",
+    "wof:geomhash":"3a5d241ae61d3e258f2d2291d08a2f1c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -200,7 +201,7 @@
         }
     ],
     "wof:id":1092048931,
-    "wof:lastmodified":1690849696,
+    "wof:lastmodified":1695886415,
     "wof:name":"Kathmandu",
     "wof:parent_id":-1,
     "wof:placetype":"county",

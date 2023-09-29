@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.214529,
-    "geom:area_square_m":2299937380.897664,
+    "geom:area_square_m":2299937575.556906,
     "geom:bbox":"80.373055,29.612174,81.109038,30.22784",
     "geom:latitude":29.885492,
     "geom:longitude":80.787546,
@@ -158,9 +158,10 @@
         "hasc:id":"NP.SE.DR",
         "wd:id":"Q28601"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898522,
-    "wof:geomhash":"ef01500871a381002e769677b3444894",
+    "wof:geomhash":"4670a56376b6b8427107852d52b6939a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -176,7 +177,7 @@
         }
     ],
     "wof:id":1092050347,
-    "wof:lastmodified":1690849711,
+    "wof:lastmodified":1695886592,
     "wof:name":"Darchula",
     "wof:parent_id":-1,
     "wof:placetype":"county",

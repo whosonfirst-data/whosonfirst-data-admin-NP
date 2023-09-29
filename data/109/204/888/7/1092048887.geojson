@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.127776,
-    "geom:area_square_m":1400992715.215533,
+    "geom:area_square_m":1400992915.956383,
     "geom:bbox":"85.392689,27.335331,85.877237,27.754698",
     "geom:latitude":27.535729,
     "geom:longitude":85.618998,
@@ -164,9 +164,10 @@
         "hasc:id":"NP.TH.KV",
         "wd:id":"Q28569"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898467,
-    "wof:geomhash":"154759e22924628e2714adbbc9617c01",
+    "wof:geomhash":"fb691b86f4b9096b1d3737755e73e888",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -182,7 +183,7 @@
         }
     ],
     "wof:id":1092048887,
-    "wof:lastmodified":1690849695,
+    "wof:lastmodified":1695886586,
     "wof:name":"KavrePalanchok",
     "wof:parent_id":-1,
     "wof:placetype":"county",

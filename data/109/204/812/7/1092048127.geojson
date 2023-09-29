@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.109985,
-    "geom:area_square_m":1213624843.671175,
+    "geom:area_square_m":1213624619.157498,
     "geom:bbox":"85.843261,26.570277,86.259181,27.133968",
     "geom:latitude":26.825653,
     "geom:longitude":86.033378,
@@ -162,9 +162,10 @@
         "hasc:id":"NP.TW.DN",
         "wd:id":"Q29036"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898438,
-    "wof:geomhash":"ac32bdbbeddcf5f39974953f61515efa",
+    "wof:geomhash":"9ba6d698014406d1f2e377862afd234c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -180,7 +181,7 @@
         }
     ],
     "wof:id":1092048127,
-    "wof:lastmodified":1690849700,
+    "wof:lastmodified":1695886587,
     "wof:name":"Dhanusa",
     "wof:parent_id":-1,
     "wof:placetype":"county",

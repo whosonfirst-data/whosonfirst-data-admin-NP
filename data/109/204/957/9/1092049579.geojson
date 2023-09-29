@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.172906,
-    "geom:area_square_m":1880660700.182952,
+    "geom:area_square_m":1880660445.290161,
     "geom:bbox":"81.742036,28.185323,82.432249,28.642667",
     "geom:latitude":28.402462,
     "geom:longitude":82.14371,
@@ -179,9 +179,10 @@
         "hasc:id":"NP.SI.SL",
         "wd:id":"Q28571"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"NP",
     "wof:created":1473898492,
-    "wof:geomhash":"145186f7c6c0b7c475cf69bf83b55633",
+    "wof:geomhash":"25486681569f87d57d4edffe4d148361",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -197,7 +198,7 @@
         }
     ],
     "wof:id":1092049579,
-    "wof:lastmodified":1690849698,
+    "wof:lastmodified":1695886622,
     "wof:name":"Salyan",
     "wof:parent_id":-1,
     "wof:placetype":"county",
