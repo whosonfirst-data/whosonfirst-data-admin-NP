@@ -40,8 +40,13 @@
     "wof:concordances":{
         "gn:id":7996963
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7996972
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"1068a98ab01655a817f5964531c4c1ec",
+    "wof:geomhash":"4f8302f09ab9e0e8ae183c81313699e2",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -49,20 +54,22 @@
         }
     ],
     "wof:id":1209663433,
-    "wof:lastmodified":1566667844,
+    "wof:lastmodified":1706240548,
     "wof:name":"Majhkharka",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360027407
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    86.74793000000003,
+    86.74793,
     27.49799,
-    86.74793000000003,
+    86.74793,
     27.49799
 ],
-  "geometry": {"coordinates":[86.74793000000003,27.49799],"type":"Point"}
+  "geometry": {"coordinates":[86.74793,27.49799],"type":"Point"}
 }

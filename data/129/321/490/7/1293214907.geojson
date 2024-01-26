@@ -10,6 +10,9 @@
     "geom:latitude":27.10815,
     "geom:longitude":85.65932,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"19",
+    "gn:admin4_code":"190077.0",
     "gn:asciiname":"Pattharkot",
     "gn:country_code":"NP",
     "gn:dem":201,
@@ -55,7 +58,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1282928
+        "gn:id":1282928,
+        "wk:page":"Pattharkot"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7992156
+        ]
     },
     "wof:country":"NP",
     "wof:geomhash":"8e1a3d4554f32c00b2181b28532a4eed",
@@ -76,13 +85,15 @@
         }
     ],
     "wof:id":1293214907,
-    "wof:lastmodified":1566666454,
+    "wof:lastmodified":1706240563,
     "wof:name":"Pattharkot",
     "wof:parent_id":1092049639,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360033625
+    ],
     "wof:tags":[]
 },
   "bbox": [

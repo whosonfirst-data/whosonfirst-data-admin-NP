@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7983500
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7983526
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"37e0e617d32dd4002912a61b4c24bb0c",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1293131851,
-    "wof:lastmodified":1566666021,
+    "wof:lastmodified":1706240562,
     "wof:name":"Jimpobang",
     "wof:parent_id":1092049455,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293228827
+    ],
     "wof:tags":[]
 },
   "bbox": [

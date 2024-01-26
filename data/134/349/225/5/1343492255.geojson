@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7964737
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7964181
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"a0dfbfb8eadfa808acc942e7d7b30698",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1343492255,
-    "wof:lastmodified":1566664937,
+    "wof:lastmodified":1706240566,
     "wof:name":"Salmela",
     "wof:parent_id":1092048527,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343794989
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":7984499
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7984497
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"0ef293f60efb01e93a9484f0eb213af3",
+    "wof:geomhash":"214e1f0088c429c5993f37828f39ef86",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1309743053,
-    "wof:lastmodified":1566669956,
+    "wof:lastmodified":1706240564,
     "wof:name":"Rumti",
     "wof:parent_id":1092049455,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326562595
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    82.53990999999998,
+    82.53991,
     28.2505,
-    82.53990999999998,
+    82.53991,
     28.2505
 ],
-  "geometry": {"coordinates":[82.53990999999998,28.2505],"type":"Point"}
+  "geometry": {"coordinates":[82.53991000000001,28.2505],"type":"Point"}
 }

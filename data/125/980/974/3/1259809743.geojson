@@ -32,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:nep_x_preferred":[
+        "Rekch\u0101"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -43,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7998673
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1282853
+        ]
     },
     "wof:country":"NP",
     "wof:geomhash":"688ca6f1be933dc11dba4967f528cf35",
@@ -63,13 +71,15 @@
         }
     ],
     "wof:id":1259809743,
-    "wof:lastmodified":1566671122,
+    "wof:lastmodified":1706240557,
     "wof:name":"Rekcha",
     "wof:parent_id":1092049963,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360099385
+    ],
     "wof:tags":[]
 },
   "bbox": [

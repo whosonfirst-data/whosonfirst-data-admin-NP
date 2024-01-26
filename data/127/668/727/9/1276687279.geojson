@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":7935978
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7936105
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"3308083d939c722ecaa47c97c7679c79",
+    "wof:geomhash":"a79b261354d8a8d5964f497930e2f2f0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1276687279,
-    "wof:lastmodified":1566666916,
+    "wof:lastmodified":1706240561,
     "wof:name":"Dallegada",
     "wof:parent_id":1092048697,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292932177
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    80.42208000000002,
+    80.42208,
     29.12525,
-    80.42208000000002,
+    80.42208,
     29.12525
 ],
-  "geometry": {"coordinates":[80.42208000000002,29.12525],"type":"Point"}
+  "geometry": {"coordinates":[80.42207999999999,29.12525],"type":"Point"}
 }

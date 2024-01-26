@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"81.72648,28.63716,81.72648,28.63716",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -45,7 +47,7 @@
         "gn:id":7999003
     },
     "wof:country":"NP",
-    "wof:geomhash":"ed04a522ce07cde059f3e4f582bd3797",
+    "wof:geomhash":"7395b9ecb11a81995ceea2bd33b8c1a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +65,22 @@
         }
     ],
     "wof:id":1344084891,
-    "wof:lastmodified":1566664711,
+    "wof:lastmodified":1706240560,
     "wof:name":"Meheli",
     "wof:parent_id":1092049963,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1276583239
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.72648000000002,
+    81.72648,
     28.63716,
-    81.72648000000002,
+    81.72648,
     28.63716
 ],
-  "geometry": {"coordinates":[81.72648000000002,28.63716],"type":"Point"}
+  "geometry": {"coordinates":[81.72648,28.63716],"type":"Point"}
 }

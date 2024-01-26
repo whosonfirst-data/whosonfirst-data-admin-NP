@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"80.41018,28.75027,80.41018,28.75027",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:pol_x_preferred":[
         "Dandagaun"
@@ -48,7 +50,7 @@
         "gn:id":7959084
     },
     "wof:country":"NP",
-    "wof:geomhash":"cd53a7e72b59ddb621789addac37086f",
+    "wof:geomhash":"38b6d7dc255d52984c6090ebd875179d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,20 +68,22 @@
         }
     ],
     "wof:id":1309742825,
-    "wof:lastmodified":1566669957,
+    "wof:lastmodified":1706240562,
     "wof:name":"Dandagaun",
     "wof:parent_id":1092048227,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1292932319
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.41018000000003,
+    80.41018,
     28.75027,
-    80.41018000000003,
+    80.41018,
     28.75027
 ],
-  "geometry": {"coordinates":[80.41018000000003,28.75027],"type":"Point"}
+  "geometry": {"coordinates":[80.41018,28.75027],"type":"Point"}
 }

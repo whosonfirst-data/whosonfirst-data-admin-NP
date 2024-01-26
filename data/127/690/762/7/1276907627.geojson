@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7957280
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7957255
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"94e3371d99b2b288f89ab3873b644b0a",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1276907627,
-    "wof:lastmodified":1566667192,
+    "wof:lastmodified":1706240561,
     "wof:name":"Narange",
     "wof:parent_id":1092048743,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326461363
+    ],
     "wof:tags":[]
 },
   "bbox": [

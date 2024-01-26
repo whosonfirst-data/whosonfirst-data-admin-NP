@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"85.14279,27.41062,85.14279,27.41062",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:nep_x_preferred":[
         "Makaw\u0101npur Ga\u1e0dhi\u0307\u0304"
@@ -69,12 +71,14 @@
         }
     ],
     "wof:id":1326647921,
-    "wof:lastmodified":1566664157,
+    "wof:lastmodified":1706240558,
     "wof:name":"Makawanpur Gadhi",
     "wof:parent_id":1092049017,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1259922019
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

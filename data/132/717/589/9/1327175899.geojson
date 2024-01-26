@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"84.81112,28.04717,84.81112,28.04717",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -45,7 +47,7 @@
         "gn:id":7947879
     },
     "wof:country":"NP",
-    "wof:geomhash":"be91c56fb3495cd869836d3002ed664e",
+    "wof:geomhash":"4ff9a1fac206f0e41644551ad07bd86d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +65,22 @@
         }
     ],
     "wof:id":1327175899,
-    "wof:lastmodified":1566664313,
+    "wof:lastmodified":1706240564,
     "wof:name":"Arughat",
     "wof:parent_id":1092050351,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1310120277
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.81111999999997,
+    84.81112,
     28.04717,
-    84.81111999999997,
+    84.81112,
     28.04717
 ],
-  "geometry": {"coordinates":[84.81111999999997,28.04717],"type":"Point"}
+  "geometry": {"coordinates":[84.81112,28.04717],"type":"Point"}
 }

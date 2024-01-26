@@ -6,9 +6,25 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"84.7735,27.8081665,84.7735,27.8081665",
+    "geom:bbox":"84.7735,27.808166,84.7735,27.808166",
     "geom:latitude":27.808166,
     "geom:longitude":84.7735,
+    "gn:admin1_code":"WR",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360027.0",
+    "gn:asciiname":"Bishaltar",
+    "gn:country_code":"NP",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7948548,
+    "gn:latitude":27.81022,
+    "gn:longitude":84.77359,
+    "gn:modification_date":"2011-08-27",
+    "gn:name":"Bishaltar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
     "lbl:bbox":"84.7535,27.7881665,84.7935,27.8281665",
     "lbl:max_zoom":18.0,
@@ -45,12 +61,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":7948548,
         "gp:id":2269006,
         "qs_pg:id":1211485
     },
     "wof:country":"NP",
     "wof:created":1459008702,
-    "wof:geomhash":"ec96dbbfc25ed5513cf1f17741411893",
+    "wof:geomhash":"74505e53ddb4c849bed0696068f687f6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +85,22 @@
         }
     ],
     "wof:id":421166793,
-    "wof:lastmodified":1566669982,
+    "wof:lastmodified":1706240544,
     "wof:name":"Bishaltar",
     "wof:parent_id":1092050661,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327371315
+    ],
     "wof:tags":[]
 },
   "bbox": [
     84.7735,
-    27.8081665,
+    27.808166,
     84.7735,
-    27.8081665
+    27.808166
 ],
-  "geometry": {"coordinates":[84.7735,27.8081665],"type":"Point"}
+  "geometry": {"coordinates":[84.7735,27.808166],"type":"Point"}
 }

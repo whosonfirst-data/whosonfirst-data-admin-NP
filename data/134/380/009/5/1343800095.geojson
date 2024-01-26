@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"85.953,26.75058,85.953,26.75058",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -45,7 +47,7 @@
         "gn:id":7943601
     },
     "wof:country":"NP",
-    "wof:geomhash":"0439ba22ae5abd46a01955114048a9f9",
+    "wof:geomhash":"6742e04db9608661e57f58ef342f6bdc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +65,22 @@
         }
     ],
     "wof:id":1343800095,
-    "wof:lastmodified":1566665463,
+    "wof:lastmodified":1706240559,
     "wof:name":"Shivapur",
     "wof:parent_id":1092048127,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1260336413
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.95299999999997,
+    85.953,
     26.75058,
-    85.95299999999997,
+    85.953,
     26.75058
 ],
-  "geometry": {"coordinates":[85.95299999999997,26.75058],"type":"Point"}
+  "geometry": {"coordinates":[85.953,26.75058],"type":"Point"}
 }

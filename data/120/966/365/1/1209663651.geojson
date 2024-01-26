@@ -40,8 +40,13 @@
     "wof:concordances":{
         "gn:id":7961955
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7961958
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"ef31d79f6f644c33301601d85cf0c548",
+    "wof:geomhash":"5f76cde33f038114138dc4ec527aad49",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -49,20 +54,22 @@
         }
     ],
     "wof:id":1209663651,
-    "wof:lastmodified":1566667832,
+    "wof:lastmodified":1706240549,
     "wof:name":"Tupek",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343503407
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    85.37073000000002,
+    85.37073,
     27.75174,
-    85.37073000000002,
+    85.37073,
     27.75174
 ],
-  "geometry": {"coordinates":[85.37073000000002,27.75174],"type":"Point"}
+  "geometry": {"coordinates":[85.37072999999999,27.75174],"type":"Point"}
 }

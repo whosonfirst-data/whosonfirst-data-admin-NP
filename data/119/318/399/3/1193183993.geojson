@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":7975859
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7975858
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"c5800fca3cac3a7f8ea560cb37ff40bb",
+    "wof:geomhash":"12dbcc23e22684ac7c2d419cc8777558",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1193183993,
-    "wof:lastmodified":1566668510,
+    "wof:lastmodified":1706240545,
     "wof:name":"Kahule",
     "wof:parent_id":1092050889,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343409287
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    83.31299999999997,
+    83.313,
     27.79246,
-    83.31299999999997,
+    83.313,
     27.79246
 ],
-  "geometry": {"coordinates":[83.31299999999997,27.79246],"type":"Point"}
+  "geometry": {"coordinates":[83.313,27.79246],"type":"Point"}
 }

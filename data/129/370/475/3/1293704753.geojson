@@ -10,6 +10,9 @@
     "geom:latitude":28.84164,
     "geom:longitude":80.55554,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710023.0",
     "gn:asciiname":"Teghari",
     "gn:country_code":"NP",
     "gn:dem":209,
@@ -50,8 +53,13 @@
     "wof:concordances":{
         "gn:id":1282668
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7956901
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"1cf35f3cda54279278e0906e68f988c7",
+    "wof:geomhash":"cef952766502bfb93582735d908d50d6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,20 +77,22 @@
         }
     ],
     "wof:id":1293704753,
-    "wof:lastmodified":1566665855,
+    "wof:lastmodified":1706240563,
     "wof:name":"Teghari",
     "wof:parent_id":1092048743,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310233157
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    80.55554000000002,
+    80.55554,
     28.84164,
-    80.55554000000002,
+    80.55554,
     28.84164
 ],
-  "geometry": {"coordinates":[80.55554000000002,28.84164],"type":"Point"}
+  "geometry": {"coordinates":[80.55553999999999,28.84164],"type":"Point"}
 }

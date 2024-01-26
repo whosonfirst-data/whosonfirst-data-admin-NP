@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"81.47209,28.74981,81.47209,28.74981",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -45,7 +47,7 @@
         "gn:id":8000061
     },
     "wof:country":"NP",
-    "wof:geomhash":"cc4f736ddaa7d2096cbd78f002707653",
+    "wof:geomhash":"06417309951ed2a067f825c18151a556",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +65,22 @@
         }
     ],
     "wof:id":1343589391,
-    "wof:lastmodified":1566665139,
+    "wof:lastmodified":1706240565,
     "wof:name":"Bulbule",
     "wof:parent_id":1092049963,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1310625579
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.47209000000002,
+    81.47209,
     28.74981,
-    81.47209000000002,
+    81.47209,
     28.74981
 ],
-  "geometry": {"coordinates":[81.47209000000002,28.74981],"type":"Point"}
+  "geometry": {"coordinates":[81.47208999999999,28.74981],"type":"Point"}
 }

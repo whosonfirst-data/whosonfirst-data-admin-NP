@@ -80,6 +80,11 @@
     "wof:concordances":{
         "gn:id":7959194
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7959195
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"d10caa24ce5120e3720dab88e2d29749",
     "wof:hierarchy":[
@@ -99,13 +104,15 @@
         }
     ],
     "wof:id":1242921347,
-    "wof:lastmodified":1566670195,
+    "wof:lastmodified":1706240555,
     "wof:name":"Majha",
     "wof:parent_id":1092048259,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360027095
+    ],
     "wof:tags":[]
 },
   "bbox": [

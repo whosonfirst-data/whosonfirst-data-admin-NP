@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":7973223
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7973235
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"42fad610993d6c781c2f294f0d8b93cb",
+    "wof:geomhash":"56e25ea0d492fabb08084180790e4a80",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1193188259,
-    "wof:lastmodified":1566668544,
+    "wof:lastmodified":1706240546,
     "wof:name":"Bhasarghat",
     "wof:parent_id":1092050413,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277021539
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    84.16226999999998,
+    84.16227,
     27.62468,
-    84.16226999999998,
+    84.16227,
     27.62468
 ],
-  "geometry": {"coordinates":[84.16226999999998,27.62468],"type":"Point"}
+  "geometry": {"coordinates":[84.16227000000001,27.62468],"type":"Point"}
 }

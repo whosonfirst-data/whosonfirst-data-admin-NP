@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7991320
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7991322
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"ae8eb956cb7ba5bfe89d7aebb046e9c6",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1310242661,
-    "wof:lastmodified":1566668998,
+    "wof:lastmodified":1706240564,
     "wof:name":"Gidkhora",
     "wof:parent_id":1092048485,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326671905
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -32,6 +32,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:nep_x_preferred":[
+        "Sik\u1e6d\u0101"
+    ],
+    "name:nep_x_variant":[
+        "Premnagar"
+    ],
+    "name:und_x_variant":[
+        "Sikta Gh\u0101t"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -43,6 +52,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8008142
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1282784
+        ]
     },
     "wof:country":"NP",
     "wof:geomhash":"a869b3c4dac4c1951fae2736ee6da8d2",
@@ -63,13 +77,15 @@
         }
     ],
     "wof:id":1242900163,
-    "wof:lastmodified":1566670597,
+    "wof:lastmodified":1706240555,
     "wof:name":"Sikta",
     "wof:parent_id":1092050297,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243077329
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7980096
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7980104
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"4d24d28b04f489582d0238c0b3e13a8d",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1293233375,
-    "wof:lastmodified":1566665880,
+    "wof:lastmodified":1706240563,
     "wof:name":"Bagdula",
     "wof:parent_id":1092049377,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310627217
+    ],
     "wof:tags":[]
 },
   "bbox": [

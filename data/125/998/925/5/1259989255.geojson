@@ -10,6 +10,9 @@
     "geom:latitude":27.44025,
     "geom:longitude":85.60217,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240029.0",
     "gn:asciiname":"Basghari",
     "gn:country_code":"NP",
     "gn:dem":2235,
@@ -47,6 +50,11 @@
     "wof:concordances":{
         "gn:id":10322095
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7962994
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"f59b94de557f6703df7a779d0227bb1b",
     "wof:hierarchy":[
@@ -66,13 +74,15 @@
         }
     ],
     "wof:id":1259989255,
-    "wof:lastmodified":1566670774,
+    "wof:lastmodified":1706240558,
     "wof:name":"Basghari",
     "wof:parent_id":1092048887,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276924499
+    ],
     "wof:tags":[]
 },
   "bbox": [

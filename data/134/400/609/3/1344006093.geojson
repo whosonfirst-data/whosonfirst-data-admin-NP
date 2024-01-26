@@ -59,6 +59,11 @@
     "wof:concordances":{
         "gn:id":7955561
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7955307
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"0390cdc20242e75f586c74ccf69fb38e",
     "wof:hierarchy":[
@@ -78,13 +83,15 @@
         }
     ],
     "wof:id":1344006093,
-    "wof:lastmodified":1566664795,
+    "wof:lastmodified":1706240566,
     "wof:name":"Okhreni",
     "wof:parent_id":1092049257,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360226375
+    ],
     "wof:tags":[]
 },
   "bbox": [

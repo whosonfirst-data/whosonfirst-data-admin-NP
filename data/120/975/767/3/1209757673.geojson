@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7933311
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7933312
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"2906e310434d3ff1b014cf29ee453137",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1209757673,
-    "wof:lastmodified":1566668144,
+    "wof:lastmodified":1706240549,
     "wof:name":"Dingla Bhanjyang",
     "wof:parent_id":1092049883,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293142561
+    ],
     "wof:tags":[]
 },
   "bbox": [

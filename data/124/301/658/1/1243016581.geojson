@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7961999
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7962005
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"1f91a3cd01e054aed7bfe1a7e0939f79",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1243016581,
-    "wof:lastmodified":1566670098,
+    "wof:lastmodified":1706240555,
     "wof:name":"Suryamandali",
     "wof:parent_id":1092048931,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310347391
+    ],
     "wof:tags":[]
 },
   "bbox": [

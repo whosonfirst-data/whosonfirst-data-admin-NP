@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":7938315
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7938332
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"1def18cba946feeff4fb76b0f78eb148",
+    "wof:geomhash":"e17db10238112a781d4d70a3476a37fe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1326956509,
-    "wof:lastmodified":1566663747,
+    "wof:lastmodified":1706240566,
     "wof:name":"Kasiyapur",
     "wof:parent_id":1092048605,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343387585
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    82.50050999999998,
+    82.50051,
     27.8474,
-    82.50050999999998,
+    82.50051,
     27.8474
 ],
-  "geometry": {"coordinates":[82.50050999999998,27.8474],"type":"Point"}
+  "geometry": {"coordinates":[82.50051000000001,27.8474],"type":"Point"}
 }

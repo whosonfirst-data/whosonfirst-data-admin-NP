@@ -64,6 +64,11 @@
     "wof:concordances":{
         "gn:id":7939636
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7939639
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"de4b1a7a134100f832a1f38cc497ba5a",
     "wof:hierarchy":[
@@ -73,13 +78,15 @@
         }
     ],
     "wof:id":1209030933,
-    "wof:lastmodified":1566667898,
+    "wof:lastmodified":1706240546,
     "wof:name":"Kanariya",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293720357
+    ],
     "wof:tags":[]
 },
   "bbox": [

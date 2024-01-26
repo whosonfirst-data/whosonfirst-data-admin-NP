@@ -62,8 +62,13 @@
     "wof:concordances":{
         "gn:id":8009209
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8009208
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"d4922fe13a1f3293c4fa86c591fdbc4a",
+    "wof:geomhash":"ebd1619fc5ce3c8962cf75ceab1444da",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,20 +86,22 @@
         }
     ],
     "wof:id":1260122111,
-    "wof:lastmodified":1566668719,
+    "wof:lastmodified":1706240558,
     "wof:name":"Bairiya",
     "wof:parent_id":1092048051,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309844017
+    ],
     "wof:tags":[]
 },
   "bbox": [
     85.09355,
-    26.87812000000001,
+    26.87812,
     85.09355,
-    26.87812000000001
+    26.87812
 ],
-  "geometry": {"coordinates":[85.09354999999999,26.87812000000001],"type":"Point"}
+  "geometry": {"coordinates":[85.09354999999999,26.87812],"type":"Point"}
 }

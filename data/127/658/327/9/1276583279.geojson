@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7935192
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7935264
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"d890135b833f0490a6e73ae17e2e4db3",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1276583279,
-    "wof:lastmodified":1566666843,
+    "wof:lastmodified":1706240560,
     "wof:name":"Salli",
     "wof:parent_id":1092048697,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293720253
+    ],
     "wof:tags":[]
 },
   "bbox": [

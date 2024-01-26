@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7971143
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7971133
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"749077acc85593a4e7671d0cc4afb75e",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1327471689,
-    "wof:lastmodified":1566663817,
+    "wof:lastmodified":1706240566,
     "wof:name":"Golgaun",
     "wof:parent_id":1092048303,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343303743
+    ],
     "wof:tags":[]
 },
   "bbox": [

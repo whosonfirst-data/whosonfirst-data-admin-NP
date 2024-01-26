@@ -44,11 +44,17 @@
     "name:nep_x_preferred":[
         "\u092a\u093f\u092a\u094d\u0930\u0939\u0935\u093e"
     ],
+    "name:nep_x_variant":[
+        "\u092a\u093f\u092a\u094d\u0930\u0939\u0935\u093e"
+    ],
     "name:new_x_preferred":[
         "\u092a\u093f\u092a\u0930\u094d\u0939\u0935\u093e"
     ],
     "name:pol_x_preferred":[
         "Piparhawa"
+    ],
+    "name:und_x_variant":[
+        "Pipr\u0101ha"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,8 +68,13 @@
     "wof:concordances":{
         "gn:id":7956312
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1282902
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"b019d80d8d185300c94ea3100a641086",
+    "wof:geomhash":"bf76b80771ee5ea3ba1420aeb5de607f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,20 +92,22 @@
         }
     ],
     "wof:id":1210042681,
-    "wof:lastmodified":1566668189,
+    "wof:lastmodified":1706240550,
     "wof:name":"Piparhawa",
     "wof:parent_id":1092048743,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242888377
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    81.06475999999998,
+    81.06476,
     28.65624,
-    81.06475999999998,
+    81.06476,
     28.65624
 ],
-  "geometry": {"coordinates":[81.06475999999998,28.65624],"type":"Point"}
+  "geometry": {"coordinates":[81.06476000000001,28.65624],"type":"Point"}
 }

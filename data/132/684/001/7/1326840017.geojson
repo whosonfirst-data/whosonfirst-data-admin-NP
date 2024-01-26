@@ -10,6 +10,9 @@
     "geom:latitude":27.09249,
     "geom:longitude":85.58321,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"19",
+    "gn:admin4_code":"190090",
     "gn:asciiname":"Dagetol",
     "gn:country_code":"NP",
     "gn:dem":154,
@@ -45,6 +48,11 @@
     "wof:concordances":{
         "gn:id":10323903
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7992228
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"a6a6d033cae7bf3f340d256d3e8da312",
     "wof:hierarchy":[
@@ -64,13 +72,15 @@
         }
     ],
     "wof:id":1326840017,
-    "wof:lastmodified":1566664088,
+    "wof:lastmodified":1706240566,
     "wof:name":"Dagetol",
     "wof:parent_id":1092049639,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327471783
+    ],
     "wof:tags":[]
 },
   "bbox": [

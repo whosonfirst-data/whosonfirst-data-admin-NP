@@ -104,8 +104,13 @@
     "wof:concordances":{
         "gn:id":7976731
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7976753
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"d7dbf6cf67dab721d52bcabcc861c9ea",
+    "wof:geomhash":"ed6a96574600d3394e0af4a8b0567695",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -123,20 +128,22 @@
         }
     ],
     "wof:id":1226268861,
-    "wof:lastmodified":1566671312,
+    "wof:lastmodified":1706240552,
     "wof:name":"Channa",
     "wof:parent_id":1092050255,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327056199
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    80.62661999999997,
+    80.62662,
     29.62393,
-    80.62661999999997,
+    80.62662,
     29.62393
 ],
-  "geometry": {"coordinates":[80.62661999999997,29.62393],"type":"Point"}
+  "geometry": {"coordinates":[80.62662,29.62393],"type":"Point"}
 }

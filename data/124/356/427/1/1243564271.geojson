@@ -10,6 +10,9 @@
     "geom:latitude":26.78639,
     "geom:longitude":85.31006,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"32",
+    "gn:admin4_code":"320011",
     "gn:asciiname":"Hajminiyatola",
     "gn:country_code":"NP",
     "gn:dem":79,
@@ -45,6 +48,11 @@
     "wof:concordances":{
         "gn:id":1283357
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7982372
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"2637bb739737e5e7c7badf4da1d5b932",
     "wof:hierarchy":[
@@ -64,13 +72,15 @@
         }
     ],
     "wof:id":1243564271,
-    "wof:lastmodified":1566670423,
+    "wof:lastmodified":1706240556,
     "wof:name":"Hajminiyatola",
     "wof:parent_id":1092049419,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293537851
+    ],
     "wof:tags":[]
 },
   "bbox": [

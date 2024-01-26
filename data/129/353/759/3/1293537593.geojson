@@ -53,6 +53,11 @@
     "wof:concordances":{
         "gn:id":7959199
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7959203
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"e9db31624b50023808bdd9397193eca1",
     "wof:hierarchy":[
@@ -72,13 +77,15 @@
         }
     ],
     "wof:id":1293537593,
-    "wof:lastmodified":1566665641,
+    "wof:lastmodified":1706240563,
     "wof:name":"Ganeshpur",
     "wof:parent_id":1092048259,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326978079
+    ],
     "wof:tags":[]
 },
   "bbox": [

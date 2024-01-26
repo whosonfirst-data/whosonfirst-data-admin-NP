@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":7947059
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7947082
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"e1a3447a92876945dc0e62780fb053c5",
+    "wof:geomhash":"14fc54d3733fab509fea3f6e4526c725",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1242901927,
-    "wof:lastmodified":1566670583,
+    "wof:lastmodified":1706240555,
     "wof:name":"Setigaun",
     "wof:parent_id":1092048653,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259912677
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    80.80700999999998,
+    80.80701,
     29.25276,
-    80.80700999999998,
+    80.80701,
     29.25276
 ],
-  "geometry": {"coordinates":[80.80700999999998,29.25276],"type":"Point"}
+  "geometry": {"coordinates":[80.80701000000001,29.25276],"type":"Point"}
 }

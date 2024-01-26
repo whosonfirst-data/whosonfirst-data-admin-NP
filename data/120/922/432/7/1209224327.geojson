@@ -10,6 +10,9 @@
     "geom:latitude":28.67882,
     "geom:longitude":80.50124,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"9",
+    "gn:admin3_code":"72.0",
+    "gn:admin4_code":"720001.0",
     "gn:asciiname":"Pachkadiya",
     "gn:country_code":"NP",
     "gn:dem":165,
@@ -43,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1282964
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7958511
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"9cc36a7af7c4adbf52082c90f537f0cb",
     "wof:hierarchy":[
@@ -52,13 +60,15 @@
         }
     ],
     "wof:id":1209224327,
-    "wof:lastmodified":1566667711,
+    "wof:lastmodified":1706240547,
     "wof:name":"Pachkadiya",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343387497
+    ],
     "wof:tags":[]
 },
   "bbox": [

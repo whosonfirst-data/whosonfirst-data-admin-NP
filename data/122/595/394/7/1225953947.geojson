@@ -10,6 +10,9 @@
     "geom:latitude":28.67987,
     "geom:longitude":80.88151,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710029.0",
     "gn:asciiname":"Sisaiya",
     "gn:country_code":"NP",
     "gn:dem":164,
@@ -48,8 +51,13 @@
     "wof:concordances":{
         "gn:id":1282765
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7957238
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"6bcaa68f9e289241a978eaeb4647eabb",
+    "wof:geomhash":"6a4116082be54500925ed48afa1554ae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,20 +75,22 @@
         }
     ],
     "wof:id":1225953947,
-    "wof:lastmodified":1566671232,
+    "wof:lastmodified":1706240551,
     "wof:name":"Sisaiya",
     "wof:parent_id":1092048743,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260007757
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    80.88150999999998,
+    80.88151,
     28.67987,
-    80.88150999999998,
+    80.88151,
     28.67987
 ],
-  "geometry": {"coordinates":[80.88150999999998,28.67987],"type":"Point"}
+  "geometry": {"coordinates":[80.88151000000001,28.67987],"type":"Point"}
 }

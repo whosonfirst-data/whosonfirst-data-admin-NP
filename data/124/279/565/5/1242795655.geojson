@@ -10,6 +10,9 @@
     "geom:latitude":28.2768,
     "geom:longitude":85.3795,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"29",
+    "gn:admin4_code":"290017",
     "gn:asciiname":"Rasuwagadhi",
     "gn:country_code":"NP",
     "gn:dem":1940,
@@ -54,6 +57,11 @@
         "gn:id":1282857,
         "wk:page":"Rasua_Garhi"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7982317
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"046a0e3b12d0c6fecf612721a0c2e246",
     "wof:hierarchy":[
@@ -73,13 +81,15 @@
         }
     ],
     "wof:id":1242795655,
-    "wof:lastmodified":1566670482,
+    "wof:lastmodified":1706240555,
     "wof:name":"Rasuwagadhi",
     "wof:parent_id":1092048409,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293338553
+    ],
     "wof:tags":[]
 },
   "bbox": [

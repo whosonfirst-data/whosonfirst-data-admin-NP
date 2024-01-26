@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"82.43753,28.5034,82.43753,28.5034",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -45,7 +47,7 @@
         "gn:id":7984263
     },
     "wof:country":"NP",
-    "wof:geomhash":"e85ffd3bab1a518df2e569417e48303e",
+    "wof:geomhash":"9fa7bd58b887b7446b61433d012a6876",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +65,22 @@
         }
     ],
     "wof:id":1360018429,
-    "wof:lastmodified":1566669632,
+    "wof:lastmodified":1706240563,
     "wof:name":"Khanikholagaun",
     "wof:parent_id":1092049455,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1293720315
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.43753000000002,
+    82.43753,
     28.5034,
-    82.43753000000002,
+    82.43753,
     28.5034
 ],
-  "geometry": {"coordinates":[82.43753000000002,28.5034],"type":"Point"}
+  "geometry": {"coordinates":[82.43753,28.5034],"type":"Point"}
 }

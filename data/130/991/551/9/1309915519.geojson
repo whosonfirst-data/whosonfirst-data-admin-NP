@@ -10,6 +10,9 @@
     "geom:latitude":28.16882,
     "geom:longitude":81.44409,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"58.0",
+    "gn:admin4_code":"580013.0",
     "gn:asciiname":"Purano Kanthapur",
     "gn:country_code":"NP",
     "gn:dem":144,
@@ -48,6 +51,11 @@
     "wof:concordances":{
         "gn:id":1283252
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8009669
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"74ac7daa5af8c79c2da6e1cd3bce5e86",
     "wof:hierarchy":[
@@ -67,13 +75,15 @@
         }
     ],
     "wof:id":1309915519,
-    "wof:lastmodified":1566669771,
+    "wof:lastmodified":1706240564,
     "wof:name":"Purano Kanthapur",
     "wof:parent_id":1092048097,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310138665
+    ],
     "wof:tags":[]
 },
   "bbox": [

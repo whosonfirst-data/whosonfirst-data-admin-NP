@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7976187
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7976201
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"9494a07df6dee941b2a1503fbc46eff0",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1293630981,
-    "wof:lastmodified":1566665699,
+    "wof:lastmodified":1706240563,
     "wof:name":"Simaldanda",
     "wof:parent_id":1092050889,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310443283
+    ],
     "wof:tags":[]
 },
   "bbox": [

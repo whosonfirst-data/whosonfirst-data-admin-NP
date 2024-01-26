@@ -10,6 +10,9 @@
     "geom:latitude":27.48751,
     "geom:longitude":85.8223,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"21",
+    "gn:admin4_code":"210003",
     "gn:asciiname":"Bhwasa",
     "gn:country_code":"NP",
     "gn:dem":1380,
@@ -45,6 +48,11 @@
     "wof:concordances":{
         "gn:id":10322063
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7981032
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"6b1fabd0d75608375083fed8100e5b23",
     "wof:hierarchy":[
@@ -64,13 +72,15 @@
         }
     ],
     "wof:id":1276557569,
-    "wof:lastmodified":1566667186,
+    "wof:lastmodified":1706240560,
     "wof:name":"Bhwasa",
     "wof:parent_id":1092049711,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326972131
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7963624
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7963623
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"bf4c7a3cc90c35d5801f2e3d4d049704",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1226480235,
-    "wof:lastmodified":1566671866,
+    "wof:lastmodified":1706240553,
     "wof:name":"Pipaltar",
     "wof:parent_id":1092048887,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343303941
+    ],
     "wof:tags":[]
 },
   "bbox": [

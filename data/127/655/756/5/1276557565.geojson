@@ -10,6 +10,9 @@
     "geom:latitude":26.68372,
     "geom:longitude":87.20768,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"7",
+    "gn:admin3_code":"6",
+    "gn:admin4_code":"60009",
     "gn:asciiname":"Pipara",
     "gn:country_code":"NP",
     "gn:dem":109,
@@ -47,8 +50,13 @@
     "wof:concordances":{
         "gn:id":1282904
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7997495
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"049554514943b8fb697c413e9b0545f5",
+    "wof:geomhash":"57b96c7a2fbccd86ae9ecd86a90cac62",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,20 +74,22 @@
         }
     ],
     "wof:id":1276557565,
-    "wof:lastmodified":1566667187,
+    "wof:lastmodified":1706240560,
     "wof:name":"Pipara",
     "wof:parent_id":1092049923,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309947879
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    87.20768000000002,
+    87.20768,
     26.68372,
-    87.20768000000002,
+    87.20768,
     26.68372
 ],
-  "geometry": {"coordinates":[87.20768000000002,26.68372],"type":"Point"}
+  "geometry": {"coordinates":[87.20768,26.68372],"type":"Point"}
 }

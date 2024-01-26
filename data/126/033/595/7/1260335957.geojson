@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"84.09296,27.62646,84.09296,27.62646",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0646\u062f\u0627"
@@ -69,7 +71,7 @@
         "gn:id":7972698
     },
     "wof:country":"NP",
-    "wof:geomhash":"b4e099727ac8661fa7d9e6d75c6a2810",
+    "wof:geomhash":"f5cba0fbf26e339d77cb2b84c2de6c6b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,20 +89,22 @@
         }
     ],
     "wof:id":1260335957,
-    "wof:lastmodified":1566668942,
+    "wof:lastmodified":1706240556,
     "wof:name":"Danda",
     "wof:parent_id":1092050413,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1243211729
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.09295999999998,
+    84.09296,
     27.62646,
-    84.09295999999998,
+    84.09296,
     27.62646
 ],
-  "geometry": {"coordinates":[84.09295999999998,27.62646],"type":"Point"}
+  "geometry": {"coordinates":[84.09296000000001,27.62646],"type":"Point"}
 }

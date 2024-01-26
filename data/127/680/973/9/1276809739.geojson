@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7945086
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7945093
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"7dbbfa3fe5e85f40f48f5708342136cb",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1276809739,
-    "wof:lastmodified":1566666705,
+    "wof:lastmodified":1706240561,
     "wof:name":"Siureni",
     "wof:parent_id":1092050535,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326472615
+    ],
     "wof:tags":[]
 },
   "bbox": [

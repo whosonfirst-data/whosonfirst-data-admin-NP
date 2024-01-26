@@ -10,6 +10,9 @@
     "geom:latitude":27.86475,
     "geom:longitude":84.11231,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380037.0",
     "gn:asciiname":"Tallo Umse",
     "gn:country_code":"NP",
     "gn:dem":381,
@@ -47,6 +50,11 @@
     "wof:concordances":{
         "gn:id":1282623
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8004361
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"75b58e20cb0e70ffa934a6f4bdd35c5f",
     "wof:hierarchy":[
@@ -66,13 +74,15 @@
         }
     ],
     "wof:id":1276238037,
-    "wof:lastmodified":1566667065,
+    "wof:lastmodified":1706240559,
     "wof:name":"Tallo Umse",
     "wof:parent_id":1092050053,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327275579
+    ],
     "wof:tags":[]
 },
   "bbox": [

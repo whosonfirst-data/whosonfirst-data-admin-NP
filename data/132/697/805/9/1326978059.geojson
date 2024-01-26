@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"83.75083,28.18541,83.75083,28.18541",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:nep_x_preferred":[
         "\u0939\u093f\u0932\u0947 \u092c\u091c\u093e\u0930"
@@ -48,7 +50,7 @@
         "gn:id":7978638
     },
     "wof:country":"NP",
-    "wof:geomhash":"80c81a050add4188a8f91957294bce81",
+    "wof:geomhash":"d8c2b5f844c8c8a5b3f69cc5133832b5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,20 +68,22 @@
         }
     ],
     "wof:id":1326978059,
-    "wof:lastmodified":1566664174,
+    "wof:lastmodified":1706240557,
     "wof:name":"Hile",
     "wof:parent_id":1092049297,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1259424411
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    83.75083000000002,
+    83.75083,
     28.18541,
-    83.75083000000002,
+    83.75083,
     28.18541
 ],
-  "geometry": {"coordinates":[83.75083000000002,28.18541],"type":"Point"}
+  "geometry": {"coordinates":[83.75082999999999,28.18541],"type":"Point"}
 }

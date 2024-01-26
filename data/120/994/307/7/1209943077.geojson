@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7986275
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7986272
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"10b6fa455a27028e276860e756141300",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1209943077,
-    "wof:lastmodified":1566667933,
+    "wof:lastmodified":1706240549,
     "wof:name":"Panichaur",
     "wof:parent_id":1092049495,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276692151
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -35,6 +35,12 @@
     "name:hin_x_preferred":[
         "\u0928\u092f\u093e\u091f\u094b\u0932"
     ],
+    "name:nep_x_preferred":[
+        "Nay\u0101n\u1e6dol"
+    ],
+    "name:und_x_variant":[
+        "Nay\u0101\u0303\u1e6dol"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -46,6 +52,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7967500
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10328249
+        ]
     },
     "wof:country":"NP",
     "wof:geomhash":"8269ef09a8ece3ba89a5be934b45bab8",
@@ -66,13 +77,15 @@
         }
     ],
     "wof:id":1193060549,
-    "wof:lastmodified":1566668290,
+    "wof:lastmodified":1706240545,
     "wof:name":"Nayatol",
     "wof:parent_id":1092050709,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276772849
+    ],
     "wof:tags":[]
 },
   "bbox": [

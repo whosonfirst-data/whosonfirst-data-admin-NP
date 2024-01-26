@@ -10,6 +10,9 @@
     "geom:latitude":28.6947,
     "geom:longitude":82.71266,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"54",
+    "gn:admin4_code":"540015",
     "gn:asciiname":"Garali",
     "gn:country_code":"NP",
     "gn:dem":1714,
@@ -43,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1283381
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7985491
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"a6e48c07122c6012b2d7e16f734a0ffa",
     "wof:hierarchy":[
@@ -52,13 +60,15 @@
         }
     ],
     "wof:id":1209115817,
-    "wof:lastmodified":1566668013,
+    "wof:lastmodified":1706240546,
     "wof:name":"Garali",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225871003
+    ],
     "wof:tags":[]
 },
   "bbox": [

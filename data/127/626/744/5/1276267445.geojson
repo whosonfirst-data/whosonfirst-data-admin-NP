@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":8003106
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8003135
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"e86f427ee8ac3d56614d95f990279bf9",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1276267445,
-    "wof:lastmodified":1566666666,
+    "wof:lastmodified":1706240559,
     "wof:name":"Bisaunedanda",
     "wof:parent_id":1092050053,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344205285
+    ],
     "wof:tags":[]
 },
   "bbox": [

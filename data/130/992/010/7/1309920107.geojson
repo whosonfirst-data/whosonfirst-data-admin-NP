@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"84.79119,27.70876,84.79119,27.70876",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:nep_x_preferred":[
         "Kandr\u0101\u1e45ga\u1e0dhi\u0307\u0304"
@@ -66,12 +68,14 @@
         }
     ],
     "wof:id":1309920107,
-    "wof:lastmodified":1566669868,
+    "wof:lastmodified":1706240546,
     "wof:name":"Kandrangadhi",
     "wof:parent_id":1092050101,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209162707
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

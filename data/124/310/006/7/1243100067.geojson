@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":7958789
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7958785
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"b8392b82e47af08ce5ffea95597ba2a0",
+    "wof:geomhash":"2a102a00c4b4c7f9d3266b811e0c48ab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1243100067,
-    "wof:lastmodified":1566670703,
+    "wof:lastmodified":1706240556,
     "wof:name":"Mataiya",
     "wof:parent_id":1092048227,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327166783
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    80.40623000000002,
+    80.40623,
     28.65994,
-    80.40623000000002,
+    80.40623,
     28.65994
 ],
-  "geometry": {"coordinates":[80.40623000000002,28.65994],"type":"Point"}
+  "geometry": {"coordinates":[80.40622999999999,28.65994],"type":"Point"}
 }

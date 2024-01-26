@@ -40,8 +40,13 @@
     "wof:concordances":{
         "gn:id":7959664
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7959665
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"068a5161541aafee68357d02cb689396",
+    "wof:geomhash":"9405f2f900c65de4467c9c11a0cbc7d7",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -49,20 +54,22 @@
         }
     ],
     "wof:id":1209456751,
-    "wof:lastmodified":1566668061,
+    "wof:lastmodified":1706240547,
     "wof:name":"Sigraha",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243502147
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    82.95964000000002,
+    82.95964,
     27.50266,
-    82.95964000000002,
+    82.95964,
     27.50266
 ],
-  "geometry": {"coordinates":[82.95964000000002,27.50266],"type":"Point"}
+  "geometry": {"coordinates":[82.95963999999999,27.50266],"type":"Point"}
 }

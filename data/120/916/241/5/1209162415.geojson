@@ -61,8 +61,13 @@
     "wof:concordances":{
         "gn:id":8001833
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8001834
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"1fec8e70bc5aca821f0e8dc205663ae7",
+    "wof:geomhash":"fdb6a926e3380cf4c5a6260a40f1abd2",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -70,20 +75,22 @@
         }
     ],
     "wof:id":1209162415,
-    "wof:lastmodified":1566668024,
+    "wof:lastmodified":1706240546,
     "wof:name":"Badahare",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277114285
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    83.79663000000002,
-    28.08974000000001,
-    83.79663000000002,
-    28.08974000000001
+    83.79663,
+    28.08974,
+    83.79663,
+    28.08974
 ],
-  "geometry": {"coordinates":[83.79663000000002,28.08974000000001],"type":"Point"}
+  "geometry": {"coordinates":[83.79662999999999,28.08974],"type":"Point"}
 }

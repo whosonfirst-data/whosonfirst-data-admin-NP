@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7979189
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7979196
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"c9f2b69d50074400374d82116cd776f8",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1226698417,
-    "wof:lastmodified":1566671417,
+    "wof:lastmodified":1706240554,
     "wof:name":"Madhopur",
     "wof:parent_id":1092050453,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259725591
+    ],
     "wof:tags":[]
 },
   "bbox": [

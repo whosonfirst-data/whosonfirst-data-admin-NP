@@ -44,6 +44,10 @@
     "name:pol_x_preferred":[
         "Bhatauliya"
     ],
+    "name:und_x_variant":[
+        "Bha\u1e6dauli\u0307\u0304y\u0101",
+        "Bhataulia"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,6 +59,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7991598
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1283609
+        ]
     },
     "wof:country":"NP",
     "wof:geomhash":"bdc5948406191541a505c60854b4cc8f",
@@ -75,13 +84,15 @@
         }
     ],
     "wof:id":1243502689,
-    "wof:lastmodified":1566670409,
+    "wof:lastmodified":1706240556,
     "wof:name":"Bhatauliya",
     "wof:parent_id":1092049639,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259801529
+    ],
     "wof:tags":[]
 },
   "bbox": [

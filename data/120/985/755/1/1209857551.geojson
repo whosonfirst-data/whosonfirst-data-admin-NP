@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7964432
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7964423
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"50de88e47cfa761e3c9903283d9ca146",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1209857551,
-    "wof:lastmodified":1566667657,
+    "wof:lastmodified":1706240549,
     "wof:name":"Raighat",
     "wof:parent_id":1092050841,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326671869
+    ],
     "wof:tags":[]
 },
   "bbox": [

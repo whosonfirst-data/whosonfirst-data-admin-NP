@@ -32,6 +32,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "N\u0101rp\u0101\u1e0d\u0101\u0303\u1e0d\u0101",
+        "N\u0101rp\u0101\u1e0d\u0101n\u1e0d\u0101"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -43,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7969148
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10330377
+        ]
     },
     "wof:country":"NP",
     "wof:geomhash":"d231bdf901cce7ae18bc517ac0fc9b10",
@@ -63,13 +72,15 @@
         }
     ],
     "wof:id":1276487461,
-    "wof:lastmodified":1566667170,
+    "wof:lastmodified":1706240560,
     "wof:name":"Narpadada",
     "wof:parent_id":1092049017,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327348001
+    ],
     "wof:tags":[]
 },
   "bbox": [

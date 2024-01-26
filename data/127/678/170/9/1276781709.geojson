@@ -10,6 +10,9 @@
     "geom:latitude":27.87878,
     "geom:longitude":83.39702,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"8",
+    "gn:admin3_code":"47",
+    "gn:admin4_code":"470047",
     "gn:asciiname":"Mujhun",
     "gn:country_code":"NP",
     "gn:dem":1230,
@@ -47,6 +50,11 @@
     "wof:concordances":{
         "gn:id":1283034
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7976713
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"daa715e5c35bbe5026efec507d280b40",
     "wof:hierarchy":[
@@ -66,13 +74,15 @@
         }
     ],
     "wof:id":1276781709,
-    "wof:lastmodified":1566667064,
+    "wof:lastmodified":1706240561,
     "wof:name":"Mujhun",
     "wof:parent_id":1092050889,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344205289
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7997990
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7998001
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"e4e410b2483456fe6f8451af1c3753d9",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1226083643,
-    "wof:lastmodified":1566671916,
+    "wof:lastmodified":1706240552,
     "wof:name":"Bhuskaluwa",
     "wof:parent_id":1092049923,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327282167
+    ],
     "wof:tags":[]
 },
   "bbox": [

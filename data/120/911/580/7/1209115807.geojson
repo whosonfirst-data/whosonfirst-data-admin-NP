@@ -10,6 +10,9 @@
     "geom:latitude":27.81076,
     "geom:longitude":85.87221,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"23",
+    "gn:admin4_code":"230045",
     "gn:asciiname":"Maneswara",
     "gn:country_code":"NP",
     "gn:dem":1325,
@@ -41,7 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":10322039
+        "gn:id":10322039,
+        "wk:page":"Maneswara"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7995089
+        ]
     },
     "wof:country":"NP",
     "wof:geomhash":"7739b83d620d10a59748e3aea0c5c84f",
@@ -52,13 +61,15 @@
         }
     ],
     "wof:id":1209115807,
-    "wof:lastmodified":1566668013,
+    "wof:lastmodified":1706240546,
     "wof:name":"Maneswara",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343609877
+    ],
     "wof:tags":[]
 },
   "bbox": [

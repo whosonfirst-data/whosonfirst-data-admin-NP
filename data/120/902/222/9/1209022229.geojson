@@ -10,6 +10,9 @@
     "geom:latitude":27.22305,
     "geom:longitude":85.89921,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"20",
+    "gn:admin4_code":"200025.0",
     "gn:asciiname":"Gaiyatar",
     "gn:country_code":"NP",
     "gn:dem":577,
@@ -41,6 +44,11 @@
     "wof:concordances":{
         "gn:id":10323804
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7993189
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"32edb41863b1a3b093e52a2e00abfbeb",
     "wof:hierarchy":[
@@ -50,13 +58,15 @@
         }
     ],
     "wof:id":1209022229,
-    "wof:lastmodified":1566667989,
+    "wof:lastmodified":1706240546,
     "wof:name":"Gaiyatar",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360033613
+    ],
     "wof:tags":[]
 },
   "bbox": [

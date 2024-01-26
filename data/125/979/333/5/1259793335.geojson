@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":10316480
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10316822
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"305e95ddcc8fa1bc1c5deb78309eb28a",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1259793335,
-    "wof:lastmodified":1566670904,
+    "wof:lastmodified":1706240557,
     "wof:name":"Jebran",
     "wof:parent_id":1092049133,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276999481
+    ],
     "wof:tags":[]
 },
   "bbox": [

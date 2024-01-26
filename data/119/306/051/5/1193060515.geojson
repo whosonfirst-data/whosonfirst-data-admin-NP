@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":7981618
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7981057
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"d1f6a5aa7c6649744060a403e4aeafd7",
+    "wof:geomhash":"4cecf6384afe8be0152f8f4e30efc84f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1193060515,
-    "wof:lastmodified":1566668324,
+    "wof:lastmodified":1706240545,
     "wof:name":"Kunauri",
     "wof:parent_id":1092049711,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293240673
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    86.03598000000002,
+    86.03598,
     27.37524,
-    86.03598000000002,
+    86.03598,
     27.37524
 ],
-  "geometry": {"coordinates":[86.03598000000002,27.37524],"type":"Point"}
+  "geometry": {"coordinates":[86.03598,27.37524],"type":"Point"}
 }

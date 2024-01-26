@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"81.53348,28.12674,81.53348,28.12674",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -45,7 +47,7 @@
         "gn:id":8008577
     },
     "wof:country":"NP",
-    "wof:geomhash":"e6a05afa4217fefede09f4e0cf6ed3f0",
+    "wof:geomhash":"26f2304bef4c0f0d998460cc8db43ac7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +65,22 @@
         }
     ],
     "wof:id":1243480755,
-    "wof:lastmodified":1566670293,
+    "wof:lastmodified":1706240553,
     "wof:name":"Udharapur",
     "wof:parent_id":1092050297,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1226452165
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    81.53348000000003,
+    81.53348,
     28.12674,
-    81.53348000000003,
+    81.53348,
     28.12674
 ],
-  "geometry": {"coordinates":[81.53348000000003,28.12674],"type":"Point"}
+  "geometry": {"coordinates":[81.53348,28.12674],"type":"Point"}
 }

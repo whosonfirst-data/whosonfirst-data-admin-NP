@@ -10,6 +10,9 @@
     "geom:latitude":28.54491,
     "geom:longitude":81.01813,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710018.0",
     "gn:asciiname":"Lakar",
     "gn:country_code":"NP",
     "gn:dem":152,
@@ -47,6 +50,11 @@
     "wof:concordances":{
         "gn:id":1283157
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7956710
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"1e1622c64745c2a653c2b6c715aa0aa1",
     "wof:hierarchy":[
@@ -66,13 +74,15 @@
         }
     ],
     "wof:id":1226360283,
-    "wof:lastmodified":1566672020,
+    "wof:lastmodified":1706240552,
     "wof:name":"Lakar",
     "wof:parent_id":1092048743,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260314593
+    ],
     "wof:tags":[]
 },
   "bbox": [

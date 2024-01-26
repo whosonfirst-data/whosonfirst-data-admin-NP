@@ -65,6 +65,11 @@
     "wof:concordances":{
         "gn:id":7990729
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7990727
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"d9580b28123242f5d769480c927ccf0b",
     "wof:hierarchy":[
@@ -84,13 +89,15 @@
         }
     ],
     "wof:id":1226290765,
-    "wof:lastmodified":1566671371,
+    "wof:lastmodified":1706240552,
     "wof:name":"Katti",
     "wof:parent_id":1092048485,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226687887
+    ],
     "wof:tags":[]
 },
   "bbox": [

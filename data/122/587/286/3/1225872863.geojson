@@ -41,11 +41,17 @@
     "name:msa_x_preferred":[
         "Lapu"
     ],
+    "name:nep_x_preferred":[
+        "L\u0101pu"
+    ],
     "name:new_x_preferred":[
         "\u0932\u093e\u092a\u0941"
     ],
     "name:pol_x_preferred":[
         "Lapu"
+    ],
+    "name:und_x_variant":[
+        "L\u0101bu"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u067e\u0648"
@@ -61,6 +67,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7998431
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1283162
+        ]
     },
     "wof:country":"NP",
     "wof:geomhash":"3314d5f2eada8cde305fd6d3c80ff903",
@@ -81,13 +92,15 @@
         }
     ],
     "wof:id":1225872863,
-    "wof:lastmodified":1566671633,
+    "wof:lastmodified":1706240551,
     "wof:name":"Lapu",
     "wof:parent_id":1092049963,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310319593
+    ],
     "wof:tags":[]
 },
   "bbox": [

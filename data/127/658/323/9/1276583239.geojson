@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7998988
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7999003
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"c7977a3591780aefad382f9f18352ab9",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1276583239,
-    "wof:lastmodified":1566666839,
+    "wof:lastmodified":1706240560,
     "wof:name":"Meheli",
     "wof:parent_id":1092049963,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344084891
+    ],
     "wof:tags":[]
 },
   "bbox": [

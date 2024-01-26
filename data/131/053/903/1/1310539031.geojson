@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"87.42768,26.99977,87.42768,26.99977",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -45,7 +47,7 @@
         "gn:id":7943487
     },
     "wof:country":"NP",
-    "wof:geomhash":"9c102384c4cf8e312e76233cfec0fbfe",
+    "wof:geomhash":"61a03a8d828469ea3826ea6fa4b11bee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +65,22 @@
         }
     ],
     "wof:id":1310539031,
-    "wof:lastmodified":1566669210,
+    "wof:lastmodified":1706240545,
     "wof:name":"Karkale",
     "wof:parent_id":1092049207,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1193074527
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    87.42768000000002,
+    87.42768,
     26.99977,
-    87.42768000000002,
+    87.42768,
     26.99977
 ],
-  "geometry": {"coordinates":[87.42768000000002,26.99977],"type":"Point"}
+  "geometry": {"coordinates":[87.42768,26.99977],"type":"Point"}
 }

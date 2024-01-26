@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7977794
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7977799
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"e151f79c2b655f57c49661b655e13868",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1242615151,
-    "wof:lastmodified":1566670254,
+    "wof:lastmodified":1706240554,
     "wof:name":"Samdin",
     "wof:parent_id":1092049165,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326872105
+    ],
     "wof:tags":[]
 },
   "bbox": [

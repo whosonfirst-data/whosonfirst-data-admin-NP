@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7951773
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7951775
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"aab0f36f2366141bffffaadb074be10e",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1326778687,
-    "wof:lastmodified":1566664105,
+    "wof:lastmodified":1706240565,
     "wof:name":"Sunpani",
     "wof:parent_id":1092048173,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343599193
+    ],
     "wof:tags":[]
 },
   "bbox": [

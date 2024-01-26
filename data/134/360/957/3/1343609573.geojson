@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":7964443
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7964431
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"91c709391a86f3ae1df031f4fe5fbe1e",
+    "wof:geomhash":"b90b4fc760be86442732c7618c1ad93f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1343609573,
-    "wof:lastmodified":1566665190,
+    "wof:lastmodified":1706240566,
     "wof:name":"Chyantar",
     "wof:parent_id":1092050841,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343703611
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    86.49616999999998,
+    86.49617,
     27.12734,
-    86.49616999999998,
+    86.49617,
     27.12734
 ],
-  "geometry": {"coordinates":[86.49616999999998,27.12734],"type":"Point"}
+  "geometry": {"coordinates":[86.49617000000001,27.12734],"type":"Point"}
 }

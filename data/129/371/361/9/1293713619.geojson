@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7947109
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7947191
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"937b4af4ff5dacea002f139c14b60991",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1293713619,
-    "wof:lastmodified":1566665928,
+    "wof:lastmodified":1706240563,
     "wof:name":"Binoda",
     "wof:parent_id":1092048653,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293909637
+    ],
     "wof:tags":[]
 },
   "bbox": [

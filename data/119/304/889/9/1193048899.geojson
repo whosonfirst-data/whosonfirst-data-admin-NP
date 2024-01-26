@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":7979659
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7979700
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"150c816b9aa02aa83de7d7208df6e96e",
+    "wof:geomhash":"49780ed4c7b7cab7718c38505bc923f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1193048899,
-    "wof:lastmodified":1566668388,
+    "wof:lastmodified":1706240545,
     "wof:name":"Gatina",
     "wof:parent_id":1092049377,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293027159
+    ],
     "wof:tags":[]
 },
   "bbox": [
     83.01754,
-    28.12587000000001,
+    28.12587,
     83.01754,
-    28.12587000000001
+    28.12587
 ],
-  "geometry": {"coordinates":[83.01754,28.12587000000001],"type":"Point"}
+  "geometry": {"coordinates":[83.01754,28.12587],"type":"Point"}
 }

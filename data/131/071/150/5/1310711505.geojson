@@ -10,6 +10,9 @@
     "geom:latitude":27.39604,
     "geom:longitude":85.52888,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"24.0",
+    "gn:admin4_code":"240075.0",
     "gn:asciiname":"Basghari",
     "gn:country_code":"NP",
     "gn:dem":1346,
@@ -47,8 +50,13 @@
     "wof:concordances":{
         "gn:id":10322012
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7963774
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"91ad8d8af02a2ab0a006325443376c1d",
+    "wof:geomhash":"c079f1a7151fa00fefd4e6b7d5ba3c21",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,20 +74,22 @@
         }
     ],
     "wof:id":1310711505,
-    "wof:lastmodified":1566669147,
+    "wof:lastmodified":1706240565,
     "wof:name":"Basghari",
     "wof:parent_id":1092048887,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343906201
+    ],
     "wof:tags":[]
 },
   "bbox": [
     85.52888,
-    27.39604000000001,
+    27.39604,
     85.52888,
-    27.39604000000001
+    27.39604
 ],
-  "geometry": {"coordinates":[85.52888,27.39604000000001],"type":"Point"}
+  "geometry": {"coordinates":[85.52888,27.39604],"type":"Point"}
 }

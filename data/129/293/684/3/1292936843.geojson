@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7984321
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7984336
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"75585004634c964a3bd3c6a404c089ac",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1292936843,
-    "wof:lastmodified":1566665798,
+    "wof:lastmodified":1706240562,
     "wof:name":"Ghoslyang",
     "wof:parent_id":1092049455,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326658389
+    ],
     "wof:tags":[]
 },
   "bbox": [

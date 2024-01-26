@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7946190
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7945968
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"b4b95aa73177f99a0df768394bc32dd4",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1260329091,
-    "wof:lastmodified":1566668910,
+    "wof:lastmodified":1706240559,
     "wof:name":"Tomtadera",
     "wof:parent_id":1092049257,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327071721
+    ],
     "wof:tags":[]
 },
   "bbox": [

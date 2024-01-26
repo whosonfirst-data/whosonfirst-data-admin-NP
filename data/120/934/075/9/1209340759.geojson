@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":7941023
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7941025
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"739fd7095f1c78fa5c2ecdecba426744",
     "wof:hierarchy":[
@@ -49,13 +54,15 @@
         }
     ],
     "wof:id":1209340759,
-    "wof:lastmodified":1566668004,
+    "wof:lastmodified":1706240547,
     "wof:name":"Padpada",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326658301
+    ],
     "wof:tags":[]
 },
   "bbox": [
