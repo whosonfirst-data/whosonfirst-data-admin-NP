@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7994145
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7994148
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"1837b688b36f9395acaef8031d3d27a4",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1193069947,
-    "wof:lastmodified":1566668313,
+    "wof:lastmodified":1706240545,
     "wof:name":"Mangalpur",
     "wof:parent_id":1092049679,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226384467
+    ],
     "wof:tags":[]
 },
   "bbox": [

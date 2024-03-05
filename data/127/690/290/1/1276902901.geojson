@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7953749
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7953723
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"6a223e284da406f58a12a9192d7a1542",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1276902901,
-    "wof:lastmodified":1566667217,
+    "wof:lastmodified":1706240561,
     "wof:name":"Andrakot",
     "wof:parent_id":1092048763,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327464665
+    ],
     "wof:tags":[]
 },
   "bbox": [

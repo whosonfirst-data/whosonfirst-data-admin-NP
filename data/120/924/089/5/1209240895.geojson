@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":7957525
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7957597
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"4a88ad65026f2d79f8831431c9e0fd24",
     "wof:hierarchy":[
@@ -49,13 +54,15 @@
         }
     ],
     "wof:id":1209240895,
-    "wof:lastmodified":1566667639,
+    "wof:lastmodified":1706240547,
     "wof:name":"Musichaur",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243288369
+    ],
     "wof:tags":[]
 },
   "bbox": [

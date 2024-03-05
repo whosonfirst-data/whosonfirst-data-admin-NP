@@ -10,6 +10,9 @@
     "geom:latitude":26.79844,
     "geom:longitude":86.34916,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"16",
+    "gn:admin4_code":"160064",
     "gn:asciiname":"Gurudham",
     "gn:country_code":"NP",
     "gn:dem":156,
@@ -47,8 +50,13 @@
     "wof:concordances":{
         "gn:id":1283361
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7996140
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"dcec27237cc9b3f68731c11cafc02d8c",
+    "wof:geomhash":"6bb37fc082c2d2d182c5e081b33f2807",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,20 +74,22 @@
         }
     ],
     "wof:id":1276990813,
-    "wof:lastmodified":1566667189,
+    "wof:lastmodified":1706240561,
     "wof:name":"Gurudham",
     "wof:parent_id":1092050497,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310252809
+    ],
     "wof:tags":[]
 },
   "bbox": [
     86.34916,
-    26.79844000000001,
+    26.79844,
     86.34916,
-    26.79844000000001
+    26.79844
 ],
-  "geometry": {"coordinates":[86.34916,26.79844000000001],"type":"Point"}
+  "geometry": {"coordinates":[86.34916,26.79844],"type":"Point"}
 }

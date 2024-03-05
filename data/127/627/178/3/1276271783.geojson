@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7978595
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7978603
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"97609407b3a411de117404aadac873c8",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1276271783,
-    "wof:lastmodified":1566666746,
+    "wof:lastmodified":1706240559,
     "wof:name":"Makre",
     "wof:parent_id":1092049297,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309947625
+    ],
     "wof:tags":[]
 },
   "bbox": [

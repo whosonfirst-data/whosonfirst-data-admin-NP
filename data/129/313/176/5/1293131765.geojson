@@ -32,6 +32,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:nep_x_preferred":[
+        "Chaukunne"
+    ],
+    "name:und_x_variant":[
+        "Chaukle",
+        "Chaukun"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,10 +49,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":7999190
+        "gn:id":7999190,
+        "wk:page":"Chaukun"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1283542
+        ]
     },
     "wof:country":"NP",
-    "wof:geomhash":"ca0f6659d061b4a4adeac5ecce841df5",
+    "wof:geomhash":"3f7cf160e86ec1f8e28a68073da0298e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +76,22 @@
         }
     ],
     "wof:id":1293131765,
-    "wof:lastmodified":1566666020,
+    "wof:lastmodified":1706240562,
     "wof:name":"Chaukunne",
     "wof:parent_id":1092049963,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343271581
+    ],
     "wof:tags":[]
 },
   "bbox": [
     81.30821,
-    28.88619000000001,
+    28.88619,
     81.30821,
-    28.88619000000001
+    28.88619
 ],
-  "geometry": {"coordinates":[81.30821,28.88619000000001],"type":"Point"}
+  "geometry": {"coordinates":[81.30821,28.88619],"type":"Point"}
 }

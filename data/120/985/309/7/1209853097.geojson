@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7960597
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7961818
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"2dc24d9751ca1ea2d191e071b01654b1",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1209853097,
-    "wof:lastmodified":1566667656,
+    "wof:lastmodified":1706240549,
     "wof:name":"Chyarpe",
     "wof:parent_id":1092049331,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259731461
+    ],
     "wof:tags":[]
 },
   "bbox": [

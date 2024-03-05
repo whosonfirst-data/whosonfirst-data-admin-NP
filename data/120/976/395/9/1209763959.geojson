@@ -32,8 +32,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:nep_x_preferred":[
+        "Pal\u0101nse"
+    ],
     "name:sco_x_preferred":[
         "Palase"
+    ],
+    "name:und_x_variant":[
+        "Pal\u0101\u0303se"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -46,6 +52,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7981093
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10323743
+        ]
     },
     "wof:country":"NP",
     "wof:geomhash":"e9e4691ff1b6eb9a812dcd4260defb53",
@@ -66,13 +77,15 @@
         }
     ],
     "wof:id":1209763959,
-    "wof:lastmodified":1566667700,
+    "wof:lastmodified":1706240549,
     "wof:name":"Palase",
     "wof:parent_id":1092049711,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310711511
+    ],
     "wof:tags":[]
 },
   "bbox": [

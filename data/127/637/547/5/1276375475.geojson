@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7941143
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7941112
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"9f0bb01dd1f96e824eba4a1c527474c1",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1276375475,
-    "wof:lastmodified":1566667250,
+    "wof:lastmodified":1706240560,
     "wof:name":"Bandre",
     "wof:parent_id":1092050661,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343509571
+    ],
     "wof:tags":[]
 },
   "bbox": [

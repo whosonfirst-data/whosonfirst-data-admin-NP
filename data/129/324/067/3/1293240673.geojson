@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"86.03606,27.37729,86.03606,27.37729",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -45,7 +47,7 @@
         "gn:id":7981057
     },
     "wof:country":"NP",
-    "wof:geomhash":"929f6d9708dac61be774a0a5c123ca4e",
+    "wof:geomhash":"ac005e96cf8cdd7279a764ef518b674f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +65,22 @@
         }
     ],
     "wof:id":1293240673,
-    "wof:lastmodified":1566665878,
+    "wof:lastmodified":1706240545,
     "wof:name":"Kunauri",
     "wof:parent_id":1092049711,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1193060515
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    86.03605999999998,
+    86.03606,
     27.37729,
-    86.03605999999998,
+    86.03606,
     27.37729
 ],
-  "geometry": {"coordinates":[86.03605999999998,27.37729],"type":"Point"}
+  "geometry": {"coordinates":[86.03606000000001,27.37729],"type":"Point"}
 }

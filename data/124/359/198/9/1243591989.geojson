@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"85.12882,26.8757,85.12882,26.8757",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -45,7 +47,7 @@
         "gn:id":8008799
     },
     "wof:country":"NP",
-    "wof:geomhash":"4393e75030e8d472a753af0a0d259b0d",
+    "wof:geomhash":"2865b02856621cc54c4287ff96ba3908",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +65,22 @@
         }
     ],
     "wof:id":1243591989,
-    "wof:lastmodified":1566670387,
+    "wof:lastmodified":1706240553,
     "wof:name":"Kawalpur",
     "wof:parent_id":1092048051,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1226581687
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.12881999999998,
+    85.12882,
     26.8757,
-    85.12881999999998,
+    85.12882,
     26.8757
 ],
-  "geometry": {"coordinates":[85.12881999999998,26.8757],"type":"Point"}
+  "geometry": {"coordinates":[85.12882,26.8757],"type":"Point"}
 }

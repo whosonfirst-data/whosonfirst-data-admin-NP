@@ -38,6 +38,10 @@
     "name:deu_x_preferred":[
         "Dase"
     ],
+    "name:und_x_variant":[
+        "D\u0101\u0303se",
+        "D\u0101nse"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632465
@@ -45,6 +49,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7981523
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10322071
+        ]
     },
     "wof:country":"NP",
     "wof:geomhash":"ed56c8d4ddaaef550c30e38cf7dbe0c0",
@@ -55,13 +64,15 @@
         }
     ],
     "wof:id":1209252631,
-    "wof:lastmodified":1566667742,
+    "wof:lastmodified":1706240547,
     "wof:name":"Dase",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309813311
+    ],
     "wof:tags":[]
 },
   "bbox": [

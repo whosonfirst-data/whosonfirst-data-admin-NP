@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":7999047
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7999036
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"2bf646020253fb630090150e66f99b97",
+    "wof:geomhash":"a47282adc47861202a80857d3c174676",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1242710913,
-    "wof:lastmodified":1566670510,
+    "wof:lastmodified":1706240554,
     "wof:name":"Rachena",
     "wof:parent_id":1092049963,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309738447
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    81.99571999999998,
-    28.62784000000001,
-    81.99571999999998,
-    28.62784000000001
+    81.99572,
+    28.62784,
+    81.99572,
+    28.62784
 ],
-  "geometry": {"coordinates":[81.99571999999998,28.62784000000001],"type":"Point"}
+  "geometry": {"coordinates":[81.99572000000001,28.62784],"type":"Point"}
 }

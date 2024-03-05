@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7963436
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7963449
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"3883485fe151ad95c244a3ea4732853f",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1259827757,
-    "wof:lastmodified":1566670995,
+    "wof:lastmodified":1706240558,
     "wof:name":"Simpatle",
     "wof:parent_id":1092048887,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360023425
+    ],
     "wof:tags":[]
 },
   "bbox": [

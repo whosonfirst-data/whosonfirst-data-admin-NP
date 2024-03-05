@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"80.99878,28.85405,80.99878,28.85405",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -45,7 +47,7 @@
         "gn:id":7957255
     },
     "wof:country":"NP",
-    "wof:geomhash":"c37d5f6fd14b15dc82c1d7b2386497bd",
+    "wof:geomhash":"8b3d59a8ea46ce8dd21c4c61e5b848fd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +65,22 @@
         }
     ],
     "wof:id":1326461363,
-    "wof:lastmodified":1566664070,
+    "wof:lastmodified":1706240561,
     "wof:name":"Narange",
     "wof:parent_id":1092048743,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1276907627
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    80.99878000000002,
+    80.99878,
     28.85405,
-    80.99878000000002,
+    80.99878,
     28.85405
 ],
-  "geometry": {"coordinates":[80.99878000000002,28.85405],"type":"Point"}
+  "geometry": {"coordinates":[80.99878,28.85405],"type":"Point"}
 }

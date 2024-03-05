@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7977246
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7977239
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"e63ff7408826d7207c8918f5e6c84693",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1225992617,
-    "wof:lastmodified":1566671660,
+    "wof:lastmodified":1706240551,
     "wof:name":"Tinmaule",
     "wof:parent_id":1092049165,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226284323
+    ],
     "wof:tags":[]
 },
   "bbox": [

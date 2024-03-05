@@ -10,6 +10,9 @@
     "geom:latitude":28.56469,
     "geom:longitude":81.1064,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"14",
+    "gn:admin3_code":"71.0",
+    "gn:admin4_code":"710012.0",
     "gn:asciiname":"Durgauli",
     "gn:country_code":"NP",
     "gn:dem":167,
@@ -68,6 +71,11 @@
     "wof:concordances":{
         "gn:id":1283417
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7956523
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"1c0a32dec64e5b4fbd1a8a96b5404b1f",
     "wof:hierarchy":[
@@ -87,13 +95,15 @@
         }
     ],
     "wof:id":1226660387,
-    "wof:lastmodified":1566671530,
+    "wof:lastmodified":1706240554,
     "wof:name":"Durgauli",
     "wof:parent_id":1092048743,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360117741
+    ],
     "wof:tags":[]
 },
   "bbox": [

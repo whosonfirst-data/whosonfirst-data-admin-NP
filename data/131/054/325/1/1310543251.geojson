@@ -32,6 +32,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "S\u0101l\u1e6dh\u0101\u0303\u1e6di",
+        "S\u0101l\u1e6dh\u0101n\u1e6di"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -43,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7963529
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10321045
+        ]
     },
     "wof:country":"NP",
     "wof:geomhash":"591d011635719fb7ed1db5875c61d808",
@@ -63,13 +72,15 @@
         }
     ],
     "wof:id":1310543251,
-    "wof:lastmodified":1566669180,
+    "wof:lastmodified":1706240565,
     "wof:name":"Salthati",
     "wof:parent_id":1092048887,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310619007
+    ],
     "wof:tags":[]
 },
   "bbox": [

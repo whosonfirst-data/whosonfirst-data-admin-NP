@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7966770
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7966756
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"29f2fdf9fec7615cbf0a132fdb34a5c3",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1293138241,
-    "wof:lastmodified":1566666009,
+    "wof:lastmodified":1706240562,
     "wof:name":"Saunepani",
     "wof:parent_id":1092050009,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309847573
+    ],
     "wof:tags":[]
 },
   "bbox": [

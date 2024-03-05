@@ -9,6 +9,21 @@
     "geom:bbox":"86.086999,27.325998,86.086999,27.325998",
     "geom:latitude":27.325998,
     "geom:longitude":86.086999,
+    "gn:admin1_code":"CR",
+    "gn:admin2_code":"5.0",
+    "gn:admin3_code":"21.0",
+    "gn:asciiname":"Ramechhap",
+    "gn:country_code":"NP",
+    "gn:dem":1258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":1282878,
+    "gn:latitude":27.3256,
+    "gn:longitude":86.08768,
+    "gn:modification_date":"2011-07-31",
+    "gn:name":"R\u0101mechh\u0101p",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kathmandu",
     "iso:country":"NP",
     "lbl:bbox":"86.0669985286,27.3059980757,86.1069985286,27.3459980757",
     "lbl:latitude":27.325998,
@@ -219,7 +234,9 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "wd:id":"Q2224286"
+        "gn:id":1282878,
+        "wd:id":"Q2224286",
+        "wk:page":"Ramechhap%2C_Janakpur%2C_Nepal"
     },
     "wof:country":"NP",
     "wof:created":1499130534,
@@ -241,13 +258,15 @@
         }
     ],
     "wof:id":1141906055,
-    "wof:lastmodified":1690849751,
+    "wof:lastmodified":1706240544,
     "wof:name":"Ramechhap",
     "wof:parent_id":1092049711,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326478771
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -56,6 +56,11 @@
     "wof:concordances":{
         "gn:id":7966717
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7966713
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"ff102f7c47966d8a603607eba2183157",
     "wof:hierarchy":[
@@ -75,13 +80,15 @@
         }
     ],
     "wof:id":1276917437,
-    "wof:lastmodified":1566667282,
+    "wof:lastmodified":1706240561,
     "wof:name":"Bhaluwa",
     "wof:parent_id":1092050009,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310047445
+    ],
     "wof:tags":[]
 },
   "bbox": [

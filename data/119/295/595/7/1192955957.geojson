@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7954152
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7954125
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"91b88b9b0f67b947efd4f935f9578e19",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1192955957,
-    "wof:lastmodified":1566668337,
+    "wof:lastmodified":1706240544,
     "wof:name":"Beldagi",
     "wof:parent_id":1092050367,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259531477
+    ],
     "wof:tags":[]
 },
   "bbox": [

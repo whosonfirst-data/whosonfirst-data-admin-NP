@@ -92,6 +92,11 @@
     "wof:concordances":{
         "gn:id":7971082
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7970794
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"97b8263bc9fad328bcf1c90c277332b9",
     "wof:hierarchy":[
@@ -111,13 +116,15 @@
         }
     ],
     "wof:id":1276262211,
-    "wof:lastmodified":1566666644,
+    "wof:lastmodified":1706240559,
     "wof:name":"Dol",
     "wof:parent_id":1092050255,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343689921
+    ],
     "wof:tags":[]
 },
   "bbox": [

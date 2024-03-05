@@ -10,6 +10,9 @@
     "geom:latitude":27.96855,
     "geom:longitude":82.48475,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"56.0",
+    "gn:admin4_code":"560020.0",
     "gn:asciiname":"Gairakhuti",
     "gn:country_code":"NP",
     "gn:dem":627,
@@ -47,6 +50,11 @@
     "wof:concordances":{
         "gn:id":1283403
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7939052
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"dfb80c8dccf67df4601c0f99d15f4768",
     "wof:hierarchy":[
@@ -66,13 +74,15 @@
         }
     ],
     "wof:id":1259693593,
-    "wof:lastmodified":1566671079,
+    "wof:lastmodified":1706240557,
     "wof:name":"Gairakhuti",
     "wof:parent_id":1092048605,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360210931
+    ],
     "wof:tags":[]
 },
   "bbox": [

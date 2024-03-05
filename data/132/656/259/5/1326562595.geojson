@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"82.53946,28.25273,82.53946,28.25273",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -45,7 +47,7 @@
         "gn:id":7984497
     },
     "wof:country":"NP",
-    "wof:geomhash":"363265eb3c5fa6c0efecfd1b2b4b9f4c",
+    "wof:geomhash":"2c833e161307011683d40e6b7a915a6f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +65,22 @@
         }
     ],
     "wof:id":1326562595,
-    "wof:lastmodified":1566663626,
+    "wof:lastmodified":1706240564,
     "wof:name":"Rumti",
     "wof:parent_id":1092049455,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1309743053
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.53945999999998,
+    82.53946,
     28.25273,
-    82.53945999999998,
+    82.53946,
     28.25273
 ],
-  "geometry": {"coordinates":[82.53945999999998,28.25273],"type":"Point"}
+  "geometry": {"coordinates":[82.53946000000001,28.25273],"type":"Point"}
 }

@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":7958117
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7963626
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"0f81eda4506fbc69a0e80bf592f48467",
     "wof:hierarchy":[
@@ -49,13 +54,15 @@
         }
     ],
     "wof:id":1209648129,
-    "wof:lastmodified":1566667511,
+    "wof:lastmodified":1706240548,
     "wof:name":"Kaptane Bhawar",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259716493
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7947702
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7947719
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"d99b831e26be0ab71ae863257a59359f",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1276255555,
-    "wof:lastmodified":1566667014,
+    "wof:lastmodified":1706240559,
     "wof:name":"Baujelo",
     "wof:parent_id":1092048653,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293417993
+    ],
     "wof:tags":[]
 },
   "bbox": [

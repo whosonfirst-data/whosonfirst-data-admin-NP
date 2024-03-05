@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":7997548
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7997529
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"08ac3f857c18534d180136fd9784943c",
     "wof:hierarchy":[
@@ -49,13 +54,15 @@
         }
     ],
     "wof:id":1209156423,
-    "wof:lastmodified":1566667591,
+    "wof:lastmodified":1706240546,
     "wof:name":"Khungaun",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226384359
+    ],
     "wof:tags":[]
 },
   "bbox": [

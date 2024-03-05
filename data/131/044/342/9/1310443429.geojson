@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7971340
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7971329
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"7341b3a52173c89ca357dc5c07be155c",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1310443429,
-    "wof:lastmodified":1566669329,
+    "wof:lastmodified":1706240565,
     "wof:name":"Takure Bhanjyang",
     "wof:parent_id":1092048303,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310443455
+    ],
     "wof:tags":[]
 },
   "bbox": [

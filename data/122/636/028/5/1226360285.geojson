@@ -10,6 +10,9 @@
     "geom:latitude":27.54708,
     "geom:longitude":85.96867,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"21",
+    "gn:admin4_code":"210012",
     "gn:asciiname":"Chhaga",
     "gn:country_code":"NP",
     "gn:dem":2528,
@@ -45,8 +48,13 @@
     "wof:concordances":{
         "gn:id":10321988
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7981197
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"b711c9a0c5af255b18a6c03b51011b9f",
+    "wof:geomhash":"a859e10110458996d881ee58a46891b2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,20 +72,22 @@
         }
     ],
     "wof:id":1226360285,
-    "wof:lastmodified":1566672020,
+    "wof:lastmodified":1706240552,
     "wof:name":"Chhaga",
     "wof:parent_id":1092049711,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276482903
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    85.96866999999997,
+    85.96867,
     27.54708,
-    85.96866999999997,
+    85.96867,
     27.54708
 ],
-  "geometry": {"coordinates":[85.96866999999997,27.54708],"type":"Point"}
+  "geometry": {"coordinates":[85.96867,27.54708],"type":"Point"}
 }

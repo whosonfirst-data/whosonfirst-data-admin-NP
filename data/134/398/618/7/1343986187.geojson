@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":7987904
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7987913
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"1bbbe5f3d128a5f16f3f41274b912469",
+    "wof:geomhash":"4adcf589967e9b6050377a483a6c9e8b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1343986187,
-    "wof:lastmodified":1566664516,
+    "wof:lastmodified":1706240566,
     "wof:name":"Khatrigaun",
     "wof:parent_id":1092049579,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360210961
+    ],
     "wof:tags":[]
 },
   "bbox": [
     82.39398,
-    28.50199000000001,
+    28.50199,
     82.39398,
-    28.50199000000001
+    28.50199
 ],
-  "geometry": {"coordinates":[82.39398,28.50199000000001],"type":"Point"}
+  "geometry": {"coordinates":[82.39398,28.50199],"type":"Point"}
 }

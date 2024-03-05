@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":7978630
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7978638
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"d22e62d9d16157177f8c80d31f2ba785",
     "wof:hierarchy":[
@@ -66,13 +71,15 @@
         }
     ],
     "wof:id":1259424411,
-    "wof:lastmodified":1566671133,
+    "wof:lastmodified":1706240557,
     "wof:name":"Hile",
     "wof:parent_id":1092049297,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326978059
+    ],
     "wof:tags":[]
 },
   "bbox": [

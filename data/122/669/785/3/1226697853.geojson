@@ -50,8 +50,13 @@
     "wof:concordances":{
         "gn:id":7975958
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7975963
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"d834b0c8597debc5ef77636fa956c460",
+    "wof:geomhash":"e1e7f8f45d91faba40b06c0265e0bb7b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,20 +74,22 @@
         }
     ],
     "wof:id":1226697853,
-    "wof:lastmodified":1566671411,
+    "wof:lastmodified":1706240554,
     "wof:name":"Awal",
     "wof:parent_id":1092050889,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327375637
+    ],
     "wof:tags":[]
 },
   "bbox": [
     83.49786,
-    27.91462000000001,
+    27.91462,
     83.49786,
-    27.91462000000001
+    27.91462
 ],
-  "geometry": {"coordinates":[83.49786,27.91462000000001],"type":"Point"}
+  "geometry": {"coordinates":[83.49786,27.91462],"type":"Point"}
 }

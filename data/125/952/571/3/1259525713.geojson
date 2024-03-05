@@ -47,6 +47,10 @@
     "name:pol_x_preferred":[
         "Budhathum"
     ],
+    "name:und_x_variant":[
+        "Bu\u1e0dh\u0101thum",
+        "Bur\u0101thum"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -58,6 +62,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7941209
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1283570
+        ]
     },
     "wof:country":"NP",
     "wof:geomhash":"c333f0bc05423ff9ac2030c4c093de3f",
@@ -78,13 +87,15 @@
         }
     ],
     "wof:id":1259525713,
-    "wof:lastmodified":1566670890,
+    "wof:lastmodified":1706240557,
     "wof:name":"Budhathum",
     "wof:parent_id":1092050661,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360094729
+    ],
     "wof:tags":[]
 },
   "bbox": [

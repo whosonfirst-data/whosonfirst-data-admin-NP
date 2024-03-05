@@ -68,6 +68,11 @@
     "wof:concordances":{
         "gn:id":7972688
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7972698
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"1926a942276c588b2675d2505bfeacf2",
     "wof:hierarchy":[
@@ -87,13 +92,15 @@
         }
     ],
     "wof:id":1243211729,
-    "wof:lastmodified":1566670748,
+    "wof:lastmodified":1706240556,
     "wof:name":"Danda",
     "wof:parent_id":1092050413,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260335957
+    ],
     "wof:tags":[]
 },
   "bbox": [

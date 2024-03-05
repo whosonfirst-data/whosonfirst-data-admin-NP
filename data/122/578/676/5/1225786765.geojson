@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7955263
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7955506
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"76f4d29de2066dc5efa9fbaa44b2c5f9",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1225786765,
-    "wof:lastmodified":1566672040,
+    "wof:lastmodified":1706240550,
     "wof:name":"Gadel",
     "wof:parent_id":1092049257,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293537435
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"82.62534,28.02999,82.62534,28.02999",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -45,7 +47,7 @@
         "gn:id":7938940
     },
     "wof:country":"NP",
-    "wof:geomhash":"3de5c64719608ac5f0946c4e6b473f6b",
+    "wof:geomhash":"dda1d35f24f7696628b8031d0a0a4134",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +65,22 @@
         }
     ],
     "wof:id":1327058121,
-    "wof:lastmodified":1566663918,
+    "wof:lastmodified":1706240562,
     "wof:name":"Bai",
     "wof:parent_id":1092048605,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1293125259
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.62534000000002,
+    82.62534,
     28.02999,
-    82.62534000000002,
+    82.62534,
     28.02999
 ],
-  "geometry": {"coordinates":[82.62534000000002,28.02999],"type":"Point"}
+  "geometry": {"coordinates":[82.62533999999999,28.02999],"type":"Point"}
 }

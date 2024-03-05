@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":7965378
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7965246
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"2c711adec84f1ad3a5e78c3ad96449fe",
     "wof:hierarchy":[
@@ -49,13 +54,15 @@
         }
     ],
     "wof:id":1209552919,
-    "wof:lastmodified":1566667539,
+    "wof:lastmodified":1706240548,
     "wof:name":"Dobata",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326468067
+    ],
     "wof:tags":[]
 },
   "bbox": [

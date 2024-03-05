@@ -38,11 +38,17 @@
     "name:nep_x_preferred":[
         "\u092b\u0932\u093e\u0901\u091f\u0947"
     ],
+    "name:nep_x_variant":[
+        "\u092b\u0932\u093e\u0901\u091f\u0947"
+    ],
     "name:new_x_preferred":[
         "\u092b\u0932\u093e\u0924\u0947"
     ],
     "name:pol_x_preferred":[
         "Falate"
+    ],
+    "name:und_x_variant":[
+        "Phal\u0101\u0303\u1e6de"
     ],
     "name:urd_x_preferred":[
         "\u0641\u0627\u0644\u0627\u0679\u06cc"
@@ -55,6 +61,11 @@
     "wof:concordances":{
         "gn:id":7962964
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10322004
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"f8d3afde06222524ff86b8e01dfc771c",
     "wof:hierarchy":[
@@ -64,13 +75,15 @@
         }
     ],
     "wof:id":1209352677,
-    "wof:lastmodified":1566667859,
+    "wof:lastmodified":1706240547,
     "wof:name":"Phalate",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276452839
+    ],
     "wof:tags":[]
 },
   "bbox": [

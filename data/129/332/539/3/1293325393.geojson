@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":7958510
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7958511
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"2b9605489fd0d0877dc1380248b69129",
+    "wof:geomhash":"65d3f6370ae7a8612c5aa1f5fbd44932",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1293325393,
-    "wof:lastmodified":1566666257,
+    "wof:lastmodified":1706240563,
     "wof:name":"Pachkadiya",
     "wof:parent_id":1092048227,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343387497
+    ],
     "wof:tags":[]
 },
   "bbox": [
     80.49896,
-    28.68152000000001,
+    28.68152,
     80.49896,
-    28.68152000000001
+    28.68152
 ],
-  "geometry": {"coordinates":[80.49896,28.68152000000001],"type":"Point"}
+  "geometry": {"coordinates":[80.49896,28.68152],"type":"Point"}
 }

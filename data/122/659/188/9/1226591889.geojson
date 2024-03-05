@@ -62,6 +62,11 @@
     "wof:concordances":{
         "gn:id":7987347
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7987346
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"24c92e842a75aedbdcfff90c9336213d",
     "wof:hierarchy":[
@@ -81,13 +86,15 @@
         }
     ],
     "wof:id":1226591889,
-    "wof:lastmodified":1566671519,
+    "wof:lastmodified":1706240554,
     "wof:name":"Amari",
     "wof:parent_id":1092048457,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326677901
+    ],
     "wof:tags":[]
 },
   "bbox": [

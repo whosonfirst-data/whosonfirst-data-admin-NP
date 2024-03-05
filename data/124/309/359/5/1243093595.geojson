@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":7986564
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7986556
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"8ed17a74c3b0a58c14661c11971816b9",
+    "wof:geomhash":"406ab1640b49d97c913a4018d5a2b12c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1243093595,
-    "wof:lastmodified":1566670034,
+    "wof:lastmodified":1706240555,
     "wof:name":"Manalum",
     "wof:parent_id":1092049495,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326454869
+    ],
     "wof:tags":[]
 },
   "bbox": [
     82.62639,
-    28.56627000000001,
+    28.56627,
     82.62639,
-    28.56627000000001
+    28.56627
 ],
-  "geometry": {"coordinates":[82.62639,28.56627000000001],"type":"Point"}
+  "geometry": {"coordinates":[82.62639,28.56627],"type":"Point"}
 }

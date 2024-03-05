@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":7975726
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7975733
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"ae3c4419d1fc3931089cfbefe68a428b",
+    "wof:geomhash":"7d14ba27a869743a72f234c69e331586",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1310347171,
-    "wof:lastmodified":1566669468,
+    "wof:lastmodified":1706240565,
     "wof:name":"Nalsu",
     "wof:parent_id":1092050225,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326772517
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    86.60394000000002,
+    86.60394,
     27.25112,
-    86.60394000000002,
+    86.60394,
     27.25112
 ],
-  "geometry": {"coordinates":[86.60394000000002,27.25112],"type":"Point"}
+  "geometry": {"coordinates":[86.60393999999999,27.25112],"type":"Point"}
 }

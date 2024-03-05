@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7962487
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7962489
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"9a469c80fcb9a3646a68ad9168eccb88",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1310343241,
-    "wof:lastmodified":1566669453,
+    "wof:lastmodified":1706240564,
     "wof:name":"Kattike",
     "wof:parent_id":1092048931,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326772569
+    ],
     "wof:tags":[]
 },
   "bbox": [

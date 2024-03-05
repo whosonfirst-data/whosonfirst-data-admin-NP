@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":7980095
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7979884
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"5f95dcff19e6672884068a1793b03a8c",
+    "wof:geomhash":"72454054e238327ac61bd3f9f89bba9c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1277103071,
-    "wof:lastmodified":1566667337,
+    "wof:lastmodified":1706240562,
     "wof:name":"Kapdanda",
     "wof:parent_id":1092049377,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292930237
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    82.87841999999998,
+    82.87842,
     28.12601,
-    82.87841999999998,
+    82.87842,
     28.12601
 ],
-  "geometry": {"coordinates":[82.87841999999998,28.12601],"type":"Point"}
+  "geometry": {"coordinates":[82.87842000000001,28.12601],"type":"Point"}
 }

@@ -10,6 +10,9 @@
     "geom:latitude":27.69733,
     "geom:longitude":85.78105,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"1",
+    "gn:admin3_code":"23",
+    "gn:admin4_code":"230036",
     "gn:asciiname":"Bajhe",
     "gn:country_code":"NP",
     "gn:dem":1497,
@@ -45,6 +48,11 @@
     "wof:concordances":{
         "gn:id":10322583
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7994898
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"1bde725311ba51f306a5377225eca41d",
     "wof:hierarchy":[
@@ -64,13 +72,15 @@
         }
     ],
     "wof:id":1243181919,
-    "wof:lastmodified":1566670647,
+    "wof:lastmodified":1706240556,
     "wof:name":"Bajhe",
     "wof:parent_id":1092049755,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259917949
+    ],
     "wof:tags":[]
 },
   "bbox": [

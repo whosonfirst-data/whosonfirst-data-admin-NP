@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7993150
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7993289
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"8e72e5d512b0e38cb2f6ca628ec04c1c",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1225982531,
-    "wof:lastmodified":1566671722,
+    "wof:lastmodified":1706240551,
     "wof:name":"Jantol",
     "wof:parent_id":1092049679,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327172223
+    ],
     "wof:tags":[]
 },
   "bbox": [

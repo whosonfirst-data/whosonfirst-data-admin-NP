@@ -56,6 +56,11 @@
     "wof:concordances":{
         "gn:id":7991404
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7991396
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"a73ac774490249d1455ce5aff32e571a",
     "wof:hierarchy":[
@@ -75,13 +80,15 @@
         }
     ],
     "wof:id":1225786979,
-    "wof:lastmodified":1566672043,
+    "wof:lastmodified":1706240550,
     "wof:name":"Siddhipur",
     "wof:parent_id":1092048485,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225886513
+    ],
     "wof:tags":[]
 },
   "bbox": [

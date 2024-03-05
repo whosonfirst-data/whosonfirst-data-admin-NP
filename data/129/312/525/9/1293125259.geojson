@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7938980
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7938940
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"d3ffdfebc0ce1a143fc1bcf9c778aac1",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1293125259,
-    "wof:lastmodified":1566665909,
+    "wof:lastmodified":1706240562,
     "wof:name":"Bai",
     "wof:parent_id":1092048605,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327058121
+    ],
     "wof:tags":[]
 },
   "bbox": [

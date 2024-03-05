@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7985423
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7985421
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"072247e9e0b305abfc7ddb689694bc61",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1310625411,
-    "wof:lastmodified":1566669164,
+    "wof:lastmodified":1706240565,
     "wof:name":"Bhalma",
     "wof:parent_id":1092049495,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343687977
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":7997345
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7998022
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"ee8839eb756d73afe84c88dd61e51075",
+    "wof:geomhash":"fcec35312567dbfe125bae55bf450aa1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1226581487,
-    "wof:lastmodified":1566671474,
+    "wof:lastmodified":1706240553,
     "wof:name":"Narbhasa",
     "wof:parent_id":1092049923,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259430763
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    87.25046999999998,
+    87.25047,
     26.62933,
-    87.25046999999998,
+    87.25047,
     26.62933
 ],
-  "geometry": {"coordinates":[87.25046999999998,26.62933],"type":"Point"}
+  "geometry": {"coordinates":[87.25047000000001,26.62933],"type":"Point"}
 }

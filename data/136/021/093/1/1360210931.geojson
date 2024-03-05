@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"82.487,27.9698,82.487,27.9698",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -45,7 +47,7 @@
         "gn:id":7939052
     },
     "wof:country":"NP",
-    "wof:geomhash":"183c388cb89d1bf4e75a80b52e50cbaf",
+    "wof:geomhash":"afc5f4a53db6aa1a38a59baf5210c7a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +65,22 @@
         }
     ],
     "wof:id":1360210931,
-    "wof:lastmodified":1566669711,
+    "wof:lastmodified":1706240557,
     "wof:name":"Gairakhuti",
     "wof:parent_id":1092048605,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1259693593
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    82.48700000000002,
+    82.487,
     27.9698,
-    82.48700000000002,
+    82.487,
     27.9698
 ],
-  "geometry": {"coordinates":[82.48700000000002,27.9698],"type":"Point"}
+  "geometry": {"coordinates":[82.48699999999999,27.9698],"type":"Point"}
 }

@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7979192
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7979452
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"a1ef4a94e7812edf8eb494cbb9498273",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1226797649,
-    "wof:lastmodified":1566671809,
+    "wof:lastmodified":1706240554,
     "wof:name":"Santhi",
     "wof:parent_id":1092050453,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327382331
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -62,6 +62,11 @@
     "wof:concordances":{
         "gn:id":7971124
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7971123
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"89725d5aefc566279fdea71f06245c31",
     "wof:hierarchy":[
@@ -81,13 +86,15 @@
         }
     ],
     "wof:id":1293431621,
-    "wof:lastmodified":1566666529,
+    "wof:lastmodified":1706240563,
     "wof:name":"Baliya",
     "wof:parent_id":1092048303,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327471565
+    ],
     "wof:tags":[]
 },
   "bbox": [

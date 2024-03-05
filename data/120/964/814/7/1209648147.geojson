@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":8000502
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8000469
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"79ad31484565d7e1e1a054bd2f696b9a",
     "wof:hierarchy":[
@@ -49,13 +54,15 @@
         }
     ],
     "wof:id":1209648147,
-    "wof:lastmodified":1566667512,
+    "wof:lastmodified":1706240548,
     "wof:name":"Mattada",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293417975
+    ],
     "wof:tags":[]
 },
   "bbox": [

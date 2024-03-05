@@ -10,6 +10,9 @@
     "geom:latitude":28.04473,
     "geom:longitude":84.81121,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"4",
+    "gn:admin3_code":"36.0",
+    "gn:admin4_code":"360003.0",
     "gn:asciiname":"Arughat",
     "gn:country_code":"NP",
     "gn:dem":528,
@@ -45,6 +48,11 @@
     "wof:concordances":{
         "gn:id":1283724
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7947879
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"1081927b899af6a1be0f153fa27937f4",
     "wof:hierarchy":[
@@ -64,13 +72,15 @@
         }
     ],
     "wof:id":1310120277,
-    "wof:lastmodified":1566669066,
+    "wof:lastmodified":1706240564,
     "wof:name":"Arughat",
     "wof:parent_id":1092050351,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327175899
+    ],
     "wof:tags":[]
 },
   "bbox": [

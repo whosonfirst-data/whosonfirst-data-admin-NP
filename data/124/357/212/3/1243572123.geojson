@@ -10,6 +10,9 @@
     "geom:latitude":28.931,
     "geom:longitude":81.07552,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"59.0",
+    "gn:admin4_code":"590029.0",
     "gn:asciiname":"Dhanras",
     "gn:country_code":"NP",
     "gn:dem":1326,
@@ -47,6 +50,11 @@
     "wof:concordances":{
         "gn:id":1283446
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7999537
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"7f9d88195654724dea1cce900d7cafcd",
     "wof:hierarchy":[
@@ -66,13 +74,15 @@
         }
     ],
     "wof:id":1243572123,
-    "wof:lastmodified":1566670421,
+    "wof:lastmodified":1706240556,
     "wof:name":"Dhanras",
     "wof:parent_id":1092049963,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277010701
+    ],
     "wof:tags":[]
 },
   "bbox": [

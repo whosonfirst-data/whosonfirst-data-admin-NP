@@ -56,6 +56,11 @@
     "wof:concordances":{
         "gn:id":7946658
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7946636
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"fb2b57aa89058f6e50f3afa325969170",
     "wof:hierarchy":[
@@ -75,13 +80,15 @@
         }
     ],
     "wof:id":1310431577,
-    "wof:lastmodified":1566669335,
+    "wof:lastmodified":1706240565,
     "wof:name":"Toli",
     "wof:parent_id":1092048653,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343385629
+    ],
     "wof:tags":[]
 },
   "bbox": [

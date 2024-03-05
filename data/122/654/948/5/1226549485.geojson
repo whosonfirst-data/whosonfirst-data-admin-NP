@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"85.92286,27.01796,85.92286,27.01796",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:nep_x_preferred":[
         "Tulasi\u0307\u0304"
@@ -69,12 +71,14 @@
         }
     ],
     "wof:id":1226549485,
-    "wof:lastmodified":1566671962,
+    "wof:lastmodified":1706240548,
     "wof:name":"Tulasi",
     "wof:parent_id":1092048127,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209653195
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

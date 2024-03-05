@@ -40,8 +40,13 @@
     "wof:concordances":{
         "gn:id":7984691
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7984745
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"c63670c9d38867b970eed268b66e8af2",
+    "wof:geomhash":"a1441c3d7edee4eb90cc80a7c9155628",
     "wof:hierarchy":[
         {
             "country_id":85632465,
@@ -49,20 +54,22 @@
         }
     ],
     "wof:id":1209447841,
-    "wof:lastmodified":1566668113,
+    "wof:lastmodified":1706240547,
     "wof:name":"Chirka",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343485735
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    82.67985999999998,
+    82.67986,
     28.49946,
-    82.67985999999998,
+    82.67986,
     28.49946
 ],
-  "geometry": {"coordinates":[82.67985999999998,28.49946],"type":"Point"}
+  "geometry": {"coordinates":[82.67986000000001,28.49946],"type":"Point"}
 }

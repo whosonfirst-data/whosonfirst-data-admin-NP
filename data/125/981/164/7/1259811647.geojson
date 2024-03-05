@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":7974549
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7971258
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"69acea1de4bc552313a7c5a9d4aec137",
     "wof:hierarchy":[
@@ -66,13 +71,15 @@
         }
     ],
     "wof:id":1259811647,
-    "wof:lastmodified":1566671192,
+    "wof:lastmodified":1706240558,
     "wof:name":"Tapu",
     "wof:parent_id":1092048527,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293416165
+    ],
     "wof:tags":[]
 },
   "bbox": [

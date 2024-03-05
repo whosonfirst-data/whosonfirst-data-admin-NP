@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":7953799
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7952996
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"2c01cd7b94a0d00778912d2c431bb4d6",
+    "wof:geomhash":"29ee0daa7fd01a18be9ecca9d56a66ac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1277101087,
-    "wof:lastmodified":1566667356,
+    "wof:lastmodified":1706240562,
     "wof:name":"Melne",
     "wof:parent_id":1092048763,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310625553
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    81.99840999999998,
-    28.76494000000001,
-    81.99840999999998,
-    28.76494000000001
+    81.99841,
+    28.76494,
+    81.99841,
+    28.76494
 ],
-  "geometry": {"coordinates":[81.99840999999998,28.76494000000001],"type":"Point"}
+  "geometry": {"coordinates":[81.99841000000001,28.76494],"type":"Point"}
 }

@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":7966777
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7966758
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"b7352701dc8c75d0d870639a1b896716",
+    "wof:geomhash":"9005f95a9ecfc336510b21e7facbecb7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1260228703,
-    "wof:lastmodified":1566668764,
+    "wof:lastmodified":1706240559,
     "wof:name":"Raginaskot",
     "wof:parent_id":1092050009,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327481647
+    ],
     "wof:tags":[]
 },
   "bbox": [
     84.48992,
-    28.12709000000001,
+    28.12709,
     84.48992,
-    28.12709000000001
+    28.12709
 ],
-  "geometry": {"coordinates":[84.48992,28.12709000000001],"type":"Point"}
+  "geometry": {"coordinates":[84.48992,28.12709],"type":"Point"}
 }

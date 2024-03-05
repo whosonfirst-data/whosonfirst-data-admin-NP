@@ -10,6 +10,9 @@
     "geom:latitude":28.50816,
     "geom:longitude":82.33206,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550041",
     "gn:asciiname":"Ole Jyula",
     "gn:country_code":"NP",
     "gn:dem":1555,
@@ -43,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1282627
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7989579
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"ef9af06c5eba2daac376ae3bf450e3fd",
     "wof:hierarchy":[
@@ -52,13 +60,15 @@
         }
     ],
     "wof:id":1209624943,
-    "wof:lastmodified":1566667490,
+    "wof:lastmodified":1706240548,
     "wof:name":"Ole Jyula",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327162479
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7980471
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7980655
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"103f4b762be084be930eac3c4025e84b",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1242706085,
-    "wof:lastmodified":1566670478,
+    "wof:lastmodified":1706240554,
     "wof:name":"Kholigaun",
     "wof:parent_id":1092049377,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243582041
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -92,6 +92,11 @@
     "wof:concordances":{
         "gn:id":7950712
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7950727
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"be6c1b30d24140b30dd6157569e08607",
     "wof:hierarchy":[
@@ -111,13 +116,15 @@
         }
     ],
     "wof:id":1193183977,
-    "wof:lastmodified":1636494936,
+    "wof:lastmodified":1706240545,
     "wof:name":"Kura",
     "wof:parent_id":1092050755,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209143315
+    ],
     "wof:tags":[]
 },
   "bbox": [

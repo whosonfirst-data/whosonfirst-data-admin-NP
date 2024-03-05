@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7956306
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7956198
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"f64175508e38e5364f49be6e3be0ab70",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1209954165,
-    "wof:lastmodified":1566667821,
+    "wof:lastmodified":1706240550,
     "wof:name":"Otdanda",
     "wof:parent_id":1092049257,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327475535
+    ],
     "wof:tags":[]
 },
   "bbox": [

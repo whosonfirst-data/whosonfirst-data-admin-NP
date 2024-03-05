@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":8006027
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8006028
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"b3d469a347659987ed9cbf0cace0fdbd",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1259721221,
-    "wof:lastmodified":1566671228,
+    "wof:lastmodified":1706240557,
     "wof:name":"Pilingdanda",
     "wof:parent_id":1092050137,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259921773
+    ],
     "wof:tags":[]
 },
   "bbox": [

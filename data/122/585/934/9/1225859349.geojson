@@ -10,6 +10,9 @@
     "geom:latitude":27.8336,
     "geom:longitude":84.29713,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"4.0",
+    "gn:admin3_code":"38.0",
+    "gn:admin4_code":"380003.0",
     "gn:asciiname":"Khalte",
     "gn:country_code":"NP",
     "gn:dem":258,
@@ -57,10 +60,16 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1283220
+        "gn:id":1283220,
+        "wk:page":"Khalte"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8002718
+        ]
     },
     "wof:country":"NP",
-    "wof:geomhash":"48b10be6fa125ab7bb747ddfaa3f9fe4",
+    "wof:geomhash":"ed096270cfb5d7b5120ca259b721de93",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,20 +87,22 @@
         }
     ],
     "wof:id":1225859349,
-    "wof:lastmodified":1566672030,
+    "wof:lastmodified":1706240551,
     "wof:name":"Khalte",
     "wof:parent_id":1092050053,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360232783
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    84.29713000000002,
+    84.29713,
     27.8336,
-    84.29713000000002,
+    84.29713,
     27.8336
 ],
-  "geometry": {"coordinates":[84.29713000000002,27.8336],"type":"Point"}
+  "geometry": {"coordinates":[84.29713,27.8336],"type":"Point"}
 }

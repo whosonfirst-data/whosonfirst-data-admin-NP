@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7988273
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7988330
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"cb04a9e0a80077235c7634f5fdf63b6f",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1243482593,
-    "wof:lastmodified":1566670284,
+    "wof:lastmodified":1706240556,
     "wof:name":"Durakholagaun",
     "wof:parent_id":1092049579,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276576117
+    ],
     "wof:tags":[]
 },
   "bbox": [

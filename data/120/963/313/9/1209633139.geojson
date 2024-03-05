@@ -10,6 +10,9 @@
     "geom:latitude":28.06697,
     "geom:longitude":81.70845,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"570019.0",
     "gn:asciiname":"Sidhaniya",
     "gn:country_code":"NP",
     "gn:dem":166,
@@ -43,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1282789
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8008055
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"8cc6d518b37ff7b766a76ce5093472d9",
     "wof:hierarchy":[
@@ -52,13 +60,15 @@
         }
     ],
     "wof:id":1209633139,
-    "wof:lastmodified":1566667492,
+    "wof:lastmodified":1706240548,
     "wof:name":"Sidhaniya",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226773841
+    ],
     "wof:tags":[]
 },
   "bbox": [

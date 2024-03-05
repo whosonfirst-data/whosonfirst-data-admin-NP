@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"84.29976,27.83277,84.29976,27.83277",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Khalte"
@@ -58,7 +60,7 @@
         "wk:page":"Khalte"
     },
     "wof:country":"NP",
-    "wof:geomhash":"14e27a96f69641222e0a97d70eb86d4b",
+    "wof:geomhash":"85b2e23bbf6e2b4bc992661d98f7685a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,20 +78,22 @@
         }
     ],
     "wof:id":1360232783,
-    "wof:lastmodified":1566669516,
+    "wof:lastmodified":1706240551,
     "wof:name":"Khalte",
     "wof:parent_id":1092050053,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1225859349
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.29975999999998,
+    84.29976,
     27.83277,
-    84.29975999999998,
+    84.29976,
     27.83277
 ],
-  "geometry": {"coordinates":[84.29975999999998,27.83277],"type":"Point"}
+  "geometry": {"coordinates":[84.29976000000001,27.83277],"type":"Point"}
 }

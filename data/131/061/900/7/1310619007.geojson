@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"85.58428,27.72214,85.58428,27.72214",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "S\u0101l\u1e6dh\u0101\u0303\u1e6di",
@@ -64,12 +66,14 @@
         }
     ],
     "wof:id":1310619007,
-    "wof:lastmodified":1566669439,
+    "wof:lastmodified":1706240565,
     "wof:name":"Salthati",
     "wof:parent_id":1092048887,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1310543251
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

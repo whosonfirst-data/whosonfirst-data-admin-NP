@@ -10,6 +10,9 @@
     "geom:latitude":27.11367,
     "geom:longitude":85.75,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"5",
+    "gn:admin3_code":"19",
+    "gn:admin4_code":"190076",
     "gn:asciiname":"Dhadkhola",
     "gn:country_code":"NP",
     "gn:dem":408,
@@ -47,8 +50,13 @@
     "wof:concordances":{
         "gn:id":10328202
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7992121
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"9ab22a9041ed937ea8eaf2e5b3a3209d",
+    "wof:geomhash":"11369ee9a5864d395777069da55e3f1c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,20 +74,22 @@
         }
     ],
     "wof:id":1193033931,
-    "wof:lastmodified":1566668384,
+    "wof:lastmodified":1706240544,
     "wof:name":"Dhadkhola",
     "wof:parent_id":1092049639,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209965133
+    ],
     "wof:tags":[]
 },
   "bbox": [
     85.75,
-    27.11367000000001,
+    27.11367,
     85.75,
-    27.11367000000001
+    27.11367
 ],
-  "geometry": {"coordinates":[85.75,27.11367000000001],"type":"Point"}
+  "geometry": {"coordinates":[85.75,27.11367],"type":"Point"}
 }

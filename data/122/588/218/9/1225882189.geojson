@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7954682
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7954681
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"5dc8a7436cf163d46672569a18a49a5a",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1225882189,
-    "wof:lastmodified":1566671578,
+    "wof:lastmodified":1706240551,
     "wof:name":"Laljhoda",
     "wof:parent_id":1092050367,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310047615
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":7985343
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7985346
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"49c9dc401454325b5e10481bee1539c6",
+    "wof:geomhash":"237b8d071fb29dafb509619dd882b937",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1260007927,
-    "wof:lastmodified":1566668788,
+    "wof:lastmodified":1706240558,
     "wof:name":"Hansu",
     "wof:parent_id":1092049495,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326656323
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    82.37628000000002,
+    82.37628,
     28.71216,
-    82.37628000000002,
+    82.37628,
     28.71216
 ],
-  "geometry": {"coordinates":[82.37628000000002,28.71216],"type":"Point"}
+  "geometry": {"coordinates":[82.37627999999999,28.71216],"type":"Point"}
 }

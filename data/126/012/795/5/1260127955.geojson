@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":7951853
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7951838
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"aed606a2ac1314666377e706cd4936a5",
+    "wof:geomhash":"8c4ca3991dbd2678fc85ef1a410feb1c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1260127955,
-    "wof:lastmodified":1566668733,
+    "wof:lastmodified":1706240558,
     "wof:name":"Gewadanda",
     "wof:parent_id":1092048173,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360132757
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    87.91230999999998,
-    26.87699000000001,
-    87.91230999999998,
-    26.87699000000001
+    87.91231,
+    26.87699,
+    87.91231,
+    26.87699
 ],
-  "geometry": {"coordinates":[87.91230999999998,26.87699000000001],"type":"Point"}
+  "geometry": {"coordinates":[87.91231000000001,26.87699],"type":"Point"}
 }

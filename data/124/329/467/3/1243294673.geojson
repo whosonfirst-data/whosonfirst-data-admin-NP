@@ -47,8 +47,15 @@
     "name:nep_x_preferred":[
         "\u092c\u0947\u0932\u094c\u0930\u0940 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
+    "name:nep_x_variant":[
+        "\u092c\u0947\u0932\u094c\u0930\u0940 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
+    ],
     "name:pol_x_preferred":[
         "Sreepur"
+    ],
+    "name:und_x_variant":[
+        "Kanchanpur",
+        "Bilauri"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,6 +68,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7959113
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1283586
+        ]
     },
     "wof:country":"NP",
     "wof:geomhash":"632e441025c369c1d16ca71118df95d3",
@@ -81,13 +93,15 @@
         }
     ],
     "wof:id":1243294673,
-    "wof:lastmodified":1566670679,
+    "wof:lastmodified":1706240556,
     "wof:name":"Belauri",
     "wof:parent_id":1092048227,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293018749
+    ],
     "wof:tags":[]
 },
   "bbox": [

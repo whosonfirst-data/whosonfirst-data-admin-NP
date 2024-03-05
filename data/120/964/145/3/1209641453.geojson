@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":7946146
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7946122
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"980160859441f8629df894158ed3636e",
     "wof:hierarchy":[
@@ -49,13 +54,15 @@
         }
     ],
     "wof:id":1209641453,
-    "wof:lastmodified":1566667503,
+    "wof:lastmodified":1706240548,
     "wof:name":"Katpatte",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310529677
+    ],
     "wof:tags":[]
 },
   "bbox": [

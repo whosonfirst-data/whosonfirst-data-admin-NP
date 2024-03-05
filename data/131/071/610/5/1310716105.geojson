@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"84.52828,27.58762,84.52828,27.58762",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:nep_x_preferred":[
         "Jhuw\u0101ni\u0307\u0304"
@@ -49,7 +51,7 @@
         "wk:page":"Jhawani"
     },
     "wof:country":"NP",
-    "wof:geomhash":"e539cebbec8160a2bd968d9ff9783aa2",
+    "wof:geomhash":"00135e3fab5c8929b0dfdd20824a25c4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,20 +69,22 @@
         }
     ],
     "wof:id":1310716105,
-    "wof:lastmodified":1566669148,
+    "wof:lastmodified":1706240564,
     "wof:name":"Jhuwani",
     "wof:parent_id":1092050101,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1310246999
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    84.52828000000002,
+    84.52828,
     27.58762,
-    84.52828000000002,
+    84.52828,
     27.58762
 ],
-  "geometry": {"coordinates":[84.52828000000002,27.58762],"type":"Point"}
+  "geometry": {"coordinates":[84.52828,27.58762],"type":"Point"}
 }

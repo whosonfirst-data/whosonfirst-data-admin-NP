@@ -10,6 +10,9 @@
     "geom:latitude":28.52432,
     "geom:longitude":82.02773,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"55",
+    "gn:admin4_code":"550011",
     "gn:asciiname":"Bureli",
     "gn:country_code":"NP",
     "gn:dem":580,
@@ -43,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1283566
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7988209
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"ef342009cafddd78fdb2318ba68f32df",
     "wof:hierarchy":[
@@ -52,13 +60,15 @@
         }
     ],
     "wof:id":1209624929,
-    "wof:lastmodified":1566667490,
+    "wof:lastmodified":1706240548,
     "wof:name":"Bureli",
     "wof:parent_id":85632465,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326858533
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"85.90968,27.49721,85.90968,27.49721",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:nep_x_preferred":[
         "J\u0101nte"
@@ -48,7 +50,7 @@
         "gn:id":10323696
     },
     "wof:country":"NP",
-    "wof:geomhash":"696d87c921ce6be96a5b3db754773d89",
+    "wof:geomhash":"beb1860f33fb5b248b0875a8d42d8011",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,20 +68,22 @@
         }
     ],
     "wof:id":1360102943,
-    "wof:lastmodified":1566669681,
+    "wof:lastmodified":1706240547,
     "wof:name":"Jate",
     "wof:parent_id":1092049711,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209457129
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    85.90968000000002,
+    85.90968,
     27.49721,
-    85.90968000000002,
+    85.90968,
     27.49721
 ],
-  "geometry": {"coordinates":[85.90968000000002,27.49721],"type":"Point"}
+  "geometry": {"coordinates":[85.90967999999999,27.49721],"type":"Point"}
 }

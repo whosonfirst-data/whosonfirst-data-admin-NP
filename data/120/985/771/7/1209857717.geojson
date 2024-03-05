@@ -59,6 +59,11 @@
     "wof:concordances":{
         "gn:id":7979222
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7979219
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"68b0ef614e8d5bc300064c394215fed8",
     "wof:hierarchy":[
@@ -78,13 +83,15 @@
         }
     ],
     "wof:id":1209857717,
-    "wof:lastmodified":1566667665,
+    "wof:lastmodified":1706240549,
     "wof:name":"Chainpur",
     "wof:parent_id":1092050453,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243305969
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":7944358
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7944353
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"b77ae560ae69796bbacc8b0513e2ddcc",
+    "wof:geomhash":"b7d2568c61986a1809ff0635a0c30e60",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1260128291,
-    "wof:lastmodified":1566668719,
+    "wof:lastmodified":1706240558,
     "wof:name":"Serabesi",
     "wof:parent_id":1092050535,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310246867
+    ],
     "wof:tags":[]
 },
   "bbox": [
     86.001,
-    27.67494000000001,
+    27.67494,
     86.001,
-    27.67494000000001
+    27.67494
 ],
-  "geometry": {"coordinates":[86.001,27.67494000000001],"type":"Point"}
+  "geometry": {"coordinates":[86.001,27.67494],"type":"Point"}
 }

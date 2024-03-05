@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":7943142
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7943161
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"61f03b5d77d477d0dca1ef6439edde8a",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1293427623,
-    "wof:lastmodified":1566666394,
+    "wof:lastmodified":1706240563,
     "wof:name":"Khokutar",
     "wof:parent_id":1092049207,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309947837
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":7997846
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7998310
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"375e94fa6afb4a51c0772a4442428d56",
+    "wof:geomhash":"db6c82b6f51894aaeb99d96bdfdd1a4e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1226484039,
-    "wof:lastmodified":1566671889,
+    "wof:lastmodified":1706240553,
     "wof:name":"Khadahitol",
     "wof:parent_id":1092049923,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260228923
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    87.12706999999997,
+    87.12707,
     26.51659,
-    87.12706999999997,
+    87.12707,
     26.51659
 ],
-  "geometry": {"coordinates":[87.12706999999997,26.51659],"type":"Point"}
+  "geometry": {"coordinates":[87.12707,26.51659],"type":"Point"}
 }

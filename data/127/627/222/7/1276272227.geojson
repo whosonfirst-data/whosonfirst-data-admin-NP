@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":7979432
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7979433
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"4f858ba39086b1e1ea2afa0c5720a8aa",
+    "wof:geomhash":"a87573af519fe3b3e7431a666e826f6f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1276272227,
-    "wof:lastmodified":1566666737,
+    "wof:lastmodified":1706240560,
     "wof:name":"Baluwa",
     "wof:parent_id":1092050453,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276594719
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    84.79153000000002,
+    84.79153,
     27.12544,
-    84.79153000000002,
+    84.79153,
     27.12544
 ],
-  "geometry": {"coordinates":[84.79153000000002,27.12544],"type":"Point"}
+  "geometry": {"coordinates":[84.79152999999999,27.12544],"type":"Point"}
 }

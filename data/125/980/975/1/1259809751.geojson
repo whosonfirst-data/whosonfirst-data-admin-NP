@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":7988992
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7989027
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"395ad5e2f797634ac47e90ea54adfb42",
+    "wof:geomhash":"f797d35cc327ad4c1e34bec36d1ea382",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1259809751,
-    "wof:lastmodified":1566671124,
+    "wof:lastmodified":1706240558,
     "wof:name":"Thulo Him",
     "wof:parent_id":1092049579,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310033885
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    82.35826999999998,
+    82.35827,
     28.50172,
-    82.35826999999998,
+    82.35827,
     28.50172
 ],
-  "geometry": {"coordinates":[82.35826999999998,28.50172],"type":"Point"}
+  "geometry": {"coordinates":[82.35827,28.50172],"type":"Point"}
 }

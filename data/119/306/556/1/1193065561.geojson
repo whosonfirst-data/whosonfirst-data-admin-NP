@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":8000558
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8000555
+        ]
+    },
     "wof:country":"NP",
     "wof:geomhash":"f116fafe30cd754516516ee0f93e1629",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1193065561,
-    "wof:lastmodified":1566668276,
+    "wof:lastmodified":1706240545,
     "wof:name":"Masahar",
     "wof:parent_id":1092050939,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242822235
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -10,6 +10,9 @@
     "geom:latitude":28.1264,
     "geom:longitude":81.53552,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"2.0",
+    "gn:admin3_code":"57.0",
+    "gn:admin4_code":"570046.0",
     "gn:asciiname":"Udharapur",
     "gn:country_code":"NP",
     "gn:dem":148,
@@ -48,8 +51,13 @@
     "wof:concordances":{
         "gn:id":1283624
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8008577
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"b592c09e984a90373984e0e31cf09f9e",
+    "wof:geomhash":"365807c368e677ec132fe34ba2fe3015",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,20 +75,22 @@
         }
     ],
     "wof:id":1226452165,
-    "wof:lastmodified":1566671319,
+    "wof:lastmodified":1706240553,
     "wof:name":"Udharapur",
     "wof:parent_id":1092050297,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243480755
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    81.53551999999998,
+    81.53552,
     28.1264,
-    81.53551999999998,
+    81.53552,
     28.1264
 ],
-  "geometry": {"coordinates":[81.53551999999998,28.1264],"type":"Point"}
+  "geometry": {"coordinates":[81.53552000000001,28.1264],"type":"Point"}
 }

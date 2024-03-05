@@ -10,6 +10,9 @@
     "geom:latitude":27.56764,
     "geom:longitude":84.31378,
     "gn:admin1_code":"00",
+    "gn:admin2_code":"11",
+    "gn:admin3_code":"35.0",
+    "gn:admin4_code":"350016.0",
     "gn:asciiname":"Khadrauli",
     "gn:country_code":"NP",
     "gn:dem":172,
@@ -47,8 +50,13 @@
     "wof:concordances":{
         "gn:id":1283207
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7934511
+        ]
+    },
     "wof:country":"NP",
-    "wof:geomhash":"d1bb457b72cf21a5682b997c993b4c28",
+    "wof:geomhash":"1a8314229f6b40dc851b49f82b113e22",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,20 +74,22 @@
         }
     ],
     "wof:id":1276457907,
-    "wof:lastmodified":1566666669,
+    "wof:lastmodified":1706240560,
     "wof:name":"Khadrauli",
     "wof:parent_id":1092050101,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-np",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276917671
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    84.31378000000002,
+    84.31378,
     27.56764,
-    84.31378000000002,
+    84.31378,
     27.56764
 ],
-  "geometry": {"coordinates":[84.31378000000002,27.56764],"type":"Point"}
+  "geometry": {"coordinates":[84.31377999999999,27.56764],"type":"Point"}
 }
